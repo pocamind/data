@@ -1,0 +1,15 @@
+{
+  "storm link": {
+    "name": "Storm Link",
+    "desc": "While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.",
+    "rarity": "Common",
+    "category": "Stormcaller",
+    "reqs": "static link => WND = 50s, LTN = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "brain death": {
+    "name": "Brain Death",
+    "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "WND = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "scorchblood": {
+    "name": "Scorchblood",
+    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "FLM = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "blood and iron": {
+    "name": "Blood and Iron",
+    "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "MTL = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "electrolyte": {
+    "name": "Electrolyte",
+    "desc": "Hitting Bloodrend mantras while having temporary health applies Shocked while removing a portion of temporary health.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "LTN = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "malevolent sapper": {
+    "name": "Malevolent Sapper",
+    "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "SDW = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "cold blooded": {
+    "name": "Cold Blooded",
+    "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "ICE = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

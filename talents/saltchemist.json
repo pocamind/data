@@ -1,0 +1,71 @@
+{
+  "perpetual distillery": {
+    "name": "Perpetual Distillery",
+    "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath: saltchemist => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "aromatic salts": {
+    "name": "Aromatic Salts",
+    "desc": "Alter your brews to create lingering clouds of mist on shattering . Does not count towards the ingredient limit.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath: saltchemist => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "antithetic salts": {
+    "name": "Antithetic Salts",
+    "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath: saltchemist => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: saltchemist": {
+    "name": "Oath: Saltchemist",
+    "desc": "You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "INT = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Wildcard Mantra": 1,
+      "Carry Load": 20,
+      "Support Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "biotic salts": {
+    "name": "Biotic Salts",
+    "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath: saltchemist => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

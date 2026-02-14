@@ -1,0 +1,15 @@
+{
+  "grand skewer": {
+    "name": "Grand Skewer",
+    "desc": "Press [F] during the windup of Grand Javelin to activate. Your Grand Javelin now carries opponents through the air.",
+    "rarity": "Rare",
+    "category": "Javelin Lord",
+    "reqs": "LTN = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

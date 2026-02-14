@@ -1,0 +1,17 @@
+{
+  "conditioned swimmer": {
+    "name": "Conditioned Swimmer",
+    "desc": "You lose less hunger and thirst while swimming.",
+    "rarity": "Common",
+    "category": "Waterborne",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

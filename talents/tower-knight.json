@@ -1,0 +1,15 @@
+{
+  "unbreakable": {
+    "name": "Unbreakable",
+    "desc": "Reduces the time you spend stunned after being block broken.",
+    "rarity": "Outfit",
+    "category": "Tower Knight",
+    "reqs": "FTD = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

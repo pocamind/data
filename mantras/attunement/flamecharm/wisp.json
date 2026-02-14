@@ -1,0 +1,14 @@
+{
+  "flame wisp": {
+    "name": "Flame Wisp",
+    "desc": "Create a servant of flames.\n[Converts 20% of your burn damage to healing (your flames deal reduced damage).]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "FLM = 30r",
+    "vaulted": false
+  }
+}

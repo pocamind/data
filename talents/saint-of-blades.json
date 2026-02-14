@@ -1,0 +1,41 @@
+{
+  "medium weapons unbounded": {
+    "name": "Medium Weapons Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.",
+    "rarity": "Common",
+    "category": "Saint of Blades",
+    "reqs": "MED = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "light weapons unbounded": {
+    "name": "Light Weapons Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
+    "rarity": "Common",
+    "category": "Saint of Blades",
+    "reqs": "LHT = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "heavy weapons unbounded": {
+    "name": "Heavy Weapons Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
+    "rarity": "Common",
+    "category": "Saint of Blades",
+    "reqs": "HVY = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "mercy kill": {
+    "name": "Mercy Kill",
+    "desc": "When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.",
+    "rarity": "Quest",
+    "category": "Weapon Master",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "switchblade [med]": {
+    "name": "Switchblade [MED]",
+    "desc": "You can now utilise Dagger talents when not wielding a dagger.",
+    "rarity": "Advanced",
+    "category": "Weapon Master",
+    "reqs": "MED = 50r, LHT = 50s",
+    "exclusive": [
+      "Switchblade [HVY]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "warrior's swing": {
+    "name": "Warrior's Swing",
+    "desc": "Reduces incoming damage if hit during Heavy swing hyper armor.",
+    "rarity": "Common",
+    "category": "Weapon Master",
+    "reqs": "HVY = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "showstopper": {
+    "name": "Showstopper",
+    "desc": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.",
+    "rarity": "Rare",
+    "category": "Weapon Master",
+    "reqs": "STR = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "matador": {
+    "name": "Matador",
+    "desc": "Deal +20% more damage to human enemies with hyperarmor.",
+    "rarity": "Common",
+    "category": "Weapon Master",
+    "reqs": "AGL = 5s, STR = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "switchblade [hvy]": {
+    "name": "Switchblade [HVY]",
+    "desc": "You can now utilise Dagger talents when not wielding a dagger.",
+    "rarity": "Advanced",
+    "category": "Weapon Master",
+    "reqs": "HVY = 50r, LHT = 50s",
+    "exclusive": [
+      "Switchblade [MED]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "brutal momentum": {
+    "name": "Brutal Momentum",
+    "desc": "[Heavy Weapons] Successfully dodging will give you hyperarmour on your next swing.",
+    "rarity": "Common",
+    "category": "Weapon Master",
+    "reqs": "HVY = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

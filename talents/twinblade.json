@@ -1,0 +1,34 @@
+{
+  "face cutter": {
+    "name": "Face Cutter",
+    "desc": "[Twinblade] Your Spine Cutter now deals an additional hit.",
+    "rarity": "Rare",
+    "category": "Twinblade",
+    "reqs": "spine cutter => MED = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2,
+      "Carry Load": 6
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "turning of the wheel": {
+    "name": "Turning of the Wheel",
+    "desc": "[Twinblade] After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.",
+    "rarity": "Rare",
+    "category": "Twinblade",
+    "reqs": "MED = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 6,
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

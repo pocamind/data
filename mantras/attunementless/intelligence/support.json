@@ -1,0 +1,14 @@
+{
+  "summon cauldron": {
+    "name": "Summon Cauldron",
+    "desc": "Make a cauldron appear from your memories.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "INT = 20r",
+    "vaulted": false
+  }
+}

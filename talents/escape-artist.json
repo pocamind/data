@@ -1,0 +1,15 @@
+{
+  "robber baron": {
+    "name": "Robber Baron",
+    "desc": "You hold onto more of your items when defeated.",
+    "rarity": "Common",
+    "category": "Escape Artist",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

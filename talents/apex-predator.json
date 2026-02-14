@@ -1,0 +1,45 @@
+{
+  "sunken predator": {
+    "name": "Sunken Predator",
+    "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
+    "rarity": "Common",
+    "category": "Apex Predator",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "carnivore": {
+    "name": "Carnivore",
+    "desc": "In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.",
+    "rarity": "Rare",
+    "category": "Apex Predator",
+    "reqs": "STR = 5s, WLL = 5s",
+    "exclusive": [
+      "Herbivore"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grand feast": {
+    "name": "Grand Feast",
+    "desc": "Regain ether, tempo, blood, and health from killing.",
+    "rarity": "Common",
+    "category": "Apex Predator",
+    "reqs": "carnivore => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

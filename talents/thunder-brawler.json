@@ -1,0 +1,17 @@
+{
+  "discharge": {
+    "name": "Discharge",
+    "desc": "[Light Weapons] On 5th successfull attack you will discharge static dealing lightning damage to those nearby.",
+    "rarity": "Common",
+    "category": "Thunder Brawler",
+    "reqs": "LTN = 15s, LHT = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 7
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

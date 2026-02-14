@@ -1,0 +1,80 @@
+{
+  "fatal stealth": {
+    "name": "Fatal Stealth",
+    "desc": "You deal increased backstab damage to opponents based on how high your stealth stat currently is.\n[*Note: +0.2% damage per 1 Stealth from Equipment.]",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "stature break": {
+    "name": "Stature Break",
+    "desc": "Landing a backstab of any kind disables posture for 8 seconds.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "flanking maneuvers": {
+    "name": "Flanking Maneuvers",
+    "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "tacet minimization": {
+    "name": "Tacet Minimization",
+    "desc": "Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "murmur: tacet => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "backstabber": {
+    "name": "Backstabber",
+    "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "AGL = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "executioner's frenzy": {
+    "name": "Executioner's Frenzy",
+    "desc": "Landing a light attack while an opponent's posture is paused reduces their assassination cooldown by 5 seconds.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

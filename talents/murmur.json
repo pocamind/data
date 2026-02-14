@@ -1,0 +1,56 @@
+{
+  "murmur: rhythm": {
+    "name": "Murmur: Rhythm",
+    "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
+    "rarity": "Murmur",
+    "category": "Murmur",
+    "reqs": "()",
+    "exclusive": [
+      "Oath: Soulbreaker"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ardour scream": {
+    "name": "Ardour Scream",
+    "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 12.5% more damage and 50% more posture damage for 10s.",
+    "rarity": "Common",
+    "category": "Murmur",
+    "reqs": "murmur: ardour => STR = 15s, WLL = 40s",
+    "exclusive": [
+      "Oath: Soulbreaker"
+    ],
+    "innates": {
+      "Sanity": 9
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "murmur: ardour": {
+    "name": "Murmur: Ardour",
+    "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
+    "rarity": "Murmur",
+    "category": "Murmur",
+    "reqs": "()",
+    "exclusive": [
+      "Oath: Soulbreaker"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "murmur: tacet": {
+    "name": "Murmur: Tacet",
+    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+    "rarity": "Murmur",
+    "category": "Murmur",
+    "reqs": "()",
+    "exclusive": [
+      "Oath: Soulbreaker"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

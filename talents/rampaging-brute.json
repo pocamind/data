@@ -1,0 +1,52 @@
+{
+  "unwavering resolve": {
+    "name": "Unwavering Resolve",
+    "desc": "Getting parried punishes your posture up to 33% less.\n[*Note: 20% to 33% punishment reduction between 10 and 40 Strength.]",
+    "rarity": "Common",
+    "category": "Rampaging Brute",
+    "reqs": "STR = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 2,
+      "Carry Load": 4
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "shield breaker": {
+    "name": "Shield Breaker",
+    "desc": "Blunt damage now fully ignores the posture bonus from shields.",
+    "rarity": "Common",
+    "category": "Rampaging Brute",
+    "reqs": "STR = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 4,
+      "Posture": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "million ton piercer": {
+    "name": "Million Ton Piercer",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Strength.]",
+    "rarity": "Advanced",
+    "category": "Rampaging Brute",
+    "reqs": "unwavering resolve, shield breaker => STR = 90s",
+    "exclusive": [
+      "Ether Overdrive [FLM]",
+      "Ether Overdrive [ICE]",
+      "Ether Overdrive [LTN]",
+      "Ether Overdrive [WND]",
+      "Ether Overdrive [SDW]",
+      "Ether Overdrive [MTL] "
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "hip shooter [hvy]": {
+    "name": "Hip Shooter [HVY]",
+    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "HVY = 50r, LHT = 25s",
+    "exclusive": [
+      "Hip Shooter [MED]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "prime ether bullets": {
+    "name": "Prime Ether Bullets",
+    "desc": "Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling.",
+    "rarity": "Advanced",
+    "category": "Gunslinger",
+    "reqs": "INT = 60s, LHT = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "bulletproof [lht]": {
+    "name": "Bulletproof [LHT]",
+    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "LHT = 20r",
+    "exclusive": [
+      "Armor Piercing [LHT]",
+      "Armor Piercing [MED]",
+      "Bulletproof [FTD]",
+      "Bulletproof [MED]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "hip shooter [med]": {
+    "name": "Hip Shooter [MED]",
+    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "MED = 50r, LHT = 25s",
+    "exclusive": [
+      "Hip Shooter [HVY]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "quickdraw": {
+    "name": "Quickdraw",
+    "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "LHT = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "armor piercing [med]": {
+    "name": "Armor Piercing [MED]",
+    "desc": "[Guns] Your gun attacks now ignore 10% of an opponent's physical armor. Applied multiplicatively before PEN is applied.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "MED = 30r",
+    "exclusive": [
+      "Bulletproof [FTD]",
+      "Bulletproof [MED]",
+      "Bulletproof [LHT]",
+      "Armor Piercing [LHT]"
+    ],
+    "innates": {
+      "Ether": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "parting gift": {
+    "name": "Parting Gift",
+    "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "LHT = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "bulletproof [ftd]": {
+    "name": "Bulletproof [FTD]",
+    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "FTD = 20r",
+    "exclusive": [
+      "Armor Piercing [LHT]",
+      "Armor Piercing [MED]",
+      "Bulletproof [LHT]",
+      "Bulletproof [MED]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "true ether bullets [med]": {
+    "name": "True Ether Bullets [MED]",
+    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "MED = 20r, INT = 30s",
+    "exclusive": [
+      "True Ether Bullets [LHT]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "armor piercing [lht]": {
+    "name": "Armor Piercing [LHT]",
+    "desc": "[Guns] Your gun attacks now ignore 10% of an opponent's physical armor. Applied multiplicatively before PEN is applied.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "LHT = 30r",
+    "exclusive": [
+      "Bulletproof [FTD]",
+      "Bulletproof [MED]",
+      "Bulletproof [LHT]",
+      "Armor Piercing [MED]"
+    ],
+    "innates": {
+      "Ether": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "bulletproof [med]": {
+    "name": "Bulletproof [MED]",
+    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "MED = 20r",
+    "exclusive": [
+      "Armor Piercing [LHT]",
+      "Armor Piercing [MED]",
+      "Bulletproof [FTD]",
+      "Bulletproof [LHT]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "true ether bullets [lht]": {
+    "name": "True Ether Bullets [LHT]",
+    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "LHT = 20r, INT = 30s",
+    "exclusive": [
+      "True Ether Bullets [MED]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

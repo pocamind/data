@@ -1,0 +1,15 @@
+{
+  "impervious slumber": {
+    "name": "Impervious Slumber",
+    "desc": "Getting hit while knocked no longer resets your time knocked.",
+    "rarity": "Rare",
+    "category": "Meditative Trance",
+    "reqs": "FTD = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "flash point": {
+    "name": "Flash Point",
+    "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
+    "rarity": "Common",
+    "category": "Lava Serpent",
+    "reqs": "eruption path: lava serpent => FLM = 55s",
+    "exclusive": [
+      "The Final Act",
+      "Wraith Path: Twisted Puppets"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "the floor is lava": {
+    "name": "The Floor is Lava",
+    "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
+    "rarity": "Advanced",
+    "category": "Lava Serpent",
+    "reqs": "eruption path: lava serpent => FLM = 100s",
+    "exclusive": [
+      "The Final Act",
+      "Wraith Path: Twisted Puppets"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "empowered eruption": {
+    "name": "Empowered Eruption",
+    "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
+    "rarity": "Common",
+    "category": "Lava Serpent",
+    "reqs": "eruption path: lava serpent => FLM = 50s",
+    "exclusive": [
+      "The Final Act",
+      "Wraith Path: Twisted Puppets"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "eruption path: lava serpent": {
+    "name": "Eruption Path: Lava Serpent",
+    "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
+    "rarity": "Common",
+    "category": "Lava Serpent",
+    "reqs": "FLM = 40s",
+    "exclusive": [
+      "The Final Act",
+      "Wraith Path: Twisted Puppets",
+      "Flashboil",
+      "Boiling Point"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

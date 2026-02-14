@@ -1,0 +1,14 @@
+{
+  "exhaustion strike": {
+    "name": "Exhaustion Strike",
+    "desc": "Execute a quick strike, emptying your posture when landed.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Willpower"
+    ],
+    "reqs": "WLL = 40r",
+    "vaulted": false
+  }
+}

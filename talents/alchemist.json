@@ -1,0 +1,93 @@
+{
+  "wild alchemy": {
+    "name": "Wild Alchemy",
+    "desc": "You have a chance to brew 2 potions instead of 1.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "INT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "apothecary": {
+    "name": "Apothecary",
+    "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "INT = 10s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "chemist's bag": {
+    "name": "Chemist's Bag",
+    "desc": "You no longer drop Potions on death.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "INT = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "potion quaffer [ftd]": {
+    "name": "Potion Quaffer [FTD]",
+    "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
+    "rarity": "Rare",
+    "category": "Alchemist",
+    "reqs": "FTD = 15r, INT = 30s",
+    "exclusive": [
+      "Potion Quaffer [WIL]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "chain reaction": {
+    "name": "Chain Reaction",
+    "desc": "When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "INT = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "potion quaffer [wil]": {
+    "name": "Potion Quaffer [WIL]",
+    "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
+    "rarity": "Rare",
+    "category": "Alchemist",
+    "reqs": "WLL = 15r, INT = 30s",
+    "exclusive": [
+      "Potion Quaffer [FTD]"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "placebo effect": {
+    "name": "Placebo Effect",
+    "desc": "Drinking potions near allies will share the potion's effect with them.",
+    "rarity": "Rare",
+    "category": "Alchemist",
+    "reqs": "INT = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "aeronade": {
+    "name": "Aeronade",
+    "desc": "Your trap automatically detonates on contact with an object.",
+    "rarity": "Common",
+    "category": "Aeromancer",
+    "reqs": "WND = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "gale trap": {
+    "name": "Gale Trap",
+    "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
+    "rarity": "Common",
+    "category": "Aeromancer",
+    "reqs": "wind step => WND = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "vacuum punch": {
+    "name": "Vacuum Punch",
+    "desc": "Your Gale Punch pulls enemies in before you hit them.",
+    "rarity": "Common",
+    "category": "Aeromancer",
+    "reqs": "WND = 15s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "stifled jump": {
+    "name": "Stifled Jump",
+    "desc": "Enemies who jump while suffocated by you are dazed.",
+    "rarity": "Rare",
+    "category": "Aeromancer",
+    "reqs": "suffocating impact => STR = 15s, WND = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "suffocating impact": {
+    "name": "Suffocating Impact",
+    "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
+    "rarity": "Common",
+    "category": "Aeromancer",
+    "reqs": "galebreather => STR = 15s, WND = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "aerogliding": {
+    "name": "Aerogliding",
+    "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
+    "rarity": "Rare",
+    "category": "Aeromancer",
+    "reqs": "AGL = 30s, WND = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

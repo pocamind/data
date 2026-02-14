@@ -1,0 +1,38 @@
+{
+  "dread whisper": {
+    "name": "Dread Whisper",
+    "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "CHA = 50r",
+    "vaulted": false
+  },
+  "sing": {
+    "name": "Sing",
+    "desc": "Charm those around you with your powerful voice.        \n",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "CHA = 25r",
+    "vaulted": false
+  },
+  "taunt": {
+    "name": "Taunt",
+    "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "CHA = 25r",
+    "vaulted": false
+  }
+}

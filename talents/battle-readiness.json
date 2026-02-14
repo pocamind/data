@@ -1,0 +1,67 @@
+{
+  "steel tread": {
+    "name": "Steel Tread",
+    "desc": "Gain a bit of knockback resistance as well as damage resistence against attacks that ragdoll you.",
+    "rarity": "Faction",
+    "category": "Battle Readiness",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "riot shield": {
+    "name": "Riot Shield",
+    "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
+    "rarity": "Faction",
+    "category": "Battle Readiness",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "armored plating": {
+    "name": "Armored Plating",
+    "desc": "Put on extra plating on your armor, giving you 50 temporary health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.",
+    "rarity": "Faction",
+    "category": "Battle Readiness",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "crossguard": {
+    "name": "Crossguard",
+    "desc": "If you are using a sword, you gain 10% chip against other opponents using swords.",
+    "rarity": "Faction",
+    "category": "Battle Readiness",
+    "reqs": "MED = 1s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "oppressive force": {
+    "name": "Oppressive Force",
+    "desc": "When using a weapon found in the Merit Armoury, gain a unique two-hit flourish that does not knock back opponents and dazes them. Second hit only procs if the first hit.\n[*Note: The second hit deals 80% of your weapon's scaled damage and cannot be damage modified otherwise.]",
+    "rarity": "Faction",
+    "category": "Battle Readiness",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

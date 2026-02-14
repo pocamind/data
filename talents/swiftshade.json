@@ -1,0 +1,32 @@
+{
+  "none left behind": {
+    "name": "None Left Behind",
+    "desc": "You can now shadestep to pick up knocked humanoids far away from you. 4s CD.",
+    "rarity": "Common",
+    "category": "Swiftshade",
+    "reqs": "dustlunge => AGL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "dustlunge": {
+    "name": "Dustlunge",
+    "desc": "You can now assassinate enemies from much farther range, shadestepping to their location if they're too far. You automatically assassinate other nearby enemies.\n[*This talent loses some effectiveness when below its requirements.]",
+    "rarity": "Advanced",
+    "category": "Swiftshade",
+    "reqs": "lowstride, lights out, deep wound, unseen threat => AGL = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "moving fortress": {
+    "name": "Moving Fortress",
+    "desc": "Blocking no longer slows you down as much.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "FTD = 5s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "reinforced armor": {
+    "name": "Reinforced Armor",
+    "desc": "Incoming PEN is reduced by 30%.\n[Note: Scales with investment. Having less Fortitude reduces the effect of this Talent, with a minimum of 10%.]",
+    "rarity": "Advanced",
+    "category": "Bastion",
+    "reqs": "battle tendency, braced collapse, perseverance, moving fortress => FTD = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "perseverance": {
+    "name": "Perseverance",
+    "desc": "When you're knocked down, you get back up again more quickly.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "FTD = 30s, WLL = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "battle tendency": {
+    "name": "Battle Tendency",
+    "desc": "You can breathe more easily with +20% faster posture regen.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "FTD = 15s, WLL = 15s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 2,
+      "Sanity": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "braced collapse": {
+    "name": "Braced Collapse",
+    "desc": "After being block broken, the next attack to hit you deals reduced damage.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "FTD = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

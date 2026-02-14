@@ -1,0 +1,57 @@
+{
+  "shaper mimicry": {
+    "name": "Shaper Mimicry",
+    "desc": "The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.",
+    "rarity": "Oath",
+    "category": "Visionshaper",
+    "reqs": "oath: visionshaper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: visionshaper": {
+    "name": "Oath: Visionshaper",
+    "desc": "You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands.",
+    "rarity": "Oath",
+    "category": "Visionshaper",
+    "reqs": "CHA = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2,
+      "Support Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "reality shift": {
+    "name": "Reality Shift",
+    "desc": "Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.",
+    "rarity": "Oath",
+    "category": "Visionshaper",
+    "reqs": "oath: visionshaper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "cheap trick": {
+    "name": "Cheap Trick",
+    "desc": "When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. Briefly disappear after knocking an enemy.",
+    "rarity": "Oath",
+    "category": "Visionshaper",
+    "reqs": "oath: visionshaper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

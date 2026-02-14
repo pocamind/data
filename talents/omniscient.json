@@ -1,0 +1,58 @@
+{
+  "successive prediction": {
+    "name": "Successive Prediction",
+    "desc": "Predicting an attack will briefly allow you to predict another.",
+    "rarity": "Common",
+    "category": "Omniscient",
+    "reqs": "INT = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Ether": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "twelve steps ahead": {
+    "name": "Twelve Steps Ahead",
+    "desc": "Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 40s. This effect stacks up for up to 30 seconds.\n[*Note: The penalty cooldown scales off of your Intelligence, with 30s at 80 Intelligence.]",
+    "rarity": "Common",
+    "category": "Omniscient",
+    "reqs": "INT = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "intelligence unbounded": {
+    "name": "Intelligence Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your intelligence to its fullest.",
+    "rarity": "Common",
+    "category": "Omniscient",
+    "reqs": "INT = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "all knowing": {
+    "name": "All Knowing",
+    "desc": "Your prediction now ignores the range requirement to reflect attacks.",
+    "rarity": "Rare",
+    "category": "Omniscient",
+    "reqs": "INT = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Ether": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

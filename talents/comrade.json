@@ -1,0 +1,28 @@
+{
+  "lord's tithe": {
+    "name": "Lord's Tithe",
+    "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast.",
+    "rarity": "Rare",
+    "category": "Comrade",
+    "reqs": "FTD = 40s, SDW = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grand support": {
+    "name": "Grand Support",
+    "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.",
+    "rarity": "Rare",
+    "category": "Comrade",
+    "reqs": "FTD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

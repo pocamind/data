@@ -1,0 +1,26 @@
+{
+  "lightning stream": {
+    "name": "Lightning Stream",
+    "desc": "A stream of lightning.\t",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "spark swap": {
+    "name": "Spark Swap",
+    "desc": "Almost instantaneous swap of location with whoever your cursor is on.",
+    "stars": 3,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 50r",
+    "vaulted": false
+  }
+}

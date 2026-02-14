@@ -1,0 +1,26 @@
+{
+  "devouring eye": {
+    "name": "Devouring Eye",
+    "desc": "Summon a fragile eye that consumes the ether of those who try to cast mantras within it's gaze.",
+    "stars": 2,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  },
+  "shade devour": {
+    "name": "Shade Devour",
+    "desc": "Gorge on your own health for raw strength.",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 20r",
+    "vaulted": false
+  }
+}

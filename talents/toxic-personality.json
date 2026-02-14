@@ -1,0 +1,28 @@
+{
+  "manipulator": {
+    "name": "Manipulator",
+    "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
+    "rarity": "Common",
+    "category": "Toxic Personality",
+    "reqs": "charismatic cast => CHA = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "narcissist": {
+    "name": "Narcissist",
+    "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.",
+    "rarity": "Common",
+    "category": "Toxic Personality",
+    "reqs": "charismatic cast => CHA = 60s",
+    "exclusive": [
+      "Tough Love"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

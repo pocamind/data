@@ -1,0 +1,15 @@
+{
+  "hungry flames": {
+    "name": "Hungry Flames",
+    "desc": "When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.",
+    "rarity": "Common",
+    "category": "Pyromancer",
+    "reqs": "flamecharmer => FTD = 15s, FLM = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

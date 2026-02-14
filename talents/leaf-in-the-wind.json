@@ -1,0 +1,32 @@
+{
+  "observation": {
+    "name": "Observation",
+    "desc": "Dodge frames are larger if you cancel your roll immediately.",
+    "rarity": "Rare",
+    "category": "Leaf in the Wind",
+    "reqs": "AGL = 20s",
+    "exclusive": [
+      "Risky Moves"
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "safety dance": {
+    "name": "Safety Dance",
+    "desc": "Your base dodge frames are increased by 0.05s.",
+    "rarity": "Rare",
+    "category": "Leaf in the Wind",
+    "reqs": "AGL = 20s",
+    "exclusive": [
+      "Risky Moves"
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

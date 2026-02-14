@@ -1,0 +1,26 @@
+{
+  "metal rampart": {
+    "name": "Metal Rampart",
+    "desc": "Form a medium size pillar at the user location .",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 1r",
+    "vaulted": false
+  },
+  "metal ball": {
+    "name": "Metal Ball",
+    "desc": "Form yourself into a metal ball and rush forward.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  }
+}

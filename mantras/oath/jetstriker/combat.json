@@ -1,0 +1,14 @@
+{
+  "fake strike": {
+    "name": "Fake Strike",
+    "desc": "Trick your opponent and quickly go behind them.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Jetstriker"
+    ],
+    "reqs": "oath: jetstriker => ()",
+    "vaulted": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fortitude unbounded": {
+    "name": "Fortitude Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
+    "rarity": "Common",
+    "category": "Great Wall",
+    "reqs": "FTD = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "echoing lunatic": {
+    "name": "Echoing Lunatic",
+    "desc": "Your Ardour Scream now applies a bit of insanity.",
+    "rarity": "Common",
+    "category": "Mindbreaker",
+    "reqs": "ardour scream => WLL = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 3
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "lose your mind": {
+    "name": "Lose Your Mind",
+    "desc": "Deal more damage the more insane you are. Grants 15% damage at maximum insanity.\n[Note: Will only proc below 70% sanity, and has diminishing returns.]",
+    "rarity": "Rare",
+    "category": "Mindbreaker",
+    "reqs": "STR = 30s, FTD = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "shared misery": {
+    "name": "Shared Misery",
+    "desc": "Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity.",
+    "rarity": "Common",
+    "category": "Mindbreaker",
+    "reqs": "WLL = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "piercing will": {
+    "name": "Piercing Will",
+    "desc": "When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.",
+    "rarity": "Rare",
+    "category": "Mindbreaker",
+    "reqs": "WLL = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

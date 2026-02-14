@@ -1,0 +1,14 @@
+{
+  "mirror illusion": {
+    "name": "Mirror Illusion",
+    "desc": "Mirror your opponents and use their arsenal to your advantage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Visionshaper"
+    ],
+    "reqs": "oath: visionshaper => ()",
+    "vaulted": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "flame within": {
+    "name": "Flame Within",
+    "desc": "An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.",
+    "rarity": "Common",
+    "category": "Amoran Seeker",
+    "reqs": "FLM = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "in a hurry": {
+    "name": "In a Hurry",
+    "desc": "Grip players faster whenever you have a speed boost active.",
+    "rarity": "Common",
+    "category": "Cutthroat",
+    "reqs": "AGL = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "muffled screams": {
+    "name": "Muffled Screams",
+    "desc": "You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reduce the effectiveness of talents that slow your execution.",
+    "rarity": "Common",
+    "category": "Cutthroat",
+    "reqs": "AGL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "blood thirsty": {
+    "name": "Blood Thirsty",
+    "desc": "Gain a speed boost after causing an opponent heavy blood loss.",
+    "rarity": "Common",
+    "category": "Cutthroat",
+    "reqs": "AGL = 45s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

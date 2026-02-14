@@ -1,0 +1,58 @@
+{
+  "fists of navae": {
+    "name": "Fists of Navae",
+    "desc": "Your flourish timer lasts longer with fists.",
+    "rarity": "Outfit",
+    "category": "Navaen Nomad",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "fists of fortitude": {
+    "name": "Fists of Fortitude",
+    "desc": "[Fists] Every 6 hits with your fist builds of a shield of endurance reducing incoming damage by 15%. 70s CD.",
+    "rarity": "Rare",
+    "category": "Navaen Nomad",
+    "reqs": "FTD = 20s, LHT = 20s",
+    "exclusive": [
+      "Orbital Ice"
+    ],
+    "innates": {
+      "Carry Load": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "way of navae": {
+    "name": "Way of Navae",
+    "desc": "Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.",
+    "rarity": "Quest",
+    "category": "Navaen Nomad",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "captain etrea": {
+    "name": "Captain Etrea",
+    "desc": "Moving while with a shield no longer slows you down.",
+    "rarity": "Common",
+    "category": "Navaen Nomad",
+    "reqs": "moving fortress => FTD = 20s, STR = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 4
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

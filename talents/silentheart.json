@@ -1,0 +1,161 @@
+{
+  "mayhem": {
+    "name": "Mayhem",
+    "desc": "Initiate a special dash attack by pressing Basic Attack during the start of your dodge.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "relentless hunt": {
+    "name": "Relentless Hunt",
+    "desc": "Basic Attack while doing an Aerial Attack to initiate a special gap closer attack.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "merciless blade": {
+    "name": "Merciless Blade",
+    "desc": "You now execute enemies much faster.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "true vantage": {
+    "name": "True Vantage",
+    "desc": "Venting makes you invisible briefly while boosting your speed.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "silent cascade": {
+    "name": "Silent Cascade",
+    "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "flow state": {
+    "name": "Flow State",
+    "desc": "Enter a moment of extreme focus in which you can change the windup of your special attack with the correct timing.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: silentheart": {
+    "name": "Oath: Silentheart",
+    "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements.\n[Note: Only reduces requirements by 25, not half.]",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "STR = 25s, AGL = 25s, CHA = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 2,
+      "Health": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "rising star": {
+    "name": "Rising Star",
+    "desc": "Press CTRL + M2 to activate a special uppercut attack.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "vengeful pursuit": {
+    "name": "Vengeful Pursuit",
+    "desc": "Your running Basic Attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "dread fighter": {
+    "name": "Dread Fighter",
+    "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ankle cutter": {
+    "name": "Ankle Cutter",
+    "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "unmatched dexterity": {
+    "name": "Unmatched Dexterity",
+    "desc": "Press X to Quick Swap between weapons within your toolbar.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath: silentheart => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

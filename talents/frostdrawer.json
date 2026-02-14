@@ -1,0 +1,69 @@
+{
+  "expert frostdrawer": {
+    "name": "Expert Frostdrawer",
+    "desc": "You can now obtain 2-star Frostdrawer mantras.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "adept frostdrawer => ICE = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "master frostdrawer": {
+    "name": "Master Frostdrawer",
+    "desc": "You can now obtain 3-star Frostdrawer mantras.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "expert frostdrawer => ICE = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "frostdrawer": {
+    "name": "Frostdrawer",
+    "desc": "Grants you the ability to command Ice as a Frostdrawer.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "ICE = 1s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "adept frostdrawer": {
+    "name": "Adept Frostdrawer",
+    "desc": "You can now obtain 1-star Frostdrawer mantras.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "frostdrawer => ICE = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "cold front": {
+    "name": "Cold Front",
+    "desc": "Your Vent is imbued with glacial frost.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "cryonis => ICE = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "rupture": {
+    "name": "Rupture",
+    "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath: chainwarden => ()",
+    "vaulted": false
+  },
+  "impel": {
+    "name": "Impel",
+    "desc": "Blast through your opponent's guard and pull them towards you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath: chainwarden => ()",
+    "vaulted": false
+  },
+  "restrain": {
+    "name": "Restrain",
+    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath: chainwarden => ()",
+    "vaulted": false
+  }
+}

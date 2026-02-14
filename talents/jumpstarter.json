@@ -1,0 +1,41 @@
+{
+  "electrify": {
+    "name": "Electrify",
+    "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
+    "rarity": "Common",
+    "category": "Jumpstarter",
+    "reqs": "LTN = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "amplified reflexes": {
+    "name": "Amplified Reflexes",
+    "desc": "Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.",
+    "rarity": "Common",
+    "category": "Jumpstarter",
+    "reqs": "electrify => LTN = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "amplified rage": {
+    "name": "Amplified Rage",
+    "desc": "Amped now grants you an additional +10% weapon damage.",
+    "rarity": "Common",
+    "category": "Jumpstarter",
+    "reqs": "electrify => LTN = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

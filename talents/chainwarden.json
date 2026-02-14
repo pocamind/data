@@ -1,0 +1,44 @@
+{
+  "chainlash": {
+    "name": "Chainlash",
+    "desc": "On flourish, whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.",
+    "rarity": "Oath",
+    "category": "Chainwarden",
+    "reqs": "oath: chainwarden => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: chainwarden": {
+    "name": "Oath: Chainwarden",
+    "desc": "You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.",
+    "rarity": "Oath",
+    "category": "Chainwarden",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "perpetual wrath": {
+    "name": "Perpetual Wrath",
+    "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
+    "rarity": "Oath",
+    "category": "Chainwarden",
+    "reqs": "oath: chainwarden => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

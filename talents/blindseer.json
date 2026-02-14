@@ -1,0 +1,32 @@
+{
+  "all-seeing eye": {
+    "name": "All-Seeing Eye",
+    "desc": "The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.",
+    "rarity": "Oath",
+    "category": "Blindseer",
+    "reqs": "oath: blindseer => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: blindseer": {
+    "name": "Oath: Blindseer",
+    "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
+    "rarity": "Oath",
+    "category": "Blindseer",
+    "reqs": "WLL = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Wildcard Mantra": 1,
+      "Sanity": 10,
+      "Support Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "peripheral vision": {
+    "name": "Peripheral Vision",
+    "desc": "Your glare now ignores if your opponent is facing you.",
+    "rarity": "Rare",
+    "category": "Hunter",
+    "reqs": "WLL = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

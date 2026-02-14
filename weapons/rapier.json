@@ -1,0 +1,147 @@
+{
+  "golden swordfish": {
+    "name": "Golden Swordfish",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 75r",
+    "damage": 15.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.1,
+    "speed": 1.1,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.0
+    }
+  },
+  "deepspindle": {
+    "name": "Deepspindle",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 50r, SDW = 75r",
+    "damage": 14.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 4.0,
+      "Shadowcast": 9.0
+    }
+  },
+  "quickfang": {
+    "name": "Quickfang",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "()",
+    "damage": 12.0,
+    "pen": 0.05,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.08,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 7.0
+    }
+  },
+  "needle's eye": {
+    "name": "Needle's Eye",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 75r",
+    "damage": 16.5,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.05,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.5
+    }
+  },
+  "inquisitor's thorn": {
+    "name": "Inquisitor's Thorn",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 40r",
+    "damage": 14.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.08,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 7.0
+    }
+  },
+  "apprentice rapier": {
+    "name": "Apprentice Rapier",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 25r",
+    "damage": 13.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 6.0
+    }
+  },
+  "skull piercer (bleed)": {
+    "name": "Skull Piercer (Bleed)",
+    "type": "Rapier",
+    "damageType": "Slash + Bleed",
+    "reqs": "LHT = 75r",
+    "damage": 14.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.5,
+    "speed": 1.08,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 7.5
+    }
+  },
+  "crucible rapier": {
+    "name": "Crucible Rapier",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 75r",
+    "damage": 15.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.0
+    }
+  },
+  "kyrstreza": {
+    "name": "Kyrstreza",
+    "type": "Rapier",
+    "damageType": "Slash",
+    "reqs": "LHT = 75r",
+    "damage": 15.0,
+    "pen": 0.3,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.5
+    }
+  }
+}

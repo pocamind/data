@@ -1,0 +1,28 @@
+{
+  "artisan chef": {
+    "name": "Artisan Chef",
+    "desc": "The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%.",
+    "rarity": "Common",
+    "category": "Tavernkeep",
+    "reqs": "CHA = 15s, INT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "master chef": {
+    "name": "Master Chef",
+    "desc": "Buffs applied by food you cook now have their buffs amplified by +30%.",
+    "rarity": "Common",
+    "category": "Tavernkeep",
+    "reqs": "CHA = 15s, INT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

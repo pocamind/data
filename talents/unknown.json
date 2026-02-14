@@ -1,0 +1,109 @@
+{
+  "jetstream": {
+    "name": "Jetstream",
+    "desc": "The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Wind Armor Percentage": 8,
+      "Health": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "umami": {
+    "name": "Umami",
+    "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "silencer's song [lht]": {
+    "name": "Silencer's Song [LHT]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
+    "category": "Unknown",
+    "reqs": "silencer's blade => LHT = 100r, WND = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "silencer's song [med]": {
+    "name": "Silencer's Song [MED]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
+    "category": "Unknown",
+    "reqs": "silencer's blade => MED = 100r, WND = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "overwhelming might": {
+    "name": "Overwhelming Might",
+    "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
+    "rarity": "Outfit",
+    "category": "Unknown",
+    "reqs": "STR = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "simmerbloom": {
+    "name": "Simmerbloom",
+    "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "FLM = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "silencer's song [hvy]": {
+    "name": "Silencer's Song [HVY]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
+    "category": "Unknown",
+    "reqs": "silencer's blade => HVY = 100r, WND = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grotesque resilience": {
+    "name": "Grotesque Resilience",
+    "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

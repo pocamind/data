@@ -1,0 +1,58 @@
+{
+  "lowstride": {
+    "name": "Lowstride",
+    "desc": "When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "AGL = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "unseen threat": {
+    "name": "Unseen Threat",
+    "desc": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 5s.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "deep wound => AGL = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "lights out": {
+    "name": "Lights Out",
+    "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "AGL = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "deep wound": {
+    "name": "Deep Wound",
+    "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "AGL = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

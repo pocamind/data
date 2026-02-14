@@ -1,0 +1,54 @@
+{
+  "rending impact": {
+    "name": "Rending Impact",
+    "desc": "[Greataxe] Block breaking an enemy applies an extended knockdown.",
+    "rarity": "Rare",
+    "category": "Bruiser",
+    "reqs": "HVY = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "heavy fatigue": {
+    "name": "Heavy Fatigue",
+    "desc": "[Greataxe] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.",
+    "rarity": "Rare",
+    "category": "Bruiser",
+    "reqs": "HVY = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "impairing blow": {
+    "name": "Impairing Blow",
+    "desc": "[Greataxe] Basic attacks will slightly slow your enemy for 2s. Running attacks will slightly slow for 3s. Gain +20% posture damage against enemies with speed boosts",
+    "rarity": "Common",
+    "category": "Bruiser",
+    "reqs": "HVY = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "brazen blow": {
+    "name": "Brazen Blow",
+    "desc": "[Greataxe] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. 20s CD.",
+    "rarity": "Common",
+    "category": "Bruiser",
+    "reqs": "impairing blow => HVY = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

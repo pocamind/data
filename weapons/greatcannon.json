@@ -1,0 +1,34 @@
+{
+  "smouldering hollow": {
+    "name": "Smouldering Hollow",
+    "type": "Greatcannon",
+    "damageType": "Blunt",
+    "reqs": "STR = 30r, HVY = 75r",
+    "damage": 27.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 9.0,
+    "range": 7.5,
+    "speed": 0.81,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 8.6
+    }
+  },
+  "edenbrand hellcoil": {
+    "name": "Edenbrand Hellcoil",
+    "type": "Greatcannon",
+    "damageType": "Blunt",
+    "reqs": "STR = 30r, HVY = 75r",
+    "damage": 27.0,
+    "pen": 0.0,
+    "chip": 0.2,
+    "weight": 10.0,
+    "range": 8.5,
+    "speed": 0.8,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 8.3
+    }
+  }
+}

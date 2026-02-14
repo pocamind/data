@@ -1,0 +1,14 @@
+{
+  "tempest blitz": {
+    "name": "Tempest Blitz",
+    "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "LTN = 30r, WND = 30r",
+    "vaulted": false
+  }
+}

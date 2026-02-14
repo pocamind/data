@@ -1,0 +1,60 @@
+{
+  "heretic's sutra": {
+    "name": "Heretic's Sutra",
+    "desc": "A chant that steers you into the state of insanity for 20 seconds.\n[*Note: Procs Piercing Will for 15 seconds.]\n[*Note: 0.4s to 0.1s wind-up and 24s to 18s cooldown between 30 and 100 Willpower.]",
+    "rarity": "Quest",
+    "category": "Heretic",
+    "reqs": "WLL = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "sin stacker": {
+    "name": "Sin Stacker",
+    "desc": "Your All the Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.",
+    "rarity": "Rare",
+    "category": "Heretic",
+    "reqs": "all the dead gods => WLL = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 8
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "all above, gods below": {
+    "name": "All Above, Gods Below",
+    "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
+    "rarity": "Advanced",
+    "category": "Heretic",
+    "reqs": "all the dead gods => INT = 100s, WLL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 20
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "all the dead gods": {
+    "name": "All the Dead Gods",
+    "desc": "Your Basic Attacks now apply anti-heal for 8s.\n[Note: Scales with investment. Having less Willpower reduces the effect of this Talent.]",
+    "rarity": "Rare",
+    "category": "Heretic",
+    "reqs": "INT = 40s, WLL = 65s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 7
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "hero's assist": {
+    "name": "Hero's Assist",
+    "desc": "Heroes come to your aid based on your Saint Stance.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "oath: saintsworn => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: saintsworn": {
+    "name": "Oath: Saintsworn",
+    "desc": "A vow to the fallen heroes. Press L to swap to Saintsblade.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "ICE = 15s, FLM = 15s, LTN = 15s, WND = 15s, SDW = 15s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra Slot": 2,
+      "Support Mantra Slot": 2,
+      "Wildcard Mantra Slot": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "saint's synergy": {
+    "name": "Saint's Synergy",
+    "desc": "25% of your highest element scaling is applied to other elemental damage.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "oath: saintsworn => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ether proselyte": {
+    "name": "Ether Proselyte",
+    "desc": "All of your Elemental Mantras below Lv. 5 are 1 Mantra Level higher. Your Mantras are converted to the element of your active stance.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "oath: saintsworn => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "saint's negation": {
+    "name": "Saint's Negation",
+    "desc": "Once per stance cycle you can fully block an attack that matches your Saint Stance.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "oath: saintsworn => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "saint's overload": {
+    "name": "Saint's Overload",
+    "desc": "After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers [are] increased by 10%.",
+    "rarity": "Oath",
+    "category": "Saintsworn",
+    "reqs": "oath: saintsworn => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

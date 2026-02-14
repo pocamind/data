@@ -1,0 +1,17 @@
+{
+  "concussive flash": {
+    "name": "Concussive Flash",
+    "desc": "Your blinding light now concusses foes.",
+    "rarity": "Common",
+    "category": "Duelist Flame",
+    "reqs": "STR = 25s, FLM = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

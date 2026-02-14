@@ -1,0 +1,46 @@
+{
+  "oath: contractor": {
+    "name": "Oath: Contractor",
+    "desc": "Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.",
+    "rarity": "Oath",
+    "category": "Contractor",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "hidden tendril": {
+    "name": "Hidden Tendril",
+    "desc": "Landing any physical mantra or critical places a hidden tendril on the opponent.",
+    "rarity": "Oath",
+    "category": "Contractor",
+    "reqs": "oath: contractor => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Ether": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "string trick": {
+    "name": "String Trick",
+    "desc": "Pulls together any two opponents you've attached Hidden Tendrils to.",
+    "rarity": "Oath",
+    "category": "Contractor",
+    "reqs": "oath: contractor, hidden tendril => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

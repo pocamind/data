@@ -1,0 +1,15 @@
+{
+  "windwaker": {
+    "name": "Windwaker",
+    "desc": "Call upon a gust of wind to propel your boat even faster.",
+    "rarity": "Quest",
+    "category": "Scholar of the Cloud",
+    "reqs": "WND = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "static blade": {
+    "name": "Static Blade",
+    "desc": "[Medium Weapons] Hitting blocks or blocking or parrying hits will now generate an electric chage in your blade, granting a small speed buff. Charges can stack up to 5 times.",
+    "rarity": "Common",
+    "category": "Thunderblade",
+    "reqs": "thundercaller => MED = 20s, LTN = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "overcharge": {
+    "name": "Overcharge",
+    "desc": "Your next dash after activating Static Blade is enhanced by lightning.",
+    "rarity": "Common",
+    "category": "Thunderblade",
+    "reqs": "LTN = 45s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "gathering electricity [str]": {
+    "name": "Gathering Electricity [STR]",
+    "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
+    "rarity": "Common",
+    "category": "Thunderblade",
+    "reqs": "static blade => STR = 25r, LTN = 65s",
+    "exclusive": [
+      "Gathering Electricity [AGL]"
+    ],
+    "innates": {
+      "Carry Load": 10,
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "gathering electricity [agl]": {
+    "name": "Gathering Electricity [AGL]",
+    "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
+    "rarity": "Common",
+    "category": "Thunderblade",
+    "reqs": "static blade => AGL = 25r, LTN = 65s",
+    "exclusive": [
+      "Gathering Electricity [STR]"
+    ],
+    "innates": {
+      "Carry Load": 10,
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

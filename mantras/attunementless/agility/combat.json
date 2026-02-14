@@ -1,0 +1,14 @@
+{
+  "revenge": {
+    "name": "Revenge",
+    "desc": "A vengeful rush.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "AGL = 5r",
+    "vaulted": false
+  }
+}

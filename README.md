@@ -23,3 +23,9 @@ If you're a developer trying to access the data, API wrappers are provided in th
 ### TODO 
 
 You do not need an API key or anything, as the wrappers pull data straight from this repo.
+
+### internal TODO
+make github workflow tests that verify:
+- any prerequisites used do actually exist in here
+- all 'reqs' fields are actually parsable
+- verify correctenss of the maintained api wrappers

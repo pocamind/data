@@ -1,0 +1,41 @@
+{
+  "golden tongue": {
+    "name": "Golden Tongue",
+    "desc": "Typing gives a random buff to you and those around you. (60 second cooldown)",
+    "rarity": "Rare",
+    "category": "Silvertongue",
+    "reqs": "CHA = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "snake oil": {
+    "name": "Snake Oil",
+    "desc": "Okay, the amount you're charging people for your items is downright criminal. But I'm just a talent description, I can't stop you.",
+    "rarity": "Common",
+    "category": "Silvertongue",
+    "reqs": "CHA = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "friends in high places": {
+    "name": "Friends in High Places",
+    "desc": "Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!",
+    "rarity": "Common",
+    "category": "Silvertongue",
+    "reqs": "CHA = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

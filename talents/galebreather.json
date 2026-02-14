@@ -1,0 +1,56 @@
+{
+  "expert galebreather": {
+    "name": "Expert Galebreather",
+    "desc": "You can now obtain 2-star Galebreather mantras.",
+    "rarity": "Common",
+    "category": "Galebreather",
+    "reqs": "adept galebreather => WND = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "master galebreather": {
+    "name": "Master Galebreather",
+    "desc": "You can now obtain 3-star Galebreather mantras.",
+    "rarity": "Common",
+    "category": "Galebreather",
+    "reqs": "expert galebreather => WND = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "adept galebreather": {
+    "name": "Adept Galebreather",
+    "desc": "You can now obtain 1-star Galebreather mantras.",
+    "rarity": "Common",
+    "category": "Galebreather",
+    "reqs": "galebreather => WND = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "galebreather": {
+    "name": "Galebreather",
+    "desc": "Grants you the ability to command Wind as a Galebreather",
+    "rarity": "Common",
+    "category": "Galebreather",
+    "reqs": "WND = 1s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "blighted touch": {
+    "name": "Blighted Touch",
+    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath: blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: blightsurger": {
+    "name": "Oath: Blightsurger",
+    "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "STR = 80r OR FTD = 80r OR AGL = 80r, LTN = 40s, WND = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Wildcard Mantra": 1,
+      "Combat Mantra": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "sovereign state": {
+    "name": "Sovereign State",
+    "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath: blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "blightpierce": {
+    "name": "Blightpierce",
+    "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath: blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "anchor shock": {
+    "name": "Anchor Shock",
+    "desc": "Your Blightshock prevents targets from using mobility mantras.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath: blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

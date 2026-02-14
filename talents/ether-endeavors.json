@@ -1,0 +1,56 @@
+{
+  "behind you": {
+    "name": "Behind You",
+    "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.",
+    "rarity": "Common",
+    "category": "Ether Endeavors",
+    "reqs": "keen recovery => AGL = 40s, INT = 70s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "reverse leech": {
+    "name": "Reverse Leech",
+    "desc": "Anytime you proc Behind You, steal ether from your opponent too.",
+    "rarity": "Common",
+    "category": "Ether Endeavors",
+    "reqs": "behind you => SDW = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "keen recovery": {
+    "name": "Keen Recovery",
+    "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.",
+    "rarity": "Common",
+    "category": "Ether Endeavors",
+    "reqs": "INT = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 3
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "unwavering focus": {
+    "name": "Unwavering Focus",
+    "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
+    "rarity": "Common",
+    "category": "Ether Endeavors",
+    "reqs": "STR = 10s, INT = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

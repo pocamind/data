@@ -1,0 +1,32 @@
+{
+  "exoskeleton": {
+    "name": "Exoskeleton",
+    "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% of Physical Damage while active.\n[*Note: +5%-+10% between 0 and 40 Fortitude.]",
+    "rarity": "Rare",
+    "category": "Freak of Nature",
+    "reqs": "FTD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "to the finish": {
+    "name": "To The Finish",
+    "desc": "You take up to 10% less damage when below 30% health.\n[*Note: -5%-10% between 20 and 50 Fortitude.]",
+    "rarity": "Rare",
+    "category": "Freak of Nature",
+    "reqs": "FTD = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

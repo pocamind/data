@@ -1,0 +1,17 @@
+{
+  "shadowcast unbounded": {
+    "name": "Shadowcast Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your shadowcast to its fullest.\n[Note: Falling below 75 Shadowcast revokes this Talent.]",
+    "rarity": "Common",
+    "category": "Shadowcast Master",
+    "reqs": "SDW = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 10
+    },
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

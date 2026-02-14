@@ -1,0 +1,170 @@
+{
+  "needle barrage": {
+    "name": "Needle Barrage",
+    "desc": "A barrage of metal rods.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 1r",
+    "vaulted": false
+  },
+  "iron hug": {
+    "name": "Iron Hug",
+    "desc": "Grab your opponent and crush them with your ironclad grip.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 50r",
+    "vaulted": false
+  },
+  "metal rain": {
+    "name": "Metal Rain",
+    "desc": "Rain down a incredible amount of metal rods ",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  },
+  "metal eruption": {
+    "name": "Metal Eruption",
+    "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 1r",
+    "vaulted": false
+  },
+  "metal kick": {
+    "name": "Metal Kick",
+    "desc": "A powerful kick laced with metal.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 20r",
+    "vaulted": false
+  },
+  "metal armament": {
+    "name": "Metal Armament",
+    "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 50r",
+    "vaulted": false
+  },
+  "iron slam": {
+    "name": "Iron Slam",
+    "desc": "Conjure a giant rod of metal and slam it down.\n[*Guardbreaks at Level 5]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 50r",
+    "vaulted": false
+  },
+  "iron quills": {
+    "name": "Iron Quills",
+    "desc": "Conjure metal from within, impaling surrounding enemies.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  },
+  "caltrops": {
+    "name": "Caltrops",
+    "desc": "Throws 6 sharp metal traps.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  },
+  "rocket lance": {
+    "name": "Rocket Lance",
+    "desc": "Create a lance, impale your opponent, and send them flying.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 50r",
+    "vaulted": false
+  },
+  "metal fakeout": {
+    "name": "Metal Fakeout",
+    "desc": "Create a metal clone and appear behind your taget.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  },
+  "oxidizing rush": {
+    "name": "Oxidizing Rush",
+    "desc": "Conjure metal swords and rush forward with them",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  },
+  "metal gatling": {
+    "name": "Metal Gatling",
+    "desc": "A deadly rush of several metallic rods.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 50r",
+    "vaulted": false
+  },
+  "firing line": {
+    "name": "Firing Line",
+    "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "MTL = 30r",
+    "vaulted": false
+  }
+}

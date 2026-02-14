@@ -1,0 +1,67 @@
+{
+  "polished armor": {
+    "name": "Polished Armor",
+    "desc": "You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "MTL = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "metal absorption": {
+    "name": "Metal Absorption",
+    "desc": "Your 'Iron Hug' also absorbs armor from the enemy.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "MTL = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "metal eater": {
+    "name": "Metal Eater",
+    "desc": "When you have no Ether, consume armor durability to cast your Ironsing mantras.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "MTL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "metal thief": {
+    "name": "Metal Thief",
+    "desc": "Pulling an opponent absorbs a portion of their current Armor durability.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "MTL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "intuitive repairs": {
+    "name": "Intuitive Repairs",
+    "desc": "Your \"Iron Skin\" repairs armor while it's active.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "MTL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

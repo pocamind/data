@@ -1,0 +1,38 @@
+{
+  "shade step": {
+    "name": "Shade Step",
+    "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  },
+  "encircle": {
+    "name": "Encircle",
+    "desc": "Conjure shadows around your enemy before warp-striking to them.",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 20r",
+    "vaulted": false
+  },
+  "shadow assault": {
+    "name": "Shadow Assault",
+    "desc": "A rush of darkness.        ",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "arc module: null": {
+    "name": "Arc Module: Null",
+    "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath: arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "arc module: eject": {
+    "name": "Arc Module: Eject",
+    "desc": "When block broken with Arc Suit active, eject from the armor.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath: arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "arc module: leap": {
+    "name": "Arc Module: Leap",
+    "desc": "Holding Spacebar after double jumping propels you up for a short duration.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath: arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: arcwarder": {
+    "name": "Oath: Arcwarder",
+    "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "FTD = 20s, FLM = 20s, LTN = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "arc module: dash": {
+    "name": "Arc Module: Dash",
+    "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath: arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "arc module: guard": {
+    "name": "Arc Module: Guard",
+    "desc": "Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath: arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

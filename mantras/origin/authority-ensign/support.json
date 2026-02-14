@@ -1,0 +1,26 @@
+{
+  "glorious charge": {
+    "name": "Glorious Charge",
+    "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.\n[*Note: Requires Authority Ensign Origin's Command Division.]",
+    "stars": 0,
+    "category": "Support",
+    "type": "Origin",
+    "attributes": [
+      "Authority Ensign"
+    ],
+    "reqs": "()",
+    "vaulted": false
+  },
+  "hidden blade": {
+    "name": "Hidden Blade",
+    "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison.\n[*Note: Requires Authority Ensign Origin's Inquisition Division]",
+    "stars": 0,
+    "category": "Support",
+    "type": "Origin",
+    "attributes": [
+      "Authority Ensign"
+    ],
+    "reqs": "()",
+    "vaulted": false
+  }
+}

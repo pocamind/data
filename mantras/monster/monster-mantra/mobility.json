@@ -1,0 +1,14 @@
+{
+  "beast burrow": {
+    "name": "Beast Burrow",
+    "desc": "Burrow underneath the ground before bursting out, knocking enemies up.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "()",
+    "vaulted": false
+  }
+}

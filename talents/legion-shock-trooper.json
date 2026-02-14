@@ -1,0 +1,90 @@
+{
+  "cyclone blade": {
+    "name": "Cyclone Blade",
+    "desc": "After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage, and adding +10% chip damage.",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "air pressure => AGL = 30s, WND = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "wind step": {
+    "name": "Wind Step",
+    "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (5s combat CD, 1s normal CD)",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "WND = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "pressure break [str]": {
+    "name": "Pressure Break [STR]",
+    "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "air pressure => STR = 30r, WND = 65s",
+    "exclusive": [
+      "Pressure Break [AGL]"
+    ],
+    "innates": {
+      "Carry Load": 8,
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "centurion's resolve": {
+    "name": "Centurion's Resolve",
+    "desc": "Your Legion Kata attacks deal 10% more damage.",
+    "rarity": "Outfit",
+    "category": "Legion Shock Trooper",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "air pressure": {
+    "name": "Air Pressure",
+    "desc": "Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "galebreather => AGL = 20s, WND = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "pressure break [agl]": {
+    "name": "Pressure Break [AGL]",
+    "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "air pressure => AGL = 30r, WND = 65s",
+    "exclusive": [
+      "Pressure Break [STR]"
+    ],
+    "innates": {
+      "Carry Load": 8,
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "lethal injection": {
+    "name": "Lethal Injection",
+    "desc": "Inject all of your readied Autobrews into your target. This might sting.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Saltchemist"
+    ],
+    "reqs": "oath: saltchemist => ()",
+    "vaulted": false
+  }
+}

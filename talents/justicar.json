@@ -1,0 +1,67 @@
+{
+  "justicar's renewal": {
+    "name": "Justicar's Renewal",
+    "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (10s cooldown)",
+    "rarity": "Common",
+    "category": "Justicar",
+    "reqs": "jus karita => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "justicar's prowess": {
+    "name": "Justicar's Prowess",
+    "desc": "Jus Karita +30% posture damage against other fist styles.",
+    "rarity": "Common",
+    "category": "Justicar",
+    "reqs": "jus karita => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "swiftkick prodigy": {
+    "name": "Swiftkick Prodigy",
+    "desc": "Hitting successive basic attacks with Jus Karita will give you a temporary speed buff.",
+    "rarity": "Common",
+    "category": "Justicar",
+    "reqs": "jus karita => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "flying swiftkick": {
+    "name": "Flying Swiftkick",
+    "desc": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy and consume your speed boost.",
+    "rarity": "Common",
+    "category": "Justicar",
+    "reqs": "swiftkick prodigy => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "jus karita": {
+    "name": "Jus Karita",
+    "desc": "Adopt the kick-based fighting style of the Justicars.",
+    "rarity": "Common",
+    "category": "Justicar",
+    "reqs": "LHT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

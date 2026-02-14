@@ -1,0 +1,41 @@
+{
+  "officer's training": {
+    "name": "Officer's Training",
+    "desc": "While using a sword or rapier, take 30% less posture damage from Critical Attacks.",
+    "rarity": "Faction",
+    "category": "Dread Imperium",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "target focus": {
+    "name": "Target Focus",
+    "desc": "Enemies you charm take more damage from your squadmates in your party.",
+    "rarity": "Faction",
+    "category": "Dread Imperium",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  },
+  "buster call": {
+    "name": "Buster Call",
+    "desc": "Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. 1d CD.\n[*Note: Applies burn on hit, doesn't knock players.]",
+    "rarity": "Faction",
+    "category": "Dread Imperium",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

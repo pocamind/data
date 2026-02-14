@@ -1,0 +1,32 @@
+{
+  "boiling point": {
+    "name": "Boiling Point",
+    "desc": "Using a fire mantra near your own steam detonates it.",
+    "rarity": "Common",
+    "category": "Vaporborne",
+    "reqs": "flashboil => ICE = 30s, FLM = 30s",
+    "exclusive": [
+      "Wraith Path: Twisted Puppets",
+      "Glass Path: Crystallization",
+      "Eruption Path: Lava Serpent"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "flashboil": {
+    "name": "Flashboil",
+    "desc": "Landing Ice/Fire attacks on burning/chilled enemies extinquishes the flame and generates steam.",
+    "rarity": "Common",
+    "category": "Vaporborne",
+    "reqs": "ICE = 30s, FLM = 30s",
+    "exclusive": [
+      "Wraith Path: Twisted Puppets",
+      "Glass Path: Crystallization",
+      "Eruption Path: Lava Serpent"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

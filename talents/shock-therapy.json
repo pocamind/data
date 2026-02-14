@@ -1,0 +1,41 @@
+{
+  "grounding bolt [lht]": {
+    "name": "Grounding Bolt [LHT]",
+    "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+    "rarity": "Common",
+    "category": "Shock Therapy",
+    "reqs": "LHT = 90r, LTN = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grounding bolt [med]": {
+    "name": "Grounding Bolt [MED]",
+    "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+    "rarity": "Common",
+    "category": "Shock Therapy",
+    "reqs": "MED = 90r, LTN = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grounding bolt [hvy]": {
+    "name": "Grounding Bolt [HVY]",
+    "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+    "rarity": "Common",
+    "category": "Shock Therapy",
+    "reqs": "HVY = 90r, LTN = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

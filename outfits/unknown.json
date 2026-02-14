@@ -1,0 +1,792 @@
+{
+  "hired mercenary": {
+    "name": "Hired Mercenary",
+    "durability": 1000,
+    "resistances": {
+      "Elemental Resistance": 0.1,
+      "Physical Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "()",
+    "mats": {},
+    "notes": 25
+  },
+  "scholar": {
+    "name": "Scholar",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.08,
+      "Elemental Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Scholar's Intuition",
+    "reqs": "()",
+    "mats": {},
+    "notes": 50
+  },
+  "corsair outlaw": {
+    "name": "Corsair Outlaw",
+    "durability": 1200,
+    "resistances": {
+      "Elemental Resistance": 0.1,
+      "Physical Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": "Lightweight",
+    "reqs": "()",
+    "mats": {},
+    "notes": 0
+  },
+  "seamstress's attire": {
+    "name": "Seamstress's Attire",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 135r",
+    "mats": {},
+    "notes": 100
+  },
+  "troublemaker's overcoat": {
+    "name": "Troublemaker's Overcoat",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 135r",
+    "mats": {},
+    "notes": 100
+  },
+  "hive tactician armor": {
+    "name": "Hive Tactician Armor",
+    "durability": 1200,
+    "resistances": {
+      "Wind Resistance": 0.1,
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Brunt",
+    "reqs": "AGL = 25r, TTL = 165r",
+    "mats": {},
+    "notes": 0
+  },
+  "ignition trailblazer": {
+    "name": "Ignition Trailblazer",
+    "durability": 1000,
+    "resistances": {
+      "Blunt Resistance": 0.05,
+      "Flame Resistance": 0.05,
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Perseverance, Strong Stern",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 30
+  },
+  "pathfinder cloak": {
+    "name": "Pathfinder Cloak",
+    "durability": 1200,
+    "resistances": {
+      "Elemental Resistance": 0.08,
+      "Physical Resistance": 0.18
+    },
+    "extraPercents": {},
+    "talent": "Environmentalist",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "martial artist": {
+    "name": "Martial Artist",
+    "durability": 1200,
+    "resistances": {
+      "Flame Resistance": 0.05,
+      "Elemental Resistance": 0.2,
+      "Physical Resistance": 0.3
+    },
+    "extraPercents": {},
+    "talent": "Bruiser's Mixup",
+    "reqs": "STR = 15r, TTL = 165r",
+    "mats": {},
+    "notes": 0
+  },
+  "etrean guard": {
+    "name": "Etrean Guard",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Unbreakable",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 30
+  },
+  "darksteel plate": {
+    "name": "Darksteel Plate",
+    "durability": 2500,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Physical Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Unbreakable",
+    "reqs": "FTD = 20r, TTL = 165r",
+    "mats": {},
+    "notes": 300
+  },
+  "cutthroat light armor": {
+    "name": "Cutthroat Light Armor",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Slash Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Hunter's Reflexes",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "keeper": {
+    "name": "Keeper",
+    "durability": 1000,
+    "resistances": {
+      "Ice Resistance": 0.1,
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.05,
+      "Wind Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "INT = 10r, TTL = 90r",
+    "mats": {},
+    "notes": 25
+  },
+  "cerulean gown": {
+    "name": "Cerulean Gown",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 135r",
+    "mats": {},
+    "notes": 200
+  },
+  "stranded": {
+    "name": "Stranded",
+    "durability": 0,
+    "resistances": {},
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "()",
+    "mats": {},
+    "notes": 0
+  },
+  "vigil sentinel": {
+    "name": "Vigil Sentinel",
+    "durability": 2500,
+    "resistances": {
+      "Flame Resistance": 0.1,
+      "Wind Resistance": 0.25,
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.3,
+      "Shadow Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Vigil's Grace",
+    "reqs": "WLL = 5r, TTL = 165r",
+    "mats": {},
+    "notes": 1000
+  },
+  "hive drone": {
+    "name": "Hive Drone",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Blunt Resistance": 0.05,
+      "Elemental Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Now You See Me",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 10
+  },
+  "diver journeyman robes": {
+    "name": "Diver Journeyman Robes",
+    "durability": 2500,
+    "resistances": {
+      "Elemental Resistance": 0.3,
+      "Blunt Resistance": 0.1,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 30
+  },
+  "cala-mariner": {
+    "name": "Cala-Mariner",
+    "durability": 2200,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Wind Resistance": 0.3,
+      "Elemental Resistance": 0.35,
+      "Blood Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Tidal Shock",
+    "reqs": "WLL = 5r, TTL = 240r",
+    "mats": {},
+    "notes": 2200
+  },
+  "bounty hunter": {
+    "name": "Bounty Hunter",
+    "durability": 1500,
+    "resistances": {
+      "Physical Resistance": 0.2,
+      "Elemental Resistance": 0.1,
+      "Flame Resistance": 0.05
+    },
+    "extraPercents": {},
+    "talent": "Lightweight",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 0
+  },
+  "summer company uniform": {
+    "name": "Summer Company Uniform",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.1,
+      "Slash Resistance": 0.1,
+      "Shadow Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Armor Piercing",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 100
+  },
+  "authority captain uniform": {
+    "name": "Authority Captain Uniform",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "STR = 25r, TTL = 165r",
+    "mats": {},
+    "notes": 500
+  },
+  "diver apprentice robes": {
+    "name": "Diver Apprentice Robes",
+    "durability": 1000,
+    "resistances": {
+      "Elemental Resistance": 0.15,
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "INT = 10r, TTL = 90r",
+    "mats": {},
+    "notes": 50
+  },
+  "flame worshipper armor": {
+    "name": "Flame Worshipper Armor",
+    "durability": 1000,
+    "resistances": {
+      "Flame Resistance": 0.25,
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.05
+    },
+    "extraPercents": {},
+    "talent": "Intrepid Flame",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "skeptic pioneer": {
+    "name": "Skeptic Pioneer",
+    "durability": 1200,
+    "resistances": {
+      "Physical Resistance": 0.12,
+      "Elemental Resistance": 0.12
+    },
+    "extraPercents": {},
+    "talent": "Apothecary",
+    "reqs": "()",
+    "mats": {},
+    "notes": 25
+  },
+  "authority peacekeeper armour": {
+    "name": "Authority Peacekeeper Armour",
+    "durability": 1600,
+    "resistances": {
+      "Physical Resistance": 0.15,
+      "Slash Resistance": 0.1,
+      "Elemental Resistance": 0.1,
+      "Flame Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": "Now You See Me",
+    "reqs": "FTD = 5r, TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "eager tradesman": {
+    "name": "Eager Tradesman",
+    "durability": 1000,
+    "resistances": {
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Knack",
+    "reqs": "()",
+    "mats": {},
+    "notes": 0
+  },
+  "pathfinder sorcerer": {
+    "name": "Pathfinder Sorcerer",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.05,
+      "Elemental Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Now You See Me",
+    "reqs": "INT = 5r",
+    "mats": {},
+    "notes": 30
+  },
+  "whaler initiate": {
+    "name": "Whaler Initiate",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 0
+  },
+  "traveler jacket": {
+    "name": "Traveler Jacket",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "()",
+    "mats": {},
+    "notes": 10
+  },
+  "familiar knight's armor": {
+    "name": "Familiar Knight's Armor",
+    "durability": 1300,
+    "resistances": {
+      "Slash Resistance": 0.1,
+      "Physical Resistance": 0.15,
+      "Flame Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Hyperbody",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "carefree garments": {
+    "name": "Carefree Garments",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.15,
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Fleetfoot",
+    "reqs": "TTL = 105r",
+    "mats": {},
+    "notes": 0
+  },
+  "vigil initiate": {
+    "name": "Vigil Initiate",
+    "durability": 1200,
+    "resistances": {
+      "Blunt Resistance": 0.1,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Paired Soul",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 0
+  },
+  "pathfinder arch-sorcerer": {
+    "name": "Pathfinder Arch-Sorcerer",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Physical Resistance": 0.1,
+      "Thunder Resistance": 0.1,
+      "Ice Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Devastating Power",
+    "reqs": "INT = 25r, TTL = 165r",
+    "mats": {},
+    "notes": 100
+  },
+  "arachnid's weave": {
+    "name": "Arachnid's Weave",
+    "durability": 2100,
+    "resistances": {
+      "Elemental Resistance": 0.35,
+      "Physical Resistance": 0.2,
+      "Thunder Resistance": 0.1,
+      "Metal Resistance": 0.1,
+      "Blood Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": "Corrosive Touch",
+    "reqs": "TTL = 240r",
+    "mats": {},
+    "notes": 1000
+  },
+  "cloak of winds": {
+    "name": "Cloak of Winds",
+    "durability": 1200,
+    "resistances": {
+      "Elemental Resistance": 0.3,
+      "Physical Resistance": 0.2,
+      "Shadow Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Paired Soul",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 0
+  },
+  "11th legion plate": {
+    "name": "11th Legion Plate",
+    "durability": 1500,
+    "resistances": {
+      "Blunt Resistance": 0.3,
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "FTD = 10r, TTL = 90r",
+    "mats": {},
+    "notes": 100
+  },
+  "heretic's memento": {
+    "name": "Heretic's Memento",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Blunt Resistance": 0.1,
+      "Shadow Resistance": 0.05,
+      "Physical Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Underdog",
+    "reqs": "TTL = 240r",
+    "mats": {},
+    "notes": 500
+  },
+  "duelist's attire": {
+    "name": "Duelist's Attire",
+    "durability": 1200,
+    "resistances": {
+      "Physical Resistance": 0.2,
+      "Slash Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 0
+  },
+  "grand pathfinder cloak": {
+    "name": "Grand Pathfinder Cloak",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.2,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Legendary",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 150
+  },
+  "union initiate": {
+    "name": "Union Initiate",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 105r",
+    "mats": {},
+    "notes": 0
+  },
+  "familiar heretic's armor": {
+    "name": "Familiar Heretic's Armor",
+    "durability": 1300,
+    "resistances": {
+      "Slash Resistance": 0.1,
+      "Physical Resistance": 0.15,
+      "Flame Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Soul Rip",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "verdant sniper": {
+    "name": "Verdant Sniper",
+    "durability": 1500,
+    "resistances": {
+      "Wind Resistance": 0.1,
+      "Elemental Resistance": 0.2,
+      "Physical Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 100
+  },
+  "experienced adventurer": {
+    "name": "Experienced Adventurer",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Blunt Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Looter",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 25
+  },
+  "varicosan finery": {
+    "name": "Varicosan Finery",
+    "durability": 1500,
+    "resistances": {
+      "Elemental Resistance": 0.2,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Benefactor",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 100
+  },
+  "pathfinder thaumaturge": {
+    "name": "Pathfinder Thaumaturge",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": "Now You See Me",
+    "reqs": "INT = 10r, TTL = 90r",
+    "mats": {},
+    "notes": 30
+  },
+  "merchant robes": {
+    "name": "Merchant Robes",
+    "durability": 1200,
+    "resistances": {},
+    "extraPercents": {},
+    "talent": "Mates' Rates",
+    "reqs": "()",
+    "mats": {},
+    "notes": 25
+  },
+  "trickster's habit": {
+    "name": "Trickster's Habit",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Blunt Resistance": 0.15,
+      "Elemental Resistance": 0.35
+    },
+    "extraPercents": {},
+    "talent": "Mocking Favor",
+    "reqs": "TTL = 195r",
+    "mats": {},
+    "notes": 400
+  },
+  "familiar demon's armor": {
+    "name": "Familiar Demon's Armor",
+    "durability": 2500,
+    "resistances": {
+      "Flame Resistance": 0.1,
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Demon Step",
+    "reqs": "TTL = 240r",
+    "mats": {},
+    "notes": 5000
+  },
+  "veteran adventurer": {
+    "name": "Veteran Adventurer",
+    "durability": 1500,
+    "resistances": {
+      "Flame Resistance": 0.05,
+      "Elemental Resistance": 0.15,
+      "Physical Resistance": 0.15,
+      "Shadow Resistance": 0.05
+    },
+    "extraPercents": {},
+    "talent": "Foolish Outburst",
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 100
+  },
+  "familiar assassin's armor": {
+    "name": "Familiar Assassin's Armor",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Bane",
+    "reqs": "TTL = 240r",
+    "mats": {},
+    "notes": 15000
+  },
+  "jester's garb": {
+    "name": "Jester's Garb",
+    "durability": 2500,
+    "resistances": {
+      "Blunt Resistance": 0.15,
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.35
+    },
+    "extraPercents": {},
+    "talent": "Mocking Favor",
+    "reqs": "TTL = 195r",
+    "mats": {},
+    "notes": 400
+  },
+  "shadow hunter": {
+    "name": "Shadow Hunter",
+    "durability": 1500,
+    "resistances": {
+      "Shadow Resistance": 0.1,
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Now You See Me",
+    "reqs": "AGL = 10r",
+    "mats": {},
+    "notes": 0
+  },
+  "ignition union uniform": {
+    "name": "Ignition Union Uniform",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.22,
+      "Physical Resistance": 0.22
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 105r",
+    "mats": {},
+    "notes": 0
+  },
+  "familiar occulist's armor": {
+    "name": "Familiar Occulist's Armor",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Shadow Resistance": 0.2,
+      "Physical Resistance": 0.25
+    },
+    "extraPercents": {},
+    "talent": "Life Leech",
+    "reqs": "TTL = 240r",
+    "mats": {},
+    "notes": 10000
+  },
+  "whaler coat": {
+    "name": "Whaler Coat",
+    "durability": 1500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.15
+    },
+    "extraPercents": {},
+    "talent": null,
+    "reqs": "TTL = 165r",
+    "mats": {},
+    "notes": 100
+  },
+  "navaen nomad robes": {
+    "name": "Navaen Nomad Robes",
+    "durability": 1800,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Shadow Resistance": 0.15,
+      "Blunt Resistance": 0.1,
+      "Ice Resistance": 0.15,
+      "Elemental Resistance": 0.1
+    },
+    "extraPercents": {},
+    "talent": "Fists of Navae (Bugged)",
+    "reqs": "TTL = 90r",
+    "mats": {},
+    "notes": 100
+  },
+  "ferryman's coat": {
+    "name": "Ferryman's Coat",
+    "durability": 2500,
+    "resistances": {
+      "Wind Resistance": 0.05,
+      "Blunt Resistance": 0.05,
+      "Thunder Resistance": 0.25,
+      "Elemental Resistance": 0.35,
+      "Physical Resistance": 0.2
+    },
+    "extraPercents": {},
+    "talent": "Ferryman's Curse",
+    "reqs": "TTL = 195r",
+    "mats": {},
+    "notes": 400
+  }
+}

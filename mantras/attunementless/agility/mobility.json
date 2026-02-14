@@ -1,0 +1,14 @@
+{
+  "dash": {
+    "name": "Dash",
+    "desc": "An agile dash.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "AGL = 40r",
+    "vaulted": false
+  }
+}

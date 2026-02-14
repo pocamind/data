@@ -1,0 +1,28 @@
+{
+  "meteor impact": {
+    "name": "Meteor Impact",
+    "desc": "Aerial moves will follow up into a devastating slam.",
+    "rarity": "Common",
+    "category": "Falling Star Guard",
+    "reqs": "FLM = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "phoenix impact": {
+    "name": "Phoenix Impact",
+    "desc": "If you Meteor Slam an opponent while you're on Fire, restore some HP and Ether.",
+    "rarity": "Common",
+    "category": "Falling Star Guard",
+    "reqs": "meteor impact => FLM = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

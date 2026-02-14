@@ -1,0 +1,14 @@
+{
+  "blood wisp": {
+    "name": "Blood Wisp",
+    "desc": "A servant of blood.\n[Occasionally regenerates a small portion of your blood.]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "scoundrel's saber": {
+    "name": "Scoundrel's Saber",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 55r",
+    "damage": 22.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.5,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 4.8
+    }
+  },
+  "shotel": {
+    "name": "Shotel",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 45r",
+    "damage": 22.0,
+    "pen": 0.0,
+    "chip": 0.2,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 0.97,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0
+    }
+  },
+  "katana": {
+    "name": "Katana",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 25r",
+    "damage": 18.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "scimitar": {
+    "name": "Scimitar",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 20r",
+    "damage": 15.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 3.0
+    }
+  },
+  "death's reverie (bleed)": {
+    "name": "Death's Reverie (Bleed)",
+    "type": "Sword",
+    "damageType": "Slash + Bleed",
+    "reqs": "MED = 75r",
+    "damage": 18.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 7.5,
+    "range": 8.0,
+    "speed": 1.01,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0
+    }
+  },
+  "saintsblade": {
+    "name": "Saintsblade",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "()",
+    "damage": 30.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 7.0,
+    "range": 8.5,
+    "speed": 1.04,
+    "endlag": 0.0,
+    "scaling": {
+      "Thundercall": 0.0,
+      "Frostdraw": 0.0,
+      "Flamecharm": 0.0,
+      "Galebreathe": 0.0,
+      "Shadowcast": 0.0
+    }
+  },
+  "curved blade of winds": {
+    "name": "Curved Blade Of Winds",
+    "type": "Sword",
+    "damageType": "Slash + Aftercut",
+    "reqs": "MED = 40r, WND = 75r",
+    "damage": 17.5,
+    "pen": 0.15,
+    "chip": 0.05,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.04,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0,
+      "Galebreathe": 5.0
+    }
+  },
+  "alloyed calvary saber": {
+    "name": "Alloyed Calvary Saber",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 22.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.5
+    }
+  },
+  "sword": {
+    "name": "Sword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "()",
+    "damage": 18.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 2.5
+    }
+  },
+  "forgotten gladius": {
+    "name": "Forgotten Gladius",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 65r",
+    "damage": 18.0,
+    "pen": 0.13,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 7.5,
+    "speed": 1.04,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.5
+    }
+  },
+  "shattered katana": {
+    "name": "Shattered Katana",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 90r",
+    "damage": 20.0,
+    "pen": 0.3,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "hallowscleave": {
+    "name": "Hallowscleave",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 19.0,
+    "pen": 0.25,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "messer": {
+    "name": "Messer",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 10r",
+    "damage": 20.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 7.5,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0
+    }
+  },
+  "divine longsword": {
+    "name": "Divine Longsword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "()",
+    "damage": 25.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.5,
+    "range": 8.5,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "wyrmtooth": {
+    "name": "Wyrmtooth",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "HVY = 40r, MED = 60r",
+    "damage": 20.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 7.0,
+    "range": 9.0,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 4.2,
+      "Medium Wep.": 6.2
+    }
+  },
+  "hero's blade of wind": {
+    "name": "Hero's Blade Of Wind",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "WND = 100r",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Galebreathe": 5.5
+    }
+  },
+  "cavalry saber": {
+    "name": "Cavalry Saber",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 40r",
+    "damage": 21.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0
+    }
+  },
+  "nocturne": {
+    "name": "Nocturne",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 90r",
+    "damage": 19.0,
+    "pen": 0.3,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 7.5,
+    "speed": 1.02,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 8.0
+    }
+  },
+  "hero's blade of lightning": {
+    "name": "Hero's Blade Of Lightning",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "LTN = 100r",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Thundercall": 5.5
+    }
+  },
+  "umbrite witherblade (bleed)": {
+    "name": "Umbrite Witherblade (Bleed)",
+    "type": "Sword",
+    "damageType": "Slash + Bleed",
+    "reqs": "WLL = 10r, MED = 65r",
+    "damage": 13.0,
+    "pen": 0.0,
+    "chip": 0.2,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.02,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 12.0
+    }
+  },
+  "kindred edict": {
+    "name": "Kindred Edict",
+    "type": "Sword",
+    "damageType": "Slash ",
+    "reqs": "STR = 30r OR FTD = 30r OR AGL = 30r, MED = 50r",
+    "damage": 18.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 3.0,
+    "range": 7.5,
+    "speed": 1.05,
+    "endlag": 0.0,
+    "scaling": {
+      "Body": 4.5,
+      "Medium Wep.": 5.0
+    }
+  },
+  "purple cloud": {
+    "name": "Purple Cloud",
+    "type": "Sword",
+    "damageType": "Blunt + Slash",
+    "reqs": "MED = 85r",
+    "damage": 16.5,
+    "pen": 0.15,
+    "chip": 0.1,
+    "weight": 5.0,
+    "range": 6.5,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 9.0
+    }
+  },
+  "false memory": {
+    "name": "False Memory",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "()",
+    "damage": 18.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 2.5
+    }
+  },
+  "hero's blade of frost": {
+    "name": "Hero's Blade Of Frost",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "ICE = 100r",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Frostdraw": 5.5
+    }
+  },
+  "hero's blade of shadow": {
+    "name": "Hero's Blade Of Shadow",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "SDW = 100r",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Shadowcast": 5.5
+    }
+  },
+  "hero's blade of flame": {
+    "name": "Hero's Blade Of Flame",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "FLM = 100r",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Flamecharm": 5.5
+    }
+  },
+  "officer saber": {
+    "name": "Officer Saber",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 30r",
+    "damage": 22.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 7.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 4.5
+    }
+  },
+  "vigil longsword": {
+    "name": "Vigil Longsword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 40r",
+    "damage": 20.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "rite of authority": {
+    "name": "Rite of Authority",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "LTN = 40r, MED = 75r",
+    "damage": 19.5,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 8.0,
+    "range": 8.0,
+    "speed": 1.05,
+    "endlag": 0.0,
+    "scaling": {
+      "Thundercall": 2.0,
+      "Medium Wep.": 7.5
+    }
+  },
+  "alloyed falchion": {
+    "name": "Alloyed Falchion",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 16.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 7.5,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "falchion": {
+    "name": "Falchion",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 20r",
+    "damage": 16.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "serpent's edge": {
+    "name": "Serpent's Edge",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 22.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.2,
+    "speed": 0.97,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "alloyed shotel": {
+    "name": "Alloyed Shotel",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 22.0,
+    "pen": 0.1,
+    "chip": 0.3,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 0.97,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "worshipper longsword": {
+    "name": "Worshipper Longsword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 30r",
+    "damage": 19.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 4.5
+    }
+  },
+  "champion's sword": {
+    "name": "Champion's Sword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 40r",
+    "damage": 19.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.02,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.5
+    }
+  },
+  "alloyed vigil longsword": {
+    "name": "Alloyed Vigil Longsword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 20.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.5
+    }
+  },
+  "soulthorn": {
+    "name": "Soulthorn",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "INT = 40r, MED = 80r",
+    "damage": 17.0,
+    "pen": 0.0,
+    "chip": 0.3,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.02,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0,
+      "Intelligence": 3.5
+    }
+  },
+  "kyrsblade": {
+    "name": "Kyrsblade",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 22.0,
+    "pen": 0.05,
+    "chip": 0.3,
+    "weight": 6.0,
+    "range": 7.5,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "eye of malice": {
+    "name": "Eye of Malice",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 21.0,
+    "pen": 0.25,
+    "chip": 0.15,
+    "weight": 4.0,
+    "range": 10.5,
+    "speed": 0.95,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 8.0
+    }
+  },
+  "alloyed messer": {
+    "name": "Alloyed Messer",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 21.0,
+    "pen": 0.15,
+    "chip": 0.15,
+    "weight": 7.0,
+    "range": 7.5,
+    "speed": 0.97,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "alloyed katana": {
+    "name": "Alloyed Katana",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 20.0,
+    "pen": 0.1,
+    "chip": 0.1,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "alloyed officer saber": {
+    "name": "Alloyed Officer Saber",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 75r",
+    "damage": 23.0,
+    "pen": 0.0,
+    "chip": 0.1,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 4.8
+    }
+  },
+  "razor cutlass (bleed)": {
+    "name": "Razor Cutlass (Bleed)",
+    "type": "Sword",
+    "damageType": "Slash + Bleed",
+    "reqs": "MED = 60r",
+    "damage": 18.0,
+    "pen": 0.25,
+    "chip": 0.1,
+    "weight": 8.0,
+    "range": 8.0,
+    "speed": 0.94,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.5
+    }
+  },
+  "fondant splitter": {
+    "name": "Fondant Splitter",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 65r",
+    "damage": 15.0,
+    "pen": 0.05,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 6.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 8.0
+    }
+  },
+  "warden ceremonial sword": {
+    "name": "Warden Ceremonial Sword",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 50r",
+    "damage": 17.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 7.5,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "dormant splinter": {
+    "name": "Dormant Splinter",
+    "type": "Sword",
+    "damageType": "Slash",
+    "reqs": "MED = 5r",
+    "damage": 5.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 0.9,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  }
+}

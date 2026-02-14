@@ -1,0 +1,14 @@
+{
+  "iceberg": {
+    "name": "Iceberg",
+    "desc": "Enter a state of cryostasis.\r",
+    "stars": 3,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ICE = 50r",
+    "vaulted": false
+  }
+}

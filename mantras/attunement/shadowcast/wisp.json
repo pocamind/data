@@ -1,0 +1,14 @@
+{
+  "shade wisp": {
+    "name": "Shade Wisp",
+    "desc": "A servant of shadows.\n[Grants passive Tempo and occassionally conceals the caster (just their body, not location).]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  }
+}

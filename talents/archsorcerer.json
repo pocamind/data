@@ -1,0 +1,15 @@
+{
+  "devastating power": {
+    "name": "Devastating Power",
+    "desc": "Gain extra Ether for every Mantra in your arsenal.",
+    "rarity": "Outfit",
+    "category": "Archsorcerer",
+    "reqs": "INT = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

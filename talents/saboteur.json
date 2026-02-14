@@ -1,0 +1,85 @@
+{
+  "hot potato": {
+    "name": "Hot Potato",
+    "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "family recipe => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 6
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "sulphur surprise": {
+    "name": "Sulphur Surprise",
+    "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages on enemy.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "incendiary formula => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "pocket bombs": {
+    "name": "Pocket Bombs",
+    "desc": "You have a chance to activate a bomb in your inventory when damaged.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "family recipe => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 1,
+      "Carry Load": 5
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "incendiary formula": {
+    "name": "Incendiary Formula",
+    "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "family recipe => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "family recipe": {
+    "name": "Family Recipe",
+    "desc": "You can now craft bombs at a crafting bench.",
+    "rarity": "Quest",
+    "category": "Saboteur",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "explosive efficiency": {
+    "name": "Explosive Efficiency",
+    "desc": "When crafting bombs, you craft double the amount. You have the chance to triple the amount.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "hot potato => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

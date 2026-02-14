@@ -1,0 +1,80 @@
+{
+  "surge path: unstable capacitor": {
+    "name": "Surge Path: Unstable Capacitor",
+    "desc": "Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "LTN = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "battery sapper": {
+    "name": "Battery Sapper",
+    "desc": "If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s Cd",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge path: unstable capacitor => SDW = 25s, LTN = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "fried circuits": {
+    "name": "Fried Circuits",
+    "desc": "Overloading an enemy applies Sapped for 5s.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge path: unstable capacitor => LTN = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "human battery": {
+    "name": "Human Battery",
+    "desc": "When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge path: unstable capacitor => LTN = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "closed circuit": {
+    "name": "Closed Circuit",
+    "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge path: unstable capacitor => LTN = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "catalytic strike": {
+    "name": "Catalytic Strike",
+    "desc": "Posture breaking an enemy will Overload their Surge stacks.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge path: unstable capacitor => LTN = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

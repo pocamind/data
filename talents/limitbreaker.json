@@ -1,0 +1,60 @@
+{
+  "defiant until the end": {
+    "name": "Defiant until the End",
+    "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "WLL = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 6
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "comeback kid": {
+    "name": "Comeback Kid",
+    "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "last resort": {
+    "name": "Last Resort",
+    "desc": "Deal +10% more damage when your health is significantly low.",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "WLL = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "the eleventh hour": {
+    "name": "The Eleventh Hour",
+    "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "WLL = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 10
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

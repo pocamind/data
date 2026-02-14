@@ -1,0 +1,15 @@
+{
+  "pressure detonation": {
+    "name": "Pressure Detonation",
+    "desc": "Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.",
+    "rarity": "Common",
+    "category": "Cosmic Wind",
+    "reqs": "SDW = 40s, WND = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

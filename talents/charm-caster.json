@@ -1,0 +1,67 @@
+{
+  "chaotic charm": {
+    "name": "Chaotic Charm",
+    "desc": "Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduce damage towards you.\n[*This Talent scales on your Charisma investment.]",
+    "rarity": "Common",
+    "category": "Charm Caster",
+    "reqs": "charismatic cast => CHA = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "dazing finisher": {
+    "name": "Dazing Finisher",
+    "desc": "Flourishing enemies that are charmed by you causes them to not be knocked back and be dazed instead.\n[*This talent loses some effect below its investment cost.]",
+    "rarity": "Advanced",
+    "category": "Charm Caster",
+    "reqs": "charismatic cast, tough love, chaotic charm, lasting charisma => CHA = 55s",
+    "exclusive": [
+      "Bulldozer"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "lasting charisma": {
+    "name": "Lasting Charisma",
+    "desc": "Enemies charmed by your mantras are charmed for longer.\n[*Scales by -0.275 seconds per Charisma invested point between 10s-15s.",
+    "rarity": "Common",
+    "category": "Charm Caster",
+    "reqs": "charismatic cast => CHA = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "tough love": {
+    "name": "Tough Love",
+    "desc": "Deal 10% more damage to enemies charmed by you. Mantras deal 5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.",
+    "rarity": "Common",
+    "category": "Charm Caster",
+    "reqs": "charismatic cast => CHA = 25s",
+    "exclusive": [
+      "Narcissist"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "charismatic cast": {
+    "name": "Charismatic Cast",
+    "desc": "Landing a hit with a mantra on an enemy applies Charmed, reducing their damage done to you. Allies recover from being knocked twice as quickly when charmed by you.",
+    "rarity": "Common",
+    "category": "Charm Caster",
+    "reqs": "CHA = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "parasitic leech": {
+    "name": "Parasitic Leech",
+    "desc": "If linked to an enemy, this move will start leeching your opponent's health for a few seconds while healing you.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Linkstrider"
+    ],
+    "reqs": "oath: linkstrider => ()",
+    "vaulted": false
+  },
+  "symbiotic sustain": {
+    "name": "Symbiotic Sustain",
+    "desc": "If linked to an ally, this move will take ~5% of your health and then heal your ally by that times an undefined amount.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Linkstrider"
+    ],
+    "reqs": "oath: linkstrider => ()",
+    "vaulted": false
+  }
+}

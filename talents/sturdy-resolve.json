@@ -1,0 +1,43 @@
+{
+  "magical resolve": {
+    "name": "Magical Resolve",
+    "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
+    "rarity": "Common",
+    "category": "Sturdy Resolve",
+    "reqs": "battle tendency => FTD = 15s, WLL = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 7
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "grasp on reality": {
+    "name": "Grasp on Reality",
+    "desc": "Damage taken from insanity is reduced.",
+    "rarity": "Common",
+    "category": "Sturdy Resolve",
+    "reqs": "WLL = 5s, FTD = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "unfazed": {
+    "name": "Unfazed",
+    "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
+    "rarity": "Common",
+    "category": "Sturdy Resolve",
+    "reqs": "grasp on reality => FTD = 50s, WLL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

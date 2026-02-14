@@ -1,0 +1,14 @@
+{
+  "strong leap": {
+    "name": "Strong Leap",
+    "desc": "Kick off of the ground with your strength, sending you into the air.\t\r",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "STR = 50r",
+    "vaulted": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "lithe step": {
+    "name": "Lithe Step",
+    "desc": "When sprinting, roll-cancel and instantly vanish and surge with unmatched speed.",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath: bladeharper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "float like a butterfly": {
+    "name": "Float Like a Butterfly",
+    "desc": "In a display of true strength, cancel your air dash to enter a frenzy of slashes. (5s CD)",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath: bladeharper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "reveal": {
+    "name": "Reveal",
+    "desc": "Pour your heart out and reveal your true strength",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath: bladeharper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "oath: bladeharper": {
+    "name": "Oath: Bladeharper",
+    "desc": "You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "soaring storm": {
+    "name": "Soaring Storm",
+    "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an oath ability.",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath: bladeharper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "untouchable": {
+    "name": "Untouchable",
+    "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath: bladeharper => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

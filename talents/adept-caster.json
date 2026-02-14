@@ -1,0 +1,56 @@
+{
+  "everchanging aegis": {
+    "name": "Everchanging Aegis",
+    "desc": "You take 20% less damage from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different elements.",
+    "rarity": "Rare",
+    "category": "Adept Caster",
+    "reqs": "INT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 7
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "neural overload": {
+    "name": "Neural Overload",
+    "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
+    "rarity": "Advanced",
+    "category": "Adept Caster",
+    "reqs": "INT = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "perfect flash": {
+    "name": "Perfect Flash",
+    "desc": "Having over 95% health causes your mantras to do +25% more damage. This damage bonus will scale down to 10% if your enemies are far away.",
+    "rarity": "Rare",
+    "category": "Adept Caster",
+    "reqs": "INT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "overflowing dam": {
+    "name": "Overflowing Dam",
+    "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grants them 5%-10% more damage.\n[*The percentage of gained damage scales with your Intelligence between 0 INT and 40 INT.]",
+    "rarity": "Rare",
+    "category": "Adept Caster",
+    "reqs": "INT = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

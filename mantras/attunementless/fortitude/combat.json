@@ -1,0 +1,14 @@
+{
+  "shoulder bash": {
+    "name": "Shoulder Bash",
+    "desc": "Rush at your enemies with full physical force.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "FTD = 35r",
+    "vaulted": false
+  }
+}

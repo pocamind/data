@@ -1,0 +1,43 @@
+{
+  "rule through fear": {
+    "name": "Rule Through Fear",
+    "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+    "rarity": "Rare",
+    "category": "Tyrant",
+    "reqs": "STR = 50s, CHA = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "audacity": {
+    "name": "Audacity",
+    "desc": "Once you've brought down your prey, instill fear into all those who would seperate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff.\n[*Note: CD scales from 30s to 40s with your Charisma and Strength stats, between 50 and 150.]",
+    "rarity": "Advanced",
+    "category": "Tyrant",
+    "reqs": "STR = 50s, CHA = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "no survivors": {
+    "name": "No Survivors",
+    "desc": "Your allies and yourself execute faster while affected by Overcharm.",
+    "rarity": "Common",
+    "category": "Tyrant",
+    "reqs": "STR = 45s, CHA = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

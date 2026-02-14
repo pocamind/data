@@ -1,0 +1,128 @@
+{
+  "dawnshot (offhand)": {
+    "name": "Dawnshot (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "LHT = 40r",
+    "damage": 14.8,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.5,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
+  "silversix (offhand)": {
+    "name": "Silversix (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "()",
+    "damage": 10.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 13.0
+    }
+  },
+  "alloyed dawnshot (offhand)": {
+    "name": "Alloyed Dawnshot (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "LHT = 75r",
+    "damage": 16.0,
+    "pen": 0.05,
+    "chip": 0.1,
+    "weight": 1.0,
+    "range": 10.5,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
+  "kyrstear": {
+    "name": "Kyrstear",
+    "type": "Offhand",
+    "damageType": "Posture",
+    "reqs": "AGL = 40r",
+    "damage": 5.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.5,
+    "speed": 1.3,
+    "endlag": 0.1,
+    "scaling": {
+      "Agility": 8.0
+    }
+  },
+  "flintlock (offhand)": {
+    "name": "Flintlock (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "LHT = 20r",
+    "damage": 10.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 10.0
+    }
+  },
+  "parry dagger": {
+    "name": "Parry Dagger",
+    "type": "Offhand",
+    "damageType": "Posture",
+    "reqs": "AGL = 10r",
+    "damage": 4.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 8.0,
+    "speed": 1.4,
+    "endlag": 0.0,
+    "scaling": {}
+  },
+  "dragoon (offhand)": {
+    "name": "Dragoon (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "LHT = 65r",
+    "damage": 17.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 12.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
+  "repeater (offhand)": {
+    "name": "Repeater (Offhand)",
+    "type": "Offhand",
+    "damageType": "Blunt",
+    "reqs": "LHT = 65r",
+    "damage": 13.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 12.0,
+    "speed": 1.25,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 15.0
+    }
+  }
+}

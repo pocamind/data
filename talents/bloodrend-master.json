@@ -1,0 +1,17 @@
+{
+  "bloodrend unbounded": {
+    "name": "Bloodrend Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your bloodrend to its fullest.\n[Note: Falling below 75 Bloodrend revokes this Talent.]",
+    "rarity": "Common",
+    "category": "Bloodrend Master",
+    "reqs": "BLD = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 10
+    },
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

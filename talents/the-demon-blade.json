@@ -1,0 +1,28 @@
+{
+  "flaming flourish": {
+    "name": "Flaming Flourish",
+    "desc": "Set enemies on fire when you flourish or uppercut them.",
+    "rarity": "Common",
+    "category": "The Demon Blade",
+    "reqs": "flamecharmer => FLM = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "explosive finish": {
+    "name": "Explosive Finish",
+    "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast.",
+    "rarity": "Common",
+    "category": "The Demon Blade",
+    "reqs": "FLM = 45s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

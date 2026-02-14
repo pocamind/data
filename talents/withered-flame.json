@@ -1,0 +1,80 @@
+{
+  "scorching decay [lht]": {
+    "name": "Scorching Decay [LHT]",
+    "desc": "The wither dealt from your Emperor's Flame is massively increased.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "emperor flame => LHT = 100r, FLM = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "scorching decay [hvy]": {
+    "name": "Scorching Decay [HVY]",
+    "desc": "The wither dealt from your Emperor's Flame is massively increased.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "emperor flame => HVY = 100r, FLM = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ash ember [lht]": {
+    "name": "Ash Ember [LHT]",
+    "desc": "The more wither your opponent has the more damage your burn deals.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "LHT = 90r, FLM = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ash ember [hvy]": {
+    "name": "Ash Ember [HVY]",
+    "desc": "The more wither your opponent has the more damage your burn deals.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "HVY = 90r, FLM = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "scorching decay [med]": {
+    "name": "Scorching Decay [MED]",
+    "desc": "The wither dealt from your Emperor's Flame is massively increased.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "emperor flame => MED = 100r, FLM = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "ash ember [med]": {
+    "name": "Ash Ember [MED]",
+    "desc": "The more wither your opponent has the more damage your burn deals.",
+    "rarity": "Common",
+    "category": "Withered Flame",
+    "reqs": "MED = 90r, FLM = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

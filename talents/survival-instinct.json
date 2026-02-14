@@ -1,0 +1,43 @@
+{
+  "termite": {
+    "name": "Termite",
+    "desc": "You can eat things most would consider inedible.",
+    "rarity": "Common",
+    "category": "Survival Instinct",
+    "reqs": "WLL = 10s, FTD = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 3
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "iron gut [will]": {
+    "name": "Iron Gut [WILL]",
+    "desc": "You have resistance against being poisoned by foods.",
+    "rarity": "Common",
+    "category": "Survival Instinct",
+    "reqs": "WLL = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "iron gut [fort]": {
+    "name": "Iron Gut [FORT]",
+    "desc": "You have resistance against being poisoned by foods.",
+    "rarity": "Common",
+    "category": "Survival Instinct",
+    "reqs": "FTD = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

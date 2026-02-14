@@ -1,0 +1,15 @@
+{
+  "collapsed lung": {
+    "name": "Collapsed Lung",
+    "desc": "Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength.",
+    "rarity": "Advanced",
+    "category": "Annihilator",
+    "reqs": "STR = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

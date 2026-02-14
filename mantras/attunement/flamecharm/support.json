@@ -1,0 +1,38 @@
+{
+  "flame blind": {
+    "name": "Flame Blind",
+    "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "FLM = 1r",
+    "vaulted": false
+  },
+  "graceful flame": {
+    "name": "Graceful Flame",
+    "desc": "Conjure a campfire for you and your comrades to rest by.\n",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "FLM = 20r",
+    "vaulted": false
+  },
+  "flame of denial": {
+    "name": "Flame Of Denial",
+    "desc": "While active, you get right back up after being knocked.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "FLM = 1r",
+    "vaulted": false
+  }
+}

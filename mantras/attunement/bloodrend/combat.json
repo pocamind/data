@@ -1,0 +1,170 @@
+{
+  "veinbreaker": {
+    "name": "Veinbreaker",
+    "desc": "Charge up a strong punch infused with your blood.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "blood orb": {
+    "name": "Blood Orb",
+    "desc": "Release an amalgamation of your blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 1r",
+    "vaulted": false
+  },
+  "scarlet cannon": {
+    "name": "Scarlet Cannon",
+    "desc": "Create a giant blood beam.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "bloodtide ritual": {
+    "name": "Bloodtide Ritual",
+    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 50r",
+    "vaulted": false
+  },
+  "soulflare siphon": {
+    "name": "Soulflare Siphon",
+    "desc": "Grab and siphon the blood out of your victim.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "crimson surge": {
+    "name": "Crimson Surge",
+    "desc": "Slash upwards and launch slashes of blood.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "bloodedge": {
+    "name": "Bloodedge",
+    "desc": "Conjure a scythe of blood and swing.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 20r",
+    "vaulted": false
+  },
+  "crimson rain": {
+    "name": "Crimson Rain",
+    "desc": "Release blood daggers. Recast to recall them.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "bloodcurdle": {
+    "name": "Bloodcurdle",
+    "desc": "Manipulate the blood within your target's body.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 50r",
+    "vaulted": false
+  },
+  "razor blitz": {
+    "name": "Razor Blitz",
+    "desc": "Create weapons on your arms and dash through.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 30r",
+    "vaulted": false
+  },
+  "blood stakes": {
+    "name": "Blood Stakes",
+    "desc": "Create stakes of blood.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 20r",
+    "vaulted": false
+  },
+  "scarlet cyclone": {
+    "name": "Scarlet Cyclone",
+    "desc": "Create a cyclone of blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 1r",
+    "vaulted": false
+  },
+  "crucifixion": {
+    "name": "Crucifixion",
+    "desc": "Conjure a bloody cross.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 1r",
+    "vaulted": false
+  },
+  "vicious descent": {
+    "name": "Vicious Descent",
+    "desc": "Leap into the air and slam down with vengeance.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "BLD = 20r",
+    "vaulted": false
+  }
+}

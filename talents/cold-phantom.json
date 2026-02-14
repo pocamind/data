@@ -1,0 +1,15 @@
+{
+  "freezing wight": {
+    "name": "Freezing Wight",
+    "desc": "Your Haunted Gale now procs Chilled.",
+    "rarity": "Common",
+    "category": "Cold Phantom",
+    "reqs": "haunted gale => ICE = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

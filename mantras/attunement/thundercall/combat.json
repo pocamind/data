@@ -1,0 +1,170 @@
+{
+  "lightning blade": {
+    "name": "Lightning Blade",
+    "desc": "Arcing blades of electricity.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 1r",
+    "vaulted": false
+  },
+  "rising thunder": {
+    "name": "Rising Thunder",
+    "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 50r",
+    "vaulted": false
+  },
+  "fleeting sparks": {
+    "name": "Fleeting Sparks",
+    "desc": "Call forth notes of electricity that seek out your foes.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "bolt piercer": {
+    "name": "Bolt Piercer",
+    "desc": "An arrow of lighting.\t",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 30r",
+    "vaulted": false
+  },
+  "grand javelin": {
+    "name": "Grand Javelin",
+    "desc": "A javelin of lightning.\t",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 30r",
+    "vaulted": false
+  },
+  "storm blades": {
+    "name": "Storm Blades",
+    "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 30r",
+    "vaulted": false
+  },
+  "lightning clones": {
+    "name": "Lightning Clones",
+    "desc": "Replicated forms of yourself conjured from electricity.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "jolt grab": {
+    "name": "Jolt Grab",
+    "desc": "An electrified chokehold.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 1r",
+    "vaulted": false
+  },
+  "thunder kick": {
+    "name": "Thunder Kick",
+    "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "emotion wave": {
+    "name": "Emotion Wave",
+    "desc": "Conjure up surging waves of lightning that travel along the ground.\n[*Guard breaks on first hit]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 50r",
+    "vaulted": false
+  },
+  "electro carve": {
+    "name": "Electro Carve",
+    "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "lightning impact": {
+    "name": "Lightning Impact",
+    "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  },
+  "lightning beam": {
+    "name": "Lightning Beam",
+    "desc": "Fire a beam of lightning.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 1r",
+    "vaulted": false
+  },
+  "lightning strike": {
+    "name": "Lightning Strike",
+    "desc": "A strike of thunder at your desired location.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "LTN = 20r",
+    "vaulted": false
+  }
+}

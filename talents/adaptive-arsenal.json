@@ -1,0 +1,41 @@
+{
+  "phantom edge": {
+    "name": "Phantom Edge",
+    "desc": "Your weapon Basic Attacks have +0.25 range.",
+    "rarity": "Rare",
+    "category": "Adaptive Arsenal",
+    "reqs": "MTL = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "an ironsinger's instinct": {
+    "name": "An Ironsinger's Instinct",
+    "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
+    "rarity": "Rare",
+    "category": "Adaptive Arsenal",
+    "reqs": "MTL = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "exposed durability": {
+    "name": "Exposed Durability",
+    "desc": "Deal +10% damage to opponents with no armor durability left.",
+    "rarity": "Common",
+    "category": "Adaptive Arsenal",
+    "reqs": "MTL = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

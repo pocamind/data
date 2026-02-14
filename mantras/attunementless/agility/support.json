@@ -1,0 +1,14 @@
+{
+  "adrenaline surge": {
+    "name": "Adrenaline Surge",
+    "desc": "An adrenaline rush of mobility.\t",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "AGL = 20r",
+    "vaulted": false
+  }
+}

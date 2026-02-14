@@ -1,0 +1,15 @@
+{
+  "scorched peak": {
+    "name": "Scorched Peak",
+    "desc": "Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.",
+    "rarity": "Common",
+    "category": "Lichtenberg",
+    "reqs": "FLM = 25s, LTN = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

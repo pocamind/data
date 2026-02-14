@@ -1,0 +1,14 @@
+{
+  "ether barrage": {
+    "name": "Ether Barrage",
+    "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "INT = 30r",
+    "vaulted": false
+  }
+}

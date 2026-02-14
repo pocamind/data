@@ -1,0 +1,47 @@
+{
+  "scaredy cat": {
+    "name": "Scaredy Cat",
+    "desc": "When enemies initiate a fight with you, gain a speed boost.",
+    "rarity": "Common",
+    "category": "Alley Cat",
+    "reqs": "AGL = 5s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "conditioned runner": {
+    "name": "Conditioned Runner",
+    "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
+    "rarity": "Advanced",
+    "category": "Alley Cat",
+    "reqs": "scaredy cat, endurance runner => AGL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "endurance runner": {
+    "name": "Endurance Runner",
+    "desc": "Even when things look dire, you still have it in you to keep your legs moving.",
+    "rarity": "Common",
+    "category": "Alley Cat",
+    "reqs": "FTD = 25s, AGL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

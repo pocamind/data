@@ -1,0 +1,30 @@
+{
+  "legion kata": {
+    "name": "Legion Kata",
+    "desc": "Gain the ability to use the Legion's martial arts.",
+    "rarity": "Quest",
+    "category": "Gale Kata",
+    "reqs": "LHT = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "imperium kata": {
+    "name": "Imperium Kata",
+    "desc": "Wield an advanced form of the Legion's martial arts.",
+    "rarity": "Quest",
+    "category": "Gale Kata",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

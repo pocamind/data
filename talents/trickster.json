@@ -1,0 +1,77 @@
+{
+  "down comes the claw": {
+    "name": "Down Comes the Claw",
+    "desc": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for up to 6.5s.\n[*Note: 4s to 6.5s duration between 30 and 75 Agility.]",
+    "rarity": "Common",
+    "category": "Trickster",
+    "reqs": "AGL = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "crippling comeuppance": {
+    "name": "Crippling Comeuppance",
+    "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
+    "rarity": "Advanced",
+    "category": "Trickster",
+    "reqs": "AGL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "pursuit": {
+    "name": "Pursuit",
+    "desc": "If you land your Revenge, clear the cooldown immediately.\n[*Note: 35s to 25s cooldown between 50 and 90 Agility.]",
+    "rarity": "Common",
+    "category": "Trickster",
+    "reqs": "AGL = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "cheap shot": {
+    "name": "Cheap Shot",
+    "desc": "Your attacks gain up to 10% PEN multiplicatively when you have an active speed boost.\n[*Note: 5% to 10% PEN between 20 and 65 Agility.]",
+    "rarity": "Rare",
+    "category": "Trickster",
+    "reqs": "AGL = 65s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 6
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "maiming claws": {
+    "name": "Maiming Claws",
+    "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
+    "rarity": "Common",
+    "category": "Trickster",
+    "reqs": "down comes the claw => AGL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "berserk": {
+    "name": "Berserk",
+    "desc": "One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your Basic Attacks. Grants your Criticals +10% PEN while active.",
+    "rarity": "Common",
+    "category": "Berserker",
+    "reqs": "STR = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "denial repulse": {
+    "name": "Denial Repulse",
+    "desc": "You now emit a delayed burst of flames after coming close to death.",
+    "rarity": "Rare",
+    "category": "Undying Ember",
+    "reqs": "WLL = 40s, FLM = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "undying flame": {
+    "name": "Undying Flame",
+    "desc": "Your flame can be casted in the depths. Standing close to your graceful flame will slowly restore sanity for others in the area.",
+    "rarity": "Rare",
+    "category": "Undying Ember",
+    "reqs": "WLL = 40s, FLM = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

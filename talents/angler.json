@@ -1,0 +1,43 @@
+{
+  "hook, line, and sinker": {
+    "name": "Hook, Line, and Sinker",
+    "desc": "Once something's caught your line, it's much harder to get loose.",
+    "rarity": "Quest",
+    "category": "Angler",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 4
+    },
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "fisher's lure": {
+    "name": "Fisher's Lure",
+    "desc": "Fish are drawn to your line more quickly.",
+    "rarity": "Quest",
+    "category": "Angler",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "proficient baiting": {
+    "name": "Proficient Baiting",
+    "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
+    "rarity": "Quest",
+    "category": "Angler",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "thundercall unbounded": {
+    "name": "Thundercall Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your thundercall to its fullest.\n[Note: Falling below 75 Thundercall revokes this Talent.]",
+    "rarity": "Common",
+    "category": "Thundercall Master",
+    "reqs": "LTN = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 10
+    },
+    "notCountedTowardsTotal": true,
+    "vaulted": false
+  }
+}

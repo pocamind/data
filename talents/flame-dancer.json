@@ -1,0 +1,41 @@
+{
+  "dancing steps": {
+    "name": "Dancing Steps",
+    "desc": "Fire mantras now move you in the direction you're facing.",
+    "rarity": "Common",
+    "category": "Flame Dancer",
+    "reqs": "FLM = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "the final act": {
+    "name": "The Final Act",
+    "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
+    "rarity": "Rare",
+    "category": "Flame Dancer",
+    "reqs": "flamecharmer => FLM = 60s",
+    "exclusive": [
+      "Eruption Path: Lava Serpent"
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  },
+  "graceful steps": {
+    "name": "Graceful Steps",
+    "desc": "Your dancing steps now gives a faster speed boost.",
+    "rarity": "Rare",
+    "category": "Flame Dancer",
+    "reqs": "dancing steps => FLM = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "notCountedTowardsTotal": false,
+    "vaulted": false
+  }
+}

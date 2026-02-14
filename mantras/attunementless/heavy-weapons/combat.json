@@ -1,0 +1,38 @@
+{
+  "pressure blast": {
+    "name": "Pressure Blast",
+    "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "HVY = 30r",
+    "vaulted": false
+  },
+  "punishment": {
+    "name": "Punishment",
+    "desc": "Absorb damage then return fury upon your foes.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "HVY = 50r",
+    "vaulted": false
+  },
+  "onslaught": {
+    "name": "Onslaught",
+    "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "HVY = 50r",
+    "vaulted": false
+  }
+}
