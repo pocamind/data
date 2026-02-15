@@ -1,19 +1,32 @@
-- name: Bundle data
-  run: |
-    mkdir -p .bundled
-    for dir in */; do
-      dir_name="${dir%/}"
-      # skip any dirs with '.' prefix
-      [[ "$dir_name" == .* ]] && continue
+name: Bundle data
 
-      files=$(find "$dir_name" -name '*.json' -type f)
-      if [ -n "$files" ]; then
-        find "$dir_name" -name '*.json' -type f | xargs --no-run-if-empty cat | jq -s '.' > ".bundled/${dir_name}.json"
-      fi
-    done
+on:
+  push:
+    branches: [main]
 
-- name: Commit bundled data
-  run: |
-    git add .bundled/
-    git diff --staged --quiet || git commit -m "[AUTOMATIC] Rebuild bundled data"
-    git push
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bundle data
+        run: |
+          mkdir -p .bundled
+          for dir in */; do
+            dir_name="${dir%/}"
+            [[ "$dir_name" == .* ]] && continue
+
+            files=$(find "$dir_name" -name '*.json' -type f)
+            if [ -n "$files" ]; then
+              find "$dir_name" -name '*.json' -type f | xargs --no-run-if-empty cat | jq -s '.' > ".bundled/${dir_name}.json"
+            fi
+          done
+
+      - name: Commit bundled data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .bundled/
+          git diff --staged --quiet || git commit -m "[AUTOMATIC] Rebuild bundled data"
+          git push
