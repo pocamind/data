@@ -1,129 +1,125 @@
-[
-  [
-    {
-      "name": "Adret",
-      "innate": {
-        "Willpower": 2,
-        "Charisma": 3
-      },
-      "is_pathfinder": true
+{
+  "adret": {
+    "name": "Adret",
+    "innate": {
+      "Willpower": 2,
+      "Charisma": 3
     },
-    {
-      "name": "Canor",
-      "innate": {
-        "Strength": 2,
-        "Charisma": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "canor": {
+    "name": "Canor",
+    "innate": {
+      "Strength": 2,
+      "Charisma": 3
     },
-    {
-      "name": "Capra",
-      "innate": {
-        "Intelligence": 2,
-        "Willpower": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "capra": {
+    "name": "Capra",
+    "innate": {
+      "Intelligence": 2,
+      "Willpower": 3
     },
-    {
-      "name": "Celtor",
-      "innate": {
-        "Intelligence": 2,
-        "Charisma": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "celtor": {
+    "name": "Celtor",
+    "innate": {
+      "Intelligence": 2,
+      "Charisma": 3
     },
-    {
-      "name": "Chrysid",
-      "innate": {
-        "Agility": 2,
-        "Charisma": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "chrysid": {
+    "name": "Chrysid",
+    "innate": {
+      "Agility": 2,
+      "Charisma": 3
     },
-    {
-      "name": "Etrean",
-      "innate": {
-        "Agility": 2,
-        "Intelligence": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "etrean": {
+    "name": "Etrean",
+    "innate": {
+      "Agility": 2,
+      "Intelligence": 3
     },
-    {
-      "name": "Felinor",
-      "innate": {
-        "Agility": 2,
-        "Charisma": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "felinor": {
+    "name": "Felinor",
+    "innate": {
+      "Agility": 2,
+      "Charisma": 3
     },
-    {
-      "name": "Ganymede",
-      "innate": {
-        "Intelligence": 2,
-        "Willpower": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "ganymede": {
+    "name": "Ganymede",
+    "innate": {
+      "Intelligence": 2,
+      "Willpower": 3
     },
-    {
-      "name": "Gremor",
-      "innate": {
-        "Strength": 2,
-        "Fortitude": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "gremor": {
+    "name": "Gremor",
+    "innate": {
+      "Strength": 2,
+      "Fortitude": 3
     },
-    {
-      "name": "Khan",
-      "innate": {
-        "Strength": 3,
-        "Agility": 2
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "khan": {
+    "name": "Khan",
+    "innate": {
+      "Strength": 3,
+      "Agility": 2
     },
-    {
-      "name": "Kiron",
-      "innate": {
-        "Agility": 3,
-        "Intelligence": 2
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "kiron": {
+    "name": "Kiron",
+    "innate": {
+      "Agility": 3,
+      "Intelligence": 2
     },
-    {
-      "name": "Tiran",
-      "innate": {
-        "Agility": 2,
-        "Willpower": 3
-      },
-      "is_pathfinder": true
+    "is_pathfinder": true
+  },
+  "tiran": {
+    "name": "Tiran",
+    "innate": {
+      "Agility": 2,
+      "Willpower": 3
     },
-    {
-      "name": "Vesperian",
-      "innate": {
-        "Fortitude": 2,
-        "Willpower": 3
-      },
-      "is_pathfinder": true
-    }
-  ],
-  [
-    {
-      "name": "Drakkard",
-      "innate": {
-        "Agility": 2,
-        "Fortitude": 3
-      },
-      "is_pathfinder": false
+    "is_pathfinder": true
+  },
+  "vesperian": {
+    "name": "Vesperian",
+    "innate": {
+      "Fortitude": 2,
+      "Willpower": 3
     },
-    {
-      "name": "Lightborn",
-      "innate": {
-        "Strength": 2,
-        "Agility": 2,
-        "Intelligence": 2,
-        "Willpower": 2,
-        "Fortitude": 2
-      },
-      "is_pathfinder": false
-    }
-  ]
-]
+    "is_pathfinder": true
+  },
+  "drakkard": {
+    "name": "Drakkard",
+    "innate": {
+      "Agility": 2,
+      "Fortitude": 3
+    },
+    "is_pathfinder": false
+  },
+  "lightborn": {
+    "name": "Lightborn",
+    "innate": {
+      "Strength": 2,
+      "Agility": 2,
+      "Intelligence": 2,
+      "Willpower": 2,
+      "Fortitude": 2
+    },
+    "is_pathfinder": false
+  }
+}
