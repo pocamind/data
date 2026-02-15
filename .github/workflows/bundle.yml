@@ -20,9 +20,8 @@ jobs:
             dir_name="${dir%/}"
             [[ "$dir_name" == .* ]] && continue
 
-            files=$(find "$dir_name" -name '*.json' -type f)
-            if [ -n "$files" ]; then
-              find "$dir_name" -name '*.json' -type f | xargs --no-run-if-empty cat | jq -s '.' > ".bundled/${dir_name}.json"
+            if ls "$dir_name"/*.json &>/dev/null; then
+              cat "$dir_name"/*.json | jq -s '.' > ".bundled/${dir_name}.json"
             fi
           done
 
