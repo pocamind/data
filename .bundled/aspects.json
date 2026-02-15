@@ -1,4 +1,23 @@
 {
+  "drakkard": {
+    "name": "Drakkard",
+    "innate": {
+      "Agility": 2,
+      "Fortitude": 3
+    },
+    "is_pathfinder": false
+  },
+  "lightborn": {
+    "name": "Lightborn",
+    "innate": {
+      "Strength": 2,
+      "Agility": 2,
+      "Intelligence": 2,
+      "Willpower": 2,
+      "Fortitude": 2
+    },
+    "is_pathfinder": false
+  },
   "adret": {
     "name": "Adret",
     "innate": {
@@ -102,24 +121,5 @@
       "Willpower": 3
     },
     "is_pathfinder": true
-  },
-  "drakkard": {
-    "name": "Drakkard",
-    "innate": {
-      "Agility": 2,
-      "Fortitude": 3
-    },
-    "is_pathfinder": false
-  },
-  "lightborn": {
-    "name": "Lightborn",
-    "innate": {
-      "Strength": 2,
-      "Agility": 2,
-      "Intelligence": 2,
-      "Willpower": 2,
-      "Fortitude": 2
-    },
-    "is_pathfinder": false
   }
 }

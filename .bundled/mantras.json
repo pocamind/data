@@ -1,2930 +1,2786 @@
-[
-  {
-    "metal_rampart": {
-      "name": "Metal Rampart",
-      "desc": "Form a medium size pillar at the user location .",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_rampart := 1r MTL",
-      "vaulted": false
-    },
-    "metal_ball": {
-      "name": "Metal Ball",
-      "desc": "Form yourself into a metal ball and rush forward.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_ball := 30r MTL",
-      "vaulted": false
-    }
-  },
-  {
-    "metal_wisp": {
-      "name": "Metal Wisp",
-      "desc": "A servant of metal.\n[Regenerates armor durability, and applies Metal Rods when the caster vents.]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_wisp := 30r MTL",
-      "vaulted": false
-    }
-  },
-  {
-    "metal_fakeout": {
-      "name": "Metal Fakeout",
-      "desc": "Create a metal clone and appear behind your taget.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_fakeout := 30r MTL",
-      "vaulted": false
-    },
-    "metal_gatling": {
-      "name": "Metal Gatling",
-      "desc": "A deadly rush of several metallic rods.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_gatling := 50r MTL",
-      "vaulted": false
-    },
-    "metal_rain": {
-      "name": "Metal Rain",
-      "desc": "Rain down a incredible amount of metal rods ",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_rain := 30r MTL",
-      "vaulted": false
-    },
-    "iron_hug": {
-      "name": "Iron Hug",
-      "desc": "Grab your opponent and crush them with your ironclad grip.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "iron_hug := 50r MTL",
-      "vaulted": false
-    },
-    "metal_eruption": {
-      "name": "Metal Eruption",
-      "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_eruption := 1r MTL",
-      "vaulted": false
-    },
-    "iron_slam": {
-      "name": "Iron Slam",
-      "desc": "Conjure a giant rod of metal and slam it down.\n[*Guardbreaks at Level 5]",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "iron_slam := 50r MTL",
-      "vaulted": false
-    },
-    "rocket_lance": {
-      "name": "Rocket Lance",
-      "desc": "Create a lance, impale your opponent, and send them flying.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "rocket_lance := 50r MTL",
-      "vaulted": false
-    },
-    "metal_armament": {
-      "name": "Metal Armament",
-      "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_armament := 50r MTL",
-      "vaulted": false
-    },
-    "caltrops": {
-      "name": "Caltrops",
-      "desc": "Throws 6 sharp metal traps.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "caltrops := 30r MTL",
-      "vaulted": false
-    },
-    "iron_quills": {
-      "name": "Iron Quills",
-      "desc": "Conjure metal from within, impaling surrounding enemies.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "iron_quills := 30r MTL",
-      "vaulted": false
-    },
-    "metal_kick": {
-      "name": "Metal Kick",
-      "desc": "A powerful kick laced with metal.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_kick := 20r MTL",
-      "vaulted": false
-    },
-    "needle_barrage": {
-      "name": "Needle Barrage",
-      "desc": "A barrage of metal rods.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "needle_barrage := 1r MTL",
-      "vaulted": false
-    },
-    "firing_line": {
-      "name": "Firing Line",
-      "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "firing_line := 30r MTL",
-      "vaulted": false
-    },
-    "oxidizing_rush": {
-      "name": "Oxidizing Rush",
-      "desc": "Conjure metal swords and rush forward with them",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "oxidizing_rush := 30r MTL",
-      "vaulted": false
-    }
-  },
-  {
-    "chain_pull": {
-      "name": "Chain Pull",
-      "desc": "Conjure a chain to pull your opponent.",
-      "stars": 1,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "chain_pull := 20r MTL",
-      "vaulted": false
-    },
-    "metal_turret": {
-      "name": "Metal Turret",
-      "desc": "An automated turret that fires at targets that cross its sight.",
-      "stars": 2,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "metal_turret := 30r MTL",
-      "vaulted": false
-    },
-    "iron_skin": {
-      "name": "Iron Skin",
-      "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
-      "stars": 1,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Ironsing"
-      ],
-      "reqs": "iron_skin := 20r MTL",
-      "vaulted": false
-    }
-  },
-  {
-    "tempest_blitz": {
-      "name": "Tempest Blitz",
-      "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "tempest_blitz := 30r LTN, 30r WND",
-      "vaulted": false
-    }
-  },
-  {
-    "soul_beam": {
-      "name": "Soul Beam",
-      "desc": "Unknown",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
-      "vaulted": false
-    },
-    "flashfire_sweep": {
-      "name": "Flashfire Sweep",
-      "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
-      "vaulted": false
-    },
-    "permafrost_prison": {
-      "name": "Permafrost Prison",
-      "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "permafrost_prison := 30r ICE, 30r SDW",
-      "vaulted": false
-    },
-    "iron_tether": {
-      "name": "Iron Tether",
-      "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "iron_tether := 30r LTN, 30r MTL",
-      "vaulted": false
-    }
-  },
-  {
-    "shadow_assault": {
-      "name": "Shadow Assault",
-      "desc": "A rush of darkness.        ",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_assault := 30r SDW",
-      "vaulted": false
-    },
-    "shade_step": {
-      "name": "Shade Step",
-      "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shade_step := 30r SDW",
-      "vaulted": false
-    },
-    "encircle": {
-      "name": "Encircle",
-      "desc": "Conjure shadows around your enemy before warp-striking to them.",
-      "stars": 1,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "encircle := 20r SDW",
-      "vaulted": false
-    }
-  },
-  {
-    "shade_wisp": {
-      "name": "Shade Wisp",
-      "desc": "A servant of shadows.\n[Grants passive Tempo and occassionally conceals the caster (just their body, not location).]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shade_wisp := 30r SDW",
-      "vaulted": false
-    }
-  },
-  {
-    "shadow_chains": {
-      "name": "Shadow Chains",
-      "desc": "Chains of shadow.\t",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_chains := 20r SDW",
-      "vaulted": false
-    },
-    "shadow_roar": {
-      "name": "Shadow Roar",
-      "desc": "Roar a wave of shadows.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_roar := 30r SDW",
-      "vaulted": false
-    },
-    "shadow_seekers": {
-      "name": "Shadow Seekers",
-      "desc": "Call forth the void to track your opponents.        ",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_seekers := 20r SDW",
-      "vaulted": false
-    },
-    "shadow_vortex": {
-      "name": "Shadow Vortex",
-      "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_vortex := 50r SDW",
-      "vaulted": true
-    },
-    "shadow_meteors": {
-      "name": "Shadow Meteors",
-      "desc": "Hail down meteors of darkness.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_meteors := 30r SDW",
-      "vaulted": false
-    },
-    "eclipse_kick": {
-      "name": "Eclipse Kick",
-      "desc": "Show your foes your strength.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "eclipse_kick := 15r STR, 50r SDW",
-      "vaulted": false
-    },
-    "shadow_gun": {
-      "name": "Shadow Gun",
-      "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_gun := 1r SDW",
-      "vaulted": false
-    },
-    "umbral_slash": {
-      "name": "Umbral Slash",
-      "desc": "Perform a diagonal shadow-infused slash.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "umbral_slash := 30r SDW",
-      "vaulted": false
-    },
-    "clutching_shadow": {
-      "name": "Clutching Shadow",
-      "desc": "A shadowy hand.\t",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "clutching_shadow := 1r SDW",
-      "vaulted": false
-    },
-    "dark_blade": {
-      "name": "Dark Blade",
-      "desc": "Slicing blades of dark energy.\t",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "dark_blade := 1r SDW",
-      "vaulted": false
-    },
-    "rising_shadow": {
-      "name": "Rising Shadow",
-      "desc": "Form a Shockwave of darkness.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "rising_shadow := 30r SDW",
-      "vaulted": false
-    },
-    "shadow_eruption": {
-      "name": "Shadow Eruption",
-      "desc": "Form a shockwave of darkness.\t",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shadow_eruption := 20r SDW",
-      "vaulted": false
-    },
-    "shade_bringer": {
-      "name": "Shade Bringer",
-      "desc": "Temporarily summon a shadow greatsword for a large slash.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shade_bringer := 50r SDW",
-      "vaulted": false
-    }
-  },
-  {
-    "shade_devour": {
-      "name": "Shade Devour",
-      "desc": "Gorge on your own health for raw strength.",
-      "stars": 1,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "shade_devour := 20r SDW",
-      "vaulted": false
-    },
-    "devouring_eye": {
-      "name": "Devouring Eye",
-      "desc": "Summon a fragile eye that consumes the ether of those who try to cast mantras within it's gaze.",
-      "stars": 2,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Shadowcast"
-      ],
-      "reqs": "devouring_eye := 30r SDW",
-      "vaulted": false
-    }
-  },
-  {
-    "glacial_arc": {
-      "name": "Glacial Arc",
-      "desc": "An arc of ice.\r",
-      "stars": 1,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "glacial_arc := 20r ICE",
-      "vaulted": false
-    },
-    "ice_skate": {
-      "name": "Ice Skate",
-      "desc": "Skate freely on paths of ice.\r",
-      "stars": 3,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_skate := 50r ICE",
-      "vaulted": false
-    }
-  },
-  {
-    "frost_wisp": {
-      "name": "Frost Wisp",
-      "desc": "A servant of Ice.\n[Occasionally freezes the ground below you. Shoots a small beam of ice whenever the user vents successfully.]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "frost_wisp := 30r ICE",
-      "vaulted": false
-    }
-  },
-  {
-    "wardens_blades": {
-      "name": "Warden's Blades",
-      "desc": "Revolving blades of ice.\r",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "wardens_blades := 1r ICE",
-      "vaulted": false
-    },
-    "ice_forge": {
-      "name": "Ice Forge",
-      "desc": "Conjure and throw weapons of ice.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_forge := 20r ICE",
-      "vaulted": false
-    },
-    "ice_lance": {
-      "name": "Ice Lance",
-      "desc": "Form an icy spear and lunge forward.\n",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_lance := 30r ICE",
-      "vaulted": false
-    },
-    "ice_fissure": {
-      "name": "Ice Fissure",
-      "desc": "Send ice rippling out in a shockwave.\r",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_fissure := 50r ICE",
-      "vaulted": false
-    },
-    "ice_beam": {
-      "name": "Ice Beam",
-      "desc": "Fire a beam of ice.\r",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_beam := 1r ICE",
-      "vaulted": false
-    },
-    "ice_eruption": {
-      "name": "Ice Eruption",
-      "desc": "A flurry of ice spikes.\r\n",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_eruption := 20r ICE",
-      "vaulted": false
-    },
-    "ice_blade": {
-      "name": "Ice Blade",
-      "desc": "A barrage of freezing blades.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_blade := 20r ICE",
-      "vaulted": false
-    },
-    "crystal_impale": {
-      "name": "Crystal Impale",
-      "desc": "Impale your foes with a brutal crystal smash.\r",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "crystal_impale := 40r ICE",
-      "vaulted": false
-    },
-    "ice_spikes": {
-      "name": "Ice Spikes",
-      "desc": "Piercing spikes of ice.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_spikes := 1r ICE",
-      "vaulted": false
-    },
-    "crystal_knee": {
-      "name": "Crystal Knee",
-      "desc": "Knock your enemy skyward with a kick of crystal.\r",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "crystal_knee := 40r ICE",
-      "vaulted": false
-    },
-    "ice_smash": {
-      "name": "Ice Smash",
-      "desc": "A colossal mace of ice.\n[*Guard breaks at Level 5]",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_smash := 20r ICE",
-      "vaulted": false
-    },
-    "ice_chain": {
-      "name": "Ice Chain",
-      "desc": "Chains of ice.\r\n",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_chain := 20r ICE",
-      "vaulted": false
-    },
-    "frozen_servants": {
-      "name": "Frozen Servants",
-      "desc": "A legion of frost.\r",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "frozen_servants := 1r ICE",
-      "vaulted": false
-    },
-    "rising_frost": {
-      "name": "Rising Frost",
-      "desc": "Conjure a glaive of frost to launch your opponents skywards.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "rising_frost := 30r ICE",
-      "vaulted": false
-    },
-    "ice_flock": {
-      "name": "Ice Flock",
-      "desc": "Send forth a flock of ice.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_flock := 30r ICE",
-      "vaulted": false
-    },
-    "ice_lasers": {
-      "name": "Ice Lasers",
-      "desc": "Swift bolts of frozen air.\r\n",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_lasers := 40r ICE",
-      "vaulted": false
-    },
-    "ice_daggers": {
-      "name": "Ice Daggers",
-      "desc": "Form and toss daggers of ice at your aimed opponent.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_daggers := 20r ICE",
-      "vaulted": false
-    },
-    "ice_cubes": {
-      "name": "Ice Cubes",
-      "desc": "Manifest cubes of Ice to fire at your enemies. Cast mantra again to fire cubes.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_cubes := 50r ICE",
-      "vaulted": false
-    },
-    "frost_grab": {
-      "name": "Frost Grab",
-      "desc": "An icy chokehold.\r\n",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "frost_grab := 30r ICE",
-      "vaulted": false
-    },
-    "ice_carve": {
-      "name": "Ice Carve",
-      "desc": "A sharp disk of ice.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "ice_carve := 30r ICE",
-      "vaulted": false
-    }
-  },
-  {
-    "iceberg": {
-      "name": "Iceberg",
-      "desc": "Enter a state of cryostasis.\r",
-      "stars": 3,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Frostdraw"
-      ],
-      "reqs": "iceberg := 50r ICE",
-      "vaulted": false
-    }
-  },
-  {
-    "wind_passage": {
-      "name": "Wind Passage",
-      "desc": "A rush of wind.",
-      "stars": 3,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "wind_passage := 50r WND",
-      "vaulted": false
-    }
-  },
-  {
-    "gale_wisp": {
-      "name": "Gale Wisp",
-      "desc": "A servant of wind.\nReduces fall damage by 20%.\nWith Specter Path, restores your  Spectral Gauge.\nWith Haunted Gale, increases the duration of your Phantoms by 3s.",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "gale_wisp := 30r WND",
-      "vaulted": false
-    }
-  },
-  {
-    "updraft": {
-      "name": "Updraft",
-      "desc": "A lifting torrent of wind.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "updraft := 20r WND",
-      "vaulted": false
-    },
-    "wind_carve": {
-      "name": "Wind Carve",
-      "desc": "A quick swirl of sharp winds.\r",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "wind_carve := 30r WND",
-      "vaulted": false
-    },
-    "wind_forge": {
-      "name": "Wind Forge",
-      "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "wind_forge := 20r WND",
-      "vaulted": false
-    },
-    "twister_kicks": {
-      "name": "Twister Kicks",
-      "desc": "Go forth with spinning kicks infused with the wind.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "twister_kicks := 20r WND",
-      "vaulted": false
-    },
-    "tornado": {
-      "name": "Tornado",
-      "desc": "A rushing current of wind.\r\n",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "tornado := 20r WND",
-      "vaulted": false
-    },
-    "wind_gun": {
-      "name": "Wind Gun",
-      "desc": "A powerful wind blast.\r",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "wind_gun := 30r WND",
-      "vaulted": false
-    },
-    "heavenly_wind": {
-      "name": "Heavenly Wind",
-      "desc": "A strike from the heavens.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "heavenly_wind := 20r WND",
-      "vaulted": false
-    },
-    "gale_punch": {
-      "name": "Gale Punch",
-      "desc": "Form a punch of wind in your fist and release it.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "gale_punch := 20r WND",
-      "vaulted": false
-    },
-    "champions_whirlthrow": {
-      "name": "Champion's Whirlthrow",
-      "desc": "Grab your opponent and toss them with the power of gale.\n[*Guard breaks at Level 5]",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "champions_whirlthrow := 30r WND",
-      "vaulted": false
-    },
-    "tornado_kick": {
-      "name": "Tornado Kick",
-      "desc": "Slicing blades of wind.\r\n",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "tornado_kick := 1r WND",
-      "vaulted": false
-    },
-    "pillars_of_erisia": {
-      "name": "Pillars of Erisia",
-      "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "pillars_of_erisia := 50r WND",
-      "vaulted": false
-    },
-    "galetrap": {
-      "name": "Galetrap",
-      "desc": "Toss a wind landmine.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "galetrap := 20r WND",
-      "vaulted": false
-    },
-    "astral_wind": {
-      "name": "Astral Wind",
-      "desc": "A rapid delivery of consecutive attacks.\r",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "astral_wind := 50r WND",
-      "vaulted": false
-    },
-    "gale_lunge": {
-      "name": "Gale Lunge",
-      "desc": "A rush of piercing wind.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "gale_lunge := 20r WND",
-      "vaulted": false
-    },
-    "rising_wind": {
-      "name": "Rising Wind",
-      "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "rising_wind := 30r WND",
-      "vaulted": false
-    },
-    "wind_blade": {
-      "name": "Wind Blade",
-      "desc": "Slicing blades of wind.\r\n",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "wind_blade := 1r WND",
-      "vaulted": false
-    },
-    "air_force": {
-      "name": "Air Force",
-      "desc": "Shoots out an air blast.\n",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Galebreathe"
-      ],
-      "reqs": "air_force := 1r WND",
-      "vaulted": false
-    }
-  },
-  {
-    "flame_assault": {
-      "name": "Flame Assault",
-      "desc": "Dash forward in a spiral of flames.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_assault := 30r FLM",
-      "vaulted": false
-    },
-    "flame_leap": {
-      "name": "Flame Leap",
-      "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_leap := 30r FLM",
-      "vaulted": false
-    }
-  },
-  {
-    "flame_wisp": {
-      "name": "Flame Wisp",
-      "desc": "Create a servant of flames.\n[Converts 20% of your burn damage to healing (your flames deal reduced damage).]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_wisp := 30r FLM",
-      "vaulted": false
-    }
-  },
-  {
-    "ash_slam": {
-      "name": "Ash Slam",
-      "desc": "Strike the ground, turning it to ash.\r\n",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "ash_slam := 20r STR, 50r FLM",
-      "vaulted": false
-    },
-    "flaming_scourge": {
-      "name": "Flaming Scourge",
-      "desc": "Conjure a flaming whip and sling your foes around and into the ground with a devastating slam.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flaming_scourge := 50r FLM",
-      "vaulted": false
-    },
-    "flame_repulsion": {
-      "name": "Flame Repulsion",
-      "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_repulsion := 1r FLM",
-      "vaulted": false
-    },
-    "burning_servants": {
-      "name": "Burning Servants",
-      "desc": "Summon a legion of flaming spearmen that lunge inwards.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "burning_servants := 1r FLM",
-      "vaulted": false
-    },
-    "relentless_flames": {
-      "name": "Relentless Flames",
-      "desc": "Bear down on your foes with repeated fiery slashes.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "relentless_flames := 30r FLM",
-      "vaulted": false
-    },
-    "flame_grab": {
-      "name": "Flame Grab",
-      "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_grab := 1r FLM",
-      "vaulted": false
-    },
-    "fire_gun": {
-      "name": "Fire Gun",
-      "desc": "Shoot successive bullets of fire from your fingertips.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "fire_gun := 1r FLM",
-      "vaulted": false
-    },
-    "flame_sentinel": {
-      "name": "Flame Sentinel",
-      "desc": "Conjure a turret of flames.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_sentinel := 30r FLM",
-      "vaulted": false
-    },
-    "fire_eruption": {
-      "name": "Fire Eruption",
-      "desc": "A pyroclastic eruption.\n[*Guard breaks]",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "fire_eruption := 20r FLM",
-      "vaulted": false
-    },
-    "flare_volley": {
-      "name": "Flare Volley",
-      "desc": "Conjure up to 3 fireballs to volley at your enemies.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flare_volley := 30r FLM",
-      "vaulted": false
-    },
-    "searing_snare": {
-      "name": "Searing Snare",
-      "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "searing_snare := 20r FLM",
-      "vaulted": false
-    },
-    "fire_blade": {
-      "name": "Fire Blade",
-      "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "fire_blade := 1r FLM",
-      "vaulted": false
-    },
-    "rising_flame": {
-      "name": "Rising Flame",
-      "desc": "A rising tornado of flames.\r",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "rising_flame := 30r FLM",
-      "vaulted": false
-    },
-    "fire_palm": {
-      "name": "Fire Palm",
-      "desc": "A blast of flame.\r",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "fire_palm := 20r FLM",
-      "vaulted": false
-    },
-    "flame_ballista": {
-      "name": "Flame Ballista",
-      "desc": "Conjure a flaming arrow and fire it at your target.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_ballista := 50r FLM",
-      "vaulted": false
-    },
-    "fire_forge": {
-      "name": "Fire Forge",
-      "desc": "Conjure flaming daggers and throw them forwards.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "fire_forge := 20r FLM",
-      "vaulted": false
-    }
-  },
-  {
-    "graceful_flame": {
-      "name": "Graceful Flame",
-      "desc": "Conjure a campfire for you and your comrades to rest by.\n",
-      "stars": 1,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "graceful_flame := 20r FLM",
-      "vaulted": false
-    },
-    "flame_of_denial": {
-      "name": "Flame Of Denial",
-      "desc": "While active, you get right back up after being knocked.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_of_denial := 1r FLM",
-      "vaulted": false
-    },
-    "flame_blind": {
-      "name": "Flame Blind",
-      "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Flamecharm"
-      ],
-      "reqs": "flame_blind := 1r FLM",
-      "vaulted": false
-    }
-  },
-  {
-    "vein_tendrils": {
-      "name": "Vein Tendrils",
-      "desc": "Create tendrils of blood.",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "vein_tendrils := 30r BLD",
-      "vaulted": false
-    },
-    "sanguine_dive": {
-      "name": "Sanguine Dive",
-      "desc": "Create or jump into a pool of blood.",
-      "stars": 1,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "sanguine_dive := 20r BLD",
-      "vaulted": false
-    }
-  },
-  {
-    "blood_wisp": {
-      "name": "Blood Wisp",
-      "desc": "A servant of blood.\n[Occasionally regenerates a small portion of your blood.]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "blood_wisp := 30r BLD",
-      "vaulted": false
-    }
-  },
-  {
-    "bloodtide_ritual": {
-      "name": "Bloodtide Ritual",
-      "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "bloodtide_ritual := 50r BLD",
-      "vaulted": false
-    },
-    "crucifixion": {
-      "name": "Crucifixion",
-      "desc": "Conjure a bloody cross.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "crucifixion := 1r BLD",
-      "vaulted": false
-    },
-    "bloodcurdle": {
-      "name": "Bloodcurdle",
-      "desc": "Manipulate the blood within your target's body.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "bloodcurdle := 50r BLD",
-      "vaulted": false
-    },
-    "crimson_rain": {
-      "name": "Crimson Rain",
-      "desc": "Release blood daggers. Recast to recall them.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "crimson_rain := 30r BLD",
-      "vaulted": false
-    },
-    "vicious_descent": {
-      "name": "Vicious Descent",
-      "desc": "Leap into the air and slam down with vengeance.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "vicious_descent := 20r BLD",
-      "vaulted": false
-    },
-    "crimson_surge": {
-      "name": "Crimson Surge",
-      "desc": "Slash upwards and launch slashes of blood.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "crimson_surge := 30r BLD",
-      "vaulted": false
-    },
-    "blood_stakes": {
-      "name": "Blood Stakes",
-      "desc": "Create stakes of blood.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "blood_stakes := 20r BLD",
-      "vaulted": false
-    },
-    "bloodedge": {
-      "name": "Bloodedge",
-      "desc": "Conjure a scythe of blood and swing.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "bloodedge := 20r BLD",
-      "vaulted": false
-    },
-    "scarlet_cannon": {
-      "name": "Scarlet Cannon",
-      "desc": "Create a giant blood beam.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "scarlet_cannon := 30r BLD",
-      "vaulted": false
-    },
-    "scarlet_cyclone": {
-      "name": "Scarlet Cyclone",
-      "desc": "Create a cyclone of blood.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "scarlet_cyclone := 1r BLD",
-      "vaulted": false
-    },
-    "soulflare_siphon": {
-      "name": "Soulflare Siphon",
-      "desc": "Grab and siphon the blood out of your victim.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "soulflare_siphon := 30r BLD",
-      "vaulted": false
-    },
-    "razor_blitz": {
-      "name": "Razor Blitz",
-      "desc": "Create weapons on your arms and dash through.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "razor_blitz := 30r BLD",
-      "vaulted": false
-    },
-    "blood_orb": {
-      "name": "Blood Orb",
-      "desc": "Release an amalgamation of your blood.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "blood_orb := 1r BLD",
-      "vaulted": false
-    },
-    "veinbreaker": {
-      "name": "Veinbreaker",
-      "desc": "Charge up a strong punch infused with your blood.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Bloodrend"
-      ],
-      "reqs": "veinbreaker := 30r BLD",
-      "vaulted": false
-    }
-  },
-  {
-    "ether_barrage": {
-      "name": "Ether Barrage",
-      "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Intelligence"
-      ],
-      "reqs": "ether_barrage := 30r INT",
-      "vaulted": false
-    }
-  },
-  {
-    "lightning_cloak": {
-      "name": "Lightning Cloak",
-      "desc": "A lightning cloak that empowers you.\n[Note: Increases swing speed by 10% and empowers your dashes.]\n[Note: The duration of this Mantra can be increased by chaining attacks.]",
-      "stars": 3,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_cloak := 50r LTN",
-      "vaulted": false
-    },
-    "lightning_assault": {
-      "name": "Lightning Assault",
-      "desc": "A rush of lightning.\t",
-      "stars": 2,
-      "category": "Mobility",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_assault := 30r LTN",
-      "vaulted": false
-    }
-  },
-  {
-    "thunder_wisp": {
-      "name": "Thunder Wisp",
-      "desc": "A servant of lightning.\n[Applies \"Sapping\" to a target upon being uppercutted or flourished.]",
-      "stars": 2,
-      "category": "Wisp",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "thunder_wisp := 30r LTN",
-      "vaulted": false
-    }
-  },
-  {
-    "rising_thunder": {
-      "name": "Rising Thunder",
-      "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "rising_thunder := 50r LTN",
-      "vaulted": false
-    },
-    "thunder_kick": {
-      "name": "Thunder Kick",
-      "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "thunder_kick := 20r LTN",
-      "vaulted": false
-    },
-    "grand_javelin": {
-      "name": "Grand Javelin",
-      "desc": "A javelin of lightning.\t",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "grand_javelin := 30r LTN",
-      "vaulted": false
-    },
-    "lightning_blade": {
-      "name": "Lightning Blade",
-      "desc": "Arcing blades of electricity.\t",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_blade := 1r LTN",
-      "vaulted": false
-    },
-    "emotion_wave": {
-      "name": "Emotion Wave",
-      "desc": "Conjure up surging waves of lightning that travel along the ground.\n[*Guard breaks on first hit]",
-      "stars": 3,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "emotion_wave := 50r LTN",
-      "vaulted": false
-    },
-    "jolt_grab": {
-      "name": "Jolt Grab",
-      "desc": "An electrified chokehold.\t",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "jolt_grab := 1r LTN",
-      "vaulted": false
-    },
-    "lightning_clones": {
-      "name": "Lightning Clones",
-      "desc": "Replicated forms of yourself conjured from electricity.\t",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_clones := 20r LTN",
-      "vaulted": false
-    },
-    "lightning_strike": {
-      "name": "Lightning Strike",
-      "desc": "A strike of thunder at your desired location.\t",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_strike := 20r LTN",
-      "vaulted": false
-    },
-    "fleeting_sparks": {
-      "name": "Fleeting Sparks",
-      "desc": "Call forth notes of electricity that seek out your foes.",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "fleeting_sparks := 20r LTN",
-      "vaulted": false
-    },
-    "storm_blades": {
-      "name": "Storm Blades",
-      "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "storm_blades := 30r LTN",
-      "vaulted": false
-    },
-    "electro_carve": {
-      "name": "Electro Carve",
-      "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "electro_carve := 20r LTN",
-      "vaulted": false
-    },
-    "lightning_beam": {
-      "name": "Lightning Beam",
-      "desc": "Fire a beam of lightning.\t",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_beam := 1r LTN",
-      "vaulted": false
-    },
-    "lightning_impact": {
-      "name": "Lightning Impact",
-      "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
-      "stars": 1,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_impact := 20r LTN",
-      "vaulted": false
-    },
-    "bolt_piercer": {
-      "name": "Bolt Piercer",
-      "desc": "An arrow of lighting.\t",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "bolt_piercer := 30r LTN",
-      "vaulted": false
-    }
-  },
-  {
-    "lightning_stream": {
-      "name": "Lightning Stream",
-      "desc": "A stream of lightning.\t",
-      "stars": 1,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "lightning_stream := 20r LTN",
-      "vaulted": false
-    },
-    "spark_swap": {
-      "name": "Spark Swap",
-      "desc": "Almost instantaneous swap of location with whoever your cursor is on.",
-      "stars": 3,
-      "category": "Support",
-      "type": "Attunement",
-      "attributes": [
-        "Thundercall"
-      ],
-      "reqs": "spark_swap := 50r LTN",
-      "vaulted": false
-    }
-  },
-  {
-    "beast_burrow": {
-      "name": "Beast Burrow",
-      "desc": "Burrow underneath the ground before bursting out, knocking enemies up.",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "beast_burrow := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "dread_breath": {
-      "name": "Dread Breath",
-      "desc": "Channels the song through the power of the Dread Serpent.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "dread_breath := ()",
-      "vaulted": false
-    },
-    "abyssal_ridge": {
-      "name": "Abyssal Ridge",
-      "desc": "Send a cascading eruption towards your foes, forcing them to react.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "abyssal_ridge := ()",
-      "vaulted": false
-    },
-    "mecha_gatling": {
-      "name": "Mecha Gatling",
-      "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "mecha_gatling := ()",
-      "vaulted": false
-    },
-    "whirling_blade": {
-      "name": "Whirling Blade",
-      "desc": "A chitinous scythe to cut through your foes in a whirl.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "whirling_blade := ()",
-      "vaulted": false
-    },
-    "brachial_spear": {
-      "name": "Brachial Spear",
-      "desc": "A javelin of jagged bone.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "brachial_spear := ()",
-      "vaulted": false
-    },
-    "coral_spear": {
-      "name": "Coral Spear",
-      "desc": "Fire corals all around you.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "coral_spear := ()",
-      "vaulted": false
-    },
-    "pumpkin_pitch": {
-      "name": "Pumpkin Pitch",
-      "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "pumpkin_pitch := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "enforcer_pull": {
-      "name": "Enforcer Pull",
-      "desc": "Pull enemies towards you.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "enforcer_pull := ()",
-      "vaulted": false
-    },
-    "disguise": {
-      "name": "Disguise",
-      "desc": "Take on an unimaginable disguise.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Monster",
-      "attributes": [
-        "Monster Mantra"
-      ],
-      "reqs": "disguise := 21r CHA",
-      "vaulted": false
-    }
-  },
-  {
-    "onslaught": {
-      "name": "Onslaught",
-      "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Heavy Weapons"
-      ],
-      "reqs": "onslaught := 50r HVY",
-      "vaulted": false
-    },
-    "punishment": {
-      "name": "Punishment",
-      "desc": "Absorb damage then return fury upon your foes.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Heavy Weapons"
-      ],
-      "reqs": "punishment := 50r HVY",
-      "vaulted": false
-    },
-    "pressure_blast": {
-      "name": "Pressure Blast",
-      "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Heavy Weapons"
-      ],
-      "reqs": "pressure_blast := 30r HVY",
-      "vaulted": false
-    }
-  },
-  {
-    "shoulder_bash": {
-      "name": "Shoulder Bash",
-      "desc": "Rush at your enemies with full physical force.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Fortitude"
-      ],
-      "reqs": "shoulder_bash := 35r FTD",
-      "vaulted": false
-    }
-  },
-  {
-    "rally": {
-      "name": "Rally",
-      "desc": "Strike your shield a few times to absorb some of the posture received by your allies.\t\r",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Fortitude"
-      ],
-      "reqs": "rally := 10r FTD",
-      "vaulted": false
-    },
-    "reinforce": {
-      "name": "Reinforce",
-      "desc": "Buff those around you with extra defense and damage.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Fortitude"
-      ],
-      "reqs": "reinforce := 50r FTD",
-      "vaulted": false
-    },
-    "brace": {
-      "name": "Brace",
-      "desc": "Brace yourself against attacks and gain hyperarmour.        ",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Fortitude"
-      ],
-      "reqs": "brace := 75r FTD",
-      "vaulted": false
-    }
-  },
-  {
-    "strong_leap": {
-      "name": "Strong Leap",
-      "desc": "Kick off of the ground with your strength, sending you into the air.\t\r",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "strong_leap := 50r STR",
-      "vaulted": false
-    }
-  },
-  {
-    "throw": {
-      "name": "Throw",
-      "desc": "Grab and throw your enemies.\n[*You must defeat Titus.]",
-      "stars": 2,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "throw := 35r STR",
-      "vaulted": false
-    },
-    "table_flip": {
-      "name": "Table Flip",
-      "desc": "Toss the ground infront of you.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "table_flip := 40r STR",
-      "vaulted": false
-    },
-    "rapid_punches": {
-      "name": "Rapid Punches",
-      "desc": "Unleash a barrage of blows against your foes.\t\r\n",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "rapid_punches := 20r STR",
-      "vaulted": false
-    },
-    "skyshatter_kick": {
-      "name": "Skyshatter Kick",
-      "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "skyshatter_kick := 80r STR",
-      "vaulted": false
-    },
-    "strong_left": {
-      "name": "Strong Left",
-      "desc": "A powerful, flinging punch that shatters the air.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Strength"
-      ],
-      "reqs": "strong_left := 20r STR",
-      "vaulted": false
-    }
-  },
-  {
-    "tacet_drop_kick": {
-      "name": "Tacet Drop Kick",
-      "desc": "[Jus Karita] Disguise yourself in tacet and drop kick your enemies.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "jus_karita => tacet_drop_kick := 5r STR",
-      "vaulted": false
-    },
-    "twinstrikes": {
-      "name": "Twinstrikes",
-      "desc": "Launch quick and devastating kicks.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "twinstrikes := 40r AGL, 60r STR",
-      "vaulted": false
-    }
-  },
-  {
-    "glare": {
-      "name": "Glare",
-      "desc": "Opponents facing you are briefly rendered immobile.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Multiple"
-      ],
-      "reqs": "glare := 5r WLL, 25r CHA",
-      "vaulted": false
-    }
-  },
-  {
-    "dread_whisper": {
-      "name": "Dread Whisper",
-      "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Charisma"
-      ],
-      "reqs": "dread_whisper := 50r CHA",
-      "vaulted": false
-    },
-    "sing": {
-      "name": "Sing",
-      "desc": "Charm those around you with your powerful voice.        \n",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Charisma"
-      ],
-      "reqs": "sing := 25r CHA",
-      "vaulted": false
-    },
-    "taunt": {
-      "name": "Taunt",
-      "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Charisma"
-      ],
-      "reqs": "taunt := 25r CHA",
-      "vaulted": false
-    }
-  },
-  {
-    "prominence_draw": {
-      "name": "Prominence Draw",
-      "desc": "Close the distance and deliver a fast slash.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Medium Weapons"
-      ],
-      "reqs": "prominence_draw := 50r MED",
-      "vaulted": false
-    },
-    "flashdraw_strike": {
-      "name": "Flashdraw Strike",
-      "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Medium Weapons"
-      ],
-      "reqs": "flashdraw_strike := 25r AGL, 60r MED",
-      "vaulted": false
-    },
-    "twincleave": {
-      "name": "Twincleave",
-      "desc": "Dart around the battlefield with devastating cleaves delivered in quick succesion.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Medium Weapons"
-      ],
-      "reqs": "twincleave := 50r MED",
-      "vaulted": false
-    },
-    "masters_flourish": {
-      "name": "Master's Flourish",
-      "desc": "A powerful slash that chips through block and slashes through armor.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Medium Weapons"
-      ],
-      "reqs": "masters_flourish := 30r MED",
-      "vaulted": false
-    },
-    "slice_n_dice": {
-      "name": "Slice 'n' Dice",
-      "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Medium Weapons"
-      ],
-      "reqs": "slice_n_dice := 60r MED",
-      "vaulted": false
-    }
-  },
-  {
-    "karita_leap": {
-      "name": "Karita Leap",
-      "desc": "Launch yourself into a flying kick, backflipping you into the air if you hit a wall.",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Attunementless",
-      "attributes": [
-        "Light Weapons"
-      ],
-      "reqs": "karita_leap := 20r LHT",
-      "vaulted": false
-    }
-  },
-  {
-    "karita_divebomb": {
-      "name": "Karita Divebomb",
-      "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Light Weapons"
-      ],
-      "reqs": "karita_divebomb := 20r LHT",
-      "vaulted": false
-    },
-    "ceaseless_slashes": {
-      "name": "Ceaseless Slashes",
-      "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Light Weapons"
-      ],
-      "reqs": "ceaseless_slashes := 50r LHT",
-      "vaulted": false
-    },
-    "rapid_slashes": {
-      "name": "Rapid Slashes",
-      "desc": "Rush down your opponent cutting them apart.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Light Weapons"
-      ],
-      "reqs": "rapid_slashes := 30r LHT",
-      "vaulted": false
-    }
-  },
-  {
-    "neural_pathway": {
-      "name": "Neural Pathway",
-      "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.\n[Does not go through walls.]",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Attunementless",
-      "attributes": [
-        "Intelligence"
-      ],
-      "reqs": "neural_pathway := 35r INT",
-      "vaulted": false
-    }
-  },
-  {
-    "prediction": {
-      "name": "Prediction",
-      "desc": "Predict an opponent's attack and reflect it.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Intelligence"
-      ],
-      "reqs": "prediction := 50r INT",
-      "vaulted": false
-    }
-  },
-  {
-    "summon_cauldron": {
-      "name": "Summon Cauldron",
-      "desc": "Make a cauldron appear from your memories.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Intelligence"
-      ],
-      "reqs": "summon_cauldron := 20r INT",
-      "vaulted": false
-    }
-  },
-  {
-    "exhaustion_strike": {
-      "name": "Exhaustion Strike",
-      "desc": "Execute a quick strike, emptying your posture when landed.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Willpower"
-      ],
-      "reqs": "exhaustion_strike := 40r WLL",
-      "vaulted": false
-    }
-  },
-  {
-    "gaze": {
-      "name": "Gaze",
-      "desc": "Gaze into your opponent's souls.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Willpower"
-      ],
-      "reqs": "gaze := 30r WLL",
-      "vaulted": false
-    }
-  },
-  {
-    "dash": {
-      "name": "Dash",
-      "desc": "An agile dash.",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Attunementless",
-      "attributes": [
-        "Agility"
-      ],
-      "reqs": "dash := 40r AGL",
-      "vaulted": false
-    }
-  },
-  {
-    "revenge": {
-      "name": "Revenge",
-      "desc": "A vengeful rush.\t\r\n",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Attunementless",
-      "attributes": [
-        "Agility"
-      ],
-      "reqs": "revenge := 5r AGL",
-      "vaulted": false
-    }
-  },
-  {
-    "adrenaline_surge": {
-      "name": "Adrenaline Surge",
-      "desc": "An adrenaline rush of mobility.\t",
-      "stars": 0,
-      "category": "Support",
-      "type": "Attunementless",
-      "attributes": [
-        "Agility"
-      ],
-      "reqs": "adrenaline_surge := 20r AGL",
-      "vaulted": false
-    }
-  },
-  {
-    "grand_wardens_axe": {
-      "name": "Grand Warden's Axe",
-      "desc": "Create a lightning axe!\n[*Note: Requires Authority Ensign Origin's Shock Corps Division.]\n[*Note: You can M1 during this Mantra's windup to change the attack, dealing more damage and posture damage with a vertical swing, rather than the normal horizontal attack.]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Origin",
-      "attributes": [
-        "Authority Ensign"
-      ],
-      "reqs": "grand_wardens_axe := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "hidden_blade": {
-      "name": "Hidden Blade",
-      "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison.\n[*Note: Requires Authority Ensign Origin's Inquisition Division]",
-      "stars": 0,
-      "category": "Support",
-      "type": "Origin",
-      "attributes": [
-        "Authority Ensign"
-      ],
-      "reqs": "hidden_blade := ()",
-      "vaulted": false
-    },
-    "glorious_charge": {
-      "name": "Glorious Charge",
-      "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.\n[*Note: Requires Authority Ensign Origin's Command Division.]",
-      "stars": 0,
-      "category": "Support",
-      "type": "Origin",
-      "attributes": [
-        "Authority Ensign"
-      ],
-      "reqs": "glorious_charge := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "rupture": {
-      "name": "Rupture",
-      "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Chainwarden"
-      ],
-      "reqs": "oath_chainwarden => rupture := ()",
-      "vaulted": false
-    },
-    "impel": {
-      "name": "Impel",
-      "desc": "Blast through your opponent's guard and pull them towards you.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Chainwarden"
-      ],
-      "reqs": "oath_chainwarden => impel := ()",
-      "vaulted": false
-    },
-    "restrain": {
-      "name": "Restrain",
-      "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Chainwarden"
-      ],
-      "reqs": "oath_chainwarden => restrain := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "close_shave": {
-      "name": "Close Shave",
-      "desc": "Close the distance and deliver a fast slash.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Fadetrimmer"
-      ],
-      "reqs": "oath_fadetrimmer => close_shave := ()",
-      "vaulted": false
-    },
-    "precision_cuts": {
-      "name": "Precision Cuts",
-      "desc": "Snip forward with your scissors!",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Fadetrimmer"
-      ],
-      "reqs": "oath_fadetrimmer => precision_cuts := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "celestial_assault": {
-      "name": "Celestial Assault",
-      "desc": "Use your wings and deliver two critical blows.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Starkindred"
-      ],
-      "reqs": "oath_starkindred => celestial_assault := ()",
-      "vaulted": false
-    },
-    "sinister_halo": {
-      "name": "Sinister Halo",
-      "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Starkindred"
-      ],
-      "reqs": "oath_starkindred => sinister_halo := ()",
-      "vaulted": false
-    },
-    "ascension": {
-      "name": "Ascension",
-      "desc": "Take to the skies for a devastating strike.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Starkindred"
-      ],
-      "reqs": "oath_starkindred => ascension := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "illusory_servants": {
-      "name": "Illusory Servants",
-      "desc": "Spawns an illusion of yourself that targets the closest player.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Visionshaper"
-      ],
-      "reqs": "oath_visionshaper => illusory_servants := ()",
-      "vaulted": false
-    },
-    "illusory_counter": {
-      "name": "Illusory Counter",
-      "desc": "If hit during the pose, negate the attacks and teleport the user behind the attacker.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Visionshaper"
-      ],
-      "reqs": "oath_visionshaper => illusory_counter := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "mirror_illusion": {
-      "name": "Mirror Illusion",
-      "desc": "Mirror your opponents and use their arsenal to your advantage.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Visionshaper"
-      ],
-      "reqs": "oath_visionshaper => mirror_illusion := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "arc_beam": {
-      "name": "Arc Beam",
-      "desc": "Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Arcwarder"
-      ],
-      "reqs": "oath_arcwarder => arc_beam := ()",
-      "vaulted": false
-    },
-    "arc_wave": {
-      "name": "Arc Wave",
-      "desc": "Release a wave of energy around you, dealing fire and lightning damage.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Arcwarder"
-      ],
-      "reqs": "oath_arcwarder => arc_wave := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "arc_suit": {
-      "name": "Arc Suit",
-      "desc": "Encases the user in a durable armor.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Arcwarder"
-      ],
-      "reqs": "oath_arcwarder => arc_suit := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "sightless_beam": {
-      "name": "Sightless Beam",
-      "desc": "Fires a high pressure beam from your eyes.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Blindseer"
-      ],
-      "reqs": "oath_blindseer => sightless_beam := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "mindsoothe": {
-      "name": "Mindsoothe",
-      "desc": "Heal nearby Players at the cost of your Sanity.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Blindseer"
-      ],
-      "reqs": "oath_blindseer => mindsoothe := ()",
-      "vaulted": false
-    },
-    "tranquil_circle": {
-      "name": "Tranquil Circle",
-      "desc": "Disables mantras from being used, gives 10% Monster Armour and also gain total immunity to mantras whilst inside the radius.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Blindseer"
-      ],
-      "reqs": "oath_blindseer => tranquil_circle := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "lethal_injection": {
-      "name": "Lethal Injection",
-      "desc": "Inject all of your readied Autobrews into your target. This might sting.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Saltchemist"
-      ],
-      "reqs": "oath_saltchemist => lethal_injection := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "lords_slice": {
-      "name": "Lord's Slice",
-      "desc": "Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Contractor"
-      ],
-      "reqs": "oath_contractor => lords_slice := ()",
-      "vaulted": false
-    },
-    "equalizer": {
-      "name": "Equalizer",
-      "desc": "A counter that leaves your opponent open",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Contractor"
-      ],
-      "reqs": "oath_contractor => equalizer := ()",
-      "vaulted": false
-    },
-    "judgement": {
-      "name": "Judgement",
-      "desc": "Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Contractor"
-      ],
-      "reqs": "oath_contractor => judgement := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "blinding_dawn": {
-      "name": "Blinding Dawn",
-      "desc": "Dance uncontrollably. No one can withstand the sheer groove of your spin routine.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Dawnwalker"
-      ],
-      "reqs": "oath_dawnwalker => blinding_dawn := ()",
-      "vaulted": false
-    },
-    "radiant_kick": {
-      "name": "Radiant Kick",
-      "desc": "Kick your foes at the speed of light.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Dawnwalker"
-      ],
-      "reqs": "oath_dawnwalker => radiant_kick := ()",
-      "vaulted": false
-    },
-    "radiant_dawn": {
-      "name": "Radiant Dawn",
-      "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Dawnwalker"
-      ],
-      "reqs": "oath_dawnwalker => radiant_dawn := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "blade_of_saints": {
-      "name": "Blade of Saints",
-      "desc": "Conjure a blade attack depending on your Saint Stance.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Saintsworn"
-      ],
-      "reqs": "oath_saintsworn => blade_of_saints := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "parasitic_leech": {
-      "name": "Parasitic Leech",
-      "desc": "If linked to an enemy, this move will start leeching your opponent's health for a few seconds while healing you.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Linkstrider"
-      ],
-      "reqs": "oath_linkstrider => parasitic_leech := ()",
-      "vaulted": false
-    },
-    "symbiotic_sustain": {
-      "name": "Symbiotic Sustain",
-      "desc": "If linked to an ally, this move will take ~5% of your health and then heal your ally by that times an undefined amount.",
-      "stars": 0,
-      "category": "Support",
-      "type": "Oath",
-      "attributes": [
-        "Linkstrider"
-      ],
-      "reqs": "oath_linkstrider => symbiotic_sustain := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "jet_kick": {
-      "name": "Jet Kick",
-      "desc": "Rush forward with a jet kick. Requires a target if you're in combat.",
-      "stars": 0,
-      "category": "Mobility",
-      "type": "Oath",
-      "attributes": [
-        "Jetstriker"
-      ],
-      "reqs": "oath_jetstriker => jet_kick := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "fake_strike": {
-      "name": "Fake Strike",
-      "desc": "Trick your opponent and quickly go behind them.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Jetstriker"
-      ],
-      "reqs": "oath_jetstriker => fake_strike := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "tacet_kick": {
-      "name": "Tacet Kick",
-      "desc": "Slip out of perception and deliver a brutal kick.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Soulbreaker"
-      ],
-      "reqs": "oath_soulbreaker => tacet_kick := ()",
-      "vaulted": false
-    },
-    "rhythm_advance": {
-      "name": "Rhythm Advance",
-      "desc": "Rhythm Advance",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Soulbreaker"
-      ],
-      "reqs": "oath_soulbreaker => rhythm_advance := ()",
-      "vaulted": false
-    },
-    "ardour_slicer": {
-      "name": "Ardour Slicer",
-      "desc": "Close the distance and deliver a fast slash using your Ardour.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Soulbreaker"
-      ],
-      "reqs": "oath_soulbreaker => ardour_slicer := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "sovereign_drive": {
-      "name": "Sovereign Drive",
-      "desc": "Dash forward in a blink, knocking down enemies in your path.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Blightsurger"
-      ],
-      "reqs": "oath_blightsurger => sovereign_drive := ()",
-      "vaulted": false
-    },
-    "warp_kick": {
-      "name": "Warp Kick",
-      "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Blightsurger"
-      ],
-      "reqs": "oath_blightsurger => warp_kick := ()",
-      "vaulted": false
-    },
-    "skycrash": {
-      "name": "Skycrash",
-      "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Blightsurger"
-      ],
-      "reqs": "oath_blightsurger => skycrash := ()",
-      "vaulted": false
-    }
-  },
-  {
-    "palm_strike": {
-      "name": "Palm Strike",
-      "desc": "Strike your opponent with your palm. If your true power is revealed, slice them up into the air.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Bladeharper"
-      ],
-      "reqs": "oath_bladeharper => palm_strike := ()",
-      "vaulted": false
-    },
-    "decimate": {
-      "name": "Decimate",
-      "desc": "Cut through your opponent, if True Strength is active, this attack will extend to nearby enemies. Fists cannot use this mantra. Autogrips players if low enough or knocked.",
-      "stars": 0,
-      "category": "Combat",
-      "type": "Oath",
-      "attributes": [
-        "Bladeharper"
-      ],
-      "reqs": "oath_bladeharper => decimate := ()",
-      "vaulted": false
-    }
+{
+  "metal_rampart": {
+    "name": "Metal Rampart",
+    "desc": "Form a medium size pillar at the user location .",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_rampart := 1r MTL",
+    "vaulted": false
+  },
+  "metal_ball": {
+    "name": "Metal Ball",
+    "desc": "Form yourself into a metal ball and rush forward.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_ball := 30r MTL",
+    "vaulted": false
+  },
+  "metal_wisp": {
+    "name": "Metal Wisp",
+    "desc": "A servant of metal.\n[Regenerates armor durability, and applies Metal Rods when the caster vents.]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_wisp := 30r MTL",
+    "vaulted": false
+  },
+  "metal_fakeout": {
+    "name": "Metal Fakeout",
+    "desc": "Create a metal clone and appear behind your taget.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_fakeout := 30r MTL",
+    "vaulted": false
+  },
+  "metal_gatling": {
+    "name": "Metal Gatling",
+    "desc": "A deadly rush of several metallic rods.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_gatling := 50r MTL",
+    "vaulted": false
+  },
+  "metal_rain": {
+    "name": "Metal Rain",
+    "desc": "Rain down a incredible amount of metal rods ",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_rain := 30r MTL",
+    "vaulted": false
+  },
+  "iron_hug": {
+    "name": "Iron Hug",
+    "desc": "Grab your opponent and crush them with your ironclad grip.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "iron_hug := 50r MTL",
+    "vaulted": false
+  },
+  "metal_eruption": {
+    "name": "Metal Eruption",
+    "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_eruption := 1r MTL",
+    "vaulted": false
+  },
+  "iron_slam": {
+    "name": "Iron Slam",
+    "desc": "Conjure a giant rod of metal and slam it down.\n[*Guardbreaks at Level 5]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "iron_slam := 50r MTL",
+    "vaulted": false
+  },
+  "rocket_lance": {
+    "name": "Rocket Lance",
+    "desc": "Create a lance, impale your opponent, and send them flying.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "rocket_lance := 50r MTL",
+    "vaulted": false
+  },
+  "metal_armament": {
+    "name": "Metal Armament",
+    "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_armament := 50r MTL",
+    "vaulted": false
+  },
+  "caltrops": {
+    "name": "Caltrops",
+    "desc": "Throws 6 sharp metal traps.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "caltrops := 30r MTL",
+    "vaulted": false
+  },
+  "iron_quills": {
+    "name": "Iron Quills",
+    "desc": "Conjure metal from within, impaling surrounding enemies.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "iron_quills := 30r MTL",
+    "vaulted": false
+  },
+  "metal_kick": {
+    "name": "Metal Kick",
+    "desc": "A powerful kick laced with metal.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_kick := 20r MTL",
+    "vaulted": false
+  },
+  "needle_barrage": {
+    "name": "Needle Barrage",
+    "desc": "A barrage of metal rods.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "needle_barrage := 1r MTL",
+    "vaulted": false
+  },
+  "firing_line": {
+    "name": "Firing Line",
+    "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "firing_line := 30r MTL",
+    "vaulted": false
+  },
+  "oxidizing_rush": {
+    "name": "Oxidizing Rush",
+    "desc": "Conjure metal swords and rush forward with them",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "oxidizing_rush := 30r MTL",
+    "vaulted": false
+  },
+  "chain_pull": {
+    "name": "Chain Pull",
+    "desc": "Conjure a chain to pull your opponent.",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "chain_pull := 20r MTL",
+    "vaulted": false
+  },
+  "metal_turret": {
+    "name": "Metal Turret",
+    "desc": "An automated turret that fires at targets that cross its sight.",
+    "stars": 2,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_turret := 30r MTL",
+    "vaulted": false
+  },
+  "iron_skin": {
+    "name": "Iron Skin",
+    "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "iron_skin := 20r MTL",
+    "vaulted": false
+  },
+  "tempest_blitz": {
+    "name": "Tempest Blitz",
+    "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "tempest_blitz := 30r LTN, 30r WND",
+    "vaulted": false
+  },
+  "soul_beam": {
+    "name": "Soul Beam",
+    "desc": "Unknown",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+    "vaulted": false
+  },
+  "flashfire_sweep": {
+    "name": "Flashfire Sweep",
+    "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
+    "vaulted": false
+  },
+  "permafrost_prison": {
+    "name": "Permafrost Prison",
+    "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "permafrost_prison := 30r ICE, 30r SDW",
+    "vaulted": false
+  },
+  "iron_tether": {
+    "name": "Iron Tether",
+    "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "iron_tether := 30r LTN, 30r MTL",
+    "vaulted": false
+  },
+  "shadow_assault": {
+    "name": "Shadow Assault",
+    "desc": "A rush of darkness.        ",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_assault := 30r SDW",
+    "vaulted": false
+  },
+  "shade_step": {
+    "name": "Shade Step",
+    "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shade_step := 30r SDW",
+    "vaulted": false
+  },
+  "encircle": {
+    "name": "Encircle",
+    "desc": "Conjure shadows around your enemy before warp-striking to them.",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "encircle := 20r SDW",
+    "vaulted": false
+  },
+  "shade_wisp": {
+    "name": "Shade Wisp",
+    "desc": "A servant of shadows.\n[Grants passive Tempo and occassionally conceals the caster (just their body, not location).]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shade_wisp := 30r SDW",
+    "vaulted": false
+  },
+  "shadow_chains": {
+    "name": "Shadow Chains",
+    "desc": "Chains of shadow.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_chains := 20r SDW",
+    "vaulted": false
+  },
+  "shadow_roar": {
+    "name": "Shadow Roar",
+    "desc": "Roar a wave of shadows.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_roar := 30r SDW",
+    "vaulted": false
+  },
+  "shadow_seekers": {
+    "name": "Shadow Seekers",
+    "desc": "Call forth the void to track your opponents.        ",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_seekers := 20r SDW",
+    "vaulted": false
+  },
+  "shadow_vortex": {
+    "name": "Shadow Vortex",
+    "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_vortex := 50r SDW",
+    "vaulted": true
+  },
+  "shadow_meteors": {
+    "name": "Shadow Meteors",
+    "desc": "Hail down meteors of darkness.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_meteors := 30r SDW",
+    "vaulted": false
+  },
+  "eclipse_kick": {
+    "name": "Eclipse Kick",
+    "desc": "Show your foes your strength.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "eclipse_kick := 15r STR, 50r SDW",
+    "vaulted": false
+  },
+  "shadow_gun": {
+    "name": "Shadow Gun",
+    "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_gun := 1r SDW",
+    "vaulted": false
+  },
+  "umbral_slash": {
+    "name": "Umbral Slash",
+    "desc": "Perform a diagonal shadow-infused slash.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "umbral_slash := 30r SDW",
+    "vaulted": false
+  },
+  "clutching_shadow": {
+    "name": "Clutching Shadow",
+    "desc": "A shadowy hand.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "clutching_shadow := 1r SDW",
+    "vaulted": false
+  },
+  "dark_blade": {
+    "name": "Dark Blade",
+    "desc": "Slicing blades of dark energy.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "dark_blade := 1r SDW",
+    "vaulted": false
+  },
+  "rising_shadow": {
+    "name": "Rising Shadow",
+    "desc": "Form a Shockwave of darkness.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "rising_shadow := 30r SDW",
+    "vaulted": false
+  },
+  "shadow_eruption": {
+    "name": "Shadow Eruption",
+    "desc": "Form a shockwave of darkness.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_eruption := 20r SDW",
+    "vaulted": false
+  },
+  "shade_bringer": {
+    "name": "Shade Bringer",
+    "desc": "Temporarily summon a shadow greatsword for a large slash.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shade_bringer := 50r SDW",
+    "vaulted": false
+  },
+  "shade_devour": {
+    "name": "Shade Devour",
+    "desc": "Gorge on your own health for raw strength.",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shade_devour := 20r SDW",
+    "vaulted": false
+  },
+  "devouring_eye": {
+    "name": "Devouring Eye",
+    "desc": "Summon a fragile eye that consumes the ether of those who try to cast mantras within it's gaze.",
+    "stars": 2,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "devouring_eye := 30r SDW",
+    "vaulted": false
+  },
+  "glacial_arc": {
+    "name": "Glacial Arc",
+    "desc": "An arc of ice.\r",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "glacial_arc := 20r ICE",
+    "vaulted": false
+  },
+  "ice_skate": {
+    "name": "Ice Skate",
+    "desc": "Skate freely on paths of ice.\r",
+    "stars": 3,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_skate := 50r ICE",
+    "vaulted": false
+  },
+  "frost_wisp": {
+    "name": "Frost Wisp",
+    "desc": "A servant of Ice.\n[Occasionally freezes the ground below you. Shoots a small beam of ice whenever the user vents successfully.]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "frost_wisp := 30r ICE",
+    "vaulted": false
+  },
+  "wardens_blades": {
+    "name": "Warden's Blades",
+    "desc": "Revolving blades of ice.\r",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "wardens_blades := 1r ICE",
+    "vaulted": false
+  },
+  "ice_forge": {
+    "name": "Ice Forge",
+    "desc": "Conjure and throw weapons of ice.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_forge := 20r ICE",
+    "vaulted": false
+  },
+  "ice_lance": {
+    "name": "Ice Lance",
+    "desc": "Form an icy spear and lunge forward.\n",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_lance := 30r ICE",
+    "vaulted": false
+  },
+  "ice_fissure": {
+    "name": "Ice Fissure",
+    "desc": "Send ice rippling out in a shockwave.\r",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_fissure := 50r ICE",
+    "vaulted": false
+  },
+  "ice_beam": {
+    "name": "Ice Beam",
+    "desc": "Fire a beam of ice.\r",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_beam := 1r ICE",
+    "vaulted": false
+  },
+  "ice_eruption": {
+    "name": "Ice Eruption",
+    "desc": "A flurry of ice spikes.\r\n",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_eruption := 20r ICE",
+    "vaulted": false
+  },
+  "ice_blade": {
+    "name": "Ice Blade",
+    "desc": "A barrage of freezing blades.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_blade := 20r ICE",
+    "vaulted": false
+  },
+  "crystal_impale": {
+    "name": "Crystal Impale",
+    "desc": "Impale your foes with a brutal crystal smash.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "crystal_impale := 40r ICE",
+    "vaulted": false
+  },
+  "ice_spikes": {
+    "name": "Ice Spikes",
+    "desc": "Piercing spikes of ice.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_spikes := 1r ICE",
+    "vaulted": false
+  },
+  "crystal_knee": {
+    "name": "Crystal Knee",
+    "desc": "Knock your enemy skyward with a kick of crystal.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "crystal_knee := 40r ICE",
+    "vaulted": false
+  },
+  "ice_smash": {
+    "name": "Ice Smash",
+    "desc": "A colossal mace of ice.\n[*Guard breaks at Level 5]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_smash := 20r ICE",
+    "vaulted": false
+  },
+  "ice_chain": {
+    "name": "Ice Chain",
+    "desc": "Chains of ice.\r\n",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_chain := 20r ICE",
+    "vaulted": false
+  },
+  "frozen_servants": {
+    "name": "Frozen Servants",
+    "desc": "A legion of frost.\r",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "frozen_servants := 1r ICE",
+    "vaulted": false
+  },
+  "rising_frost": {
+    "name": "Rising Frost",
+    "desc": "Conjure a glaive of frost to launch your opponents skywards.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "rising_frost := 30r ICE",
+    "vaulted": false
+  },
+  "ice_flock": {
+    "name": "Ice Flock",
+    "desc": "Send forth a flock of ice.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_flock := 30r ICE",
+    "vaulted": false
+  },
+  "ice_lasers": {
+    "name": "Ice Lasers",
+    "desc": "Swift bolts of frozen air.\r\n",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_lasers := 40r ICE",
+    "vaulted": false
+  },
+  "ice_daggers": {
+    "name": "Ice Daggers",
+    "desc": "Form and toss daggers of ice at your aimed opponent.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_daggers := 20r ICE",
+    "vaulted": false
+  },
+  "ice_cubes": {
+    "name": "Ice Cubes",
+    "desc": "Manifest cubes of Ice to fire at your enemies. Cast mantra again to fire cubes.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_cubes := 50r ICE",
+    "vaulted": false
+  },
+  "frost_grab": {
+    "name": "Frost Grab",
+    "desc": "An icy chokehold.\r\n",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "frost_grab := 30r ICE",
+    "vaulted": false
+  },
+  "ice_carve": {
+    "name": "Ice Carve",
+    "desc": "A sharp disk of ice.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_carve := 30r ICE",
+    "vaulted": false
+  },
+  "iceberg": {
+    "name": "Iceberg",
+    "desc": "Enter a state of cryostasis.\r",
+    "stars": 3,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "iceberg := 50r ICE",
+    "vaulted": false
+  },
+  "wind_passage": {
+    "name": "Wind Passage",
+    "desc": "A rush of wind.",
+    "stars": 3,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_passage := 50r WND",
+    "vaulted": false
+  },
+  "gale_wisp": {
+    "name": "Gale Wisp",
+    "desc": "A servant of wind.\nReduces fall damage by 20%.\nWith Specter Path, restores your  Spectral Gauge.\nWith Haunted Gale, increases the duration of your Phantoms by 3s.",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "gale_wisp := 30r WND",
+    "vaulted": false
+  },
+  "updraft": {
+    "name": "Updraft",
+    "desc": "A lifting torrent of wind.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "updraft := 20r WND",
+    "vaulted": false
+  },
+  "wind_carve": {
+    "name": "Wind Carve",
+    "desc": "A quick swirl of sharp winds.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_carve := 30r WND",
+    "vaulted": false
+  },
+  "wind_forge": {
+    "name": "Wind Forge",
+    "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_forge := 20r WND",
+    "vaulted": false
+  },
+  "twister_kicks": {
+    "name": "Twister Kicks",
+    "desc": "Go forth with spinning kicks infused with the wind.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "twister_kicks := 20r WND",
+    "vaulted": false
+  },
+  "tornado": {
+    "name": "Tornado",
+    "desc": "A rushing current of wind.\r\n",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "tornado := 20r WND",
+    "vaulted": false
+  },
+  "wind_gun": {
+    "name": "Wind Gun",
+    "desc": "A powerful wind blast.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_gun := 30r WND",
+    "vaulted": false
+  },
+  "heavenly_wind": {
+    "name": "Heavenly Wind",
+    "desc": "A strike from the heavens.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "heavenly_wind := 20r WND",
+    "vaulted": false
+  },
+  "gale_punch": {
+    "name": "Gale Punch",
+    "desc": "Form a punch of wind in your fist and release it.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "gale_punch := 20r WND",
+    "vaulted": false
+  },
+  "champions_whirlthrow": {
+    "name": "Champion's Whirlthrow",
+    "desc": "Grab your opponent and toss them with the power of gale.\n[*Guard breaks at Level 5]",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "champions_whirlthrow := 30r WND",
+    "vaulted": false
+  },
+  "tornado_kick": {
+    "name": "Tornado Kick",
+    "desc": "Slicing blades of wind.\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "tornado_kick := 1r WND",
+    "vaulted": false
+  },
+  "pillars_of_erisia": {
+    "name": "Pillars of Erisia",
+    "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "pillars_of_erisia := 50r WND",
+    "vaulted": false
+  },
+  "galetrap": {
+    "name": "Galetrap",
+    "desc": "Toss a wind landmine.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "galetrap := 20r WND",
+    "vaulted": false
+  },
+  "astral_wind": {
+    "name": "Astral Wind",
+    "desc": "A rapid delivery of consecutive attacks.\r",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "astral_wind := 50r WND",
+    "vaulted": false
+  },
+  "gale_lunge": {
+    "name": "Gale Lunge",
+    "desc": "A rush of piercing wind.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "gale_lunge := 20r WND",
+    "vaulted": false
+  },
+  "rising_wind": {
+    "name": "Rising Wind",
+    "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "rising_wind := 30r WND",
+    "vaulted": false
+  },
+  "wind_blade": {
+    "name": "Wind Blade",
+    "desc": "Slicing blades of wind.\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_blade := 1r WND",
+    "vaulted": false
+  },
+  "air_force": {
+    "name": "Air Force",
+    "desc": "Shoots out an air blast.\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "air_force := 1r WND",
+    "vaulted": false
+  },
+  "flame_assault": {
+    "name": "Flame Assault",
+    "desc": "Dash forward in a spiral of flames.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_assault := 30r FLM",
+    "vaulted": false
+  },
+  "flame_leap": {
+    "name": "Flame Leap",
+    "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_leap := 30r FLM",
+    "vaulted": false
+  },
+  "flame_wisp": {
+    "name": "Flame Wisp",
+    "desc": "Create a servant of flames.\n[Converts 20% of your burn damage to healing (your flames deal reduced damage).]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_wisp := 30r FLM",
+    "vaulted": false
+  },
+  "ash_slam": {
+    "name": "Ash Slam",
+    "desc": "Strike the ground, turning it to ash.\r\n",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "ash_slam := 20r STR, 50r FLM",
+    "vaulted": false
+  },
+  "flaming_scourge": {
+    "name": "Flaming Scourge",
+    "desc": "Conjure a flaming whip and sling your foes around and into the ground with a devastating slam.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flaming_scourge := 50r FLM",
+    "vaulted": false
+  },
+  "flame_repulsion": {
+    "name": "Flame Repulsion",
+    "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_repulsion := 1r FLM",
+    "vaulted": false
+  },
+  "burning_servants": {
+    "name": "Burning Servants",
+    "desc": "Summon a legion of flaming spearmen that lunge inwards.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "burning_servants := 1r FLM",
+    "vaulted": false
+  },
+  "relentless_flames": {
+    "name": "Relentless Flames",
+    "desc": "Bear down on your foes with repeated fiery slashes.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "relentless_flames := 30r FLM",
+    "vaulted": false
+  },
+  "flame_grab": {
+    "name": "Flame Grab",
+    "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_grab := 1r FLM",
+    "vaulted": false
+  },
+  "fire_gun": {
+    "name": "Fire Gun",
+    "desc": "Shoot successive bullets of fire from your fingertips.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_gun := 1r FLM",
+    "vaulted": false
+  },
+  "flame_sentinel": {
+    "name": "Flame Sentinel",
+    "desc": "Conjure a turret of flames.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_sentinel := 30r FLM",
+    "vaulted": false
+  },
+  "fire_eruption": {
+    "name": "Fire Eruption",
+    "desc": "A pyroclastic eruption.\n[*Guard breaks]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_eruption := 20r FLM",
+    "vaulted": false
+  },
+  "flare_volley": {
+    "name": "Flare Volley",
+    "desc": "Conjure up to 3 fireballs to volley at your enemies.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flare_volley := 30r FLM",
+    "vaulted": false
+  },
+  "searing_snare": {
+    "name": "Searing Snare",
+    "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "searing_snare := 20r FLM",
+    "vaulted": false
+  },
+  "fire_blade": {
+    "name": "Fire Blade",
+    "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_blade := 1r FLM",
+    "vaulted": false
+  },
+  "rising_flame": {
+    "name": "Rising Flame",
+    "desc": "A rising tornado of flames.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "rising_flame := 30r FLM",
+    "vaulted": false
+  },
+  "fire_palm": {
+    "name": "Fire Palm",
+    "desc": "A blast of flame.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_palm := 20r FLM",
+    "vaulted": false
+  },
+  "flame_ballista": {
+    "name": "Flame Ballista",
+    "desc": "Conjure a flaming arrow and fire it at your target.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_ballista := 50r FLM",
+    "vaulted": false
+  },
+  "fire_forge": {
+    "name": "Fire Forge",
+    "desc": "Conjure flaming daggers and throw them forwards.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_forge := 20r FLM",
+    "vaulted": false
+  },
+  "graceful_flame": {
+    "name": "Graceful Flame",
+    "desc": "Conjure a campfire for you and your comrades to rest by.\n",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "graceful_flame := 20r FLM",
+    "vaulted": false
+  },
+  "flame_of_denial": {
+    "name": "Flame Of Denial",
+    "desc": "While active, you get right back up after being knocked.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_of_denial := 1r FLM",
+    "vaulted": false
+  },
+  "flame_blind": {
+    "name": "Flame Blind",
+    "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_blind := 1r FLM",
+    "vaulted": false
+  },
+  "vein_tendrils": {
+    "name": "Vein Tendrils",
+    "desc": "Create tendrils of blood.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "vein_tendrils := 30r BLD",
+    "vaulted": false
+  },
+  "sanguine_dive": {
+    "name": "Sanguine Dive",
+    "desc": "Create or jump into a pool of blood.",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "sanguine_dive := 20r BLD",
+    "vaulted": false
+  },
+  "blood_wisp": {
+    "name": "Blood Wisp",
+    "desc": "A servant of blood.\n[Occasionally regenerates a small portion of your blood.]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_wisp := 30r BLD",
+    "vaulted": false
+  },
+  "bloodtide_ritual": {
+    "name": "Bloodtide Ritual",
+    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodtide_ritual := 50r BLD",
+    "vaulted": false
+  },
+  "crucifixion": {
+    "name": "Crucifixion",
+    "desc": "Conjure a bloody cross.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "crucifixion := 1r BLD",
+    "vaulted": false
+  },
+  "bloodcurdle": {
+    "name": "Bloodcurdle",
+    "desc": "Manipulate the blood within your target's body.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodcurdle := 50r BLD",
+    "vaulted": false
+  },
+  "crimson_rain": {
+    "name": "Crimson Rain",
+    "desc": "Release blood daggers. Recast to recall them.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "crimson_rain := 30r BLD",
+    "vaulted": false
+  },
+  "vicious_descent": {
+    "name": "Vicious Descent",
+    "desc": "Leap into the air and slam down with vengeance.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "vicious_descent := 20r BLD",
+    "vaulted": false
+  },
+  "crimson_surge": {
+    "name": "Crimson Surge",
+    "desc": "Slash upwards and launch slashes of blood.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "crimson_surge := 30r BLD",
+    "vaulted": false
+  },
+  "blood_stakes": {
+    "name": "Blood Stakes",
+    "desc": "Create stakes of blood.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_stakes := 20r BLD",
+    "vaulted": false
+  },
+  "bloodedge": {
+    "name": "Bloodedge",
+    "desc": "Conjure a scythe of blood and swing.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodedge := 20r BLD",
+    "vaulted": false
+  },
+  "scarlet_cannon": {
+    "name": "Scarlet Cannon",
+    "desc": "Create a giant blood beam.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "scarlet_cannon := 30r BLD",
+    "vaulted": false
+  },
+  "scarlet_cyclone": {
+    "name": "Scarlet Cyclone",
+    "desc": "Create a cyclone of blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "scarlet_cyclone := 1r BLD",
+    "vaulted": false
+  },
+  "soulflare_siphon": {
+    "name": "Soulflare Siphon",
+    "desc": "Grab and siphon the blood out of your victim.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "soulflare_siphon := 30r BLD",
+    "vaulted": false
+  },
+  "razor_blitz": {
+    "name": "Razor Blitz",
+    "desc": "Create weapons on your arms and dash through.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "razor_blitz := 30r BLD",
+    "vaulted": false
+  },
+  "blood_orb": {
+    "name": "Blood Orb",
+    "desc": "Release an amalgamation of your blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_orb := 1r BLD",
+    "vaulted": false
+  },
+  "veinbreaker": {
+    "name": "Veinbreaker",
+    "desc": "Charge up a strong punch infused with your blood.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "veinbreaker := 30r BLD",
+    "vaulted": false
+  },
+  "ether_barrage": {
+    "name": "Ether Barrage",
+    "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "ether_barrage := 30r INT",
+    "vaulted": false
+  },
+  "lightning_cloak": {
+    "name": "Lightning Cloak",
+    "desc": "A lightning cloak that empowers you.\n[Note: Increases swing speed by 10% and empowers your dashes.]\n[Note: The duration of this Mantra can be increased by chaining attacks.]",
+    "stars": 3,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_cloak := 50r LTN",
+    "vaulted": false
+  },
+  "lightning_assault": {
+    "name": "Lightning Assault",
+    "desc": "A rush of lightning.\t",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_assault := 30r LTN",
+    "vaulted": false
+  },
+  "thunder_wisp": {
+    "name": "Thunder Wisp",
+    "desc": "A servant of lightning.\n[Applies \"Sapping\" to a target upon being uppercutted or flourished.]",
+    "stars": 2,
+    "category": "Wisp",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "thunder_wisp := 30r LTN",
+    "vaulted": false
+  },
+  "rising_thunder": {
+    "name": "Rising Thunder",
+    "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "rising_thunder := 50r LTN",
+    "vaulted": false
+  },
+  "thunder_kick": {
+    "name": "Thunder Kick",
+    "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "thunder_kick := 20r LTN",
+    "vaulted": false
+  },
+  "grand_javelin": {
+    "name": "Grand Javelin",
+    "desc": "A javelin of lightning.\t",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "grand_javelin := 30r LTN",
+    "vaulted": false
+  },
+  "lightning_blade": {
+    "name": "Lightning Blade",
+    "desc": "Arcing blades of electricity.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_blade := 1r LTN",
+    "vaulted": false
+  },
+  "emotion_wave": {
+    "name": "Emotion Wave",
+    "desc": "Conjure up surging waves of lightning that travel along the ground.\n[*Guard breaks on first hit]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "emotion_wave := 50r LTN",
+    "vaulted": false
+  },
+  "jolt_grab": {
+    "name": "Jolt Grab",
+    "desc": "An electrified chokehold.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "jolt_grab := 1r LTN",
+    "vaulted": false
+  },
+  "lightning_clones": {
+    "name": "Lightning Clones",
+    "desc": "Replicated forms of yourself conjured from electricity.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_clones := 20r LTN",
+    "vaulted": false
+  },
+  "lightning_strike": {
+    "name": "Lightning Strike",
+    "desc": "A strike of thunder at your desired location.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_strike := 20r LTN",
+    "vaulted": false
+  },
+  "fleeting_sparks": {
+    "name": "Fleeting Sparks",
+    "desc": "Call forth notes of electricity that seek out your foes.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "fleeting_sparks := 20r LTN",
+    "vaulted": false
+  },
+  "storm_blades": {
+    "name": "Storm Blades",
+    "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "storm_blades := 30r LTN",
+    "vaulted": false
+  },
+  "electro_carve": {
+    "name": "Electro Carve",
+    "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "electro_carve := 20r LTN",
+    "vaulted": false
+  },
+  "lightning_beam": {
+    "name": "Lightning Beam",
+    "desc": "Fire a beam of lightning.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_beam := 1r LTN",
+    "vaulted": false
+  },
+  "lightning_impact": {
+    "name": "Lightning Impact",
+    "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_impact := 20r LTN",
+    "vaulted": false
+  },
+  "bolt_piercer": {
+    "name": "Bolt Piercer",
+    "desc": "An arrow of lighting.\t",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "bolt_piercer := 30r LTN",
+    "vaulted": false
+  },
+  "lightning_stream": {
+    "name": "Lightning Stream",
+    "desc": "A stream of lightning.\t",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_stream := 20r LTN",
+    "vaulted": false
+  },
+  "spark_swap": {
+    "name": "Spark Swap",
+    "desc": "Almost instantaneous swap of location with whoever your cursor is on.",
+    "stars": 3,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "spark_swap := 50r LTN",
+    "vaulted": false
+  },
+  "beast_burrow": {
+    "name": "Beast Burrow",
+    "desc": "Burrow underneath the ground before bursting out, knocking enemies up.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "beast_burrow := ()",
+    "vaulted": false
+  },
+  "dread_breath": {
+    "name": "Dread Breath",
+    "desc": "Channels the song through the power of the Dread Serpent.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "dread_breath := ()",
+    "vaulted": false
+  },
+  "abyssal_ridge": {
+    "name": "Abyssal Ridge",
+    "desc": "Send a cascading eruption towards your foes, forcing them to react.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "abyssal_ridge := ()",
+    "vaulted": false
+  },
+  "mecha_gatling": {
+    "name": "Mecha Gatling",
+    "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "mecha_gatling := ()",
+    "vaulted": false
+  },
+  "whirling_blade": {
+    "name": "Whirling Blade",
+    "desc": "A chitinous scythe to cut through your foes in a whirl.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "whirling_blade := ()",
+    "vaulted": false
+  },
+  "brachial_spear": {
+    "name": "Brachial Spear",
+    "desc": "A javelin of jagged bone.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "brachial_spear := ()",
+    "vaulted": false
+  },
+  "coral_spear": {
+    "name": "Coral Spear",
+    "desc": "Fire corals all around you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "coral_spear := ()",
+    "vaulted": false
+  },
+  "pumpkin_pitch": {
+    "name": "Pumpkin Pitch",
+    "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "pumpkin_pitch := ()",
+    "vaulted": false
+  },
+  "enforcer_pull": {
+    "name": "Enforcer Pull",
+    "desc": "Pull enemies towards you.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "enforcer_pull := ()",
+    "vaulted": false
+  },
+  "disguise": {
+    "name": "Disguise",
+    "desc": "Take on an unimaginable disguise.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "disguise := 21r CHA",
+    "vaulted": false
+  },
+  "onslaught": {
+    "name": "Onslaught",
+    "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "onslaught := 50r HVY",
+    "vaulted": false
+  },
+  "punishment": {
+    "name": "Punishment",
+    "desc": "Absorb damage then return fury upon your foes.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "punishment := 50r HVY",
+    "vaulted": false
+  },
+  "pressure_blast": {
+    "name": "Pressure Blast",
+    "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Heavy Weapons"
+    ],
+    "reqs": "pressure_blast := 30r HVY",
+    "vaulted": false
+  },
+  "shoulder_bash": {
+    "name": "Shoulder Bash",
+    "desc": "Rush at your enemies with full physical force.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "shoulder_bash := 35r FTD",
+    "vaulted": false
+  },
+  "rally": {
+    "name": "Rally",
+    "desc": "Strike your shield a few times to absorb some of the posture received by your allies.\t\r",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "rally := 10r FTD",
+    "vaulted": false
+  },
+  "reinforce": {
+    "name": "Reinforce",
+    "desc": "Buff those around you with extra defense and damage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "reinforce := 50r FTD",
+    "vaulted": false
+  },
+  "brace": {
+    "name": "Brace",
+    "desc": "Brace yourself against attacks and gain hyperarmour.        ",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "brace := 75r FTD",
+    "vaulted": false
+  },
+  "strong_leap": {
+    "name": "Strong Leap",
+    "desc": "Kick off of the ground with your strength, sending you into the air.\t\r",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "strong_leap := 50r STR",
+    "vaulted": false
+  },
+  "throw": {
+    "name": "Throw",
+    "desc": "Grab and throw your enemies.\n[*You must defeat Titus.]",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "throw := 35r STR",
+    "vaulted": false
+  },
+  "table_flip": {
+    "name": "Table Flip",
+    "desc": "Toss the ground infront of you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "table_flip := 40r STR",
+    "vaulted": false
+  },
+  "rapid_punches": {
+    "name": "Rapid Punches",
+    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "rapid_punches := 20r STR",
+    "vaulted": false
+  },
+  "skyshatter_kick": {
+    "name": "Skyshatter Kick",
+    "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "skyshatter_kick := 80r STR",
+    "vaulted": false
+  },
+  "strong_left": {
+    "name": "Strong Left",
+    "desc": "A powerful, flinging punch that shatters the air.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "strong_left := 20r STR",
+    "vaulted": false
+  },
+  "tacet_drop_kick": {
+    "name": "Tacet Drop Kick",
+    "desc": "[Jus Karita] Disguise yourself in tacet and drop kick your enemies.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "jus_karita => tacet_drop_kick := 5r STR",
+    "vaulted": false
+  },
+  "twinstrikes": {
+    "name": "Twinstrikes",
+    "desc": "Launch quick and devastating kicks.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "twinstrikes := 40r AGL, 60r STR",
+    "vaulted": false
+  },
+  "glare": {
+    "name": "Glare",
+    "desc": "Opponents facing you are briefly rendered immobile.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "glare := 5r WLL, 25r CHA",
+    "vaulted": false
+  },
+  "dread_whisper": {
+    "name": "Dread Whisper",
+    "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "dread_whisper := 50r CHA",
+    "vaulted": false
+  },
+  "sing": {
+    "name": "Sing",
+    "desc": "Charm those around you with your powerful voice.        \n",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "sing := 25r CHA",
+    "vaulted": false
+  },
+  "taunt": {
+    "name": "Taunt",
+    "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "taunt := 25r CHA",
+    "vaulted": false
+  },
+  "prominence_draw": {
+    "name": "Prominence Draw",
+    "desc": "Close the distance and deliver a fast slash.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "prominence_draw := 50r MED",
+    "vaulted": false
+  },
+  "flashdraw_strike": {
+    "name": "Flashdraw Strike",
+    "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "flashdraw_strike := 25r AGL, 60r MED",
+    "vaulted": false
+  },
+  "twincleave": {
+    "name": "Twincleave",
+    "desc": "Dart around the battlefield with devastating cleaves delivered in quick succesion.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "twincleave := 50r MED",
+    "vaulted": false
+  },
+  "masters_flourish": {
+    "name": "Master's Flourish",
+    "desc": "A powerful slash that chips through block and slashes through armor.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "masters_flourish := 30r MED",
+    "vaulted": false
+  },
+  "slice_n_dice": {
+    "name": "Slice 'n' Dice",
+    "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "slice_n_dice := 60r MED",
+    "vaulted": false
+  },
+  "karita_leap": {
+    "name": "Karita Leap",
+    "desc": "Launch yourself into a flying kick, backflipping you into the air if you hit a wall.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "karita_leap := 20r LHT",
+    "vaulted": false
+  },
+  "karita_divebomb": {
+    "name": "Karita Divebomb",
+    "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "karita_divebomb := 20r LHT",
+    "vaulted": false
+  },
+  "ceaseless_slashes": {
+    "name": "Ceaseless Slashes",
+    "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "ceaseless_slashes := 50r LHT",
+    "vaulted": false
+  },
+  "rapid_slashes": {
+    "name": "Rapid Slashes",
+    "desc": "Rush down your opponent cutting them apart.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "rapid_slashes := 30r LHT",
+    "vaulted": false
+  },
+  "neural_pathway": {
+    "name": "Neural Pathway",
+    "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.\n[Does not go through walls.]",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "neural_pathway := 35r INT",
+    "vaulted": false
+  },
+  "prediction": {
+    "name": "Prediction",
+    "desc": "Predict an opponent's attack and reflect it.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "prediction := 50r INT",
+    "vaulted": false
+  },
+  "summon_cauldron": {
+    "name": "Summon Cauldron",
+    "desc": "Make a cauldron appear from your memories.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Intelligence"
+    ],
+    "reqs": "summon_cauldron := 20r INT",
+    "vaulted": false
+  },
+  "exhaustion_strike": {
+    "name": "Exhaustion Strike",
+    "desc": "Execute a quick strike, emptying your posture when landed.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Willpower"
+    ],
+    "reqs": "exhaustion_strike := 40r WLL",
+    "vaulted": false
+  },
+  "gaze": {
+    "name": "Gaze",
+    "desc": "Gaze into your opponent's souls.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Willpower"
+    ],
+    "reqs": "gaze := 30r WLL",
+    "vaulted": false
+  },
+  "dash": {
+    "name": "Dash",
+    "desc": "An agile dash.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "dash := 40r AGL",
+    "vaulted": false
+  },
+  "revenge": {
+    "name": "Revenge",
+    "desc": "A vengeful rush.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "revenge := 5r AGL",
+    "vaulted": false
+  },
+  "adrenaline_surge": {
+    "name": "Adrenaline Surge",
+    "desc": "An adrenaline rush of mobility.\t",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Agility"
+    ],
+    "reqs": "adrenaline_surge := 20r AGL",
+    "vaulted": false
+  },
+  "grand_wardens_axe": {
+    "name": "Grand Warden's Axe",
+    "desc": "Create a lightning axe!\n[*Note: Requires Authority Ensign Origin's Shock Corps Division.]\n[*Note: You can M1 during this Mantra's windup to change the attack, dealing more damage and posture damage with a vertical swing, rather than the normal horizontal attack.]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Origin",
+    "attributes": [
+      "Authority Ensign"
+    ],
+    "reqs": "grand_wardens_axe := ()",
+    "vaulted": false
+  },
+  "hidden_blade": {
+    "name": "Hidden Blade",
+    "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison.\n[*Note: Requires Authority Ensign Origin's Inquisition Division]",
+    "stars": 0,
+    "category": "Support",
+    "type": "Origin",
+    "attributes": [
+      "Authority Ensign"
+    ],
+    "reqs": "hidden_blade := ()",
+    "vaulted": false
+  },
+  "glorious_charge": {
+    "name": "Glorious Charge",
+    "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.\n[*Note: Requires Authority Ensign Origin's Command Division.]",
+    "stars": 0,
+    "category": "Support",
+    "type": "Origin",
+    "attributes": [
+      "Authority Ensign"
+    ],
+    "reqs": "glorious_charge := ()",
+    "vaulted": false
+  },
+  "rupture": {
+    "name": "Rupture",
+    "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath_chainwarden => rupture := ()",
+    "vaulted": false
+  },
+  "impel": {
+    "name": "Impel",
+    "desc": "Blast through your opponent's guard and pull them towards you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath_chainwarden => impel := ()",
+    "vaulted": false
+  },
+  "restrain": {
+    "name": "Restrain",
+    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath_chainwarden => restrain := ()",
+    "vaulted": false
+  },
+  "close_shave": {
+    "name": "Close Shave",
+    "desc": "Close the distance and deliver a fast slash.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Fadetrimmer"
+    ],
+    "reqs": "oath_fadetrimmer => close_shave := ()",
+    "vaulted": false
+  },
+  "precision_cuts": {
+    "name": "Precision Cuts",
+    "desc": "Snip forward with your scissors!",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Fadetrimmer"
+    ],
+    "reqs": "oath_fadetrimmer => precision_cuts := ()",
+    "vaulted": false
+  },
+  "celestial_assault": {
+    "name": "Celestial Assault",
+    "desc": "Use your wings and deliver two critical blows.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Starkindred"
+    ],
+    "reqs": "oath_starkindred => celestial_assault := ()",
+    "vaulted": false
+  },
+  "sinister_halo": {
+    "name": "Sinister Halo",
+    "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Starkindred"
+    ],
+    "reqs": "oath_starkindred => sinister_halo := ()",
+    "vaulted": false
+  },
+  "ascension": {
+    "name": "Ascension",
+    "desc": "Take to the skies for a devastating strike.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Starkindred"
+    ],
+    "reqs": "oath_starkindred => ascension := ()",
+    "vaulted": false
+  },
+  "illusory_servants": {
+    "name": "Illusory Servants",
+    "desc": "Spawns an illusion of yourself that targets the closest player.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Visionshaper"
+    ],
+    "reqs": "oath_visionshaper => illusory_servants := ()",
+    "vaulted": false
+  },
+  "illusory_counter": {
+    "name": "Illusory Counter",
+    "desc": "If hit during the pose, negate the attacks and teleport the user behind the attacker.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Visionshaper"
+    ],
+    "reqs": "oath_visionshaper => illusory_counter := ()",
+    "vaulted": false
+  },
+  "mirror_illusion": {
+    "name": "Mirror Illusion",
+    "desc": "Mirror your opponents and use their arsenal to your advantage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Visionshaper"
+    ],
+    "reqs": "oath_visionshaper => mirror_illusion := ()",
+    "vaulted": false
+  },
+  "arc_beam": {
+    "name": "Arc Beam",
+    "desc": "Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Arcwarder"
+    ],
+    "reqs": "oath_arcwarder => arc_beam := ()",
+    "vaulted": false
+  },
+  "arc_wave": {
+    "name": "Arc Wave",
+    "desc": "Release a wave of energy around you, dealing fire and lightning damage.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Arcwarder"
+    ],
+    "reqs": "oath_arcwarder => arc_wave := ()",
+    "vaulted": false
+  },
+  "arc_suit": {
+    "name": "Arc Suit",
+    "desc": "Encases the user in a durable armor.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Arcwarder"
+    ],
+    "reqs": "oath_arcwarder => arc_suit := ()",
+    "vaulted": false
+  },
+  "sightless_beam": {
+    "name": "Sightless Beam",
+    "desc": "Fires a high pressure beam from your eyes.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Blindseer"
+    ],
+    "reqs": "oath_blindseer => sightless_beam := ()",
+    "vaulted": false
+  },
+  "mindsoothe": {
+    "name": "Mindsoothe",
+    "desc": "Heal nearby Players at the cost of your Sanity.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Blindseer"
+    ],
+    "reqs": "oath_blindseer => mindsoothe := ()",
+    "vaulted": false
+  },
+  "tranquil_circle": {
+    "name": "Tranquil Circle",
+    "desc": "Disables mantras from being used, gives 10% Monster Armour and also gain total immunity to mantras whilst inside the radius.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Blindseer"
+    ],
+    "reqs": "oath_blindseer => tranquil_circle := ()",
+    "vaulted": false
+  },
+  "lethal_injection": {
+    "name": "Lethal Injection",
+    "desc": "Inject all of your readied Autobrews into your target. This might sting.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Saltchemist"
+    ],
+    "reqs": "oath_saltchemist => lethal_injection := ()",
+    "vaulted": false
+  },
+  "lords_slice": {
+    "name": "Lord's Slice",
+    "desc": "Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Contractor"
+    ],
+    "reqs": "oath_contractor => lords_slice := ()",
+    "vaulted": false
+  },
+  "equalizer": {
+    "name": "Equalizer",
+    "desc": "A counter that leaves your opponent open",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Contractor"
+    ],
+    "reqs": "oath_contractor => equalizer := ()",
+    "vaulted": false
+  },
+  "judgement": {
+    "name": "Judgement",
+    "desc": "Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Contractor"
+    ],
+    "reqs": "oath_contractor => judgement := ()",
+    "vaulted": false
+  },
+  "blinding_dawn": {
+    "name": "Blinding Dawn",
+    "desc": "Dance uncontrollably. No one can withstand the sheer groove of your spin routine.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Dawnwalker"
+    ],
+    "reqs": "oath_dawnwalker => blinding_dawn := ()",
+    "vaulted": false
+  },
+  "radiant_kick": {
+    "name": "Radiant Kick",
+    "desc": "Kick your foes at the speed of light.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Dawnwalker"
+    ],
+    "reqs": "oath_dawnwalker => radiant_kick := ()",
+    "vaulted": false
+  },
+  "radiant_dawn": {
+    "name": "Radiant Dawn",
+    "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Dawnwalker"
+    ],
+    "reqs": "oath_dawnwalker => radiant_dawn := ()",
+    "vaulted": false
+  },
+  "blade_of_saints": {
+    "name": "Blade of Saints",
+    "desc": "Conjure a blade attack depending on your Saint Stance.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Saintsworn"
+    ],
+    "reqs": "oath_saintsworn => blade_of_saints := ()",
+    "vaulted": false
+  },
+  "parasitic_leech": {
+    "name": "Parasitic Leech",
+    "desc": "If linked to an enemy, this move will start leeching your opponent's health for a few seconds while healing you.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Linkstrider"
+    ],
+    "reqs": "oath_linkstrider => parasitic_leech := ()",
+    "vaulted": false
+  },
+  "symbiotic_sustain": {
+    "name": "Symbiotic Sustain",
+    "desc": "If linked to an ally, this move will take ~5% of your health and then heal your ally by that times an undefined amount.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Linkstrider"
+    ],
+    "reqs": "oath_linkstrider => symbiotic_sustain := ()",
+    "vaulted": false
+  },
+  "jet_kick": {
+    "name": "Jet Kick",
+    "desc": "Rush forward with a jet kick. Requires a target if you're in combat.",
+    "stars": 0,
+    "category": "Mobility",
+    "type": "Oath",
+    "attributes": [
+      "Jetstriker"
+    ],
+    "reqs": "oath_jetstriker => jet_kick := ()",
+    "vaulted": false
+  },
+  "fake_strike": {
+    "name": "Fake Strike",
+    "desc": "Trick your opponent and quickly go behind them.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Jetstriker"
+    ],
+    "reqs": "oath_jetstriker => fake_strike := ()",
+    "vaulted": false
+  },
+  "tacet_kick": {
+    "name": "Tacet Kick",
+    "desc": "Slip out of perception and deliver a brutal kick.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Soulbreaker"
+    ],
+    "reqs": "oath_soulbreaker => tacet_kick := ()",
+    "vaulted": false
+  },
+  "rhythm_advance": {
+    "name": "Rhythm Advance",
+    "desc": "Rhythm Advance",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Soulbreaker"
+    ],
+    "reqs": "oath_soulbreaker => rhythm_advance := ()",
+    "vaulted": false
+  },
+  "ardour_slicer": {
+    "name": "Ardour Slicer",
+    "desc": "Close the distance and deliver a fast slash using your Ardour.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Soulbreaker"
+    ],
+    "reqs": "oath_soulbreaker => ardour_slicer := ()",
+    "vaulted": false
+  },
+  "sovereign_drive": {
+    "name": "Sovereign Drive",
+    "desc": "Dash forward in a blink, knocking down enemies in your path.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Blightsurger"
+    ],
+    "reqs": "oath_blightsurger => sovereign_drive := ()",
+    "vaulted": false
+  },
+  "warp_kick": {
+    "name": "Warp Kick",
+    "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Blightsurger"
+    ],
+    "reqs": "oath_blightsurger => warp_kick := ()",
+    "vaulted": false
+  },
+  "skycrash": {
+    "name": "Skycrash",
+    "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Blightsurger"
+    ],
+    "reqs": "oath_blightsurger => skycrash := ()",
+    "vaulted": false
+  },
+  "palm_strike": {
+    "name": "Palm Strike",
+    "desc": "Strike your opponent with your palm. If your true power is revealed, slice them up into the air.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Bladeharper"
+    ],
+    "reqs": "oath_bladeharper => palm_strike := ()",
+    "vaulted": false
+  },
+  "decimate": {
+    "name": "Decimate",
+    "desc": "Cut through your opponent, if True Strength is active, this attack will extend to nearby enemies. Fists cannot use this mantra. Autogrips players if low enough or knocked.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Bladeharper"
+    ],
+    "reqs": "oath_bladeharper => decimate := ()",
+    "vaulted": false
   }
-]
+}
