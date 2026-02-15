@@ -1,18 +1,274 @@
 {
+  "black_diver": {
+    "name": "Black Diver",
+    "durability": 2600,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Shadow Resistance": 0.2,
+      "Elemental Resistance": 0.3,
+      "Thunder Resistance": 0.2
+    },
+    "extra_percents": {
+      "Ether Regen": 50,
+      "Extra Stealth": 0
+    },
+    "talent": null,
+    "reqs": "WLL = 10r, TTL = 240r",
+    "mats": {
+      "Fiber": 5,
+      "Vibrant Gem": 5,
+      "Odd Tentacle": 1,
+      "Cloth": 5,
+      "Blessed Gem": 1,
+      "Thresher Spine": 1,
+      "Megalodaunt Hide": 1
+    },
+    "notes": 1000
+  },
+  "legion_centurion": {
+    "name": "Legion Centurion",
+    "durability": 3000,
+    "resistances": {
+      "Elemental Resistance": 0.3,
+      "Wind Resistance": 0.05,
+      "Thunder Resistance": 0.05,
+      "Physical Resistance": 0.3
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": "Centurion's Resolve",
+    "reqs": "FTD = 10r, TTL = 240r",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Blue Gem": 1,
+      "Gale Stone": 5,
+      "Dark Feather": 1,
+      "Thresher Spine": 1
+    },
+    "notes": 1000
+  },
+  "sanguine_finery": {
+    "name": "Sanguine Finery",
+    "durability": 2600,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.3,
+      "Blood Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 75,
+      "Extra Stealth": 0
+    },
+    "talent": "Focused Hematoma",
+    "reqs": "BLD = 45r, TTL = 240r",
+    "mats": {
+      "Umbrite": 8,
+      "Vibrant Gem": 5,
+      "Heart Star": 5,
+      "Bloodless Gem": 1,
+      "Fiber": 5,
+      "Cloth": 5
+    },
+    "notes": 1000
+  },
+  "summer_dragoon": {
+    "name": "Summer Dragoon",
+    "durability": 2800,
+    "resistances": {
+      "Elemental Resistance": 0.3,
+      "Wind Resistance": 0.2,
+      "Physical Resistance": 0.3
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": "Sunset Ricochet",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Bounder Claw": 1,
+      "Bloodless Gem": 1,
+      "Fiber": 5,
+      "Cloth": 5,
+      "Megalodaunt Hide": 1,
+      "Thresher Spine": 1,
+      "Vibrant Gem": 5
+    },
+    "notes": 1000
+  },
+  "royal_etrean_guard": {
+    "name": "Royal Etrean Guard",
+    "durability": 3000,
+    "resistances": {
+      "Slash Resistance": 0.05,
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.3
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": "Paired Soul",
+    "reqs": "TTL = 315r",
+    "mats": {
+      "Void Feather": 1,
+      "Cloth": 5,
+      "King Thresher Spine": 1,
+      "Fiber": 5,
+      "Umbral Obsidian": 10,
+      "Vibrant Gem": 5
+    },
+    "notes": 1000
+  },
+  "titus_raiment": {
+    "name": "Titus Raiment",
+    "durability": 3000,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.35,
+      "Wind Resistance": 0.1,
+      "Thunder Resistance": 0.1
+    },
+    "extra_percents": {
+      "Ether Regen": 30,
+      "Extra Stealth": 0
+    },
+    "talent": "Overwhelming Might",
+    "reqs": "STR = 30r, TTL = 240r",
+    "mats": {
+      "Wrath Gem": 3,
+      "Might Gem": 3,
+      "Cloth": 5,
+      "Warden's Armor Piece": 1,
+      "Titus' Armor Piece": 1
+    },
+    "notes": 2500
+  },
+  "stormchanters_raiments": {
+    "name": "Stormchanter's Raiments",
+    "durability": 2600,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25,
+      "Thunder Resistance": 0.25
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 75
+    },
+    "talent": "Static Mastery",
+    "reqs": "LTN = 45r, TTL = 240r",
+    "mats": {
+      "Iron": 8,
+      "Fiber": 5,
+      "Spark Gland": 5,
+      "Vibrant Gem": 5,
+      "Insignia Gem": 1,
+      "Cloth": 5
+    },
+    "notes": 1000
+  },
+  "jade_vigils_weave": {
+    "name": "Jade Vigil's Weave",
+    "durability": 2800,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Blood Resistance": 0.25,
+      "Wind Resistance": 0.15,
+      "Elemental Resistance": 0.25
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 25
+    },
+    "talent": "Serpent's Dance",
+    "reqs": "AGL = 10r, TTL = 240r",
+    "mats": {
+      "Wind Gem": 1,
+      "Gale Stone": 5,
+      "Fiber": 5,
+      "Dark Feather": 1,
+      "Thresher Spine": 1,
+      "Cloth": 5
+    },
+    "notes": 1000
+  },
+  "authority_commander": {
+    "name": "Authority Commander",
+    "durability": 2800,
+    "resistances": {
+      "Blunt Resistance": 0.1,
+      "Elemental Resistance": 0.3,
+      "Physical Resistance": 0.3,
+      "Flame Resistance": 0.1
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": "Riot Breaker",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Blessed Gem": 1,
+      "Cloth": 5,
+      "Vibrant Gem": 5,
+      "Fiber": 5,
+      "Bounder Claw": 1,
+      "Dark Feather": 1,
+      "Thresher Spine": 1
+    },
+    "notes": 1000
+  },
   "shock_corps_light": {
     "name": "Shock Corps Light",
     "durability": 3500,
     "resistances": {
-      "Elemental Resistance": 0.3,
-      "Thunder Resistance": 0.1,
-      "Flame Resistance": 0.1,
+      "Ice Resistance": 0.1,
       "Physical Resistance": 0.3,
-      "Ice Resistance": 0.1
+      "Flame Resistance": 0.1,
+      "Elemental Resistance": 0.3,
+      "Thunder Resistance": 0.1
     },
-    "extraPercents": {},
+    "extra_percents": {
+      "Ether Regen": 15,
+      "Extra Stealth": 0
+    },
     "talent": "Battle-Hardened",
     "reqs": "TTL = 240r",
-    "mats": {},
+    "mats": {
+      "Cloth": 5,
+      "Void Feather": 3,
+      "Vibrant Gem": 5,
+      "Fiber": 5,
+      "Wayward Gem": 3
+    },
+    "notes": 1000
+  },
+  "icebringers_vestments": {
+    "name": "Icebringer's Vestments",
+    "durability": 2600,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.3,
+      "Ice Resistance": 0.2
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 75
+    },
+    "talent": "Refreeze",
+    "reqs": "ICE = 45r, TTL = 240r",
+    "mats": {
+      "Fiber": 5,
+      "Frigid Prism": 5,
+      "Cloth": 5,
+      "Iron": 8,
+      "Blue Gem": 1,
+      "Vibrant Gem": 5
+    },
     "notes": 1000
   },
   "navaen_war_chief": {
@@ -20,60 +276,179 @@
     "durability": 3000,
     "resistances": {
       "Physical Resistance": 0.3,
-      "Ice Resistance": 0.1,
       "Elemental Resistance": 0.3,
+      "Ice Resistance": 0.1,
       "Shadow Resistance": 0.05
     },
-    "extraPercents": {},
+    "extra_percents": {
+      "Extra Stealth": 50,
+      "Ether Regen": 20
+    },
     "talent": "Chief's Will",
     "reqs": "TTL = 240r",
-    "mats": {},
+    "mats": {
+      "Fiber": 5,
+      "Erisore": 8,
+      "Odd Tentacle": 1,
+      "Frigid Prisms": 2,
+      "Thresher Spine": 2,
+      "Wind Gem": 1,
+      "Cloth": 5
+    },
+    "notes": 1000
+  },
+  "prophets_cloak": {
+    "name": "Prophet's Cloak",
+    "durability": 2600,
+    "resistances": {
+      "Ice Resistance": 0.2,
+      "Elemental Resistance": 0.25,
+      "Flame Resistance": 0.2,
+      "Physical Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 50,
+      "Extra Stealth": 0
+    },
+    "talent": "Crippling Darkness",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Dark Feather": 1,
+      "Umbral Obsidian": 5,
+      "Thresher Spine": 1,
+      "Cloth": 5,
+      "Bloodless Gem": 1,
+      "Vibrant Gem": 5,
+      "Odd Tentacle": 1
+    },
     "notes": 1000
   },
   "celtorian_tideknight": {
     "name": "Celtorian Tideknight",
     "durability": 2800,
     "resistances": {
-      "Elemental Resistance": 0.25,
       "Shadow Resistance": 0.1,
+      "Ice Resistance": 0.05,
       "Physical Resistance": 0.3,
-      "Blunt Resistance": 0.05,
-      "Ice Resistance": 0.05
+      "Elemental Resistance": 0.25,
+      "Blunt Resistance": 0.05
     },
-    "extraPercents": {},
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
     "talent": "Tidekeeper",
     "reqs": "TTL = 240r",
-    "mats": {},
+    "mats": {
+      "Bloodless Gem": 1,
+      "Umbral Obsidian": 5,
+      "Dark Feather": 1,
+      "Odd Tentacle": 1,
+      "Thresher Spine": 1,
+      "Cloth": 5,
+      "Vibrant Gem": 5
+    },
     "notes": 1000
   },
-  "icebringers_vestments": {
-    "name": "Icebringer's Vestments",
+  "windrunner_robes": {
+    "name": "Windrunner Robes",
     "durability": 2600,
     "resistances": {
-      "Ice Resistance": 0.2,
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.3
+      "Elemental Resistance": 0.3,
+      "Wind Resistance": 0.25,
+      "Physical Resistance": 0.25
     },
-    "extraPercents": {},
-    "talent": "Refreeze",
-    "reqs": "ICE = 45r, TTL = 240r",
-    "mats": {},
+    "extra_percents": {
+      "Ether Regen": 50,
+      "Extra Stealth": 0
+    },
+    "talent": "Wind Dancer",
+    "reqs": "AGL = 10r, TTL = 165r",
+    "mats": {
+      "Cloth": 5,
+      "Gale stone": 5,
+      "Erisore": 8,
+      "Wind Gem": 1,
+      "Fiber": 5,
+      "Vibrant Gem": 5
+    },
     "notes": 1000
   },
-  "titus_raiment": {
-    "name": "Titus Raiment",
+  "ignition_deepdelver": {
+    "name": "Ignition Deepdelver",
     "durability": 3000,
     "resistances": {
-      "Wind Resistance": 0.1,
-      "Thunder Resistance": 0.1,
-      "Physical Resistance": 0.3,
-      "Elemental Resistance": 0.35
+      "Ice Resistance": 0.15,
+      "Elemental Resistance": 0.35,
+      "Physical Resistance": 0.3
     },
-    "extraPercents": {},
-    "talent": "Overwhelming Might",
-    "reqs": "STR = 30r, TTL = 240r",
-    "mats": {},
-    "notes": 2500
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 20
+    },
+    "talent": "Force Your Way",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Vibrant Gems": 5,
+      "Bounder Claw": 1,
+      "Cloth": 5,
+      "Frozen Membrane": 1,
+      "Worn Cog": 1,
+      "Fiber": 5,
+      "Blue Gem": 1
+    },
+    "notes": 1000
+  },
+  "justicars_armor": {
+    "name": "Justicar's Armor",
+    "durability": 2800,
+    "resistances": {
+      "Shadow Resistance": 0.05,
+      "Ice Resistance": 0.05,
+      "Elemental Resistance": 0.3,
+      "Blunt Resistance": 0.05,
+      "Physical Resistance": 0.3
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": "The Path, Unveiled",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Wayward Gem": 1,
+      "Thresher Spine": 4,
+      "Cloth": 5,
+      "Fiber": 5,
+      "Gale Stone": 5,
+      "Dark Feather": 1
+    },
+    "notes": 1000
+  },
+  "inquisition_light": {
+    "name": "Inquisition Light",
+    "durability": 3500,
+    "resistances": {
+      "Shadow Resistance": 0.1,
+      "Blood Resistance": 0.1,
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.3,
+      "Metal Resistance": 0.1
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 15
+    },
+    "talent": "Lethal Dose",
+    "reqs": "TTL = 240r",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Void Feather": 3,
+      "Wayward Gem": 3,
+      "Vibrant Gem": 5
+    },
+    "notes": 1000
   },
   "ignition_welder": {
     "name": "Ignition Welder",
@@ -82,113 +457,42 @@
       "Elemental Resistance": 0.25,
       "Physical Resistance": 0.25
     },
-    "extraPercents": {},
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
     "talent": "Master Craftsman",
     "reqs": "FTD = 10r, TTL = 165r",
-    "mats": {},
+    "mats": {
+      "Erisore": 5,
+      "Iron": 5,
+      "Fiber": 5,
+      "Cloth": 5
+    },
     "notes": 300
-  },
-  "stormchanters_raiments": {
-    "name": "Stormchanter's Raiments",
-    "durability": 2600,
-    "resistances": {
-      "Thunder Resistance": 0.25,
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.25
-    },
-    "extraPercents": {},
-    "talent": "Static Mastery",
-    "reqs": "LTN = 45r, TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "authority_commander": {
-    "name": "Authority Commander",
-    "durability": 2800,
-    "resistances": {
-      "Elemental Resistance": 0.3,
-      "Physical Resistance": 0.3,
-      "Flame Resistance": 0.1,
-      "Blunt Resistance": 0.1
-    },
-    "extraPercents": {},
-    "talent": "Riot Breaker",
-    "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "legion_centurion": {
-    "name": "Legion Centurion",
-    "durability": 3000,
-    "resistances": {
-      "Elemental Resistance": 0.3,
-      "Physical Resistance": 0.3,
-      "Thunder Resistance": 0.05,
-      "Wind Resistance": 0.05
-    },
-    "extraPercents": {},
-    "talent": "Centurion's Resolve",
-    "reqs": "FTD = 10r, TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "justicars_armor": {
-    "name": "Justicar's Armor",
-    "durability": 2800,
-    "resistances": {
-      "Elemental Resistance": 0.3,
-      "Ice Resistance": 0.05,
-      "Blunt Resistance": 0.05,
-      "Shadow Resistance": 0.05,
-      "Physical Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "The Path, Unveiled",
-    "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "prophets_cloak": {
-    "name": "Prophet's Cloak",
-    "durability": 2600,
-    "resistances": {
-      "Elemental Resistance": 0.25,
-      "Physical Resistance": 0.25,
-      "Ice Resistance": 0.2,
-      "Flame Resistance": 0.2
-    },
-    "extraPercents": {},
-    "talent": "Crippling Darkness",
-    "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
   },
   "tempestmakers_threads": {
     "name": "Tempestmaker's Threads",
     "durability": 2600,
     "resistances": {
-      "Wind Resistance": 0.25,
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "Tempest Evolution",
-    "reqs": "WND = 45r, TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "sanguine_finery": {
-    "name": "Sanguine Finery",
-    "durability": 2600,
-    "resistances": {
       "Elemental Resistance": 0.3,
       "Physical Resistance": 0.25,
-      "Blood Resistance": 0.25
+      "Wind Resistance": 0.25
     },
-    "extraPercents": {},
-    "talent": "Focused Hematoma",
-    "reqs": "BLD = 45r, TTL = 240r",
-    "mats": {},
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 75
+    },
+    "talent": "Tempest Evolution",
+    "reqs": "WND = 45r, TTL = 240r",
+    "mats": {
+      "Cloth": 5,
+      "Wind Gem": 1,
+      "Fiber": 5,
+      "Gale Stone": 5,
+      "Iron": 8,
+      "Vibrant Gem": 5
+    },
     "notes": 1000
   },
   "darkened_bastion": {
@@ -196,115 +500,22 @@
     "durability": 2600,
     "resistances": {
       "Physical Resistance": 0.3,
-      "Shadow Resistance": 0.2,
-      "Elemental Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "Withering Soul",
-    "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "jade_vigils_weave": {
-    "name": "Jade Vigil's Weave",
-    "durability": 2800,
-    "resistances": {
-      "Wind Resistance": 0.15,
-      "Blood Resistance": 0.25,
-      "Elemental Resistance": 0.25,
-      "Physical Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "Serpent's Dance",
-    "reqs": "AGL = 10r, TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "royal_etrean_guard": {
-    "name": "Royal Etrean Guard",
-    "durability": 3000,
-    "resistances": {
-      "Physical Resistance": 0.3,
-      "Slash Resistance": 0.05,
-      "Elemental Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "Paired Soul",
-    "reqs": "TTL = 315r",
-    "mats": {},
-    "notes": 1000
-  },
-  "black_diver": {
-    "name": "Black Diver",
-    "durability": 2600,
-    "resistances": {
-      "Physical Resistance": 0.3,
-      "Thunder Resistance": 0.2,
       "Elemental Resistance": 0.3,
       "Shadow Resistance": 0.2
     },
-    "extraPercents": {},
-    "talent": null,
-    "reqs": "WLL = 10r, TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "windrunner_robes": {
-    "name": "Windrunner Robes",
-    "durability": 2600,
-    "resistances": {
-      "Wind Resistance": 0.25,
-      "Elemental Resistance": 0.3,
-      "Physical Resistance": 0.25
+    "extra_percents": {
+      "Ether Regen": 50,
+      "Extra Stealth": 50
     },
-    "extraPercents": {},
-    "talent": "Wind Dancer",
-    "reqs": "AGL = 10r, TTL = 165r",
-    "mats": {},
-    "notes": 1000
-  },
-  "summer_dragoon": {
-    "name": "Summer Dragoon",
-    "durability": 2800,
-    "resistances": {
-      "Physical Resistance": 0.3,
-      "Wind Resistance": 0.2,
-      "Elemental Resistance": 0.3
-    },
-    "extraPercents": {},
-    "talent": "Sunset Ricochet",
+    "talent": "Withering Soul",
     "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "inquisition_light": {
-    "name": "Inquisition Light",
-    "durability": 3500,
-    "resistances": {
-      "Shadow Resistance": 0.1,
-      "Metal Resistance": 0.1,
-      "Physical Resistance": 0.3,
-      "Elemental Resistance": 0.3,
-      "Blood Resistance": 0.1
+    "mats": {
+      "Fiber": 5,
+      "Umbral Obsidian": 5,
+      "Cloth": 7,
+      "Vibrant Gem": 10,
+      "Void Feather": 1
     },
-    "extraPercents": {},
-    "talent": "Lethal Dose",
-    "reqs": "TTL = 240r",
-    "mats": {},
-    "notes": 1000
-  },
-  "ignition_deepdelver": {
-    "name": "Ignition Deepdelver",
-    "durability": 3000,
-    "resistances": {
-      "Ice Resistance": 0.15,
-      "Physical Resistance": 0.3,
-      "Elemental Resistance": 0.35
-    },
-    "extraPercents": {},
-    "talent": "Force Your Way",
-    "reqs": "TTL = 240r",
-    "mats": {},
     "notes": 1000
   }
 }
