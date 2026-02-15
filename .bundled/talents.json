@@ -1,0 +1,1065 @@
+[
+  {
+    "warriors_swing": {
+      "name": "Warrior's Swing",
+      "desc": "Reduces incoming damage if hit during Heavy swing hyper armor.",
+      "rarity": "Common",
+      "category": "Weapon Master",
+      "reqs": "warriors_swing := 30s HVY",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "mercy_kill": {
+      "name": "Mercy Kill",
+      "desc": "When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.",
+      "rarity": "Quest",
+      "category": "Weapon Master",
+      "reqs": "mercy_kill := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "switchblade_med": {
+      "name": "Switchblade [MED]",
+      "desc": "You can now utilise Dagger talents when not wielding a dagger.",
+      "rarity": "Advanced",
+      "category": "Weapon Master",
+      "reqs": "switchblade_med := 50r MED, 50s LHT",
+      "exclusive": [
+        "Switchblade_HVY"
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "switchblade_hvy": {
+      "name": "Switchblade [HVY]",
+      "desc": "You can now utilise Dagger talents when not wielding a dagger.",
+      "rarity": "Advanced",
+      "category": "Weapon Master",
+      "reqs": "switchblade_hvy := 50r HVY, 50s LHT",
+      "exclusive": [
+        "Switchblade_MED"
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "matador": {
+      "name": "Matador",
+      "desc": "Deal +20% more damage to human enemies with hyperarmor.",
+      "rarity": "Common",
+      "category": "Weapon Master",
+      "reqs": "matador := 5s AGL, 20s STR",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "showstopper": {
+      "name": "Showstopper",
+      "desc": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.",
+      "rarity": "Rare",
+      "category": "Weapon Master",
+      "reqs": "showstopper := 40s STR",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "brutal_momentum": {
+      "name": "Brutal Momentum",
+      "desc": "[Heavy Weapons] Successfully dodging will give you hyperarmour on your next swing.",
+      "rarity": "Common",
+      "category": "Weapon Master",
+      "reqs": "brutal_momentum := 50s HVY",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "give_and_take": {
+      "name": "Give and Take",
+      "desc": "Deal less damage to comrades and receive less damage from comrades.\n[*Note: 20% less damage to and from allies.]",
+      "rarity": "Common",
+      "category": "Empath",
+      "reqs": "give_and_take := 35s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "cornered_fool": {
+      "name": "Cornered Fool",
+      "desc": "Blockbreaking a Charmed opponent procs Taunt for a scaled duration, making them take and deal more damage. 15s CD.\n[*Note: 3 seconds at 0 Charisma, 6 seconds at 85 Charisma.]",
+      "rarity": "Common",
+      "category": "Empath",
+      "reqs": "cornered_fool := 85s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "off_your_game": {
+      "name": "Off Your Game",
+      "desc": "You now slow Taunted enemies when you hit them.",
+      "rarity": "Common",
+      "category": "Empath",
+      "reqs": "off_your_game := 90s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "bloodiron_spirit": {
+      "name": "Bloodiron Spirit",
+      "desc": "You regain some Armor upon killing enemies.",
+      "rarity": "Rare",
+      "category": "Soul Converter",
+      "reqs": "bloodiron_spirit := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 5
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "overcharge": {
+      "name": "Overcharge",
+      "desc": "Your next dash after activating Static Blade is enhanced by lightning.",
+      "rarity": "Common",
+      "category": "Thunderblade",
+      "reqs": "overcharge := 45s LTN",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "gathering_electricity_agl": {
+      "name": "Gathering Electricity [AGL]",
+      "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
+      "rarity": "Common",
+      "category": "Thunderblade",
+      "reqs": "static_blade => gathering_electricity_agl := 25r AGL, 65s LTN",
+      "exclusive": [
+        "Gathering_Electricity_STR"
+      ],
+      "innates": {
+        "Passive Agility": 1,
+        "Carry Load": 10
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "gathering_electricity_str": {
+      "name": "Gathering Electricity [STR]",
+      "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
+      "rarity": "Common",
+      "category": "Thunderblade",
+      "reqs": "static_blade => gathering_electricity_str := 25r STR, 65s LTN",
+      "exclusive": [
+        "Gathering_Electricity_AGL"
+      ],
+      "innates": {
+        "Carry Load": 10,
+        "Passive Agility": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "static_blade": {
+      "name": "Static Blade",
+      "desc": "[Medium Weapons] Hitting blocks or blocking or parrying hits will now generate an electric chage in your blade, granting a small speed buff. Charges can stack up to 5 times.",
+      "rarity": "Common",
+      "category": "Thunderblade",
+      "reqs": "thundercaller => static_blade := 20s MED, 40s LTN",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "approaching_singularity": {
+      "name": "Approaching Singularity",
+      "desc": "You now gain +1% Mantra PEN for every 10 points of Intelligence.",
+      "rarity": "Common",
+      "category": "All-Knowing",
+      "reqs": "approaching_singularity := 80s INT",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "pursuit": {
+      "name": "Pursuit",
+      "desc": "If you land your Revenge, clear the cooldown immediately.\n[*Note: 35s to 25s cooldown between 50 and 90 Agility.]",
+      "rarity": "Common",
+      "category": "Trickster",
+      "reqs": "pursuit := 90s AGL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "crippling_comeuppance": {
+      "name": "Crippling Comeuppance",
+      "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
+      "rarity": "Advanced",
+      "category": "Trickster",
+      "reqs": "crippling_comeuppance := 100s AGL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "cheap_shot": {
+      "name": "Cheap Shot",
+      "desc": "Your attacks gain up to 10% PEN multiplicatively when you have an active speed boost.\n[*Note: 5% to 10% PEN between 20 and 65 Agility.]",
+      "rarity": "Rare",
+      "category": "Trickster",
+      "reqs": "cheap_shot := 65s AGL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 6
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "maiming_claws": {
+      "name": "Maiming Claws",
+      "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
+      "rarity": "Common",
+      "category": "Trickster",
+      "reqs": "down_comes_the_claw => maiming_claws := 100s AGL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "down_comes_the_claw": {
+      "name": "Down Comes the Claw",
+      "desc": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for up to 6.5s.\n[*Note: 4s to 6.5s duration between 30 and 75 Agility.]",
+      "rarity": "Common",
+      "category": "Trickster",
+      "reqs": "down_comes_the_claw := 75s AGL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "silencers_song_med": {
+      "name": "Silencer's Song [MED]",
+      "desc": "Silencer's Blade now procs on your mantras.",
+      "rarity": "Common",
+      "category": "Unknown",
+      "reqs": "silencers_blade => silencers_song_med := 100r MED, 100s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "jetstream": {
+      "name": "Jetstream",
+      "desc": "The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.",
+      "rarity": "Equipment",
+      "category": "Unknown",
+      "reqs": "jetstream := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 1,
+        "Wind Armor Percentage": 8
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "umami": {
+      "name": "Umami",
+      "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
+      "rarity": "Equipment",
+      "category": "Unknown",
+      "reqs": "umami := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "silencers_song_lht": {
+      "name": "Silencer's Song [LHT]",
+      "desc": "Silencer's Blade now procs on your mantras.",
+      "rarity": "Common",
+      "category": "Unknown",
+      "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "grotesque_resilience": {
+      "name": "Grotesque Resilience",
+      "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
+      "rarity": "Equipment",
+      "category": "Unknown",
+      "reqs": "grotesque_resilience := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "overwhelming_might": {
+      "name": "Overwhelming Might",
+      "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
+      "rarity": "Outfit",
+      "category": "Unknown",
+      "reqs": "overwhelming_might := 30s STR",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "silencers_song_hvy": {
+      "name": "Silencer's Song [HVY]",
+      "desc": "Silencer's Blade now procs on your mantras.",
+      "rarity": "Common",
+      "category": "Unknown",
+      "reqs": "silencers_blade => silencers_song_hvy := 100r HVY, 100s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "simmerbloom": {
+      "name": "Simmerbloom",
+      "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
+      "rarity": "Equipment",
+      "category": "Unknown",
+      "reqs": "simmerbloom := 85s FLM",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "chorus_of_souls": {
+      "name": "Chorus of Souls",
+      "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "oath_oathless => chorus_of_souls := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_wnd": {
+      "name": "Will o' Wisp [WND]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_wnd := 25r WND",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_MTL",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_ice": {
+      "name": "Will o' Wisp [ICE]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_ice := 25r ICE",
+      "exclusive": [
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_MTL",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_bld": {
+      "name": "Will o' Wisp [BLD]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_bld := 25r BLD",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_MTL"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_sdw": {
+      "name": "Will o' Wisp [SDW]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_sdw := 25r SDW",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_MTL",
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "wisp_convergence": {
+      "name": "Wisp Convergence",
+      "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes.",
+      "rarity": "Rare",
+      "category": "Sage of Wisps",
+      "reqs": "oath_oathless, chorus_of_souls => wisp_convergence := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_mtl": {
+      "name": "Will o' Wisp [MTL]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_mtl := 25r MTL",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_flm": {
+      "name": "Will o' Wisp [FLM]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_flm := 25r FLM",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_LTN",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_MTL",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "will_o_wisp_ltn": {
+      "name": "Will o' Wisp [LTN]",
+      "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+      "rarity": "Advanced",
+      "category": "Sage of Wisps",
+      "reqs": "will_o_wisp_ltn := 25r LTN",
+      "exclusive": [
+        "Will_o_Wisp_ICE",
+        "Will_o_Wisp_FLM",
+        "Will_o_Wisp_WND",
+        "Will_o_Wisp_MTL",
+        "Will_o_Wisp_SDW",
+        "Will_o_Wisp_BLD"
+      ],
+      "innates": {
+        "Wisp Mantra Slot": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "no_survivors": {
+      "name": "No Survivors",
+      "desc": "Your allies and yourself execute faster while affected by Overcharm.",
+      "rarity": "Common",
+      "category": "Tyrant",
+      "reqs": "no_survivors := 45s STR, 80s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "audacity": {
+      "name": "Audacity",
+      "desc": "Once you've brought down your prey, instill fear into all those who would seperate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff.\n[*Note: CD scales from 30s to 40s with your Charisma and Strength stats, between 50 and 150.]",
+      "rarity": "Advanced",
+      "category": "Tyrant",
+      "reqs": "audacity := 50s STR, 100s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Posture": 1
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "rule_through_fear": {
+      "name": "Rule Through Fear",
+      "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+      "rarity": "Rare",
+      "category": "Tyrant",
+      "reqs": "rule_through_fear := 50s STR, 85s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "thundercall_unbounded": {
+      "name": "Thundercall Unbounded",
+      "desc": "You have gained the ability to surpass your limits and train your thundercall to its fullest.\n[Note: Falling below 75 Thundercall revokes this Talent.]",
+      "rarity": "Common",
+      "category": "Thundercall Master",
+      "reqs": "thundercall_unbounded := 75s LTN",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 10
+      },
+      "not_counted_towards_total": true,
+      "vaulted": false
+    }
+  },
+  {
+    "twelve_steps_ahead": {
+      "name": "Twelve Steps Ahead",
+      "desc": "Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 40s. This effect stacks up for up to 30 seconds.\n[*Note: The penalty cooldown scales off of your Intelligence, with 30s at 80 Intelligence.]",
+      "rarity": "Common",
+      "category": "Omniscient",
+      "reqs": "twelve_steps_ahead := 80s INT",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "all_knowing": {
+      "name": "All Knowing",
+      "desc": "Your prediction now ignores the range requirement to reflect attacks.",
+      "rarity": "Rare",
+      "category": "Omniscient",
+      "reqs": "all_knowing := 60s INT",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Ether": 10
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "intelligence_unbounded": {
+      "name": "Intelligence Unbounded",
+      "desc": "You have gained the ability to surpass your limits and train your intelligence to its fullest.",
+      "rarity": "Common",
+      "category": "Omniscient",
+      "reqs": "intelligence_unbounded := 75s INT",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": true,
+      "vaulted": false
+    },
+    "successive_prediction": {
+      "name": "Successive Prediction",
+      "desc": "Predicting an attack will briefly allow you to predict another.",
+      "rarity": "Common",
+      "category": "Omniscient",
+      "reqs": "successive_prediction := 50s INT",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Ether": 10
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "callout": {
+      "name": "Callout",
+      "desc": "You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.",
+      "rarity": "Common",
+      "category": "Leader",
+      "reqs": "callout := 20s CHA",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "spotter": {
+      "name": "Spotter",
+      "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
+      "rarity": "Common",
+      "category": "Leader",
+      "reqs": "murmur_rhythm, callout => spotter := 40s CHA",
+      "exclusive": [
+        "Oath_Soulbreaker"
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "aeronade": {
+      "name": "Aeronade",
+      "desc": "Your trap automatically detonates on contact with an object.",
+      "rarity": "Common",
+      "category": "Aeromancer",
+      "reqs": "aeronade := 40s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 2
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "vacuum_punch": {
+      "name": "Vacuum Punch",
+      "desc": "Your Gale Punch pulls enemies in before you hit them.",
+      "rarity": "Common",
+      "category": "Aeromancer",
+      "reqs": "vacuum_punch := 15s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 2
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "gale_trap": {
+      "name": "Gale Trap",
+      "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
+      "rarity": "Common",
+      "category": "Aeromancer",
+      "reqs": "wind_step => gale_trap := 50s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "stifled_jump": {
+      "name": "Stifled Jump",
+      "desc": "Enemies who jump while suffocated by you are dazed.",
+      "rarity": "Rare",
+      "category": "Aeromancer",
+      "reqs": "suffocating_impact => stifled_jump := 15s STR, 35s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 2
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "suffocating_impact": {
+      "name": "Suffocating Impact",
+      "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
+      "rarity": "Common",
+      "category": "Aeromancer",
+      "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 2
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "aerogliding": {
+      "name": "Aerogliding",
+      "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
+      "rarity": "Rare",
+      "category": "Aeromancer",
+      "reqs": "aerogliding := 30s AGL, 35s WND",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Passive Agility": 2
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "smell_of_blood": {
+      "name": "Smell of Blood",
+      "desc": "When people touch a blood pool, briefly see their blood and blood poison.\n[*Note: This Talent does proc on guardbreaks.]",
+      "rarity": "Rare",
+      "category": "Bloodhound",
+      "reqs": "smell_of_blood := 65s BLD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "bloodwardens_sense": {
+      "name": "Bloodwarden's Sense",
+      "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted briefly.",
+      "rarity": "Common",
+      "category": "Bloodhound",
+      "reqs": "bloodwardens_sense := 30s BLD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "union_hook": {
+      "name": "Union Hook",
+      "desc": "You can now make use of the Ignition Union hooks to ascend or descend.",
+      "rarity": "Quest",
+      "category": "Ignition Union",
+      "reqs": "union_hook := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "force_your_way": {
+      "name": "Force Your Way",
+      "desc": "You can parry uparryable attacks from giant monsters, at the cost of armor durability.",
+      "rarity": "Outfit",
+      "category": "Ignition Union",
+      "reqs": "force_your_way := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "to_the_finish": {
+      "name": "To The Finish",
+      "desc": "You take up to 10% less damage when below 30% health.\n[*Note: -5%-10% between 20 and 50 Fortitude.]",
+      "rarity": "Rare",
+      "category": "Freak of Nature",
+      "reqs": "to_the_finish := 50s FTD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 5
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "exoskeleton": {
+      "name": "Exoskeleton",
+      "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% of Physical Damage while active.\n[*Note: +5%-+10% between 0 and 40 Fortitude.]",
+      "rarity": "Rare",
+      "category": "Freak of Nature",
+      "reqs": "exoskeleton := 40s FTD",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 5
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "peripheral_vision": {
+      "name": "Peripheral Vision",
+      "desc": "Your glare now ignores if your opponent is facing you.",
+      "rarity": "Rare",
+      "category": "Hunter",
+      "reqs": "peripheral_vision := 40s WLL",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Sanity": 5
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "union_pager": {
+      "name": "Union Pager",
+      "desc": "Check up on job listings remotely.",
+      "rarity": "Origin",
+      "category": "Ignition Delver",
+      "reqs": "union_pager := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "oath_dawnwalker": {
+      "name": "Oath: Dawnwalker",
+      "desc": "You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge.",
+      "rarity": "Oath",
+      "category": "Dawnwalker",
+      "reqs": "oath_dawnwalker := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Combat Mantra": 3
+      },
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "luminous_flash": {
+      "name": "Luminous Flash",
+      "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
+      "rarity": "Oath",
+      "category": "Dawnwalker",
+      "reqs": "oath_dawnwalker => luminous_flash := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "protagonist_syndrome": {
+      "name": "Protagonist Syndrome",
+      "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.",
+      "rarity": "Oath",
+      "category": "Dawnwalker",
+      "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "absolute_radiance": {
+      "name": "Absolute Radiance",
+      "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
+      "rarity": "Oath",
+      "category": "Dawnwalker",
+      "reqs": "oath_dawnwalker => absolute_radiance := ()",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    }
+  },
+  {
+    "adept_frostdrawer": {
+      "name": "Adept Frostdrawer",
+      "desc": "You can now obtain 1-star Frostdrawer mantras.",
+      "rarity": "Common",
+      "category": "Frostdrawer",
+      "reqs": "frostdrawer => adept_frostdrawer := 20s ICE",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": true,
+      "vaulted": false
+    },
+    "cold_front": {
+      "name": "Cold Front",
+      "desc": "Your Vent is imbued with glacial frost.",
+      "rarity": "Common",
+      "category": "Frostdrawer",
+      "reqs": "cryonis => cold_front := 25s ICE",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": false,
+      "vaulted": false
+    },
+    "expert_frostdrawer": {
+      "name": "Expert Frostdrawer",
+      "desc": "You can now obtain 2-star Frostdrawer mantras.",
+      "rarity": "Common",
+      "category": "Frostdrawer",
+      "reqs": "adept_frostdrawer => expert_frostdrawer := 30s ICE",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": true,
+      "vaulted": false
+    },
+    "master_frostdrawer": {
+      "name": "Master Frostdrawer",
+      "desc": "You can now obtain 3-star Frostdrawer mantras.",
+      "rarity": "Common",
+      "category": "Frostdrawer",
+      "reqs": "expert_frostdrawer => master_frostdrawer := 50s ICE",
+      "exclusive": [
+        ""
+      ],
+      "innates": {
+        "Health": 5
+      },
+      "not_counted_towards_total": true,
+      "vaulted": false
+    },
+    "frostdrawer": {
+      "name": "Frostdrawer",
+      "desc": "Grants you the ability to command Ice as a Frostdrawer.",
+      "rarity": "Common",
+      "category": "Frostdrawer",
+      "reqs": "frostdrawer := 1s ICE",
+      "exclusive": [
+        ""
+      ],
+      "innates": {},
+      "not_counted_towards_total": true,
+      "vaulted": false
+    }
+  }
+]
