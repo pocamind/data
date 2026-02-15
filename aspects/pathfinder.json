@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Adret",
+        "innate": {
+            "Willpower": 2,
+            "Charisma": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Canor",
+        "innate": {
+            "Strength": 2,
+            "Charisma": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Capra",
+        "innate": {
+            "Intelligence": 2,
+            "Willpower": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Celtor",
+        "innate": {
+            "Intelligence": 2,
+            "Charisma": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Chrysid",
+        "innate": {
+            "Agility": 2,
+            "Charisma": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Etrean",
+        "innate": {
+            "Agility": 2,
+            "Intelligence": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Felinor",
+        "innate": {
+            "Agility": 2,
+            "Charisma": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Ganymede",
+        "innate": {
+            "Intelligence": 2,
+            "Willpower": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Gremor",
+        "innate": {
+            "Strength": 2,
+            "Fortitude": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Khan",
+        "innate": {
+            "Strength": 3,
+            "Agility": 2
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Kiron",
+        "innate": {
+            "Agility": 3,
+            "Intelligence": 2
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Tiran",
+        "innate": {
+            "Agility": 2,
+            "Willpower": 3
+        },
+        "is_pathfinder": true
+    },
+    {
+        "name": "Vesperian",
+        "innate": {
+            "Fortitude": 2,
+            "Willpower": 3
+        },
+        "is_pathfinder": true
+    }
+]
