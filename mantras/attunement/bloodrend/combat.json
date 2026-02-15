@@ -1,50 +1,14 @@
 {
-  "bloodcurdle": {
-    "name": "Bloodcurdle",
-    "desc": "Manipulate the blood within your target's body.",
+  "bloodtide_ritual": {
+    "name": "Bloodtide Ritual",
+    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
     "stars": 3,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 50r",
-    "vaulted": false
-  },
-  "bloodedge": {
-    "name": "Bloodedge",
-    "desc": "Conjure a scythe of blood and swing.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 20r",
-    "vaulted": false
-  },
-  "scarlet_cyclone": {
-    "name": "Scarlet Cyclone",
-    "desc": "Create a cyclone of blood.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 1r",
-    "vaulted": false
-  },
-  "razor_blitz": {
-    "name": "Razor Blitz",
-    "desc": "Create weapons on your arms and dash through.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 30r",
+    "reqs": "bloodtide_ritual := 50r BLD",
     "vaulted": false
   },
   "crucifixion": {
@@ -56,7 +20,19 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 1r",
+    "reqs": "crucifixion := 1r BLD",
+    "vaulted": false
+  },
+  "bloodcurdle": {
+    "name": "Bloodcurdle",
+    "desc": "Manipulate the blood within your target's body.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodcurdle := 50r BLD",
     "vaulted": false
   },
   "crimson_rain": {
@@ -68,7 +44,7 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 30r",
+    "reqs": "crimson_rain := 30r BLD",
     "vaulted": false
   },
   "vicious_descent": {
@@ -80,67 +56,7 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 20r",
-    "vaulted": false
-  },
-  "soulflare_siphon": {
-    "name": "Soulflare Siphon",
-    "desc": "Grab and siphon the blood out of your victim.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 30r",
-    "vaulted": false
-  },
-  "scarlet_cannon": {
-    "name": "Scarlet Cannon",
-    "desc": "Create a giant blood beam.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 30r",
-    "vaulted": false
-  },
-  "blood_stakes": {
-    "name": "Blood Stakes",
-    "desc": "Create stakes of blood.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 20r",
-    "vaulted": false
-  },
-  "bloodtide_ritual": {
-    "name": "Bloodtide Ritual",
-    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 50r",
-    "vaulted": false
-  },
-  "blood_orb": {
-    "name": "Blood Orb",
-    "desc": "Release an amalgamation of your blood.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "BLD = 1r",
+    "reqs": "vicious_descent := 20r BLD",
     "vaulted": false
   },
   "crimson_surge": {
@@ -152,7 +68,91 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 30r",
+    "reqs": "crimson_surge := 30r BLD",
+    "vaulted": false
+  },
+  "blood_stakes": {
+    "name": "Blood Stakes",
+    "desc": "Create stakes of blood.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_stakes := 20r BLD",
+    "vaulted": false
+  },
+  "bloodedge": {
+    "name": "Bloodedge",
+    "desc": "Conjure a scythe of blood and swing.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodedge := 20r BLD",
+    "vaulted": false
+  },
+  "scarlet_cannon": {
+    "name": "Scarlet Cannon",
+    "desc": "Create a giant blood beam.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "scarlet_cannon := 30r BLD",
+    "vaulted": false
+  },
+  "scarlet_cyclone": {
+    "name": "Scarlet Cyclone",
+    "desc": "Create a cyclone of blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "scarlet_cyclone := 1r BLD",
+    "vaulted": false
+  },
+  "soulflare_siphon": {
+    "name": "Soulflare Siphon",
+    "desc": "Grab and siphon the blood out of your victim.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "soulflare_siphon := 30r BLD",
+    "vaulted": false
+  },
+  "razor_blitz": {
+    "name": "Razor Blitz",
+    "desc": "Create weapons on your arms and dash through.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "razor_blitz := 30r BLD",
+    "vaulted": false
+  },
+  "blood_orb": {
+    "name": "Blood Orb",
+    "desc": "Release an amalgamation of your blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_orb := 1r BLD",
     "vaulted": false
   },
   "veinbreaker": {
@@ -164,7 +164,7 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 30r",
+    "reqs": "veinbreaker := 30r BLD",
     "vaulted": false
   }
 }

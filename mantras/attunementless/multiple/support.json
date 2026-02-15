@@ -8,7 +8,7 @@
     "attributes": [
       "Multiple"
     ],
-    "reqs": "WLL = 5r, CHA = 25r",
+    "reqs": "glare := 5r WLL, 25r CHA",
     "vaulted": false
   }
 }

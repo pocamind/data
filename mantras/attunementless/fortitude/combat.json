@@ -8,7 +8,7 @@
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "FTD = 35r",
+    "reqs": "shoulder_bash := 35r FTD",
     "vaulted": false
   }
 }

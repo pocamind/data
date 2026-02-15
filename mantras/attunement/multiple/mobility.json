@@ -8,7 +8,7 @@
     "attributes": [
       "Multiple"
     ],
-    "reqs": "LTN = 30r, WND = 30r",
+    "reqs": "tempest_blitz := 30r LTN, 30r WND",
     "vaulted": false
   }
 }

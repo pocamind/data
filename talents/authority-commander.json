@@ -4,7 +4,7 @@
     "desc": "You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.",
     "rarity": "Outfit",
     "category": "Authority Commander",
-    "reqs": "()",
+    "reqs": "riot_breaker := ()",
     "exclusive": [
       ""
     ],

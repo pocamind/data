@@ -4,7 +4,7 @@
     "desc": "Your allies and yourself execute faster while affected by Overcharm.",
     "rarity": "Common",
     "category": "Tyrant",
-    "reqs": "STR = 45s, CHA = 80s",
+    "reqs": "no_survivors := 45s STR, 80s CHA",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Once you've brought down your prey, instill fear into all those who would seperate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff.\n[*Note: CD scales from 30s to 40s with your Charisma and Strength stats, between 50 and 150.]",
     "rarity": "Advanced",
     "category": "Tyrant",
-    "reqs": "STR = 50s, CHA = 100s",
+    "reqs": "audacity := 50s STR, 100s CHA",
     "exclusive": [
       ""
     ],
@@ -32,7 +32,7 @@
     "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
     "rarity": "Rare",
     "category": "Tyrant",
-    "reqs": "STR = 50s, CHA = 85s",
+    "reqs": "rule_through_fear := 50s STR, 85s CHA",
     "exclusive": [
       ""
     ],

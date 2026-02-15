@@ -1,10 +1,10 @@
 {
-  "way_of_navae": {
-    "name": "Way of Navae",
-    "desc": "Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.",
-    "rarity": "Quest",
+  "fists_of_navae": {
+    "name": "Fists of Navae",
+    "desc": "Your flourish timer lasts longer with fists.",
+    "rarity": "Outfit",
     "category": "Navaen Nomad",
-    "reqs": "()",
+    "reqs": "fists_of_navae := ()",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Moving while with a shield no longer slows you down.",
     "rarity": "Common",
     "category": "Navaen Nomad",
-    "reqs": "moving_fortress => FTD = 20s, STR = 30s",
+    "reqs": "moving_fortress => captain_etrea := 20s FTD, 30s STR",
     "exclusive": [
       ""
     ],
@@ -27,31 +27,31 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "way_of_navae": {
+    "name": "Way of Navae",
+    "desc": "Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.",
+    "rarity": "Quest",
+    "category": "Navaen Nomad",
+    "reqs": "way_of_navae := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "fists_of_fortitude": {
     "name": "Fists of Fortitude",
     "desc": "[Fists] Every 6 hits with your fist builds of a shield of endurance reducing incoming damage by 15%. 70s CD.",
     "rarity": "Rare",
     "category": "Navaen Nomad",
-    "reqs": "FTD = 20s, LHT = 20s",
+    "reqs": "fists_of_fortitude := 20s FTD, 20s LHT",
     "exclusive": [
       "Orbital_Ice"
     ],
     "innates": {
       "Carry Load": 1
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "fists_of_navae": {
-    "name": "Fists of Navae",
-    "desc": "Your flourish timer lasts longer with fists.",
-    "rarity": "Outfit",
-    "category": "Navaen Nomad",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

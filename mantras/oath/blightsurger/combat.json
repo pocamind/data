@@ -1,16 +1,4 @@
 {
-  "warp_kick": {
-    "name": "Warp Kick",
-    "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Blightsurger"
-    ],
-    "reqs": "oath_blightsurger => ()",
-    "vaulted": false
-  },
   "sovereign_drive": {
     "name": "Sovereign Drive",
     "desc": "Dash forward in a blink, knocking down enemies in your path.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Blightsurger"
     ],
-    "reqs": "oath_blightsurger => ()",
+    "reqs": "oath_blightsurger => sovereign_drive := ()",
+    "vaulted": false
+  },
+  "warp_kick": {
+    "name": "Warp Kick",
+    "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Blightsurger"
+    ],
+    "reqs": "oath_blightsurger => warp_kick := ()",
     "vaulted": false
   },
   "skycrash": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Blightsurger"
     ],
-    "reqs": "oath_blightsurger => ()",
+    "reqs": "oath_blightsurger => skycrash := ()",
     "vaulted": false
   }
 }

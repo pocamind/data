@@ -1,15 +1,15 @@
 {
-  "shadowcaster": {
-    "name": "Shadowcaster",
-    "desc": "Harnesss the power of Shadow in your mantra crafting.",
+  "lasting_sorrow": {
+    "name": "Lasting Sorrow",
+    "desc": "Shadow lasts longer on your opponent.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "SDW = 1s",
+    "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": true,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "adept_shadowcaster": {
@@ -17,7 +17,7 @@
     "desc": "You can now obtain 1-Star Leveled Shadowcaster Mantras.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "shadowcaster => SDW = 20s",
+    "reqs": "shadowcaster => adept_shadowcaster := 20s SDW",
     "exclusive": [
       ""
     ],
@@ -25,14 +25,42 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "sightless_still": {
-    "name": "Sightless Still",
-    "desc": "The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.",
+  "shadowcaster": {
+    "name": "Shadowcaster",
+    "desc": "Harnesss the power of Shadow in your mantra crafting.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "SDW = 30s",
+    "reqs": "shadowcaster := 1s SDW",
     "exclusive": [
-      "Singularity"
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "master_shadowcaster": {
+    "name": "Master Shadowcaster",
+    "desc": "You can now obtain 3-Star Leveled Shadowcaster Mantras.",
+    "rarity": "Common",
+    "category": "Shadowcaster",
+    "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "blossoming_darkness": {
+    "name": "Blossoming Darkness",
+    "desc": "Ether drained during Shadow Roar increases the size of it.",
+    "rarity": "Common",
+    "category": "Shadowcaster",
+    "reqs": "blossoming_darkness := 30s SDW",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -43,48 +71,9 @@
     "desc": "Enemies will briefly hang in place when hit by a shadow move.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "shadowcaster => SDW = 40s",
+    "reqs": "shadowcaster => singularity := 40s SDW",
     "exclusive": [
       "Sightless_Still"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "expert_shadowcaster": {
-    "name": "Expert Shadowcaster",
-    "desc": "You can now obtain 2-Star Leveled Shadowcaster Mantras.",
-    "rarity": "Common",
-    "category": "Shadowcaster",
-    "reqs": "adept_shadowcaster => SDW = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "lasting_sorrow": {
-    "name": "Lasting Sorrow",
-    "desc": "Shadow lasts longer on your opponent.",
-    "rarity": "Common",
-    "category": "Shadowcaster",
-    "reqs": "shadowcaster => SDW = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "shadow_travel": {
-    "name": "Shadow Travel",
-    "desc": "Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.",
-    "rarity": "Rare",
-    "category": "Shadowcaster",
-    "reqs": "dark_god => SDW = 75s",
-    "exclusive": [
-      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -95,7 +84,7 @@
     "desc": "Enemies that run from you after being hit by your shadows will hang in place briefly.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "shadowcaster => SDW = 50s",
+    "reqs": "shadowcaster => fear_the_dark := 50s SDW",
     "exclusive": [
       ""
     ],
@@ -103,12 +92,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "blossoming_darkness": {
-    "name": "Blossoming Darkness",
-    "desc": "Ether drained during Shadow Roar increases the size of it.",
+  "sightless_still": {
+    "name": "Sightless Still",
+    "desc": "The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "SDW = 30s",
+    "reqs": "sightless_still := 30s SDW",
+    "exclusive": [
+      "Singularity"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "shadow_travel": {
+    "name": "Shadow Travel",
+    "desc": "Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.",
+    "rarity": "Rare",
+    "category": "Shadowcaster",
+    "reqs": "dark_god => shadow_travel := 75s SDW",
     "exclusive": [
       ""
     ],
@@ -116,18 +118,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "master_shadowcaster": {
-    "name": "Master Shadowcaster",
-    "desc": "You can now obtain 3-Star Leveled Shadowcaster Mantras.",
+  "expert_shadowcaster": {
+    "name": "Expert Shadowcaster",
+    "desc": "You can now obtain 2-Star Leveled Shadowcaster Mantras.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "expert_shadowcaster => SDW = 50s",
+    "reqs": "adept_shadowcaster => expert_shadowcaster := 30s SDW",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Health": 5
-    },
+    "innates": {},
     "not_counted_towards_total": true,
     "vaulted": false
   }

@@ -1,185 +1,9 @@
 {
-  "halberd": {
-    "name": "Halberd",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 25r",
-    "damage": 22.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.8,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 7.0
-    }
-  },
-  "skyreap_blade": {
-    "name": "Skyreap Blade",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 23.0,
-    "pen": 0.25,
-    "chip": 0.0,
-    "weight": 7.5,
-    "range": 8.5,
-    "speed": 0.91,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 7.5
-    }
-  },
-  "canorian_axe": {
-    "name": "Canorian Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 35r",
-    "damage": 23.5,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 6.0,
-    "range": 8.0,
-    "speed": 0.83,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 7.0
-    }
-  },
-  "alloyed_halberd": {
-    "name": "Alloyed Halberd",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.15,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.8,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 8.0
-    }
-  },
-  "divine_axe": {
-    "name": "Divine Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "()",
-    "damage": 28.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 8.0,
-    "range": 10.1,
-    "speed": 0.8,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 13.0
-    }
-  },
-  "alloyed_adretian_axe": {
-    "name": "Alloyed Adretian Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.1,
-    "chip": 0.1,
-    "weight": 7.0,
-    "range": 8.0,
-    "speed": 0.87,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 8.0
-    }
-  },
-  "alloyed_canorian_axe": {
-    "name": "Alloyed Canorian Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.2,
-    "chip": 0.1,
-    "weight": 8.0,
-    "range": 8.0,
-    "speed": 0.83,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 9.0
-    }
-  },
-  "night_axe": {
-    "name": "Night Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 80r",
-    "damage": 23.0,
-    "pen": 0.05,
-    "chip": 0.8,
-    "weight": 10.0,
-    "range": 8.5,
-    "speed": 0.77,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 8.0
-    }
-  },
-  "relic_axe": {
-    "name": "Relic Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 25.0,
-    "pen": 0.25,
-    "chip": 0.1,
-    "weight": 10.0,
-    "range": 8.5,
-    "speed": 0.8,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 9.0
-    }
-  },
-  "duskguard_axe": {
-    "name": "Duskguard Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "STR = 10r, HVY = 75r",
-    "damage": 26.0,
-    "pen": 0.15,
-    "chip": 0.0,
-    "weight": 9.0,
-    "range": 9.0,
-    "speed": 0.85,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 8.0
-    }
-  },
-  "master_hawks_handaxe": {
-    "name": "Master Hawk's Handaxe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.05,
-    "chip": 0.25,
-    "weight": 10.0,
-    "range": 8.5,
-    "speed": 0.8,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 10.0
-    }
-  },
   "pale_briar": {
     "name": "Pale Briar",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "HVY = 85r",
+    "reqs": "pale_briar := 85r HVY",
     "damage": 23.0,
     "pen": 0.25,
     "chip": 0.1,
@@ -191,11 +15,27 @@
       "Heavy Wep.": 7.5
     }
   },
+  "alloyed_canorian_axe": {
+    "name": "Alloyed Canorian Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "alloyed_canorian_axe := 75r HVY",
+    "damage": 24.0,
+    "pen": 0.2,
+    "chip": 0.1,
+    "weight": 8.0,
+    "range": 8.0,
+    "speed": 0.83,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 9.0
+    }
+  },
   "chorus_of_agonies": {
     "name": "Chorus of Agonies",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "STR = 20r, HVY = 100r",
+    "reqs": "chorus_of_agonies := 20r STR, 100r HVY",
     "damage": 27.6,
     "pen": 0.0,
     "chip": 0.25,
@@ -207,11 +47,91 @@
       "Heavy Wep.": 11.0
     }
   },
+  "alloyed_halberd": {
+    "name": "Alloyed Halberd",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "alloyed_halberd := 75r HVY",
+    "damage": 24.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.8,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 8.0
+    }
+  },
+  "iron_birch": {
+    "name": "Iron Birch",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "iron_birch := 50r HVY",
+    "damage": 26.5,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 0.85,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 6.0
+    }
+  },
+  "divine_axe": {
+    "name": "Divine Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "divine_axe := ()",
+    "damage": 28.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 8.0,
+    "range": 10.1,
+    "speed": 0.8,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 13.0
+    }
+  },
+  "canorian_axe": {
+    "name": "Canorian Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "canorian_axe := 35r HVY",
+    "damage": 23.5,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 0.83,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 7.0
+    }
+  },
+  "relic_axe": {
+    "name": "Relic Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "relic_axe := 75r HVY",
+    "damage": 25.0,
+    "pen": 0.25,
+    "chip": 0.1,
+    "weight": 10.0,
+    "range": 8.5,
+    "speed": 0.8,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 9.0
+    }
+  },
   "enforcers_axe": {
     "name": "Enforcer's Axe",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "HVY = 75r",
+    "reqs": "enforcers_axe := 75r HVY",
     "damage": 26.0,
     "pen": 0.1,
     "chip": 0.0,
@@ -223,11 +143,59 @@
       "Heavy Wep.": 9.0
     }
   },
+  "duskguard_axe": {
+    "name": "Duskguard Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "duskguard_axe := 10r STR, 75r HVY",
+    "damage": 26.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 9.0,
+    "range": 9.0,
+    "speed": 0.85,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 8.0
+    }
+  },
+  "adretian_axe": {
+    "name": "Adretian Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "adretian_axe := 35r HVY",
+    "damage": 24.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 0.85,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 7.0
+    }
+  },
+  "master_hawks_handaxe": {
+    "name": "Master Hawk's Handaxe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "master_hawks_handaxe := 75r HVY",
+    "damage": 24.0,
+    "pen": 0.05,
+    "chip": 0.25,
+    "weight": 10.0,
+    "range": 8.5,
+    "speed": 0.8,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 10.0
+    }
+  },
   "gran_sudaruska": {
     "name": "Gran Sudaruska",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "HVY = 40r, ICE = 75r",
+    "reqs": "gran_sudaruska := 40r HVY, 75r ICE",
     "damage": 24.0,
     "pen": 0.05,
     "chip": 0.0,
@@ -236,31 +204,15 @@
     "speed": 0.83,
     "endlag": 0.0,
     "scaling": {
-      "Frostdraw": 6.0,
-      "Heavy Wep.": 4.0
-    }
-  },
-  "battleaxe": {
-    "name": "Battleaxe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "()",
-    "damage": 20.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 6.0,
-    "range": 8.0,
-    "speed": 0.83,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 5.0
+      "Heavy Wep.": 4.0,
+      "Frostdraw": 6.0
     }
   },
   "quartztone_pickaxe": {
     "name": "Quartztone Pickaxe",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "HVY = 75r",
+    "reqs": "quartztone_pickaxe := 75r HVY",
     "damage": 22.0,
     "pen": 0.1,
     "chip": 0.0,
@@ -272,43 +224,11 @@
       "Heavy Wep.": 7.0
     }
   },
-  "pars_glaive": {
-    "name": "Par's Glaive",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "()",
-    "damage": 10.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 1.07,
-    "endlag": 0.0,
-    "scaling": {
-      "Charisma": 30.0
-    }
-  },
-  "adretian_axe": {
-    "name": "Adretian Axe",
-    "type": "Greataxe",
-    "damage_type": "Slash",
-    "reqs": "HVY = 35r",
-    "damage": 24.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 8.0,
-    "speed": 0.85,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 7.0
-    }
-  },
   "evanspear_greataxe_bleed": {
     "name": "Evanspear Greataxe (Bleed)",
     "type": "Greataxe",
     "damage_type": "Slash + Bleed",
-    "reqs": "HVY = 70r",
+    "reqs": "evanspear_greataxe_bleed := 70r HVY",
     "damage": 25.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -320,20 +240,100 @@
       "Heavy Wep.": 9.5
     }
   },
-  "iron_birch": {
-    "name": "Iron Birch",
+  "skyreap_blade": {
+    "name": "Skyreap Blade",
     "type": "Greataxe",
     "damage_type": "Slash",
-    "reqs": "HVY = 50r",
-    "damage": 26.5,
-    "pen": 0.0,
+    "reqs": "skyreap_blade := 75r HVY",
+    "damage": 23.0,
+    "pen": 0.25,
     "chip": 0.0,
-    "weight": 4.0,
-    "range": 8.0,
-    "speed": 0.85,
+    "weight": 7.5,
+    "range": 8.5,
+    "speed": 0.91,
     "endlag": 0.0,
     "scaling": {
-      "Heavy Wep.": 6.0
+      "Heavy Wep.": 7.5
+    }
+  },
+  "alloyed_adretian_axe": {
+    "name": "Alloyed Adretian Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "alloyed_adretian_axe := 75r HVY",
+    "damage": 24.0,
+    "pen": 0.1,
+    "chip": 0.1,
+    "weight": 7.0,
+    "range": 8.0,
+    "speed": 0.87,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 8.0
+    }
+  },
+  "battleaxe": {
+    "name": "Battleaxe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "battleaxe := ()",
+    "damage": 20.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 0.83,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 5.0
+    }
+  },
+  "halberd": {
+    "name": "Halberd",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "halberd := 25r HVY",
+    "damage": 22.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.8,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 7.0
+    }
+  },
+  "pars_glaive": {
+    "name": "Par's Glaive",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "pars_glaive := ()",
+    "damage": 10.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 1.07,
+    "endlag": 0.0,
+    "scaling": {
+      "Charisma": 30.0
+    }
+  },
+  "night_axe": {
+    "name": "Night Axe",
+    "type": "Greataxe",
+    "damage_type": "Slash",
+    "reqs": "night_axe := 80r HVY",
+    "damage": 23.0,
+    "pen": 0.05,
+    "chip": 0.8,
+    "weight": 10.0,
+    "range": 8.5,
+    "speed": 0.77,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 8.0
     }
   }
 }

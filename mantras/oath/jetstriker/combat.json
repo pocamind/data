@@ -8,7 +8,7 @@
     "attributes": [
       "Jetstriker"
     ],
-    "reqs": "oath_jetstriker => ()",
+    "reqs": "oath_jetstriker => fake_strike := ()",
     "vaulted": false
   }
 }

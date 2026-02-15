@@ -8,7 +8,7 @@
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 30r",
+    "reqs": "gale_wisp := 30r WND",
     "vaulted": false
   }
 }

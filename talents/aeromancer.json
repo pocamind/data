@@ -1,38 +1,10 @@
 {
-  "gale_trap": {
-    "name": "Gale Trap",
-    "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
-    "rarity": "Common",
-    "category": "Aeromancer",
-    "reqs": "wind_step => WND = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "aerogliding": {
-    "name": "Aerogliding",
-    "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
-    "rarity": "Rare",
-    "category": "Aeromancer",
-    "reqs": "AGL = 30s, WND = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "aeronade": {
     "name": "Aeronade",
     "desc": "Your trap automatically detonates on contact with an object.",
     "rarity": "Common",
     "category": "Aeromancer",
-    "reqs": "WND = 40s",
+    "reqs": "aeronade := 40s WND",
     "exclusive": [
       ""
     ],
@@ -47,7 +19,7 @@
     "desc": "Your Gale Punch pulls enemies in before you hit them.",
     "rarity": "Common",
     "category": "Aeromancer",
-    "reqs": "WND = 15s",
+    "reqs": "vacuum_punch := 15s WND",
     "exclusive": [
       ""
     ],
@@ -57,12 +29,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "gale_trap": {
+    "name": "Gale Trap",
+    "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
+    "rarity": "Common",
+    "category": "Aeromancer",
+    "reqs": "wind_step => gale_trap := 50s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "stifled_jump": {
     "name": "Stifled Jump",
     "desc": "Enemies who jump while suffocated by you are dazed.",
     "rarity": "Rare",
     "category": "Aeromancer",
-    "reqs": "suffocating_impact => STR = 15s, WND = 35s",
+    "reqs": "suffocating_impact => stifled_jump := 15s STR, 35s WND",
     "exclusive": [
       ""
     ],
@@ -77,7 +62,22 @@
     "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
     "rarity": "Common",
     "category": "Aeromancer",
-    "reqs": "galebreather => STR = 15s, WND = 35s",
+    "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "aerogliding": {
+    "name": "Aerogliding",
+    "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
+    "rarity": "Rare",
+    "category": "Aeromancer",
+    "reqs": "aerogliding := 30s AGL, 35s WND",
     "exclusive": [
       ""
     ],

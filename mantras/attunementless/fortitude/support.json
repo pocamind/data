@@ -8,7 +8,7 @@
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "FTD = 10r",
+    "reqs": "rally := 10r FTD",
     "vaulted": false
   },
   "reinforce": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "FTD = 50r",
+    "reqs": "reinforce := 50r FTD",
     "vaulted": false
   },
   "brace": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "FTD = 75r",
+    "reqs": "brace := 75r FTD",
     "vaulted": false
   }
 }

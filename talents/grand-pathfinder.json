@@ -4,7 +4,7 @@
     "desc": "Parrying and landing hits with your weapon gives you ether back.",
     "rarity": "Outfit",
     "category": "Grand Pathfinder",
-    "reqs": "()",
+    "reqs": "legendary := ()",
     "exclusive": [
       ""
     ],

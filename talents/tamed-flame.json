@@ -4,7 +4,7 @@
     "desc": "Your Agitating Spark no longer spreads to your allies. All-Consuming Flame no longer applies against allies.",
     "rarity": "Common",
     "category": "Tamed Flame",
-    "reqs": "agitating_spark => CHA = 40s",
+    "reqs": "agitating_spark => controlled_combustion := 40s CHA",
     "exclusive": [
       ""
     ],

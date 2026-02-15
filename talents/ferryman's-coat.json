@@ -4,7 +4,7 @@
     "desc": "You have a 20% chance to convert incoming elemental damage into Lightning damage.",
     "rarity": "Outfit",
     "category": "Ferryman's Coat",
-    "reqs": "()",
+    "reqs": "ferrymans_curse := ()",
     "exclusive": [
       ""
     ],

@@ -8,7 +8,7 @@
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ICE = 20r",
+    "reqs": "glacial_arc := 20r ICE",
     "vaulted": false
   },
   "ice_skate": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ICE = 50r",
+    "reqs": "ice_skate := 50r ICE",
     "vaulted": false
   }
 }

@@ -1,31 +1,16 @@
 {
-  "time_to_go": {
-    "name": "Time To Go",
-    "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.",
-    "rarity": "Common",
-    "category": "Acrobat",
-    "reqs": "AGL = 5s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "steady_footing": {
     "name": "Steady Footing",
     "desc": "You're much more resistant to being pushed around. You don't slide on ice.",
     "rarity": "Common",
     "category": "Acrobat",
-    "reqs": "STR = 10s, AGL = 10s",
+    "reqs": "steady_footing := 10s STR, 10s AGL",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 9,
-      "Passive Agility": 2
+      "Passive Agility": 2,
+      "Carry Load": 9
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -35,12 +20,27 @@
     "desc": "You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.",
     "rarity": "Common",
     "category": "Acrobat",
-    "reqs": "AGL = 20s",
+    "reqs": "kick_off := 20s AGL",
     "exclusive": [
       ""
     ],
     "innates": {
       "Passive Agility": 6
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "time_to_go": {
+    "name": "Time To Go",
+    "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.",
+    "rarity": "Common",
+    "category": "Acrobat",
+    "reqs": "time_to_go := 5s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

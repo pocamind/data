@@ -4,7 +4,7 @@
     "desc": "Your sanity recovers more quickly once out of terrifying situations.",
     "rarity": "Common",
     "category": "Mental Fortress",
-    "reqs": "WLL = 5s",
+    "reqs": "breathing_exercise := 5s WLL",
     "exclusive": [
       ""
     ],
@@ -19,7 +19,7 @@
     "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
     "rarity": "Common",
     "category": "Mental Fortress",
-    "reqs": "WLL = 25s",
+    "reqs": "disbelief := 25s WLL",
     "exclusive": [
       ""
     ],
@@ -34,7 +34,7 @@
     "desc": "Killing the beings of the deep replenishes your Sanity somewhat. When an ally grips an enemy nearby to you, you regain Sanity.",
     "rarity": "Common",
     "category": "Mental Fortress",
-    "reqs": "breathing_exercise => WLL = 10s",
+    "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
     "exclusive": [
       ""
     ],

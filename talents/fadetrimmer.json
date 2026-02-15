@@ -4,20 +4,7 @@
     "desc": "Apply your Hair Products.",
     "rarity": "Oath",
     "category": "Fadetrimmer",
-    "reqs": "oath_fadetrimmer => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "barbers_skillset": {
-    "name": "Barber's Skillset",
-    "desc": "What type of look are we going for today?",
-    "rarity": "Oath",
-    "category": "Fadetrimmer",
-    "reqs": "oath_fadetrimmer => ()",
+    "reqs": "oath_fadetrimmer => hair_spray := ()",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,20 @@
     "desc": "Select Hair Products to apply to others with your Hair Spray.",
     "rarity": "Oath",
     "category": "Fadetrimmer",
-    "reqs": "oath_fadetrimmer => ()",
+    "reqs": "oath_fadetrimmer => hair_products := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "barbers_skillset": {
+    "name": "Barber's Skillset",
+    "desc": "What type of look are we going for today?",
+    "rarity": "Oath",
+    "category": "Fadetrimmer",
+    "reqs": "oath_fadetrimmer => barbers_skillset := ()",
     "exclusive": [
       ""
     ],
@@ -43,13 +43,13 @@
     "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
     "rarity": "Oath",
     "category": "Fadetrimmer",
-    "reqs": "()",
+    "reqs": "oath_fadetrimmer := ()",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Wildcard Mantra": 1,
-      "Combat Mantra": 1
+      "Combat Mantra": 1,
+      "Wildcard Mantra": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your ironsing to its fullest.\n[Note: Falling below 75 Ironsing revokes this Talent.]",
     "rarity": "Common",
     "category": "Ironsing Master",
-    "reqs": "MTL = 75s",
+    "reqs": "ironsing_unbounded := 75s MTL",
     "exclusive": [
       ""
     ],

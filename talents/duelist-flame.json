@@ -4,7 +4,7 @@
     "desc": "Your blinding light now concusses foes.",
     "rarity": "Common",
     "category": "Duelist Flame",
-    "reqs": "STR = 25s, FLM = 30s",
+    "reqs": "concussive_flash := 25s STR, 30s FLM",
     "exclusive": [
       ""
     ],

@@ -4,7 +4,7 @@
     "desc": "Your glare now ignores if your opponent is facing you.",
     "rarity": "Rare",
     "category": "Hunter",
-    "reqs": "WLL = 40s",
+    "reqs": "peripheral_vision := 40s WLL",
     "exclusive": [
       ""
     ],

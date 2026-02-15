@@ -1,55 +1,27 @@
 {
-  "produce_spark": {
-    "name": "Produce Spark",
-    "desc": "A simple production of flame for the use of making campfires.",
+  "expert_flamecharmer": {
+    "name": "Expert Flamecharmer",
+    "desc": "You can now obtain 2-star Flamecharmer Mantras.",
     "rarity": "Common",
     "category": "Flamecharmer",
-    "reqs": "FLM = 20s",
+    "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "azure_flames": {
-    "name": "Azure Flames",
-    "desc": "Many of your flames turn blue, signifying their increased intensity.",
+  "adept_flamecharmer": {
+    "name": "Adept Flamecharmer",
+    "desc": "You can now obtain 1-star Flamecharmer Mantras.",
     "rarity": "Common",
     "category": "Flamecharmer",
-    "reqs": "flamecharmer => WLL = 40s, FLM = 70s",
-    "exclusive": [
-      "Wraith_Path_Twisted_Puppets"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "intrepid_flame": {
-    "name": "Intrepid Flame",
-    "desc": "Flames wear off twice as fast on you.",
-    "rarity": "Outfit",
-    "category": "Flamecharmer",
-    "reqs": "()",
+    "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "master_flamecharmer": {
-    "name": "Master Flamecharmer",
-    "desc": "You can now obtain 3-star Flamecharmer mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "expert_flamecharmer => FLM = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
     "not_counted_towards_total": true,
     "vaulted": false
   },
@@ -58,20 +30,7 @@
     "desc": "Grants you the ability to command Fire as a Flamecharmer.",
     "rarity": "Common",
     "category": "Flamecharmer",
-    "reqs": "FLM = 1s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "expert_flamecharmer": {
-    "name": "Expert Flamecharmer",
-    "desc": "You can now obtain 2-star Flamecharmer Mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "adept_flamecharmer => FLM = 30s",
+    "reqs": "flamecharmer := 1s FLM",
     "exclusive": [
       ""
     ],
@@ -84,7 +43,7 @@
     "desc": "Your flames burn just as strong even in the fiercest of storms.",
     "rarity": "Common",
     "category": "Flamecharmer",
-    "reqs": "flamecharmer => FLM = 35s",
+    "reqs": "flamecharmer => unyielding_inferno := 35s FLM",
     "exclusive": [
       ""
     ],
@@ -92,17 +51,58 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "adept_flamecharmer": {
-    "name": "Adept Flamecharmer",
-    "desc": "You can now obtain 1-star Flamecharmer Mantras.",
-    "rarity": "Common",
+  "intrepid_flame": {
+    "name": "Intrepid Flame",
+    "desc": "Flames wear off twice as fast on you.",
+    "rarity": "Outfit",
     "category": "Flamecharmer",
-    "reqs": "flamecharmer => FLM = 20s",
+    "reqs": "intrepid_flame := ()",
     "exclusive": [
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "produce_spark": {
+    "name": "Produce Spark",
+    "desc": "A simple production of flame for the use of making campfires.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "produce_spark := 20s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_flamecharmer": {
+    "name": "Master Flamecharmer",
+    "desc": "You can now obtain 3-star Flamecharmer mantras.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
     "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "azure_flames": {
+    "name": "Azure Flames",
+    "desc": "Many of your flames turn blue, signifying their increased intensity.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
+    "exclusive": [
+      "Wraith_Path_Twisted_Puppets"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

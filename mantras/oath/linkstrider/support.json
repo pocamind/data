@@ -8,7 +8,7 @@
     "attributes": [
       "Linkstrider"
     ],
-    "reqs": "oath_linkstrider => ()",
+    "reqs": "oath_linkstrider => parasitic_leech := ()",
     "vaulted": false
   },
   "symbiotic_sustain": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Linkstrider"
     ],
-    "reqs": "oath_linkstrider => ()",
+    "reqs": "oath_linkstrider => symbiotic_sustain := ()",
     "vaulted": false
   }
 }

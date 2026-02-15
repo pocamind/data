@@ -8,7 +8,7 @@
     "attributes": [
       "Saintsworn"
     ],
-    "reqs": "oath_saintsworn => ()",
+    "reqs": "oath_saintsworn => blade_of_saints := ()",
     "vaulted": false
   }
 }

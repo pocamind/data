@@ -4,7 +4,7 @@
     "desc": "When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.",
     "rarity": "Common",
     "category": "Frozen Lightning",
-    "reqs": "glass_path_crystallization, surge_path_unstable_capacitor => ICE = 50s, LTN = 50s",
+    "reqs": "glass_path_crystallization, surge_path_unstable_capacitor => fulgurite_formation := 50s ICE, 50s LTN",
     "exclusive": [
       ""
     ],

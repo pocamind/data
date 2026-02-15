@@ -1,16 +1,4 @@
 {
-  "flame_leap": {
-    "name": "Flame Leap",
-    "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
-    "stars": 2,
-    "category": "Mobility",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 30r",
-    "vaulted": false
-  },
   "flame_assault": {
     "name": "Flame Assault",
     "desc": "Dash forward in a spiral of flames.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 30r",
+    "reqs": "flame_assault := 30r FLM",
+    "vaulted": false
+  },
+  "flame_leap": {
+    "name": "Flame Leap",
+    "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_leap := 30r FLM",
     "vaulted": false
   }
 }

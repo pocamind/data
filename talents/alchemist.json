@@ -1,49 +1,10 @@
 {
-  "potion_quaffer_wil": {
-    "name": "Potion Quaffer [WIL]",
-    "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
-    "rarity": "Rare",
-    "category": "Alchemist",
-    "reqs": "WLL = 15r, INT = 30s",
-    "exclusive": [
-      "Potion_Quaffer_FTD"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "chain_reaction": {
-    "name": "Chain Reaction",
-    "desc": "When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.",
+  "wild_alchemy": {
+    "name": "Wild Alchemy",
+    "desc": "You have a chance to brew 2 potions instead of 1.",
     "rarity": "Common",
     "category": "Alchemist",
-    "reqs": "INT = 80s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "placebo_effect": {
-    "name": "Placebo Effect",
-    "desc": "Drinking potions near allies will share the potion's effect with them.",
-    "rarity": "Rare",
-    "category": "Alchemist",
-    "reqs": "INT = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "apothecary": {
-    "name": "Apothecary",
-    "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.",
-    "rarity": "Common",
-    "category": "Alchemist",
-    "reqs": "INT = 10s",
+    "reqs": "wild_alchemy := 25s INT",
     "exclusive": [
       ""
     ],
@@ -56,9 +17,61 @@
     "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
     "rarity": "Rare",
     "category": "Alchemist",
-    "reqs": "FTD = 15r, INT = 30s",
+    "reqs": "potion_quaffer_ftd := 15r FTD, 30s INT",
     "exclusive": [
       "Potion_Quaffer_WIL"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "potion_quaffer_wil": {
+    "name": "Potion Quaffer [WIL]",
+    "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
+    "rarity": "Rare",
+    "category": "Alchemist",
+    "reqs": "potion_quaffer_wil := 15r WLL, 30s INT",
+    "exclusive": [
+      "Potion_Quaffer_FTD"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "chain_reaction": {
+    "name": "Chain Reaction",
+    "desc": "When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "chain_reaction := 80s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "placebo_effect": {
+    "name": "Placebo Effect",
+    "desc": "Drinking potions near allies will share the potion's effect with them.",
+    "rarity": "Rare",
+    "category": "Alchemist",
+    "reqs": "placebo_effect := 60s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "apothecary": {
+    "name": "Apothecary",
+    "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.",
+    "rarity": "Common",
+    "category": "Alchemist",
+    "reqs": "apothecary := 10s INT",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -69,20 +82,7 @@
     "desc": "You no longer drop Potions on death.",
     "rarity": "Common",
     "category": "Alchemist",
-    "reqs": "INT = 80s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "wild_alchemy": {
-    "name": "Wild Alchemy",
-    "desc": "You have a chance to brew 2 potions instead of 1.",
-    "rarity": "Common",
-    "category": "Alchemist",
-    "reqs": "INT = 25s",
+    "reqs": "chemists_bag := 80s INT",
     "exclusive": [
       ""
     ],

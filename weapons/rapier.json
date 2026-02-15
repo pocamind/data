@@ -1,27 +1,11 @@
 {
-  "apprentice_rapier": {
-    "name": "Apprentice Rapier",
+  "inquisitors_thorn": {
+    "name": "Inquisitor's Thorn",
     "type": "Rapier",
     "damage_type": "Slash",
-    "reqs": "LHT = 25r",
-    "damage": 13.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 8.0,
-    "speed": 1.06,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 6.0
-    }
-  },
-  "quickfang": {
-    "name": "Quickfang",
-    "type": "Rapier",
-    "damage_type": "Slash",
-    "reqs": "()",
-    "damage": 12.0,
-    "pen": 0.05,
+    "reqs": "inquisitors_thorn := 40r LHT",
+    "damage": 14.0,
+    "pen": 0.1,
     "chip": 0.0,
     "weight": 4.0,
     "range": 8.0,
@@ -31,60 +15,11 @@
       "Light Wep.": 7.0
     }
   },
-  "skull_piercer_bleed": {
-    "name": "Skull Piercer (Bleed)",
-    "type": "Rapier",
-    "damage_type": "Slash + Bleed",
-    "reqs": "LHT = 75r",
-    "damage": 14.0,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 8.5,
-    "speed": 1.08,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 7.5
-    }
-  },
-  "deepspindle": {
-    "name": "Deepspindle",
-    "type": "Rapier",
-    "damage_type": "Slash",
-    "reqs": "LHT = 50r, SDW = 75r",
-    "damage": 14.0,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 8.0,
-    "speed": 1.09,
-    "endlag": 0.0,
-    "scaling": {
-      "Shadowcast": 9.0,
-      "Light Wep.": 4.0
-    }
-  },
-  "crucible_rapier": {
-    "name": "Crucible Rapier",
-    "type": "Rapier",
-    "damage_type": "Slash",
-    "reqs": "LHT = 75r",
-    "damage": 15.0,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 8.0,
-    "speed": 1.09,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 8.0
-    }
-  },
   "needles_eye": {
     "name": "Needle's Eye",
     "type": "Rapier",
     "damage_type": "Slash",
-    "reqs": "LHT = 75r",
+    "reqs": "needles_eye := 75r LHT",
     "damage": 16.5,
     "pen": 0.15,
     "chip": 0.0,
@@ -96,13 +31,13 @@
       "Light Wep.": 8.5
     }
   },
-  "inquisitors_thorn": {
-    "name": "Inquisitor's Thorn",
+  "quickfang": {
+    "name": "Quickfang",
     "type": "Rapier",
     "damage_type": "Slash",
-    "reqs": "LHT = 40r",
-    "damage": 14.0,
-    "pen": 0.1,
+    "reqs": "quickfang := ()",
+    "damage": 12.0,
+    "pen": 0.05,
     "chip": 0.0,
     "weight": 4.0,
     "range": 8.0,
@@ -116,7 +51,7 @@
     "name": "Kyrstreza",
     "type": "Rapier",
     "damage_type": "Slash",
-    "reqs": "LHT = 75r",
+    "reqs": "kyrstreza := 75r LHT",
     "damage": 15.0,
     "pen": 0.3,
     "chip": 0.0,
@@ -128,11 +63,60 @@
       "Light Wep.": 8.5
     }
   },
+  "apprentice_rapier": {
+    "name": "Apprentice Rapier",
+    "type": "Rapier",
+    "damage_type": "Slash",
+    "reqs": "apprentice_rapier := 25r LHT",
+    "damage": 13.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.06,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 6.0
+    }
+  },
+  "deepspindle": {
+    "name": "Deepspindle",
+    "type": "Rapier",
+    "damage_type": "Slash",
+    "reqs": "deepspindle := 50r LHT, 75r SDW",
+    "damage": 14.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 4.0,
+      "Shadowcast": 9.0
+    }
+  },
+  "crucible_rapier": {
+    "name": "Crucible Rapier",
+    "type": "Rapier",
+    "damage_type": "Slash",
+    "reqs": "crucible_rapier := 75r LHT",
+    "damage": 15.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.09,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.0
+    }
+  },
   "golden_swordfish": {
     "name": "Golden Swordfish",
     "type": "Rapier",
     "damage_type": "Slash",
-    "reqs": "LHT = 75r",
+    "reqs": "golden_swordfish := 75r LHT",
     "damage": 15.0,
     "pen": 0.2,
     "chip": 0.0,
@@ -142,6 +126,22 @@
     "endlag": 0.0,
     "scaling": {
       "Light Wep.": 8.0
+    }
+  },
+  "skull_piercer_bleed": {
+    "name": "Skull Piercer (Bleed)",
+    "type": "Rapier",
+    "damage_type": "Slash + Bleed",
+    "reqs": "skull_piercer_bleed := 75r LHT",
+    "damage": 14.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.5,
+    "speed": 1.08,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 7.5
     }
   }
 }

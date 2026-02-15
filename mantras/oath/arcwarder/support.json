@@ -8,7 +8,7 @@
     "attributes": [
       "Arcwarder"
     ],
-    "reqs": "oath_arcwarder => ()",
+    "reqs": "oath_arcwarder => arc_suit := ()",
     "vaulted": false
   }
 }

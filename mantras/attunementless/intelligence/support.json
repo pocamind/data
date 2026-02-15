@@ -8,7 +8,7 @@
     "attributes": [
       "Intelligence"
     ],
-    "reqs": "INT = 20r",
+    "reqs": "summon_cauldron := 20r INT",
     "vaulted": false
   }
 }

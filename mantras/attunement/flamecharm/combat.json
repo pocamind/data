@@ -8,31 +8,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "STR = 20r, FLM = 50r",
-    "vaulted": false
-  },
-  "fire_palm": {
-    "name": "Fire Palm",
-    "desc": "A blast of flame.\r",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 20r",
-    "vaulted": false
-  },
-  "searing_snare": {
-    "name": "Searing Snare",
-    "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 20r",
+    "reqs": "ash_slam := 20r STR, 50r FLM",
     "vaulted": false
   },
   "flaming_scourge": {
@@ -44,139 +20,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 50r",
-    "vaulted": false
-  },
-  "relentless_flames": {
-    "name": "Relentless Flames",
-    "desc": "Bear down on your foes with repeated fiery slashes.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 30r",
-    "vaulted": false
-  },
-  "flare_volley": {
-    "name": "Flare Volley",
-    "desc": "Conjure up to 3 fireballs to volley at your enemies.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 30r",
-    "vaulted": false
-  },
-  "flame_sentinel": {
-    "name": "Flame Sentinel",
-    "desc": "Conjure a turret of flames.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 30r",
-    "vaulted": false
-  },
-  "fire_forge": {
-    "name": "Fire Forge",
-    "desc": "Conjure flaming daggers and throw them forwards.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 20r",
-    "vaulted": false
-  },
-  "fire_blade": {
-    "name": "Fire Blade",
-    "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 1r",
-    "vaulted": false
-  },
-  "fire_eruption": {
-    "name": "Fire Eruption",
-    "desc": "A pyroclastic eruption.\n[*Guard breaks]",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 20r",
-    "vaulted": false
-  },
-  "flame_grab": {
-    "name": "Flame Grab",
-    "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 1r",
-    "vaulted": false
-  },
-  "fire_gun": {
-    "name": "Fire Gun",
-    "desc": "Shoot successive bullets of fire from your fingertips.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 1r",
-    "vaulted": false
-  },
-  "rising_flame": {
-    "name": "Rising Flame",
-    "desc": "A rising tornado of flames.\r",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 30r",
-    "vaulted": false
-  },
-  "burning_servants": {
-    "name": "Burning Servants",
-    "desc": "Summon a legion of flaming spearmen that lunge inwards.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 1r",
-    "vaulted": false
-  },
-  "flame_ballista": {
-    "name": "Flame Ballista",
-    "desc": "Conjure a flaming arrow and fire it at your target.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "FLM = 50r",
+    "reqs": "flaming_scourge := 50r FLM",
     "vaulted": false
   },
   "flame_repulsion": {
@@ -188,7 +32,163 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 1r",
+    "reqs": "flame_repulsion := 1r FLM",
+    "vaulted": false
+  },
+  "burning_servants": {
+    "name": "Burning Servants",
+    "desc": "Summon a legion of flaming spearmen that lunge inwards.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "burning_servants := 1r FLM",
+    "vaulted": false
+  },
+  "relentless_flames": {
+    "name": "Relentless Flames",
+    "desc": "Bear down on your foes with repeated fiery slashes.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "relentless_flames := 30r FLM",
+    "vaulted": false
+  },
+  "flame_grab": {
+    "name": "Flame Grab",
+    "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_grab := 1r FLM",
+    "vaulted": false
+  },
+  "fire_gun": {
+    "name": "Fire Gun",
+    "desc": "Shoot successive bullets of fire from your fingertips.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_gun := 1r FLM",
+    "vaulted": false
+  },
+  "flame_sentinel": {
+    "name": "Flame Sentinel",
+    "desc": "Conjure a turret of flames.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_sentinel := 30r FLM",
+    "vaulted": false
+  },
+  "fire_eruption": {
+    "name": "Fire Eruption",
+    "desc": "A pyroclastic eruption.\n[*Guard breaks]",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_eruption := 20r FLM",
+    "vaulted": false
+  },
+  "flare_volley": {
+    "name": "Flare Volley",
+    "desc": "Conjure up to 3 fireballs to volley at your enemies.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flare_volley := 30r FLM",
+    "vaulted": false
+  },
+  "searing_snare": {
+    "name": "Searing Snare",
+    "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "searing_snare := 20r FLM",
+    "vaulted": false
+  },
+  "fire_blade": {
+    "name": "Fire Blade",
+    "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_blade := 1r FLM",
+    "vaulted": false
+  },
+  "rising_flame": {
+    "name": "Rising Flame",
+    "desc": "A rising tornado of flames.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "rising_flame := 30r FLM",
+    "vaulted": false
+  },
+  "fire_palm": {
+    "name": "Fire Palm",
+    "desc": "A blast of flame.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_palm := 20r FLM",
+    "vaulted": false
+  },
+  "flame_ballista": {
+    "name": "Flame Ballista",
+    "desc": "Conjure a flaming arrow and fire it at your target.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_ballista := 50r FLM",
+    "vaulted": false
+  },
+  "fire_forge": {
+    "name": "Fire Forge",
+    "desc": "Conjure flaming daggers and throw them forwards.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "fire_forge := 20r FLM",
     "vaulted": false
   }
 }

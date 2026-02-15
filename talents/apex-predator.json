@@ -1,25 +1,10 @@
 {
-  "grand_feast": {
-    "name": "Grand Feast",
-    "desc": "Regain ether, tempo, blood, and health from killing.",
-    "rarity": "Common",
-    "category": "Apex Predator",
-    "reqs": "carnivore => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "carnivore": {
     "name": "Carnivore",
     "desc": "In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.",
     "rarity": "Rare",
     "category": "Apex Predator",
-    "reqs": "STR = 5s, WLL = 5s",
+    "reqs": "carnivore := 5s STR, 5s WLL",
     "exclusive": [
       "Herbivore"
     ],
@@ -32,7 +17,22 @@
     "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
     "rarity": "Common",
     "category": "Apex Predator",
-    "reqs": "()",
+    "reqs": "sunken_predator := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "grand_feast": {
+    "name": "Grand Feast",
+    "desc": "Regain ether, tempo, blood, and health from killing.",
+    "rarity": "Common",
+    "category": "Apex Predator",
+    "reqs": "carnivore => grand_feast := ()",
     "exclusive": [
       ""
     ],

@@ -8,7 +8,7 @@
     "attributes": [
       "Willpower"
     ],
-    "reqs": "WLL = 30r",
+    "reqs": "gaze := 30r WLL",
     "vaulted": false
   }
 }

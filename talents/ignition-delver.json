@@ -4,7 +4,7 @@
     "desc": "Check up on job listings remotely.",
     "rarity": "Origin",
     "category": "Ignition Delver",
-    "reqs": "()",
+    "reqs": "union_pager := ()",
     "exclusive": [
       ""
     ],

@@ -4,20 +4,7 @@
     "desc": "Your Blightshock prevents targets from using mobility mantras.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath_blightsurger => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "blighted_touch": {
-    "name": "Blighted Touch",
-    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
-    "rarity": "Oath",
-    "category": "Blightsurger",
-    "reqs": "oath_blightsurger => ()",
+    "reqs": "oath_blightsurger => anchor_shock := ()",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,33 @@
     "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath_blightsurger => ()",
+    "reqs": "oath_blightsurger => sovereign_state := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blightpierce": {
+    "name": "Blightpierce",
+    "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath_blightsurger => blightpierce := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blighted_touch": {
+    "name": "Blighted Touch",
+    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath_blightsurger => blighted_touch := ()",
     "exclusive": [
       ""
     ],
@@ -43,27 +56,14 @@
     "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "STR = 80r OR FTD = 80r OR AGL = 80r, LTN = 40s, WND = 40s",
+    "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Combat Mantra": 2,
-      "Wildcard Mantra": 1
+      "Wildcard Mantra": 1,
+      "Combat Mantra": 2
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "blightpierce": {
-    "name": "Blightpierce",
-    "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
-    "rarity": "Oath",
-    "category": "Blightsurger",
-    "reqs": "oath_blightsurger => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

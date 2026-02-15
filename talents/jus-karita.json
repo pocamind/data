@@ -4,7 +4,7 @@
     "desc": "Your Jus Karita attacks deal 15% more damage.",
     "rarity": "Outfit",
     "category": "Jus Karita",
-    "reqs": "()",
+    "reqs": "the_path,_unveiled := ()",
     "exclusive": [
       ""
     ],

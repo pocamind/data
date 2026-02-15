@@ -1,23 +1,10 @@
 {
-  "dark_waltz_hvy": {
-    "name": "Dark Waltz [HVY]",
+  "dark_waltz_med": {
+    "name": "Dark Waltz [MED]",
     "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
     "rarity": "Common",
     "category": "Darksiphon",
-    "reqs": "HVY = 90r, SDW = 90s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dark_god": {
-    "name": "Dark God",
-    "desc": "If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. Shadowcast mantras will now raise your tempo if your ether is full.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "shadowcaster => SDW = 20s",
+    "reqs": "dark_waltz_med := 90r MED, 90s SDW",
     "exclusive": [
       ""
     ],
@@ -30,65 +17,11 @@
     "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
     "rarity": "Common",
     "category": "Darksiphon",
-    "reqs": "LHT = 90r, SDW = 90s",
+    "reqs": "dark_waltz_lht := 90r LHT, 90s SDW",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "night_terror_med": {
-    "name": "Night Terror [MED]",
-    "desc": "Your light attacks and criticals now proc Fear the Dark.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "fear_the_dark => MED = 100r, SDW = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dark_waltz_med": {
-    "name": "Dark Waltz [MED]",
-    "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "MED = 90r, SDW = 90s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "night_terror_hvy": {
-    "name": "Night Terror [HVY]",
-    "desc": "Your light attacks and criticals now proc Fear the Dark.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "fear_the_dark => HVY = 100r, SDW = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "blighted_song": {
-    "name": "Blighted Song",
-    "desc": "Attaching your Shadow Chains to enemies disables both your and your enemy's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "FTD = 10s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -97,7 +30,7 @@
     "desc": "Knocking out an enemy in combat restores a portion of your ether.",
     "rarity": "Common",
     "category": "Darksiphon",
-    "reqs": "dark_god => INT = 25s, SDW = 50s",
+    "reqs": "dark_god => dark_replenishment := 25s INT, 50s SDW",
     "exclusive": [
       ""
     ],
@@ -105,64 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "overwhelming_drain": {
-    "name": "Overwhelming Drain",
-    "desc": "If multiple enemies are hit by your Shadow Eruption, they are dazed.",
+  "dark_waltz_hvy": {
+    "name": "Dark Waltz [HVY]",
+    "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
     "rarity": "Common",
     "category": "Darksiphon",
-    "reqs": "SDW = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dark_rift": {
-    "name": "Dark Rift",
-    "desc": "Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.",
-    "rarity": "Rare",
-    "category": "Darksiphon",
-    "reqs": "dark_hours => SDW = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "night_terror_lht": {
-    "name": "Night Terror [LHT]",
-    "desc": "Your light attacks and criticals now proc Fear the Dark.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "fear_the_dark => LHT = 100r, SDW = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "shadow_overflow": {
-    "name": "Shadow Overflow",
-    "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "dark_god => SDW = 55s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dark_synergy": {
-    "name": "Dark Synergy",
-    "desc": "Engulf your enemy in shadows when flourishing them.",
-    "rarity": "Common",
-    "category": "Darksiphon",
-    "reqs": "dark_god => SDW = 45s",
+    "reqs": "dark_waltz_hvy := 90r HVY, 90s SDW",
     "exclusive": [
       ""
     ],
@@ -175,7 +56,126 @@
     "desc": "Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.",
     "rarity": "Common",
     "category": "Darksiphon",
-    "reqs": "shadowcaster => SDW = 35s",
+    "reqs": "shadowcaster => dark_hours := 35s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dark_rift": {
+    "name": "Dark Rift",
+    "desc": "Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.",
+    "rarity": "Rare",
+    "category": "Darksiphon",
+    "reqs": "dark_hours => dark_rift := 60s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "shadow_overflow": {
+    "name": "Shadow Overflow",
+    "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "dark_god => shadow_overflow := 55s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blighted_song": {
+    "name": "Blighted Song",
+    "desc": "Attaching your Shadow Chains to enemies disables both your and your enemy's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "blighted_song := 10s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "night_terror_med": {
+    "name": "Night Terror [MED]",
+    "desc": "Your light attacks and criticals now proc Fear the Dark.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "fear_the_dark => night_terror_med := 100r MED, 100s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dark_synergy": {
+    "name": "Dark Synergy",
+    "desc": "Engulf your enemy in shadows when flourishing them.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "dark_god => dark_synergy := 45s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "night_terror_lht": {
+    "name": "Night Terror [LHT]",
+    "desc": "Your light attacks and criticals now proc Fear the Dark.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "fear_the_dark => night_terror_lht := 100r LHT, 100s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "overwhelming_drain": {
+    "name": "Overwhelming Drain",
+    "desc": "If multiple enemies are hit by your Shadow Eruption, they are dazed.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "overwhelming_drain := 20s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "night_terror_hvy": {
+    "name": "Night Terror [HVY]",
+    "desc": "Your light attacks and criticals now proc Fear the Dark.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "fear_the_dark => night_terror_hvy := 100r HVY, 100s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dark_god": {
+    "name": "Dark God",
+    "desc": "If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. Shadowcast mantras will now raise your tempo if your ether is full.",
+    "rarity": "Common",
+    "category": "Darksiphon",
+    "reqs": "shadowcaster => dark_god := 20s SDW",
     "exclusive": [
       ""
     ],

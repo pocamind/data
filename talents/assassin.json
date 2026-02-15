@@ -1,10 +1,23 @@
 {
+  "deep_wound": {
+    "name": "Deep Wound",
+    "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "deep_wound := 35s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "lowstride": {
     "name": "Lowstride",
     "desc": "When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.",
     "rarity": "Common",
     "category": "Assassin",
-    "reqs": "AGL = 20s",
+    "reqs": "lowstride := 20s AGL",
     "exclusive": [
       ""
     ],
@@ -19,7 +32,7 @@
     "desc": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 5s.",
     "rarity": "Common",
     "category": "Assassin",
-    "reqs": "deep_wound => AGL = 60s",
+    "reqs": "deep_wound => unseen_threat := 60s AGL",
     "exclusive": [
       ""
     ],
@@ -32,26 +45,13 @@
     "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
     "rarity": "Common",
     "category": "Assassin",
-    "reqs": "AGL = 55s",
+    "reqs": "lights_out := 55s AGL",
     "exclusive": [
       ""
     ],
     "innates": {
       "Passive Agility": 1
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "deep_wound": {
-    "name": "Deep Wound",
-    "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
-    "rarity": "Common",
-    "category": "Assassin",
-    "reqs": "AGL = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

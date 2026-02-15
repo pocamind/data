@@ -4,7 +4,7 @@
     "desc": "Gain extra Ether for every Mantra in your arsenal.",
     "rarity": "Outfit",
     "category": "Archsorcerer",
-    "reqs": "INT = 40s",
+    "reqs": "devastating_power := 40s INT",
     "exclusive": [
       ""
     ],

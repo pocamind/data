@@ -4,7 +4,7 @@
     "desc": "Deliver a one-liner on uppercuts, flourishes, and critical attacks that charms your opponents briefly.",
     "rarity": "Common",
     "category": "Showboater",
-    "reqs": "charismatic_cast => CHA = 75s",
+    "reqs": "charismatic_cast => unnecessary_theatrics := 75s CHA",
     "exclusive": [
       ""
     ],

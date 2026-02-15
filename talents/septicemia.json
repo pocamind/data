@@ -1,36 +1,10 @@
 {
-  "hemolysis": {
-    "name": "Hemolysis",
-    "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
-    "rarity": "Common",
-    "category": "Septicemia",
-    "reqs": "STR = 25s, BLD = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "gruesome_harvest": {
-    "name": "Gruesome Harvest",
-    "desc": "Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.",
-    "rarity": "Advanced",
-    "category": "Septicemia",
-    "reqs": "BLD = 85s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "tainted_ground": {
     "name": "Tainted Ground",
     "desc": "Enemies who stand in blood pools will not decay blood poison.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "BLD = 30s",
+    "reqs": "tainted_ground := 30s BLD",
     "exclusive": [
       ""
     ],
@@ -43,7 +17,7 @@
     "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "BLD = 65s",
+    "reqs": "hemolytic_transfusion := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -51,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "juicy_snack": {
-    "name": "Juicy Snack",
-    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
+  "hemolysis": {
+    "name": "Hemolysis",
+    "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "FTD = 20s, BLD = 60s",
+    "reqs": "hemolysis := 25s STR, 40s BLD",
     "exclusive": [
       ""
     ],
@@ -64,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "vasculitis": {
-    "name": "Vasculitis",
-    "desc": "Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. *Must hit them while they are over 20% BP.)",
-    "rarity": "Common",
+  "gruesome_harvest": {
+    "name": "Gruesome Harvest",
+    "desc": "Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.",
+    "rarity": "Advanced",
     "category": "Septicemia",
-    "reqs": "INT = 35s, BLD = 40s",
+    "reqs": "gruesome_harvest := 85s BLD",
     "exclusive": [
       ""
     ],
@@ -82,7 +56,33 @@
     "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
     "rarity": "Rare",
     "category": "Septicemia",
-    "reqs": "BLD = 65s",
+    "reqs": "panacea := 65s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "vasculitis": {
+    "name": "Vasculitis",
+    "desc": "Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. *Must hit them while they are over 20% BP.)",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "vasculitis := 35s INT, 40s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "juicy_snack": {
+    "name": "Juicy Snack",
+    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "juicy_snack := 20s FTD, 60s BLD",
     "exclusive": [
       ""
     ],

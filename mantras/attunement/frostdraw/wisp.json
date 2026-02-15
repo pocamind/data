@@ -8,7 +8,7 @@
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ICE = 30r",
+    "reqs": "frost_wisp := 30r ICE",
     "vaulted": false
   }
 }

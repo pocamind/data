@@ -1,236 +1,41 @@
 {
-  "canor_fang": {
-    "name": "Canor Fang",
+  "krulian_knife": {
+    "name": "Krulian Knife",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "LHT = 40r",
-    "damage": 11.0,
-    "pen": 0.05,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 10.0
-    }
-  },
-  "central_dirk": {
-    "name": "Central Dirk",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 50r",
-    "damage": 15.0,
-    "pen": 0.05,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.5,
-    "speed": 0.96,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 7.0
-    }
-  },
-  "silver_dagger": {
-    "name": "Silver Dagger",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 35r",
-    "damage": 12.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 2.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 6.0
-    }
-  },
-  "nemits_sickle": {
-    "name": "Nemit's Sickle",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 60r",
-    "damage": 11.0,
-    "pen": 0.3,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 13.0
-    }
-  },
-  "stiletto": {
-    "name": "Stiletto",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "()",
-    "damage": 11.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 2.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 3.0
-    }
-  },
-  "cerulean_thread": {
-    "name": "Cerulean Thread",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 85r",
-    "damage": 16.5,
-    "pen": 0.25,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.2,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 8.5
-    }
-  },
-  "gilded_knife": {
-    "name": "Gilded Knife",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 25r",
-    "damage": 13.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.23,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 8.0
-    }
-  },
-  "alloyed_whaling_knife": {
-    "name": "Alloyed Whaling Knife",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 75r",
-    "damage": 15.0,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 8.0
-    }
-  },
-  "tanto": {
-    "name": "Tanto",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 50r",
-    "damage": 15.5,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 3.0,
-    "range": 6.0,
-    "speed": 1.13,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 8.0
-    }
-  },
-  "spectral_grasp": {
-    "name": "Spectral Grasp",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 75r",
-    "damage": 16.0,
+    "reqs": "krulian_knife := 75r LHT",
+    "damage": 12.5,
     "pen": 0.2,
     "chip": 0.0,
     "weight": 4.0,
-    "range": 6.5,
-    "speed": 1.23,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 7.0
-    }
-  },
-  "sanguine_transfuser": {
-    "name": "Sanguine Transfuser",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 50r, BLD = 75r",
-    "damage": 16.5,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 4.5,
-    "range": 6.5,
-    "speed": 1.22,
-    "endlag": 0.0,
-    "scaling": {
-      "Bloodrend": 4.0,
-      "Light Wep.": 6.5
-    }
-  },
-  "kyrsedge": {
-    "name": "Kyrsedge",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 75r",
-    "damage": 13.0,
-    "pen": 0.3,
-    "chip": 0.15,
-    "weight": 4.0,
     "range": 6.0,
     "speed": 1.25,
     "endlag": 0.05,
     "scaling": {
-      "Light Wep.": 8.5
+      "Light Wep.": 10.5
     }
   },
-  "flareblood_kamas_bleed": {
-    "name": "Flareblood Kamas (Bleed)",
-    "type": "Dagger",
-    "damage_type": "Slash + Bleed",
-    "reqs": "INT = 30r, LHT = 60r",
-    "damage": 13.0,
-    "pen": 0.3,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Intelligence": 1.5,
-      "Bloodrend": 3.0,
-      "Light Wep.": 6.0
-    }
-  },
-  "whaling_knife": {
-    "name": "Whaling Knife",
+  "champions_dagger": {
+    "name": "Champion's Dagger",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "LHT = 40r",
-    "damage": 15.3,
+    "reqs": "champions_dagger := 50r LHT",
+    "damage": 14.5,
     "pen": 0.0,
     "chip": 0.0,
     "weight": 4.0,
-    "range": 6.5,
+    "range": 6.0,
     "speed": 1.25,
-    "endlag": 0.0,
+    "endlag": 0.05,
     "scaling": {
-      "Light Wep.": 5.0
+      "Light Wep.": 8.0
     }
   },
   "moppet": {
     "name": "Moppet",
     "type": "Dagger",
     "damage_type": "Blunt",
-    "reqs": "LHT = 75r",
+    "reqs": "moppet := 75r LHT",
     "damage": 14.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -246,7 +51,7 @@
     "name": "Alloyed Tanto",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "LHT = 80r",
+    "reqs": "alloyed_tanto := 80r LHT",
     "damage": 16.0,
     "pen": 0.05,
     "chip": 0.0,
@@ -258,11 +63,27 @@
       "Light Wep.": 8.5
     }
   },
+  "stiletto": {
+    "name": "Stiletto",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "stiletto := ()",
+    "damage": 11.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 2.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 3.0
+    }
+  },
   "big_brother": {
     "name": "Big Brother",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "LHT = 80r",
+    "reqs": "big_brother := 80r LHT",
     "damage": 15.0,
     "pen": 0.15,
     "chip": 0.0,
@@ -274,27 +95,11 @@
       "Light Wep.": 8.0
     }
   },
-  "krulian_knife": {
-    "name": "Krulian Knife",
-    "type": "Dagger",
-    "damage_type": "Slash",
-    "reqs": "LHT = 75r",
-    "damage": 12.5,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 6.0,
-    "speed": 1.25,
-    "endlag": 0.05,
-    "scaling": {
-      "Light Wep.": 10.5
-    }
-  },
   "divine_dagger": {
     "name": "Divine Dagger",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "()",
+    "reqs": "divine_dagger := ()",
     "damage": 18.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -306,13 +111,145 @@
       "Light Wep.": 7.0
     }
   },
-  "champions_dagger": {
-    "name": "Champion's Dagger",
+  "nemits_sickle": {
+    "name": "Nemit's Sickle",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "LHT = 50r",
-    "damage": 14.5,
+    "reqs": "nemits_sickle := 60r LHT",
+    "damage": 11.0,
+    "pen": 0.3,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 13.0
+    }
+  },
+  "central_dirk": {
+    "name": "Central Dirk",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "central_dirk := 50r LHT",
+    "damage": 15.0,
+    "pen": 0.05,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.5,
+    "speed": 0.96,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 7.0
+    }
+  },
+  "whaling_knife": {
+    "name": "Whaling Knife",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "whaling_knife := 40r LHT",
+    "damage": 15.3,
     "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.5,
+    "speed": 1.25,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 5.0
+    }
+  },
+  "silver_dagger": {
+    "name": "Silver Dagger",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "silver_dagger := 35r LHT",
+    "damage": 12.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 2.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 6.0
+    }
+  },
+  "flareblood_kamas_bleed": {
+    "name": "Flareblood Kamas (Bleed)",
+    "type": "Dagger",
+    "damage_type": "Slash + Bleed",
+    "reqs": "flareblood_kamas_bleed := 30r INT, 60r LHT",
+    "damage": 13.0,
+    "pen": 0.3,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Intelligence": 1.5,
+      "Light Wep.": 6.0,
+      "Bloodrend": 3.0
+    }
+  },
+  "the_flippers_of_fate": {
+    "name": "The Flippers of Fate",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "the_flippers_of_fate := 30r INT OR 30r WLL OR 30r CHA, 70r LHT",
+    "damage": 13.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 3.5,
+    "range": 6.5,
+    "speed": 1.26,
+    "endlag": 0.04,
+    "scaling": {
+      "Mind": 5.0,
+      "Light Wep.": 8.0
+    }
+  },
+  "kyrsedge": {
+    "name": "Kyrsedge",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "kyrsedge := 75r LHT",
+    "damage": 13.0,
+    "pen": 0.3,
+    "chip": 0.15,
+    "weight": 4.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 8.5
+    }
+  },
+  "sanguine_transfuser": {
+    "name": "Sanguine Transfuser",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "sanguine_transfuser := 50r LHT, 75r BLD",
+    "damage": 16.5,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 4.5,
+    "range": 6.5,
+    "speed": 1.22,
+    "endlag": 0.0,
+    "scaling": {
+      "Bloodrend": 4.0,
+      "Light Wep.": 6.5
+    }
+  },
+  "alloyed_whaling_knife": {
+    "name": "Alloyed Whaling Knife",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "alloyed_whaling_knife := 75r LHT",
+    "damage": 15.0,
+    "pen": 0.1,
     "chip": 0.0,
     "weight": 4.0,
     "range": 6.0,
@@ -322,21 +259,84 @@
       "Light Wep.": 8.0
     }
   },
-  "the_flippers_of_fate": {
-    "name": "The Flippers of Fate",
+  "cerulean_thread": {
+    "name": "Cerulean Thread",
     "type": "Dagger",
     "damage_type": "Slash",
-    "reqs": "INT = 30r OR WLL = 30r OR CHA = 30r, LHT = 70r",
-    "damage": 13.0,
-    "pen": 0.15,
+    "reqs": "cerulean_thread := 85r LHT",
+    "damage": 16.5,
+    "pen": 0.25,
     "chip": 0.0,
-    "weight": 3.5,
-    "range": 6.5,
-    "speed": 1.26,
-    "endlag": 0.04,
+    "weight": 4.0,
+    "range": 6.0,
+    "speed": 1.2,
+    "endlag": 0.05,
     "scaling": {
-      "Light Wep.": 8.0,
-      "Mind": 5.0
+      "Light Wep.": 8.5
+    }
+  },
+  "gilded_knife": {
+    "name": "Gilded Knife",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "gilded_knife := 25r LHT",
+    "damage": 13.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.0,
+    "speed": 1.23,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 8.0
+    }
+  },
+  "tanto": {
+    "name": "Tanto",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "tanto := 50r LHT",
+    "damage": 15.5,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 3.0,
+    "range": 6.0,
+    "speed": 1.13,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 8.0
+    }
+  },
+  "canor_fang": {
+    "name": "Canor Fang",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "canor_fang := 40r LHT",
+    "damage": 11.0,
+    "pen": 0.05,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 6.0,
+    "speed": 1.25,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 10.0
+    }
+  },
+  "spectral_grasp": {
+    "name": "Spectral Grasp",
+    "type": "Dagger",
+    "damage_type": "Slash",
+    "reqs": "spectral_grasp := 75r LHT",
+    "damage": 16.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 6.5,
+    "speed": 1.23,
+    "endlag": 0.05,
+    "scaling": {
+      "Light Wep.": 7.0
     }
   }
 }

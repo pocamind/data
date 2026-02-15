@@ -4,7 +4,7 @@
     "desc": "Your skills alone substitute the need for a Craft Station.",
     "rarity": "Common",
     "category": "Artisan",
-    "reqs": "INT = 45s",
+    "reqs": "master_craftsman := 45s INT",
     "exclusive": [
       ""
     ],

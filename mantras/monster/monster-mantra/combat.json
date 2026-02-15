@@ -1,4 +1,16 @@
 {
+  "dread_breath": {
+    "name": "Dread Breath",
+    "desc": "Channels the song through the power of the Dread Serpent.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "dread_breath := ()",
+    "vaulted": false
+  },
   "abyssal_ridge": {
     "name": "Abyssal Ridge",
     "desc": "Send a cascading eruption towards your foes, forcing them to react.",
@@ -8,7 +20,7 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
+    "reqs": "abyssal_ridge := ()",
     "vaulted": false
   },
   "mecha_gatling": {
@@ -20,43 +32,7 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
-    "vaulted": false
-  },
-  "brachial_spear": {
-    "name": "Brachial Spear",
-    "desc": "A javelin of jagged bone.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "()",
-    "vaulted": false
-  },
-  "dread_breath": {
-    "name": "Dread Breath",
-    "desc": "Channels the song through the power of the Dread Serpent.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "()",
-    "vaulted": false
-  },
-  "coral_spear": {
-    "name": "Coral Spear",
-    "desc": "Fire corals all around you.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "()",
+    "reqs": "mecha_gatling := ()",
     "vaulted": false
   },
   "whirling_blade": {
@@ -68,7 +44,31 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
+    "reqs": "whirling_blade := ()",
+    "vaulted": false
+  },
+  "brachial_spear": {
+    "name": "Brachial Spear",
+    "desc": "A javelin of jagged bone.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "brachial_spear := ()",
+    "vaulted": false
+  },
+  "coral_spear": {
+    "name": "Coral Spear",
+    "desc": "Fire corals all around you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "coral_spear := ()",
     "vaulted": false
   },
   "pumpkin_pitch": {
@@ -80,7 +80,7 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
+    "reqs": "pumpkin_pitch := ()",
     "vaulted": false
   }
 }

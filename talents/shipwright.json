@@ -4,7 +4,7 @@
     "desc": "You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.",
     "rarity": "Common",
     "category": "Shipwright",
-    "reqs": "()",
+    "reqs": "spare_nails := ()",
     "exclusive": [
       ""
     ],
@@ -19,7 +19,7 @@
     "desc": "Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.",
     "rarity": "Common",
     "category": "Shipwright",
-    "reqs": "()",
+    "reqs": "emergency_repairs := ()",
     "exclusive": [
       ""
     ],

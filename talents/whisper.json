@@ -4,7 +4,7 @@
     "desc": "Landing 3 Galebreathe Mantras without whiffing calls forth a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.",
     "rarity": "Common",
     "category": "Whisper",
-    "reqs": "WND = 40s",
+    "reqs": "haunted_gale := 40s WND",
     "exclusive": [
       ""
     ],

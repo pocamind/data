@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
     "rarity": "Common",
     "category": "Great Wall",
-    "reqs": "FTD = 75s",
+    "reqs": "fortitude_unbounded := 75s FTD",
     "exclusive": [
       ""
     ],

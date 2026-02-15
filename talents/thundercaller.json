@@ -1,27 +1,16 @@
 {
-  "stratoshock": {
-    "name": "Stratoshock",
-    "desc": "Your lightning deals an additional 5% damage when in the rain.",
+  "master_thundercaller": {
+    "name": "Master Thundercaller",
+    "desc": "You can now obtain 3-star Thundercaller mantras.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "LTN = 35s",
+    "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
     "exclusive": [
       ""
     ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "expert_thundercaller": {
-    "name": "Expert Thundercaller",
-    "desc": "You can now obtain 2-star Thundercaller mantras.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "adept_thundercaller => LTN = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
+    "innates": {
+      "Health": 5
+    },
     "not_counted_towards_total": true,
     "vaulted": false
   },
@@ -30,7 +19,20 @@
     "desc": "You can now obtain 1-star Thundercaller mantras.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "thundercaller => LTN = 20s",
+    "reqs": "thundercaller => adept_thundercaller := 20s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "thundercaller": {
+    "name": "Thundercaller",
+    "desc": "Grants you the ability to command Lightning as a Thundercaller.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "thundercaller := 1s LTN",
     "exclusive": [
       ""
     ],
@@ -43,7 +45,7 @@
     "desc": "Flints and Flamecharm are for simpletons.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "LTN = 50s",
+    "reqs": "discovery_of_fire := 50s LTN",
     "exclusive": [
       ""
     ],
@@ -56,7 +58,7 @@
     "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
     "rarity": "Rare",
     "category": "Thundercaller",
-    "reqs": "AGL = 30s, LTN = 35s",
+    "reqs": "static_fakeout := 30s AGL, 35s LTN",
     "exclusive": [
       ""
     ],
@@ -64,19 +66,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "master_thundercaller": {
-    "name": "Master Thundercaller",
-    "desc": "You can now obtain 3-star Thundercaller mantras.",
+  "stratoshock": {
+    "name": "Stratoshock",
+    "desc": "Your lightning deals an additional 5% damage when in the rain.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "expert_thundercaller => LTN = 50s",
+    "reqs": "stratoshock := 35s LTN",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Health": 5
-    },
-    "not_counted_towards_total": true,
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "static_flash_clone": {
@@ -84,12 +84,25 @@
     "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "AGL = 30s, LTN = 35s",
+    "reqs": "static_flash_clone := 30s AGL, 35s LTN",
     "exclusive": [
       ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expert_thundercaller": {
+    "name": "Expert Thundercaller",
+    "desc": "You can now obtain 2-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
     "vaulted": false
   },
   "shocking_finish": {
@@ -97,25 +110,12 @@
     "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "LTN = 30s",
+    "reqs": "shocking_finish := 30s LTN",
     "exclusive": [
       ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "thundercaller": {
-    "name": "Thundercaller",
-    "desc": "Grants you the ability to command Lightning as a Thundercaller.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "LTN = 1s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

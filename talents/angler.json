@@ -1,14 +1,16 @@
 {
-  "proficient_baiting": {
-    "name": "Proficient Baiting",
-    "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
+  "hook,_line,_and_sinker": {
+    "name": "Hook, Line, and Sinker",
+    "desc": "Once something's caught your line, it's much harder to get loose.",
     "rarity": "Quest",
     "category": "Angler",
-    "reqs": "()",
+    "reqs": "hook,_line,_and_sinker := ()",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Carry Load": 4
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -17,7 +19,7 @@
     "desc": "Fish are drawn to your line more quickly.",
     "rarity": "Quest",
     "category": "Angler",
-    "reqs": "()",
+    "reqs": "fishers_lure := ()",
     "exclusive": [
       ""
     ],
@@ -25,18 +27,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hook,_line,_and_sinker": {
-    "name": "Hook, Line, and Sinker",
-    "desc": "Once something's caught your line, it's much harder to get loose.",
+  "proficient_baiting": {
+    "name": "Proficient Baiting",
+    "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
     "rarity": "Quest",
     "category": "Angler",
-    "reqs": "()",
+    "reqs": "proficient_baiting := ()",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Carry Load": 4
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

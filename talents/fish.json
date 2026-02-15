@@ -4,7 +4,7 @@
     "desc": "You can execute enemies in water. Gain additional healing from knocking others in water.",
     "rarity": "Rare",
     "category": "Fish",
-    "reqs": "()",
+    "reqs": "fishman := ()",
     "exclusive": [
       ""
     ],

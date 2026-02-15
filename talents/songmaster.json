@@ -1,29 +1,10 @@
 {
-  "ether_overdrive_flm": {
-    "name": "Ether Overdrive [FLM]",
-    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "FLM = 20r, INT = 90s",
-    "exclusive": [
-      "Ether_Overdrive_ICE",
-      "Ether_Overdrive_LTN",
-      "Ether_Overdrive_WND",
-      "Ether_Overdrive_MTL",
-      "Ether_Overdrive_SDW",
-      "Ether_Overdrive_BLD",
-      "Million_Ton_Piercer"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "ether_overdrive_mtl": {
     "name": "Ether Overdrive [MTL]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "MTL = 20r, INT = 90s",
+    "reqs": "ether_overdrive_mtl := 20r MTL, 90s INT",
     "exclusive": [
       "Ether_Overdrive_FLM",
       "Ether_Overdrive_ICE",
@@ -37,33 +18,20 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ether_overdrive_sdw": {
-    "name": "Ether Overdrive [SDW]",
+  "ether_overdrive_bld": {
+    "name": "Ether Overdrive [BLD]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "SDW = 20r, INT = 90s",
+    "reqs": "ether_overdrive_bld := 20r BLD, 90s INT",
     "exclusive": [
       "Ether_Overdrive_FLM",
       "Ether_Overdrive_ICE",
       "Ether_Overdrive_LTN",
       "Ether_Overdrive_WND",
+      "Ether_Overdrive_SDW",
       "Ether_Overdrive_MTL",
-      "Ether_Overdrive_BLD",
       "Million_Ton_Piercer"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "absolute_pitch": {
-    "name": "Absolute Pitch",
-    "desc": "You can cast Ritual Mantras instantly.",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "INT = 100s",
-    "exclusive": [
-      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -74,7 +42,7 @@
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "WND = 20r, INT = 90s",
+    "reqs": "ether_overdrive_wnd := 20r WND, 90s INT",
     "exclusive": [
       "Ether_Overdrive_FLM",
       "Ether_Overdrive_ICE",
@@ -93,13 +61,32 @@
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "ICE = 20r, INT = 90s",
+    "reqs": "ether_overdrive_ice := 20r ICE, 90s INT",
     "exclusive": [
       "Ether_Overdrive_FLM",
       "Ether_Overdrive_LTN",
       "Ether_Overdrive_WND",
       "Ether_Overdrive_MTL",
       "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ether_overdrive_sdw": {
+    "name": "Ether Overdrive [SDW]",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "ether_overdrive_sdw := 20r SDW, 90s INT",
+    "exclusive": [
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_MTL",
       "Ether_Overdrive_BLD",
       "Million_Ton_Piercer"
     ],
@@ -112,7 +99,7 @@
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "LTN = 20r, INT = 90s",
+    "reqs": "ether_overdrive_ltn := 20r LTN, 90s INT",
     "exclusive": [
       "Ether_Overdrive_FLM",
       "Ether_Overdrive_ICE",
@@ -126,20 +113,33 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ether_overdrive_bld": {
-    "name": "Ether Overdrive [BLD]",
+  "ether_overdrive_flm": {
+    "name": "Ether Overdrive [FLM]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "BLD = 20r, INT = 90s",
+    "reqs": "ether_overdrive_flm := 20r FLM, 90s INT",
     "exclusive": [
-      "Ether_Overdrive_FLM",
       "Ether_Overdrive_ICE",
       "Ether_Overdrive_LTN",
       "Ether_Overdrive_WND",
-      "Ether_Overdrive_SDW",
       "Ether_Overdrive_MTL",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
       "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "absolute_pitch": {
+    "name": "Absolute Pitch",
+    "desc": "You can cast Ritual Mantras instantly.",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "absolute_pitch := 100s INT",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,

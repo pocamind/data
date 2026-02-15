@@ -1,23 +1,10 @@
 {
-  "biotic_salts": {
-    "name": "Biotic Salts",
-    "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
+  "perpetual_distillery": {
+    "name": "Perpetual Distillery",
+    "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
     "rarity": "Oath",
     "category": "Saltchemist",
-    "reqs": "oath_saltchemist => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "antithetic_salts": {
-    "name": "Antithetic Salts",
-    "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
-    "rarity": "Oath",
-    "category": "Saltchemist",
-    "reqs": "oath_saltchemist => ()",
+    "reqs": "oath_saltchemist => perpetual_distillery := ()",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,33 @@
     "desc": "Alter your brews to create lingering clouds of mist on shattering . Does not count towards the ingredient limit.",
     "rarity": "Oath",
     "category": "Saltchemist",
-    "reqs": "oath_saltchemist => ()",
+    "reqs": "oath_saltchemist => aromatic_salts := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "antithetic_salts": {
+    "name": "Antithetic Salts",
+    "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath_saltchemist => antithetic_salts := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "biotic_salts": {
+    "name": "Biotic Salts",
+    "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath_saltchemist => biotic_salts := ()",
     "exclusive": [
       ""
     ],
@@ -43,28 +56,15 @@
     "desc": "You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.",
     "rarity": "Oath",
     "category": "Saltchemist",
-    "reqs": "INT = 75s",
+    "reqs": "oath_saltchemist := 75s INT",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 20,
+      "Support Mantra": 1,
       "Wildcard Mantra": 1,
-      "Support Mantra": 1
+      "Carry Load": 20
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "perpetual_distillery": {
-    "name": "Perpetual Distillery",
-    "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
-    "rarity": "Oath",
-    "category": "Saltchemist",
-    "reqs": "oath_saltchemist => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

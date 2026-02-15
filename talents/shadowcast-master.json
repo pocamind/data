@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your shadowcast to its fullest.\n[Note: Falling below 75 Shadowcast revokes this Talent.]",
     "rarity": "Common",
     "category": "Shadowcast Master",
-    "reqs": "SDW = 75s",
+    "reqs": "shadowcast_unbounded := 75s SDW",
     "exclusive": [
       ""
     ],

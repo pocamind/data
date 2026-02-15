@@ -8,7 +8,7 @@
     "attributes": [
       "Intelligence"
     ],
-    "reqs": "INT = 50r",
+    "reqs": "prediction := 50r INT",
     "vaulted": false
   }
 }

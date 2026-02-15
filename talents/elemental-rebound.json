@@ -4,7 +4,7 @@
     "desc": "Deal 10% more damage to enemies with status effects on them with your basic attacks but the effect is removed on impact.",
     "rarity": "Common",
     "category": "Elemental Rebound",
-    "reqs": "INT = 5s, STR = 15s",
+    "reqs": "nullifying_clarity := 5s INT, 15s STR",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Being under an elemental status effect causes your Basic Attacks and critical attacks to do 10% more damage.",
     "rarity": "Common",
     "category": "Elemental Rebound",
-    "reqs": "STR = 15s, WLL = 20s",
+    "reqs": "charged_return := 15s STR, 20s WLL",
     "exclusive": [
       ""
     ],

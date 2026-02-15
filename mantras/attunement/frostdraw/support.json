@@ -8,7 +8,7 @@
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ICE = 50r",
+    "reqs": "iceberg := 50r ICE",
     "vaulted": false
   }
 }

@@ -8,7 +8,7 @@
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "MTL = 20r",
+    "reqs": "chain_pull := 20r MTL",
     "vaulted": false
   },
   "metal_turret": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "MTL = 30r",
+    "reqs": "metal_turret := 30r MTL",
     "vaulted": false
   },
   "iron_skin": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "MTL = 20r",
+    "reqs": "iron_skin := 20r MTL",
     "vaulted": false
   }
 }

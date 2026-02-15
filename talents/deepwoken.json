@@ -4,7 +4,7 @@
     "desc": "You now will shout the names of your spells upon cast.",
     "rarity": "Quest",
     "category": "Deepwoken",
-    "reqs": "()",
+    "reqs": "spell_shout := ()",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Your interaction with The Depths allows you to easily draw ether from the surrounding air.",
     "rarity": "Common",
     "category": "Deepwoken",
-    "reqs": "()",
+    "reqs": "depths_connection := ()",
     "exclusive": [
       ""
     ],

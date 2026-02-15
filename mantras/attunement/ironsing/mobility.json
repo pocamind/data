@@ -8,7 +8,7 @@
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "MTL = 1r",
+    "reqs": "metal_rampart := 1r MTL",
     "vaulted": false
   },
   "metal_ball": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "MTL = 30r",
+    "reqs": "metal_ball := 30r MTL",
     "vaulted": false
   }
 }

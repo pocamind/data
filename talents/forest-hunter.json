@@ -4,7 +4,7 @@
     "desc": "You have a slightly larger dodge window.",
     "rarity": "Outfit",
     "category": "Forest Hunter",
-    "reqs": "()",
+    "reqs": "hunters_reflexes := ()",
     "exclusive": [
       ""
     ],

@@ -1,15 +1,15 @@
 {
-  "ether_absorption": {
-    "name": "Ether Absorption",
-    "desc": "Receive Ether back when inflicted with damage from Mantras.",
+  "mantra_permanence": {
+    "name": "Mantra Permanence",
+    "desc": "Knocking an enemy with a mantra refunds the cost of the mantra.",
     "rarity": "Common",
     "category": "Ether Conduit",
-    "reqs": "INT = 15s",
+    "reqs": "mantra_permanence := 20s INT",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 7
+      "Ether": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -19,7 +19,7 @@
     "desc": "Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack",
     "rarity": "Rare",
     "category": "Ether Conduit",
-    "reqs": "INT = 30s",
+    "reqs": "eureka := 30s INT",
     "exclusive": [
       ""
     ],
@@ -29,17 +29,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "mantra_permanence": {
-    "name": "Mantra Permanence",
-    "desc": "Knocking an enemy with a mantra refunds the cost of the mantra.",
+  "ether_absorption": {
+    "name": "Ether Absorption",
+    "desc": "Receive Ether back when inflicted with damage from Mantras.",
     "rarity": "Common",
     "category": "Ether Conduit",
-    "reqs": "INT = 20s",
+    "reqs": "ether_absorption := 15s INT",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Ether": 5
+      "Carry Load": 7
     },
     "not_counted_towards_total": false,
     "vaulted": false

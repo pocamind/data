@@ -4,7 +4,7 @@
     "desc": "Your base dodge frames are increased by 0.05s.",
     "rarity": "Rare",
     "category": "Leaf in the Wind",
-    "reqs": "AGL = 20s",
+    "reqs": "safety_dance := 20s AGL",
     "exclusive": [
       "Risky_Moves"
     ],
@@ -19,7 +19,7 @@
     "desc": "Dodge frames are larger if you cancel your roll immediately.",
     "rarity": "Rare",
     "category": "Leaf in the Wind",
-    "reqs": "AGL = 20s",
+    "reqs": "observation := 20s AGL",
     "exclusive": [
       "Risky_Moves"
     ],

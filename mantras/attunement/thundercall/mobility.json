@@ -8,7 +8,7 @@
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "LTN = 50r",
+    "reqs": "lightning_cloak := 50r LTN",
     "vaulted": false
   },
   "lightning_assault": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "LTN = 30r",
+    "reqs": "lightning_assault := 30r LTN",
     "vaulted": false
   }
 }

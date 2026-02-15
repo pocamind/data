@@ -8,7 +8,7 @@
     "attributes": [
       "Strength"
     ],
-    "reqs": "STR = 50r",
+    "reqs": "strong_leap := 50r STR",
     "vaulted": false
   }
 }

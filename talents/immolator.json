@@ -1,10 +1,25 @@
 {
+  "immolation": {
+    "name": "Immolation",
+    "desc": "Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.",
+    "rarity": "Common",
+    "category": "Immolator",
+    "reqs": "agitating_spark => immolation := 40s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 8
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "phoenix_flames": {
     "name": "Phoenix Flames",
     "desc": "Any time you would burn to death, you instead rise again with up to 50% of your health restored. Has a 60 second cooldown.\n[*The health returned with this talent scales on your Flamecharm investment, starting at 25%.]",
     "rarity": "Advanced",
     "category": "Immolator",
-    "reqs": "agitating_spark, immolation => ()",
+    "reqs": "agitating_spark, immolation => phoenix_flames := ()",
     "exclusive": [
       ""
     ],
@@ -17,26 +32,11 @@
     "desc": "Setting enemies on fire spreads to anyone nearby. Including yourself.",
     "rarity": "Common",
     "category": "Immolator",
-    "reqs": "flamecharmer => FLM = 40s",
+    "reqs": "flamecharmer => agitating_spark := 40s FLM",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "immolation": {
-    "name": "Immolation",
-    "desc": "Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.",
-    "rarity": "Common",
-    "category": "Immolator",
-    "reqs": "agitating_spark => FLM = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 8
-    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

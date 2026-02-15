@@ -8,7 +8,7 @@
     "attributes": [
       "Willpower"
     ],
-    "reqs": "WLL = 40r",
+    "reqs": "exhaustion_strike := 40r WLL",
     "vaulted": false
   }
 }

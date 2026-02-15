@@ -4,7 +4,7 @@
     "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.",
     "rarity": "Rare",
     "category": "Silencer",
-    "reqs": "galebreather => WND = 60s",
+    "reqs": "galebreather => silencers_blade := 60s WND",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Every 3-4 hits with a Wind Mantra now procs Suffocate.\n[*Note: Takes 4 hits if between 40 and 74 Galebreathe.]",
     "rarity": "Advanced",
     "category": "Silencer",
-    "reqs": "silencers_blade => WND = 75s",
+    "reqs": "silencers_blade => a_world_without_song := 75s WND",
     "exclusive": [
       ""
     ],

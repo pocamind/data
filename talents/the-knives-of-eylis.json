@@ -4,7 +4,7 @@
     "desc": "Voidmother's blessing, the method to travel back to the Voidheart.",
     "rarity": "Origin",
     "category": "The Knives of Eylis",
-    "reqs": "()",
+    "reqs": "voideye := ()",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronised.",
     "rarity": "Origin",
     "category": "The Knives of Eylis",
-    "reqs": "()",
+    "reqs": "grasp_of_eylis := ()",
     "exclusive": [
       ""
     ],

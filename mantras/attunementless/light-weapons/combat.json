@@ -1,16 +1,4 @@
 {
-  "ceaseless_slashes": {
-    "name": "Ceaseless Slashes",
-    "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Light Weapons"
-    ],
-    "reqs": "LHT = 50r",
-    "vaulted": false
-  },
   "karita_divebomb": {
     "name": "Karita Divebomb",
     "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Light Weapons"
     ],
-    "reqs": "LHT = 20r",
+    "reqs": "karita_divebomb := 20r LHT",
+    "vaulted": false
+  },
+  "ceaseless_slashes": {
+    "name": "Ceaseless Slashes",
+    "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "ceaseless_slashes := 50r LHT",
     "vaulted": false
   },
   "rapid_slashes": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Light Weapons"
     ],
-    "reqs": "LHT = 30r",
+    "reqs": "rapid_slashes := 30r LHT",
     "vaulted": false
   }
 }

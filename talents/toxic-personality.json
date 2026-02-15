@@ -4,7 +4,7 @@
     "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
     "rarity": "Common",
     "category": "Toxic Personality",
-    "reqs": "charismatic_cast => CHA = 60s",
+    "reqs": "charismatic_cast => manipulator := 60s CHA",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.",
     "rarity": "Common",
     "category": "Toxic Personality",
-    "reqs": "charismatic_cast => CHA = 60s",
+    "reqs": "charismatic_cast => narcissist := 60s CHA",
     "exclusive": [
       "Tough_Love"
     ],

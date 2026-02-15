@@ -8,7 +8,7 @@
     "attributes": [
       "Authority Ensign"
     ],
-    "reqs": "()",
+    "reqs": "grand_wardens_axe := ()",
     "vaulted": false
   }
 }

@@ -1,16 +1,14 @@
 {
-  "under_the_radar": {
-    "name": "Under The Radar",
-    "desc": "The negative reputation threshold for a faction to put up on bounty posters is now higher.",
+  "celebrity": {
+    "name": "Celebrity",
+    "desc": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.",
     "rarity": "Common",
     "category": "Public Figure",
-    "reqs": "CHA = 60s",
+    "reqs": "celebrity := 40s CHA",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Health": 1
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -19,7 +17,7 @@
     "desc": "When you're attacked, one of your many allies will leap into action to protect their boss.\n[*Note: 65s CD at 20 Charisma, 55s CD at 100 Charisma.]",
     "rarity": "Common",
     "category": "Public Figure",
-    "reqs": "CHA = 75s",
+    "reqs": "youll_need_to_get_past_me := 75s CHA",
     "exclusive": [
       ""
     ],
@@ -27,16 +25,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "celebrity": {
-    "name": "Celebrity",
-    "desc": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.",
+  "under_the_radar": {
+    "name": "Under The Radar",
+    "desc": "The negative reputation threshold for a faction to put up on bounty posters is now higher.",
     "rarity": "Common",
     "category": "Public Figure",
-    "reqs": "CHA = 40s",
+    "reqs": "under_the_radar := 60s CHA",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Health": 1
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

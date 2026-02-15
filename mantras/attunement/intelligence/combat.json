@@ -8,7 +8,7 @@
     "attributes": [
       "Intelligence"
     ],
-    "reqs": "INT = 30r",
+    "reqs": "ether_barrage := 30r INT",
     "vaulted": false
   }
 }

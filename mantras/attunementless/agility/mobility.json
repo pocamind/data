@@ -8,7 +8,7 @@
     "attributes": [
       "Agility"
     ],
-    "reqs": "AGL = 40r",
+    "reqs": "dash := 40r AGL",
     "vaulted": false
   }
 }

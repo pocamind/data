@@ -4,7 +4,7 @@
     "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.",
     "rarity": "Rare",
     "category": "Pursuer",
-    "reqs": "STR = 25s, AGL = 25s",
+    "reqs": "going_nowhere := 25s STR, 25s AGL",
     "exclusive": [
       ""
     ],

@@ -1,16 +1,12 @@
 {
-  "rending_needle_conductor": {
-    "name": "Rending Needle: Conductor",
-    "desc": "5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt their element back in turn.",
-    "rarity": "Rare",
+  "conductors_cable": {
+    "name": "Conductor's Cable",
+    "desc": "Applying Conductor rods on opponents steals some of their armor to you.",
+    "rarity": "Common",
     "category": "Rending Needle",
-    "reqs": "master_ironsinger => MTL = 75s",
+    "reqs": "rending_needle_conductor => conductors_cable := ()",
     "exclusive": [
-      "Rending_Needle_Impaler",
-      "Rending_Needle_Jailer",
-      "Rending_Needle_Augmenter_HVY",
-      "Rending_Needle_Augmenter_MED",
-      "Rending_Needle_Augmenter_LHT"
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -21,7 +17,7 @@
     "desc": "If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.",
     "rarity": "Rare",
     "category": "Rending Needle",
-    "reqs": "master_ironsinger => MTL = 75s",
+    "reqs": "master_ironsinger => rending_needle_jailer := 75s MTL",
     "exclusive": [
       "Rending_Needle_Impaler",
       "Rending_Needle_Conductor",
@@ -33,14 +29,53 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "conductors_cable": {
-    "name": "Conductor's Cable",
-    "desc": "Applying Conductor rods on opponents steals some of their armor to you.",
-    "rarity": "Common",
+  "rending_needle_augmenter_med": {
+    "name": "Rending Needle: Augmenter [MED]",
+    "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
+    "rarity": "Rare",
     "category": "Rending Needle",
-    "reqs": "rending_needle_conductor => ()",
+    "reqs": "master_ironsinger => rending_needle_augmenter_med := 90r MED, 90s MTL",
     "exclusive": [
-      ""
+      "Rending_Needle_Impaler",
+      "Rending_Needle_Jailer",
+      "Rending_Needle_Conductor._Rending_Needle_Augmenter_HVY",
+      "Rending_Needle_Augmenter_LHT",
+      "Gilded_Path_Scrapsinger"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "rending_needle_augmenter_hvy": {
+    "name": "Rending Needle: Augmenter [HVY]",
+    "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
+    "rarity": "Rare",
+    "category": "Rending Needle",
+    "reqs": "master_ironsinger => rending_needle_augmenter_hvy := 90r HVY, 90s MTL",
+    "exclusive": [
+      "Rending_Needle_Impaler",
+      "Rending_Needle_Jailer",
+      "Rending_Needle_Conductor",
+      "Rending_Needle_Augmenter_MED",
+      "Rending_Needle_Augmenter_LHT",
+      "Gilded_Path_Scrapsinger"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "rending_needle_conductor": {
+    "name": "Rending Needle: Conductor",
+    "desc": "5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt their element back in turn.",
+    "rarity": "Rare",
+    "category": "Rending Needle",
+    "reqs": "master_ironsinger => rending_needle_conductor := 75s MTL",
+    "exclusive": [
+      "Rending_Needle_Impaler",
+      "Rending_Needle_Jailer",
+      "Rending_Needle_Augmenter_HVY",
+      "Rending_Needle_Augmenter_MED",
+      "Rending_Needle_Augmenter_LHT"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -51,7 +86,7 @@
     "desc": "If an enemy has 5 or more rods, your Ironsing Pull instead pulls out all of the rods for massive damage.",
     "rarity": "Rare",
     "category": "Rending Needle",
-    "reqs": "master_ironsinger => MTL = 75s",
+    "reqs": "master_ironsinger => rending_needle_impaler := 75s MTL",
     "exclusive": [
       "Rending_Needle_Jailer",
       "Rending_Needle_Conductor",
@@ -68,48 +103,13 @@
     "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
     "rarity": "Rare",
     "category": "Rending Needle",
-    "reqs": "master_ironsinger => LHT = 90r, MTL = 90s",
+    "reqs": "master_ironsinger => rending_needle_augmenter_lht := 90r LHT, 90s MTL",
     "exclusive": [
       "Rending_Needle_Impaler",
       "Rending_Needle_Jailer",
       "Rending_Needle_Conductor",
       "Rending_Needle_Augmenter_HVY",
       "Rending_Needle_Augmenter_MED",
-      "Gilded_Path_Scrapsinger"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "rending_needle_augmenter_hvy": {
-    "name": "Rending Needle: Augmenter [HVY]",
-    "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
-    "rarity": "Rare",
-    "category": "Rending Needle",
-    "reqs": "master_ironsinger => HVY = 90r, MTL = 90s",
-    "exclusive": [
-      "Rending_Needle_Impaler",
-      "Rending_Needle_Jailer",
-      "Rending_Needle_Conductor",
-      "Rending_Needle_Augmenter_MED",
-      "Rending_Needle_Augmenter_LHT",
-      "Gilded_Path_Scrapsinger"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "rending_needle_augmenter_med": {
-    "name": "Rending Needle: Augmenter [MED]",
-    "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
-    "rarity": "Rare",
-    "category": "Rending Needle",
-    "reqs": "master_ironsinger => MED = 90r, MTL = 90s",
-    "exclusive": [
-      "Rending_Needle_Impaler",
-      "Rending_Needle_Jailer",
-      "Rending_Needle_Conductor._Rending_Needle_Augmenter_HVY",
-      "Rending_Needle_Augmenter_LHT",
       "Gilded_Path_Scrapsinger"
     ],
     "innates": {},

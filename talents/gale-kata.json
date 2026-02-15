@@ -4,7 +4,7 @@
     "desc": "Wield an advanced form of the Legion's martial arts.",
     "rarity": "Quest",
     "category": "Gale Kata",
-    "reqs": "()",
+    "reqs": "imperium_kata := ()",
     "exclusive": [
       ""
     ],
@@ -19,7 +19,7 @@
     "desc": "Gain the ability to use the Legion's martial arts.",
     "rarity": "Quest",
     "category": "Gale Kata",
-    "reqs": "LHT = 25s",
+    "reqs": "legion_kata := 25s LHT",
     "exclusive": [
       ""
     ],

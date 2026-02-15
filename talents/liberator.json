@@ -4,7 +4,7 @@
     "desc": "After saving a player from being gripped gain a short speed boost for a short duration.",
     "rarity": "Common",
     "category": "Liberator",
-    "reqs": "WLL = 15s",
+    "reqs": "savior := 15s WLL",
     "exclusive": [
       ""
     ],

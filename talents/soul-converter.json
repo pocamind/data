@@ -4,7 +4,7 @@
     "desc": "You regain some Armor upon killing enemies.",
     "rarity": "Rare",
     "category": "Soul Converter",
-    "reqs": "()",
+    "reqs": "bloodiron_spirit := ()",
     "exclusive": [
       ""
     ],

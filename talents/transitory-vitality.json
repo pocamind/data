@@ -1,10 +1,10 @@
 {
-  "cyclical_exsanguination": {
-    "name": "Cyclical Exsanguination",
-    "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
+  "hypovolemic_focus": {
+    "name": "Hypovolemic Focus",
+    "desc": "While you have temporary health, your opponent regains far less posture from parrying you.",
     "rarity": "Common",
     "category": "Transitory Vitality",
-    "reqs": "sow_and_mend => BLD = 65s",
+    "reqs": "sow_and_mend => hypovolemic_focus := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
     "rarity": "Common",
     "category": "Transitory Vitality",
-    "reqs": "sow_and_mend => BLD = 65s",
+    "reqs": "sow_and_mend => embolism := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hypovolemic_focus": {
-    "name": "Hypovolemic Focus",
-    "desc": "While you have temporary health, your opponent regains far less posture from parrying you.",
+  "cyclical_exsanguination": {
+    "name": "Cyclical Exsanguination",
+    "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
     "rarity": "Common",
     "category": "Transitory Vitality",
-    "reqs": "sow_and_mend => BLD = 65s",
+    "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -43,7 +43,7 @@
     "desc": "Sacrifice 35% of your blood for temporary health.",
     "rarity": "Rare",
     "category": "Transitory Vitality",
-    "reqs": "master_bloodrender => BLD = 60s",
+    "reqs": "master_bloodrender => sow_and_mend := 60s BLD",
     "exclusive": [
       ""
     ],

@@ -1,23 +1,10 @@
 {
-  "wind_step": {
-    "name": "Wind Step",
-    "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (5s combat CD, 1s normal CD)",
-    "rarity": "Common",
-    "category": "Legion Shock Trooper",
-    "reqs": "WND = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "cyclone_blade": {
     "name": "Cyclone Blade",
     "desc": "After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage, and adding +10% chip damage.",
     "rarity": "Common",
     "category": "Legion Shock Trooper",
-    "reqs": "air_pressure => AGL = 30s, WND = 55s",
+    "reqs": "air_pressure => cyclone_blade := 30s AGL, 55s WND",
     "exclusive": [
       ""
     ],
@@ -32,7 +19,7 @@
     "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
     "rarity": "Common",
     "category": "Legion Shock Trooper",
-    "reqs": "air_pressure => AGL = 30r, WND = 65s",
+    "reqs": "air_pressure => pressure_break_agl := 30r AGL, 65s WND",
     "exclusive": [
       "Pressure_Break_STR"
     ],
@@ -43,12 +30,28 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "centurions_resolve": {
-    "name": "Centurion's Resolve",
-    "desc": "Your Legion Kata attacks deal 10% more damage.",
-    "rarity": "Outfit",
+  "pressure_break_str": {
+    "name": "Pressure Break [STR]",
+    "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
+    "rarity": "Common",
     "category": "Legion Shock Trooper",
-    "reqs": "()",
+    "reqs": "air_pressure => pressure_break_str := 30r STR, 65s WND",
+    "exclusive": [
+      "Pressure_Break_AGL"
+    ],
+    "innates": {
+      "Carry Load": 8,
+      "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "wind_step": {
+    "name": "Wind Step",
+    "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (5s combat CD, 1s normal CD)",
+    "rarity": "Common",
+    "category": "Legion Shock Trooper",
+    "reqs": "wind_step := 40s WND",
     "exclusive": [
       ""
     ],
@@ -61,7 +64,7 @@
     "desc": "Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.",
     "rarity": "Common",
     "category": "Legion Shock Trooper",
-    "reqs": "galebreather => AGL = 20s, WND = 50s",
+    "reqs": "galebreather => air_pressure := 20s AGL, 50s WND",
     "exclusive": [
       ""
     ],
@@ -71,19 +74,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "pressure_break_str": {
-    "name": "Pressure Break [STR]",
-    "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
-    "rarity": "Common",
+  "centurions_resolve": {
+    "name": "Centurion's Resolve",
+    "desc": "Your Legion Kata attacks deal 10% more damage.",
+    "rarity": "Outfit",
     "category": "Legion Shock Trooper",
-    "reqs": "air_pressure => STR = 30r, WND = 65s",
+    "reqs": "centurions_resolve := ()",
     "exclusive": [
-      "Pressure_Break_AGL"
+      ""
     ],
-    "innates": {
-      "Carry Load": 8,
-      "Passive Agility": 2
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

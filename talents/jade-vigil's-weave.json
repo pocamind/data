@@ -4,7 +4,7 @@
     "desc": "Unleash the power of Fang and Coil and unlock a devastating Running Critical Attack,, feint to cancel momentum.",
     "rarity": "Outfit",
     "category": "Jade Vigil's Weave",
-    "reqs": "()",
+    "reqs": "serpents_dance := ()",
     "exclusive": [
       ""
     ],

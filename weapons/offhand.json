@@ -1,9 +1,25 @@
 {
+  "flintlock_offhand": {
+    "name": "Flintlock (Offhand)",
+    "type": "Offhand",
+    "damage_type": "Blunt",
+    "reqs": "flintlock_offhand := 20r LHT",
+    "damage": 10.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 10.0
+    }
+  },
   "silversix_offhand": {
     "name": "Silversix (Offhand)",
     "type": "Offhand",
     "damage_type": "Blunt",
-    "reqs": "()",
+    "reqs": "silversix_offhand := ()",
     "damage": 10.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -15,27 +31,25 @@
       "Light Wep.": 13.0
     }
   },
-  "alloyed_dawnshot_offhand": {
-    "name": "Alloyed Dawnshot (Offhand)",
+  "parry_dagger": {
+    "name": "Parry Dagger",
     "type": "Offhand",
-    "damage_type": "Blunt",
-    "reqs": "LHT = 75r",
-    "damage": 16.0,
-    "pen": 0.05,
-    "chip": 0.1,
+    "damage_type": "Posture",
+    "reqs": "parry_dagger := 10r AGL",
+    "damage": 4.0,
+    "pen": 0.0,
+    "chip": 0.0,
     "weight": 1.0,
-    "range": 10.5,
-    "speed": 1.17,
+    "range": 8.0,
+    "speed": 1.4,
     "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 12.0
-    }
+    "scaling": {}
   },
   "dragoon_offhand": {
     "name": "Dragoon (Offhand)",
     "type": "Offhand",
     "damage_type": "Blunt",
-    "reqs": "LHT = 65r",
+    "reqs": "dragoon_offhand := 65r LHT",
     "damage": 17.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -47,25 +61,11 @@
       "Light Wep.": 12.0
     }
   },
-  "parry_dagger": {
-    "name": "Parry Dagger",
-    "type": "Offhand",
-    "damage_type": "Posture",
-    "reqs": "AGL = 10r",
-    "damage": 4.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 1.0,
-    "range": 8.0,
-    "speed": 1.4,
-    "endlag": 0.0,
-    "scaling": {}
-  },
   "kyrstear": {
     "name": "Kyrstear",
     "type": "Offhand",
     "damage_type": "Posture",
-    "reqs": "AGL = 40r",
+    "reqs": "kyrstear := 40r AGL",
     "damage": 5.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -81,7 +81,7 @@
     "name": "Dawnshot (Offhand)",
     "type": "Offhand",
     "damage_type": "Blunt",
-    "reqs": "LHT = 40r",
+    "reqs": "dawnshot_offhand := 40r LHT",
     "damage": 14.8,
     "pen": 0.0,
     "chip": 0.0,
@@ -93,27 +93,11 @@
       "Light Wep.": 12.0
     }
   },
-  "flintlock_offhand": {
-    "name": "Flintlock (Offhand)",
-    "type": "Offhand",
-    "damage_type": "Blunt",
-    "reqs": "LHT = 20r",
-    "damage": 10.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 1.0,
-    "range": 10.0,
-    "speed": 1.17,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 10.0
-    }
-  },
   "repeater_offhand": {
     "name": "Repeater (Offhand)",
     "type": "Offhand",
     "damage_type": "Blunt",
-    "reqs": "LHT = 65r",
+    "reqs": "repeater_offhand := 65r LHT",
     "damage": 13.0,
     "pen": 0.0,
     "chip": 0.0,
@@ -123,6 +107,22 @@
     "endlag": 0.0,
     "scaling": {
       "Light Wep.": 15.0
+    }
+  },
+  "alloyed_dawnshot_offhand": {
+    "name": "Alloyed Dawnshot (Offhand)",
+    "type": "Offhand",
+    "damage_type": "Blunt",
+    "reqs": "alloyed_dawnshot_offhand := 75r LHT",
+    "damage": 16.0,
+    "pen": 0.05,
+    "chip": 0.1,
+    "weight": 1.0,
+    "range": 10.5,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
     }
   }
 }

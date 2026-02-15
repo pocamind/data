@@ -4,7 +4,7 @@
     "desc": "Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.",
     "rarity": "Quest",
     "category": "Sovereign of Slaughter",
-    "reqs": "()",
+    "reqs": "chime_of_conflict := ()",
     "exclusive": [
       ""
     ],

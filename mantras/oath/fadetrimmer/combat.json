@@ -1,16 +1,4 @@
 {
-  "precision_cuts": {
-    "name": "Precision Cuts",
-    "desc": "Snip forward with your scissors!",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Fadetrimmer"
-    ],
-    "reqs": "oath_fadetrimmer => ()",
-    "vaulted": false
-  },
   "close_shave": {
     "name": "Close Shave",
     "desc": "Close the distance and deliver a fast slash.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Fadetrimmer"
     ],
-    "reqs": "oath_fadetrimmer => ()",
+    "reqs": "oath_fadetrimmer => close_shave := ()",
+    "vaulted": false
+  },
+  "precision_cuts": {
+    "name": "Precision Cuts",
+    "desc": "Snip forward with your scissors!",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Fadetrimmer"
+    ],
+    "reqs": "oath_fadetrimmer => precision_cuts := ()",
     "vaulted": false
   }
 }

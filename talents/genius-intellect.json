@@ -4,7 +4,7 @@
     "desc": "Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantra is now reduced by 20%.",
     "rarity": "Rare",
     "category": "Genius Intellect",
-    "reqs": "INT = 35r OR WLL = 35r OR CHA = 35r",
+    "reqs": "neuroplasticity := 35r INT OR 35r WLL OR 35r CHA",
     "exclusive": [
       ""
     ],

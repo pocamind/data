@@ -4,7 +4,7 @@
     "desc": "When people touch a blood pool, briefly see their blood and blood poison.\n[*Note: This Talent does proc on guardbreaks.]",
     "rarity": "Rare",
     "category": "Bloodhound",
-    "reqs": "BLD = 65s",
+    "reqs": "smell_of_blood := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted briefly.",
     "rarity": "Common",
     "category": "Bloodhound",
-    "reqs": "BLD = 30s",
+    "reqs": "bloodwardens_sense := 30s BLD",
     "exclusive": [
       ""
     ],

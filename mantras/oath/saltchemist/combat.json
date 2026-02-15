@@ -8,7 +8,7 @@
     "attributes": [
       "Saltchemist"
     ],
-    "reqs": "oath_saltchemist => ()",
+    "reqs": "oath_saltchemist => lethal_injection := ()",
     "vaulted": false
   }
 }

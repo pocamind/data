@@ -1,23 +1,10 @@
 {
-  "grasp_on_reality": {
-    "name": "Grasp on Reality",
-    "desc": "Damage taken from insanity is reduced.",
-    "rarity": "Common",
-    "category": "Sturdy Resolve",
-    "reqs": "WLL = 5s, FTD = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "unfazed": {
     "name": "Unfazed",
     "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
     "rarity": "Common",
     "category": "Sturdy Resolve",
-    "reqs": "grasp_on_reality => FTD = 50s, WLL = 50s",
+    "reqs": "grasp_on_reality => unfazed := 50s FTD, 50s WLL",
     "exclusive": [
       ""
     ],
@@ -30,13 +17,26 @@
     "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
     "rarity": "Common",
     "category": "Sturdy Resolve",
-    "reqs": "battle_tendency => FTD = 15s, WLL = 40s",
+    "reqs": "battle_tendency => magical_resolve := 15s FTD, 40s WLL",
     "exclusive": [
       ""
     ],
     "innates": {
       "Sanity": 7
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "grasp_on_reality": {
+    "name": "Grasp on Reality",
+    "desc": "Damage taken from insanity is reduced.",
+    "rarity": "Common",
+    "category": "Sturdy Resolve",
+    "reqs": "grasp_on_reality := 5s WLL, 25s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

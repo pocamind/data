@@ -8,7 +8,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 30r",
+    "reqs": "flame_wisp := 30r FLM",
     "vaulted": false
   }
 }

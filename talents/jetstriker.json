@@ -4,15 +4,41 @@
     "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master.",
     "rarity": "Oath",
     "category": "Jetstriker",
-    "reqs": "AGL = 50s",
+    "reqs": "oath_jetstriker := 50s AGL",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Passive Agility": 8,
       "Wildcard Mantra": 1,
-      "Mobility Mantra": 1
+      "Mobility Mantra": 1,
+      "Passive Agility": 8
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "decisive_winds": {
+    "name": "Decisive Winds",
+    "desc": "When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.",
+    "rarity": "Oath",
+    "category": "Jetstriker",
+    "reqs": "oath_jetstriker => decisive_winds := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "jetstream_pursuit": {
+    "name": "Jetstream Pursuit",
+    "desc": "Upon a succesful flourish. teleport to the opponent when they stop moving. Receive a significant boost of momentum.",
+    "rarity": "Oath",
+    "category": "Jetstriker",
+    "reqs": "oath_jetstriker => jetstream_pursuit := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -21,7 +47,7 @@
     "desc": "Holding space while climbing will now let you perform Stratos Steps to get even higher. Others can follow your Stratos Steps.",
     "rarity": "Oath",
     "category": "Jetstriker",
-    "reqs": "oath_jetstriker => ()",
+    "reqs": "oath_jetstriker => stratos_step := ()",
     "exclusive": [
       ""
     ],
@@ -37,7 +63,7 @@
     "desc": "Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.",
     "rarity": "Oath",
     "category": "Jetstriker",
-    "reqs": "oath_jetstriker => ()",
+    "reqs": "oath_jetstriker => acceleration_points := ()",
     "exclusive": [
       ""
     ],
@@ -47,44 +73,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "decisive_winds": {
-    "name": "Decisive Winds",
-    "desc": "When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.",
-    "rarity": "Oath",
-    "category": "Jetstriker",
-    "reqs": "oath_jetstriker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "rush_of_ancients": {
     "name": "Rush of Ancients",
     "desc": "Dashing at maximum sprint momentum makes you one with the wind itself.",
     "rarity": "Oath",
     "category": "Jetstriker",
-    "reqs": "oath_jetstriker => ()",
+    "reqs": "oath_jetstriker => rush_of_ancients := ()",
     "exclusive": [
       ""
     ],
     "innates": {
       "Passive Agility": 4
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "jetstream_pursuit": {
-    "name": "Jetstream Pursuit",
-    "desc": "Upon a succesful flourish. teleport to the opponent when they stop moving. Receive a significant boost of momentum.",
-    "rarity": "Oath",
-    "category": "Jetstriker",
-    "reqs": "oath_jetstriker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

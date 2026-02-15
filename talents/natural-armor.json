@@ -1,29 +1,16 @@
 {
-  "lightweight": {
-    "name": "Lightweight",
-    "desc": "Move faster when your armor runs out of durability.",
+  "steel_scales": {
+    "name": "Steel Scales",
+    "desc": "You take an additional 5% less damage when your armor is broken.",
     "rarity": "Common",
     "category": "Natural Armor",
-    "reqs": "()",
+    "reqs": "padded_armor => steel_scales := ()",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Passive Agility": 3
+      "Slash Armor Percentage": 3
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "armor_conserver": {
-    "name": "Armor Conserver",
-    "desc": "You lose 15% less armor when hit.",
-    "rarity": "Common",
-    "category": "Natural Armor",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -32,7 +19,7 @@
     "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
     "rarity": "Common",
     "category": "Natural Armor",
-    "reqs": "()",
+    "reqs": "padded_armor := ()",
     "exclusive": [
       ""
     ],
@@ -42,17 +29,30 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "steel_scales": {
-    "name": "Steel Scales",
-    "desc": "You take an additional 5% less damage when your armor is broken.",
+  "armor_conserver": {
+    "name": "Armor Conserver",
+    "desc": "You lose 15% less armor when hit.",
     "rarity": "Common",
     "category": "Natural Armor",
-    "reqs": "padded_armor => ()",
+    "reqs": "armor_conserver := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lightweight": {
+    "name": "Lightweight",
+    "desc": "Move faster when your armor runs out of durability.",
+    "rarity": "Common",
+    "category": "Natural Armor",
+    "reqs": "lightweight := ()",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Slash Armor Percentage": 3
+      "Passive Agility": 3
     },
     "not_counted_towards_total": false,
     "vaulted": false

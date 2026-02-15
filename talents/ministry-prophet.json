@@ -4,7 +4,7 @@
     "desc": "Your non-basic attacks have 20% PEN.",
     "rarity": "Outfit",
     "category": "Ministry Prophet",
-    "reqs": "()",
+    "reqs": "crippling_darkness := ()",
     "exclusive": [
       ""
     ],

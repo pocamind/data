@@ -8,7 +8,7 @@
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "LTN = 20r",
+    "reqs": "lightning_stream := 20r LTN",
     "vaulted": false
   },
   "spark_swap": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "LTN = 50r",
+    "reqs": "spark_swap := 50r LTN",
     "vaulted": false
   }
 }

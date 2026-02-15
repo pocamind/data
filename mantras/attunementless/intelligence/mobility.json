@@ -8,7 +8,7 @@
     "attributes": [
       "Intelligence"
     ],
-    "reqs": "INT = 35r",
+    "reqs": "neural_pathway := 35r INT",
     "vaulted": false
   }
 }

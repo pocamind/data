@@ -8,7 +8,7 @@
     "attributes": [
       "Light Weapons"
     ],
-    "reqs": "LHT = 20r",
+    "reqs": "karita_leap := 20r LHT",
     "vaulted": false
   }
 }

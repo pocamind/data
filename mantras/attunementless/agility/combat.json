@@ -8,7 +8,7 @@
     "attributes": [
       "Agility"
     ],
-    "reqs": "AGL = 5r",
+    "reqs": "revenge := 5r AGL",
     "vaulted": false
   }
 }

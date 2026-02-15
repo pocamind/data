@@ -4,7 +4,7 @@
     "desc": "If you Meteor Slam an opponent while you're on Fire, restore some HP and Ether.",
     "rarity": "Common",
     "category": "Falling Star Guard",
-    "reqs": "meteor_impact => FLM = 40s",
+    "reqs": "meteor_impact => phoenix_impact := 40s FLM",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Aerial moves will follow up into a devastating slam.",
     "rarity": "Common",
     "category": "Falling Star Guard",
-    "reqs": "FLM = 25s",
+    "reqs": "meteor_impact := 25s FLM",
     "exclusive": [
       ""
     ],

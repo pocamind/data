@@ -1,47 +1,15 @@
 {
-  "stoneheart": {
-    "name": "Stoneheart",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 20r, HVY = 80r",
-    "damage": 24.0,
-    "pen": 0.1,
-    "chip": 0.1,
-    "weight": 12.0,
-    "range": 8.5,
-    "speed": 0.8,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 10.0
-    }
-  },
   "alloyed_forge_greathammer": {
     "name": "Alloyed Forge Greathammer",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "HVY = 75r",
+    "reqs": "alloyed_forge_greathammer := 75r HVY",
     "damage": 24.0,
     "pen": 0.0,
     "chip": 0.0,
     "weight": 9.0,
     "range": 9.0,
     "speed": 0.8,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 8.0
-    }
-  },
-  "alloyed_steel_maul": {
-    "name": "Alloyed Steel Maul",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 7.0,
-    "range": 9.0,
-    "speed": 0.85,
     "endlag": 0.1,
     "scaling": {
       "Heavy Wep.": 8.0
@@ -51,7 +19,7 @@
     "name": "Petra's Anchor",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 75r",
+    "reqs": "petras_anchor := 10r STR, 75r HVY",
     "damage": 26.0,
     "pen": 0.15,
     "chip": 0.0,
@@ -63,140 +31,27 @@
       "Heavy Wep.": 8.0
     }
   },
-  "putrid_edenstaff": {
-    "name": "Putrid Edenstaff",
+  "forge_greathammer": {
+    "name": "Forge Greathammer",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "HVY = 75r",
-    "damage": 25.0,
-    "pen": 0.15,
+    "reqs": "forge_greathammer := 10r STR, 55r HVY",
+    "damage": 24.0,
+    "pen": 0.0,
     "chip": 0.0,
     "weight": 9.0,
     "range": 9.0,
-    "speed": 0.81,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 8.5
-    }
-  },
-  "boltcrusher": {
-    "name": "Boltcrusher",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 20r, HVY = 55r, LTN = 80r",
-    "damage": 25.0,
-    "pen": 0.2,
-    "chip": 0.3,
-    "weight": 8.0,
-    "range": 8.5,
-    "speed": 0.87,
-    "endlag": 0.15,
-    "scaling": {
-      "Thundercall": 7.0,
-      "Heavy Wep.": 4.2
-    }
-  },
-  "sovereigns_punishment": {
-    "name": "Sovereign's Punishment",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 20r, HVY = 75r",
-    "damage": 26.0,
-    "pen": 0.2,
-    "chip": 0.1,
-    "weight": 13.0,
-    "range": 9.0,
-    "speed": 0.73,
-    "endlag": 0.0,
-    "scaling": {
-      "Heavy Wep.": 9.0
-    }
-  },
-  "pale_morning": {
-    "name": "Pale Morning",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 75r",
-    "damage": 24.0,
-    "pen": 0.15,
-    "chip": 0.0,
-    "weight": 10.0,
-    "range": 9.0,
-    "speed": 0.83,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 9.0
-    }
-  },
-  "steel_maul": {
-    "name": "Steel Maul",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 20r",
-    "damage": 22.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 7.0,
-    "range": 9.0,
     "speed": 0.8,
     "endlag": 0.1,
     "scaling": {
-      "Heavy Wep.": 7.0
-    }
-  },
-  "enforcers_hammer": {
-    "name": "Enforcer's Hammer",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 25r, HVY = 80r",
-    "damage": 25.0,
-    "pen": 0.1,
-    "chip": 0.2,
-    "weight": 12.0,
-    "range": 8.5,
-    "speed": 0.8,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 9.0
-    }
-  },
-  "rockmaller": {
-    "name": "Rockmaller",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 55r",
-    "damage": 25.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 9.5,
-    "range": 8.0,
-    "speed": 0.82,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 7.5
-    }
-  },
-  "great_maul": {
-    "name": "Great Maul",
-    "type": "Greathammer",
-    "damage_type": "Blunt",
-    "reqs": "STR = 30r, HVY = 75r",
-    "damage": 25.0,
-    "pen": 0.05,
-    "chip": 0.1,
-    "weight": 10.0,
-    "range": 9.0,
-    "speed": 0.85,
-    "endlag": 0.1,
-    "scaling": {
-      "Heavy Wep.": 8.3
+      "Heavy Wep.": 8.0
     }
   },
   "hivelords_hubris": {
     "name": "Hivelord's Hubris",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "STR = 60r, HVY = 100r",
+    "reqs": "hivelords_hubris := 60r STR, 100r HVY",
     "damage": 28.0,
     "pen": 0.05,
     "chip": 0.0,
@@ -212,7 +67,7 @@
     "name": "Warmonger",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "STR = 30r, HVY = 60r",
+    "reqs": "warmonger := 30r STR, 60r HVY",
     "damage": 22.9,
     "pen": 0.0,
     "chip": 0.0,
@@ -224,17 +79,146 @@
       "Heavy Wep.": 7.0
     }
   },
-  "forge_greathammer": {
-    "name": "Forge Greathammer",
+  "stoneheart": {
+    "name": "Stoneheart",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "STR = 10r, HVY = 55r",
+    "reqs": "stoneheart := 20r STR, 80r HVY",
     "damage": 24.0,
-    "pen": 0.0,
+    "pen": 0.1,
+    "chip": 0.1,
+    "weight": 12.0,
+    "range": 8.5,
+    "speed": 0.8,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 10.0
+    }
+  },
+  "putrid_edenstaff": {
+    "name": "Putrid Edenstaff",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "putrid_edenstaff := 75r HVY",
+    "damage": 25.0,
+    "pen": 0.15,
     "chip": 0.0,
     "weight": 9.0,
     "range": 9.0,
+    "speed": 0.81,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 8.5
+    }
+  },
+  "enforcers_hammer": {
+    "name": "Enforcer's Hammer",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "enforcers_hammer := 25r STR, 80r HVY",
+    "damage": 25.0,
+    "pen": 0.1,
+    "chip": 0.2,
+    "weight": 12.0,
+    "range": 8.5,
     "speed": 0.8,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 9.0
+    }
+  },
+  "steel_maul": {
+    "name": "Steel Maul",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "steel_maul := 10r STR, 20r HVY",
+    "damage": 22.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 7.0,
+    "range": 9.0,
+    "speed": 0.8,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 7.0
+    }
+  },
+  "sovereigns_punishment": {
+    "name": "Sovereign's Punishment",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "sovereigns_punishment := 20r STR, 75r HVY",
+    "damage": 26.0,
+    "pen": 0.2,
+    "chip": 0.1,
+    "weight": 13.0,
+    "range": 9.0,
+    "speed": 0.73,
+    "endlag": 0.0,
+    "scaling": {
+      "Heavy Wep.": 9.0
+    }
+  },
+  "rockmaller": {
+    "name": "Rockmaller",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "rockmaller := 10r STR, 55r HVY",
+    "damage": 25.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 9.5,
+    "range": 8.0,
+    "speed": 0.82,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 7.5
+    }
+  },
+  "boltcrusher": {
+    "name": "Boltcrusher",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "boltcrusher := 20r STR, 55r HVY, 80r LTN",
+    "damage": 25.0,
+    "pen": 0.2,
+    "chip": 0.3,
+    "weight": 8.0,
+    "range": 8.5,
+    "speed": 0.87,
+    "endlag": 0.15,
+    "scaling": {
+      "Heavy Wep.": 4.2,
+      "Thundercall": 7.0
+    }
+  },
+  "great_maul": {
+    "name": "Great Maul",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "great_maul := 30r STR, 75r HVY",
+    "damage": 25.0,
+    "pen": 0.05,
+    "chip": 0.1,
+    "weight": 10.0,
+    "range": 9.0,
+    "speed": 0.85,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 8.3
+    }
+  },
+  "alloyed_steel_maul": {
+    "name": "Alloyed Steel Maul",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "alloyed_steel_maul := 10r STR, 75r HVY",
+    "damage": 24.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 7.0,
+    "range": 9.0,
+    "speed": 0.85,
     "endlag": 0.1,
     "scaling": {
       "Heavy Wep.": 8.0
@@ -244,7 +228,7 @@
     "name": "Kanabo",
     "type": "Greathammer",
     "damage_type": "Blunt",
-    "reqs": "STR = 40r, HVY = 100r",
+    "reqs": "kanabo := 40r STR, 100r HVY",
     "damage": 25.0,
     "pen": 0.0,
     "chip": 0.1,
@@ -255,6 +239,22 @@
     "scaling": {
       "Heavy Wep.": 6.0,
       "Strength": 3.0
+    }
+  },
+  "pale_morning": {
+    "name": "Pale Morning",
+    "type": "Greathammer",
+    "damage_type": "Blunt",
+    "reqs": "pale_morning := 10r STR, 75r HVY",
+    "damage": 24.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 10.0,
+    "range": 9.0,
+    "speed": 0.83,
+    "endlag": 0.1,
+    "scaling": {
+      "Heavy Wep.": 9.0
     }
   }
 }

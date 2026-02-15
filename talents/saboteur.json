@@ -1,23 +1,10 @@
 {
-  "incendiary_formula": {
-    "name": "Incendiary Formula",
-    "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.",
-    "rarity": "Common",
-    "category": "Saboteur",
-    "reqs": "family_recipe => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "hot_potato": {
     "name": "Hot Potato",
     "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice.",
     "rarity": "Common",
     "category": "Saboteur",
-    "reqs": "family_recipe => ()",
+    "reqs": "family_recipe => hot_potato := ()",
     "exclusive": [
       ""
     ],
@@ -27,19 +14,45 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "family_recipe": {
+    "name": "Family Recipe",
+    "desc": "You can now craft bombs at a crafting bench.",
+    "rarity": "Quest",
+    "category": "Saboteur",
+    "reqs": "family_recipe := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "pocket_bombs": {
     "name": "Pocket Bombs",
     "desc": "You have a chance to activate a bomb in your inventory when damaged.",
     "rarity": "Common",
     "category": "Saboteur",
-    "reqs": "family_recipe => ()",
+    "reqs": "family_recipe => pocket_bombs := ()",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 5,
-      "Health": 1
+      "Health": 1,
+      "Carry Load": 5
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "incendiary_formula": {
+    "name": "Incendiary Formula",
+    "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.",
+    "rarity": "Common",
+    "category": "Saboteur",
+    "reqs": "family_recipe => incendiary_formula := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -48,7 +61,7 @@
     "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages on enemy.",
     "rarity": "Common",
     "category": "Saboteur",
-    "reqs": "incendiary_formula => ()",
+    "reqs": "incendiary_formula => sulphur_surprise := ()",
     "exclusive": [
       ""
     ],
@@ -61,20 +74,7 @@
     "desc": "When crafting bombs, you craft double the amount. You have the chance to triple the amount.",
     "rarity": "Common",
     "category": "Saboteur",
-    "reqs": "hot_potato => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "family_recipe": {
-    "name": "Family Recipe",
-    "desc": "You can now craft bombs at a crafting bench.",
-    "rarity": "Quest",
-    "category": "Saboteur",
-    "reqs": "()",
+    "reqs": "hot_potato => explosive_efficiency := ()",
     "exclusive": [
       ""
     ],

@@ -4,7 +4,7 @@
     "desc": "Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.",
     "rarity": "Common",
     "category": "Vocalist",
-    "reqs": "CHA = 75s",
+    "reqs": "propagandist := 75s CHA",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Your Sing now stun opponents who are already charmed.",
     "rarity": "Rare",
     "category": "Vocalist",
-    "reqs": "CHA = 40s",
+    "reqs": "encore := 40s CHA",
     "exclusive": [
       ""
     ],

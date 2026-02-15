@@ -4,7 +4,7 @@
     "desc": "You lose less hunger and thirst while swimming.",
     "rarity": "Common",
     "category": "Waterborne",
-    "reqs": "()",
+    "reqs": "conditioned_swimmer := ()",
     "exclusive": [
       ""
     ],

@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
     "rarity": "Common",
     "category": "Saint of Blades",
-    "reqs": "LHT = 75s",
+    "reqs": "light_weapons_unbounded := 75s LHT",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
     "rarity": "Common",
     "category": "Saint of Blades",
-    "reqs": "HVY = 75s",
+    "reqs": "heavy_weapons_unbounded := 75s HVY",
     "exclusive": [
       ""
     ],
@@ -30,7 +30,7 @@
     "desc": "You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.",
     "rarity": "Common",
     "category": "Saint of Blades",
-    "reqs": "MED = 75s",
+    "reqs": "medium_weapons_unbounded := 75s MED",
     "exclusive": [
       ""
     ],

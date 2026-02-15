@@ -3,7 +3,7 @@
     "name": "Lumber Axe",
     "type": "Item",
     "damage_type": "Slash",
-    "reqs": "()",
+    "reqs": "lumber_axe := ()",
     "damage": 10.0,
     "pen": 0.0,
     "chip": 0.0,

@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your charisma to its fullest.",
     "rarity": "Common",
     "category": "Mr Charm",
-    "reqs": "CHA = 75s",
+    "reqs": "charisma_unbounded := 75s CHA",
     "exclusive": [
       ""
     ],

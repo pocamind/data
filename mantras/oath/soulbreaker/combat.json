@@ -1,4 +1,16 @@
 {
+  "tacet_kick": {
+    "name": "Tacet Kick",
+    "desc": "Slip out of perception and deliver a brutal kick.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Soulbreaker"
+    ],
+    "reqs": "oath_soulbreaker => tacet_kick := ()",
+    "vaulted": false
+  },
   "rhythm_advance": {
     "name": "Rhythm Advance",
     "desc": "Rhythm Advance",
@@ -8,7 +20,7 @@
     "attributes": [
       "Soulbreaker"
     ],
-    "reqs": "oath_soulbreaker => ()",
+    "reqs": "oath_soulbreaker => rhythm_advance := ()",
     "vaulted": false
   },
   "ardour_slicer": {
@@ -20,19 +32,7 @@
     "attributes": [
       "Soulbreaker"
     ],
-    "reqs": "oath_soulbreaker => ()",
-    "vaulted": false
-  },
-  "tacet_kick": {
-    "name": "Tacet Kick",
-    "desc": "Slip out of perception and deliver a brutal kick.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Soulbreaker"
-    ],
-    "reqs": "oath_soulbreaker => ()",
+    "reqs": "oath_soulbreaker => ardour_slicer := ()",
     "vaulted": false
   }
 }

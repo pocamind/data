@@ -4,7 +4,7 @@
     "desc": "Your fire mantras now detonate any stacked crystals.",
     "rarity": "Common",
     "category": "Flashfreeze",
-    "reqs": "glass_path_crystallization => ICE = 40s, FLM = 40s",
+    "reqs": "glass_path_crystallization => temperature_shock := 40s ICE, 40s FLM",
     "exclusive": [
       "Unyielding_Frost"
     ],

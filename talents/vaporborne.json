@@ -1,10 +1,10 @@
 {
-  "boiling_point": {
-    "name": "Boiling Point",
-    "desc": "Using a fire mantra near your own steam detonates it.",
+  "flashboil": {
+    "name": "Flashboil",
+    "desc": "Landing Ice/Fire attacks on burning/chilled enemies extinquishes the flame and generates steam.",
     "rarity": "Common",
     "category": "Vaporborne",
-    "reqs": "flashboil => ICE = 30s, FLM = 30s",
+    "reqs": "flashboil := 30s ICE, 30s FLM",
     "exclusive": [
       "Wraith_Path_Twisted_Puppets",
       "Glass_Path_Crystallization",
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "flashboil": {
-    "name": "Flashboil",
-    "desc": "Landing Ice/Fire attacks on burning/chilled enemies extinquishes the flame and generates steam.",
+  "boiling_point": {
+    "name": "Boiling Point",
+    "desc": "Using a fire mantra near your own steam detonates it.",
     "rarity": "Common",
     "category": "Vaporborne",
-    "reqs": "ICE = 30s, FLM = 30s",
+    "reqs": "flashboil => boiling_point := 30s ICE, 30s FLM",
     "exclusive": [
       "Wraith_Path_Twisted_Puppets",
       "Glass_Path_Crystallization",

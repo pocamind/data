@@ -4,7 +4,7 @@
     "desc": "You deal 10% more damage while airborne. Mantras receive a 5% bonus to damage instead.",
     "rarity": "Rare",
     "category": "Aerial Dancer",
-    "reqs": "LHT = 25r, STR = 15s",
+    "reqs": "wyverns_claw_lht := 25r LHT, 15s STR",
     "exclusive": [
       "Wyverns_Claw_HVY",
       "Wyverns_Claw_MED"
@@ -18,7 +18,7 @@
     "desc": "You deal 10% more damage while airborne. Mantras receive a 5% bonus to damage instead.",
     "rarity": "Rare",
     "category": "Aerial Dancer",
-    "reqs": "MED = 25r, STR = 15s",
+    "reqs": "wyverns_claw_med := 25r MED, 15s STR",
     "exclusive": [
       "Wyverns_Claw_HVY",
       "Wyverns_Claw_LHT"
@@ -32,7 +32,7 @@
     "desc": "You deal 10% more damage while airborne. Mantras receive a 5% bonus to damage instead.",
     "rarity": "Rare",
     "category": "Aerial Dancer",
-    "reqs": "HVY = 25r, STR = 15s",
+    "reqs": "wyverns_claw_hvy := 25r HVY, 15s STR",
     "exclusive": [
       "Wyverns_Claw_LHT",
       "Wyverns_Claw_MED"

@@ -1,23 +1,10 @@
 {
-  "frenzied_dance": {
-    "name": "Frenzied Dance",
-    "desc": "[Rapier] When your posture is about to collapse, you deal greater chip and posture damage.",
-    "rarity": "Common",
-    "category": "Needle",
-    "reqs": "LHT = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "pressure_skewer": {
     "name": "Pressure Skewer",
     "desc": "[Rapier] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.",
     "rarity": "Common",
     "category": "Needle",
-    "reqs": "LHT = 40s",
+    "reqs": "pressure_skewer := 40s LHT",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,20 @@
     "desc": "[Rapier] Running Basic Attacks deal increased posture damage. Upon landing your critical, your next running Basic Attack has increased range.",
     "rarity": "Common",
     "category": "Needle",
-    "reqs": "LHT = 30s",
+    "reqs": "duelists_lunge := 30s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frenzied_dance": {
+    "name": "Frenzied Dance",
+    "desc": "[Rapier] When your posture is about to collapse, you deal greater chip and posture damage.",
+    "rarity": "Common",
+    "category": "Needle",
+    "reqs": "frenzied_dance := 50s LHT",
     "exclusive": [
       ""
     ],

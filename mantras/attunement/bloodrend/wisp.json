@@ -8,7 +8,7 @@
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "BLD = 30r",
+    "reqs": "blood_wisp := 30r BLD",
     "vaulted": false
   }
 }

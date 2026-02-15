@@ -8,7 +8,7 @@
     "attributes": [
       "Blindseer"
     ],
-    "reqs": "oath_blindseer => ()",
+    "reqs": "oath_blindseer => mindsoothe := ()",
     "vaulted": false
   },
   "tranquil_circle": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Blindseer"
     ],
-    "reqs": "oath_blindseer => ()",
+    "reqs": "oath_blindseer => tranquil_circle := ()",
     "vaulted": false
   }
 }

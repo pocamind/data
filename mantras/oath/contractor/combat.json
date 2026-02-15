@@ -8,7 +8,7 @@
     "attributes": [
       "Contractor"
     ],
-    "reqs": "oath_contractor => ()",
+    "reqs": "oath_contractor => lords_slice := ()",
     "vaulted": false
   },
   "equalizer": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Contractor"
     ],
-    "reqs": "oath_contractor => ()",
+    "reqs": "oath_contractor => equalizer := ()",
     "vaulted": false
   },
   "judgement": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Contractor"
     ],
-    "reqs": "oath_contractor => ()",
+    "reqs": "oath_contractor => judgement := ()",
     "vaulted": false
   }
 }

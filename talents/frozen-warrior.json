@@ -4,7 +4,7 @@
     "desc": "Your slow effect prevents opponents from rolling.",
     "rarity": "Rare",
     "category": "Frozen Warrior",
-    "reqs": "frostdrawer => ICE = 60s",
+    "reqs": "frostdrawer => frozen_legs := 60s ICE",
     "exclusive": [
       ""
     ],

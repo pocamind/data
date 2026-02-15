@@ -1,25 +1,10 @@
 {
-  "the_eleventh_hour": {
-    "name": "The Eleventh Hour",
-    "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
-    "rarity": "Common",
-    "category": "Limitbreaker",
-    "reqs": "WLL = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 10
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "defiant_until_the_end": {
     "name": "Defiant until the End",
     "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
     "rarity": "Common",
     "category": "Limitbreaker",
-    "reqs": "WLL = 20s",
+    "reqs": "defiant_until_the_end := 20s WLL",
     "exclusive": [
       ""
     ],
@@ -29,16 +14,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "comeback_kid": {
-    "name": "Comeback Kid",
-    "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+  "the_eleventh_hour": {
+    "name": "The Eleventh Hour",
+    "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
     "rarity": "Common",
     "category": "Limitbreaker",
-    "reqs": "()",
+    "reqs": "the_eleventh_hour := 35s WLL",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Sanity": 10
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -47,13 +34,26 @@
     "desc": "Deal +10% more damage when your health is significantly low.",
     "rarity": "Common",
     "category": "Limitbreaker",
-    "reqs": "WLL = 35s",
+    "reqs": "last_resort := 35s WLL",
     "exclusive": [
       ""
     ],
     "innates": {
       "Sanity": 10
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "comeback_kid": {
+    "name": "Comeback Kid",
+    "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "comeback_kid := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

@@ -4,14 +4,14 @@
     "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you.",
     "rarity": "Oath",
     "category": "Starkindred",
-    "reqs": "STR = 40s",
+    "reqs": "oath_starkindred := 40s STR",
     "exclusive": [
       ""
     ],
     "innates": {
       "Combat Mantra": 2,
-      "Wildcard Mantra": 1,
-      "Health": 8
+      "Health": 8,
+      "Wildcard Mantra": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -21,7 +21,7 @@
     "desc": "Upon cancelling your Air Dash, reveal your wings and strike your enemy.",
     "rarity": "Oath",
     "category": "Starkindred",
-    "reqs": "oath_starkindred => ()",
+    "reqs": "oath_starkindred => death_from_above := ()",
     "exclusive": [
       ""
     ],

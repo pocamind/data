@@ -1,10 +1,10 @@
 {
-  "face_cutter": {
-    "name": "Face Cutter",
-    "desc": "[Twinblade] Your Spine Cutter now deals an additional hit.",
+  "turning_of_the_wheel": {
+    "name": "Turning of the Wheel",
+    "desc": "[Twinblade] After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.",
     "rarity": "Rare",
     "category": "Twinblade",
-    "reqs": "spine_cutter => MED = 75s",
+    "reqs": "turning_of_the_wheel := 75s MED",
     "exclusive": [
       ""
     ],
@@ -15,12 +15,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "turning_of_the_wheel": {
-    "name": "Turning of the Wheel",
-    "desc": "[Twinblade] After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.",
+  "face_cutter": {
+    "name": "Face Cutter",
+    "desc": "[Twinblade] Your Spine Cutter now deals an additional hit.",
     "rarity": "Rare",
     "category": "Twinblade",
-    "reqs": "MED = 75s",
+    "reqs": "spine_cutter => face_cutter := 75s MED",
     "exclusive": [
       ""
     ],

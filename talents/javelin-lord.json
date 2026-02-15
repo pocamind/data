@@ -4,7 +4,7 @@
     "desc": "Press [F] during the windup of Grand Javelin to activate. Your Grand Javelin now carries opponents through the air.",
     "rarity": "Rare",
     "category": "Javelin Lord",
-    "reqs": "LTN = 60s",
+    "reqs": "grand_skewer := 60s LTN",
     "exclusive": [
       ""
     ],

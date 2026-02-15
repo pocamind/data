@@ -8,7 +8,7 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
+    "reqs": "beast_burrow := ()",
     "vaulted": false
   }
 }

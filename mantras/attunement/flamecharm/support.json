@@ -8,7 +8,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 20r",
+    "reqs": "graceful_flame := 20r FLM",
     "vaulted": false
   },
   "flame_of_denial": {
@@ -20,7 +20,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 1r",
+    "reqs": "flame_of_denial := 1r FLM",
     "vaulted": false
   },
   "flame_blind": {
@@ -32,7 +32,7 @@
     "attributes": [
       "Flamecharm"
     ],
-    "reqs": "FLM = 1r",
+    "reqs": "flame_blind := 1r FLM",
     "vaulted": false
   }
 }

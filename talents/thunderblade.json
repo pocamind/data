@@ -4,20 +4,7 @@
     "desc": "Your next dash after activating Static Blade is enhanced by lightning.",
     "rarity": "Common",
     "category": "Thunderblade",
-    "reqs": "LTN = 45s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "static_blade": {
-    "name": "Static Blade",
-    "desc": "[Medium Weapons] Hitting blocks or blocking or parrying hits will now generate an electric chage in your blade, granting a small speed buff. Charges can stack up to 5 times.",
-    "rarity": "Common",
-    "category": "Thunderblade",
-    "reqs": "thundercaller => MED = 20s, LTN = 40s",
+    "reqs": "overcharge := 45s LTN",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,7 @@
     "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
     "rarity": "Common",
     "category": "Thunderblade",
-    "reqs": "static_blade => AGL = 25r, LTN = 65s",
+    "reqs": "static_blade => gathering_electricity_agl := 25r AGL, 65s LTN",
     "exclusive": [
       "Gathering_Electricity_STR"
     ],
@@ -46,7 +33,7 @@
     "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
     "rarity": "Common",
     "category": "Thunderblade",
-    "reqs": "static_blade => STR = 25r, LTN = 65s",
+    "reqs": "static_blade => gathering_electricity_str := 25r STR, 65s LTN",
     "exclusive": [
       "Gathering_Electricity_AGL"
     ],
@@ -54,6 +41,19 @@
       "Carry Load": 10,
       "Passive Agility": 1
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "static_blade": {
+    "name": "Static Blade",
+    "desc": "[Medium Weapons] Hitting blocks or blocking or parrying hits will now generate an electric chage in your blade, granting a small speed buff. Charges can stack up to 5 times.",
+    "rarity": "Common",
+    "category": "Thunderblade",
+    "reqs": "thundercaller => static_blade := 20s MED, 40s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

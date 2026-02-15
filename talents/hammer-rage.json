@@ -1,23 +1,10 @@
 {
-  "dispatch": {
-    "name": "Dispatch",
-    "desc": "[Clubs] Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.",
-    "rarity": "Common",
-    "category": "Hammer Rage",
-    "reqs": "bear_trap => MED = 55s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "brain_rattler": {
     "name": "Brain Rattler",
     "desc": "[Clubs] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.",
     "rarity": "Common",
     "category": "Hammer Rage",
-    "reqs": "MED = 50s",
+    "reqs": "brain_rattler := 50s MED",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,20 @@
     "desc": "[Clubs] Aerial attacks do 25% more posture damage when blocked.",
     "rarity": "Common",
     "category": "Hammer Rage",
-    "reqs": "MED = 35s",
+    "reqs": "hammerfall := 35s MED",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dispatch": {
+    "name": "Dispatch",
+    "desc": "[Clubs] Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.",
+    "rarity": "Common",
+    "category": "Hammer Rage",
+    "reqs": "bear_trap => dispatch := 55s MED",
     "exclusive": [
       ""
     ],

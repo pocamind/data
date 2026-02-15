@@ -1,10 +1,25 @@
 {
+  "hells_partisan_warding": {
+    "name": "Hell's Partisan [WARDING]",
+    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "warding_radiance => hells_partisan_warding := 35s FLM",
+    "exclusive": [
+      "Hells_Partisan_FIRE_FORGE"
+    ],
+    "innates": {
+      "Sanity": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "cauterized_wounds": {
     "name": "Cauterized Wounds",
     "desc": "Blood loss from all sources is lowered.",
     "rarity": "Common",
     "category": "Flame Warden",
-    "reqs": "FTD = 5s, FLM = 40s",
+    "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
     "exclusive": [
       ""
     ],
@@ -19,7 +34,7 @@
     "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
     "rarity": "Rare",
     "category": "Flame Warden",
-    "reqs": "flamecharmer => AGL = 20s, FLM = 30s",
+    "reqs": "flamecharmer => warding_radiance := 20s AGL, 30s FLM",
     "exclusive": [
       ""
     ],
@@ -34,24 +49,9 @@
     "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
     "rarity": "Common",
     "category": "Flame Warden",
-    "reqs": "FLM = 35s",
+    "reqs": "hells_partisan_fire_forge := 35s FLM",
     "exclusive": [
       "Hells_Partisan_WARDING"
-    ],
-    "innates": {
-      "Sanity": 4
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "hells_partisan_warding": {
-    "name": "Hell's Partisan [WARDING]",
-    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "warding_radiance => FLM = 35s",
-    "exclusive": [
-      "Hells_Partisan_FIRE_FORGE"
     ],
     "innates": {
       "Sanity": 4
@@ -64,7 +64,7 @@
     "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
     "rarity": "Common",
     "category": "Flame Warden",
-    "reqs": "warding_radiance => AGL = 25s, FLM = 40s",
+    "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
     "exclusive": [
       ""
     ],

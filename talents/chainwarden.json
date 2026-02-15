@@ -4,7 +4,7 @@
     "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
     "rarity": "Oath",
     "category": "Chainwarden",
-    "reqs": "oath_chainwarden => ()",
+    "reqs": "oath_chainwarden => perpetual_wrath := ()",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "On flourish, whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.",
     "rarity": "Oath",
     "category": "Chainwarden",
-    "reqs": "oath_chainwarden => ()",
+    "reqs": "oath_chainwarden => chainlash := ()",
     "exclusive": [
       ""
     ],
@@ -30,7 +30,7 @@
     "desc": "You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.",
     "rarity": "Oath",
     "category": "Chainwarden",
-    "reqs": "()",
+    "reqs": "oath_chainwarden := ()",
     "exclusive": [
       ""
     ],

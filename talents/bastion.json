@@ -4,42 +4,11 @@
     "desc": "Incoming PEN is reduced by 30%.\n[Note: Scales with investment. Having less Fortitude reduces the effect of this Talent, with a minimum of 10%.]",
     "rarity": "Advanced",
     "category": "Bastion",
-    "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => FTD = 90s",
+    "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => reinforced_armor := 90s FTD",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "battle_tendency": {
-    "name": "Battle Tendency",
-    "desc": "You can breathe more easily with +20% faster posture regen.",
-    "rarity": "Common",
-    "category": "Bastion",
-    "reqs": "FTD = 15s, WLL = 15s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 2,
-      "Sanity": 10
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "moving_fortress": {
-    "name": "Moving Fortress",
-    "desc": "Blocking no longer slows you down as much.",
-    "rarity": "Common",
-    "category": "Bastion",
-    "reqs": "FTD = 5s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 1
-    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -48,7 +17,7 @@
     "desc": "After being block broken, the next attack to hit you deals reduced damage.",
     "rarity": "Common",
     "category": "Bastion",
-    "reqs": "FTD = 25s",
+    "reqs": "braced_collapse := 25s FTD",
     "exclusive": [
       ""
     ],
@@ -61,12 +30,43 @@
     "desc": "When you're knocked down, you get back up again more quickly.",
     "rarity": "Common",
     "category": "Bastion",
-    "reqs": "FTD = 30s, WLL = 30s",
+    "reqs": "perseverance := 30s FTD, 30s WLL",
     "exclusive": [
       ""
     ],
     "innates": {
       "Sanity": 5
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "battle_tendency": {
+    "name": "Battle Tendency",
+    "desc": "You can breathe more easily with +20% faster posture regen.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "battle_tendency := 15s FTD, 15s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 10,
+      "Posture": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "moving_fortress": {
+    "name": "Moving Fortress",
+    "desc": "Blocking no longer slows you down as much.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "moving_fortress := 5s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

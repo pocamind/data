@@ -1,15 +1,13 @@
 {
-  "eruption_path_lava_serpent": {
-    "name": "Eruption Path: Lava Serpent",
-    "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
+  "flash_point": {
+    "name": "Flash Point",
+    "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
     "rarity": "Common",
     "category": "Lava Serpent",
-    "reqs": "FLM = 40s",
+    "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
     "exclusive": [
       "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets",
-      "Flashboil",
-      "Boiling_Point"
+      "Wraith_Path_Twisted_Puppets"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -20,7 +18,7 @@
     "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
     "rarity": "Common",
     "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => FLM = 50s",
+    "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
     "exclusive": [
       "The_Final_Act",
       "Wraith_Path_Twisted_Puppets"
@@ -34,7 +32,7 @@
     "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
     "rarity": "Advanced",
     "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => FLM = 100s",
+    "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
     "exclusive": [
       "The_Final_Act",
       "Wraith_Path_Twisted_Puppets"
@@ -43,15 +41,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "flash_point": {
-    "name": "Flash Point",
-    "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
+  "eruption_path_lava_serpent": {
+    "name": "Eruption Path: Lava Serpent",
+    "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
     "rarity": "Common",
     "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => FLM = 55s",
+    "reqs": "eruption_path_lava_serpent := 40s FLM",
     "exclusive": [
       "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets"
+      "Wraith_Path_Twisted_Puppets",
+      "Flashboil",
+      "Boiling_Point"
     ],
     "innates": {},
     "not_counted_towards_total": false,

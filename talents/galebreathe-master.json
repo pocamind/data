@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your galebreathe to its fullest.\n[Note: Falling below 75 Galebreathe revokes this Talent.]",
     "rarity": "Common",
     "category": "Galebreathe Master",
-    "reqs": "WND = 75s",
+    "reqs": "galebreathe_unbounded := 75s WND",
     "exclusive": [
       ""
     ],

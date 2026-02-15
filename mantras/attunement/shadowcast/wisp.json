@@ -8,7 +8,7 @@
     "attributes": [
       "Shadowcast"
     ],
-    "reqs": "SDW = 30r",
+    "reqs": "shade_wisp := 30r SDW",
     "vaulted": false
   }
 }

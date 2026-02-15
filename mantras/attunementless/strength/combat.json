@@ -8,19 +8,7 @@
     "attributes": [
       "Strength"
     ],
-    "reqs": "STR = 35r",
-    "vaulted": false
-  },
-  "rapid_punches": {
-    "name": "Rapid Punches",
-    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "STR = 20r",
+    "reqs": "throw := 35r STR",
     "vaulted": false
   },
   "table_flip": {
@@ -32,7 +20,19 @@
     "attributes": [
       "Strength"
     ],
-    "reqs": "STR = 40r",
+    "reqs": "table_flip := 40r STR",
+    "vaulted": false
+  },
+  "rapid_punches": {
+    "name": "Rapid Punches",
+    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "rapid_punches := 20r STR",
     "vaulted": false
   },
   "skyshatter_kick": {
@@ -44,7 +44,7 @@
     "attributes": [
       "Strength"
     ],
-    "reqs": "STR = 80r",
+    "reqs": "skyshatter_kick := 80r STR",
     "vaulted": false
   },
   "strong_left": {
@@ -56,7 +56,7 @@
     "attributes": [
       "Strength"
     ],
-    "reqs": "STR = 20r",
+    "reqs": "strong_left := 20r STR",
     "vaulted": false
   }
 }

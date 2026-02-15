@@ -1,10 +1,10 @@
 {
-  "corpse_explosion": {
-    "name": "Corpse Explosion",
-    "desc": "Bodies that burn to death immediately explode dealing massive damage. Your fires will incinerate unconscious targets much faster.",
+  "pleekstys_faith": {
+    "name": "Pleeksty's Faith",
+    "desc": "When on fire, automatically quench flames at the cost of some ether.",
     "rarity": "Common",
     "category": "Inferno",
-    "reqs": "agitating_spark => FLM = 60s",
+    "reqs": "pleekstys_faith := 15s WLL, 15s CHA, 25s FLM",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "pleekstys_faith": {
-    "name": "Pleeksty's Faith",
-    "desc": "When on fire, automatically quench flames at the cost of some ether.",
+  "corpse_explosion": {
+    "name": "Corpse Explosion",
+    "desc": "Bodies that burn to death immediately explode dealing massive damage. Your fires will incinerate unconscious targets much faster.",
     "rarity": "Common",
     "category": "Inferno",
-    "reqs": "WLL = 15s, CHA = 15s, FLM = 25s",
+    "reqs": "agitating_spark => corpse_explosion := 60s FLM",
     "exclusive": [
       ""
     ],

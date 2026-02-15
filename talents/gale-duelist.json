@@ -4,7 +4,7 @@
     "desc": "Cast Wind Blade while sliding to unleash a quick whirlwind attack.",
     "rarity": "Common",
     "category": "Gale Duelist",
-    "reqs": "WND = 20s",
+    "reqs": "tempest_wind := 20s WND",
     "exclusive": [
       ""
     ],

@@ -4,7 +4,7 @@
     "desc": "While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.",
     "rarity": "Common",
     "category": "Stormcaller",
-    "reqs": "static_link => WND = 50s, LTN = 60s",
+    "reqs": "static_link => storm_link := 50s WND, 60s LTN",
     "exclusive": [
       ""
     ],

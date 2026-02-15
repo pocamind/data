@@ -4,20 +4,7 @@
     "desc": "In a display of true strength, cancel your air dash to enter a frenzy of slashes. (5s CD)",
     "rarity": "Oath",
     "category": "Bladeharper",
-    "reqs": "oath_bladeharper => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "reveal": {
-    "name": "Reveal",
-    "desc": "Pour your heart out and reveal your true strength",
-    "rarity": "Oath",
-    "category": "Bladeharper",
-    "reqs": "oath_bladeharper => ()",
+    "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
     "exclusive": [
       ""
     ],
@@ -30,20 +17,7 @@
     "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an oath ability.",
     "rarity": "Oath",
     "category": "Bladeharper",
-    "reqs": "oath_bladeharper => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "untouchable": {
-    "name": "Untouchable",
-    "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.",
-    "rarity": "Oath",
-    "category": "Bladeharper",
-    "reqs": "oath_bladeharper => ()",
+    "reqs": "oath_bladeharper => soaring_storm := ()",
     "exclusive": [
       ""
     ],
@@ -56,7 +30,7 @@
     "desc": "You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.",
     "rarity": "Oath",
     "category": "Bladeharper",
-    "reqs": "()",
+    "reqs": "oath_bladeharper := ()",
     "exclusive": [
       ""
     ],
@@ -66,12 +40,38 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "untouchable": {
+    "name": "Untouchable",
+    "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath_bladeharper => untouchable := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "lithe_step": {
     "name": "Lithe Step",
     "desc": "When sprinting, roll-cancel and instantly vanish and surge with unmatched speed.",
     "rarity": "Oath",
     "category": "Bladeharper",
-    "reqs": "oath_bladeharper => ()",
+    "reqs": "oath_bladeharper => lithe_step := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "reveal": {
+    "name": "Reveal",
+    "desc": "Pour your heart out and reveal your true strength",
+    "rarity": "Oath",
+    "category": "Bladeharper",
+    "reqs": "oath_bladeharper => reveal := ()",
     "exclusive": [
       ""
     ],

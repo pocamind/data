@@ -1,10 +1,10 @@
 {
-  "exposed_durability": {
-    "name": "Exposed Durability",
-    "desc": "Deal +10% damage to opponents with no armor durability left.",
-    "rarity": "Common",
+  "an_ironsingers_instinct": {
+    "name": "An Ironsinger's Instinct",
+    "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
+    "rarity": "Rare",
     "category": "Adaptive Arsenal",
-    "reqs": "MTL = 60s",
+    "reqs": "an_ironsingers_instinct := 75s MTL",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "an_ironsingers_instinct": {
-    "name": "An Ironsinger's Instinct",
-    "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
-    "rarity": "Rare",
+  "exposed_durability": {
+    "name": "Exposed Durability",
+    "desc": "Deal +10% damage to opponents with no armor durability left.",
+    "rarity": "Common",
     "category": "Adaptive Arsenal",
-    "reqs": "MTL = 75s",
+    "reqs": "exposed_durability := 60s MTL",
     "exclusive": [
       ""
     ],
@@ -30,7 +30,7 @@
     "desc": "Your weapon Basic Attacks have +0.25 range.",
     "rarity": "Rare",
     "category": "Adaptive Arsenal",
-    "reqs": "MTL = 75s",
+    "reqs": "phantom_edge := 75s MTL",
     "exclusive": [
       ""
     ],

@@ -4,7 +4,7 @@
     "desc": "You can now obtain 2-star Galebreather mantras.",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "adept_galebreather => WND = 30s",
+    "reqs": "adept_galebreather => expert_galebreather := 30s WND",
     "exclusive": [
       ""
     ],
@@ -17,7 +17,7 @@
     "desc": "Grants you the ability to command Wind as a Galebreather",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "WND = 1s",
+    "reqs": "galebreather := 1s WND",
     "exclusive": [
       ""
     ],
@@ -30,7 +30,7 @@
     "desc": "You can now obtain 1-star Galebreather mantras.",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "galebreather => WND = 20s",
+    "reqs": "galebreather => adept_galebreather := 20s WND",
     "exclusive": [
       ""
     ],
@@ -43,7 +43,7 @@
     "desc": "You can now obtain 3-star Galebreather mantras.",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "expert_galebreather => WND = 50s",
+    "reqs": "expert_galebreather => master_galebreather := 50s WND",
     "exclusive": [
       ""
     ],

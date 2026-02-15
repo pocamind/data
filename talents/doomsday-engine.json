@@ -4,7 +4,7 @@
     "desc": "Landing a critical with a Static Link on your opponent applies Chilled.",
     "rarity": "Common",
     "category": "Doomsday Engine",
-    "reqs": "static_link => ICE = 40s, LTN = 40s",
+    "reqs": "static_link => frozen_web := 40s ICE, 40s LTN",
     "exclusive": [
       ""
     ],

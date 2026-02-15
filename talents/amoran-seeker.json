@@ -4,7 +4,7 @@
     "desc": "An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 10% extra damage and 10% extra speed.",
     "rarity": "Common",
     "category": "Amoran Seeker",
-    "reqs": "FLM = 25s",
+    "reqs": "flame_within := 25s FLM",
     "exclusive": [
       ""
     ],

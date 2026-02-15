@@ -1,89 +1,176 @@
 {
-  "familiar_demons_armor": {
-    "name": "Familiar Demon's Armor",
-    "durability": 2500,
+  "shadow_hunter": {
+    "name": "Shadow Hunter",
+    "category": "Unknown",
+    "durability": 1500,
     "resistances": {
-      "Flame Resistance": 0.1,
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.25
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.1,
+      "Shadow Resistance": 0.1
     },
     "extra_percents": {
       "Extra Stealth": 0,
-      "Ether Regen": 10
+      "Ether Regen": 0
     },
-    "talent": "Demon Step",
-    "reqs": "TTL = 240r",
+    "talent": "Now You See Me",
+    "reqs": "shadow_hunter := 10r AGL",
     "mats": {
-      "Cloth": 5,
+      "Gold": 2,
       "Fiber": 5,
-      "Dread Serpent's Tooth": 1
-    },
-    "notes": 5000
-  },
-  "corsair_outlaw": {
-    "name": "Corsair Outlaw",
-    "durability": 1200,
-    "resistances": {
-      "Physical Resistance": 0.15,
-      "Elemental Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Lightweight",
-    "reqs": "()",
-    "mats": {
-      "Fiber": 5,
-      "Cloth": 5,
-      "Aeon Longstone": 1
+      "Iron": 10,
+      "Cloth": 5
     },
     "notes": 0
   },
-  "verdant_sniper": {
-    "name": "Verdant Sniper",
+  "carefree_garments": {
+    "name": "Carefree Garments",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.15
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Fleetfoot",
+    "reqs": "carefree_garments := 105r TTL",
+    "mats": {
+      "Cloth": 4,
+      "Glass Stone": 1,
+      "Iron": 1,
+      "Fiber": 5
+    },
+    "notes": 0
+  },
+  "stranded": {
+    "name": "Stranded",
+    "category": "Unknown",
+    "durability": 0,
+    "resistances": {},
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": null,
+    "reqs": "stranded := ()",
+    "mats": {},
+    "notes": 0
+  },
+  "cloak_of_winds": {
+    "name": "Cloak of Winds",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Shadow Resistance": 0.25,
+      "Physical Resistance": 0.2,
+      "Elemental Resistance": 0.3
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Paired Soul",
+    "reqs": "cloak_of_winds := 165r TTL",
+    "mats": {
+      "Cloth": 5,
+      "Erisore": 10,
+      "Strange Claw": 2,
+      "Vibrant Gem": 1
+    },
+    "notes": 0
+  },
+  "whaler_coat": {
+    "name": "Whaler Coat",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
-      "Elemental Resistance": 0.2,
-      "Physical Resistance": 0.25,
-      "Wind Resistance": 0.1
+      "Elemental Resistance": 0.15,
+      "Physical Resistance": 0.25
+    },
+    "extra_percents": {
+      "Extra Stealth": 50,
+      "Ether Regen": 0
+    },
+    "talent": null,
+    "reqs": "whaler_coat := 165r TTL",
+    "mats": {
+      "Lionfish Scale": 2,
+      "Gold": 2,
+      "Iron": 10,
+      "Fiber": 5,
+      "Cloth": 5
+    },
+    "notes": 100
+  },
+  "veteran_adventurer": {
+    "name": "Veteran Adventurer",
+    "category": "Unknown",
+    "durability": 1500,
+    "resistances": {
+      "Physical Resistance": 0.15,
+      "Shadow Resistance": 0.05,
+      "Elemental Resistance": 0.15,
+      "Flame Resistance": 0.05
     },
     "extra_percents": {
       "Ether Regen": 0,
       "Extra Stealth": 0
     },
-    "talent": null,
-    "reqs": "TTL = 165r",
+    "talent": "Foolish Outburst",
+    "reqs": "veteran_adventurer := 165r TTL",
     "mats": {
-      "Vibrant Gems": 2,
-      "Megalodaunt Hide": 2,
-      "Cloth": 10
+      "Gold": 2,
+      "Iron": 10,
+      "Lionfish Scale": 2,
+      "Fiber": 5,
+      "Cloth": 5
     },
     "notes": 100
   },
-  "familiar_knights_armor": {
-    "name": "Familiar Knight's Armor",
-    "durability": 1300,
+  "union_initiate": {
+    "name": "Union Initiate",
+    "category": "Unknown",
+    "durability": 1500,
     "resistances": {
-      "Flame Resistance": 0.25,
-      "Slash Resistance": 0.1,
+      "Elemental Resistance": 0.05,
       "Physical Resistance": 0.15
     },
     "extra_percents": {
       "Ether Regen": 0,
       "Extra Stealth": 0
     },
-    "talent": "Hyperbody",
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Fiber": 5,
-      "Rock": 1,
-      "Cloth": 5
+    "talent": null,
+    "reqs": "union_initiate := 105r TTL",
+    "mats": {},
+    "notes": 0
+  },
+  "troublemakers_overcoat": {
+    "name": "Troublemaker's Overcoat",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
     },
-    "notes": 30
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": null,
+    "reqs": "troublemakers_overcoat := 135r TTL",
+    "mats": {
+      "Iron": 5,
+      "Cloth": 10,
+      "Megalodaunt Hide": 5,
+      "Fiber": 10
+    },
+    "notes": 100
   },
   "pathfinder_thaumaturge": {
     "name": "Pathfinder Thaumaturge",
+    "category": "Unknown",
     "durability": 1000,
     "resistances": {
       "Physical Resistance": 0.1,
@@ -94,114 +181,73 @@
       "Ether Regen": 0
     },
     "talent": "Now You See Me",
-    "reqs": "INT = 10r, TTL = 90r",
-    "mats": {
-      "Cloth": 5,
-      "Rock": 1,
-      "Fiber": 5
-    },
-    "notes": 30
-  },
-  "etrean_guard": {
-    "name": "Etrean Guard",
-    "durability": 2000,
-    "resistances": {
-      "Elemental Resistance": 0.2,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Unbreakable",
-    "reqs": "TTL = 165r",
+    "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
     "mats": {
       "Cloth": 5,
       "Fiber": 5,
-      "Erisore": 5,
-      "Megalodaunt Hide": 2
+      "Rock": 1
     },
     "notes": 30
   },
-  "experienced_adventurer": {
-    "name": "Experienced Adventurer",
-    "durability": 1000,
+  "bounty_hunter": {
+    "name": "Bounty Hunter",
+    "category": "Unknown",
+    "durability": 1500,
     "resistances": {
-      "Blunt Resistance": 0.1,
-      "Physical Resistance": 0.1
+      "Physical Resistance": 0.2,
+      "Elemental Resistance": 0.1,
+      "Flame Resistance": 0.05
     },
     "extra_percents": {
       "Extra Stealth": 0,
       "Ether Regen": 0
     },
-    "talent": "Looter",
-    "reqs": "TTL = 90r",
+    "talent": "Lightweight",
+    "reqs": "bounty_hunter := 90r TTL",
     "mats": {
-      "Fiber": 3,
-      "Cloth": 3,
-      "Irithine": 2
-    },
-    "notes": 25
-  },
-  "diver_journeyman_robes": {
-    "name": "Diver Journeyman Robes",
-    "durability": 2500,
-    "resistances": {
-      "Elemental Resistance": 0.3,
-      "Blunt Resistance": 0.1,
-      "Physical Resistance": 0.2
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "TTL = 165r",
-    "mats": {
-      "Megalodaunt Hide": 2,
-      "Rock": 1,
+      "Fiber": 5,
       "Cloth": 5,
-      "Fiber": 5
-    },
-    "notes": 30
-  },
-  "cloak_of_winds": {
-    "name": "Cloak of Winds",
-    "durability": 1200,
-    "resistances": {
-      "Shadow Resistance": 0.25,
-      "Elemental Resistance": 0.3,
-      "Physical Resistance": 0.2
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Paired Soul",
-    "reqs": "TTL = 165r",
-    "mats": {
-      "Cloth": 5,
-      "Strange Claw": 2,
-      "Erisore": 10,
-      "Vibrant Gem": 1
+      "Eternal Longstone": 1
     },
     "notes": 0
   },
-  "ignition_trailblazer": {
-    "name": "Ignition Trailblazer",
-    "durability": 1000,
+  "familiar_assassins_armor": {
+    "name": "Familiar Assassin's Armor",
+    "category": "Unknown",
+    "durability": 2000,
     "resistances": {
-      "Blunt Resistance": 0.05,
-      "Flame Resistance": 0.05,
       "Physical Resistance": 0.25,
       "Elemental Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 50
+    },
+    "talent": "Bane",
+    "reqs": "familiar_assassins_armor := 240r TTL",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Emerald": 1
+    },
+    "notes": 15000
+  },
+  "ignition_trailblazer": {
+    "name": "Ignition Trailblazer",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Physical Resistance": 0.25,
+      "Flame Resistance": 0.05,
+      "Blunt Resistance": 0.05
     },
     "extra_percents": {
       "Ether Regen": 0,
       "Extra Stealth": 0
     },
     "talent": "Perseverance, Strong Stern",
-    "reqs": "TTL = 165r",
+    "reqs": "ignition_trailblazer := 165r TTL",
     "mats": {
       "Megalodaunt Hide": 2,
       "Rock": 1,
@@ -210,201 +256,56 @@
     },
     "notes": 30
   },
-  "pathfinder_cloak": {
-    "name": "Pathfinder Cloak",
-    "durability": 1200,
-    "resistances": {
-      "Elemental Resistance": 0.08,
-      "Physical Resistance": 0.18
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Environmentalist",
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Fiber": 4,
-      "Cloth": 4,
-      "Iron": 6
-    },
-    "notes": 30
-  },
-  "veteran_adventurer": {
-    "name": "Veteran Adventurer",
-    "durability": 1500,
-    "resistances": {
-      "Physical Resistance": 0.15,
-      "Elemental Resistance": 0.15,
-      "Shadow Resistance": 0.05,
-      "Flame Resistance": 0.05
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Foolish Outburst",
-    "reqs": "TTL = 165r",
-    "mats": {
-      "Gold": 2,
-      "Cloth": 5,
-      "Fiber": 5,
-      "Lionfish Scale": 2,
-      "Iron": 10
-    },
-    "notes": 100
-  },
-  "jesters_garb": {
-    "name": "Jester's Garb",
-    "durability": 2500,
-    "resistances": {
-      "Elemental Resistance": 0.35,
-      "Blunt Resistance": 0.15,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 50,
-      "Extra Stealth": 0
-    },
-    "talent": "Mocking Favor",
-    "reqs": "TTL = 195r",
-    "mats": {
-      "Fiber": 5,
-      "Vibrant Gem": 10,
-      "Cloth": 7
-    },
-    "notes": 400
-  },
-  "tricksters_habit": {
-    "name": "Trickster's Habit",
-    "durability": 2500,
-    "resistances": {
-      "Blunt Resistance": 0.15,
-      "Elemental Resistance": 0.35,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 50,
-      "Extra Stealth": 0
-    },
-    "talent": "Mocking Favor",
-    "reqs": "TTL = 195r",
-    "mats": {
-      "Cloth": 7,
-      "Fiber": 5,
-      "Vibrant Gem": 10
-    },
-    "notes": 400
-  },
-  "vigil_sentinel": {
-    "name": "Vigil Sentinel",
-    "durability": 2500,
-    "resistances": {
-      "Flame Resistance": 0.1,
-      "Shadow Resistance": 0.1,
-      "Wind Resistance": 0.25,
-      "Elemental Resistance": 0.3,
-      "Physical Resistance": 0.3
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 25
-    },
-    "talent": "Vigil's Grace",
-    "reqs": "WLL = 5r, TTL = 165r",
-    "mats": {
-      "Cloth": 5,
-      "Vibrant Gem": 5,
-      "Wind Gem": 1,
-      "Gale Stone": 5,
-      "Fiber": 5,
-      "Irithine": 5
-    },
-    "notes": 1000
-  },
-  "heretics_memento": {
-    "name": "Heretic's Memento",
+  "grand_pathfinder_cloak": {
+    "name": "Grand Pathfinder Cloak",
+    "category": "Unknown",
     "durability": 2000,
     "resistances": {
-      "Shadow Resistance": 0.05,
-      "Elemental Resistance": 0.25,
-      "Blunt Resistance": 0.1,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 100,
-      "Extra Stealth": 0
-    },
-    "talent": "Underdog",
-    "reqs": "TTL = 240r",
-    "mats": {
-      "Wayward Gem": 1,
-      "Vibrant Gem": 5,
-      "Cloth": 10,
-      "Gold": 5,
-      "Fiber": 5
-    },
-    "notes": 500
-  },
-  "traveler_jacket": {
-    "name": "Traveler Jacket",
-    "durability": 1000,
-    "resistances": {
-      "Physical Resistance": 0.1
+      "Elemental Resistance": 0.2,
+      "Physical Resistance": 0.2
     },
     "extra_percents": {
       "Ether Regen": 0,
-      "Extra Stealth": 0
+      "Extra Stealth": 40
     },
-    "talent": null,
-    "reqs": "()",
+    "talent": "Legendary",
+    "reqs": "grand_pathfinder_cloak := 165r TTL",
     "mats": {
-      "Cloth": 1
+      "Cloth": 5,
+      "Erisore": 5,
+      "Irithine": 5,
+      "Iron": 6,
+      "Dark Feather": 2,
+      "Fiber": 5,
+      "Gold": 5
     },
-    "notes": 10
+    "notes": 150
   },
-  "whaler_coat": {
-    "name": "Whaler Coat",
+  "11th_legion_plate": {
+    "name": "11th Legion Plate",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.15
+      "Physical Resistance": 0.1,
+      "Blunt Resistance": 0.3
     },
     "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 50
+      "Extra Stealth": 0,
+      "Ether Regen": 0
     },
     "talent": null,
-    "reqs": "TTL = 165r",
+    "reqs": "11th_legion_plate := 10r FTD, 90r TTL",
     "mats": {
-      "Lionfish Scale": 2,
       "Gold": 2,
-      "Iron": 10,
       "Cloth": 5,
+      "Iron": 10,
       "Fiber": 5
     },
     "notes": 100
-  },
-  "duelists_attire": {
-    "name": "Duelist's Attire",
-    "durability": 1200,
-    "resistances": {
-      "Physical Resistance": 0.2,
-      "Slash Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Glass Stones": 5
-    },
-    "notes": 0
   },
   "varicosan_finery": {
     "name": "Varicosan Finery",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
       "Physical Resistance": 0.2,
@@ -415,46 +316,121 @@
       "Extra Stealth": 0
     },
     "talent": "Benefactor",
-    "reqs": "TTL = 165r",
+    "reqs": "varicosan_finery := 165r TTL",
     "mats": {
       "Alestrian Coral": 3,
-      "Fiber": 5,
       "Cloth": 7,
+      "Irithine": 5,
       "Vibrant Gem": 10,
-      "Irithine": 5
+      "Fiber": 5
     },
     "notes": 100
   },
-  "whaler_initiate": {
-    "name": "Whaler Initiate",
-    "durability": 1500,
+  "heretics_memento": {
+    "name": "Heretic's Memento",
+    "category": "Unknown",
+    "durability": 2000,
     "resistances": {
+      "Elemental Resistance": 0.25,
       "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.05
+      "Shadow Resistance": 0.05,
+      "Blunt Resistance": 0.1
     },
     "extra_percents": {
-      "Extra Stealth": 25,
+      "Extra Stealth": 0,
+      "Ether Regen": 100
+    },
+    "talent": "Underdog",
+    "reqs": "heretics_memento := 240r TTL",
+    "mats": {
+      "Fiber": 5,
+      "Gold": 5,
+      "Wayward Gem": 1,
+      "Cloth": 10,
+      "Vibrant Gem": 5
+    },
+    "notes": 500
+  },
+  "navaen_nomad_robes": {
+    "name": "Navaen Nomad Robes",
+    "category": "Unknown",
+    "durability": 1800,
+    "resistances": {
+      "Ice Resistance": 0.15,
+      "Blunt Resistance": 0.1,
+      "Shadow Resistance": 0.15,
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.1
+    },
+    "extra_percents": {
+      "Extra Stealth": 50,
+      "Ether Regen": 0
+    },
+    "talent": "Fists of Navae (Bugged)",
+    "reqs": "navaen_nomad_robes := 90r TTL",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Frigid Prisms": 2,
+      "Erisore": 8
+    },
+    "notes": 100
+  },
+  "duelists_attire": {
+    "name": "Duelist's Attire",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Slash Resistance": 0.1,
+      "Physical Resistance": 0.2
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
       "Ether Regen": 0
     },
     "talent": null,
-    "reqs": "TTL = 90r",
-    "mats": {},
+    "reqs": "duelists_attire := 90r TTL",
+    "mats": {
+      "Glass Stones": 5
+    },
     "notes": 0
   },
-  "flame_worshipper_armor": {
-    "name": "Flame Worshipper Armor",
+  "experienced_adventurer": {
+    "name": "Experienced Adventurer",
+    "category": "Unknown",
     "durability": 1000,
     "resistances": {
-      "Flame Resistance": 0.25,
-      "Elemental Resistance": 0.05,
+      "Blunt Resistance": 0.1,
       "Physical Resistance": 0.1
     },
     "extra_percents": {
       "Ether Regen": 0,
       "Extra Stealth": 0
     },
+    "talent": "Looter",
+    "reqs": "experienced_adventurer := 90r TTL",
+    "mats": {
+      "Irithine": 2,
+      "Fiber": 3,
+      "Cloth": 3
+    },
+    "notes": 25
+  },
+  "flame_worshipper_armor": {
+    "name": "Flame Worshipper Armor",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Flame Resistance": 0.25,
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.05
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
     "talent": "Intrepid Flame",
-    "reqs": "TTL = 90r",
+    "reqs": "flame_worshipper_armor := 90r TTL",
     "mats": {
       "Iron": 2,
       "Fiber": 4,
@@ -462,292 +438,104 @@
     },
     "notes": 30
   },
-  "ferrymans_coat": {
-    "name": "Ferryman's Coat",
-    "durability": 2500,
-    "resistances": {
-      "Physical Resistance": 0.2,
-      "Wind Resistance": 0.05,
-      "Blunt Resistance": 0.05,
-      "Thunder Resistance": 0.25,
-      "Elemental Resistance": 0.35
-    },
-    "extra_percents": {
-      "Ether Regen": 50,
-      "Extra Stealth": 0
-    },
-    "talent": "Ferryman's Curse",
-    "reqs": "TTL = 195r",
-    "mats": {
-      "Void Feather": 1,
-      "Vibrant Gems": 10,
-      "Spark Glands": 5,
-      "Cloth": 7,
-      "Fiber": 5
-    },
-    "notes": 400
-  },
-  "hired_mercenary": {
-    "name": "Hired Mercenary",
-    "durability": 1000,
-    "resistances": {
-      "Physical Resistance": 0.15,
-      "Elemental Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "()",
-    "mats": {
-      "Cloth": 5,
-      "Fiber": 5,
-      "Iron": 1
-    },
-    "notes": 25
-  },
-  "vigil_initiate": {
-    "name": "Vigil Initiate",
-    "durability": 1200,
-    "resistances": {
-      "Physical Resistance": 0.2,
-      "Blunt Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Paired Soul",
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Cloth": 5,
-      "Fiber,": 5,
-      "Iron": 4
-    },
-    "notes": 0
-  },
-  "diver_apprentice_robes": {
-    "name": "Diver Apprentice Robes",
-    "durability": 1000,
-    "resistances": {
-      "Physical Resistance": 0.1,
-      "Elemental Resistance": 0.15
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 10
-    },
-    "talent": null,
-    "reqs": "INT = 10r, TTL = 90r",
-    "mats": {
-      "Cloth": 4,
-      "Fiber": 4,
-      "Crystal Lens": 3
-    },
-    "notes": 50
-  },
-  "hive_tactician_armor": {
-    "name": "Hive Tactician Armor",
-    "durability": 1200,
-    "resistances": {
-      "Elemental Resistance": 0.2,
-      "Wind Resistance": 0.1,
-      "Physical Resistance": 0.3
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Brunt",
-    "reqs": "AGL = 25r, TTL = 165r",
-    "mats": {
-      "Vibrant Gems": 3,
-      "Cloth": 5,
-      "Dark Feather": 2,
-      "Iron": 2
-    },
-    "notes": 0
-  },
-  "scholar": {
-    "name": "Scholar",
-    "durability": 1000,
-    "resistances": {
-      "Physical Resistance": 0.08,
-      "Elemental Resistance": 0.1
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Scholar's Intuition",
-    "reqs": "()",
-    "mats": {
-      "Fiber": 3,
-      "Cloth": 3
-    },
-    "notes": 50
-  },
-  "ignition_union_uniform": {
-    "name": "Ignition Union Uniform",
-    "durability": 2000,
-    "resistances": {
-      "Physical Resistance": 0.22,
-      "Elemental Resistance": 0.22
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "TTL = 105r",
-    "mats": {
-      "Cloth": 5,
-      "Irithine": 3,
-      "Fiber": 5,
-      "Lionfish Scale": 1
-    },
-    "notes": 0
-  },
-  "bounty_hunter": {
-    "name": "Bounty Hunter",
-    "durability": 1500,
-    "resistances": {
-      "Flame Resistance": 0.05,
-      "Elemental Resistance": 0.1,
-      "Physical Resistance": 0.2
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Lightweight",
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Cloth": 5,
-      "Eternal Longstone": 1,
-      "Fiber": 5
-    },
-    "notes": 0
-  },
   "summer_company_uniform": {
     "name": "Summer Company Uniform",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
-      "Physical Resistance": 0.1,
       "Shadow Resistance": 0.25,
       "Slash Resistance": 0.1,
+      "Physical Resistance": 0.1,
       "Elemental Resistance": 0.05
     },
     "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
+      "Ether Regen": 0,
+      "Extra Stealth": 0
     },
     "talent": "Armor Piercing",
-    "reqs": "TTL = 90r",
+    "reqs": "summer_company_uniform := 90r TTL",
     "mats": {
-      "Iron": 10,
       "Fiber": 5,
+      "Iron": 10,
       "Cloth": 5
     },
     "notes": 100
   },
-  "navaen_nomad_robes": {
-    "name": "Navaen Nomad Robes",
-    "durability": 1800,
-    "resistances": {
-      "Physical Resistance": 0.1,
-      "Blunt Resistance": 0.1,
-      "Ice Resistance": 0.15,
-      "Shadow Resistance": 0.15,
-      "Elemental Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 50
-    },
-    "talent": "Fists of Navae (Bugged)",
-    "reqs": "TTL = 90r",
-    "mats": {
-      "Frigid Prisms": 2,
-      "Erisore": 8,
-      "Cloth": 5,
-      "Fiber": 5
-    },
-    "notes": 100
-  },
-  "hive_drone": {
-    "name": "Hive Drone",
-    "durability": 1000,
-    "resistances": {
-      "Blunt Resistance": 0.05,
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Now You See Me",
-    "reqs": "TTL = 165r",
-    "mats": {
-      "Fiber": 5,
-      "Megalodaunt Hide": 2,
-      "Cloth": 5,
-      "Iron": 1
-    },
-    "notes": 10
-  },
   "arachnids_weave": {
     "name": "Arachnid's Weave",
+    "category": "Unknown",
     "durability": 2100,
     "resistances": {
-      "Physical Resistance": 0.2,
+      "Blood Resistance": 0.15,
       "Metal Resistance": 0.1,
       "Elemental Resistance": 0.35,
       "Thunder Resistance": 0.1,
-      "Blood Resistance": 0.15
+      "Physical Resistance": 0.2
     },
     "extra_percents": {
       "Extra Stealth": 0,
       "Ether Regen": 55
     },
     "talent": "Corrosive Touch",
-    "reqs": "TTL = 240r",
+    "reqs": "arachnids_weave := 240r TTL",
     "mats": {
+      "Spider Eggs": 5,
       "Dark Feathers": 2,
-      "Bloodless Gem": 1,
-      "Fiber": 2,
-      "Vibrant Gems": 5,
       "Cloth": 10,
-      "Spider Eggs": 5
+      "Bloodless Gem": 1,
+      "Vibrant Gems": 5,
+      "Fiber": 2
     },
     "notes": 1000
   },
-  "keeper": {
-    "name": "Keeper",
+  "hive_drone": {
+    "name": "Hive Drone",
+    "category": "Unknown",
     "durability": 1000,
     "resistances": {
-      "Elemental Resistance": 0.05,
-      "Physical Resistance": 0.05,
-      "Wind Resistance": 0.1,
-      "Ice Resistance": 0.1
+      "Elemental Resistance": 0.25,
+      "Physical Resistance": 0.25,
+      "Blunt Resistance": 0.05
     },
     "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 20
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Now You See Me",
+    "reqs": "hive_drone := 165r TTL",
+    "mats": {
+      "Iron": 1,
+      "Cloth": 5,
+      "Megalodaunt Hide": 2,
+      "Fiber": 5
+    },
+    "notes": 10
+  },
+  "authority_captain_uniform": {
+    "name": "Authority Captain Uniform",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
     },
     "talent": null,
-    "reqs": "INT = 10r, TTL = 90r",
+    "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
     "mats": {
-      "Fiber": 3,
-      "Cloth": 3,
-      "Iron": 1
+      "Lionfish Scale": 1,
+      "Fiber": 5,
+      "Cloth": 5,
+      "Dark Feather": 1
     },
-    "notes": 25
+    "notes": 500
   },
   "cerulean_gown": {
     "name": "Cerulean Gown",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
       "Physical Resistance": 0.2,
@@ -758,211 +546,37 @@
       "Extra Stealth": 0
     },
     "talent": null,
-    "reqs": "TTL = 135r",
+    "reqs": "cerulean_gown := 135r TTL",
     "mats": {
-      "Cloth": 15,
       "Fiber": 15,
-      "Megalodaunt Hide": 1
+      "Megalodaunt Hide": 1,
+      "Cloth": 15
     },
     "notes": 200
   },
-  "authority_captain_uniform": {
-    "name": "Authority Captain Uniform",
-    "durability": 2000,
-    "resistances": {
-      "Physical Resistance": 0.3,
-      "Elemental Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "STR = 25r, TTL = 165r",
-    "mats": {
-      "Cloth": 5,
-      "Fiber": 5,
-      "Dark Feather": 1,
-      "Lionfish Scale": 1
-    },
-    "notes": 500
-  },
-  "stranded": {
-    "name": "Stranded",
-    "durability": 0,
-    "resistances": {},
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "()",
-    "mats": {},
-    "notes": 0
-  },
-  "martial_artist": {
-    "name": "Martial Artist",
-    "durability": 1200,
-    "resistances": {
-      "Physical Resistance": 0.3,
-      "Elemental Resistance": 0.2,
-      "Flame Resistance": 0.05
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Bruiser's Mixup",
-    "reqs": "STR = 15r, TTL = 165r",
-    "mats": {
-      "Cloth": 7,
-      "Fiber": 5,
-      "Odd Tentacle": 1
-    },
-    "notes": 0
-  },
-  "troublemakers_overcoat": {
-    "name": "Troublemaker's Overcoat",
-    "durability": 2500,
-    "resistances": {
-      "Elemental Resistance": 0.2,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "TTL = 135r",
-    "mats": {
-      "Cloth": 10,
-      "Megalodaunt Hide": 5,
-      "Fiber": 10,
-      "Iron": 5
-    },
-    "notes": 100
-  },
-  "eager_tradesman": {
-    "name": "Eager Tradesman",
+  "scholar": {
+    "name": "Scholar",
+    "category": "Unknown",
     "durability": 1000,
     "resistances": {
-      "Elemental Resistance": 0.05,
-      "Physical Resistance": 0.1
+      "Elemental Resistance": 0.1,
+      "Physical Resistance": 0.08
     },
     "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
+      "Ether Regen": 0,
+      "Extra Stealth": 0
     },
-    "talent": "Knack",
-    "reqs": "()",
+    "talent": "Scholar's Intuition",
+    "reqs": "scholar := ()",
     "mats": {
       "Cloth": 3,
       "Fiber": 3
     },
-    "notes": 0
-  },
-  "darksteel_plate": {
-    "name": "Darksteel Plate",
-    "durability": 2500,
-    "resistances": {
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.25
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Unbreakable",
-    "reqs": "FTD = 20r, TTL = 165r",
-    "mats": {
-      "Cloth": 5,
-      "Strange Claw": 1,
-      "Fiber": 5,
-      "Dark Feather": 1,
-      "Erisore": 5
-    },
-    "notes": 300
-  },
-  "merchant_robes": {
-    "name": "Merchant Robes",
-    "durability": 1200,
-    "resistances": {},
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Mates' Rates",
-    "reqs": "()",
-    "mats": {
-      "Fiber": 5,
-      "Cloth": 5
-    },
-    "notes": 25
-  },
-  "11th_legion_plate": {
-    "name": "11th Legion Plate",
-    "durability": 1500,
-    "resistances": {
-      "Blunt Resistance": 0.3,
-      "Physical Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": null,
-    "reqs": "FTD = 10r, TTL = 90r",
-    "mats": {
-      "Gold": 2,
-      "Cloth": 5,
-      "Fiber": 5,
-      "Iron": 10
-    },
-    "notes": 100
-  },
-  "pathfinder_sorcerer": {
-    "name": "Pathfinder Sorcerer",
-    "durability": 1000,
-    "resistances": {
-      "Elemental Resistance": 0.1,
-      "Physical Resistance": 0.05
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Now You See Me",
-    "reqs": "INT = 5r",
-    "mats": {
-      "Fiber": 5,
-      "Cloth": 5,
-      "Rock": 1
-    },
-    "notes": 30
-  },
-  "seamstresss_attire": {
-    "name": "Seamstress's Attire",
-    "durability": 2000,
-    "resistances": {
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.2
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": null,
-    "reqs": "TTL = 135r",
-    "mats": {
-      "Megalodaunt Hide": 2,
-      "Cloth": 10,
-      "Fiber": 10,
-      "Iron": 5
-    },
-    "notes": 100
+    "notes": 50
   },
   "familiar_heretics_armor": {
     "name": "Familiar Heretic's Armor",
+    "category": "Unknown",
     "durability": 1300,
     "resistances": {
       "Flame Resistance": 0.25,
@@ -974,7 +588,7 @@
       "Ether Regen": 0
     },
     "talent": "Soul Rip",
-    "reqs": "TTL = 90r",
+    "reqs": "familiar_heretics_armor := 90r TTL",
     "mats": {
       "Rock": 1,
       "Cloth": 5,
@@ -984,27 +598,109 @@
   },
   "cutthroat_light_armor": {
     "name": "Cutthroat Light Armor",
+    "category": "Unknown",
     "durability": 1000,
     "resistances": {
-      "Slash Resistance": 0.1,
+      "Physical Resistance": 0.1,
+      "Slash Resistance": 0.1
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Hunter's Reflexes",
+    "reqs": "cutthroat_light_armor := 90r TTL",
+    "mats": {
+      "Crystal Lens": 1,
+      "Fiber": 4,
+      "Cloth": 4,
+      "Iron": 5
+    },
+    "notes": 30
+  },
+  "merchant_robes": {
+    "name": "Merchant Robes",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {},
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Mates' Rates",
+    "reqs": "merchant_robes := ()",
+    "mats": {
+      "Fiber": 5,
+      "Cloth": 5
+    },
+    "notes": 25
+  },
+  "keeper": {
+    "name": "Keeper",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.05,
+      "Wind Resistance": 0.1,
+      "Ice Resistance": 0.1,
+      "Elemental Resistance": 0.05
+    },
+    "extra_percents": {
+      "Ether Regen": 20,
+      "Extra Stealth": 0
+    },
+    "talent": null,
+    "reqs": "keeper := 10r INT, 90r TTL",
+    "mats": {
+      "Fiber": 3,
+      "Iron": 1,
+      "Cloth": 3
+    },
+    "notes": 25
+  },
+  "seamstresss_attire": {
+    "name": "Seamstress's Attire",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": null,
+    "reqs": "seamstresss_attire := 135r TTL",
+    "mats": {
+      "Fiber": 10,
+      "Cloth": 10,
+      "Megalodaunt Hide": 2,
+      "Iron": 5
+    },
+    "notes": 100
+  },
+  "traveler_jacket": {
+    "name": "Traveler Jacket",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
       "Physical Resistance": 0.1
     },
     "extra_percents": {
       "Extra Stealth": 0,
       "Ether Regen": 0
     },
-    "talent": "Hunter's Reflexes",
-    "reqs": "TTL = 90r",
+    "talent": null,
+    "reqs": "traveler_jacket := ()",
     "mats": {
-      "Cloth": 4,
-      "Fiber": 4,
-      "Crystal Lens": 1,
-      "Iron": 5
+      "Cloth": 1
     },
-    "notes": 30
+    "notes": 10
   },
   "skeptic_pioneer": {
     "name": "Skeptic Pioneer",
+    "category": "Unknown",
     "durability": 1200,
     "resistances": {
       "Elemental Resistance": 0.12,
@@ -1015,85 +711,21 @@
       "Ether Regen": 0
     },
     "talent": "Apothecary",
-    "reqs": "()",
+    "reqs": "skeptic_pioneer := ()",
     "mats": {
-      "Cloth": 5,
+      "Crystal Lens": 1,
       "Fiber": 5,
-      "Crystal Lens": 1
+      "Cloth": 5
     },
     "notes": 25
   },
-  "shadow_hunter": {
-    "name": "Shadow Hunter",
-    "durability": 1500,
-    "resistances": {
-      "Shadow Resistance": 0.1,
-      "Elemental Resistance": 0.05,
-      "Physical Resistance": 0.1
-    },
-    "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 0
-    },
-    "talent": "Now You See Me",
-    "reqs": "AGL = 10r",
-    "mats": {
-      "Fiber": 5,
-      "Cloth": 5,
-      "Gold": 2,
-      "Iron": 10
-    },
-    "notes": 0
-  },
-  "familiar_occulists_armor": {
-    "name": "Familiar Occulist's Armor",
-    "durability": 2000,
-    "resistances": {
-      "Physical Resistance": 0.25,
-      "Elemental Resistance": 0.25,
-      "Shadow Resistance": 0.2
-    },
-    "extra_percents": {
-      "Ether Regen": 50,
-      "Extra Stealth": 0
-    },
-    "talent": "Life Leech",
-    "reqs": "TTL = 240r",
-    "mats": {
-      "Fiber": 5,
-      "Hemobloom": 5,
-      "Cloth": 5,
-      "Bloodless Gem": 5
-    },
-    "notes": 10000
-  },
-  "carefree_garments": {
-    "name": "Carefree Garments",
-    "durability": 2000,
-    "resistances": {
-      "Elemental Resistance": 0.15,
-      "Physical Resistance": 0.1
-    },
-    "extra_percents": {
-      "Ether Regen": 0,
-      "Extra Stealth": 0
-    },
-    "talent": "Fleetfoot",
-    "reqs": "TTL = 105r",
-    "mats": {
-      "Iron": 1,
-      "Cloth": 4,
-      "Fiber": 5,
-      "Glass Stone": 1
-    },
-    "notes": 0
-  },
   "authority_peacekeeper_armour": {
     "name": "Authority Peacekeeper Armour",
+    "category": "Unknown",
     "durability": 1600,
     "resistances": {
-      "Elemental Resistance": 0.1,
       "Slash Resistance": 0.1,
+      "Elemental Resistance": 0.1,
       "Physical Resistance": 0.15,
       "Flame Resistance": 0.15
     },
@@ -1102,76 +734,142 @@
       "Extra Stealth": 0
     },
     "talent": "Now You See Me",
-    "reqs": "FTD = 5r, TTL = 90r",
-    "mats": {
-      "Cloth": 5,
-      "Iron": 1,
-      "Fiber": 5
-    },
-    "notes": 30
-  },
-  "familiar_assassins_armor": {
-    "name": "Familiar Assassin's Armor",
-    "durability": 2000,
-    "resistances": {
-      "Elemental Resistance": 0.25,
-      "Physical Resistance": 0.25
-    },
-    "extra_percents": {
-      "Ether Regen": 20,
-      "Extra Stealth": 50
-    },
-    "talent": "Bane",
-    "reqs": "TTL = 240r",
+    "reqs": "authority_peacekeeper_armour := 5r FTD, 90r TTL",
     "mats": {
       "Cloth": 5,
       "Fiber": 5,
-      "Emerald": 1
+      "Iron": 1
     },
-    "notes": 15000
+    "notes": 30
   },
-  "union_initiate": {
-    "name": "Union Initiate",
+  "whaler_initiate": {
+    "name": "Whaler Initiate",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
       "Elemental Resistance": 0.05,
-      "Physical Resistance": 0.15
+      "Physical Resistance": 0.25
+    },
+    "extra_percents": {
+      "Extra Stealth": 25,
+      "Ether Regen": 0
+    },
+    "talent": null,
+    "reqs": "whaler_initiate := 90r TTL",
+    "mats": {},
+    "notes": 0
+  },
+  "hired_mercenary": {
+    "name": "Hired Mercenary",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.15,
+      "Elemental Resistance": 0.1
     },
     "extra_percents": {
       "Extra Stealth": 0,
       "Ether Regen": 0
     },
     "talent": null,
-    "reqs": "TTL = 105r",
-    "mats": {},
-    "notes": 0
+    "reqs": "hired_mercenary := ()",
+    "mats": {
+      "Fiber": 5,
+      "Iron": 1,
+      "Cloth": 5
+    },
+    "notes": 25
   },
-  "grand_pathfinder_cloak": {
-    "name": "Grand Pathfinder Cloak",
-    "durability": 2000,
+  "diver_journeyman_robes": {
+    "name": "Diver Journeyman Robes",
+    "category": "Unknown",
+    "durability": 2500,
     "resistances": {
-      "Elemental Resistance": 0.2,
-      "Physical Resistance": 0.2
+      "Elemental Resistance": 0.3,
+      "Physical Resistance": 0.2,
+      "Blunt Resistance": 0.1
     },
     "extra_percents": {
       "Ether Regen": 0,
-      "Extra Stealth": 40
+      "Extra Stealth": 0
     },
-    "talent": "Legendary",
-    "reqs": "TTL = 165r",
+    "talent": null,
+    "reqs": "diver_journeyman_robes := 165r TTL",
     "mats": {
-      "Iron": 6,
-      "Erisore": 5,
-      "Dark Feather": 2,
       "Cloth": 5,
       "Fiber": 5,
-      "Gold": 5,
-      "Irithine": 5
+      "Megalodaunt Hide": 2,
+      "Rock": 1
     },
-    "notes": 150
+    "notes": 30
+  },
+  "diver_apprentice_robes": {
+    "name": "Diver Apprentice Robes",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.1,
+      "Elemental Resistance": 0.15
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 10
+    },
+    "talent": null,
+    "reqs": "diver_apprentice_robes := 10r INT, 90r TTL",
+    "mats": {
+      "Crystal Lens": 3,
+      "Fiber": 4,
+      "Cloth": 4
+    },
+    "notes": 50
+  },
+  "jesters_garb": {
+    "name": "Jester's Garb",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.35,
+      "Blunt Resistance": 0.15
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 50
+    },
+    "talent": "Mocking Favor",
+    "reqs": "jesters_garb := 195r TTL",
+    "mats": {
+      "Cloth": 7,
+      "Fiber": 5,
+      "Vibrant Gem": 10
+    },
+    "notes": 400
+  },
+  "pathfinder_sorcerer": {
+    "name": "Pathfinder Sorcerer",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Physical Resistance": 0.05,
+      "Elemental Resistance": 0.1
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Now You See Me",
+    "reqs": "pathfinder_sorcerer := 5r INT",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Rock": 1
+    },
+    "notes": 30
   },
   "pathfinder_arch-sorcerer": {
     "name": "Pathfinder Arch-Sorcerer",
+    "category": "Unknown",
     "durability": 1500,
     "resistances": {
       "Thunder Resistance": 0.1,
@@ -1180,42 +878,402 @@
       "Ice Resistance": 0.1
     },
     "extra_percents": {
-      "Extra Stealth": 0,
-      "Ether Regen": 40
+      "Ether Regen": 40,
+      "Extra Stealth": 0
     },
     "talent": "Devastating Power",
-    "reqs": "INT = 25r, TTL = 165r",
+    "reqs": "pathfinder_arch-sorcerer := 25r INT, 165r TTL",
     "mats": {
       "Fiber": 5,
-      "Irithine": 10,
       "Lionfish Scale": 1,
       "Strange Claw": 1,
+      "Irithine": 10,
       "Cloth": 5
     },
     "notes": 100
   },
+  "etrean_guard": {
+    "name": "Etrean Guard",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Unbreakable",
+    "reqs": "etrean_guard := 165r TTL",
+    "mats": {
+      "Fiber": 5,
+      "Cloth": 5,
+      "Megalodaunt Hide": 2,
+      "Erisore": 5
+    },
+    "notes": 30
+  },
+  "darksteel_plate": {
+    "name": "Darksteel Plate",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Unbreakable",
+    "reqs": "darksteel_plate := 20r FTD, 165r TTL",
+    "mats": {
+      "Strange Claw": 1,
+      "Fiber": 5,
+      "Erisore": 5,
+      "Cloth": 5,
+      "Dark Feather": 1
+    },
+    "notes": 300
+  },
+  "tricksters_habit": {
+    "name": "Trickster's Habit",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.35,
+      "Blunt Resistance": 0.15
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 50
+    },
+    "talent": "Mocking Favor",
+    "reqs": "tricksters_habit := 195r TTL",
+    "mats": {
+      "Cloth": 7,
+      "Fiber": 5,
+      "Vibrant Gem": 10
+    },
+    "notes": 400
+  },
+  "familiar_knights_armor": {
+    "name": "Familiar Knight's Armor",
+    "category": "Unknown",
+    "durability": 1300,
+    "resistances": {
+      "Flame Resistance": 0.25,
+      "Slash Resistance": 0.1,
+      "Physical Resistance": 0.15
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Hyperbody",
+    "reqs": "familiar_knights_armor := 90r TTL",
+    "mats": {
+      "Fiber": 5,
+      "Rock": 1,
+      "Cloth": 5
+    },
+    "notes": 30
+  },
+  "eager_tradesman": {
+    "name": "Eager Tradesman",
+    "category": "Unknown",
+    "durability": 1000,
+    "resistances": {
+      "Elemental Resistance": 0.05,
+      "Physical Resistance": 0.1
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Knack",
+    "reqs": "eager_tradesman := ()",
+    "mats": {
+      "Cloth": 3,
+      "Fiber": 3
+    },
+    "notes": 0
+  },
+  "familiar_demons_armor": {
+    "name": "Familiar Demon's Armor",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Elemental Resistance": 0.25,
+      "Flame Resistance": 0.1,
+      "Physical Resistance": 0.25
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 10
+    },
+    "talent": "Demon Step",
+    "reqs": "familiar_demons_armor := 240r TTL",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Dread Serpent's Tooth": 1
+    },
+    "notes": 5000
+  },
+  "familiar_occulists_armor": {
+    "name": "Familiar Occulist's Armor",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Shadow Resistance": 0.2,
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.25
+    },
+    "extra_percents": {
+      "Ether Regen": 50,
+      "Extra Stealth": 0
+    },
+    "talent": "Life Leech",
+    "reqs": "familiar_occulists_armor := 240r TTL",
+    "mats": {
+      "Cloth": 5,
+      "Fiber": 5,
+      "Hemobloom": 5,
+      "Bloodless Gem": 5
+    },
+    "notes": 10000
+  },
+  "pathfinder_cloak": {
+    "name": "Pathfinder Cloak",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Physical Resistance": 0.18,
+      "Elemental Resistance": 0.08
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Environmentalist",
+    "reqs": "pathfinder_cloak := 90r TTL",
+    "mats": {
+      "Fiber": 4,
+      "Cloth": 4,
+      "Iron": 6
+    },
+    "notes": 30
+  },
+  "vigil_initiate": {
+    "name": "Vigil Initiate",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Physical Resistance": 0.2,
+      "Blunt Resistance": 0.1
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Paired Soul",
+    "reqs": "vigil_initiate := 90r TTL",
+    "mats": {
+      "Iron": 4,
+      "Cloth": 5,
+      "Fiber,": 5
+    },
+    "notes": 0
+  },
+  "corsair_outlaw": {
+    "name": "Corsair Outlaw",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Elemental Resistance": 0.1,
+      "Physical Resistance": 0.15
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Lightweight",
+    "reqs": "corsair_outlaw := ()",
+    "mats": {
+      "Aeon Longstone": 1,
+      "Fiber": 5,
+      "Cloth": 5
+    },
+    "notes": 0
+  },
+  "verdant_sniper": {
+    "name": "Verdant Sniper",
+    "category": "Unknown",
+    "durability": 1500,
+    "resistances": {
+      "Wind Resistance": 0.1,
+      "Physical Resistance": 0.25,
+      "Elemental Resistance": 0.2
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": null,
+    "reqs": "verdant_sniper := 165r TTL",
+    "mats": {
+      "Vibrant Gems": 2,
+      "Cloth": 10,
+      "Megalodaunt Hide": 2
+    },
+    "notes": 100
+  },
+  "vigil_sentinel": {
+    "name": "Vigil Sentinel",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Wind Resistance": 0.25,
+      "Flame Resistance": 0.1,
+      "Shadow Resistance": 0.1,
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.3
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 25
+    },
+    "talent": "Vigil's Grace",
+    "reqs": "vigil_sentinel := 5r WLL, 165r TTL",
+    "mats": {
+      "Fiber": 5,
+      "Cloth": 5,
+      "Vibrant Gem": 5,
+      "Gale Stone": 5,
+      "Irithine": 5,
+      "Wind Gem": 1
+    },
+    "notes": 1000
+  },
+  "martial_artist": {
+    "name": "Martial Artist",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Elemental Resistance": 0.2,
+      "Flame Resistance": 0.05,
+      "Physical Resistance": 0.3
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": "Bruiser's Mixup",
+    "reqs": "martial_artist := 15r STR, 165r TTL",
+    "mats": {
+      "Cloth": 7,
+      "Odd Tentacle": 1,
+      "Fiber": 5
+    },
+    "notes": 0
+  },
+  "ferrymans_coat": {
+    "name": "Ferryman's Coat",
+    "category": "Unknown",
+    "durability": 2500,
+    "resistances": {
+      "Elemental Resistance": 0.35,
+      "Physical Resistance": 0.2,
+      "Wind Resistance": 0.05,
+      "Thunder Resistance": 0.25,
+      "Blunt Resistance": 0.05
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 50
+    },
+    "talent": "Ferryman's Curse",
+    "reqs": "ferrymans_coat := 195r TTL",
+    "mats": {
+      "Vibrant Gems": 10,
+      "Void Feather": 1,
+      "Fiber": 5,
+      "Cloth": 7,
+      "Spark Glands": 5
+    },
+    "notes": 400
+  },
+  "ignition_union_uniform": {
+    "name": "Ignition Union Uniform",
+    "category": "Unknown",
+    "durability": 2000,
+    "resistances": {
+      "Elemental Resistance": 0.22,
+      "Physical Resistance": 0.22
+    },
+    "extra_percents": {
+      "Ether Regen": 0,
+      "Extra Stealth": 0
+    },
+    "talent": null,
+    "reqs": "ignition_union_uniform := 105r TTL",
+    "mats": {
+      "Fiber": 5,
+      "Cloth": 5,
+      "Irithine": 3,
+      "Lionfish Scale": 1
+    },
+    "notes": 0
+  },
+  "hive_tactician_armor": {
+    "name": "Hive Tactician Armor",
+    "category": "Unknown",
+    "durability": 1200,
+    "resistances": {
+      "Physical Resistance": 0.3,
+      "Elemental Resistance": 0.2,
+      "Wind Resistance": 0.1
+    },
+    "extra_percents": {
+      "Extra Stealth": 0,
+      "Ether Regen": 0
+    },
+    "talent": "Brunt",
+    "reqs": "hive_tactician_armor := 25r AGL, 165r TTL",
+    "mats": {
+      "Dark Feather": 2,
+      "Vibrant Gems": 3,
+      "Cloth": 5,
+      "Iron": 2
+    },
+    "notes": 0
+  },
   "cala-mariner": {
     "name": "Cala-Mariner",
+    "category": "Unknown",
     "durability": 2200,
     "resistances": {
       "Blood Resistance": 0.25,
+      "Elemental Resistance": 0.35,
       "Physical Resistance": 0.25,
-      "Wind Resistance": 0.3,
-      "Elemental Resistance": 0.35
+      "Wind Resistance": 0.3
     },
     "extra_percents": {
-      "Ether Regen": 45,
-      "Extra Stealth": 0
+      "Extra Stealth": 0,
+      "Ether Regen": 45
     },
     "talent": "Tidal Shock",
-    "reqs": "WLL = 5r, TTL = 240r",
+    "reqs": "cala-mariner := 5r WLL, 240r TTL",
     "mats": {
-      "Nautilodaunt Beak": 1,
-      "Cloth": 3,
-      "Odd Tentacles": 5,
-      "Vibrant Gems": 10,
       "Fiber": 4,
-      "Blue Gem": 1
+      "Odd Tentacles": 5,
+      "Cloth": 3,
+      "Blue Gem": 1,
+      "Nautilodaunt Beak": 1,
+      "Vibrant Gems": 10
     },
     "notes": 2200
   }

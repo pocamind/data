@@ -1,10 +1,10 @@
 {
-  "second_interrogation": {
-    "name": "Second Interrogation",
-    "desc": "Opponents who are electrified do 50% less damage to you and do 50% less posture damage to you.",
+  "authority_intimidation": {
+    "name": "Authority Intimidation",
+    "desc": "Lightning moves slow your opponent more.",
     "rarity": "Common",
     "category": "Authority Interrogator",
-    "reqs": "first_interrogation => LTN = 65s",
+    "reqs": "thundercaller => authority_intimidation := 60s LTN",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "authority_intimidation": {
-    "name": "Authority Intimidation",
-    "desc": "Lightning moves slow your opponent more.",
+  "second_interrogation": {
+    "name": "Second Interrogation",
+    "desc": "Opponents who are electrified do 50% less damage to you and do 50% less posture damage to you.",
     "rarity": "Common",
     "category": "Authority Interrogator",
-    "reqs": "thundercaller => LTN = 60s",
+    "reqs": "first_interrogation => second_interrogation := 65s LTN",
     "exclusive": [
       ""
     ],
@@ -30,7 +30,7 @@
     "desc": "Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply 'Electrified' to your opponent. Attacks from Electrified opponents are converted into Lightning damage, but will deal 10% less damage to you.",
     "rarity": "Common",
     "category": "Authority Interrogator",
-    "reqs": "thundercaller => LTN = 65s",
+    "reqs": "thundercaller => resolve_crusher := 65s LTN",
     "exclusive": [
       ""
     ],
@@ -43,7 +43,7 @@
     "desc": "Attacks from opponents who are Electrified will give you Ether proportional to their initial damage.",
     "rarity": "Common",
     "category": "Authority Interrogator",
-    "reqs": "resolve_crusher => LTN = 65s",
+    "reqs": "resolve_crusher => first_interrogation := 65s LTN",
     "exclusive": [
       ""
     ],

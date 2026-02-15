@@ -4,7 +4,7 @@
     "desc": "Getting hit while knocked no longer resets your time knocked.",
     "rarity": "Rare",
     "category": "Meditative Trance",
-    "reqs": "FTD = 35s",
+    "reqs": "impervious_slumber := 35s FTD",
     "exclusive": [
       ""
     ],

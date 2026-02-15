@@ -4,7 +4,7 @@
     "desc": "Your lightning attacks in water strike others near them with lightning.",
     "rarity": "Common",
     "category": "Rampant Static",
-    "reqs": "LTN = 35s",
+    "reqs": "jolting_current := 35s LTN",
     "exclusive": [
       ""
     ],

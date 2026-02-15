@@ -4,7 +4,7 @@
     "desc": "You have gained the ability to surpass your limits and train your frostdraw to its fullest.\n[Note: Falling below 75 Frostdraw revokes this Talent.]",
     "rarity": "Common",
     "category": "Frostdraw Master",
-    "reqs": "ICE = 75s",
+    "reqs": "frostdraw_unbounded := 75s ICE",
     "exclusive": [
       ""
     ],

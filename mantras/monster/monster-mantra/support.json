@@ -1,16 +1,4 @@
 {
-  "disguise": {
-    "name": "Disguise",
-    "desc": "Take on an unimaginable disguise.",
-    "stars": 0,
-    "category": "Support",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "CHA = 21r",
-    "vaulted": false
-  },
   "enforcer_pull": {
     "name": "Enforcer Pull",
     "desc": "Pull enemies towards you.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "()",
+    "reqs": "enforcer_pull := ()",
+    "vaulted": false
+  },
+  "disguise": {
+    "name": "Disguise",
+    "desc": "Take on an unimaginable disguise.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "disguise := 21r CHA",
     "vaulted": false
   }
 }

@@ -1,10 +1,10 @@
 {
-  "another_mans_trash": {
-    "name": "Another Man's Trash",
-    "desc": "Take unequipped equipment when mugging a player.",
-    "rarity": "Advanced",
+  "pickpocket": {
+    "name": "Pickpocket",
+    "desc": "Gain the ability to pickpocket by pressing \"N\" on a downed person.",
+    "rarity": "Common",
     "category": "Thief",
-    "reqs": "cap_artist, pickpocket, master_thief => AGL = 10s, CHA = 35s",
+    "reqs": "pickpocket := 5s AGL, 10s CHA",
     "exclusive": [
       ""
     ],
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "pickpocket": {
-    "name": "Pickpocket",
-    "desc": "Gain the ability to pickpocket by pressing \"N\" on a downed person.",
-    "rarity": "Common",
+  "another_mans_trash": {
+    "name": "Another Man's Trash",
+    "desc": "Take unequipped equipment when mugging a player.",
+    "rarity": "Advanced",
     "category": "Thief",
-    "reqs": "AGL = 5s, CHA = 10s",
+    "reqs": "cap_artist, pickpocket, master_thief => another_mans_trash := 10s AGL, 35s CHA",
     "exclusive": [
       ""
     ],
@@ -34,7 +34,7 @@
     "desc": "Gain more notes when mugging a player.",
     "rarity": "Common",
     "category": "Thief",
-    "reqs": "pickpocket => CHA = 25s",
+    "reqs": "pickpocket => master_thief := 25s CHA",
     "exclusive": [
       ""
     ],
@@ -47,7 +47,7 @@
     "desc": "Pressing [R] while crouching allows you to fake being dead.",
     "rarity": "Common",
     "category": "Thief",
-    "reqs": "CHA = 5s, AGL = 25s",
+    "reqs": "cap_artist := 5s CHA, 25s AGL",
     "exclusive": [
       ""
     ],

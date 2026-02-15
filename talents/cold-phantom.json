@@ -4,7 +4,7 @@
     "desc": "Your Haunted Gale now procs Chilled.",
     "rarity": "Common",
     "category": "Cold Phantom",
-    "reqs": "haunted_gale => ICE = 40s",
+    "reqs": "haunted_gale => freezing_wight := 40s ICE",
     "exclusive": [
       ""
     ],

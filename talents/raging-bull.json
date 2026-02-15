@@ -1,10 +1,23 @@
 {
+  "bulldozer": {
+    "name": "Bulldozer",
+    "desc": "Enemies you flourish into walls have a chance of breaking the wall and are guard broken on impact.",
+    "rarity": "Rare",
+    "category": "Raging Bull",
+    "reqs": "bulldozer := 25s STR",
+    "exclusive": [
+      "Dazing_Finisher"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "piercing_blow": {
     "name": "Piercing Blow",
     "desc": "Attacks that break an opponent's block ignore their Armor resistances.",
     "rarity": "Advanced",
     "category": "Raging Bull",
-    "reqs": "STR = 100s",
+    "reqs": "piercing_blow := 100s STR",
     "exclusive": [
       ""
     ],
@@ -17,22 +30,9 @@
     "desc": "Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD",
     "rarity": "Common",
     "category": "Raging Bull",
-    "reqs": "STR = 70s",
+    "reqs": "broken_ankles := 70s STR",
     "exclusive": [
       ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "bulldozer": {
-    "name": "Bulldozer",
-    "desc": "Enemies you flourish into walls have a chance of breaking the wall and are guard broken on impact.",
-    "rarity": "Rare",
-    "category": "Raging Bull",
-    "reqs": "STR = 25s",
-    "exclusive": [
-      "Dazing_Finisher"
     ],
     "innates": {},
     "not_counted_towards_total": false,

@@ -4,7 +4,7 @@
     "desc": "Grip players faster whenever you have a speed boost active.",
     "rarity": "Common",
     "category": "Cutthroat",
-    "reqs": "AGL = 30s",
+    "reqs": "in_a_hurry := 30s AGL",
     "exclusive": [
       ""
     ],
@@ -19,7 +19,7 @@
     "desc": "You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reduce the effectiveness of talents that slow your execution.",
     "rarity": "Common",
     "category": "Cutthroat",
-    "reqs": "AGL = 50s",
+    "reqs": "muffled_screams := 50s AGL",
     "exclusive": [
       ""
     ],
@@ -34,7 +34,7 @@
     "desc": "Gain a speed boost after causing an opponent heavy blood loss.",
     "rarity": "Common",
     "category": "Cutthroat",
-    "reqs": "AGL = 45s",
+    "reqs": "blood_thirsty := 45s AGL",
     "exclusive": [
       ""
     ],

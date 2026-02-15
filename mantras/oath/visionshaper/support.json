@@ -8,7 +8,7 @@
     "attributes": [
       "Visionshaper"
     ],
-    "reqs": "oath_visionshaper => ()",
+    "reqs": "oath_visionshaper => mirror_illusion := ()",
     "vaulted": false
   }
 }

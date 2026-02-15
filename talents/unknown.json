@@ -1,23 +1,10 @@
 {
-  "grotesque_resilience": {
-    "name": "Grotesque Resilience",
-    "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
-    "rarity": "Equipment",
+  "silencers_song_med": {
+    "name": "Silencer's Song [MED]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
     "category": "Unknown",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "overwhelming_might": {
-    "name": "Overwhelming Might",
-    "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
-    "rarity": "Outfit",
-    "category": "Unknown",
-    "reqs": "STR = 30s",
+    "reqs": "silencers_blade => silencers_song_med := 100r MED, 100s WND",
     "exclusive": [
       ""
     ],
@@ -30,7 +17,7 @@
     "desc": "The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.",
     "rarity": "Equipment",
     "category": "Unknown",
-    "reqs": "()",
+    "reqs": "jetstream := ()",
     "exclusive": [
       ""
     ],
@@ -41,38 +28,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "silencers_song_hvy": {
-    "name": "Silencer's Song [HVY]",
-    "desc": "Silencer's Blade now procs on your mantras.",
-    "rarity": "Common",
-    "category": "Unknown",
-    "reqs": "silencers_blade => HVY = 100r, WND = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "silencers_song_med": {
-    "name": "Silencer's Song [MED]",
-    "desc": "Silencer's Blade now procs on your mantras.",
-    "rarity": "Common",
-    "category": "Unknown",
-    "reqs": "silencers_blade => MED = 100r, WND = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "simmerbloom": {
-    "name": "Simmerbloom",
-    "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
+  "umami": {
+    "name": "Umami",
+    "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
     "rarity": "Equipment",
     "category": "Unknown",
-    "reqs": "FLM = 85s",
+    "reqs": "umami := ()",
     "exclusive": [
       ""
     ],
@@ -85,7 +46,7 @@
     "desc": "Silencer's Blade now procs on your mantras.",
     "rarity": "Common",
     "category": "Unknown",
-    "reqs": "silencers_blade => LHT = 100r, WND = 100s",
+    "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
     "exclusive": [
       ""
     ],
@@ -93,12 +54,51 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "umami": {
-    "name": "Umami",
-    "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
+  "grotesque_resilience": {
+    "name": "Grotesque Resilience",
+    "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
     "rarity": "Equipment",
     "category": "Unknown",
-    "reqs": "()",
+    "reqs": "grotesque_resilience := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "overwhelming_might": {
+    "name": "Overwhelming Might",
+    "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
+    "rarity": "Outfit",
+    "category": "Unknown",
+    "reqs": "overwhelming_might := 30s STR",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "silencers_song_hvy": {
+    "name": "Silencer's Song [HVY]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
+    "category": "Unknown",
+    "reqs": "silencers_blade => silencers_song_hvy := 100r HVY, 100s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "simmerbloom": {
+    "name": "Simmerbloom",
+    "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "simmerbloom := 85s FLM",
     "exclusive": [
       ""
     ],

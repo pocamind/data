@@ -4,7 +4,7 @@
     "desc": "You hold onto more of your items when defeated.",
     "rarity": "Common",
     "category": "Escape Artist",
-    "reqs": "()",
+    "reqs": "robber_baron := ()",
     "exclusive": [
       ""
     ],

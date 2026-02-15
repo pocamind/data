@@ -1,26 +1,14 @@
 {
-  "masters_flourish": {
-    "name": "Master's Flourish",
-    "desc": "A powerful slash that chips through block and slashes through armor.",
+  "prominence_draw": {
+    "name": "Prominence Draw",
+    "desc": "Close the distance and deliver a fast slash.",
     "stars": 0,
     "category": "Combat",
     "type": "Attunementless",
     "attributes": [
       "Medium Weapons"
     ],
-    "reqs": "MED = 30r",
-    "vaulted": false
-  },
-  "slice_n_dice": {
-    "name": "Slice 'n' Dice",
-    "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Medium Weapons"
-    ],
-    "reqs": "MED = 60r",
+    "reqs": "prominence_draw := 50r MED",
     "vaulted": false
   },
   "flashdraw_strike": {
@@ -32,19 +20,7 @@
     "attributes": [
       "Medium Weapons"
     ],
-    "reqs": "AGL = 25r, MED = 60r",
-    "vaulted": false
-  },
-  "prominence_draw": {
-    "name": "Prominence Draw",
-    "desc": "Close the distance and deliver a fast slash.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Medium Weapons"
-    ],
-    "reqs": "MED = 50r",
+    "reqs": "flashdraw_strike := 25r AGL, 60r MED",
     "vaulted": false
   },
   "twincleave": {
@@ -56,7 +32,31 @@
     "attributes": [
       "Medium Weapons"
     ],
-    "reqs": "MED = 50r",
+    "reqs": "twincleave := 50r MED",
+    "vaulted": false
+  },
+  "masters_flourish": {
+    "name": "Master's Flourish",
+    "desc": "A powerful slash that chips through block and slashes through armor.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "masters_flourish := 30r MED",
+    "vaulted": false
+  },
+  "slice_n_dice": {
+    "name": "Slice 'n' Dice",
+    "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Medium Weapons"
+    ],
+    "reqs": "slice_n_dice := 60r MED",
     "vaulted": false
   }
 }

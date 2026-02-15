@@ -3,7 +3,7 @@
     "name": "Guiding Star",
     "type": "Bow",
     "damage_type": "Slash",
-    "reqs": "INT = 25r OR WLL = 25r OR CHA = 25r, MED = 75r",
+    "reqs": "guiding_star := 25r INT OR 25r WLL OR 25r CHA, 75r MED",
     "damage": 14.0,
     "pen": 0.0,
     "chip": 0.0,

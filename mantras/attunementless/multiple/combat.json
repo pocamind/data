@@ -1,16 +1,4 @@
 {
-  "twinstrikes": {
-    "name": "Twinstrikes",
-    "desc": "Launch quick and devastating kicks.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Multiple"
-    ],
-    "reqs": "AGL = 40r, STR = 60r",
-    "vaulted": false
-  },
   "tacet_drop_kick": {
     "name": "Tacet Drop Kick",
     "desc": "[Jus Karita] Disguise yourself in tacet and drop kick your enemies.",
@@ -20,7 +8,19 @@
     "attributes": [
       "Multiple"
     ],
-    "reqs": "jus_karita => STR = 5r",
+    "reqs": "jus_karita => tacet_drop_kick := 5r STR",
+    "vaulted": false
+  },
+  "twinstrikes": {
+    "name": "Twinstrikes",
+    "desc": "Launch quick and devastating kicks.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "twinstrikes := 40r AGL, 60r STR",
     "vaulted": false
   }
 }

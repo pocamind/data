@@ -1,14 +1,14 @@
 {
-  "permafrost_prison": {
-    "name": "Permafrost Prison",
-    "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
-    "stars": 2,
+  "soul_beam": {
+    "name": "Soul Beam",
+    "desc": "Unknown",
+    "stars": 0,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Multiple"
     ],
-    "reqs": "ICE = 30r, SDW = 30r",
+    "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
     "vaulted": false
   },
   "flashfire_sweep": {
@@ -20,7 +20,19 @@
     "attributes": [
       "Multiple"
     ],
-    "reqs": "FLM = 30r, LTN = 30r",
+    "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
+    "vaulted": false
+  },
+  "permafrost_prison": {
+    "name": "Permafrost Prison",
+    "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "permafrost_prison := 30r ICE, 30r SDW",
     "vaulted": false
   },
   "iron_tether": {
@@ -32,19 +44,7 @@
     "attributes": [
       "Multiple"
     ],
-    "reqs": "LTN = 30r, MTL = 30r",
-    "vaulted": false
-  },
-  "soul_beam": {
-    "name": "Soul Beam",
-    "desc": "Unknown",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Multiple"
-    ],
-    "reqs": "chorus_of_souls, oath_oathless => ()",
+    "reqs": "iron_tether := 30r LTN, 30r MTL",
     "vaulted": false
   }
 }

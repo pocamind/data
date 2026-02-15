@@ -8,7 +8,7 @@
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 50r",
+    "reqs": "wind_passage := 50r WND",
     "vaulted": false
   }
 }

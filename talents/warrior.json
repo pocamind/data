@@ -1,25 +1,10 @@
 {
-  "critical_attack": {
-    "name": "Critical Attack",
-    "desc": "Landing a hit with your critical restores 30% Posture.",
-    "rarity": "Quest",
-    "category": "Warrior",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "chronostasis": {
     "name": "Chronostasis",
     "desc": "Landing a Basic Attack or Critical Strike now puts target's resonance on cooldown for a short duration.",
     "rarity": "Rare",
     "category": "Warrior",
-    "reqs": "engage => ()",
+    "reqs": "engage => chronostasis := ()",
     "exclusive": [
       ""
     ],
@@ -34,11 +19,26 @@
     "desc": "Landing a Basic Attack slightly restores some of your Ether.",
     "rarity": "Quest",
     "category": "Warrior",
-    "reqs": "()",
+    "reqs": "engage := ()",
     "exclusive": [
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "critical_attack": {
+    "name": "Critical Attack",
+    "desc": "Landing a hit with your critical restores 30% Posture.",
+    "rarity": "Quest",
+    "category": "Warrior",
+    "reqs": "critical_attack := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 1
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }
