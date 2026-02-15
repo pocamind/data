@@ -21,7 +21,7 @@ jobs:
             [[ "$dir_name" == .* ]] && continue
 
             if ls "$dir_name"/*.json &>/dev/null; then
-              cat "$dir_name"/*.json | jq -s '.' > ".bundled/${dir_name}.json"
+              cat "$dir_name"/*.json | jq -s 'add' > ".bundled/${dir_name}.json"
             fi
           done
 
