@@ -1,5 +1,5 @@
 {
-  "smell of blood": {
+  "smell_of_blood": {
     "name": "Smell of Blood",
     "desc": "When people touch a blood pool, briefly see their blood and blood poison.\n[*Note: This Talent does proc on guardbreaks.]",
     "rarity": "Rare",
@@ -9,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "bloodwarden's sense": {
+  "bloodwardens_sense": {
     "name": "Bloodwarden's Sense",
     "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted briefly.",
     "rarity": "Common",
@@ -22,7 +22,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

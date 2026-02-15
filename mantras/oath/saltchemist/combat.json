@@ -1,5 +1,5 @@
 {
-  "lethal injection": {
+  "lethal_injection": {
     "name": "Lethal Injection",
     "desc": "Inject all of your readied Autobrews into your target. This might sting.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Saltchemist"
     ],
-    "reqs": "oath: saltchemist => ()",
+    "reqs": "oath_saltchemist => ()",
     "vaulted": false
   }
 }

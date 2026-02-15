@@ -1,18 +1,5 @@
 {
-  "speed emission": {
-    "name": "Speed Emission",
-    "desc": "Gain a slight speed boost after landing a vent.",
-    "rarity": "Common",
-    "category": "Nimble Blade",
-    "reqs": "AGL = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "lightspeed reflexes": {
+  "lightspeed_reflexes": {
     "name": "Lightspeed Reflexes",
     "desc": "Feinting gives a brief auto-parry window.",
     "rarity": "Rare",
@@ -24,10 +11,10 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "fast blade": {
+  "fast_blade": {
     "name": "Fast Blade",
     "desc": "Increase the speed boost you get from successfully parrying an attack.",
     "rarity": "Common",
@@ -39,7 +26,20 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "speed_emission": {
+    "name": "Speed Emission",
+    "desc": "Gain a slight speed boost after landing a vent.",
+    "rarity": "Common",
+    "category": "Nimble Blade",
+    "reqs": "AGL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

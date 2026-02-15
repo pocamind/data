@@ -1,5 +1,36 @@
 {
-  "precise swing": {
+  "tap_dancer": {
+    "name": "Tap Dancer",
+    "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
+    "rarity": "Rare",
+    "category": "Duelist",
+    "reqs": "AGL = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "strong_hold": {
+    "name": "Strong Hold",
+    "desc": "[Medium Weapons] When above half health and two-handling, posture damage taken is reduced by 5%.",
+    "rarity": "Common",
+    "category": "Duelist",
+    "reqs": "STR = 30s, MED = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 9,
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "precise_swing": {
     "name": "Precise Swing",
     "desc": "After landing a critical your next basic attack will have +25% chip damage.",
     "rarity": "Common",
@@ -12,10 +43,25 @@
       "Passive Agility": 1,
       "Carry Load": 9
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "steady nerves": {
+  "strong_stern": {
+    "name": "Strong Stern",
+    "desc": "The duration you are dazed from wall bangs is cut in half.",
+    "rarity": "Rare",
+    "category": "Duelist",
+    "reqs": "STR = 15s, FTD = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 9
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "steady_nerves": {
     "name": "Steady Nerves",
     "desc": "You dance from toe to toe - successful dodges restore posture.",
     "rarity": "Common",
@@ -28,22 +74,22 @@
       "Carry Load": 7,
       "Passive Agility": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "strong stern": {
-    "name": "Strong Stern",
-    "desc": "The duration you are dazed from wall bangs is cut in half.",
-    "rarity": "Rare",
+  "concussive_force": {
+    "name": "Concussive Force",
+    "desc": "Enemies you knocked remain downed longer than usual.",
+    "rarity": "Common",
     "category": "Duelist",
-    "reqs": "STR = 15s, FTD = 25s",
+    "reqs": "STR = 15s",
     "exclusive": [
       ""
     ],
     "innates": {
       "Carry Load": 9
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "concussion": {
@@ -58,56 +104,10 @@
     "innates": {
       "Carry Load": 8
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "concussive force": {
-    "name": "Concussive Force",
-    "desc": "Enemies you knocked remain downed longer than usual.",
-    "rarity": "Common",
-    "category": "Duelist",
-    "reqs": "STR = 15s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 9
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "strong hold": {
-    "name": "Strong Hold",
-    "desc": "[Medium Weapons] When above half health and two-handling, posture damage taken is reduced by 5%.",
-    "rarity": "Common",
-    "category": "Duelist",
-    "reqs": "STR = 30s, MED = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 9,
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "tap dancer": {
-    "name": "Tap Dancer",
-    "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
-    "rarity": "Rare",
-    "category": "Duelist",
-    "reqs": "AGL = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "spine cutter": {
+  "spine_cutter": {
     "name": "Spine Cutter",
     "desc": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.",
     "rarity": "Rare",
@@ -117,10 +117,10 @@
       ""
     ],
     "innates": {
-      "Carry Load": 6,
-      "Passive Agility": 2
+      "Passive Agility": 2,
+      "Carry Load": 6
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

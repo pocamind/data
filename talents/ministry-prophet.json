@@ -1,5 +1,5 @@
 {
-  "crippling darkness": {
+  "crippling_darkness": {
     "name": "Crippling Darkness",
     "desc": "Your non-basic attacks have 20% PEN.",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "blade of saints": {
+  "blade_of_saints": {
     "name": "Blade of Saints",
     "desc": "Conjure a blade attack depending on your Saint Stance.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Saintsworn"
     ],
-    "reqs": "oath: saintsworn => ()",
+    "reqs": "oath_saintsworn => ()",
     "vaulted": false
   }
 }

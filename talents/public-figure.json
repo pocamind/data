@@ -1,5 +1,5 @@
 {
-  "under the radar": {
+  "under_the_radar": {
     "name": "Under The Radar",
     "desc": "The negative reputation threshold for a faction to put up on bounty posters is now higher.",
     "rarity": "Common",
@@ -11,10 +11,10 @@
     "innates": {
       "Health": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "you'll need to get past me": {
+  "youll_need_to_get_past_me": {
     "name": "You'll Need To Get Past Me",
     "desc": "When you're attacked, one of your many allies will leap into action to protect their boss.\n[*Note: 65s CD at 20 Charisma, 55s CD at 100 Charisma.]",
     "rarity": "Common",
@@ -24,7 +24,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "celebrity": {
@@ -37,7 +37,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,20 +1,5 @@
 {
-  "magical resolve": {
-    "name": "Magical Resolve",
-    "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
-    "rarity": "Common",
-    "category": "Sturdy Resolve",
-    "reqs": "battle tendency => FTD = 15s, WLL = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 7
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "grasp on reality": {
+  "grasp_on_reality": {
     "name": "Grasp on Reality",
     "desc": "Damage taken from insanity is reduced.",
     "rarity": "Common",
@@ -24,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "unfazed": {
@@ -32,12 +17,27 @@
     "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
     "rarity": "Common",
     "category": "Sturdy Resolve",
-    "reqs": "grasp on reality => FTD = 50s, WLL = 50s",
+    "reqs": "grasp_on_reality => FTD = 50s, WLL = 50s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "magical_resolve": {
+    "name": "Magical Resolve",
+    "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
+    "rarity": "Common",
+    "category": "Sturdy Resolve",
+    "reqs": "battle_tendency => FTD = 15s, WLL = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 7
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,15 +1,15 @@
 {
-  "rule through fear": {
-    "name": "Rule Through Fear",
-    "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
-    "rarity": "Rare",
+  "no_survivors": {
+    "name": "No Survivors",
+    "desc": "Your allies and yourself execute faster while affected by Overcharm.",
+    "rarity": "Common",
     "category": "Tyrant",
-    "reqs": "STR = 50s, CHA = 85s",
+    "reqs": "STR = 45s, CHA = 80s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "audacity": {
@@ -24,20 +24,20 @@
     "innates": {
       "Posture": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "no survivors": {
-    "name": "No Survivors",
-    "desc": "Your allies and yourself execute faster while affected by Overcharm.",
-    "rarity": "Common",
+  "rule_through_fear": {
+    "name": "Rule Through Fear",
+    "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+    "rarity": "Rare",
     "category": "Tyrant",
-    "reqs": "STR = 45s, CHA = 80s",
+    "reqs": "STR = 50s, CHA = 85s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

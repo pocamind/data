@@ -1,42 +1,42 @@
 {
-  "glass path: crystallization": {
+  "reclaimed_glass": {
+    "name": "Reclaimed Glass",
+    "desc": "Your crystal shrapnel explosions now grant you and any allies caught in them for 10% Elemental Resistance for 10s.",
+    "rarity": "Common",
+    "category": "Glassdancer",
+    "reqs": "crystal_shrapnel => ICE = 65s",
+    "exclusive": [
+      "Unyielding_Frost"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "glass_path_crystallization": {
     "name": "Glass Path: Crystallization",
     "desc": "Your Ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.",
     "rarity": "Common",
     "category": "Glassdancer",
     "reqs": "frostdrawer => ICE = 40s",
     "exclusive": [
-      "Unyielding Frost",
+      "Unyielding_Frost",
       "Flashboil"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "reclaimed glass": {
-    "name": "Reclaimed Glass",
-    "desc": "Your crystal shrapnel explosions now grant you and any allies caught in them for 10% Elemental Resistance for 10s.",
-    "rarity": "Common",
-    "category": "Glassdancer",
-    "reqs": "crystal shrapnel => ICE = 65s",
-    "exclusive": [
-      "Unyielding Frost"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "crystal shrapnel": {
+  "crystal_shrapnel": {
     "name": "Crystal Shrapnel",
     "desc": "Your Crystal explosions now have an AoE that applies crystals to all hit.",
     "rarity": "Common",
     "category": "Glassdancer",
-    "reqs": "glass path: crystallization => ICE = 60s",
+    "reqs": "glass_path_crystallization => ICE = 60s",
     "exclusive": [
-      "Unyielding Frost"
+      "Unyielding_Frost"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

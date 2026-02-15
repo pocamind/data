@@ -1,30 +1,4 @@
 {
-  "tainted ground": {
-    "name": "Tainted Ground",
-    "desc": "Enemies who stand in blood pools will not decay blood poison.",
-    "rarity": "Common",
-    "category": "Septicemia",
-    "reqs": "BLD = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hemolytic transfusion": {
-    "name": "Hemolytic Transfusion",
-    "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
-    "rarity": "Common",
-    "category": "Septicemia",
-    "reqs": "BLD = 65s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
   "hemolysis": {
     "name": "Hemolysis",
     "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
@@ -35,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "gruesome harvest": {
+  "gruesome_harvest": {
     "name": "Gruesome Harvest",
     "desc": "Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.",
     "rarity": "Advanced",
@@ -48,20 +22,46 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "panacea": {
-    "name": "Panacea",
-    "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
-    "rarity": "Rare",
+  "tainted_ground": {
+    "name": "Tainted Ground",
+    "desc": "Enemies who stand in blood pools will not decay blood poison.",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "BLD = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hemolytic_transfusion": {
+    "name": "Hemolytic Transfusion",
+    "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
+    "rarity": "Common",
     "category": "Septicemia",
     "reqs": "BLD = 65s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "juicy_snack": {
+    "name": "Juicy Snack",
+    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "FTD = 20s, BLD = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "vasculitis": {
@@ -74,20 +74,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "juicy snack": {
-    "name": "Juicy Snack",
-    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
-    "rarity": "Common",
+  "panacea": {
+    "name": "Panacea",
+    "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
+    "rarity": "Rare",
     "category": "Septicemia",
-    "reqs": "FTD = 20s, BLD = 60s",
+    "reqs": "BLD = 65s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

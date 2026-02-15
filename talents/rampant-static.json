@@ -1,5 +1,5 @@
 {
-  "jolting current": {
+  "jolting_current": {
     "name": "Jolting Current",
     "desc": "Your lightning attacks in water strike others near them with lightning.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

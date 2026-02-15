@@ -1,5 +1,5 @@
 {
-  "brain death": {
+  "brain_death": {
     "name": "Brain Death",
     "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
     "rarity": "Common",
@@ -9,33 +9,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "scorchblood": {
-    "name": "Scorchblood",
-    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+  "malevolent_sapper": {
+    "name": "Malevolent Sapper",
+    "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "FLM = 40s, BLD = 40s",
+    "reqs": "SDW = 40s, BLD = 40s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "blood and iron": {
-    "name": "Blood and Iron",
-    "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
-    "rarity": "Common",
-    "category": "Bloodsong",
-    "reqs": "MTL = 40s, BLD = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "electrolyte": {
@@ -48,23 +35,36 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "malevolent sapper": {
-    "name": "Malevolent Sapper",
-    "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
+  "blood_and_iron": {
+    "name": "Blood and Iron",
+    "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "SDW = 40s, BLD = 40s",
+    "reqs": "MTL = 40s, BLD = 40s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cold blooded": {
+  "scorchblood": {
+    "name": "Scorchblood",
+    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "FLM = 40s, BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cold_blooded": {
     "name": "Cold Blooded",
     "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
     "rarity": "Common",
@@ -74,7 +74,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

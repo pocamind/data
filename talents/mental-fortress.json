@@ -1,4 +1,19 @@
 {
+  "breathing_exercise": {
+    "name": "Breathing Exercise",
+    "desc": "Your sanity recovers more quickly once out of terrifying situations.",
+    "rarity": "Common",
+    "category": "Mental Fortress",
+    "reqs": "WLL = 5s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "disbelief": {
     "name": "Disbelief",
     "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
@@ -11,37 +26,22 @@
     "innates": {
       "Sanity": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "breathing exercise": {
-    "name": "Breathing Exercise",
-    "desc": "Your sanity recovers more quickly once out of terrifying situations.",
-    "rarity": "Common",
-    "category": "Mental Fortress",
-    "reqs": "WLL = 5s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "conquer your fears": {
+  "conquer_your_fears": {
     "name": "Conquer your Fears",
     "desc": "Killing the beings of the deep replenishes your Sanity somewhat. When an ally grips an enemy nearby to you, you regain Sanity.",
     "rarity": "Common",
     "category": "Mental Fortress",
-    "reqs": "breathing exercise => WLL = 10s",
+    "reqs": "breathing_exercise => WLL = 10s",
     "exclusive": [
       ""
     ],
     "innates": {
       "Sanity": 3
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

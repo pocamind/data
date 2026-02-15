@@ -1,35 +1,5 @@
 {
-  "speed demon": {
-    "name": "Speed Demon",
-    "desc": "Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown.\n[Normal bleed is 15%, this is 7.5%.]",
-    "rarity": "Rare",
-    "category": "Vigil Swordsman",
-    "reqs": "AGL = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "spinning swordsman": {
-    "name": "Spinning Swordsman",
-    "desc": "Running attacks do 15% extra damage when you have a speed boost.",
-    "rarity": "Common",
-    "category": "Vigil Swordsman",
-    "reqs": "AGL = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "bear trap": {
+  "bear_trap": {
     "name": "Bear Trap",
     "desc": "Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent.",
     "rarity": "Common",
@@ -41,13 +11,28 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "blade dancer": {
-    "name": "Blade Dancer",
-    "desc": "Landing a Basic Attack removes your roll cooldown.",
+  "spinning_swordsman": {
+    "name": "Spinning Swordsman",
+    "desc": "Running attacks do 15% extra damage when you have a speed boost.",
     "rarity": "Common",
+    "category": "Vigil Swordsman",
+    "reqs": "AGL = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "speed_demon": {
+    "name": "Speed Demon",
+    "desc": "Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown.\n[Normal bleed is 15%, this is 7.5%.]",
+    "rarity": "Rare",
     "category": "Vigil Swordsman",
     "reqs": "AGL = 25s",
     "exclusive": [
@@ -56,25 +41,10 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "action surge": {
-    "name": "Action Surge",
-    "desc": "Adrenaline Surge now increases your swing speed by 0.04s for its duration.",
-    "rarity": "Common",
-    "category": "Vigil Swordsman",
-    "reqs": "adrenaline surge => AGL = 70s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "cut to the chase": {
+  "cut_to_the_chase": {
     "name": "Cut to the Chase",
     "desc": "You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them.",
     "rarity": "Rare",
@@ -86,7 +56,37 @@
     "innates": {
       "Passive Agility": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "action_surge": {
+    "name": "Action Surge",
+    "desc": "Adrenaline Surge now increases your swing speed by 0.04s for its duration.",
+    "rarity": "Common",
+    "category": "Vigil Swordsman",
+    "reqs": "adrenaline_surge => AGL = 70s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blade_dancer": {
+    "name": "Blade Dancer",
+    "desc": "Landing a Basic Attack removes your roll cooldown.",
+    "rarity": "Common",
+    "category": "Vigil Swordsman",
+    "reqs": "AGL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

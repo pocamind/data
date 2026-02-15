@@ -1,5 +1,5 @@
 {
-  "cauterized wounds": {
+  "cauterized_wounds": {
     "name": "Cauterized Wounds",
     "desc": "Blood loss from all sources is lowered.",
     "rarity": "Common",
@@ -11,55 +11,10 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hell's partisan [fire forge]": {
-    "name": "Hell's Partisan [FIRE FORGE]",
-    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "FLM = 35s",
-    "exclusive": [
-      "Hell's Partisan [WARDING]"
-    ],
-    "innates": {
-      "Sanity": 4
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "flamewalker": {
-    "name": "Flamewalker",
-    "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "warding radiance => AGL = 25s, FLM = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hell's partisan [warding]": {
-    "name": "Hell's Partisan [WARDING]",
-    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "warding radiance => FLM = 35s",
-    "exclusive": [
-      "Hell's Partisan [FIRE FORGE]"
-    ],
-    "innates": {
-      "Sanity": 4
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "warding radiance": {
+  "warding_radiance": {
     "name": "Warding Radiance",
     "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
     "rarity": "Rare",
@@ -71,7 +26,52 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hells_partisan_fire_forge": {
+    "name": "Hell's Partisan [FIRE FORGE]",
+    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "FLM = 35s",
+    "exclusive": [
+      "Hells_Partisan_WARDING"
+    ],
+    "innates": {
+      "Sanity": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hells_partisan_warding": {
+    "name": "Hell's Partisan [WARDING]",
+    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "warding_radiance => FLM = 35s",
+    "exclusive": [
+      "Hells_Partisan_FIRE_FORGE"
+    ],
+    "innates": {
+      "Sanity": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "flamewalker": {
+    "name": "Flamewalker",
+    "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "warding_radiance => AGL = 25s, FLM = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

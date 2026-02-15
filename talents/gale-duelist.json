@@ -1,5 +1,5 @@
 {
-  "tempest wind": {
+  "tempest_wind": {
     "name": "Tempest Wind",
     "desc": "Cast Wind Blade while sliding to unleash a quick whirlwind attack.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": true
   }
 }

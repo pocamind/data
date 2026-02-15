@@ -1,17 +1,5 @@
 {
-  "radiant dawn": {
-    "name": "Radiant Dawn",
-    "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Dawnwalker"
-    ],
-    "reqs": "oath: dawnwalker => ()",
-    "vaulted": false
-  },
-  "radiant kick": {
+  "radiant_kick": {
     "name": "Radiant Kick",
     "desc": "Kick your foes at the speed of light.",
     "stars": 0,
@@ -20,10 +8,10 @@
     "attributes": [
       "Dawnwalker"
     ],
-    "reqs": "oath: dawnwalker => ()",
+    "reqs": "oath_dawnwalker => ()",
     "vaulted": false
   },
-  "blinding dawn": {
+  "blinding_dawn": {
     "name": "Blinding Dawn",
     "desc": "Dance uncontrollably. No one can withstand the sheer groove of your spin routine.",
     "stars": 0,
@@ -32,7 +20,19 @@
     "attributes": [
       "Dawnwalker"
     ],
-    "reqs": "oath: dawnwalker => ()",
+    "reqs": "oath_dawnwalker => ()",
+    "vaulted": false
+  },
+  "radiant_dawn": {
+    "name": "Radiant Dawn",
+    "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Dawnwalker"
+    ],
+    "reqs": "oath_dawnwalker => ()",
     "vaulted": false
   }
 }

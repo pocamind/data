@@ -1,5 +1,5 @@
 {
-  "sanguine dive": {
+  "sanguine_dive": {
     "name": "Sanguine Dive",
     "desc": "Create or jump into a pool of blood.",
     "stars": 1,
@@ -11,7 +11,7 @@
     "reqs": "BLD = 20r",
     "vaulted": false
   },
-  "vein tendrils": {
+  "vein_tendrils": {
     "name": "Vein Tendrils",
     "desc": "Create tendrils of blood.",
     "stars": 2,

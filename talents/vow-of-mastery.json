@@ -1,31 +1,18 @@
 {
-  "command: live": {
-    "name": "Command: Live",
-    "desc": "Once per hour, command a servant to defy all odds and obey your command - live.\n[*The cooldown for this Talent scales on your Charisma investment.]",
-    "rarity": "Common",
-    "category": "Vow of Mastery",
-    "reqs": "vow of mastery => CHA = 75s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "command: summon": {
+  "command_summon": {
     "name": "Command: Summon",
     "desc": "Command your servant to obey your master and appear before you no matter the distance.",
     "rarity": "Advanced",
     "category": "Vow of Mastery",
-    "reqs": "vow of mastery => CHA = 80s",
+    "reqs": "vow_of_mastery => CHA = 80s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "vow of mastery": {
+  "vow_of_mastery": {
     "name": "Vow of Mastery",
     "desc": "The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow, you must ask the other player if they'd like to make the vow.e.g.\"wanna make a vow of mastery?\"",
     "rarity": "Common",
@@ -35,7 +22,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "command_live": {
+    "name": "Command: Live",
+    "desc": "Once per hour, command a servant to defy all odds and obey your command - live.\n[*The cooldown for this Talent scales on your Charisma investment.]",
+    "rarity": "Common",
+    "category": "Vow of Mastery",
+    "reqs": "vow_of_mastery => CHA = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

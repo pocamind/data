@@ -1,5 +1,5 @@
 {
-  "frozen legs": {
+  "frozen_legs": {
     "name": "Frozen Legs",
     "desc": "Your slow effect prevents opponents from rolling.",
     "rarity": "Rare",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

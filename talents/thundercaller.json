@@ -1,43 +1,4 @@
 {
-  "adept thundercaller": {
-    "name": "Adept Thundercaller",
-    "desc": "You can now obtain 1-star Thundercaller mantras.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "thundercaller => LTN = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "shocking finish": {
-    "name": "Shocking Finish",
-    "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "LTN = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "expert thundercaller": {
-    "name": "Expert Thundercaller",
-    "desc": "You can now obtain 2-star Thundercaller mantras.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "adept thundercaller => LTN = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
   "stratoshock": {
     "name": "Stratoshock",
     "desc": "Your lightning deals an additional 5% damage when in the rain.",
@@ -48,7 +9,100 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expert_thundercaller": {
+    "name": "Expert Thundercaller",
+    "desc": "You can now obtain 2-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "adept_thundercaller => LTN = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "adept_thundercaller": {
+    "name": "Adept Thundercaller",
+    "desc": "You can now obtain 1-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "thundercaller => LTN = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "discovery_of_fire": {
+    "name": "Discovery of Fire",
+    "desc": "Flints and Flamecharm are for simpletons.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "LTN = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "static_fakeout": {
+    "name": "Static Fakeout",
+    "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
+    "rarity": "Rare",
+    "category": "Thundercaller",
+    "reqs": "AGL = 30s, LTN = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_thundercaller": {
+    "name": "Master Thundercaller",
+    "desc": "You can now obtain 3-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "expert_thundercaller => LTN = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "static_flash_clone": {
+    "name": "Static Flash Clone",
+    "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "AGL = 30s, LTN = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "shocking_finish": {
+    "name": "Shocking Finish",
+    "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "LTN = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "thundercaller": {
@@ -61,61 +115,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "static fakeout": {
-    "name": "Static Fakeout",
-    "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
-    "rarity": "Rare",
-    "category": "Thundercaller",
-    "reqs": "AGL = 30s, LTN = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "static flash clone": {
-    "name": "Static Flash Clone",
-    "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "AGL = 30s, LTN = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "master thundercaller": {
-    "name": "Master Thundercaller",
-    "desc": "You can now obtain 3-star Thundercaller mantras.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "expert thundercaller => LTN = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "discovery of fire": {
-    "name": "Discovery of Fire",
-    "desc": "Flints and Flamecharm are for simpletons.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "LTN = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

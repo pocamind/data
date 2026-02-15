@@ -1,170 +1,170 @@
 {
-  "will o' wisp [ice]": {
-    "name": "Will o' Wisp [ICE]",
-    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+  "chorus_of_souls": {
+    "name": "Chorus of Souls",
+    "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
     "rarity": "Advanced",
     "category": "Sage of Wisps",
-    "reqs": "ICE = 25r",
+    "reqs": "oath_oathless => ICE = 30s, FLM = 30s, LTN = 30s, WND = 30s, SDW = 30s, MTL = 30s, BLD = 30s",
     "exclusive": [
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [MTL]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [BLD]"
+      ""
     ],
     "innates": {
       "Wisp Mantra Slot": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "will o' wisp [wnd]": {
-    "name": "Will o' Wisp [WND]",
-    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
-    "rarity": "Advanced",
-    "category": "Sage of Wisps",
-    "reqs": "WND = 25r",
-    "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [MTL]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [BLD]"
-    ],
-    "innates": {
-      "Wisp Mantra Slot": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "will o' wisp [flm]": {
-    "name": "Will o' Wisp [FLM]",
-    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
-    "rarity": "Advanced",
-    "category": "Sage of Wisps",
-    "reqs": "FLM = 25r",
-    "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [MTL]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [BLD]"
-    ],
-    "innates": {
-      "Wisp Mantra Slot": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "will o' wisp [bld]": {
-    "name": "Will o' Wisp [BLD]",
-    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
-    "rarity": "Advanced",
-    "category": "Sage of Wisps",
-    "reqs": "BLD = 25r",
-    "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [MTL]"
-    ],
-    "innates": {
-      "Wisp Mantra Slot": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "will o' wisp [sdw]": {
+  "will_o_wisp_sdw": {
     "name": "Will o' Wisp [SDW]",
     "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
     "rarity": "Advanced",
     "category": "Sage of Wisps",
     "reqs": "SDW = 25r",
     "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [MTL]",
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [BLD]"
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_MTL",
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_BLD"
     ],
     "innates": {
       "Wisp Mantra Slot": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "will o' wisp [ltn]": {
-    "name": "Will o' Wisp [LTN]",
-    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
-    "rarity": "Advanced",
-    "category": "Sage of Wisps",
-    "reqs": "LTN = 25r",
-    "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [MTL]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [BLD]"
-    ],
-    "innates": {
-      "Wisp Mantra Slot": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "wisp convergence": {
+  "wisp_convergence": {
     "name": "Wisp Convergence",
     "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes.",
     "rarity": "Rare",
     "category": "Sage of Wisps",
-    "reqs": "oath: oathless, chorus of souls => ICE = 30s, FLM = 30s, LTN = 30s, WND = 30s, SDW = 30s, MTL = 30s, BLD = 30s",
+    "reqs": "oath_oathless, chorus_of_souls => ICE = 30s, FLM = 30s, LTN = 30s, WND = 30s, SDW = 30s, MTL = 30s, BLD = 30s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "chorus of souls": {
-    "name": "Chorus of Souls",
-    "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
+  "will_o_wisp_flm": {
+    "name": "Will o' Wisp [FLM]",
+    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
     "rarity": "Advanced",
     "category": "Sage of Wisps",
-    "reqs": "oath: oathless => ICE = 30s, FLM = 30s, LTN = 30s, WND = 30s, SDW = 30s, MTL = 30s, BLD = 30s",
+    "reqs": "FLM = 25r",
     "exclusive": [
-      ""
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_MTL",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_BLD"
     ],
     "innates": {
       "Wisp Mantra Slot": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "will o' wisp [mtl]": {
+  "will_o_wisp_mtl": {
     "name": "Will o' Wisp [MTL]",
     "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
     "rarity": "Advanced",
     "category": "Sage of Wisps",
     "reqs": "MTL = 25r",
     "exclusive": [
-      "Will o' Wisp [ICE]",
-      "Will o' Wisp [LTN]",
-      "Will o' Wisp [WND]",
-      "Will o' Wisp [FLM]",
-      "Will o' Wisp [SDW]",
-      "Will o' Wisp [BLD]"
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_BLD"
     ],
     "innates": {
       "Wisp Mantra Slot": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "will_o_wisp_wnd": {
+    "name": "Will o' Wisp [WND]",
+    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+    "rarity": "Advanced",
+    "category": "Sage of Wisps",
+    "reqs": "WND = 25r",
+    "exclusive": [
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_MTL",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_BLD"
+    ],
+    "innates": {
+      "Wisp Mantra Slot": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "will_o_wisp_ltn": {
+    "name": "Will o' Wisp [LTN]",
+    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+    "rarity": "Advanced",
+    "category": "Sage of Wisps",
+    "reqs": "LTN = 25r",
+    "exclusive": [
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_MTL",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_BLD"
+    ],
+    "innates": {
+      "Wisp Mantra Slot": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "will_o_wisp_ice": {
+    "name": "Will o' Wisp [ICE]",
+    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+    "rarity": "Advanced",
+    "category": "Sage of Wisps",
+    "reqs": "ICE = 25r",
+    "exclusive": [
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_MTL",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_BLD"
+    ],
+    "innates": {
+      "Wisp Mantra Slot": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "will_o_wisp_bld": {
+    "name": "Will o' Wisp [BLD]",
+    "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+    "rarity": "Advanced",
+    "category": "Sage of Wisps",
+    "reqs": "BLD = 25r",
+    "exclusive": [
+      "Will_o_Wisp_ICE",
+      "Will_o_Wisp_LTN",
+      "Will_o_Wisp_WND",
+      "Will_o_Wisp_FLM",
+      "Will_o_Wisp_SDW",
+      "Will_o_Wisp_MTL"
+    ],
+    "innates": {
+      "Wisp Mantra Slot": 1
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

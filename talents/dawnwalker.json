@@ -1,18 +1,31 @@
 {
-  "luminous flash": {
-    "name": "Luminous Flash",
-    "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
+  "absolute_radiance": {
+    "name": "Absolute Radiance",
+    "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
     "rarity": "Oath",
     "category": "Dawnwalker",
-    "reqs": "oath: dawnwalker => ()",
+    "reqs": "oath_dawnwalker => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "oath: dawnwalker": {
+  "protagonist_syndrome": {
+    "name": "Protagonist Syndrome",
+    "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.",
+    "rarity": "Oath",
+    "category": "Dawnwalker",
+    "reqs": "oath_dawnwalker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_dawnwalker": {
     "name": "Oath: Dawnwalker",
     "desc": "You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge.",
     "rarity": "Oath",
@@ -24,33 +37,20 @@
     "innates": {
       "Combat Mantra": 3
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "protagonist syndrome": {
-    "name": "Protagonist Syndrome",
-    "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.",
+  "luminous_flash": {
+    "name": "Luminous Flash",
+    "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
     "rarity": "Oath",
     "category": "Dawnwalker",
-    "reqs": "oath: dawnwalker => ()",
+    "reqs": "oath_dawnwalker => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "absolute radiance": {
-    "name": "Absolute Radiance",
-    "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
-    "rarity": "Oath",
-    "category": "Dawnwalker",
-    "reqs": "oath: dawnwalker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

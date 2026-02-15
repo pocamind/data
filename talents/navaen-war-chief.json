@@ -1,5 +1,5 @@
 {
-  "chief's will": {
+  "chiefs_will": {
     "name": "Chief's Will",
     "desc": "Your Way of Navae light attacks have 25% additional penetration.",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

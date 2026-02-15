@@ -11,7 +11,7 @@
     "reqs": "CHA = 21r",
     "vaulted": false
   },
-  "enforcer pull": {
+  "enforcer_pull": {
     "name": "Enforcer Pull",
     "desc": "Pull enemies towards you.",
     "stars": 0,

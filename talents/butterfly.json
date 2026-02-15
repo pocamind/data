@@ -1,52 +1,5 @@
 {
-  "ghost": {
-    "name": "Ghost",
-    "desc": "Dodging a move will briefly make you invisible, ending early if you attack.\n[*Note: 0.8s to 1.2s duration between 10 and 40 Agility.]",
-    "rarity": "Advanced",
-    "category": "Butterfly",
-    "reqs": "swift rebound, evasive expert, risky moves => AGL = 40s",
-    "exclusive": [
-      "Observation",
-      "Safety Dance"
-    ],
-    "innates": {
-      "Passive Agility": 5
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "evasive expert": {
-    "name": "Evasive Expert",
-    "desc": "Your speed boost granted from dodging is increased.",
-    "rarity": "Rare",
-    "category": "Butterfly",
-    "reqs": "swift rebound => AGL = 15s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "risky moves": {
-    "name": "Risky Moves",
-    "desc": "When you successfully dodge, you'll automatically dodge the next attack.",
-    "rarity": "Rare",
-    "category": "Butterfly",
-    "reqs": "AGL = 25s",
-    "exclusive": [
-      "Observation",
-      "Safety Dance"
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "swift rebound": {
+  "swift_rebound": {
     "name": "Swift Rebound",
     "desc": "Move faster after successfully dodging an attack.",
     "rarity": "Common",
@@ -58,7 +11,54 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "risky_moves": {
+    "name": "Risky Moves",
+    "desc": "When you successfully dodge, you'll automatically dodge the next attack.",
+    "rarity": "Rare",
+    "category": "Butterfly",
+    "reqs": "AGL = 25s",
+    "exclusive": [
+      "Observation",
+      "Safety_Dance"
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "evasive_expert": {
+    "name": "Evasive Expert",
+    "desc": "Your speed boost granted from dodging is increased.",
+    "rarity": "Rare",
+    "category": "Butterfly",
+    "reqs": "swift_rebound => AGL = 15s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ghost": {
+    "name": "Ghost",
+    "desc": "Dodging a move will briefly make you invisible, ending early if you attack.\n[*Note: 0.8s to 1.2s duration between 10 and 40 Agility.]",
+    "rarity": "Advanced",
+    "category": "Butterfly",
+    "reqs": "swift_rebound, evasive_expert, risky_moves => AGL = 40s",
+    "exclusive": [
+      "Observation",
+      "Safety_Dance"
+    ],
+    "innates": {
+      "Passive Agility": 5
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

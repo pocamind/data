@@ -1,163 +1,5 @@
 {
-  "paired soul": {
-    "name": "Paired Soul",
-    "desc": "Wielding a katana with this outfit grants extra damage.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "pack mule": {
-    "name": "Pack Mule",
-    "desc": "The max quantity for food you can hold is increased by 5.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "FTD = 5s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "no interruptions": {
-    "name": "No Interruptions",
-    "desc": "Wehn combat tagged by 2 or more players, render any ranged attack a lot less effective.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hyperbody": {
-    "name": "Hyperbody",
-    "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "winter's presence": {
-    "name": "Winter's Presence",
-    "desc": "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "brute strength": {
-    "name": "Brute Strength",
-    "desc": "Your vent is replaced with a ground slam attack that knocks back enemies.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "static mastery": {
-    "name": "Static Mastery",
-    "desc": "Your static withdraw no longer deals damage nor stuns you.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "star duster": {
-    "name": "Star Duster",
-    "desc": "You take 10% less damage from airborne enemies.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "star duster => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "refreeze": {
-    "name": "Refreeze",
-    "desc": "Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "volt reflex": {
-    "name": "Volt Reflex",
-    "desc": "Your dodge window is increased with the power of your lightning, but also increases the cooldown of your dodges.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "replenishing knockout": {
-    "name": "Replenishing Knockout",
-    "desc": "Gain more health and posture from downing enemies.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "scholar's intuition": {
-    "name": "Scholar's Intuition",
-    "desc": "INT, WIL, and CHA Training gear is 50% more effective.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "offensive recovery": {
+  "offensive_recovery": {
     "name": "Offensive Recovery",
     "desc": "If all your mantras have Might Gems equipped, lose posture anytime you hit an opponents block with a mantra.",
     "rarity": "Equipment",
@@ -167,458 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "coldseep reactor": {
-    "name": "Coldseep Reactor",
-    "desc": "By cultivating the local chemosynthetic microornganisms within the Depths and utilising them as a power source, your helm thrums with a protective field of static electricity and heat.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "gourmand": {
-    "name": "Gourmand",
-    "desc": "Your hunger and thirst gain from eating increased.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 1,
-      "Carry Load": 2
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "volt draft": {
-    "name": "Volt Draft",
-    "desc": "Using Inhale will now also make your m1s apply a storm strike. [20 second CD]",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "lethal dose": {
-    "name": "Lethal Dose",
-    "desc": "Doubles the duration of your poison from your hidden blade.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "polite awakening": {
-    "name": "Polite Awakening",
-    "desc": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP)",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "crippling impact": {
-    "name": "Crippling Impact",
-    "desc": "Landing a critical on someone while Wrath Gem is active disables their vent for a few seconds.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "shock trooper specialist": {
-    "name": "Shock Trooper Specialist",
-    "desc": "Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "tempest evolution": {
-    "name": "Tempest Evolution",
-    "desc": "If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "fleetfoot": {
-    "name": "Fleetfoot",
-    "desc": "Gain an initial speed boost when slide jumping.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "rock blaster": {
-    "name": "Rock Blaster",
-    "desc": "Doubles your ore yields when mining.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "heavy haul": {
-    "name": "Heavy Haul",
-    "desc": "Enemies who carry you move significantly slower.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "STR = 15s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "wind dancer": {
-    "name": "Wind Dancer",
-    "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "windrunner robes => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "withering soul": {
-    "name": "Withering Soul",
-    "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "elegy of light": {
-    "name": "Elegy of Light",
-    "desc": "The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "repeated blows": {
-    "name": "Repeated Blows",
-    "desc": "Any strength mantra that has a Wrath Gem on it will reset its cooldown if you land a critical while a Wrath Gem is active.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "flashwind": {
-    "name": "Flashwind",
-    "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "focused hematoma": {
-    "name": "Focused Hematoma",
-    "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "vigil's grace": {
-    "name": "Vigil's Grace",
-    "desc": "Whenever you have a speed boost, increase your swing speed by 0.03.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "martyr": {
-    "name": "Martyr",
-    "desc": "Enemies gain less health and posture when knocking you.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "knack": {
-    "name": "Knack",
-    "desc": "Trees yield more Wood when felled. Your Repair speed is increased.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "temple guard": {
-    "name": "Temple Guard",
-    "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "surestep": {
-    "name": "Surestep",
-    "desc": "Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "actions speak louder": {
-    "name": "Actions Speak Louder",
-    "desc": "Your critical attack cooldown is 20% shorter. but your Resonance cooldown is double as long. In areas where your Resonance is suppresed. reduces your cooldown by 5% instead",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "diver's resilience": {
-    "name": "Diver's Resilience",
-    "desc": "You can parry unparryable attack from giant monsters, but due to the heft of the plate you have slightly reduced speed.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "looter": {
-    "name": "Looter",
-    "desc": "Gain extra loot from items you turn in for rewards.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "already dead": {
-    "name": "Already Dead",
-    "desc": "You take reduced damage from abilities with a health cost.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "stormcall": {
-    "name": "Stormcall",
-    "desc": "Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "soul rip": {
-    "name": "Soul Rip",
-    "desc": "Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite Ether for 25 seconds. Beware its strenuous downside.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "wormwarder": {
-    "name": "Wormwarder",
-    "desc": "Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. it's not exactly the lightest thing to lug around, though.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "fatal strike": {
-    "name": "Fatal Strike",
-    "desc": "Landing a guardbreak with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "benefactor": {
-    "name": "Benefactor",
-    "desc": "Gain reputation for selling goods to Antiquarians within faction territories.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "mass effect": {
-    "name": "Mass Effect",
-    "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "treefelling blow": {
-    "name": "Treefelling Blow",
-    "desc": "You can collect lumber from the trees you fell with your fists. It's only natural.",
-    "rarity": "Quest",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 4
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "brassneck": {
-    "name": "Brassneck",
-    "desc": "Knocking an enemy grants you 20% damage resistance for 15 seconds.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "STR = 30s, FTD = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 10
-    },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "blinded": {
@@ -633,10 +24,26 @@
     "innates": {
       "Sanity": 20
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "destructive yell": {
+  "gourmand": {
+    "name": "Gourmand",
+    "desc": "Your hunger and thirst gain from eating increased.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 2,
+      "Posture": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "destructive_yell": {
     "name": "Destructive Yell",
     "desc": "Your ardour screams now break campfires around you.",
     "rarity": "Equipment",
@@ -646,10 +53,23 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ready or not": {
+  "stormcall": {
+    "name": "Stormcall",
+    "desc": "Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ready_or_not": {
     "name": "Ready or Not",
     "desc": "The first attack to hit you while out of combat has its damage cut in half.",
     "rarity": "Common",
@@ -659,25 +79,12 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "immortality": {
-    "name": "Immortality",
-    "desc": "The remnants of the helmet's Mind Veil stir into life when you would be knocked, soaking all damage for a brief duration. 30s CD. Viscocity is rejected.",
-    "rarity": "Equipment",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "brunt": {
-    "name": "Brunt",
-    "desc": "While 2-handling, you take less posture damage.",
+  "refreeze": {
+    "name": "Refreeze",
+    "desc": "Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.",
     "rarity": "Outfit",
     "category": "Miscellaneous",
     "reqs": "()",
@@ -685,46 +92,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "mocking favor": {
-    "name": "Mocking Favor",
-    "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction (30s cooldown).",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "battle-hardened": {
-    "name": "Battle-Hardened",
-    "desc": "20% damage reduction to Mantra guardbreaks.",
-    "rarity": "Outfit",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "pleeksty's will": {
-    "name": "Pleeksty's Will",
-    "desc": "You gain some Ether from consuming elemental ingredients.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "FLM = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "tidekeeper": {
@@ -737,12 +105,12 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "lasting trauma": {
-    "name": "Lasting Trauma",
-    "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.",
+  "surestep": {
+    "name": "Surestep",
+    "desc": "Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.",
     "rarity": "Equipment",
     "category": "Miscellaneous",
     "reqs": "()",
@@ -750,10 +118,127 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "full reset": {
+  "temple_guard": {
+    "name": "Temple Guard",
+    "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "static_mastery": {
+    "name": "Static Mastery",
+    "desc": "Your static withdraw no longer deals damage nor stuns you.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "fatal_strike": {
+    "name": "Fatal Strike",
+    "desc": "Landing a guardbreak with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "repeated_blows": {
+    "name": "Repeated Blows",
+    "desc": "Any strength mantra that has a Wrath Gem on it will reset its cooldown if you land a critical while a Wrath Gem is active.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "wormwarder": {
+    "name": "Wormwarder",
+    "desc": "Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. it's not exactly the lightest thing to lug around, though.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "stronger_under_pressure": {
+    "name": "Stronger Under Pressure",
+    "desc": "Your mantras with might gem now slow down your opponents, scaling with how many combat tags you currently have.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "crippling_impact": {
+    "name": "Crippling Impact",
+    "desc": "Landing a critical on someone while Wrath Gem is active disables their vent for a few seconds.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lethal_dose": {
+    "name": "Lethal Dose",
+    "desc": "Doubles the duration of your poison from your hidden blade.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "immortality": {
+    "name": "Immortality",
+    "desc": "The remnants of the helmet's Mind Veil stir into life when you would be knocked, soaking all damage for a brief duration. 30s CD. Viscocity is rejected.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "full_reset": {
     "name": "Full Reset",
     "desc": "Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.",
     "rarity": "Common",
@@ -763,25 +248,12 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "dragon's song": {
-    "name": "Dragon's Song",
-    "desc": "Landing a Mantra after an uppercut grants Ether. 2s CD.",
-    "rarity": "Common",
-    "category": "Miscellaneous",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "primal rage": {
-    "name": "Primal Rage",
-    "desc": "If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. [3 minute CD]",
+  "soul_rip": {
+    "name": "Soul Rip",
+    "desc": "Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite Ether for 25 seconds. Beware its strenuous downside.",
     "rarity": "Outfit",
     "category": "Miscellaneous",
     "reqs": "()",
@@ -789,7 +261,165 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "scholars_intuition": {
+    "name": "Scholar's Intuition",
+    "desc": "INT, WIL, and CHA Training gear is 50% more effective.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hyperbody": {
+    "name": "Hyperbody",
+    "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "pleekstys_will": {
+    "name": "Pleeksty's Will",
+    "desc": "You gain some Ether from consuming elemental ingredients.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "FLM = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "paired_soul": {
+    "name": "Paired Soul",
+    "desc": "Wielding a katana with this outfit grants extra damage.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "flashwind": {
+    "name": "Flashwind",
+    "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "heavy_haul": {
+    "name": "Heavy Haul",
+    "desc": "Enemies who carry you move significantly slower.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "STR = 15s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "divers_resilience": {
+    "name": "Diver's Resilience",
+    "desc": "You can parry unparryable attack from giant monsters, but due to the heft of the plate you have slightly reduced speed.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "treefelling_blow": {
+    "name": "Treefelling Blow",
+    "desc": "You can collect lumber from the trees you fell with your fists. It's only natural.",
+    "rarity": "Quest",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "brunt": {
+    "name": "Brunt",
+    "desc": "While 2-handling, you take less posture damage.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "actions_speak_louder": {
+    "name": "Actions Speak Louder",
+    "desc": "Your critical attack cooldown is 20% shorter. but your Resonance cooldown is double as long. In areas where your Resonance is suppresed. reduces your cooldown by 5% instead",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "focused_hematoma": {
+    "name": "Focused Hematoma",
+    "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "rock_blaster": {
+    "name": "Rock Blaster",
+    "desc": "Doubles your ore yields when mining.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "featherfall": {
@@ -804,12 +434,12 @@
     "innates": {
       "Health": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "stronger under pressure": {
-    "name": "Stronger Under Pressure",
-    "desc": "Your mantras with might gem now slow down your opponents, scaling with how many combat tags you currently have.",
+  "volt_draft": {
+    "name": "Volt Draft",
+    "desc": "Using Inhale will now also make your m1s apply a storm strike. [20 second CD]",
     "rarity": "Equipment",
     "category": "Miscellaneous",
     "reqs": "()",
@@ -817,7 +447,377 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "wind_dancer": {
+    "name": "Wind Dancer",
+    "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "windrunner_robes => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "elegy_of_light": {
+    "name": "Elegy of Light",
+    "desc": "The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "primal_rage": {
+    "name": "Primal Rage",
+    "desc": "If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. [3 minute CD]",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "dragons_song": {
+    "name": "Dragon's Song",
+    "desc": "Landing a Mantra after an uppercut grants Ether. 2s CD.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "benefactor": {
+    "name": "Benefactor",
+    "desc": "Gain reputation for selling goods to Antiquarians within faction territories.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "mocking_favor": {
+    "name": "Mocking Favor",
+    "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction (30s cooldown).",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lasting_trauma": {
+    "name": "Lasting Trauma",
+    "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "tempest_evolution": {
+    "name": "Tempest Evolution",
+    "desc": "If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "no_interruptions": {
+    "name": "No Interruptions",
+    "desc": "Wehn combat tagged by 2 or more players, render any ranged attack a lot less effective.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "already_dead": {
+    "name": "Already Dead",
+    "desc": "You take reduced damage from abilities with a health cost.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "volt_reflex": {
+    "name": "Volt Reflex",
+    "desc": "Your dodge window is increased with the power of your lightning, but also increases the cooldown of your dodges.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "fleetfoot": {
+    "name": "Fleetfoot",
+    "desc": "Gain an initial speed boost when slide jumping.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "vigils_grace": {
+    "name": "Vigil's Grace",
+    "desc": "Whenever you have a speed boost, increase your swing speed by 0.03.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "mass_effect": {
+    "name": "Mass Effect",
+    "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "replenishing_knockout": {
+    "name": "Replenishing Knockout",
+    "desc": "Gain more health and posture from downing enemies.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "polite_awakening": {
+    "name": "Polite Awakening",
+    "desc": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP)",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "battle-hardened": {
+    "name": "Battle-Hardened",
+    "desc": "20% damage reduction to Mantra guardbreaks.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "martyr": {
+    "name": "Martyr",
+    "desc": "Enemies gain less health and posture when knocking you.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "withering_soul": {
+    "name": "Withering Soul",
+    "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "pack_mule": {
+    "name": "Pack Mule",
+    "desc": "The max quantity for food you can hold is increased by 5.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "FTD = 5s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "brassneck": {
+    "name": "Brassneck",
+    "desc": "Knocking an enemy grants you 20% damage resistance for 15 seconds.",
+    "rarity": "Common",
+    "category": "Miscellaneous",
+    "reqs": "STR = 30s, FTD = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 10
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "coldseep_reactor": {
+    "name": "Coldseep Reactor",
+    "desc": "By cultivating the local chemosynthetic microornganisms within the Depths and utilising them as a power source, your helm thrums with a protective field of static electricity and heat.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "knack": {
+    "name": "Knack",
+    "desc": "Trees yield more Wood when felled. Your Repair speed is increased.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "brute_strength": {
+    "name": "Brute Strength",
+    "desc": "Your vent is replaced with a ground slam attack that knocks back enemies.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "shock_trooper_specialist": {
+    "name": "Shock Trooper Specialist",
+    "desc": "Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "winters_presence": {
+    "name": "Winter's Presence",
+    "desc": "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "star_duster": {
+    "name": "Star Duster",
+    "desc": "You take 10% less damage from airborne enemies.",
+    "rarity": "Equipment",
+    "category": "Miscellaneous",
+    "reqs": "star_duster => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "looter": {
+    "name": "Looter",
+    "desc": "Gain extra loot from items you turn in for rewards.",
+    "rarity": "Outfit",
+    "category": "Miscellaneous",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

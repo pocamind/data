@@ -1,5 +1,5 @@
 {
-  "jet kick": {
+  "jet_kick": {
     "name": "Jet Kick",
     "desc": "Rush forward with a jet kick. Requires a target if you're in combat.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Jetstriker"
     ],
-    "reqs": "oath: jetstriker => ()",
+    "reqs": "oath_jetstriker => ()",
     "vaulted": false
   }
 }

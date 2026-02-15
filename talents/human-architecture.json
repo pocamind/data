@@ -1,18 +1,5 @@
 {
-  "mythic stability": {
-    "name": "Mythic Stability",
-    "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while knocked. 60s CD.",
-    "rarity": "Rare",
-    "category": "Human Architecture",
-    "reqs": "FTD = 85s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "not a scratch": {
+  "not_a_scratch": {
     "name": "Not A Scratch",
     "desc": "You don't show any signs of damage.",
     "rarity": "Advanced",
@@ -24,10 +11,23 @@
     "innates": {
       "Posture": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "brick wall": {
+  "mythic_stability": {
+    "name": "Mythic Stability",
+    "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while knocked. 60s CD.",
+    "rarity": "Rare",
+    "category": "Human Architecture",
+    "reqs": "FTD = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "brick_wall": {
     "name": "Brick Wall",
     "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. You are also now knocked down for less time.\n[*Note: Knockdown reduction scales with your Fortitude and Willpower.]",
     "rarity": "Advanced",
@@ -40,7 +40,7 @@
       "Posture": 2,
       "Health": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

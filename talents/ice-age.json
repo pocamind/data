@@ -1,70 +1,18 @@
 {
-  "frozen pin-cushion": {
-    "name": "Frozen Pin-Cushion",
-    "desc": "Hitting an opponent with your Ice Daggers causes them to freeze.",
-    "rarity": "Rare",
-    "category": "Ice Age",
-    "reqs": "ICE = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "frozen anchor [hvy]": {
-    "name": "Frozen Anchor [HVY]",
-    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "HVY = 100r, ICE = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "frozen anchor [med]": {
-    "name": "Frozen Anchor [MED]",
-    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "MED = 100r, ICE = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "stasis strike [lht]": {
+  "stasis_strike_lht": {
     "name": "Stasis Strike [LHT]",
     "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
     "rarity": "Common",
     "category": "Ice Age",
-    "reqs": "glass path: crystallization => LHT = 90r, ICE = 90s",
+    "reqs": "glass_path_crystallization => LHT = 90r, ICE = 90s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cryonis": {
-    "name": "Cryonis",
-    "desc": "All ice spells casted on top of ice cost less Ether.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "frostdrawer => ICE = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "frozen anchor [lht]": {
+  "frozen_anchor_lht": {
     "name": "Frozen Anchor [LHT]",
     "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
     "rarity": "Common",
@@ -74,49 +22,23 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "saint jay": {
-    "name": "Saint Jay",
-    "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.",
-    "rarity": "Rare",
-    "category": "Ice Age",
-    "reqs": "frostbite => ICE = 1s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "stasis strike [med]": {
-    "name": "Stasis Strike [MED]",
-    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "glass path: crystallization => MED = 90r, ICE = 90s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "unyielding frost": {
+  "unyielding_frost": {
     "name": "Unyielding Frost",
     "desc": "Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.",
     "rarity": "Advanced",
     "category": "Ice Age",
     "reqs": "ICE = 100s",
     "exclusive": [
-      "Glass Path: Crystallization"
+      "Glass_Path_Crystallization"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "bottom freeze": {
+  "bottom_freeze": {
     "name": "Bottom Freeze",
     "desc": "Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground.",
     "rarity": "Common",
@@ -126,10 +48,49 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "frost buster": {
+  "saint_jay": {
+    "name": "Saint Jay",
+    "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.",
+    "rarity": "Rare",
+    "category": "Ice Age",
+    "reqs": "frostbite => ICE = 1s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frozen_pin-cushion": {
+    "name": "Frozen Pin-Cushion",
+    "desc": "Hitting an opponent with your Ice Daggers causes them to freeze.",
+    "rarity": "Rare",
+    "category": "Ice Age",
+    "reqs": "ICE = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "stasis_strike_hvy": {
+    "name": "Stasis Strike [HVY]",
+    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "glass_path_crystallization => HVY = 90r, ICE = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frost_buster": {
     "name": "Frost Buster",
     "desc": "Greatsword and Greathammer criticals now place Ice underneath the path they carve.",
     "rarity": "Common",
@@ -139,20 +100,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "stasis strike [hvy]": {
-    "name": "Stasis Strike [HVY]",
-    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+  "frozen_anchor_hvy": {
+    "name": "Frozen Anchor [HVY]",
+    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
     "rarity": "Common",
     "category": "Ice Age",
-    "reqs": "glass path: crystallization => HVY = 90r, ICE = 90s",
+    "reqs": "HVY = 100r, ICE = 100s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "frostbite": {
@@ -165,7 +126,46 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cryonis": {
+    "name": "Cryonis",
+    "desc": "All ice spells casted on top of ice cost less Ether.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "frostdrawer => ICE = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "stasis_strike_med": {
+    "name": "Stasis Strike [MED]",
+    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "glass_path_crystallization => MED = 90r, ICE = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frozen_anchor_med": {
+    "name": "Frozen Anchor [MED]",
+    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "MED = 100r, ICE = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

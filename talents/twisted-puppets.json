@@ -1,69 +1,69 @@
 {
-  "wraith path: twisted puppets": {
+  "moths_to_a_flame": {
+    "name": "Moths to a Flame",
+    "desc": "Your Twisted Puppets now home towards burning enemies.",
+    "rarity": "Common",
+    "category": "Twisted Puppets",
+    "reqs": "wraith_path_twisted_puppets => FLM = 40s, SDW = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "burning_puppets": {
+    "name": "Burning Puppets",
+    "desc": "Your puppets can now inflict burn and fire-based talents when they explode.",
+    "rarity": "Common",
+    "category": "Twisted Puppets",
+    "reqs": "wraith_path_twisted_puppets => FLM = 40s, SDW = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "explosive_rage": {
+    "name": "Explosive Rage",
+    "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
+    "rarity": "Common",
+    "category": "Twisted Puppets",
+    "reqs": "wraith_path_twisted_puppets => FLM = 40s, SDW = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "burning_sacrifice": {
+    "name": "Burning Sacrifice",
+    "desc": "Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.",
+    "rarity": "Rare",
+    "category": "Twisted Puppets",
+    "reqs": "wraith_path_twisted_puppets, emperor_flame => FLM = 40s, SDW = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "wraith_path_twisted_puppets": {
     "name": "Wraith Path: Twisted Puppets",
     "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
     "rarity": "Common",
     "category": "Twisted Puppets",
     "reqs": "FLM = 40s, SDW = 40s",
     "exclusive": [
-      "Eruption Path: Lava Serpent",
-      "Azure Flames",
+      "Eruption_Path_Lava_Serpent",
+      "Azure_Flames",
       "Flashboil"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "burning sacrifice": {
-    "name": "Burning Sacrifice",
-    "desc": "Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.",
-    "rarity": "Rare",
-    "category": "Twisted Puppets",
-    "reqs": "wraith path: twisted puppets, emperor flame => FLM = 40s, SDW = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "moths to a flame": {
-    "name": "Moths to a Flame",
-    "desc": "Your Twisted Puppets now home towards burning enemies.",
-    "rarity": "Common",
-    "category": "Twisted Puppets",
-    "reqs": "wraith path: twisted puppets => FLM = 40s, SDW = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "burning puppets": {
-    "name": "Burning Puppets",
-    "desc": "Your puppets can now inflict burn and fire-based talents when they explode.",
-    "rarity": "Common",
-    "category": "Twisted Puppets",
-    "reqs": "wraith path: twisted puppets => FLM = 40s, SDW = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "explosive rage": {
-    "name": "Explosive Rage",
-    "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
-    "rarity": "Common",
-    "category": "Twisted Puppets",
-    "reqs": "wraith path: twisted puppets => FLM = 40s, SDW = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

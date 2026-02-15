@@ -1,17 +1,17 @@
 {
-  "boiling point": {
+  "boiling_point": {
     "name": "Boiling Point",
     "desc": "Using a fire mantra near your own steam detonates it.",
     "rarity": "Common",
     "category": "Vaporborne",
     "reqs": "flashboil => ICE = 30s, FLM = 30s",
     "exclusive": [
-      "Wraith Path: Twisted Puppets",
-      "Glass Path: Crystallization",
-      "Eruption Path: Lava Serpent"
+      "Wraith_Path_Twisted_Puppets",
+      "Glass_Path_Crystallization",
+      "Eruption_Path_Lava_Serpent"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "flashboil": {
@@ -21,12 +21,12 @@
     "category": "Vaporborne",
     "reqs": "ICE = 30s, FLM = 30s",
     "exclusive": [
-      "Wraith Path: Twisted Puppets",
-      "Glass Path: Crystallization",
-      "Eruption Path: Lava Serpent"
+      "Wraith_Path_Twisted_Puppets",
+      "Glass_Path_Crystallization",
+      "Eruption_Path_Lava_Serpent"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

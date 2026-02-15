@@ -1,30 +1,56 @@
 {
-  "expert frostdrawer": {
-    "name": "Expert Frostdrawer",
-    "desc": "You can now obtain 2-star Frostdrawer mantras.",
+  "adept_frostdrawer": {
+    "name": "Adept Frostdrawer",
+    "desc": "You can now obtain 1-star Frostdrawer mantras.",
     "rarity": "Common",
     "category": "Frostdrawer",
-    "reqs": "adept frostdrawer => ICE = 30s",
+    "reqs": "frostdrawer => ICE = 20s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "master frostdrawer": {
+  "expert_frostdrawer": {
+    "name": "Expert Frostdrawer",
+    "desc": "You can now obtain 2-star Frostdrawer mantras.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "adept_frostdrawer => ICE = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "cold_front": {
+    "name": "Cold Front",
+    "desc": "Your Vent is imbued with glacial frost.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "cryonis => ICE = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_frostdrawer": {
     "name": "Master Frostdrawer",
     "desc": "You can now obtain 3-star Frostdrawer mantras.",
     "rarity": "Common",
     "category": "Frostdrawer",
-    "reqs": "expert frostdrawer => ICE = 50s",
+    "reqs": "expert_frostdrawer => ICE = 50s",
     "exclusive": [
       ""
     ],
     "innates": {
       "Health": 5
     },
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
   "frostdrawer": {
@@ -37,33 +63,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "adept frostdrawer": {
-    "name": "Adept Frostdrawer",
-    "desc": "You can now obtain 1-star Frostdrawer mantras.",
-    "rarity": "Common",
-    "category": "Frostdrawer",
-    "reqs": "frostdrawer => ICE = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "cold front": {
-    "name": "Cold Front",
-    "desc": "Your Vent is imbued with glacial frost.",
-    "rarity": "Common",
-    "category": "Frostdrawer",
-    "reqs": "cryonis => ICE = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

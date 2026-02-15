@@ -1,40 +1,4 @@
 {
-  "skyshatter kick": {
-    "name": "Skyshatter Kick",
-    "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "STR = 80r",
-    "vaulted": false
-  },
-  "table flip": {
-    "name": "Table Flip",
-    "desc": "Toss the ground infront of you.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "STR = 40r",
-    "vaulted": false
-  },
-  "rapid punches": {
-    "name": "Rapid Punches",
-    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "STR = 20r",
-    "vaulted": false
-  },
   "throw": {
     "name": "Throw",
     "desc": "Grab and throw your enemies.\n[*You must defeat Titus.]",
@@ -47,7 +11,43 @@
     "reqs": "STR = 35r",
     "vaulted": false
   },
-  "strong left": {
+  "rapid_punches": {
+    "name": "Rapid Punches",
+    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "STR = 20r",
+    "vaulted": false
+  },
+  "table_flip": {
+    "name": "Table Flip",
+    "desc": "Toss the ground infront of you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "STR = 40r",
+    "vaulted": false
+  },
+  "skyshatter_kick": {
+    "name": "Skyshatter Kick",
+    "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "STR = 80r",
+    "vaulted": false
+  },
+  "strong_left": {
     "name": "Strong Left",
     "desc": "A powerful, flinging punch that shatters the air.",
     "stars": 0,

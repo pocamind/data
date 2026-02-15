@@ -1,15 +1,112 @@
 {
-  "soul infusion": {
-    "name": "Soul Infusion",
-    "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.",
+  "spotter_oath": {
+    "name": "Spotter [OATH]",
+    "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
     "rarity": "Oath",
     "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
+    "reqs": "oath_soulbreaker => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "soul_infusion": {
+    "name": "Soul Infusion",
+    "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_ardour_oath": {
+    "name": "Murmur: Ardour [OATH]",
+    "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "heart_reverb": {
+    "name": "Heart Reverb",
+    "desc": "Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ardour_scream_oath": {
+    "name": "Ardour Scream [OATH]",
+    "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 9
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_rhythm_oath": {
+    "name": "Murmur: Rhythm [OATH]",
+    "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_soulbreaker": {
+    "name": "Oath: Soulbreaker",
+    "desc": "The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is solvent that joins all of your distinct selves into the gestalt you.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "()",
+    "exclusive": [
+      "Murmur_Ardour",
+      "Murmur_Rhythm",
+      "Murmur_Tacet",
+      "Ardour_Scream",
+      "Spotter"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_tacet_oath": {
+    "name": "Murmur: Tacet [OATH]",
+    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "formless": {
@@ -17,109 +114,12 @@
     "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
     "rarity": "Oath",
     "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
+    "reqs": "oath_soulbreaker => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "spotter [oath]": {
-    "name": "Spotter [OATH]",
-    "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "murmur: ardour [oath]": {
-    "name": "Murmur: Ardour [OATH]",
-    "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "murmur: tacet [oath]": {
-    "name": "Murmur: Tacet [OATH]",
-    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "heart reverb": {
-    "name": "Heart Reverb",
-    "desc": "Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "oath: soulbreaker": {
-    "name": "Oath: Soulbreaker",
-    "desc": "The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is solvent that joins all of your distinct selves into the gestalt you.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "()",
-    "exclusive": [
-      "Murmur: Ardour",
-      "Murmur: Rhythm",
-      "Murmur: Tacet",
-      "Ardour Scream",
-      "Spotter"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "murmur: rhythm [oath]": {
-    "name": "Murmur: Rhythm [OATH]",
-    "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "ardour scream [oath]": {
-    "name": "Ardour Scream [OATH]",
-    "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath: soulbreaker => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 9
-    },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

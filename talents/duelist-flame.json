@@ -1,5 +1,5 @@
 {
-  "concussive flash": {
+  "concussive_flash": {
     "name": "Concussive Flash",
     "desc": "Your blinding light now concusses foes.",
     "rarity": "Common",
@@ -11,7 +11,7 @@
     "innates": {
       "Carry Load": 10
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,18 @@
 {
-  "authority intimidation": {
+  "second_interrogation": {
+    "name": "Second Interrogation",
+    "desc": "Opponents who are electrified do 50% less damage to you and do 50% less posture damage to you.",
+    "rarity": "Common",
+    "category": "Authority Interrogator",
+    "reqs": "first_interrogation => LTN = 65s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "authority_intimidation": {
     "name": "Authority Intimidation",
     "desc": "Lightning moves slow your opponent more.",
     "rarity": "Common",
@@ -9,36 +22,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "first interrogation": {
-    "name": "First Interrogation",
-    "desc": "Attacks from opponents who are Electrified will give you Ether proportional to their initial damage.",
-    "rarity": "Common",
-    "category": "Authority Interrogator",
-    "reqs": "resolve crusher => LTN = 65s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "second interrogation": {
-    "name": "Second Interrogation",
-    "desc": "Opponents who are electrified do 50% less damage to you and do 50% less posture damage to you.",
-    "rarity": "Common",
-    "category": "Authority Interrogator",
-    "reqs": "first interrogation => LTN = 65s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "resolve crusher": {
+  "resolve_crusher": {
     "name": "Resolve Crusher",
     "desc": "Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply 'Electrified' to your opponent. Attacks from Electrified opponents are converted into Lightning damage, but will deal 10% less damage to you.",
     "rarity": "Common",
@@ -48,7 +35,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "first_interrogation": {
+    "name": "First Interrogation",
+    "desc": "Attacks from opponents who are Electrified will give you Ether proportional to their initial damage.",
+    "rarity": "Common",
+    "category": "Authority Interrogator",
+    "reqs": "resolve_crusher => LTN = 65s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "flame leap": {
+  "flame_leap": {
     "name": "Flame Leap",
     "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
     "stars": 2,
@@ -11,7 +11,7 @@
     "reqs": "FLM = 30r",
     "vaulted": false
   },
-  "flame assault": {
+  "flame_assault": {
     "name": "Flame Assault",
     "desc": "Dash forward in a spiral of flames.",
     "stars": 2,

@@ -1,5 +1,31 @@
 {
-  "dancing steps": {
+  "the_final_act": {
+    "name": "The Final Act",
+    "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
+    "rarity": "Rare",
+    "category": "Flame Dancer",
+    "reqs": "flamecharmer => FLM = 60s",
+    "exclusive": [
+      "Eruption_Path_Lava_Serpent"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "graceful_steps": {
+    "name": "Graceful Steps",
+    "desc": "Your dancing steps now gives a faster speed boost.",
+    "rarity": "Rare",
+    "category": "Flame Dancer",
+    "reqs": "dancing_steps => FLM = 80s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dancing_steps": {
     "name": "Dancing Steps",
     "desc": "Fire mantras now move you in the direction you're facing.",
     "rarity": "Common",
@@ -9,33 +35,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "the final act": {
-    "name": "The Final Act",
-    "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
-    "rarity": "Rare",
-    "category": "Flame Dancer",
-    "reqs": "flamecharmer => FLM = 60s",
-    "exclusive": [
-      "Eruption Path: Lava Serpent"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "graceful steps": {
-    "name": "Graceful Steps",
-    "desc": "Your dancing steps now gives a faster speed boost.",
-    "rarity": "Rare",
-    "category": "Flame Dancer",
-    "reqs": "dancing steps => FLM = 80s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

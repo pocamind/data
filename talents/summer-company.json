@@ -1,5 +1,5 @@
 {
-  "sunset ricochet": {
+  "sunset_ricochet": {
     "name": "Sunset Ricochet",
     "desc": "Your bullets ricochet to a nearby enemy when hitting an opponent.\n[*Note: Hits up to two people.]",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

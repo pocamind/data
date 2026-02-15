@@ -1,28 +1,28 @@
 {
-  "kickstart [cha]": {
+  "kickstart_cha": {
     "name": "Kickstart [CHA]",
     "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
     "rarity": "Common",
     "category": "Kickstarter",
     "reqs": "CHA = 40r, LTN = 50s",
     "exclusive": [
-      "Kickstart [FTD]"
+      "Kickstart_FTD"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "kickstart [ftd]": {
+  "kickstart_ftd": {
     "name": "Kickstart [FTD]",
     "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
     "rarity": "Common",
     "category": "Kickstarter",
     "reqs": "FTD = 40r, LTN = 50s",
     "exclusive": [
-      "Kickstart [CHA]"
+      "Kickstart_CHA"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

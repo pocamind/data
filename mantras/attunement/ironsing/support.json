@@ -1,7 +1,7 @@
 {
-  "iron skin": {
-    "name": "Iron Skin",
-    "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
+  "chain_pull": {
+    "name": "Chain Pull",
+    "desc": "Conjure a chain to pull your opponent.",
     "stars": 1,
     "category": "Support",
     "type": "Attunement",
@@ -11,7 +11,7 @@
     "reqs": "MTL = 20r",
     "vaulted": false
   },
-  "metal turret": {
+  "metal_turret": {
     "name": "Metal Turret",
     "desc": "An automated turret that fires at targets that cross its sight.",
     "stars": 2,
@@ -23,9 +23,9 @@
     "reqs": "MTL = 30r",
     "vaulted": false
   },
-  "chain pull": {
-    "name": "Chain Pull",
-    "desc": "Conjure a chain to pull your opponent.",
+  "iron_skin": {
+    "name": "Iron Skin",
+    "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
     "stars": 1,
     "category": "Support",
     "type": "Attunement",

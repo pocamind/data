@@ -1,5 +1,5 @@
 {
-  "impervious slumber": {
+  "impervious_slumber": {
     "name": "Impervious Slumber",
     "desc": "Getting hit while knocked no longer resets your time knocked.",
     "rarity": "Rare",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

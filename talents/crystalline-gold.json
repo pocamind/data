@@ -1,15 +1,15 @@
 {
-  "golden age": {
+  "golden_age": {
     "name": "Golden Age",
     "desc": "Your Iron Pull now detonates Crystals and overloads Surges.",
     "rarity": "Common",
     "category": "Crystalline Gold",
-    "reqs": "gilded path: scrapsinger, glass path: crystallization, surge path: unstable capacitor => ()",
+    "reqs": "gilded_path_scrapsinger, glass_path_crystallization, surge_path_unstable_capacitor => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

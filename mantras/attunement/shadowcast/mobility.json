@@ -1,7 +1,7 @@
 {
-  "shade step": {
-    "name": "Shade Step",
-    "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
+  "shadow_assault": {
+    "name": "Shadow Assault",
+    "desc": "A rush of darkness.        ",
     "stars": 2,
     "category": "Mobility",
     "type": "Attunement",
@@ -23,9 +23,9 @@
     "reqs": "SDW = 20r",
     "vaulted": false
   },
-  "shadow assault": {
-    "name": "Shadow Assault",
-    "desc": "A rush of darkness.        ",
+  "shade_step": {
+    "name": "Shade Step",
+    "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
     "stars": 2,
     "category": "Mobility",
     "type": "Attunement",

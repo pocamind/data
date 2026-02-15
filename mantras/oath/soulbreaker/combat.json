@@ -1,17 +1,5 @@
 {
-  "ardour slicer": {
-    "name": "Ardour Slicer",
-    "desc": "Close the distance and deliver a fast slash using your Ardour.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Soulbreaker"
-    ],
-    "reqs": "oath: soulbreaker => ()",
-    "vaulted": false
-  },
-  "rhythm advance": {
+  "rhythm_advance": {
     "name": "Rhythm Advance",
     "desc": "Rhythm Advance",
     "stars": 0,
@@ -20,10 +8,22 @@
     "attributes": [
       "Soulbreaker"
     ],
-    "reqs": "oath: soulbreaker => ()",
+    "reqs": "oath_soulbreaker => ()",
     "vaulted": false
   },
-  "tacet kick": {
+  "ardour_slicer": {
+    "name": "Ardour Slicer",
+    "desc": "Close the distance and deliver a fast slash using your Ardour.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Soulbreaker"
+    ],
+    "reqs": "oath_soulbreaker => ()",
+    "vaulted": false
+  },
+  "tacet_kick": {
     "name": "Tacet Kick",
     "desc": "Slip out of perception and deliver a brutal kick.",
     "stars": 0,
@@ -32,7 +32,7 @@
     "attributes": [
       "Soulbreaker"
     ],
-    "reqs": "oath: soulbreaker => ()",
+    "reqs": "oath_soulbreaker => ()",
     "vaulted": false
   }
 }

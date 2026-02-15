@@ -1,18 +1,18 @@
 {
-  "shocking reverb": {
-    "name": "Shocking Reverb",
-    "desc": "Landing enough lightning Mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing. [2 min CD]",
+  "absolute_force": {
+    "name": "Absolute Force",
+    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
     "rarity": "Faction",
     "category": "Operator's Technique",
-    "reqs": "()",
+    "reqs": "oppressive_force => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "amp overdrive": {
+  "amp_overdrive": {
     "name": "Amp Overdrive",
     "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.",
     "rarity": "Faction",
@@ -22,23 +22,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "absolute force": {
-    "name": "Absolute Force",
-    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
-    "rarity": "Faction",
-    "category": "Operator's Technique",
-    "reqs": "oppressive force => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "martial brutality": {
+  "martial_brutality": {
     "name": "Martial Brutality",
     "desc": "The less health your opponent has, the more posture damage you deal to them.",
     "rarity": "Faction",
@@ -48,7 +35,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "shocking_reverb": {
+    "name": "Shocking Reverb",
+    "desc": "Landing enough lightning Mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing. [2 min CD]",
+    "rarity": "Faction",
+    "category": "Operator's Technique",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

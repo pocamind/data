@@ -1,5 +1,5 @@
 {
-  "artisan chef": {
+  "artisan_chef": {
     "name": "Artisan Chef",
     "desc": "The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%.",
     "rarity": "Common",
@@ -9,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "master chef": {
+  "master_chef": {
     "name": "Master Chef",
     "desc": "Buffs applied by food you cook now have their buffs amplified by +30%.",
     "rarity": "Common",
@@ -22,7 +22,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

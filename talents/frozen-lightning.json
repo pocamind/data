@@ -1,15 +1,15 @@
 {
-  "fulgurite formation": {
+  "fulgurite_formation": {
     "name": "Fulgurite Formation",
     "desc": "When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.",
     "rarity": "Common",
     "category": "Frozen Lightning",
-    "reqs": "glass path: crystallization, surge path: unstable capacitor => ICE = 50s, LTN = 50s",
+    "reqs": "glass_path_crystallization, surge_path_unstable_capacitor => ICE = 50s, LTN = 50s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,8 +1,8 @@
 {
-  "lumber axe": {
+  "lumber_axe": {
     "name": "Lumber Axe",
     "type": "Item",
-    "damageType": "Slash",
+    "damage_type": "Slash",
     "reqs": "()",
     "damage": 10.0,
     "pen": 0.0,

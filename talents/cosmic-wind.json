@@ -1,5 +1,5 @@
 {
-  "pressure detonation": {
+  "pressure_detonation": {
     "name": "Pressure Detonation",
     "desc": "Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

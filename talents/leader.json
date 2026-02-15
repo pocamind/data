@@ -1,4 +1,17 @@
 {
+  "spotter": {
+    "name": "Spotter",
+    "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
+    "rarity": "Common",
+    "category": "Leader",
+    "reqs": "murmur_rhythm, callout => CHA = 40s",
+    "exclusive": [
+      "Oath_Soulbreaker"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "callout": {
     "name": "Callout",
     "desc": "You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.",
@@ -9,20 +22,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "spotter": {
-    "name": "Spotter",
-    "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
-    "rarity": "Common",
-    "category": "Leader",
-    "reqs": "murmur: rhythm, callout => CHA = 40s",
-    "exclusive": [
-      "Oath: Soulbreaker"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

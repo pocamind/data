@@ -1,5 +1,5 @@
 {
-  "breathing impact": {
+  "breathing_impact": {
     "name": "Breathing Impact",
     "desc": "Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit.",
     "rarity": "Common",
@@ -9,20 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "after cut": {
-    "name": "After Cut",
-    "desc": "If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead.",
-    "rarity": "Common",
-    "category": "Galeforce",
-    "reqs": "WND = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "inhale": {
@@ -35,7 +22,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "after_cut": {
+    "name": "After Cut",
+    "desc": "If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead.",
+    "rarity": "Common",
+    "category": "Galeforce",
+    "reqs": "WND = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

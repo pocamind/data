@@ -1,41 +1,41 @@
 {
-  "enhanced flow [med]": {
-    "name": "Enhanced Flow [MED]",
-    "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
-    "rarity": "Common",
-    "category": "Sanguine Wager",
-    "reqs": "rush hour => MED = 90r, BLD = 90s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "enhanced flow [hvy]": {
+  "enhanced_flow_hvy": {
     "name": "Enhanced Flow [HVY]",
     "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
     "rarity": "Common",
     "category": "Sanguine Wager",
-    "reqs": "rush hour => HVY = 90r, BLD = 90s",
+    "reqs": "rush_hour => HVY = 90r, BLD = 90s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "enhanced flow [lht]": {
+  "enhanced_flow_med": {
+    "name": "Enhanced Flow [MED]",
+    "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
+    "rarity": "Common",
+    "category": "Sanguine Wager",
+    "reqs": "rush_hour => MED = 90r, BLD = 90s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "enhanced_flow_lht": {
     "name": "Enhanced Flow [LHT]",
     "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
     "rarity": "Common",
     "category": "Sanguine Wager",
-    "reqs": "rush hour => LHT = 90r, BLD = 90s",
+    "reqs": "rush_hour => LHT = 90r, BLD = 90s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

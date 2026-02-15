@@ -1,67 +1,28 @@
 {
-  "refine and reuse": {
-    "name": "Refine and Reuse",
-    "desc": "Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.",
-    "rarity": "Common",
-    "category": "Scrapsinger",
-    "reqs": "gilded path: scrapsinger => MTL = 45s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "reshape and remold": {
+  "reshape_and_remold": {
     "name": "Reshape and Remold",
     "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.\n[*This talent loses some effectiveness when below its requirements.]",
     "rarity": "Advanced",
     "category": "Scrapsinger",
-    "reqs": "gilded path: scrapsinger, refine and reuse, artisan's blade, songs unforged, masterwork => MTL = 70s",
+    "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => MTL = 70s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "gilded path: scrapsinger": {
-    "name": "Gilded Path: Scrapsinger",
-    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
-    "rarity": "Common",
-    "category": "Scrapsinger",
-    "reqs": "MTL = 35s",
-    "exclusive": [
-      "Rending Needle: Augmenter"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "songs unforged": {
-    "name": "Songs Unforged",
-    "desc": "Your weapon criticals will now activate Scrapsinger",
-    "rarity": "Common",
-    "category": "Scrapsinger",
-    "reqs": "gilded path: scrapsinger => MTL = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "artisan's blade": {
+  "artisans_blade": {
     "name": "Artisan's Blade",
     "desc": "Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.",
     "rarity": "Common",
     "category": "Scrapsinger",
-    "reqs": "gilded path: scrapsinger => MTL = 45s",
+    "reqs": "gilded_path_scrapsinger => MTL = 45s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "masterwork": {
@@ -69,12 +30,51 @@
     "desc": "Successful hits from Artisan Blades will proc metal rods and deal 50% more damage.",
     "rarity": "Rare",
     "category": "Scrapsinger",
-    "reqs": "artisan's blade => MTL = 60s",
+    "reqs": "artisans_blade => MTL = 60s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "refine_and_reuse": {
+    "name": "Refine and Reuse",
+    "desc": "Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.",
+    "rarity": "Common",
+    "category": "Scrapsinger",
+    "reqs": "gilded_path_scrapsinger => MTL = 45s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "gilded_path_scrapsinger": {
+    "name": "Gilded Path: Scrapsinger",
+    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
+    "rarity": "Common",
+    "category": "Scrapsinger",
+    "reqs": "MTL = 35s",
+    "exclusive": [
+      "Rending_Needle_Augmenter"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "songs_unforged": {
+    "name": "Songs Unforged",
+    "desc": "Your weapon criticals will now activate Scrapsinger",
+    "rarity": "Common",
+    "category": "Scrapsinger",
+    "reqs": "gilded_path_scrapsinger => MTL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

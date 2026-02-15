@@ -11,18 +11,6 @@
     "reqs": "FTD = 10r",
     "vaulted": false
   },
-  "brace": {
-    "name": "Brace",
-    "desc": "Brace yourself against attacks and gain hyperarmour.        ",
-    "stars": 0,
-    "category": "Support",
-    "type": "Attunementless",
-    "attributes": [
-      "Fortitude"
-    ],
-    "reqs": "FTD = 75r",
-    "vaulted": false
-  },
   "reinforce": {
     "name": "Reinforce",
     "desc": "Buff those around you with extra defense and damage.",
@@ -33,6 +21,18 @@
       "Fortitude"
     ],
     "reqs": "FTD = 50r",
+    "vaulted": false
+  },
+  "brace": {
+    "name": "Brace",
+    "desc": "Brace yourself against attacks and gain hyperarmour.        ",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Fortitude"
+    ],
+    "reqs": "FTD = 75r",
     "vaulted": false
   }
 }

@@ -1,20 +1,5 @@
 {
-  "pocket sand": {
-    "name": "Pocket Sand",
-    "desc": "[Fist] Feinting into an uppercut blinds and dazes your opponents briefly. We're even now, right? 30s cooldown",
-    "rarity": "Common",
-    "category": "Scoundrel",
-    "reqs": "STR = 20s, LHT = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 4
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "dirty boxing": {
+  "dirty_boxing": {
     "name": "Dirty Boxing",
     "desc": "Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s cooldown.",
     "rarity": "Rare",
@@ -26,7 +11,22 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "pocket_sand": {
+    "name": "Pocket Sand",
+    "desc": "[Fist] Feinting into an uppercut blinds and dazes your opponents briefly. We're even now, right? 30s cooldown",
+    "rarity": "Common",
+    "category": "Scoundrel",
+    "reqs": "STR = 20s, LHT = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 4
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

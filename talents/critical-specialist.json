@@ -1,44 +1,5 @@
 {
-  "knife's journey": {
-    "name": "Knife's Journey",
-    "desc": "Cancelling an enemy's Mantra windup with your basic attack now deals 15% more damage.",
-    "rarity": "Rare",
-    "category": "Critical Specialist",
-    "reqs": "LHT = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "successive throw": {
-    "name": "Successive Throw",
-    "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards.",
-    "rarity": "Common",
-    "category": "Critical Specialist",
-    "reqs": "LHT = 35s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "decisive blow": {
-    "name": "Decisive Blow",
-    "desc": "Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage.",
-    "rarity": "Common",
-    "category": "Critical Specialist",
-    "reqs": "knife's journey => LHT = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "finishing touch": {
+  "finishing_touch": {
     "name": "Finishing Touch",
     "desc": "[Daggers] Instantly execute enemies finished with the critical attack of your dagger.",
     "rarity": "Common",
@@ -50,7 +11,46 @@
     "innates": {
       "Passive Agility": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "knifes_journey": {
+    "name": "Knife's Journey",
+    "desc": "Cancelling an enemy's Mantra windup with your basic attack now deals 15% more damage.",
+    "rarity": "Rare",
+    "category": "Critical Specialist",
+    "reqs": "LHT = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "decisive_blow": {
+    "name": "Decisive Blow",
+    "desc": "Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage.",
+    "rarity": "Common",
+    "category": "Critical Specialist",
+    "reqs": "knifes_journey => LHT = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "successive_throw": {
+    "name": "Successive Throw",
+    "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards.",
+    "rarity": "Common",
+    "category": "Critical Specialist",
+    "reqs": "LHT = 35s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

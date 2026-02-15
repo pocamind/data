@@ -1,5 +1,5 @@
 {
-  "flaming flourish": {
+  "flaming_flourish": {
     "name": "Flaming Flourish",
     "desc": "Set enemies on fire when you flourish or uppercut them.",
     "rarity": "Common",
@@ -9,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "explosive finish": {
+  "explosive_finish": {
     "name": "Explosive Finish",
     "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast.",
     "rarity": "Common",
@@ -22,7 +22,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,17 +1,4 @@
 {
-  "excavator": {
-    "name": "Excavator",
-    "desc": "Chance to receive two sets of ore when mining. You mine things more quickly.",
-    "rarity": "Quest",
-    "category": "Prospector",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
   "harvester": {
     "name": "Harvester",
     "desc": "Chance to receive two sets of ingredients when harvesting. You fell trees in fewer strikes.",
@@ -22,7 +9,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "excavator": {
+    "name": "Excavator",
+    "desc": "Chance to receive two sets of ore when mining. You mine things more quickly.",
+    "rarity": "Quest",
+    "category": "Prospector",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

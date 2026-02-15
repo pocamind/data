@@ -1,4 +1,19 @@
 {
+  "safety_dance": {
+    "name": "Safety Dance",
+    "desc": "Your base dodge frames are increased by 0.05s.",
+    "rarity": "Rare",
+    "category": "Leaf in the Wind",
+    "reqs": "AGL = 20s",
+    "exclusive": [
+      "Risky_Moves"
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "observation": {
     "name": "Observation",
     "desc": "Dodge frames are larger if you cancel your roll immediately.",
@@ -6,27 +21,12 @@
     "category": "Leaf in the Wind",
     "reqs": "AGL = 20s",
     "exclusive": [
-      "Risky Moves"
+      "Risky_Moves"
     ],
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "safety dance": {
-    "name": "Safety Dance",
-    "desc": "Your base dodge frames are increased by 0.05s.",
-    "rarity": "Rare",
-    "category": "Leaf in the Wind",
-    "reqs": "AGL = 20s",
-    "exclusive": [
-      "Risky Moves"
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

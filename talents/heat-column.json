@@ -1,5 +1,5 @@
 {
-  "fan the flames": {
+  "fan_the_flames": {
     "name": "Fan the Flames",
     "desc": "Your stored Wind mantras can now empower your Fire mantras.\n[Note: Some Flamecharm Mantras negatively scale with size! Looking at you, Fire Eruption.]",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

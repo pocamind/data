@@ -1,17 +1,5 @@
 {
-  "illusory servants": {
-    "name": "Illusory Servants",
-    "desc": "Spawns an illusion of yourself that targets the closest player.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Visionshaper"
-    ],
-    "reqs": "oath: visionshaper => ()",
-    "vaulted": false
-  },
-  "illusory counter": {
+  "illusory_counter": {
     "name": "Illusory Counter",
     "desc": "If hit during the pose, negate the attacks and teleport the user behind the attacker.",
     "stars": 0,
@@ -20,7 +8,19 @@
     "attributes": [
       "Visionshaper"
     ],
-    "reqs": "oath: visionshaper => ()",
+    "reqs": "oath_visionshaper => ()",
+    "vaulted": false
+  },
+  "illusory_servants": {
+    "name": "Illusory Servants",
+    "desc": "Spawns an illusion of yourself that targets the closest player.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Visionshaper"
+    ],
+    "reqs": "oath_visionshaper => ()",
     "vaulted": false
   }
 }

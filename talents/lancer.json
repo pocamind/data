@@ -1,48 +1,5 @@
 {
-  "driving impact": {
-    "name": "Driving Impact",
-    "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
-    "rarity": "Common",
-    "category": "Lancer",
-    "reqs": "MED = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "blade's edge": {
-    "name": "Blade's Edge",
-    "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%.",
-    "rarity": "Common",
-    "category": "Lancer",
-    "reqs": "MED = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "lancer's impale": {
-    "name": "Lancer's Impale",
-    "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
-    "rarity": "Common",
-    "category": "Lancer",
-    "reqs": "MED = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 4
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "defensive sweep": {
+  "defensive_sweep": {
     "name": "Defensive Sweep",
     "desc": "[Spears] Posture breaking an opponent grants you +50% PEN for 3 seconds.",
     "rarity": "Common",
@@ -52,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "hoplite": {
@@ -67,7 +24,50 @@
     "innates": {
       "Passive Agility": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "driving_impact": {
+    "name": "Driving Impact",
+    "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
+    "rarity": "Common",
+    "category": "Lancer",
+    "reqs": "MED = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blades_edge": {
+    "name": "Blade's Edge",
+    "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%.",
+    "rarity": "Common",
+    "category": "Lancer",
+    "reqs": "MED = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lancers_impale": {
+    "name": "Lancer's Impale",
+    "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
+    "rarity": "Common",
+    "category": "Lancer",
+    "reqs": "MED = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 4
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

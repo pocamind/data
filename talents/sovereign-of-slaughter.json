@@ -1,5 +1,5 @@
 {
-  "chime of conflict": {
+  "chime_of_conflict": {
     "name": "Chime of Conflict",
     "desc": "Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.",
     "rarity": "Quest",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

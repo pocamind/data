@@ -1,16 +1,4 @@
 {
-  "dread whisper": {
-    "name": "Dread Whisper",
-    "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
-    "stars": 0,
-    "category": "Support",
-    "type": "Attunementless",
-    "attributes": [
-      "Charisma"
-    ],
-    "reqs": "CHA = 50r",
-    "vaulted": false
-  },
   "sing": {
     "name": "Sing",
     "desc": "Charm those around you with your powerful voice.        \n",
@@ -33,6 +21,18 @@
       "Charisma"
     ],
     "reqs": "CHA = 25r",
+    "vaulted": false
+  },
+  "dread_whisper": {
+    "name": "Dread Whisper",
+    "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "CHA = 50r",
     "vaulted": false
   }
 }

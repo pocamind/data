@@ -9,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "energy siphon": {
+  "energy_siphon": {
     "name": "Energy Siphon",
     "desc": "Your singularity now pulls ether from the extra players affected by Blackhole.",
     "rarity": "Common",
@@ -22,7 +22,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

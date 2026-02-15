@@ -1,43 +1,62 @@
 {
-  "ether overdrive [sdw]": {
+  "ether_overdrive_flm": {
+    "name": "Ether Overdrive [FLM]",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "FLM = 20r, INT = 90s",
+    "exclusive": [
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_MTL",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ether_overdrive_mtl": {
+    "name": "Ether Overdrive [MTL]",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "MTL = 20r, INT = 90s",
+    "exclusive": [
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ether_overdrive_sdw": {
     "name": "Ether Overdrive [SDW]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
     "reqs": "SDW = 20r, INT = 90s",
     "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [MTL]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_MTL",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ether overdrive [bld]": {
-    "name": "Ether Overdrive [BLD]",
-    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "BLD = 20r, INT = 90s",
-    "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [MTL]",
-      "Million Ton Piercer"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "absolute pitch": {
+  "absolute_pitch": {
     "name": "Absolute Pitch",
     "desc": "You can cast Ritual Mantras instantly.",
     "rarity": "Advanced",
@@ -47,102 +66,83 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ether overdrive [ice]": {
-    "name": "Ether Overdrive [ICE]",
-    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "ICE = 20r, INT = 90s",
-    "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [MTL]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "ether overdrive [flm]": {
-    "name": "Ether Overdrive [FLM]",
-    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "FLM = 20r, INT = 90s",
-    "exclusive": [
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [MTL]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "ether overdrive [ltn]": {
-    "name": "Ether Overdrive [LTN]",
-    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-    "rarity": "Advanced",
-    "category": "Songmaster",
-    "reqs": "LTN = 20r, INT = 90s",
-    "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [MTL]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "ether overdrive [wnd]": {
+  "ether_overdrive_wnd": {
     "name": "Ether Overdrive [WND]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
     "reqs": "WND = 20r, INT = 90s",
     "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [MTL]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_MTL",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ether overdrive [mtl]": {
-    "name": "Ether Overdrive [MTL]",
+  "ether_overdrive_ice": {
+    "name": "Ether Overdrive [ICE]",
     "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
     "rarity": "Advanced",
     "category": "Songmaster",
-    "reqs": "MTL = 20r, INT = 90s",
+    "reqs": "ICE = 20r, INT = 90s",
     "exclusive": [
-      "Ether Overdrive [FLM]",
-      "Ether Overdrive [ICE]",
-      "Ether Overdrive [LTN]",
-      "Ether Overdrive [WND]",
-      "Ether Overdrive [SDW]",
-      "Ether Overdrive [BLD]",
-      "Million Ton Piercer"
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_MTL",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ether_overdrive_ltn": {
+    "name": "Ether Overdrive [LTN]",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "LTN = 20r, INT = 90s",
+    "exclusive": [
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_MTL",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_BLD",
+      "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ether_overdrive_bld": {
+    "name": "Ether Overdrive [BLD]",
+    "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+    "rarity": "Advanced",
+    "category": "Songmaster",
+    "reqs": "BLD = 20r, INT = 90s",
+    "exclusive": [
+      "Ether_Overdrive_FLM",
+      "Ether_Overdrive_ICE",
+      "Ether_Overdrive_LTN",
+      "Ether_Overdrive_WND",
+      "Ether_Overdrive_SDW",
+      "Ether_Overdrive_MTL",
+      "Million_Ton_Piercer"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

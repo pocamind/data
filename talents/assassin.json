@@ -11,23 +11,23 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "unseen threat": {
+  "unseen_threat": {
     "name": "Unseen Threat",
     "desc": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 5s.",
     "rarity": "Common",
     "category": "Assassin",
-    "reqs": "deep wound => AGL = 60s",
+    "reqs": "deep_wound => AGL = 60s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "lights out": {
+  "lights_out": {
     "name": "Lights Out",
     "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
     "rarity": "Common",
@@ -39,10 +39,10 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "deep wound": {
+  "deep_wound": {
     "name": "Deep Wound",
     "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
     "rarity": "Common",
@@ -52,7 +52,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

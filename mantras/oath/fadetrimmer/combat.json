@@ -1,5 +1,5 @@
 {
-  "precision cuts": {
+  "precision_cuts": {
     "name": "Precision Cuts",
     "desc": "Snip forward with your scissors!",
     "stars": 0,
@@ -8,10 +8,10 @@
     "attributes": [
       "Fadetrimmer"
     ],
-    "reqs": "oath: fadetrimmer => ()",
+    "reqs": "oath_fadetrimmer => ()",
     "vaulted": false
   },
-  "close shave": {
+  "close_shave": {
     "name": "Close Shave",
     "desc": "Close the distance and deliver a fast slash.",
     "stars": 0,
@@ -20,7 +20,7 @@
     "attributes": [
       "Fadetrimmer"
     ],
-    "reqs": "oath: fadetrimmer => ()",
+    "reqs": "oath_fadetrimmer => ()",
     "vaulted": false
   }
 }

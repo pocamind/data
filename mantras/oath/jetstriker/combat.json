@@ -1,5 +1,5 @@
 {
-  "fake strike": {
+  "fake_strike": {
     "name": "Fake Strike",
     "desc": "Trick your opponent and quickly go behind them.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Jetstriker"
     ],
-    "reqs": "oath: jetstriker => ()",
+    "reqs": "oath_jetstriker => ()",
     "vaulted": false
   }
 }

@@ -1,15 +1,15 @@
 {
-  "temperature shock": {
+  "temperature_shock": {
     "name": "Temperature Shock",
     "desc": "Your fire mantras now detonate any stacked crystals.",
     "rarity": "Common",
     "category": "Flashfreeze",
-    "reqs": "glass path: crystallization => ICE = 40s, FLM = 40s",
+    "reqs": "glass_path_crystallization => ICE = 40s, FLM = 40s",
     "exclusive": [
-      "Unyielding Frost"
+      "Unyielding_Frost"
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

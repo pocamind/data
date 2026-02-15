@@ -1,17 +1,4 @@
 {
-  "underdog": {
-    "name": "Underdog",
-    "desc": "You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.",
-    "rarity": "Common",
-    "category": "Champion",
-    "reqs": "WLL = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
   "defiance": {
     "name": "Defiance",
     "desc": "Negative status effects are half as effective when you are below 35% HP.",
@@ -22,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "champion's regalia": {
+  "champions_regalia": {
     "name": "Champion's Regalia",
     "desc": "Flourishing an opponent grants you 1.5x posture damage for 10 seconds.",
     "rarity": "Rare",
@@ -37,7 +24,20 @@
     "innates": {
       "Carry Load": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "underdog": {
+    "name": "Underdog",
+    "desc": "You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.",
+    "rarity": "Common",
+    "category": "Champion",
+    "reqs": "WLL = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

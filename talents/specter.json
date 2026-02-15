@@ -1,15 +1,28 @@
 {
-  "phantom step": {
+  "phantom_step": {
     "name": "Phantom Step",
     "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)",
     "rarity": "Common",
     "category": "Specter",
-    "reqs": "haunted path: specter => WND = 55s",
+    "reqs": "haunted_path_specter => WND = 55s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "vanishing_wraith": {
+    "name": "Vanishing Wraith",
+    "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target.",
+    "rarity": "Rare",
+    "category": "Specter",
+    "reqs": "phantom_step => WND = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "apparitions": {
@@ -17,25 +30,12 @@
     "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
     "rarity": "Common",
     "category": "Specter",
-    "reqs": "haunted path: specter => WND = 50s",
+    "reqs": "haunted_path_specter => WND = 50s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "vanishing wraith": {
-    "name": "Vanishing Wraith",
-    "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target.",
-    "rarity": "Rare",
-    "category": "Specter",
-    "reqs": "phantom step => WND = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "possession": {
@@ -43,25 +43,25 @@
     "desc": "After an apparition hits an enemy, receive 15% posture damage on all Galebreath attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.\n[*This talent loses some effectiveness when below its requirements.]",
     "rarity": "Advanced",
     "category": "Specter",
-    "reqs": "haunted path: specter => WND = 75s",
+    "reqs": "haunted_path_specter => WND = 75s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "haunted path: specter": {
+  "haunted_path_specter": {
     "name": "Haunted Path: Specter",
     "desc": "Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.",
     "rarity": "Common",
     "category": "Specter",
-    "reqs": "haunted gale => WND = 50s",
+    "reqs": "haunted_gale => WND = 50s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "sightless beam": {
+  "sightless_beam": {
     "name": "Sightless Beam",
     "desc": "Fires a high pressure beam from your eyes.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Blindseer"
     ],
-    "reqs": "oath: blindseer => ()",
+    "reqs": "oath_blindseer => ()",
     "vaulted": false
   }
 }

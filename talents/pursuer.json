@@ -1,5 +1,5 @@
 {
-  "going nowhere": {
+  "going_nowhere": {
     "name": "Going Nowhere",
     "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.",
     "rarity": "Rare",
@@ -11,7 +11,7 @@
     "innates": {
       "Passive Agility": 6
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

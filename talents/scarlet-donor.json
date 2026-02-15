@@ -1,5 +1,18 @@
 {
-  "donation drive": {
+  "sharing_is_caring": {
+    "name": "Sharing is Caring",
+    "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
+    "rarity": "Common",
+    "category": "Scarlet Donor",
+    "reqs": "charismatic_cast => CHA = 30s, BLD = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "donation_drive": {
     "name": "Donation Drive",
     "desc": "Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.\n[*Note: 12s to 8s CD between 20 and 60 Charisma.]",
     "rarity": "Common",
@@ -9,10 +22,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "blood bank": {
+  "blood_bank": {
     "name": "Blood Bank",
     "desc": "Consuming 'Charm' now gives slight temporary health.",
     "rarity": "Common",
@@ -22,20 +35,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "sharing is caring": {
-    "name": "Sharing is Caring",
-    "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
-    "rarity": "Common",
-    "category": "Scarlet Donor",
-    "reqs": "charismatic cast => CHA = 30s, BLD = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

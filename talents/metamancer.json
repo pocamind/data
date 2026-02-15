@@ -1,5 +1,5 @@
 {
-  "chain of perfection": {
+  "chain_of_perfection": {
     "name": "Chain of Perfection",
     "desc": "You gain stacks of 'Perfection' on hitting mobs with basic attacks. Perfection increases your damage towards mobs the more stack you have. All stacks are lost upon taking damage.",
     "rarity": "Quest",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

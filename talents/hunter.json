@@ -1,5 +1,5 @@
 {
-  "peripheral vision": {
+  "peripheral_vision": {
     "name": "Peripheral Vision",
     "desc": "Your glare now ignores if your opponent is facing you.",
     "rarity": "Rare",
@@ -11,7 +11,7 @@
     "innates": {
       "Sanity": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

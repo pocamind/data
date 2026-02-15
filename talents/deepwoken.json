@@ -1,18 +1,5 @@
 {
-  "depths connection": {
-    "name": "Depths Connection",
-    "desc": "Your interaction with The Depths allows you to easily draw ether from the surrounding air.",
-    "rarity": "Common",
-    "category": "Deepwoken",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "spell shout": {
+  "spell_shout": {
     "name": "Spell Shout",
     "desc": "You now will shout the names of your spells upon cast.",
     "rarity": "Quest",
@@ -22,7 +9,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "depths_connection": {
+    "name": "Depths Connection",
+    "desc": "Your interaction with The Depths allows you to easily draw ether from the surrounding air.",
+    "rarity": "Common",
+    "category": "Deepwoken",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

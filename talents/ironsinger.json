@@ -1,5 +1,18 @@
 {
-  "ironclad punishment": {
+  "alloyblood": {
+    "name": "Alloyblood",
+    "desc": "You  don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.\n[Note: Scales with investment. Having less Ironsing reduces the effect of this Talent.]",
+    "rarity": "Advanced",
+    "category": "Ironsinger",
+    "reqs": "MTL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ironclad_punishment": {
     "name": "Ironclad Punishment",
     "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.",
     "rarity": "Common",
@@ -9,64 +22,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "ironsinger": {
-    "name": "Ironsinger",
-    "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to pull on Metal Rods.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "MTL = 1s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "piercing metal": {
-    "name": "Piercing Metal",
-    "desc": "Deal additional armor damage to enemies per metal rod affecting them",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "MTL = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "master ironsinger": {
-    "name": "Master Ironsinger",
-    "desc": "You can now obtain 3-star Ironsinger mantras.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "expert ironsinger => MTL = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "adept ironsinger": {
-    "name": "Adept Ironsinger",
-    "desc": "You can now obtain 1-star Ironsinger mantras.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "ironsinger => MTL = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "heavy shoulders": {
+  "heavy_shoulders": {
     "name": "Heavy Shoulders",
     "desc": "If your opponent has 3 or more rods, their dodges are slower.",
     "rarity": "Common",
@@ -76,59 +35,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "laced traps": {
-    "name": "Laced Traps",
-    "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "MTL = 45s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "oh the irony": {
-    "name": "Oh The Irony",
-    "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "CHA = 40s, MTL = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "expert ironsinger": {
+  "expert_ironsinger": {
     "name": "Expert Ironsinger",
     "desc": "You can now obtain 2-star Ironsinger mantras.",
     "rarity": "Common",
     "category": "Ironsinger",
-    "reqs": "adept ironsinger => MTL = 30s",
+    "reqs": "adept_ironsinger => MTL = 30s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "metal shackles": {
-    "name": "Metal Shackles",
-    "desc": "Guardbreaking an opponent prevents them from receiving speed boosts for 5 seconds.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "STR = 15s, MTL = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
   "thornmail": {
@@ -141,20 +61,100 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "alloyblood": {
-    "name": "Alloyblood",
-    "desc": "You  don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.\n[Note: Scales with investment. Having less Ironsing reduces the effect of this Talent.]",
-    "rarity": "Advanced",
+  "piercing_metal": {
+    "name": "Piercing Metal",
+    "desc": "Deal additional armor damage to enemies per metal rod affecting them",
+    "rarity": "Common",
     "category": "Ironsinger",
-    "reqs": "MTL = 100s",
+    "reqs": "MTL = 60s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "ironsinger": {
+    "name": "Ironsinger",
+    "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to pull on Metal Rods.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "MTL = 1s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "oh_the_irony": {
+    "name": "Oh The Irony",
+    "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "CHA = 40s, MTL = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "adept_ironsinger": {
+    "name": "Adept Ironsinger",
+    "desc": "You can now obtain 1-star Ironsinger mantras.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "ironsinger => MTL = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "master_ironsinger": {
+    "name": "Master Ironsinger",
+    "desc": "You can now obtain 3-star Ironsinger mantras.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "expert_ironsinger => MTL = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "metal_shackles": {
+    "name": "Metal Shackles",
+    "desc": "Guardbreaking an opponent prevents them from receiving speed boosts for 5 seconds.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "STR = 15s, MTL = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "laced_traps": {
+    "name": "Laced Traps",
+    "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "MTL = 45s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

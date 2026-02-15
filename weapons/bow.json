@@ -1,8 +1,8 @@
 {
-  "guiding star": {
+  "guiding_star": {
     "name": "Guiding Star",
     "type": "Bow",
-    "damageType": "Slash",
+    "damage_type": "Slash",
     "reqs": "INT = 25r OR WLL = 25r OR CHA = 25r, MED = 75r",
     "damage": 14.0,
     "pen": 0.0,

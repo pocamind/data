@@ -1,5 +1,5 @@
 {
-  "knuckle guard": {
+  "knuckle_guard": {
     "name": "Knuckle Guard",
     "desc": "Hitting Dazed enemies grants you 10% posture resistance for up to 15s.\n[*Note: 10s to 15s duration between 30 and 80 Strength + Fortitude.]",
     "rarity": "Common",
@@ -9,23 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "dancing guard": {
-    "name": "Dancing Guard",
-    "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
-    "rarity": "Common",
-    "category": "Bulwark",
-    "reqs": "FTD = 55s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "defensive reprisal": {
+  "defensive_reprisal": {
     "name": "Defensive Reprisal",
     "desc": "Being flourished grants you 10% posture resistance for up to 20s.\n[*Note: 12s to 20s duration between 20 and 65 Fortitude.]",
     "rarity": "Common",
@@ -35,10 +22,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "down to your level": {
+  "down_to_your_level": {
     "name": "Down to your Level",
     "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for up to 5s.\n[*Note: 3s to 5s duration between 20 and 60 Fortitude.]",
     "rarity": "Common",
@@ -48,7 +35,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "dancing_guard": {
+    "name": "Dancing Guard",
+    "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
+    "rarity": "Common",
+    "category": "Bulwark",
+    "reqs": "FTD = 55s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

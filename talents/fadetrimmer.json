@@ -1,5 +1,44 @@
 {
-  "oath: fadetrimmer": {
+  "hair_spray": {
+    "name": "Hair Spray",
+    "desc": "Apply your Hair Products.",
+    "rarity": "Oath",
+    "category": "Fadetrimmer",
+    "reqs": "oath_fadetrimmer => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "barbers_skillset": {
+    "name": "Barber's Skillset",
+    "desc": "What type of look are we going for today?",
+    "rarity": "Oath",
+    "category": "Fadetrimmer",
+    "reqs": "oath_fadetrimmer => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hair_products": {
+    "name": "Hair Products",
+    "desc": "Select Hair Products to apply to others with your Hair Spray.",
+    "rarity": "Oath",
+    "category": "Fadetrimmer",
+    "reqs": "oath_fadetrimmer => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_fadetrimmer": {
     "name": "Oath: Fadetrimmer",
     "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
     "rarity": "Oath",
@@ -9,49 +48,10 @@
       ""
     ],
     "innates": {
-      "Combat Mantra": 1,
-      "Wildcard Mantra": 1
+      "Wildcard Mantra": 1,
+      "Combat Mantra": 1
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "barber's skillset": {
-    "name": "Barber's Skillset",
-    "desc": "What type of look are we going for today?",
-    "rarity": "Oath",
-    "category": "Fadetrimmer",
-    "reqs": "oath: fadetrimmer => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hair spray": {
-    "name": "Hair Spray",
-    "desc": "Apply your Hair Products.",
-    "rarity": "Oath",
-    "category": "Fadetrimmer",
-    "reqs": "oath: fadetrimmer => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hair products": {
-    "name": "Hair Products",
-    "desc": "Select Hair Products to apply to others with your Hair Spray.",
-    "rarity": "Oath",
-    "category": "Fadetrimmer",
-    "reqs": "oath: fadetrimmer => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

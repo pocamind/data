@@ -1,5 +1,5 @@
 {
-  "lightning stream": {
+  "lightning_stream": {
     "name": "Lightning Stream",
     "desc": "A stream of lightning.\t",
     "stars": 1,
@@ -11,7 +11,7 @@
     "reqs": "LTN = 20r",
     "vaulted": false
   },
-  "spark swap": {
+  "spark_swap": {
     "name": "Spark Swap",
     "desc": "Almost instantaneous swap of location with whoever your cursor is on.",
     "stars": 3,

@@ -1,5 +1,5 @@
 {
-  "fortitude unbounded": {
+  "fortitude_unbounded": {
     "name": "Fortitude Unbounded",
     "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "voltaic conductor": {
+  "voltaic_conductor": {
     "name": "Voltaic Conductor",
     "desc": "Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

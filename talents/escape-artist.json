@@ -1,5 +1,5 @@
 {
-  "robber baron": {
+  "robber_baron": {
     "name": "Robber Baron",
     "desc": "You hold onto more of your items when defeated.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

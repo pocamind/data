@@ -1,4 +1,58 @@
 {
+  "produce_spark": {
+    "name": "Produce Spark",
+    "desc": "A simple production of flame for the use of making campfires.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "FLM = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "azure_flames": {
+    "name": "Azure Flames",
+    "desc": "Many of your flames turn blue, signifying their increased intensity.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "flamecharmer => WLL = 40s, FLM = 70s",
+    "exclusive": [
+      "Wraith_Path_Twisted_Puppets"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "intrepid_flame": {
+    "name": "Intrepid Flame",
+    "desc": "Flames wear off twice as fast on you.",
+    "rarity": "Outfit",
+    "category": "Flamecharmer",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_flamecharmer": {
+    "name": "Master Flamecharmer",
+    "desc": "You can now obtain 3-star Flamecharmer mantras.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "expert_flamecharmer => FLM = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
   "flamecharmer": {
     "name": "Flamecharmer",
     "desc": "Grants you the ability to command Fire as a Flamecharmer.",
@@ -9,64 +63,23 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "azure flames": {
-    "name": "Azure Flames",
-    "desc": "Many of your flames turn blue, signifying their increased intensity.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "flamecharmer => WLL = 40s, FLM = 70s",
-    "exclusive": [
-      "Wraith Path: Twisted Puppets"
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "produce spark": {
-    "name": "Produce Spark",
-    "desc": "A simple production of flame for the use of making campfires.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "FLM = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "expert flamecharmer": {
+  "expert_flamecharmer": {
     "name": "Expert Flamecharmer",
     "desc": "You can now obtain 2-star Flamecharmer Mantras.",
     "rarity": "Common",
     "category": "Flamecharmer",
-    "reqs": "adept flamecharmer => FLM = 30s",
+    "reqs": "adept_flamecharmer => FLM = 30s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "master flamecharmer": {
-    "name": "Master Flamecharmer",
-    "desc": "You can now obtain 3-star Flamecharmer mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "expert flamecharmer => FLM = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "unyielding inferno": {
+  "unyielding_inferno": {
     "name": "Unyielding Inferno",
     "desc": "Your flames burn just as strong even in the fiercest of storms.",
     "rarity": "Common",
@@ -76,10 +89,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "adept flamecharmer": {
+  "adept_flamecharmer": {
     "name": "Adept Flamecharmer",
     "desc": "You can now obtain 1-star Flamecharmer Mantras.",
     "rarity": "Common",
@@ -89,20 +102,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "intrepid flame": {
-    "name": "Intrepid Flame",
-    "desc": "Flames wear off twice as fast on you.",
-    "rarity": "Outfit",
-    "category": "Flamecharmer",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

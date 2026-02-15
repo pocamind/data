@@ -8,22 +8,10 @@
     "attributes": [
       "Starkindred"
     ],
-    "reqs": "oath: starkindred => ()",
+    "reqs": "oath_starkindred => ()",
     "vaulted": false
   },
-  "celestial assault": {
-    "name": "Celestial Assault",
-    "desc": "Use your wings and deliver two critical blows.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Starkindred"
-    ],
-    "reqs": "oath: starkindred => ()",
-    "vaulted": false
-  },
-  "sinister halo": {
+  "sinister_halo": {
     "name": "Sinister Halo",
     "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
     "stars": 0,
@@ -32,7 +20,19 @@
     "attributes": [
       "Starkindred"
     ],
-    "reqs": "oath: starkindred => ()",
+    "reqs": "oath_starkindred => ()",
+    "vaulted": false
+  },
+  "celestial_assault": {
+    "name": "Celestial Assault",
+    "desc": "Use your wings and deliver two critical blows.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Starkindred"
+    ],
+    "reqs": "oath_starkindred => ()",
     "vaulted": false
   }
 }

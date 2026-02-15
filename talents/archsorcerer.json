@@ -1,5 +1,5 @@
 {
-  "devastating power": {
+  "devastating_power": {
     "name": "Devastating Power",
     "desc": "Gain extra Ether for every Mantra in your arsenal.",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

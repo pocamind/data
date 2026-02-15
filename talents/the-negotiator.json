@@ -1,5 +1,5 @@
 {
-  "last second negotiations": {
+  "last_second_negotiations": {
     "name": "Last Second Negotiations",
     "desc": "Most enemies will hesitate a moment longer before executing you.",
     "rarity": "Common",
@@ -11,7 +11,7 @@
     "innates": {
       "Ether": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "bruiser's mixup": {
+  "bruisers_mixup": {
     "name": "Bruiser's Mixup",
     "desc": "Switching your fight Style mid-fight makes your basic Fist attack inflict bleed temporarily.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "charisma unbounded": {
+  "charisma_unbounded": {
     "name": "Charisma Unbounded",
     "desc": "You have gained the ability to surpass your limits and train your charisma to its fullest.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

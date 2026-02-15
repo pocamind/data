@@ -1,18 +1,5 @@
 {
-  "cornered fool": {
-    "name": "Cornered Fool",
-    "desc": "Blockbreaking a Charmed opponent procs Taunt for a scaled duration, making them take and deal more damage. 15s CD.\n[*Note: 3 seconds at 0 Charisma, 6 seconds at 85 Charisma.]",
-    "rarity": "Common",
-    "category": "Empath",
-    "reqs": "CHA = 85s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "off your game": {
+  "off_your_game": {
     "name": "Off Your Game",
     "desc": "You now slow Taunted enemies when you hit them.",
     "rarity": "Common",
@@ -22,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "give and take": {
+  "give_and_take": {
     "name": "Give and Take",
     "desc": "Deal less damage to comrades and receive less damage from comrades.\n[*Note: 20% less damage to and from allies.]",
     "rarity": "Common",
@@ -35,7 +22,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cornered_fool": {
+    "name": "Cornered Fool",
+    "desc": "Blockbreaking a Charmed opponent procs Taunt for a scaled duration, making them take and deal more damage. 15s CD.\n[*Note: 3 seconds at 0 Charisma, 6 seconds at 85 Charisma.]",
+    "rarity": "Common",
+    "category": "Empath",
+    "reqs": "CHA = 85s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

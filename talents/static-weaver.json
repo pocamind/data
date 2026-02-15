@@ -1,5 +1,31 @@
 {
-  "static link": {
+  "jumper_cables": {
+    "name": "Jumper Cables",
+    "desc": "Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.",
+    "rarity": "Common",
+    "category": "Static Weaver",
+    "reqs": "static_link => FTD = 20s, LTN = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "static_ace": {
+    "name": "Static Ace",
+    "desc": "Using Lightning Stream with an active tether targets your closest active link.",
+    "rarity": "Common",
+    "category": "Static Weaver",
+    "reqs": "static_link => INT = 15s, LTN = 70s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "static_link": {
     "name": "Static Link",
     "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
     "rarity": "Common",
@@ -9,59 +35,33 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static allure": {
+  "static_allure": {
     "name": "Static Allure",
     "desc": "Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.",
     "rarity": "Common",
     "category": "Static Weaver",
-    "reqs": "static link => INT = 15s, LTN = 50s",
+    "reqs": "static_link => INT = 15s, LTN = 50s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static ace": {
-    "name": "Static Ace",
-    "desc": "Using Lightning Stream with an active tether targets your closest active link.",
-    "rarity": "Common",
-    "category": "Static Weaver",
-    "reqs": "static link => INT = 15s, LTN = 70s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "jumper cables": {
-    "name": "Jumper Cables",
-    "desc": "Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.",
-    "rarity": "Common",
-    "category": "Static Weaver",
-    "reqs": "static link => FTD = 20s, LTN = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "link conduction": {
+  "link_conduction": {
     "name": "Link Conduction",
     "desc": "While you have active tethers your lightning mantras cost less ether.",
     "rarity": "Common",
     "category": "Static Weaver",
-    "reqs": "static link => INT = 15s, LTN = 65s",
+    "reqs": "static_link => INT = 15s, LTN = 65s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -8,10 +8,10 @@
     "attributes": [
       "Blindseer"
     ],
-    "reqs": "oath: blindseer => ()",
+    "reqs": "oath_blindseer => ()",
     "vaulted": false
   },
-  "tranquil circle": {
+  "tranquil_circle": {
     "name": "Tranquil Circle",
     "desc": "Disables mantras from being used, gives 10% Monster Armour and also gain total immunity to mantras whilst inside the radius.",
     "stars": 0,
@@ -20,7 +20,7 @@
     "attributes": [
       "Blindseer"
     ],
-    "reqs": "oath: blindseer => ()",
+    "reqs": "oath_blindseer => ()",
     "vaulted": false
   }
 }

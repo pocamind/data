@@ -1,17 +1,4 @@
 {
-  "grasp of eylis": {
-    "name": "Grasp of Eylis",
-    "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronised.",
-    "rarity": "Origin",
-    "category": "The Knives of Eylis",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
   "voideye": {
     "name": "Voideye",
     "desc": "Voidmother's blessing, the method to travel back to the Voidheart.",
@@ -22,7 +9,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "grasp_of_eylis": {
+    "name": "Grasp of Eylis",
+    "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronised.",
+    "rarity": "Origin",
+    "category": "The Knives of Eylis",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

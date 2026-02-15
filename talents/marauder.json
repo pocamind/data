@@ -1,5 +1,5 @@
 {
-  "thresher scales": {
+  "thresher_scales": {
     "name": "Thresher Scales",
     "desc": "You regenerate your armor at campfires.",
     "rarity": "Quest",
@@ -11,10 +11,10 @@
     "innates": {
       "Health": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "old habits die hard": {
+  "old_habits_die_hard": {
     "name": "Old Habits Die Hard",
     "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
     "rarity": "Common",
@@ -26,10 +26,10 @@
     "innates": {
       "Health": 5
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "thresher claws": {
+  "thresher_claws": {
     "name": "Thresher Claws",
     "desc": "All of your attacks have +5% more PEN. Your Basic Attacks and critical attacks have an additional +5% PEN on top.",
     "rarity": "Rare",
@@ -39,7 +39,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

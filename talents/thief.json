@@ -1,45 +1,17 @@
 {
-  "cap artist": {
-    "name": "Cap Artist",
-    "desc": "Pressing [R] while crouching allows you to fake being dead.",
-    "rarity": "Common",
-    "category": "Thief",
-    "reqs": "CHA = 5s, AGL = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "another man's trash": {
+  "another_mans_trash": {
     "name": "Another Man's Trash",
     "desc": "Take unequipped equipment when mugging a player.",
     "rarity": "Advanced",
     "category": "Thief",
-    "reqs": "cap artist, pickpocket, master thief => AGL = 10s, CHA = 35s",
+    "reqs": "cap_artist, pickpocket, master_thief => AGL = 10s, CHA = 35s",
     "exclusive": [
       ""
     ],
     "innates": {
       "Passive Agility": 2
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "master thief": {
-    "name": "Master Thief",
-    "desc": "Gain more notes when mugging a player.",
-    "rarity": "Common",
-    "category": "Thief",
-    "reqs": "pickpocket => CHA = 25s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "pickpocket": {
@@ -54,7 +26,35 @@
     "innates": {
       "Passive Agility": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_thief": {
+    "name": "Master Thief",
+    "desc": "Gain more notes when mugging a player.",
+    "rarity": "Common",
+    "category": "Thief",
+    "reqs": "pickpocket => CHA = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cap_artist": {
+    "name": "Cap Artist",
+    "desc": "Pressing [R] while crouching allows you to fake being dead.",
+    "rarity": "Common",
+    "category": "Thief",
+    "reqs": "CHA = 5s, AGL = 25s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

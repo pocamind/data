@@ -1,5 +1,5 @@
 {
-  "approaching singularity": {
+  "approaching_singularity": {
     "name": "Approaching Singularity",
     "desc": "You now gain +1% Mantra PEN for every 10 points of Intelligence.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

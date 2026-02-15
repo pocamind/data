@@ -1,18 +1,44 @@
 {
-  "blighted touch": {
-    "name": "Blighted Touch",
-    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+  "anchor_shock": {
+    "name": "Anchor Shock",
+    "desc": "Your Blightshock prevents targets from using mobility mantras.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath: blightsurger => ()",
+    "reqs": "oath_blightsurger => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "oath: blightsurger": {
+  "blighted_touch": {
+    "name": "Blighted Touch",
+    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath_blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "sovereign_state": {
+    "name": "Sovereign State",
+    "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath_blightsurger => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_blightsurger": {
     "name": "Oath: Blightsurger",
     "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
     "rarity": "Oath",
@@ -22,23 +48,10 @@
       ""
     ],
     "innates": {
-      "Wildcard Mantra": 1,
-      "Combat Mantra": 2
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "sovereign state": {
-    "name": "Sovereign State",
-    "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
-    "rarity": "Oath",
-    "category": "Blightsurger",
-    "reqs": "oath: blightsurger => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "blightpierce": {
@@ -46,25 +59,12 @@
     "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath: blightsurger => ()",
+    "reqs": "oath_blightsurger => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "anchor shock": {
-    "name": "Anchor Shock",
-    "desc": "Your Blightshock prevents targets from using mobility mantras.",
-    "rarity": "Oath",
-    "category": "Blightsurger",
-    "reqs": "oath: blightsurger => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

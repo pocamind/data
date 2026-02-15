@@ -1,15 +1,15 @@
 {
-  "frozen web": {
+  "frozen_web": {
     "name": "Frozen Web",
     "desc": "Landing a critical with a Static Link on your opponent applies Chilled.",
     "rarity": "Common",
     "category": "Doomsday Engine",
-    "reqs": "static link => ICE = 40s, LTN = 40s",
+    "reqs": "static_link => ICE = 40s, LTN = 40s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

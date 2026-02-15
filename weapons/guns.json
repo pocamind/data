@@ -1,8 +1,8 @@
 {
-  "iron blunderbuss": {
+  "iron_blunderbuss": {
     "name": "Iron Blunderbuss",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "MED = 75r",
     "damage": 20.0,
     "pen": 0.25,
@@ -15,12 +15,12 @@
       "Medium Wep.": 7.0
     }
   },
-  "summer rifle": {
-    "name": "Summer Rifle",
+  "rosens_peacemaker": {
+    "name": "Rosen's Peacemaker",
     "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "()",
-    "damage": 17.0,
+    "damage_type": "Blunt",
+    "reqs": "MED = 75r",
+    "damage": 18.0,
     "pen": 0.0,
     "chip": 0.0,
     "weight": 4.0,
@@ -28,13 +28,13 @@
     "speed": 1.0,
     "endlag": 0.0,
     "scaling": {
-      "Medium Wep.": 6.0
+      "Medium Wep.": 8.0
     }
   },
-  "iron requiem": {
+  "iron_requiem": {
     "name": "Iron Requiem",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "LHT = 40r, MTL = 75r",
     "damage": 21.0,
     "pen": 0.0,
@@ -44,95 +44,14 @@
     "speed": 1.17,
     "endlag": 0.0,
     "scaling": {
-      "Light Wep.": 3.0,
-      "Ironsing": 4.0
+      "Ironsing": 4.0,
+      "Light Wep.": 3.0
     }
   },
-  "dragoon": {
-    "name": "Dragoon",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "LHT = 65r",
-    "damage": 16.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 1.0,
-    "range": 11.0,
-    "speed": 1.17,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 12.0
-    }
-  },
-  "rosen's roscoe": {
-    "name": "Rosen's Roscoe",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "LHT = 75r",
-    "damage": 16.0,
-    "pen": 0.0,
-    "chip": 0.2,
-    "weight": 3.5,
-    "range": 11.0,
-    "speed": 1.2,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 11.0
-    }
-  },
-  "stormseye": {
-    "name": "Stormseye",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "MED = 40r, LTN = 75r",
-    "damage": 19.5,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 8.0,
-    "speed": 1.0,
-    "endlag": 0.0,
-    "scaling": {
-      "Thundercall": 6.0,
-      "Medium Wep.": 3.0
-    }
-  },
-  "flintlock": {
-    "name": "Flintlock",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "LHT = 20r",
-    "damage": 11.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 1.0,
-    "range": 10.0,
-    "speed": 1.17,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 12.0
-    }
-  },
-  "dawnshot": {
-    "name": "Dawnshot",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "LHT = 40r",
-    "damage": 14.8,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 1.0,
-    "range": 10.5,
-    "speed": 1.17,
-    "endlag": 0.0,
-    "scaling": {
-      "Light Wep.": 12.0
-    }
-  },
-  "divine flintlock": {
+  "divine_flintlock": {
     "name": "Divine Flintlock",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "()",
     "damage": 15.0,
     "pen": 0.14,
@@ -145,10 +64,108 @@
       "Light Wep.": 15.0
     }
   },
-  "alloyed dawnshot": {
+  "rosens_hellflame": {
+    "name": "Rosen's Hellflame",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "MED = 40r, FLM = 75r",
+    "damage": 19.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 3.0,
+    "range": 7.0,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 3.0,
+      "Flamecharm": 4.0
+    }
+  },
+  "summer_rifle": {
+    "name": "Summer Rifle",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "()",
+    "damage": 17.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 4.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "rosens_roscoe": {
+    "name": "Rosen's Roscoe",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "LHT = 75r",
+    "damage": 16.0,
+    "pen": 0.0,
+    "chip": 0.2,
+    "weight": 3.5,
+    "range": 11.0,
+    "speed": 1.2,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 11.0
+    }
+  },
+  "dawnshot": {
+    "name": "Dawnshot",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "LHT = 40r",
+    "damage": 14.8,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.5,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
+  "flintlock": {
+    "name": "Flintlock",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "LHT = 20r",
+    "damage": 11.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 10.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
+  "stormseye": {
+    "name": "Stormseye",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "MED = 40r, LTN = 75r",
+    "damage": 19.5,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 3.0,
+      "Thundercall": 6.0
+    }
+  },
+  "alloyed_dawnshot": {
     "name": "Alloyed Dawnshot",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "LHT = 75r",
     "damage": 16.0,
     "pen": 0.05,
@@ -161,10 +178,26 @@
       "Light Wep.": 12.0
     }
   },
+  "dragoon": {
+    "name": "Dragoon",
+    "type": "Guns",
+    "damage_type": "Blunt",
+    "reqs": "LHT = 65r",
+    "damage": 16.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 1.0,
+    "range": 11.0,
+    "speed": 1.17,
+    "endlag": 0.0,
+    "scaling": {
+      "Light Wep.": 12.0
+    }
+  },
   "silversix": {
     "name": "Silversix",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "()",
     "damage": 10.0,
     "pen": 0.0,
@@ -177,27 +210,10 @@
       "Light Wep.": 13.0
     }
   },
-  "rosen's hellflame": {
-    "name": "Rosen's Hellflame",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "MED = 40r, FLM = 75r",
-    "damage": 19.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 3.0,
-    "range": 7.0,
-    "speed": 0.93,
-    "endlag": 0.0,
-    "scaling": {
-      "Flamecharm": 4.0,
-      "Medium Wep.": 3.0
-    }
-  },
   "repeater": {
     "name": "Repeater",
     "type": "Guns",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "LHT = 65r",
     "damage": 14.0,
     "pen": 0.0,
@@ -208,22 +224,6 @@
     "endlag": 0.0,
     "scaling": {
       "Light Wep.": 15.0
-    }
-  },
-  "rosen's peacemaker": {
-    "name": "Rosen's Peacemaker",
-    "type": "Guns",
-    "damageType": "Blunt",
-    "reqs": "MED = 75r",
-    "damage": 18.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 4.0,
-    "range": 8.0,
-    "speed": 1.0,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 8.0
     }
   }
 }

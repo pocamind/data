@@ -1,14 +1,14 @@
 {
-  "pressure blast": {
-    "name": "Pressure Blast",
-    "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
+  "onslaught": {
+    "name": "Onslaught",
+    "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
     "stars": 0,
     "category": "Combat",
     "type": "Attunementless",
     "attributes": [
       "Heavy Weapons"
     ],
-    "reqs": "HVY = 30r",
+    "reqs": "HVY = 50r",
     "vaulted": false
   },
   "punishment": {
@@ -23,16 +23,16 @@
     "reqs": "HVY = 50r",
     "vaulted": false
   },
-  "onslaught": {
-    "name": "Onslaught",
-    "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
+  "pressure_blast": {
+    "name": "Pressure Blast",
+    "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
     "stars": 0,
     "category": "Combat",
     "type": "Attunementless",
     "attributes": [
       "Heavy Weapons"
     ],
-    "reqs": "HVY = 50r",
+    "reqs": "HVY = 30r",
     "vaulted": false
   }
 }

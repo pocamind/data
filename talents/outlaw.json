@@ -1,18 +1,5 @@
 {
-  "ultrakill": {
-    "name": "Ultrakill",
-    "desc": "[1H Guns] When under the effects of Rapid Fire you reload 2x as fast. (Play Ultrakill)",
-    "rarity": "Common",
-    "category": "Outlaw",
-    "reqs": "rapid fire => LHT = 55s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "rapid reload": {
+  "rapid_reload": {
     "name": "Rapid Reload",
     "desc": "[1H Guns] You have 20% faster reload when reloading an empty pistol.",
     "rarity": "Common",
@@ -22,10 +9,10 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "rapid fire": {
+  "rapid_fire": {
     "name": "Rapid Fire",
     "desc": "[1H Guns] When you land a critical shot gain the ability to rapidly fire your critical for 2s. 12s cooldown.",
     "rarity": "Common",
@@ -35,23 +22,23 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "lock n load": {
-    "name": "Lock n Load",
-    "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%. After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with the number of bullets up to 15%.",
+  "ultrakill": {
+    "name": "Ultrakill",
+    "desc": "[1H Guns] When under the effects of Rapid Fire you reload 2x as fast. (Play Ultrakill)",
     "rarity": "Common",
     "category": "Outlaw",
-    "reqs": "LHT = 60s",
+    "reqs": "rapid_fire => LHT = 55s",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "sleight of hand": {
+  "sleight_of_hand": {
     "name": "Sleight of Hand",
     "desc": "[1H Guns] When you flourish an opponent, you instantly load a bullet.",
     "rarity": "Common",
@@ -61,7 +48,20 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lock_n_load": {
+    "name": "Lock n Load",
+    "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%. After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with the number of bullets up to 15%.",
+    "rarity": "Common",
+    "category": "Outlaw",
+    "reqs": "LHT = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

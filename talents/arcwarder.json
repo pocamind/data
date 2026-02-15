@@ -1,44 +1,18 @@
 {
-  "arc module: null": {
-    "name": "Arc Module: Null",
-    "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
+  "arc_module_dash": {
+    "name": "Arc Module: Dash",
+    "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
     "rarity": "Oath",
     "category": "Arcwarder",
-    "reqs": "oath: arcwarder => ()",
+    "reqs": "oath_arcwarder => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "arc module: eject": {
-    "name": "Arc Module: Eject",
-    "desc": "When block broken with Arc Suit active, eject from the armor.",
-    "rarity": "Oath",
-    "category": "Arcwarder",
-    "reqs": "oath: arcwarder => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "arc module: leap": {
-    "name": "Arc Module: Leap",
-    "desc": "Holding Spacebar after double jumping propels you up for a short duration.",
-    "rarity": "Oath",
-    "category": "Arcwarder",
-    "reqs": "oath: arcwarder => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "oath: arcwarder": {
+  "oath_arcwarder": {
     "name": "Oath: Arcwarder",
     "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
     "rarity": "Oath",
@@ -48,36 +22,62 @@
       ""
     ],
     "innates": {
-      "Combat Mantra": 2,
-      "Wildcard Mantra": 1
+      "Wildcard Mantra": 1,
+      "Combat Mantra": 2
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "arc module: dash": {
-    "name": "Arc Module: Dash",
-    "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
+  "arc_module_eject": {
+    "name": "Arc Module: Eject",
+    "desc": "When block broken with Arc Suit active, eject from the armor.",
     "rarity": "Oath",
     "category": "Arcwarder",
-    "reqs": "oath: arcwarder => ()",
+    "reqs": "oath_arcwarder => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "arc module: guard": {
+  "arc_module_null": {
+    "name": "Arc Module: Null",
+    "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath_arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "arc_module_leap": {
+    "name": "Arc Module: Leap",
+    "desc": "Holding Spacebar after double jumping propels you up for a short duration.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath_arcwarder => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "arc_module_guard": {
     "name": "Arc Module: Guard",
     "desc": "Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.",
     "rarity": "Oath",
     "category": "Arcwarder",
-    "reqs": "oath: arcwarder => ()",
+    "reqs": "oath_arcwarder => ()",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

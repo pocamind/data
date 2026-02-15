@@ -1,5 +1,5 @@
 {
-  "glacial arc": {
+  "glacial_arc": {
     "name": "Glacial Arc",
     "desc": "An arc of ice.\r",
     "stars": 1,
@@ -11,7 +11,7 @@
     "reqs": "ICE = 20r",
     "vaulted": false
   },
-  "ice skate": {
+  "ice_skate": {
     "name": "Ice Skate",
     "desc": "Skate freely on paths of ice.\r",
     "stars": 3,

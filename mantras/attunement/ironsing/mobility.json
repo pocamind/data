@@ -1,5 +1,5 @@
 {
-  "metal rampart": {
+  "metal_rampart": {
     "name": "Metal Rampart",
     "desc": "Form a medium size pillar at the user location .",
     "stars": 0,
@@ -11,7 +11,7 @@
     "reqs": "MTL = 1r",
     "vaulted": false
   },
-  "metal ball": {
+  "metal_ball": {
     "name": "Metal Ball",
     "desc": "Form yourself into a metal ball and rush forward.",
     "stars": 2,

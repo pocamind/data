@@ -1,44 +1,5 @@
 {
-  "just a taste": {
-    "name": "Just a Taste",
-    "desc": "First bloodrend mantra you hit in combat has increased blood drain.",
-    "rarity": "Common",
-    "category": "Quack Doctor",
-    "reqs": "BLD = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "blood transfusion": {
-    "name": "Blood Transfusion",
-    "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)",
-    "rarity": "Rare",
-    "category": "Quack Doctor",
-    "reqs": "BLD = 60s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "open wound": {
-    "name": "Open Wound",
-    "desc": "Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.",
-    "rarity": "Common",
-    "category": "Quack Doctor",
-    "reqs": "BLD = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "blood bag": {
+  "blood_bag": {
     "name": "Blood Bag",
     "desc": "You receive extra blood from knocking an enemy.",
     "rarity": "Common",
@@ -48,7 +9,46 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "open_wound": {
+    "name": "Open Wound",
+    "desc": "Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.",
+    "rarity": "Common",
+    "category": "Quack Doctor",
+    "reqs": "BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blood_transfusion": {
+    "name": "Blood Transfusion",
+    "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)",
+    "rarity": "Rare",
+    "category": "Quack Doctor",
+    "reqs": "BLD = 60s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "just_a_taste": {
+    "name": "Just a Taste",
+    "desc": "First bloodrend mantra you hit in combat has increased blood drain.",
+    "rarity": "Common",
+    "category": "Quack Doctor",
+    "reqs": "BLD = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

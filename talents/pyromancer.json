@@ -1,5 +1,5 @@
 {
-  "hungry flames": {
+  "hungry_flames": {
     "name": "Hungry Flames",
     "desc": "When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,32 +1,17 @@
 {
-  "down comes the claw": {
-    "name": "Down Comes the Claw",
-    "desc": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for up to 6.5s.\n[*Note: 4s to 6.5s duration between 30 and 75 Agility.]",
+  "maiming_claws": {
+    "name": "Maiming Claws",
+    "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
     "rarity": "Common",
     "category": "Trickster",
-    "reqs": "AGL = 75s",
+    "reqs": "down_comes_the_claw => AGL = 100s",
     "exclusive": [
       ""
     ],
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "crippling comeuppance": {
-    "name": "Crippling Comeuppance",
-    "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
-    "rarity": "Advanced",
-    "category": "Trickster",
-    "reqs": "AGL = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "pursuit": {
@@ -41,10 +26,40 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cheap shot": {
+  "crippling_comeuppance": {
+    "name": "Crippling Comeuppance",
+    "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
+    "rarity": "Advanced",
+    "category": "Trickster",
+    "reqs": "AGL = 100s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "down_comes_the_claw": {
+    "name": "Down Comes the Claw",
+    "desc": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for up to 6.5s.\n[*Note: 4s to 6.5s duration between 30 and 75 Agility.]",
+    "rarity": "Common",
+    "category": "Trickster",
+    "reqs": "AGL = 75s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cheap_shot": {
     "name": "Cheap Shot",
     "desc": "Your attacks gain up to 10% PEN multiplicatively when you have an active speed boost.\n[*Note: 5% to 10% PEN between 20 and 65 Agility.]",
     "rarity": "Rare",
@@ -56,22 +71,7 @@
     "innates": {
       "Passive Agility": 6
     },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "maiming claws": {
-    "name": "Maiming Claws",
-    "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
-    "rarity": "Common",
-    "category": "Trickster",
-    "reqs": "down comes the claw => AGL = 100s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,47 +1,4 @@
 {
-  "padded armor": {
-    "name": "Padded Armor",
-    "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
-    "rarity": "Common",
-    "category": "Natural Armor",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Blunt Armor Percentage": 3
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "steel scales": {
-    "name": "Steel Scales",
-    "desc": "You take an additional 5% less damage when your armor is broken.",
-    "rarity": "Common",
-    "category": "Natural Armor",
-    "reqs": "padded armor => ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Slash Armor Percentage": 3
-    },
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "armor conserver": {
-    "name": "Armor Conserver",
-    "desc": "You lose 15% less armor when hit.",
-    "rarity": "Common",
-    "category": "Natural Armor",
-    "reqs": "()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
   "lightweight": {
     "name": "Lightweight",
     "desc": "Move faster when your armor runs out of durability.",
@@ -54,7 +11,50 @@
     "innates": {
       "Passive Agility": 3
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "armor_conserver": {
+    "name": "Armor Conserver",
+    "desc": "You lose 15% less armor when hit.",
+    "rarity": "Common",
+    "category": "Natural Armor",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "padded_armor": {
+    "name": "Padded Armor",
+    "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
+    "rarity": "Common",
+    "category": "Natural Armor",
+    "reqs": "()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Blunt Armor Percentage": 3
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "steel_scales": {
+    "name": "Steel Scales",
+    "desc": "You take an additional 5% less damage when your armor is broken.",
+    "rarity": "Common",
+    "category": "Natural Armor",
+    "reqs": "padded_armor => ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Slash Armor Percentage": 3
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

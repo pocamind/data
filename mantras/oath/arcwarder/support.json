@@ -1,5 +1,5 @@
 {
-  "arc suit": {
+  "arc_suit": {
     "name": "Arc Suit",
     "desc": "Encases the user in a durable armor.",
     "stars": 0,
@@ -8,7 +8,7 @@
     "attributes": [
       "Arcwarder"
     ],
-    "reqs": "oath: arcwarder => ()",
+    "reqs": "oath_arcwarder => ()",
     "vaulted": false
   }
 }

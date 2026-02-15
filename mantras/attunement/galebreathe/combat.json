@@ -1,5 +1,5 @@
 {
-  "wind blade": {
+  "wind_blade": {
     "name": "Wind Blade",
     "desc": "Slicing blades of wind.\r\n",
     "stars": 0,
@@ -11,9 +11,9 @@
     "reqs": "WND = 1r",
     "vaulted": false
   },
-  "twister kicks": {
-    "name": "Twister Kicks",
-    "desc": "Go forth with spinning kicks infused with the wind.",
+  "gale_lunge": {
+    "name": "Gale Lunge",
+    "desc": "A rush of piercing wind.\r",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
@@ -23,9 +23,33 @@
     "reqs": "WND = 20r",
     "vaulted": false
   },
-  "wind gun": {
-    "name": "Wind Gun",
-    "desc": "A powerful wind blast.\r",
+  "pillars_of_erisia": {
+    "name": "Pillars of Erisia",
+    "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "WND = 50r",
+    "vaulted": false
+  },
+  "air_force": {
+    "name": "Air Force",
+    "desc": "Shoots out an air blast.\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "WND = 1r",
+    "vaulted": false
+  },
+  "champions_whirlthrow": {
+    "name": "Champion's Whirlthrow",
+    "desc": "Grab your opponent and toss them with the power of gale.\n[*Guard breaks at Level 5]",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
@@ -35,28 +59,16 @@
     "reqs": "WND = 30r",
     "vaulted": false
   },
-  "wind forge": {
-    "name": "Wind Forge",
-    "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
-    "stars": 1,
+  "tornado_kick": {
+    "name": "Tornado Kick",
+    "desc": "Slicing blades of wind.\r\n",
+    "stars": 0,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 20r",
-    "vaulted": false
-  },
-  "gale punch": {
-    "name": "Gale Punch",
-    "desc": "Form a punch of wind in your fist and release it.\r",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "WND = 20r",
+    "reqs": "WND = 1r",
     "vaulted": false
   },
   "galetrap": {
@@ -71,7 +83,19 @@
     "reqs": "WND = 20r",
     "vaulted": false
   },
-  "astral wind": {
+  "wind_forge": {
+    "name": "Wind Forge",
+    "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "WND = 20r",
+    "vaulted": false
+  },
+  "astral_wind": {
     "name": "Astral Wind",
     "desc": "A rapid delivery of consecutive attacks.\r",
     "stars": 3,
@@ -83,33 +107,33 @@
     "reqs": "WND = 50r",
     "vaulted": false
   },
-  "champion's whirlthrow": {
-    "name": "Champion's Whirlthrow",
-    "desc": "Grab your opponent and toss them with the power of gale.\n[*Guard breaks at Level 5]",
-    "stars": 2,
+  "gale_punch": {
+    "name": "Gale Punch",
+    "desc": "Form a punch of wind in your fist and release it.\r",
+    "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 30r",
+    "reqs": "WND = 20r",
     "vaulted": false
   },
-  "wind carve": {
+  "twister_kicks": {
+    "name": "Twister Kicks",
+    "desc": "Go forth with spinning kicks infused with the wind.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "WND = 20r",
+    "vaulted": false
+  },
+  "wind_carve": {
     "name": "Wind Carve",
     "desc": "A quick swirl of sharp winds.\r",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "WND = 30r",
-    "vaulted": false
-  },
-  "rising wind": {
-    "name": "Rising Wind",
-    "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
@@ -131,31 +155,7 @@
     "reqs": "WND = 20r",
     "vaulted": false
   },
-  "pillars of erisia": {
-    "name": "Pillars of Erisia",
-    "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "WND = 50r",
-    "vaulted": false
-  },
-  "air force": {
-    "name": "Air Force",
-    "desc": "Shoots out an air blast.\n",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "WND = 1r",
-    "vaulted": false
-  },
-  "heavenly wind": {
+  "heavenly_wind": {
     "name": "Heavenly Wind",
     "desc": "A strike from the heavens.\r",
     "stars": 1,
@@ -179,28 +179,28 @@
     "reqs": "WND = 20r",
     "vaulted": false
   },
-  "tornado kick": {
-    "name": "Tornado Kick",
-    "desc": "Slicing blades of wind.\r\n",
-    "stars": 0,
+  "rising_wind": {
+    "name": "Rising Wind",
+    "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 1r",
+    "reqs": "WND = 30r",
     "vaulted": false
   },
-  "gale lunge": {
-    "name": "Gale Lunge",
-    "desc": "A rush of piercing wind.\r",
-    "stars": 1,
+  "wind_gun": {
+    "name": "Wind Gun",
+    "desc": "A powerful wind blast.\r",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "WND = 20r",
+    "reqs": "WND = 30r",
     "vaulted": false
   }
 }

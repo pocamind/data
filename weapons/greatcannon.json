@@ -1,8 +1,8 @@
 {
-  "smouldering hollow": {
+  "smouldering_hollow": {
     "name": "Smouldering Hollow",
     "type": "Greatcannon",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "STR = 30r, HVY = 75r",
     "damage": 27.0,
     "pen": 0.1,
@@ -15,10 +15,10 @@
       "Heavy Wep.": 8.6
     }
   },
-  "edenbrand hellcoil": {
+  "edenbrand_hellcoil": {
     "name": "Edenbrand Hellcoil",
     "type": "Greatcannon",
-    "damageType": "Blunt",
+    "damage_type": "Blunt",
     "reqs": "STR = 30r, HVY = 75r",
     "damage": 27.0,
     "pen": 0.0,

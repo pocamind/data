@@ -1,5 +1,5 @@
 {
-  "scorched peak": {
+  "scorched_peak": {
     "name": "Scorched Peak",
     "desc": "Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.",
     "rarity": "Common",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

@@ -1,17 +1,5 @@
 {
-  "shadow vortex": {
-    "name": "Shadow Vortex",
-    "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 50r",
-    "vaulted": true
-  },
-  "umbral slash": {
+  "umbral_slash": {
     "name": "Umbral Slash",
     "desc": "Perform a diagonal shadow-infused slash.",
     "stars": 2,
@@ -23,103 +11,7 @@
     "reqs": "SDW = 30r",
     "vaulted": false
   },
-  "shade bringer": {
-    "name": "Shade Bringer",
-    "desc": "Temporarily summon a shadow greatsword for a large slash.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 50r",
-    "vaulted": false
-  },
-  "shadow meteors": {
-    "name": "Shadow Meteors",
-    "desc": "Hail down meteors of darkness.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 30r",
-    "vaulted": false
-  },
-  "shadow gun": {
-    "name": "Shadow Gun",
-    "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 1r",
-    "vaulted": false
-  },
-  "shadow chains": {
-    "name": "Shadow Chains",
-    "desc": "Chains of shadow.\t",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 20r",
-    "vaulted": false
-  },
-  "shadow seekers": {
-    "name": "Shadow Seekers",
-    "desc": "Call forth the void to track your opponents.        ",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 20r",
-    "vaulted": false
-  },
-  "eclipse kick": {
-    "name": "Eclipse Kick",
-    "desc": "Show your foes your strength.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "STR = 15r, SDW = 50r",
-    "vaulted": false
-  },
-  "rising shadow": {
-    "name": "Rising Shadow",
-    "desc": "Form a Shockwave of darkness.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 30r",
-    "vaulted": false
-  },
-  "dark blade": {
-    "name": "Dark Blade",
-    "desc": "Slicing blades of dark energy.\t",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "SDW = 1r",
-    "vaulted": false
-  },
-  "shadow roar": {
+  "shadow_roar": {
     "name": "Shadow Roar",
     "desc": "Roar a wave of shadows.",
     "stars": 2,
@@ -131,9 +23,21 @@
     "reqs": "SDW = 30r",
     "vaulted": false
   },
-  "shadow eruption": {
-    "name": "Shadow Eruption",
-    "desc": "Form a shockwave of darkness.\t",
+  "eclipse_kick": {
+    "name": "Eclipse Kick",
+    "desc": "Show your foes your strength.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "STR = 15r, SDW = 50r",
+    "vaulted": false
+  },
+  "shadow_chains": {
+    "name": "Shadow Chains",
+    "desc": "Chains of shadow.\t",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
@@ -143,7 +47,43 @@
     "reqs": "SDW = 20r",
     "vaulted": false
   },
-  "clutching shadow": {
+  "shadow_vortex": {
+    "name": "Shadow Vortex",
+    "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 50r",
+    "vaulted": true
+  },
+  "rising_shadow": {
+    "name": "Rising Shadow",
+    "desc": "Form a Shockwave of darkness.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  },
+  "shadow_meteors": {
+    "name": "Shadow Meteors",
+    "desc": "Hail down meteors of darkness.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 30r",
+    "vaulted": false
+  },
+  "clutching_shadow": {
     "name": "Clutching Shadow",
     "desc": "A shadowy hand.\t",
     "stars": 0,
@@ -153,6 +93,66 @@
       "Shadowcast"
     ],
     "reqs": "SDW = 1r",
+    "vaulted": false
+  },
+  "dark_blade": {
+    "name": "Dark Blade",
+    "desc": "Slicing blades of dark energy.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 1r",
+    "vaulted": false
+  },
+  "shadow_gun": {
+    "name": "Shadow Gun",
+    "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 1r",
+    "vaulted": false
+  },
+  "shade_bringer": {
+    "name": "Shade Bringer",
+    "desc": "Temporarily summon a shadow greatsword for a large slash.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 50r",
+    "vaulted": false
+  },
+  "shadow_seekers": {
+    "name": "Shadow Seekers",
+    "desc": "Call forth the void to track your opponents.        ",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 20r",
+    "vaulted": false
+  },
+  "shadow_eruption": {
+    "name": "Shadow Eruption",
+    "desc": "Form a shockwave of darkness.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "SDW = 20r",
     "vaulted": false
   }
 }

@@ -1,5 +1,5 @@
 {
-  "oath: oathless": {
+  "oath_oathless": {
     "name": "Oath: Oathless",
     "desc": "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
     "rarity": "Oath",
@@ -9,10 +9,10 @@
       ""
     ],
     "innates": {
-      "Health": 10,
-      "Wildcard Mantra": 2
+      "Wildcard Mantra": 2,
+      "Health": 10
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

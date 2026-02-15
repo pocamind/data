@@ -1,5 +1,5 @@
 {
-  "art of the deal": {
+  "art_of_the_deal": {
     "name": "Art of the Deal",
     "desc": "Your rapport with merchants gives you lower prices!",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

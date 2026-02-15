@@ -1,5 +1,5 @@
 {
-  "conditioned swimmer": {
+  "conditioned_swimmer": {
     "name": "Conditioned Swimmer",
     "desc": "You lose less hunger and thirst while swimming.",
     "rarity": "Common",
@@ -11,7 +11,7 @@
     "innates": {
       "Passive Agility": 1
     },
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

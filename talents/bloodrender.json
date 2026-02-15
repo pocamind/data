@@ -1,70 +1,5 @@
 {
-  "sanguine siphon": {
-    "name": "Sanguine Siphon",
-    "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "BLD = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "first blood": {
-    "name": "First Blood",
-    "desc": "Your first blood mantra you use in combat has no blood cost.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "BLD = 10s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "hemorrhaging blow": {
-    "name": "Hemorrhaging Blow",
-    "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
-    "rarity": "Rare",
-    "category": "Bloodrender",
-    "reqs": "master bloodrender => BLD = 95s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "crimson fountain": {
-    "name": "Crimson Fountain",
-    "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "BLD = 40s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "adept bloodrender": {
-    "name": "Adept Bloodrender",
-    "desc": "You can now obtain 1-star Bloodrender mantras.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "bloodrender => BLD = 20s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "rush hour": {
+  "rush_hour": {
     "name": "Rush Hour",
     "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",
     "rarity": "Rare",
@@ -74,7 +9,113 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_bloodrender": {
+    "name": "Master Bloodrender",
+    "desc": "You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "expert_bloodrender => BLD = 50s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "sanguine_siphon": {
+    "name": "Sanguine Siphon",
+    "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hemorrhaging_blow": {
+    "name": "Hemorrhaging Blow",
+    "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
+    "rarity": "Rare",
+    "category": "Bloodrender",
+    "reqs": "master_bloodrender => BLD = 95s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "adept_bloodrender": {
+    "name": "Adept Bloodrender",
+    "desc": "You can now obtain 1-star Bloodrender mantras.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "bloodrender => BLD = 20s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "crimson_fountain": {
+    "name": "Crimson Fountain",
+    "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "BLD = 40s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "first_blood": {
+    "name": "First Blood",
+    "desc": "Your first blood mantra you use in combat has no blood cost.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "BLD = 10s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expert_bloodrender": {
+    "name": "Expert Bloodrender",
+    "desc": "You can now obtain 2-star Bloodrender mantras.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "adept_bloodrender => BLD = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "sheltering_grasp": {
+    "name": "Sheltering Grasp",
+    "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "BLD = 30s",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "bloodrender": {
@@ -87,48 +128,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "sheltering grasp": {
-    "name": "Sheltering Grasp",
-    "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "BLD = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": false,
-    "vaulted": false
-  },
-  "master bloodrender": {
-    "name": "Master Bloodrender",
-    "desc": "You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "expert bloodrender => BLD = 50s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "notCountedTowardsTotal": true,
-    "vaulted": false
-  },
-  "expert bloodrender": {
-    "name": "Expert Bloodrender",
-    "desc": "You can now obtain 2-star Bloodrender mantras.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "adept bloodrender => BLD = 30s",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "notCountedTowardsTotal": true,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

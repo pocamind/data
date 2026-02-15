@@ -1,5 +1,5 @@
 {
-  "ferryman's curse": {
+  "ferrymans_curse": {
     "name": "Ferryman's Curse",
     "desc": "You have a 20% chance to convert incoming elemental damage into Lightning damage.",
     "rarity": "Outfit",
@@ -9,7 +9,7 @@
       ""
     ],
     "innates": {},
-    "notCountedTowardsTotal": false,
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }
