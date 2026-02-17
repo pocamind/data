@@ -82,4 +82,4 @@ jobs:
           tag_name: ${{ steps.tag.outputs.tag }}
           name: "Bundle ${{ steps.tag.outputs.tag }}"
           # upload as release yay
-          files: dist/*.json
+          files: .dist/*.json

@@ -1,7 +1,7 @@
 {
   "against_all_odds": {
     "name": "Against All Odds",
-    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%). ",
+    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%).",
     "rarity": "Common",
     "category": "Absolute Focus",
     "reqs": "against_all_odds := 65s WLL",
