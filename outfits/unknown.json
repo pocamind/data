@@ -827,7 +827,7 @@
     "reqs": "vigil_initiate := 90r TTL",
     "mats": {
       "Cloth": 5,
-      "Fiber,": 5,
+      "Fiber": 5,
       "Iron": 4
     },
     "notes": 0

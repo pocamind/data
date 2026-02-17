@@ -1,10 +1,10 @@
 {
-  "hook,_line,_and_sinker": {
+  "hook_line_and_sinker": {
     "name": "Hook, Line, and Sinker",
     "desc": "Once something's caught your line, it's much harder to get loose.",
     "rarity": "Quest",
     "category": "Angler",
-    "reqs": "hook,_line,_and_sinker := ()",
+    "reqs": "hook_line_and_sinker := ()",
     "exclusive": [
       ""
     ],
