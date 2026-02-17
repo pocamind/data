@@ -25,7 +25,7 @@ jobs:
       # then merge those into a mega json
       - name: Bundle data
         run: |
-          mkdir -p dist
+          mkdir -p .dist
 
           for dir in */; do
             # strip trailing slashes
@@ -42,22 +42,22 @@ jobs:
               find "$dir_name" -name '*.json' -type f -print0 \
                 | xargs -0 cat \
                 | jq -s 'add' \
-                > "dist/${dir_name}.json"
+                > ".dist/${dir_name}.json"
             fi
           done
 
           # form the megabundle with every category as its own key
           mega="{}"
 
-          for file in dist/*.json; do
-            # the key for "dist/talents.json" -> "talents", same for the others
+          for file in .dist/*.json; do
+            # the key for ".dist/talents.json" -> "talents", same for the others
             key=$(basename "$file" .json)
 
             # ok man    
             mega=$(echo "$mega" | jq --arg k "$key" --slurpfile v "$file" '. + {($k): $v[0]}')
           done
 
-          echo "$mega" > dist/all.json
+          echo "$mega" > .dist/all.json
 
       - name: Generate version tag
         # have id so we can ref outputs
@@ -80,6 +80,6 @@ jobs:
         with:
           #  read the "tag" output from the step with id "tag"
           tag_name: ${{ steps.tag.outputs.tag }}
-          name: "Data update ${{ steps.tag.outputs.tag }}"
+          name: "Bundle ${{ steps.tag.outputs.tag }}"
           # upload as release yay
           files: dist/*.json
