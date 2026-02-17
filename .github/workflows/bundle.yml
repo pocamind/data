@@ -18,8 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # pull full git history
+          # pull full git history and tags
           fetch-depth: 0
+          fetch-tags: true
 
       # bundle every top-level data directory into one JSON each,
       # then merge those into a mega json
