@@ -1,35 +1,85 @@
-name: Bundle data
+name: Bundle and release
 
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - "LICENSE"
+      - ".**"
 
 permissions:
   contents: write
 
 jobs:
-  bundle:
+  release:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          # pull full git history
+          fetch-depth: 0
 
+      # bundle every top-level data directory into one JSON each,
+      # then merge those into a mega json
       - name: Bundle data
         run: |
-          mkdir -p .bundled
+          mkdir -p dist
+
           for dir in */; do
+            # strip trailing slashes
             dir_name="${dir%/}"
+
+            # skip hidden files/folders
             [[ "$dir_name" == .* ]] && continue
 
+            # find all .json files recursively
             files=$(find "$dir_name" -name '*.json' -type f)
+
+            # if we found any files 
             if [ -n "$files" ]; then
-              find "$dir_name" -name '*.json' -type f -print0 | xargs -0 cat | jq -s 'add' > ".bundled/${dir_name}.json"
+              find "$dir_name" -name '*.json' -type f -print0 \
+                | xargs -0 cat \
+                | jq -s 'add' \
+                > "dist/${dir_name}.json"
             fi
           done
 
-      - name: Commit bundled data
+          # form the megabundle with every category as its own key
+          mega="{}"
+
+          for file in dist/*.json; do
+            # the key for "dist/talents.json" -> "talents", same for the others
+            key=$(basename "$file" .json)
+
+            # ok man    
+            mega=$(echo "$mega" | jq --arg k "$key" --slurpfile v "$file" '. + {($k): $v[0]}')
+          done
+
+          echo "$mega" > dist/all.json
+
+      - name: Generate version tag
+        # have id so we can ref outputs
+        id: tag
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .bundled/
-          git diff --staged --quiet || git commit -m "[AUTOMATIC] Rebuild bundled data"
-          git push
+          #  date-based tag like "v2026.02.16"
+          date_tag="v$(date -u +'%Y.%m.%d')"
+
+          # if theres already a release on the same day, postfix it with an incremented suffix
+          existing=$(git tag -l "${date_tag}*" | wc -l)
+
+          if [ "$existing" -gt 0 ]; then
+            echo "tag=${date_tag}.$((existing + 1))" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=${date_tag}.1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          #  read the "tag" output from the step with id "tag"
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: "Data update ${{ steps.tag.outputs.tag }}"
+          # upload as release yay
+          files: dist/*.json
