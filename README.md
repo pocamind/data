@@ -18,7 +18,7 @@ Whether it's adding new talent entries, fixing a requirement or even fixing a ty
 
 ## Using the Data
 
-If you're a developer trying to access the data, API wrappers are provided in the following repository for the following languages:
+If you're a developer trying to access the data, API wrappers are provGided in the following repository for the following languages:
 
 ### TODO 
 

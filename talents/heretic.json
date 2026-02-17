@@ -14,7 +14,7 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "all_above,_gods_below": {
+  "all_above_gods_below": {
     "name": "All Above, Gods Below",
     "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
     "rarity": "Advanced",
