@@ -19,7 +19,7 @@
     "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
     "rarity": "Advanced",
     "category": "Heretic",
-    "reqs": "all_the_dead_gods => all_above,_gods_below := 100s INT, 100s WLL",
+    "reqs": "all_the_dead_gods => all_above_gods_below := 100s INT, 100s WLL",
     "exclusive": [
       ""
     ],
