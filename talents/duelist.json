@@ -1,50 +1,4 @@
 {
-  "strong_stern": {
-    "name": "Strong Stern",
-    "desc": "The duration you are dazed from wall bangs is cut in half.",
-    "rarity": "Rare",
-    "category": "Duelist",
-    "reqs": "strong_stern := 15s STR, 25s FTD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 9
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "tap_dancer": {
-    "name": "Tap Dancer",
-    "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
-    "rarity": "Rare",
-    "category": "Duelist",
-    "reqs": "tap_dancer := 60s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "steady_nerves": {
-    "name": "Steady Nerves",
-    "desc": "You dance from toe to toe - successful dodges restore posture.",
-    "rarity": "Common",
-    "category": "Duelist",
-    "reqs": "steady_nerves := 15s STR, 45s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 7,
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "concussion": {
     "name": "Concussion",
     "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.",
@@ -76,17 +30,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "concussive_force": {
-    "name": "Concussive Force",
-    "desc": "Enemies you knocked remain downed longer than usual.",
+  "steady_nerves": {
+    "name": "Steady Nerves",
+    "desc": "You dance from toe to toe - successful dodges restore posture.",
     "rarity": "Common",
     "category": "Duelist",
-    "reqs": "concussive_force := 15s STR",
+    "reqs": "steady_nerves := 15s STR, 45s AGL",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 9
+      "Carry Load": 7,
+      "Passive Agility": 2
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -107,6 +62,51 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "strong_stern": {
+    "name": "Strong Stern",
+    "desc": "The duration you are dazed from wall bangs is cut in half.",
+    "rarity": "Rare",
+    "category": "Duelist",
+    "reqs": "strong_stern := 15s STR, 25s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 9
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "concussive_force": {
+    "name": "Concussive Force",
+    "desc": "Enemies you knocked remain downed longer than usual.",
+    "rarity": "Common",
+    "category": "Duelist",
+    "reqs": "concussive_force := 15s STR",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Carry Load": 9
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "tap_dancer": {
+    "name": "Tap Dancer",
+    "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
+    "rarity": "Rare",
+    "category": "Duelist",
+    "reqs": "tap_dancer := 60s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "precise_swing": {
     "name": "Precise Swing",
     "desc": "After landing a critical your next basic attack will have +25% chip damage.",
@@ -117,8 +117,8 @@
       ""
     ],
     "innates": {
-      "Passive Agility": 1,
-      "Carry Load": 9
+      "Carry Load": 9,
+      "Passive Agility": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

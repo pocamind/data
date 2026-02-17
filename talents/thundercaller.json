@@ -1,25 +1,10 @@
 {
-  "master_thundercaller": {
-    "name": "Master Thundercaller",
-    "desc": "You can now obtain 3-star Thundercaller mantras.",
+  "expert_thundercaller": {
+    "name": "Expert Thundercaller",
+    "desc": "You can now obtain 2-star Thundercaller mantras.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "adept_thundercaller": {
-    "name": "Adept Thundercaller",
-    "desc": "You can now obtain 1-star Thundercaller mantras.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "thundercaller => adept_thundercaller := 20s LTN",
+    "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
     "exclusive": [
       ""
     ],
@@ -92,16 +77,31 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "expert_thundercaller": {
-    "name": "Expert Thundercaller",
-    "desc": "You can now obtain 2-star Thundercaller mantras.",
+  "adept_thundercaller": {
+    "name": "Adept Thundercaller",
+    "desc": "You can now obtain 1-star Thundercaller mantras.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
+    "reqs": "thundercaller => adept_thundercaller := 20s LTN",
     "exclusive": [
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "master_thundercaller": {
+    "name": "Master Thundercaller",
+    "desc": "You can now obtain 3-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
     "not_counted_towards_total": true,
     "vaulted": false
   },

@@ -1,10 +1,10 @@
 {
-  "snake_oil": {
-    "name": "Snake Oil",
-    "desc": "Okay, the amount you're charging people for your items is downright criminal. But I'm just a talent description, I can't stop you.",
-    "rarity": "Common",
+  "golden_tongue": {
+    "name": "Golden Tongue",
+    "desc": "Typing gives a random buff to you and those around you. (60 second cooldown)",
+    "rarity": "Rare",
     "category": "Silvertongue",
-    "reqs": "snake_oil := 30s CHA",
+    "reqs": "golden_tongue := 40s CHA",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "golden_tongue": {
-    "name": "Golden Tongue",
-    "desc": "Typing gives a random buff to you and those around you. (60 second cooldown)",
-    "rarity": "Rare",
+  "snake_oil": {
+    "name": "Snake Oil",
+    "desc": "Okay, the amount you're charging people for your items is downright criminal. But I'm just a talent description, I can't stop you.",
+    "rarity": "Common",
     "category": "Silvertongue",
-    "reqs": "golden_tongue := 40s CHA",
+    "reqs": "snake_oil := 30s CHA",
     "exclusive": [
       ""
     ],

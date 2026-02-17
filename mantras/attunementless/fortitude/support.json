@@ -1,14 +1,14 @@
 {
-  "rally": {
-    "name": "Rally",
-    "desc": "Strike your shield a few times to absorb some of the posture received by your allies.\t\r",
+  "brace": {
+    "name": "Brace",
+    "desc": "Brace yourself against attacks and gain hyperarmour.        ",
     "stars": 0,
     "category": "Support",
     "type": "Attunementless",
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "rally := 10r FTD",
+    "reqs": "brace := 75r FTD",
     "vaulted": false
   },
   "reinforce": {
@@ -23,16 +23,16 @@
     "reqs": "reinforce := 50r FTD",
     "vaulted": false
   },
-  "brace": {
-    "name": "Brace",
-    "desc": "Brace yourself against attacks and gain hyperarmour.        ",
+  "rally": {
+    "name": "Rally",
+    "desc": "Strike your shield a few times to absorb some of the posture received by your allies.\t\r",
     "stars": 0,
     "category": "Support",
     "type": "Attunementless",
     "attributes": [
       "Fortitude"
     ],
-    "reqs": "brace := 75r FTD",
+    "reqs": "rally := 10r FTD",
     "vaulted": false
   }
 }

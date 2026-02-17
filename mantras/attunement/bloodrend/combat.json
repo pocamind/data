@@ -1,98 +1,14 @@
 {
-  "bloodtide_ritual": {
-    "name": "Bloodtide Ritual",
-    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "bloodtide_ritual := 50r BLD",
-    "vaulted": false
-  },
-  "crucifixion": {
-    "name": "Crucifixion",
-    "desc": "Conjure a bloody cross.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "crucifixion := 1r BLD",
-    "vaulted": false
-  },
-  "bloodcurdle": {
-    "name": "Bloodcurdle",
-    "desc": "Manipulate the blood within your target's body.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "bloodcurdle := 50r BLD",
-    "vaulted": false
-  },
-  "crimson_rain": {
-    "name": "Crimson Rain",
-    "desc": "Release blood daggers. Recast to recall them.",
+  "veinbreaker": {
+    "name": "Veinbreaker",
+    "desc": "Charge up a strong punch infused with your blood.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "crimson_rain := 30r BLD",
-    "vaulted": false
-  },
-  "vicious_descent": {
-    "name": "Vicious Descent",
-    "desc": "Leap into the air and slam down with vengeance.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "vicious_descent := 20r BLD",
-    "vaulted": false
-  },
-  "crimson_surge": {
-    "name": "Crimson Surge",
-    "desc": "Slash upwards and launch slashes of blood.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "crimson_surge := 30r BLD",
-    "vaulted": false
-  },
-  "blood_stakes": {
-    "name": "Blood Stakes",
-    "desc": "Create stakes of blood.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "blood_stakes := 20r BLD",
-    "vaulted": false
-  },
-  "bloodedge": {
-    "name": "Bloodedge",
-    "desc": "Conjure a scythe of blood and swing.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "bloodedge := 20r BLD",
+    "reqs": "veinbreaker := 30r BLD",
     "vaulted": false
   },
   "scarlet_cannon": {
@@ -105,30 +21,6 @@
       "Bloodrend"
     ],
     "reqs": "scarlet_cannon := 30r BLD",
-    "vaulted": false
-  },
-  "scarlet_cyclone": {
-    "name": "Scarlet Cyclone",
-    "desc": "Create a cyclone of blood.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "scarlet_cyclone := 1r BLD",
-    "vaulted": false
-  },
-  "soulflare_siphon": {
-    "name": "Soulflare Siphon",
-    "desc": "Grab and siphon the blood out of your victim.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "soulflare_siphon := 30r BLD",
     "vaulted": false
   },
   "razor_blitz": {
@@ -155,16 +47,124 @@
     "reqs": "blood_orb := 1r BLD",
     "vaulted": false
   },
-  "veinbreaker": {
-    "name": "Veinbreaker",
-    "desc": "Charge up a strong punch infused with your blood.",
+  "crimson_surge": {
+    "name": "Crimson Surge",
+    "desc": "Slash upwards and launch slashes of blood.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Bloodrend"
     ],
-    "reqs": "veinbreaker := 30r BLD",
+    "reqs": "crimson_surge := 30r BLD",
+    "vaulted": false
+  },
+  "vicious_descent": {
+    "name": "Vicious Descent",
+    "desc": "Leap into the air and slam down with vengeance.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "vicious_descent := 20r BLD",
+    "vaulted": false
+  },
+  "bloodcurdle": {
+    "name": "Bloodcurdle",
+    "desc": "Manipulate the blood within your target's body.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodcurdle := 50r BLD",
+    "vaulted": false
+  },
+  "scarlet_cyclone": {
+    "name": "Scarlet Cyclone",
+    "desc": "Create a cyclone of blood.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "scarlet_cyclone := 1r BLD",
+    "vaulted": false
+  },
+  "bloodtide_ritual": {
+    "name": "Bloodtide Ritual",
+    "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodtide_ritual := 50r BLD",
+    "vaulted": false
+  },
+  "crimson_rain": {
+    "name": "Crimson Rain",
+    "desc": "Release blood daggers. Recast to recall them.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "crimson_rain := 30r BLD",
+    "vaulted": false
+  },
+  "blood_stakes": {
+    "name": "Blood Stakes",
+    "desc": "Create stakes of blood.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "blood_stakes := 20r BLD",
+    "vaulted": false
+  },
+  "soulflare_siphon": {
+    "name": "Soulflare Siphon",
+    "desc": "Grab and siphon the blood out of your victim.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "soulflare_siphon := 30r BLD",
+    "vaulted": false
+  },
+  "bloodedge": {
+    "name": "Bloodedge",
+    "desc": "Conjure a scythe of blood and swing.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "bloodedge := 20r BLD",
+    "vaulted": false
+  },
+  "crucifixion": {
+    "name": "Crucifixion",
+    "desc": "Conjure a bloody cross.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "crucifixion := 1r BLD",
     "vaulted": false
   }
 }

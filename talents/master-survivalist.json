@@ -1,18 +1,4 @@
 {
-  "survival_kit_int": {
-    "name": "Survival Kit [INT]",
-    "desc": "You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.",
-    "rarity": "Common",
-    "category": "Master Survivalist",
-    "reqs": "survival_kit_int := 20r INT",
-    "exclusive": [
-      "Survival_Kit_WIL",
-      "Survival_Kit_CHA"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "survival_kit_cha": {
     "name": "Survival Kit [CHA]",
     "desc": "You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.",
@@ -22,6 +8,20 @@
     "exclusive": [
       "Survival_Kit_WIL",
       "Survival_Kit_INT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "survival_kit_int": {
+    "name": "Survival Kit [INT]",
+    "desc": "You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.",
+    "rarity": "Common",
+    "category": "Master Survivalist",
+    "reqs": "survival_kit_int := 20r INT",
+    "exclusive": [
+      "Survival_Kit_WIL",
+      "Survival_Kit_CHA"
     ],
     "innates": {},
     "not_counted_towards_total": false,

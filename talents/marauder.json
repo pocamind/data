@@ -1,10 +1,10 @@
 {
-  "thresher_scales": {
-    "name": "Thresher Scales",
-    "desc": "You regenerate your armor at campfires.",
-    "rarity": "Quest",
+  "old_habits_die_hard": {
+    "name": "Old Habits Die Hard",
+    "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
+    "rarity": "Common",
     "category": "Marauder",
-    "reqs": "thresher_scales := ()",
+    "reqs": "old_habits_die_hard := 20s WLL",
     "exclusive": [
       ""
     ],
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "old_habits_die_hard": {
-    "name": "Old Habits Die Hard",
-    "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
-    "rarity": "Common",
+  "thresher_scales": {
+    "name": "Thresher Scales",
+    "desc": "You regenerate your armor at campfires.",
+    "rarity": "Quest",
     "category": "Marauder",
-    "reqs": "old_habits_die_hard := 20s WLL",
+    "reqs": "thresher_scales := ()",
     "exclusive": [
       ""
     ],

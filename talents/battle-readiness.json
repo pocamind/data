@@ -12,12 +12,12 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "steel_tread": {
-    "name": "Steel Tread",
-    "desc": "Gain a bit of knockback resistance as well as damage resistence against attacks that ragdoll you.",
+  "riot_shield": {
+    "name": "Riot Shield",
+    "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
     "rarity": "Faction",
     "category": "Battle Readiness",
-    "reqs": "steel_tread := ()",
+    "reqs": "riot_shield := ()",
     "exclusive": [
       ""
     ],
@@ -51,12 +51,12 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "riot_shield": {
-    "name": "Riot Shield",
-    "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
+  "steel_tread": {
+    "name": "Steel Tread",
+    "desc": "Gain a bit of knockback resistance as well as damage resistence against attacks that ragdoll you.",
     "rarity": "Faction",
     "category": "Battle Readiness",
-    "reqs": "riot_shield := ()",
+    "reqs": "steel_tread := ()",
     "exclusive": [
       ""
     ],

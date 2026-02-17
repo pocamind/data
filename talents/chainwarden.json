@@ -1,17 +1,4 @@
 {
-  "perpetual_wrath": {
-    "name": "Perpetual Wrath",
-    "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
-    "rarity": "Oath",
-    "category": "Chainwarden",
-    "reqs": "oath_chainwarden => perpetual_wrath := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "chainlash": {
     "name": "Chainlash",
     "desc": "On flourish, whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.",
@@ -35,9 +22,22 @@
       ""
     ],
     "innates": {
-      "Wildcard Mantra": 1,
-      "Combat Mantra": 2
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "perpetual_wrath": {
+    "name": "Perpetual Wrath",
+    "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
+    "rarity": "Oath",
+    "category": "Chainwarden",
+    "reqs": "oath_chainwarden => perpetual_wrath := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

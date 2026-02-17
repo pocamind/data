@@ -1,10 +1,10 @@
 {
-  "light_weapons_unbounded": {
-    "name": "Light Weapons Unbounded",
-    "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
+  "heavy_weapons_unbounded": {
+    "name": "Heavy Weapons Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
     "rarity": "Common",
     "category": "Saint of Blades",
-    "reqs": "light_weapons_unbounded := 75s LHT",
+    "reqs": "heavy_weapons_unbounded := 75s HVY",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "heavy_weapons_unbounded": {
-    "name": "Heavy Weapons Unbounded",
-    "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
+  "light_weapons_unbounded": {
+    "name": "Light Weapons Unbounded",
+    "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
     "rarity": "Common",
     "category": "Saint of Blades",
-    "reqs": "heavy_weapons_unbounded := 75s HVY",
+    "reqs": "light_weapons_unbounded := 75s LHT",
     "exclusive": [
       ""
     ],

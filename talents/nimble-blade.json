@@ -1,17 +1,4 @@
 {
-  "speed_emission": {
-    "name": "Speed Emission",
-    "desc": "Gain a slight speed boost after landing a vent.",
-    "rarity": "Common",
-    "category": "Nimble Blade",
-    "reqs": "speed_emission := 25s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "fast_blade": {
     "name": "Fast Blade",
     "desc": "Increase the speed boost you get from successfully parrying an attack.",
@@ -24,6 +11,19 @@
     "innates": {
       "Passive Agility": 1
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "speed_emission": {
+    "name": "Speed Emission",
+    "desc": "Gain a slight speed boost after landing a vent.",
+    "rarity": "Common",
+    "category": "Nimble Blade",
+    "reqs": "speed_emission := 25s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },

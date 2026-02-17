@@ -1,17 +1,4 @@
 {
-  "orbital_ice": {
-    "name": "Orbital Ice",
-    "desc": "When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.",
-    "rarity": "Common",
-    "category": "Frostthorn",
-    "reqs": "orbital_ice := 65s ICE",
-    "exclusive": [
-      "Fists_of_Fortitude"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "glacial_coasting": {
     "name": "Glacial Coasting",
     "desc": "Sliding while Orbital Ice is active leaves trails of ice.",
@@ -24,6 +11,19 @@
     "innates": {
       "Passive Agility": 1
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "orbital_ice": {
+    "name": "Orbital Ice",
+    "desc": "When landing a parry while standing on ice, automatically form a ring of ice that grants 15% Physical Resistance. The ring will break after sustaining a certain amount of damage, scaling with your Frostdraw.",
+    "rarity": "Common",
+    "category": "Frostthorn",
+    "reqs": "orbital_ice := 65s ICE",
+    "exclusive": [
+      "Fists_of_Fortitude"
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

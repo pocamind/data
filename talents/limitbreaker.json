@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "the_eleventh_hour": {
-    "name": "The Eleventh Hour",
-    "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
+  "last_resort": {
+    "name": "Last Resort",
+    "desc": "Deal +10% more damage when your health is significantly low.",
     "rarity": "Common",
     "category": "Limitbreaker",
-    "reqs": "the_eleventh_hour := 35s WLL",
+    "reqs": "last_resort := 35s WLL",
     "exclusive": [
       ""
     ],
@@ -29,12 +29,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "last_resort": {
-    "name": "Last Resort",
-    "desc": "Deal +10% more damage when your health is significantly low.",
+  "the_eleventh_hour": {
+    "name": "The Eleventh Hour",
+    "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
     "rarity": "Common",
     "category": "Limitbreaker",
-    "reqs": "last_resort := 35s WLL",
+    "reqs": "the_eleventh_hour := 35s WLL",
     "exclusive": [
       ""
     ],

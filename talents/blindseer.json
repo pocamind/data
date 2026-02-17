@@ -9,19 +9,19 @@
       ""
     ],
     "innates": {
-      "Support Mantra": 1,
       "Sanity": 10,
-      "Wildcard Mantra": 1
+      "Wildcard Mantra": 1,
+      "Support Mantra": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "all-seeing_eye": {
+  "all_seeing_eye": {
     "name": "All-Seeing Eye",
     "desc": "The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.",
     "rarity": "Oath",
     "category": "Blindseer",
-    "reqs": "oath_blindseer => all-seeing_eye := ()",
+    "reqs": "oath_blindseer => all_seeing_eye := ()",
     "exclusive": [
       ""
     ],

@@ -1,19 +1,4 @@
 {
-  "lancers_impale": {
-    "name": "Lancer's Impale",
-    "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
-    "rarity": "Common",
-    "category": "Lancer",
-    "reqs": "lancers_impale := 30s MED",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 4
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "driving_impact": {
     "name": "Driving Impact",
     "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
@@ -37,6 +22,21 @@
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lancers_impale": {
+    "name": "Lancer's Impale",
+    "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
+    "rarity": "Common",
+    "category": "Lancer",
+    "reqs": "lancers_impale := 30s MED",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 4
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },

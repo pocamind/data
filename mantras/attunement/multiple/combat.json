@@ -11,18 +11,6 @@
     "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
     "vaulted": false
   },
-  "flashfire_sweep": {
-    "name": "Flashfire Sweep",
-    "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Multiple"
-    ],
-    "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
-    "vaulted": false
-  },
   "permafrost_prison": {
     "name": "Permafrost Prison",
     "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
@@ -33,6 +21,18 @@
       "Multiple"
     ],
     "reqs": "permafrost_prison := 30r ICE, 30r SDW",
+    "vaulted": false
+  },
+  "flashfire_sweep": {
+    "name": "Flashfire Sweep",
+    "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
     "vaulted": false
   },
   "iron_tether": {

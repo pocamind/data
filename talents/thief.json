@@ -1,4 +1,17 @@
 {
+  "master_thief": {
+    "name": "Master Thief",
+    "desc": "Gain more notes when mugging a player.",
+    "rarity": "Common",
+    "category": "Thief",
+    "reqs": "pickpocket => master_thief := 25s CHA",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "pickpocket": {
     "name": "Pickpocket",
     "desc": "Gain the ability to pickpocket by pressing \"N\" on a downed person.",
@@ -26,19 +39,6 @@
     "innates": {
       "Passive Agility": 2
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "master_thief": {
-    "name": "Master Thief",
-    "desc": "Gain more notes when mugging a player.",
-    "rarity": "Common",
-    "category": "Thief",
-    "reqs": "pickpocket => master_thief := 25s CHA",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },

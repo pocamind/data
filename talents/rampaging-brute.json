@@ -1,4 +1,20 @@
 {
+  "unwavering_resolve": {
+    "name": "Unwavering Resolve",
+    "desc": "Getting parried punishes your posture up to 33% less.\n[*Note: 20% to 33% punishment reduction between 10 and 40 Strength.]",
+    "rarity": "Common",
+    "category": "Rampaging Brute",
+    "reqs": "unwavering_resolve := 40s STR",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 2,
+      "Carry Load": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "shield_breaker": {
     "name": "Shield Breaker",
     "desc": "Blunt damage now fully ignores the posture bonus from shields.",
@@ -30,22 +46,6 @@
       "Ether_Overdrive_MTL_"
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "unwavering_resolve": {
-    "name": "Unwavering Resolve",
-    "desc": "Getting parried punishes your posture up to 33% less.\n[*Note: 20% to 33% punishment reduction between 10 and 40 Strength.]",
-    "rarity": "Common",
-    "category": "Rampaging Brute",
-    "reqs": "unwavering_resolve := 40s STR",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 4,
-      "Posture": 2
-    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

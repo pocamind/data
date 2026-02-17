@@ -1,17 +1,4 @@
 {
-  "officers_training": {
-    "name": "Officer's Training",
-    "desc": "While using a sword or rapier, take 30% less posture damage from Critical Attacks.",
-    "rarity": "Faction",
-    "category": "Dread Imperium",
-    "reqs": "officers_training := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
   "target_focus": {
     "name": "Target Focus",
     "desc": "Enemies you charm take more damage from your squadmates in your party.",
@@ -31,6 +18,19 @@
     "rarity": "Faction",
     "category": "Dread Imperium",
     "reqs": "buster_call := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "officers_training": {
+    "name": "Officer's Training",
+    "desc": "While using a sword or rapier, take 30% less posture damage from Critical Attacks.",
+    "rarity": "Faction",
+    "category": "Dread Imperium",
+    "reqs": "officers_training := ()",
     "exclusive": [
       ""
     ],

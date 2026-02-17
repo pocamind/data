@@ -1,30 +1,4 @@
 {
-  "warriors_swing": {
-    "name": "Warrior's Swing",
-    "desc": "Reduces incoming damage if hit during Heavy swing hyper armor.",
-    "rarity": "Common",
-    "category": "Weapon Master",
-    "reqs": "warriors_swing := 30s HVY",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "mercy_kill": {
-    "name": "Mercy Kill",
-    "desc": "When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.",
-    "rarity": "Quest",
-    "category": "Weapon Master",
-    "reqs": "mercy_kill := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "switchblade_med": {
     "name": "Switchblade [MED]",
     "desc": "You can now utilise Dagger talents when not wielding a dagger.",
@@ -38,25 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "switchblade_hvy": {
-    "name": "Switchblade [HVY]",
-    "desc": "You can now utilise Dagger talents when not wielding a dagger.",
-    "rarity": "Advanced",
+  "mercy_kill": {
+    "name": "Mercy Kill",
+    "desc": "When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.",
+    "rarity": "Quest",
     "category": "Weapon Master",
-    "reqs": "switchblade_hvy := 50r HVY, 50s LHT",
-    "exclusive": [
-      "Switchblade_MED"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "matador": {
-    "name": "Matador",
-    "desc": "Deal +20% more damage to human enemies with hyperarmor.",
-    "rarity": "Common",
-    "category": "Weapon Master",
-    "reqs": "matador := 5s AGL, 20s STR",
+    "reqs": "mercy_kill := ()",
     "exclusive": [
       ""
     ],
@@ -77,12 +38,51 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "warriors_swing": {
+    "name": "Warrior's Swing",
+    "desc": "Reduces incoming damage if hit during Heavy swing hyper armor.",
+    "rarity": "Common",
+    "category": "Weapon Master",
+    "reqs": "warriors_swing := 30s HVY",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "switchblade_hvy": {
+    "name": "Switchblade [HVY]",
+    "desc": "You can now utilise Dagger talents when not wielding a dagger.",
+    "rarity": "Advanced",
+    "category": "Weapon Master",
+    "reqs": "switchblade_hvy := 50r HVY, 50s LHT",
+    "exclusive": [
+      "Switchblade_MED"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "brutal_momentum": {
     "name": "Brutal Momentum",
     "desc": "[Heavy Weapons] Successfully dodging will give you hyperarmour on your next swing.",
     "rarity": "Common",
     "category": "Weapon Master",
     "reqs": "brutal_momentum := 50s HVY",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "matador": {
+    "name": "Matador",
+    "desc": "Deal +20% more damage to human enemies with hyperarmor.",
+    "rarity": "Common",
+    "category": "Weapon Master",
+    "reqs": "matador := 5s AGL, 20s STR",
     "exclusive": [
       ""
     ],

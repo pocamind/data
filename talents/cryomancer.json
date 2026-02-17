@@ -1,17 +1,4 @@
 {
-  "chilling_flourish": {
-    "name": "Chilling Flourish",
-    "desc": "When flourishing an enemy, they leave behind a trail of ice in the direction you send them.",
-    "rarity": "Common",
-    "category": "Cryomancer",
-    "reqs": "frostdrawer => chilling_flourish := 30s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "fragile_freeze": {
     "name": "Fragile Freeze",
     "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.",
@@ -25,25 +12,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "spike_traps": {
-    "name": "Spike Traps",
-    "desc": "Press [F] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.",
-    "rarity": "Common",
-    "category": "Cryomancer",
-    "reqs": "frostdrawer => spike_traps := 30s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": true
-  },
   "condensation_drip": {
     "name": "Condensation Drip",
     "desc": "Passively collect condensation from the air, greatly reducing your thirst.",
     "rarity": "Common",
     "category": "Cryomancer",
     "reqs": "condensation_drip := 15s ICE, 20s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cool_head": {
+    "name": "Cool Head",
+    "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
+    "rarity": "Common",
+    "category": "Cryomancer",
+    "reqs": "frostdrawer => cool_head := 30s ICE",
     "exclusive": [
       ""
     ],
@@ -64,12 +51,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cool_head": {
-    "name": "Cool Head",
-    "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
+  "spike_traps": {
+    "name": "Spike Traps",
+    "desc": "Press [F] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.",
     "rarity": "Common",
     "category": "Cryomancer",
-    "reqs": "frostdrawer => cool_head := 30s ICE",
+    "reqs": "frostdrawer => spike_traps := 30s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": true
+  },
+  "chilling_flourish": {
+    "name": "Chilling Flourish",
+    "desc": "When flourishing an enemy, they leave behind a trail of ice in the direction you send them.",
+    "rarity": "Common",
+    "category": "Cryomancer",
+    "reqs": "frostdrawer => chilling_flourish := 30s ICE",
     "exclusive": [
       ""
     ],

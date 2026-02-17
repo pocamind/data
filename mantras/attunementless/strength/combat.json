@@ -11,30 +11,6 @@
     "reqs": "throw := 35r STR",
     "vaulted": false
   },
-  "table_flip": {
-    "name": "Table Flip",
-    "desc": "Toss the ground infront of you.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "table_flip := 40r STR",
-    "vaulted": false
-  },
-  "rapid_punches": {
-    "name": "Rapid Punches",
-    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Strength"
-    ],
-    "reqs": "rapid_punches := 20r STR",
-    "vaulted": false
-  },
   "skyshatter_kick": {
     "name": "Skyshatter Kick",
     "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
@@ -57,6 +33,30 @@
       "Strength"
     ],
     "reqs": "strong_left := 20r STR",
+    "vaulted": false
+  },
+  "table_flip": {
+    "name": "Table Flip",
+    "desc": "Toss the ground infront of you.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "table_flip := 40r STR",
+    "vaulted": false
+  },
+  "rapid_punches": {
+    "name": "Rapid Punches",
+    "desc": "Unleash a barrage of blows against your foes.\t\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Strength"
+    ],
+    "reqs": "rapid_punches := 20r STR",
     "vaulted": false
   }
 }

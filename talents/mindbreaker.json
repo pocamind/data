@@ -1,4 +1,19 @@
 {
+  "lose_your_mind": {
+    "name": "Lose Your Mind",
+    "desc": "Deal more damage the more insane you are. Grants 15% damage at maximum insanity.\n[Note: Will only proc below 70% sanity, and has diminishing returns.]",
+    "rarity": "Rare",
+    "category": "Mindbreaker",
+    "reqs": "lose_your_mind := 30s STR, 30s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 5
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "shared_misery": {
     "name": "Shared Misery",
     "desc": "Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity.",
@@ -25,21 +40,6 @@
     ],
     "innates": {
       "Sanity": 3
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "lose_your_mind": {
-    "name": "Lose Your Mind",
-    "desc": "Deal more damage the more insane you are. Grants 15% damage at maximum insanity.\n[Note: Will only proc below 70% sanity, and has diminishing returns.]",
-    "rarity": "Rare",
-    "category": "Mindbreaker",
-    "reqs": "lose_your_mind := 30s STR, 30s FTD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false

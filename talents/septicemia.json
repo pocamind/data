@@ -1,10 +1,10 @@
 {
-  "tainted_ground": {
-    "name": "Tainted Ground",
-    "desc": "Enemies who stand in blood pools will not decay blood poison.",
+  "juicy_snack": {
+    "name": "Juicy Snack",
+    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "tainted_ground := 30s BLD",
+    "reqs": "juicy_snack := 20s FTD, 60s BLD",
     "exclusive": [
       ""
     ],
@@ -18,6 +18,19 @@
     "rarity": "Common",
     "category": "Septicemia",
     "reqs": "hemolytic_transfusion := 65s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "panacea": {
+    "name": "Panacea",
+    "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
+    "rarity": "Rare",
+    "category": "Septicemia",
+    "reqs": "panacea := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -51,19 +64,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "panacea": {
-    "name": "Panacea",
-    "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
-    "rarity": "Rare",
-    "category": "Septicemia",
-    "reqs": "panacea := 65s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "vasculitis": {
     "name": "Vasculitis",
     "desc": "Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. *Must hit them while they are over 20% BP.)",
@@ -77,12 +77,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "juicy_snack": {
-    "name": "Juicy Snack",
-    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
+  "tainted_ground": {
+    "name": "Tainted Ground",
+    "desc": "Enemies who stand in blood pools will not decay blood poison.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "juicy_snack := 20s FTD, 60s BLD",
+    "reqs": "tainted_ground := 30s BLD",
     "exclusive": [
       ""
     ],

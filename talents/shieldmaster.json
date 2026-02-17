@@ -1,4 +1,17 @@
 {
+  "turtle_shell": {
+    "name": "Turtle Shell",
+    "desc": "If your shield is on your back, take reduced backstab damage and negate Spine Cutter.",
+    "rarity": "Common",
+    "category": "Shieldmaster",
+    "reqs": "knights_rally => turtle_shell := 50s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "knights_rally": {
     "name": "Knight's Rally",
     "desc": "When using a shield, you ready your block more quickly after taking a hit.",
@@ -11,19 +24,6 @@
     "innates": {
       "Sanity": 4
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "turtle_shell": {
-    "name": "Turtle Shell",
-    "desc": "If your shield is on your back, take reduced backstab damage and negate Spine Cutter.",
-    "rarity": "Common",
-    "category": "Shieldmaster",
-    "reqs": "knights_rally => turtle_shell := 50s FTD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

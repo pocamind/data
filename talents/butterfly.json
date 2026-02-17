@@ -1,19 +1,4 @@
 {
-  "swift_rebound": {
-    "name": "Swift Rebound",
-    "desc": "Move faster after successfully dodging an attack.",
-    "rarity": "Common",
-    "category": "Butterfly",
-    "reqs": "swift_rebound := 15s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "evasive_expert": {
     "name": "Evasive Expert",
     "desc": "Your speed boost granted from dodging is increased.",
@@ -57,6 +42,21 @@
     ],
     "innates": {
       "Passive Agility": 5
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "swift_rebound": {
+    "name": "Swift Rebound",
+    "desc": "Move faster after successfully dodging an attack.",
+    "rarity": "Common",
+    "category": "Butterfly",
+    "reqs": "swift_rebound := 15s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

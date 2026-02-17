@@ -1,23 +1,25 @@
 {
-  "deep_wound": {
-    "name": "Deep Wound",
-    "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
-    "rarity": "Common",
-    "category": "Assassin",
-    "reqs": "deep_wound := 35s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "lowstride": {
     "name": "Lowstride",
     "desc": "When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.",
     "rarity": "Common",
     "category": "Assassin",
     "reqs": "lowstride := 20s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lights_out": {
+    "name": "Lights Out",
+    "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
+    "rarity": "Common",
+    "category": "Assassin",
+    "reqs": "lights_out := 55s AGL",
     "exclusive": [
       ""
     ],
@@ -40,18 +42,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "lights_out": {
-    "name": "Lights Out",
-    "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
+  "deep_wound": {
+    "name": "Deep Wound",
+    "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
     "rarity": "Common",
     "category": "Assassin",
-    "reqs": "lights_out := 55s AGL",
+    "reqs": "deep_wound := 35s AGL",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Passive Agility": 1
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

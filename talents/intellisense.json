@@ -1,18 +1,4 @@
 {
-  "critical_engine_med": {
-    "name": "Critical Engine [MED]",
-    "desc": "You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit and then use the tool to enhance your critical.",
-    "rarity": "Common",
-    "category": "Intellisense",
-    "reqs": "critical_engine_med := 30r MED, 90s INT",
-    "exclusive": [
-      "Critical_Engine_HVY",
-      "Critical_Engine_LHT"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "critical_engine_hvy": {
     "name": "Critical Engine [HVY]",
     "desc": "You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit and then use the tool to enhance your critical.",
@@ -36,6 +22,20 @@
     "exclusive": [
       "Critical_Engine_MED",
       "Critical_Engine_HVY"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "critical_engine_med": {
+    "name": "Critical Engine [MED]",
+    "desc": "You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit and then use the tool to enhance your critical.",
+    "rarity": "Common",
+    "category": "Intellisense",
+    "reqs": "critical_engine_med := 30r MED, 90s INT",
+    "exclusive": [
+      "Critical_Engine_HVY",
+      "Critical_Engine_LHT"
     ],
     "innates": {},
     "not_counted_towards_total": false,

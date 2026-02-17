@@ -1,10 +1,10 @@
 {
-  "blood_bank": {
-    "name": "Blood Bank",
-    "desc": "Consuming 'Charm' now gives slight temporary health.",
+  "donation_drive": {
+    "name": "Donation Drive",
+    "desc": "Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.\n[*Note: 12s to 8s CD between 20 and 60 Charisma.]",
     "rarity": "Common",
     "category": "Scarlet Donor",
-    "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
+    "reqs": "manipulator => donation_drive := 50s BLD, 55s CHA",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "donation_drive": {
-    "name": "Donation Drive",
-    "desc": "Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.\n[*Note: 12s to 8s CD between 20 and 60 Charisma.]",
+  "blood_bank": {
+    "name": "Blood Bank",
+    "desc": "Consuming 'Charm' now gives slight temporary health.",
     "rarity": "Common",
     "category": "Scarlet Donor",
-    "reqs": "manipulator => donation_drive := 50s BLD, 55s CHA",
+    "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
     "exclusive": [
       ""
     ],

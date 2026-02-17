@@ -1,10 +1,10 @@
 {
-  "perfect_flash": {
-    "name": "Perfect Flash",
-    "desc": "Having over 95% health causes your mantras to do +25% more damage. This damage bonus will scale down to 10% if your enemies are far away. ",
-    "rarity": "Rare",
+  "neural_overload": {
+    "name": "Neural Overload",
+    "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
+    "rarity": "Advanced",
     "category": "Adept Caster",
-    "reqs": "perfect_flash := 25s INT",
+    "reqs": "neural_overload := 85s INT",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "neural_overload": {
-    "name": "Neural Overload",
-    "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
-    "rarity": "Advanced",
+  "perfect_flash": {
+    "name": "Perfect Flash",
+    "desc": "Having over 95% health causes your mantras to do +25% more damage. This damage bonus will scale down to 10% if your enemies are far away.",
+    "rarity": "Rare",
     "category": "Adept Caster",
-    "reqs": "neural_overload := 85s INT",
+    "reqs": "perfect_flash := 25s INT",
     "exclusive": [
       ""
     ],

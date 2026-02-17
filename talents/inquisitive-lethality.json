@@ -1,23 +1,10 @@
 {
-  "flanking_maneuvers": {
-    "name": "Flanking Maneuvers",
-    "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
+  "stature_break": {
+    "name": "Stature Break",
+    "desc": "Landing a backstab of any kind disables posture for 8 seconds.",
     "rarity": "Faction",
     "category": "Inquisitive Lethality",
-    "reqs": "flanking_maneuvers := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "executioners_frenzy": {
-    "name": "Executioner's Frenzy",
-    "desc": "Landing a light attack while an opponent's posture is paused reduces their assassination cooldown by 5 seconds.",
-    "rarity": "Faction",
-    "category": "Inquisitive Lethality",
-    "reqs": "executioners_frenzy := ()",
+    "reqs": "stature_break := ()",
     "exclusive": [
       ""
     ],
@@ -38,12 +25,25 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "stature_break": {
-    "name": "Stature Break",
-    "desc": "Landing a backstab of any kind disables posture for 8 seconds.",
+  "flanking_maneuvers": {
+    "name": "Flanking Maneuvers",
+    "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
     "rarity": "Faction",
     "category": "Inquisitive Lethality",
-    "reqs": "stature_break := ()",
+    "reqs": "flanking_maneuvers := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "executioners_frenzy": {
+    "name": "Executioner's Frenzy",
+    "desc": "Landing a light attack while an opponent's posture is paused reduces their assassination cooldown by 5 seconds.",
+    "rarity": "Faction",
+    "category": "Inquisitive Lethality",
+    "reqs": "executioners_frenzy := ()",
     "exclusive": [
       ""
     ],

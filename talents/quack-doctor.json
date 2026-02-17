@@ -12,6 +12,19 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "just_a_taste": {
+    "name": "Just a Taste",
+    "desc": "First bloodrend mantra you hit in combat has increased blood drain.",
+    "rarity": "Common",
+    "category": "Quack Doctor",
+    "reqs": "just_a_taste := 20s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "blood_transfusion": {
     "name": "Blood Transfusion",
     "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)",
@@ -31,19 +44,6 @@
     "rarity": "Common",
     "category": "Quack Doctor",
     "reqs": "blood_bag := 20s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "just_a_taste": {
-    "name": "Just a Taste",
-    "desc": "First bloodrend mantra you hit in combat has increased blood drain.",
-    "rarity": "Common",
-    "category": "Quack Doctor",
-    "reqs": "just_a_taste := 20s BLD",
     "exclusive": [
       ""
     ],

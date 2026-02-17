@@ -1,16 +1,4 @@
 {
-  "lightning_cloak": {
-    "name": "Lightning Cloak",
-    "desc": "A lightning cloak that empowers you.\n[Note: Increases swing speed by 10% and empowers your dashes.]\n[Note: The duration of this Mantra can be increased by chaining attacks.]",
-    "stars": 3,
-    "category": "Mobility",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "lightning_cloak := 50r LTN",
-    "vaulted": false
-  },
   "lightning_assault": {
     "name": "Lightning Assault",
     "desc": "A rush of lightning.\t",
@@ -21,6 +9,18 @@
       "Thundercall"
     ],
     "reqs": "lightning_assault := 30r LTN",
+    "vaulted": false
+  },
+  "lightning_cloak": {
+    "name": "Lightning Cloak",
+    "desc": "A lightning cloak that empowers you.\n[Note: Increases swing speed by 10% and empowers your dashes.]\n[Note: The duration of this Mantra can be increased by chaining attacks.]",
+    "stars": 3,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_cloak := 50r LTN",
     "vaulted": false
   }
 }

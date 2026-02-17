@@ -1,16 +1,4 @@
 {
-  "glacial_arc": {
-    "name": "Glacial Arc",
-    "desc": "An arc of ice.\r",
-    "stars": 1,
-    "category": "Mobility",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "glacial_arc := 20r ICE",
-    "vaulted": false
-  },
   "ice_skate": {
     "name": "Ice Skate",
     "desc": "Skate freely on paths of ice.\r",
@@ -21,6 +9,18 @@
       "Frostdraw"
     ],
     "reqs": "ice_skate := 50r ICE",
+    "vaulted": false
+  },
+  "glacial_arc": {
+    "name": "Glacial Arc",
+    "desc": "An arc of ice.\r",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "glacial_arc := 20r ICE",
     "vaulted": false
   }
 }

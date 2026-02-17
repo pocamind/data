@@ -1,16 +1,4 @@
 {
-  "chain_pull": {
-    "name": "Chain Pull",
-    "desc": "Conjure a chain to pull your opponent.",
-    "stars": 1,
-    "category": "Support",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "chain_pull := 20r MTL",
-    "vaulted": false
-  },
   "metal_turret": {
     "name": "Metal Turret",
     "desc": "An automated turret that fires at targets that cross its sight.",
@@ -21,6 +9,18 @@
       "Ironsing"
     ],
     "reqs": "metal_turret := 30r MTL",
+    "vaulted": false
+  },
+  "chain_pull": {
+    "name": "Chain Pull",
+    "desc": "Conjure a chain to pull your opponent.",
+    "stars": 1,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "chain_pull := 20r MTL",
     "vaulted": false
   },
   "iron_skin": {

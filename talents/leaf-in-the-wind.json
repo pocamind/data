@@ -1,10 +1,10 @@
 {
-  "safety_dance": {
-    "name": "Safety Dance",
-    "desc": "Your base dodge frames are increased by 0.05s.",
+  "observation": {
+    "name": "Observation",
+    "desc": "Dodge frames are larger if you cancel your roll immediately.",
     "rarity": "Rare",
     "category": "Leaf in the Wind",
-    "reqs": "safety_dance := 20s AGL",
+    "reqs": "observation := 20s AGL",
     "exclusive": [
       "Risky_Moves"
     ],
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "observation": {
-    "name": "Observation",
-    "desc": "Dodge frames are larger if you cancel your roll immediately.",
+  "safety_dance": {
+    "name": "Safety Dance",
+    "desc": "Your base dodge frames are increased by 0.05s.",
     "rarity": "Rare",
     "category": "Leaf in the Wind",
-    "reqs": "observation := 20s AGL",
+    "reqs": "safety_dance := 20s AGL",
     "exclusive": [
       "Risky_Moves"
     ],

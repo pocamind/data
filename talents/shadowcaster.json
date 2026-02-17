@@ -1,56 +1,15 @@
 {
-  "lasting_sorrow": {
-    "name": "Lasting Sorrow",
-    "desc": "Shadow lasts longer on your opponent.",
+  "fear_the_dark": {
+    "name": "Fear the Dark",
+    "desc": "Enemies that run from you after being hit by your shadows will hang in place briefly.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
+    "reqs": "shadowcaster => fear_the_dark := 50s SDW",
     "exclusive": [
       ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "adept_shadowcaster": {
-    "name": "Adept Shadowcaster",
-    "desc": "You can now obtain 1-Star Leveled Shadowcaster Mantras.",
-    "rarity": "Common",
-    "category": "Shadowcaster",
-    "reqs": "shadowcaster => adept_shadowcaster := 20s SDW",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "shadowcaster": {
-    "name": "Shadowcaster",
-    "desc": "Harnesss the power of Shadow in your mantra crafting.",
-    "rarity": "Common",
-    "category": "Shadowcaster",
-    "reqs": "shadowcaster := 1s SDW",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "master_shadowcaster": {
-    "name": "Master Shadowcaster",
-    "desc": "You can now obtain 3-Star Leveled Shadowcaster Mantras.",
-    "rarity": "Common",
-    "category": "Shadowcaster",
-    "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "not_counted_towards_total": true,
     "vaulted": false
   },
   "blossoming_darkness": {
@@ -79,17 +38,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "fear_the_dark": {
-    "name": "Fear the Dark",
-    "desc": "Enemies that run from you after being hit by your shadows will hang in place briefly.",
+  "shadowcaster": {
+    "name": "Shadowcaster",
+    "desc": "Harnesss the power of Shadow in your mantra crafting.",
     "rarity": "Common",
     "category": "Shadowcaster",
-    "reqs": "shadowcaster => fear_the_dark := 50s SDW",
+    "reqs": "shadowcaster := 1s SDW",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
   "sightless_still": {
@@ -100,6 +59,32 @@
     "reqs": "sightless_still := 30s SDW",
     "exclusive": [
       "Singularity"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "adept_shadowcaster": {
+    "name": "Adept Shadowcaster",
+    "desc": "You can now obtain 1-Star Leveled Shadowcaster Mantras.",
+    "rarity": "Common",
+    "category": "Shadowcaster",
+    "reqs": "shadowcaster => adept_shadowcaster := 20s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "lasting_sorrow": {
+    "name": "Lasting Sorrow",
+    "desc": "Shadow lasts longer on your opponent.",
+    "rarity": "Common",
+    "category": "Shadowcaster",
+    "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -116,6 +101,21 @@
     ],
     "innates": {},
     "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_shadowcaster": {
+    "name": "Master Shadowcaster",
+    "desc": "You can now obtain 3-Star Leveled Shadowcaster Mantras.",
+    "rarity": "Common",
+    "category": "Shadowcaster",
+    "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
     "vaulted": false
   },
   "expert_shadowcaster": {

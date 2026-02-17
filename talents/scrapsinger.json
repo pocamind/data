@@ -1,23 +1,23 @@
 {
-  "gilded_path_scrapsinger": {
-    "name": "Gilded Path: Scrapsinger",
-    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
-    "rarity": "Common",
-    "category": "Scrapsinger",
-    "reqs": "gilded_path_scrapsinger := 35s MTL",
-    "exclusive": [
-      "Rending_Needle_Augmenter"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "artisans_blade": {
     "name": "Artisan's Blade",
     "desc": "Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.",
     "rarity": "Common",
     "category": "Scrapsinger",
     "reqs": "gilded_path_scrapsinger => artisans_blade := 45s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "masterwork": {
+    "name": "Masterwork",
+    "desc": "Successful hits from Artisan Blades will proc metal rods and deal 50% more damage.",
+    "rarity": "Rare",
+    "category": "Scrapsinger",
+    "reqs": "artisans_blade => masterwork := 60s MTL",
     "exclusive": [
       ""
     ],
@@ -64,14 +64,14 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "masterwork": {
-    "name": "Masterwork",
-    "desc": "Successful hits from Artisan Blades will proc metal rods and deal 50% more damage.",
-    "rarity": "Rare",
+  "gilded_path_scrapsinger": {
+    "name": "Gilded Path: Scrapsinger",
+    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
+    "rarity": "Common",
     "category": "Scrapsinger",
-    "reqs": "artisans_blade => masterwork := 60s MTL",
+    "reqs": "gilded_path_scrapsinger := 35s MTL",
     "exclusive": [
-      ""
+      "Rending_Needle_Augmenter"
     ],
     "innates": {},
     "not_counted_towards_total": false,

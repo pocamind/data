@@ -1,16 +1,4 @@
 {
-  "lords_slice": {
-    "name": "Lord's Slice",
-    "desc": "Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Contractor"
-    ],
-    "reqs": "oath_contractor => lords_slice := ()",
-    "vaulted": false
-  },
   "equalizer": {
     "name": "Equalizer",
     "desc": "A counter that leaves your opponent open",
@@ -33,6 +21,18 @@
       "Contractor"
     ],
     "reqs": "oath_contractor => judgement := ()",
+    "vaulted": false
+  },
+  "lords_slice": {
+    "name": "Lord's Slice",
+    "desc": "Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Contractor"
+    ],
+    "reqs": "oath_contractor => lords_slice := ()",
     "vaulted": false
   }
 }

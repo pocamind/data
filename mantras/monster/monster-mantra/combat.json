@@ -1,14 +1,26 @@
 {
-  "dread_breath": {
-    "name": "Dread Breath",
-    "desc": "Channels the song through the power of the Dread Serpent.",
+  "pumpkin_pitch": {
+    "name": "Pumpkin Pitch",
+    "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
     "stars": 0,
     "category": "Combat",
     "type": "Monster",
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "dread_breath := ()",
+    "reqs": "pumpkin_pitch := ()",
+    "vaulted": false
+  },
+  "brachial_spear": {
+    "name": "Brachial Spear",
+    "desc": "A javelin of jagged bone.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "brachial_spear := ()",
     "vaulted": false
   },
   "abyssal_ridge": {
@@ -47,18 +59,6 @@
     "reqs": "whirling_blade := ()",
     "vaulted": false
   },
-  "brachial_spear": {
-    "name": "Brachial Spear",
-    "desc": "A javelin of jagged bone.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "brachial_spear := ()",
-    "vaulted": false
-  },
   "coral_spear": {
     "name": "Coral Spear",
     "desc": "Fire corals all around you.",
@@ -71,16 +71,16 @@
     "reqs": "coral_spear := ()",
     "vaulted": false
   },
-  "pumpkin_pitch": {
-    "name": "Pumpkin Pitch",
-    "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
+  "dread_breath": {
+    "name": "Dread Breath",
+    "desc": "Channels the song through the power of the Dread Serpent.",
     "stars": 0,
     "category": "Combat",
     "type": "Monster",
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "pumpkin_pitch := ()",
+    "reqs": "dread_breath := ()",
     "vaulted": false
   }
 }

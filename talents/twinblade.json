@@ -25,8 +25,8 @@
       ""
     ],
     "innates": {
-      "Passive Agility": 2,
-      "Carry Load": 6
+      "Carry Load": 6,
+      "Passive Agility": 2
     },
     "not_counted_towards_total": false,
     "vaulted": false

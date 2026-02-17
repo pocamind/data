@@ -12,54 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "arc_module_dash": {
-    "name": "Arc Module: Dash",
-    "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
-    "rarity": "Oath",
-    "category": "Arcwarder",
-    "reqs": "oath_arcwarder => arc_module_dash := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "arc_module_eject": {
     "name": "Arc Module: Eject",
     "desc": "When block broken with Arc Suit active, eject from the armor.",
     "rarity": "Oath",
     "category": "Arcwarder",
     "reqs": "oath_arcwarder => arc_module_eject := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "oath_arcwarder": {
-    "name": "Oath: Arcwarder",
-    "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
-    "rarity": "Oath",
-    "category": "Arcwarder",
-    "reqs": "oath_arcwarder := 20s FTD, 20s FLM, 20s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Wildcard Mantra": 1,
-      "Combat Mantra": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "arc_module_null": {
-    "name": "Arc Module: Null",
-    "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
-    "rarity": "Oath",
-    "category": "Arcwarder",
-    "reqs": "oath_arcwarder => arc_module_null := ()",
     "exclusive": [
       ""
     ],
@@ -77,6 +35,48 @@
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "arc_module_null": {
+    "name": "Arc Module: Null",
+    "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath_arcwarder => arc_module_null := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "arc_module_dash": {
+    "name": "Arc Module: Dash",
+    "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath_arcwarder => arc_module_dash := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_arcwarder": {
+    "name": "Oath: Arcwarder",
+    "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
+    "rarity": "Oath",
+    "category": "Arcwarder",
+    "reqs": "oath_arcwarder := 20s FTD, 20s FLM, 20s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Combat Mantra": 2,
+      "Wildcard Mantra": 1
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

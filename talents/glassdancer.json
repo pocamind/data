@@ -1,17 +1,4 @@
 {
-  "crystal_shrapnel": {
-    "name": "Crystal Shrapnel",
-    "desc": "Your Crystal explosions now have an AoE that applies crystals to all hit.",
-    "rarity": "Common",
-    "category": "Glassdancer",
-    "reqs": "glass_path_crystallization => crystal_shrapnel := 60s ICE",
-    "exclusive": [
-      "Unyielding_Frost"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "glass_path_crystallization": {
     "name": "Glass Path: Crystallization",
     "desc": "Your Ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.",
@@ -32,6 +19,19 @@
     "rarity": "Common",
     "category": "Glassdancer",
     "reqs": "crystal_shrapnel => reclaimed_glass := 65s ICE",
+    "exclusive": [
+      "Unyielding_Frost"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "crystal_shrapnel": {
+    "name": "Crystal Shrapnel",
+    "desc": "Your Crystal explosions now have an AoE that applies crystals to all hit.",
+    "rarity": "Common",
+    "category": "Glassdancer",
+    "reqs": "glass_path_crystallization => crystal_shrapnel := 60s ICE",
     "exclusive": [
       "Unyielding_Frost"
     ],

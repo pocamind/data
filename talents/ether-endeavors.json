@@ -1,4 +1,17 @@
 {
+  "unwavering_focus": {
+    "name": "Unwavering Focus",
+    "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
+    "rarity": "Common",
+    "category": "Ether Endeavors",
+    "reqs": "unwavering_focus := 10s STR, 60s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "keen_recovery": {
     "name": "Keen Recovery",
     "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.",
@@ -14,12 +27,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "unwavering_focus": {
-    "name": "Unwavering Focus",
-    "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
+  "behind_you": {
+    "name": "Behind You",
+    "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.",
     "rarity": "Common",
     "category": "Ether Endeavors",
-    "reqs": "unwavering_focus := 10s STR, 60s INT",
+    "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
     "exclusive": [
       ""
     ],
@@ -33,19 +46,6 @@
     "rarity": "Common",
     "category": "Ether Endeavors",
     "reqs": "behind_you => reverse_leech := 60s SDW",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "behind_you": {
-    "name": "Behind You",
-    "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.",
-    "rarity": "Common",
-    "category": "Ether Endeavors",
-    "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
     "exclusive": [
       ""
     ],

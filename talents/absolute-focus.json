@@ -1,14 +1,16 @@
 {
-  "against_all_odds": {
-    "name": "Against All Odds",
-    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%).",
+  "unswayed": {
+    "name": "Unswayed",
+    "desc": "The effects of Taunt and Encore no longer work on you.",
     "rarity": "Common",
     "category": "Absolute Focus",
-    "reqs": "against_all_odds := 65s WLL",
+    "reqs": "unswayed := 75s WLL",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Sanity": 20
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -25,18 +27,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "unswayed": {
-    "name": "Unswayed",
-    "desc": "The effects of Taunt and Encore no longer work on you.",
+  "against_all_odds": {
+    "name": "Against All Odds",
+    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%).",
     "rarity": "Common",
     "category": "Absolute Focus",
-    "reqs": "unswayed := 75s WLL",
+    "reqs": "against_all_odds := 65s WLL",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Sanity": 20
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

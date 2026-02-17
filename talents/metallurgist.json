@@ -1,36 +1,23 @@
 {
-  "polished_armor": {
-    "name": "Polished Armor",
-    "desc": "You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.",
-    "rarity": "Common",
-    "category": "Metallurgist",
-    "reqs": "polished_armor := 75s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "intuitive_repairs": {
-    "name": "Intuitive Repairs",
-    "desc": "Your \"Iron Skin\" repairs armor while it's active.",
-    "rarity": "Common",
-    "category": "Metallurgist",
-    "reqs": "intuitive_repairs := 25s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "metal_thief": {
     "name": "Metal Thief",
     "desc": "Pulling an opponent absorbs a portion of their current Armor durability.",
     "rarity": "Common",
     "category": "Metallurgist",
     "reqs": "metal_thief := 50s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "metal_absorption": {
+    "name": "Metal Absorption",
+    "desc": "Your 'Iron Hug' also absorbs armor from the enemy.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "metal_absorption := 30s MTL",
     "exclusive": [
       ""
     ],
@@ -51,12 +38,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "metal_absorption": {
-    "name": "Metal Absorption",
-    "desc": "Your 'Iron Hug' also absorbs armor from the enemy.",
+  "intuitive_repairs": {
+    "name": "Intuitive Repairs",
+    "desc": "Your \"Iron Skin\" repairs armor while it's active.",
     "rarity": "Common",
     "category": "Metallurgist",
-    "reqs": "metal_absorption := 30s MTL",
+    "reqs": "intuitive_repairs := 25s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "polished_armor": {
+    "name": "Polished Armor",
+    "desc": "You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.",
+    "rarity": "Common",
+    "category": "Metallurgist",
+    "reqs": "polished_armor := 75s MTL",
     "exclusive": [
       ""
     ],

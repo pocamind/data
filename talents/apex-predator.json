@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "sunken_predator": {
-    "name": "Sunken Predator",
-    "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
+  "grand_feast": {
+    "name": "Grand Feast",
+    "desc": "Regain ether, tempo, blood, and health from killing.",
     "rarity": "Common",
     "category": "Apex Predator",
-    "reqs": "sunken_predator := ()",
+    "reqs": "carnivore => grand_feast := ()",
     "exclusive": [
       ""
     ],
@@ -27,12 +27,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "grand_feast": {
-    "name": "Grand Feast",
-    "desc": "Regain ether, tempo, blood, and health from killing.",
+  "sunken_predator": {
+    "name": "Sunken Predator",
+    "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
     "rarity": "Common",
     "category": "Apex Predator",
-    "reqs": "carnivore => grand_feast := ()",
+    "reqs": "sunken_predator := ()",
     "exclusive": [
       ""
     ],

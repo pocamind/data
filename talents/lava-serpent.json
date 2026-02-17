@@ -13,15 +13,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "empowered_eruption": {
-    "name": "Empowered Eruption",
-    "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
+  "eruption_path_lava_serpent": {
+    "name": "Eruption Path: Lava Serpent",
+    "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
     "rarity": "Common",
     "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
+    "reqs": "eruption_path_lava_serpent := 40s FLM",
     "exclusive": [
       "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets"
+      "Wraith_Path_Twisted_Puppets",
+      "Flashboil",
+      "Boiling_Point"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -41,17 +43,15 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "eruption_path_lava_serpent": {
-    "name": "Eruption Path: Lava Serpent",
-    "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
+  "empowered_eruption": {
+    "name": "Empowered Eruption",
+    "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
     "rarity": "Common",
     "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent := 40s FLM",
+    "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
     "exclusive": [
       "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets",
-      "Flashboil",
-      "Boiling_Point"
+      "Wraith_Path_Twisted_Puppets"
     ],
     "innates": {},
     "not_counted_towards_total": false,

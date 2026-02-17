@@ -1,17 +1,4 @@
 {
-  "manipulator": {
-    "name": "Manipulator",
-    "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
-    "rarity": "Common",
-    "category": "Toxic Personality",
-    "reqs": "charismatic_cast => manipulator := 60s CHA",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "narcissist": {
     "name": "Narcissist",
     "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.",
@@ -20,6 +7,19 @@
     "reqs": "charismatic_cast => narcissist := 60s CHA",
     "exclusive": [
       "Tough_Love"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "manipulator": {
+    "name": "Manipulator",
+    "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
+    "rarity": "Common",
+    "category": "Toxic Personality",
+    "reqs": "charismatic_cast => manipulator := 60s CHA",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,

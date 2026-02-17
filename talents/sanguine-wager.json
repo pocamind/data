@@ -1,10 +1,10 @@
 {
-  "enhanced_flow_med": {
-    "name": "Enhanced Flow [MED]",
+  "enhanced_flow_hvy": {
+    "name": "Enhanced Flow [HVY]",
     "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
     "rarity": "Common",
     "category": "Sanguine Wager",
-    "reqs": "rush_hour => enhanced_flow_med := 90r MED, 90s BLD",
+    "reqs": "rush_hour => enhanced_flow_hvy := 90r HVY, 90s BLD",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "enhanced_flow_hvy": {
-    "name": "Enhanced Flow [HVY]",
+  "enhanced_flow_med": {
+    "name": "Enhanced Flow [MED]",
     "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
     "rarity": "Common",
     "category": "Sanguine Wager",
-    "reqs": "rush_hour => enhanced_flow_hvy := 90r HVY, 90s BLD",
+    "reqs": "rush_hour => enhanced_flow_med := 90r MED, 90s BLD",
     "exclusive": [
       ""
     ],

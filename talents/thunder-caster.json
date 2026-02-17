@@ -1,10 +1,10 @@
 {
-  "windup_battery": {
-    "name": "Windup Battery",
-    "desc": "Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%.",
+  "rain_of_static": {
+    "name": "Rain of Static",
+    "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.",
     "rarity": "Common",
     "category": "Thunder Caster",
-    "reqs": "windup_battery := 30s INT, 30s LTN",
+    "reqs": "rain_of_static := 30s LTN",
     "exclusive": [
       ""
     ],
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "rain_of_static": {
-    "name": "Rain of Static",
-    "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.",
+  "windup_battery": {
+    "name": "Windup Battery",
+    "desc": "Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%.",
     "rarity": "Common",
     "category": "Thunder Caster",
-    "reqs": "rain_of_static := 30s LTN",
+    "reqs": "windup_battery := 30s INT, 30s LTN",
     "exclusive": [
       ""
     ],

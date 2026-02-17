@@ -1,4 +1,16 @@
 {
+  "restrain": {
+    "name": "Restrain",
+    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Chainwarden"
+    ],
+    "reqs": "oath_chainwarden => restrain := ()",
+    "vaulted": false
+  },
   "rupture": {
     "name": "Rupture",
     "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
@@ -21,18 +33,6 @@
       "Chainwarden"
     ],
     "reqs": "oath_chainwarden => impel := ()",
-    "vaulted": false
-  },
-  "restrain": {
-    "name": "Restrain",
-    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Chainwarden"
-    ],
-    "reqs": "oath_chainwarden => restrain := ()",
     "vaulted": false
   }
 }

@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cauterized_wounds": {
-    "name": "Cauterized Wounds",
-    "desc": "Blood loss from all sources is lowered.",
-    "rarity": "Common",
+  "warding_radiance": {
+    "name": "Warding Radiance",
+    "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
+    "rarity": "Rare",
     "category": "Flame Warden",
-    "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
+    "reqs": "flamecharmer => warding_radiance := 20s AGL, 30s FLM",
     "exclusive": [
       ""
     ],
@@ -29,12 +29,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "warding_radiance": {
-    "name": "Warding Radiance",
-    "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
-    "rarity": "Rare",
+  "flamewalker": {
+    "name": "Flamewalker",
+    "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
+    "rarity": "Common",
     "category": "Flame Warden",
-    "reqs": "flamecharmer => warding_radiance := 20s AGL, 30s FLM",
+    "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
     "exclusive": [
       ""
     ],
@@ -59,12 +59,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "flamewalker": {
-    "name": "Flamewalker",
-    "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
+  "cauterized_wounds": {
+    "name": "Cauterized Wounds",
+    "desc": "Blood loss from all sources is lowered.",
     "rarity": "Common",
     "category": "Flame Warden",
-    "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
+    "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
     "exclusive": [
       ""
     ],

@@ -1,10 +1,10 @@
 {
-  "cold_blooded": {
-    "name": "Cold Blooded",
-    "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
+  "blood_and_iron": {
+    "name": "Blood and Iron",
+    "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "cold_blooded := 40s ICE, 40s BLD",
+    "reqs": "blood_and_iron := 40s MTL, 40s BLD",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "scorchblood": {
-    "name": "Scorchblood",
-    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+  "electrolyte": {
+    "name": "Electrolyte",
+    "desc": "Hitting Bloodrend mantras while having temporary health applies Shocked while removing a portion of temporary health.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "scorchblood := 40s FLM, 40s BLD",
+    "reqs": "electrolyte := 40s LTN, 40s BLD",
     "exclusive": [
       ""
     ],
@@ -51,12 +51,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "blood_and_iron": {
-    "name": "Blood and Iron",
-    "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
+  "cold_blooded": {
+    "name": "Cold Blooded",
+    "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "blood_and_iron := 40s MTL, 40s BLD",
+    "reqs": "cold_blooded := 40s ICE, 40s BLD",
     "exclusive": [
       ""
     ],
@@ -64,12 +64,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "electrolyte": {
-    "name": "Electrolyte",
-    "desc": "Hitting Bloodrend mantras while having temporary health applies Shocked while removing a portion of temporary health.",
+  "scorchblood": {
+    "name": "Scorchblood",
+    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "electrolyte := 40s LTN, 40s BLD",
+    "reqs": "scorchblood := 40s FLM, 40s BLD",
     "exclusive": [
       ""
     ],

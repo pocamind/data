@@ -1,10 +1,10 @@
 {
-  "nullifying_clarity": {
-    "name": "Nullifying Clarity",
-    "desc": "Deal 10% more damage to enemies with status effects on them with your basic attacks but the effect is removed on impact.",
+  "charged_return": {
+    "name": "Charged Return",
+    "desc": "Being under an elemental status effect causes your Basic Attacks and critical attacks to do 10% more damage.",
     "rarity": "Common",
     "category": "Elemental Rebound",
-    "reqs": "nullifying_clarity := 5s INT, 15s STR",
+    "reqs": "charged_return := 15s STR, 20s WLL",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "charged_return": {
-    "name": "Charged Return",
-    "desc": "Being under an elemental status effect causes your Basic Attacks and critical attacks to do 10% more damage.",
+  "nullifying_clarity": {
+    "name": "Nullifying Clarity",
+    "desc": "Deal 10% more damage to enemies with status effects on them with your basic attacks but the effect is removed on impact.",
     "rarity": "Common",
     "category": "Elemental Rebound",
-    "reqs": "charged_return := 15s STR, 20s WLL",
+    "reqs": "nullifying_clarity := 5s INT, 15s STR",
     "exclusive": [
       ""
     ],

@@ -1,19 +1,4 @@
 {
-  "all_above,_gods_below": {
-    "name": "All Above, Gods Below",
-    "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
-    "rarity": "Advanced",
-    "category": "Heretic",
-    "reqs": "all_the_dead_gods => all_above,_gods_below := 100s INT, 100s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 20
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "sin_stacker": {
     "name": "Sin Stacker",
     "desc": "Your All the Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.",
@@ -29,16 +14,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "heretics_sutra": {
-    "name": "Heretic's Sutra",
-    "desc": "A chant that steers you into the state of insanity for 20 seconds.\n[*Note: Procs Piercing Will for 15 seconds.]\n[*Note: 0.4s to 0.1s wind-up and 24s to 18s cooldown between 30 and 100 Willpower.]",
-    "rarity": "Quest",
+  "all_above,_gods_below": {
+    "name": "All Above, Gods Below",
+    "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
+    "rarity": "Advanced",
     "category": "Heretic",
-    "reqs": "heretics_sutra := 80s WLL",
+    "reqs": "all_the_dead_gods => all_above,_gods_below := 100s INT, 100s WLL",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Sanity": 20
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -54,6 +41,19 @@
     "innates": {
       "Sanity": 7
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "heretics_sutra": {
+    "name": "Heretic's Sutra",
+    "desc": "A chant that steers you into the state of insanity for 20 seconds.\n[*Note: Procs Piercing Will for 15 seconds.]\n[*Note: 0.4s to 0.1s wind-up and 24s to 18s cooldown between 30 and 100 Willpower.]",
+    "rarity": "Quest",
+    "category": "Heretic",
+    "reqs": "heretics_sutra := 80s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

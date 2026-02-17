@@ -1,74 +1,38 @@
 {
-  "wardens_blades": {
-    "name": "Warden's Blades",
-    "desc": "Revolving blades of ice.\r",
+  "ice_spikes": {
+    "name": "Ice Spikes",
+    "desc": "Piercing spikes of ice.",
     "stars": 0,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "wardens_blades := 1r ICE",
+    "reqs": "ice_spikes := 1r ICE",
     "vaulted": false
   },
-  "ice_forge": {
-    "name": "Ice Forge",
-    "desc": "Conjure and throw weapons of ice.\r",
+  "ice_smash": {
+    "name": "Ice Smash",
+    "desc": "A colossal mace of ice.\n[*Guard breaks at Level 5]",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ice_forge := 20r ICE",
+    "reqs": "ice_smash := 20r ICE",
     "vaulted": false
   },
-  "ice_lance": {
-    "name": "Ice Lance",
-    "desc": "Form an icy spear and lunge forward.\n",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_lance := 30r ICE",
-    "vaulted": false
-  },
-  "ice_fissure": {
-    "name": "Ice Fissure",
-    "desc": "Send ice rippling out in a shockwave.\r",
+  "ice_cubes": {
+    "name": "Ice Cubes",
+    "desc": "Manifest cubes of Ice to fire at your enemies. Cast mantra again to fire cubes.",
     "stars": 3,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ice_fissure := 50r ICE",
-    "vaulted": false
-  },
-  "ice_beam": {
-    "name": "Ice Beam",
-    "desc": "Fire a beam of ice.\r",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_beam := 1r ICE",
-    "vaulted": false
-  },
-  "ice_eruption": {
-    "name": "Ice Eruption",
-    "desc": "A flurry of ice spikes.\r\n",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_eruption := 20r ICE",
+    "reqs": "ice_cubes := 50r ICE",
     "vaulted": false
   },
   "ice_blade": {
@@ -95,52 +59,28 @@
     "reqs": "crystal_impale := 40r ICE",
     "vaulted": false
   },
-  "ice_spikes": {
-    "name": "Ice Spikes",
-    "desc": "Piercing spikes of ice.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_spikes := 1r ICE",
-    "vaulted": false
-  },
-  "crystal_knee": {
-    "name": "Crystal Knee",
-    "desc": "Knock your enemy skyward with a kick of crystal.\r",
+  "ice_carve": {
+    "name": "Ice Carve",
+    "desc": "A sharp disk of ice.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "crystal_knee := 40r ICE",
+    "reqs": "ice_carve := 30r ICE",
     "vaulted": false
   },
-  "ice_smash": {
-    "name": "Ice Smash",
-    "desc": "A colossal mace of ice.\n[*Guard breaks at Level 5]",
-    "stars": 1,
+  "ice_lance": {
+    "name": "Ice Lance",
+    "desc": "Form an icy spear and lunge forward.\n",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ice_smash := 20r ICE",
-    "vaulted": false
-  },
-  "ice_chain": {
-    "name": "Ice Chain",
-    "desc": "Chains of ice.\r\n",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_chain := 20r ICE",
+    "reqs": "ice_lance := 30r ICE",
     "vaulted": false
   },
   "frozen_servants": {
@@ -155,6 +95,18 @@
     "reqs": "frozen_servants := 1r ICE",
     "vaulted": false
   },
+  "frost_grab": {
+    "name": "Frost Grab",
+    "desc": "An icy chokehold.\r\n",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "frost_grab := 30r ICE",
+    "vaulted": false
+  },
   "rising_frost": {
     "name": "Rising Frost",
     "desc": "Conjure a glaive of frost to launch your opponents skywards.",
@@ -167,16 +119,28 @@
     "reqs": "rising_frost := 30r ICE",
     "vaulted": false
   },
-  "ice_flock": {
-    "name": "Ice Flock",
-    "desc": "Send forth a flock of ice.",
-    "stars": 2,
+  "ice_forge": {
+    "name": "Ice Forge",
+    "desc": "Conjure and throw weapons of ice.\r",
+    "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ice_flock := 30r ICE",
+    "reqs": "ice_forge := 20r ICE",
+    "vaulted": false
+  },
+  "wardens_blades": {
+    "name": "Warden's Blades",
+    "desc": "Revolving blades of ice.\r",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "wardens_blades := 1r ICE",
     "vaulted": false
   },
   "ice_lasers": {
@@ -191,6 +155,54 @@
     "reqs": "ice_lasers := 40r ICE",
     "vaulted": false
   },
+  "ice_beam": {
+    "name": "Ice Beam",
+    "desc": "Fire a beam of ice.\r",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_beam := 1r ICE",
+    "vaulted": false
+  },
+  "crystal_knee": {
+    "name": "Crystal Knee",
+    "desc": "Knock your enemy skyward with a kick of crystal.\r",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "crystal_knee := 40r ICE",
+    "vaulted": false
+  },
+  "ice_fissure": {
+    "name": "Ice Fissure",
+    "desc": "Send ice rippling out in a shockwave.\r",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_fissure := 50r ICE",
+    "vaulted": false
+  },
+  "ice_eruption": {
+    "name": "Ice Eruption",
+    "desc": "A flurry of ice spikes.\r\n",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Frostdraw"
+    ],
+    "reqs": "ice_eruption := 20r ICE",
+    "vaulted": false
+  },
   "ice_daggers": {
     "name": "Ice Daggers",
     "desc": "Form and toss daggers of ice at your aimed opponent.",
@@ -203,40 +215,28 @@
     "reqs": "ice_daggers := 20r ICE",
     "vaulted": false
   },
-  "ice_cubes": {
-    "name": "Ice Cubes",
-    "desc": "Manifest cubes of Ice to fire at your enemies. Cast mantra again to fire cubes.",
-    "stars": 3,
+  "ice_chain": {
+    "name": "Ice Chain",
+    "desc": "Chains of ice.\r\n",
+    "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "ice_cubes := 50r ICE",
+    "reqs": "ice_chain := 20r ICE",
     "vaulted": false
   },
-  "frost_grab": {
-    "name": "Frost Grab",
-    "desc": "An icy chokehold.\r\n",
+  "ice_flock": {
+    "name": "Ice Flock",
+    "desc": "Send forth a flock of ice.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Frostdraw"
     ],
-    "reqs": "frost_grab := 30r ICE",
-    "vaulted": false
-  },
-  "ice_carve": {
-    "name": "Ice Carve",
-    "desc": "A sharp disk of ice.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Frostdraw"
-    ],
-    "reqs": "ice_carve := 30r ICE",
+    "reqs": "ice_flock := 30r ICE",
     "vaulted": false
   }
 }

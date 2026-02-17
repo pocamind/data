@@ -11,30 +11,6 @@
     "reqs": "shadow_chains := 20r SDW",
     "vaulted": false
   },
-  "shadow_roar": {
-    "name": "Shadow Roar",
-    "desc": "Roar a wave of shadows.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "shadow_roar := 30r SDW",
-    "vaulted": false
-  },
-  "shadow_seekers": {
-    "name": "Shadow Seekers",
-    "desc": "Call forth the void to track your opponents.        ",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "shadow_seekers := 20r SDW",
-    "vaulted": false
-  },
   "shadow_vortex": {
     "name": "Shadow Vortex",
     "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
@@ -47,16 +23,16 @@
     "reqs": "shadow_vortex := 50r SDW",
     "vaulted": true
   },
-  "shadow_meteors": {
-    "name": "Shadow Meteors",
-    "desc": "Hail down meteors of darkness.",
-    "stars": 2,
+  "shadow_seekers": {
+    "name": "Shadow Seekers",
+    "desc": "Call forth the void to track your opponents.        ",
+    "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Shadowcast"
     ],
-    "reqs": "shadow_meteors := 30r SDW",
+    "reqs": "shadow_seekers := 20r SDW",
     "vaulted": false
   },
   "eclipse_kick": {
@@ -71,6 +47,18 @@
     "reqs": "eclipse_kick := 15r STR, 50r SDW",
     "vaulted": false
   },
+  "rising_shadow": {
+    "name": "Rising Shadow",
+    "desc": "Form a Shockwave of darkness.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "rising_shadow := 30r SDW",
+    "vaulted": false
+  },
   "shadow_gun": {
     "name": "Shadow Gun",
     "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
@@ -81,6 +69,18 @@
       "Shadowcast"
     ],
     "reqs": "shadow_gun := 1r SDW",
+    "vaulted": false
+  },
+  "shadow_roar": {
+    "name": "Shadow Roar",
+    "desc": "Roar a wave of shadows.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "shadow_roar := 30r SDW",
     "vaulted": false
   },
   "umbral_slash": {
@@ -95,18 +95,6 @@
     "reqs": "umbral_slash := 30r SDW",
     "vaulted": false
   },
-  "clutching_shadow": {
-    "name": "Clutching Shadow",
-    "desc": "A shadowy hand.\t",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "clutching_shadow := 1r SDW",
-    "vaulted": false
-  },
   "dark_blade": {
     "name": "Dark Blade",
     "desc": "Slicing blades of dark energy.\t",
@@ -119,16 +107,16 @@
     "reqs": "dark_blade := 1r SDW",
     "vaulted": false
   },
-  "rising_shadow": {
-    "name": "Rising Shadow",
-    "desc": "Form a Shockwave of darkness.",
+  "shadow_meteors": {
+    "name": "Shadow Meteors",
+    "desc": "Hail down meteors of darkness.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Shadowcast"
     ],
-    "reqs": "rising_shadow := 30r SDW",
+    "reqs": "shadow_meteors := 30r SDW",
     "vaulted": false
   },
   "shadow_eruption": {
@@ -153,6 +141,18 @@
       "Shadowcast"
     ],
     "reqs": "shade_bringer := 50r SDW",
+    "vaulted": false
+  },
+  "clutching_shadow": {
+    "name": "Clutching Shadow",
+    "desc": "A shadowy hand.\t",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "clutching_shadow := 1r SDW",
     "vaulted": false
   }
 }

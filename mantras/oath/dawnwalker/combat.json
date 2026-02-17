@@ -1,4 +1,16 @@
 {
+  "radiant_dawn": {
+    "name": "Radiant Dawn",
+    "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Dawnwalker"
+    ],
+    "reqs": "oath_dawnwalker => radiant_dawn := ()",
+    "vaulted": false
+  },
   "blinding_dawn": {
     "name": "Blinding Dawn",
     "desc": "Dance uncontrollably. No one can withstand the sheer groove of your spin routine.",
@@ -21,18 +33,6 @@
       "Dawnwalker"
     ],
     "reqs": "oath_dawnwalker => radiant_kick := ()",
-    "vaulted": false
-  },
-  "radiant_dawn": {
-    "name": "Radiant Dawn",
-    "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Dawnwalker"
-    ],
-    "reqs": "oath_dawnwalker => radiant_dawn := ()",
     "vaulted": false
   }
 }

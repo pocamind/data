@@ -1,14 +1,14 @@
 {
-  "updraft": {
-    "name": "Updraft",
-    "desc": "A lifting torrent of wind.",
+  "galetrap": {
+    "name": "Galetrap",
+    "desc": "Toss a wind landmine.\r",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "updraft := 20r WND",
+    "reqs": "galetrap := 20r WND",
     "vaulted": false
   },
   "wind_carve": {
@@ -23,18 +23,6 @@
     "reqs": "wind_carve := 30r WND",
     "vaulted": false
   },
-  "wind_forge": {
-    "name": "Wind Forge",
-    "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "wind_forge := 20r WND",
-    "vaulted": false
-  },
   "twister_kicks": {
     "name": "Twister Kicks",
     "desc": "Go forth with spinning kicks infused with the wind.",
@@ -45,54 +33,6 @@
       "Galebreathe"
     ],
     "reqs": "twister_kicks := 20r WND",
-    "vaulted": false
-  },
-  "tornado": {
-    "name": "Tornado",
-    "desc": "A rushing current of wind.\r\n",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "tornado := 20r WND",
-    "vaulted": false
-  },
-  "wind_gun": {
-    "name": "Wind Gun",
-    "desc": "A powerful wind blast.\r",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "wind_gun := 30r WND",
-    "vaulted": false
-  },
-  "heavenly_wind": {
-    "name": "Heavenly Wind",
-    "desc": "A strike from the heavens.\r",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "heavenly_wind := 20r WND",
-    "vaulted": false
-  },
-  "gale_punch": {
-    "name": "Gale Punch",
-    "desc": "Form a punch of wind in your fist and release it.\r",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "gale_punch := 20r WND",
     "vaulted": false
   },
   "champions_whirlthrow": {
@@ -107,16 +47,28 @@
     "reqs": "champions_whirlthrow := 30r WND",
     "vaulted": false
   },
-  "tornado_kick": {
-    "name": "Tornado Kick",
-    "desc": "Slicing blades of wind.\r\n",
+  "heavenly_wind": {
+    "name": "Heavenly Wind",
+    "desc": "A strike from the heavens.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "heavenly_wind := 20r WND",
+    "vaulted": false
+  },
+  "air_force": {
+    "name": "Air Force",
+    "desc": "Shoots out an air blast.\n",
     "stars": 0,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "tornado_kick := 1r WND",
+    "reqs": "air_force := 1r WND",
     "vaulted": false
   },
   "pillars_of_erisia": {
@@ -131,18 +83,6 @@
     "reqs": "pillars_of_erisia := 50r WND",
     "vaulted": false
   },
-  "galetrap": {
-    "name": "Galetrap",
-    "desc": "Toss a wind landmine.\r",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Galebreathe"
-    ],
-    "reqs": "galetrap := 20r WND",
-    "vaulted": false
-  },
   "astral_wind": {
     "name": "Astral Wind",
     "desc": "A rapid delivery of consecutive attacks.\r",
@@ -153,6 +93,18 @@
       "Galebreathe"
     ],
     "reqs": "astral_wind := 50r WND",
+    "vaulted": false
+  },
+  "gale_punch": {
+    "name": "Gale Punch",
+    "desc": "Form a punch of wind in your fist and release it.\r",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "gale_punch := 20r WND",
     "vaulted": false
   },
   "gale_lunge": {
@@ -167,6 +119,18 @@
     "reqs": "gale_lunge := 20r WND",
     "vaulted": false
   },
+  "tornado_kick": {
+    "name": "Tornado Kick",
+    "desc": "Slicing blades of wind.\r\n",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "tornado_kick := 1r WND",
+    "vaulted": false
+  },
   "rising_wind": {
     "name": "Rising Wind",
     "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
@@ -177,6 +141,42 @@
       "Galebreathe"
     ],
     "reqs": "rising_wind := 30r WND",
+    "vaulted": false
+  },
+  "tornado": {
+    "name": "Tornado",
+    "desc": "A rushing current of wind.\r\n",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "tornado := 20r WND",
+    "vaulted": false
+  },
+  "wind_forge": {
+    "name": "Wind Forge",
+    "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "wind_forge := 20r WND",
+    "vaulted": false
+  },
+  "updraft": {
+    "name": "Updraft",
+    "desc": "A lifting torrent of wind.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Galebreathe"
+    ],
+    "reqs": "updraft := 20r WND",
     "vaulted": false
   },
   "wind_blade": {
@@ -191,16 +191,16 @@
     "reqs": "wind_blade := 1r WND",
     "vaulted": false
   },
-  "air_force": {
-    "name": "Air Force",
-    "desc": "Shoots out an air blast.\n",
-    "stars": 0,
+  "wind_gun": {
+    "name": "Wind Gun",
+    "desc": "A powerful wind blast.\r",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Galebreathe"
     ],
-    "reqs": "air_force := 1r WND",
+    "reqs": "wind_gun := 30r WND",
     "vaulted": false
   }
 }

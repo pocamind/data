@@ -1,18 +1,54 @@
 {
-  "alloyed_trident_spear": {
-    "name": "Alloyed Trident Spear",
+  "imperial_staff": {
+    "name": "Imperial Staff",
+    "type": "Spear",
+    "damage_type": "Blunt",
+    "reqs": "imperial_staff := 40r STR, 40r MED",
+    "damage": 19.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 8.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0,
+      "Strength": 3.5
+    }
+  },
+  "alloyed_longspear": {
+    "name": "Alloyed Longspear",
     "type": "Spear",
     "damage_type": "Slash",
-    "reqs": "alloyed_trident_spear := 85r MED",
-    "damage": 19.0,
-    "pen": 0.25,
+    "reqs": "alloyed_longspear := 75r MED",
+    "damage": 20.0,
+    "pen": 0.1,
     "chip": 0.0,
     "weight": 5.0,
     "range": 9.0,
+    "speed": 1.0,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.5
+    }
+  },
+  "red_death_bleed": {
+    "name": "Red Death (Bleed)",
+    "type": "Spear",
+    "damage_type": "Slash + Bleed",
+    "reqs": "red_death_bleed := 25r INT OR 25r WLL OR 25r CHA, 30r MED, 35r BLD, 45r SDW",
+    "damage": 16.0,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.5,
+    "range": 9.5,
     "speed": 0.92,
     "endlag": 0.0,
     "scaling": {
-      "Medium Wep.": 7.0
+      "Bloodrend": 3.0,
+      "Mind": 2.0,
+      "Shadowcast": 3.0,
+      "Medium Wep.": 2.0
     }
   },
   "ritual_spear": {
@@ -29,54 +65,6 @@
     "endlag": 0.0,
     "scaling": {
       "Medium Wep.": 5.0
-    }
-  },
-  "iron_spear": {
-    "name": "Iron Spear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "iron_spear := ()",
-    "damage": 17.0,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.9,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 2.5
-    }
-  },
-  "kyrsglaive_bleed": {
-    "name": "Kyrsglaive (Bleed)",
-    "type": "Spear",
-    "damage_type": "Slash + Bleed",
-    "reqs": "kyrsglaive_bleed := 90r MED",
-    "damage": 18.5,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.96,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 5.0
-    }
-  },
-  "irontusk": {
-    "name": "Irontusk",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "irontusk := ()",
-    "damage": 16.5,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.9,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 3.0
     }
   },
   "imperators_edge": {
@@ -97,37 +85,20 @@
       "Medium Wep.": 2.0
     }
   },
-  "weal_and_woe": {
-    "name": "Weal and Woe",
+  "irontusk": {
+    "name": "Irontusk",
     "type": "Spear",
     "damage_type": "Slash",
-    "reqs": "weal_and_woe := 65r SDW, 80r MED",
-    "damage": 17.5,
-    "pen": 0.15,
-    "chip": 0.05,
-    "weight": 7.5,
-    "range": 9.0,
-    "speed": 0.92,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 5.0,
-      "Shadowcast": 6.5
-    }
-  },
-  "alloyed_longspear": {
-    "name": "Alloyed Longspear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "alloyed_longspear := 75r MED",
-    "damage": 20.0,
+    "reqs": "irontusk := ()",
+    "damage": 16.5,
     "pen": 0.1,
     "chip": 0.0,
     "weight": 5.0,
     "range": 9.0,
-    "speed": 1.0,
+    "speed": 0.9,
     "endlag": 0.0,
     "scaling": {
-      "Medium Wep.": 6.5
+      "Medium Wep.": 3.0
     }
   },
   "the_weaving_web": {
@@ -143,121 +114,8 @@
     "speed": 1.0,
     "endlag": 0.0,
     "scaling": {
-      "Charisma": 1.0,
-      "Medium Wep.": 5.5
-    }
-  },
-  "true_seraph_spear": {
-    "name": "True Seraph Spear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "true_seraph_spear := 80r MED",
-    "damage": 18.5,
-    "pen": 0.2,
-    "chip": 0.4,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.96,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 7.0
-    }
-  },
-  "rifle_spear": {
-    "name": "Rifle Spear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "rifle_spear := 75r MED",
-    "damage": 21.0,
-    "pen": 0.25,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.9,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 7.0
-    }
-  },
-  "kyrswynter_bleed": {
-    "name": "Kyrswynter (Bleed)",
-    "type": "Spear",
-    "damage_type": "Slash + Bleed",
-    "reqs": "kyrswynter_bleed := 50r MED, 75r ICE",
-    "damage": 16.0,
-    "pen": 0.2,
-    "chip": 0.0,
-    "weight": 6.0,
-    "range": 9.0,
-    "speed": 0.96,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 5.0,
-      "Frostdraw": 3.0
-    }
-  },
-  "acherons_warspear_bleed": {
-    "name": "Acheron's Warspear (Bleed)",
-    "type": "Spear",
-    "damage_type": "Slash + Bleed",
-    "reqs": "acherons_warspear_bleed := 40r MED",
-    "damage": 18.0,
-    "pen": 0.15,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.93,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 6.0
-    }
-  },
-  "gremorian_longspear": {
-    "name": "Gremorian Longspear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "gremorian_longspear := 20r MED",
-    "damage": 18.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.9,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 4.0
-    }
-  },
-  "divine_spear": {
-    "name": "Divine Spear",
-    "type": "Spear",
-    "damage_type": "Slash",
-    "reqs": "divine_spear := ()",
-    "damage": 23.0,
-    "pen": 0.0,
-    "chip": 0.0,
-    "weight": 5.0,
-    "range": 10.0,
-    "speed": 0.93,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 9.0
-    }
-  },
-  "bloodtide_trident_bleed": {
-    "name": "Bloodtide Trident (Bleed)",
-    "type": "Spear",
-    "damage_type": "Slash + Bleed",
-    "reqs": "bloodtide_trident_bleed := 75r MED",
-    "damage": 18.7,
-    "pen": 0.25,
-    "chip": 0.1,
-    "weight": 5.0,
-    "range": 9.0,
-    "speed": 0.93,
-    "endlag": 0.0,
-    "scaling": {
-      "Medium Wep.": 6.0
+      "Medium Wep.": 5.5,
+      "Charisma": 1.0
     }
   },
   "trident_spear": {
@@ -276,40 +134,166 @@
       "Medium Wep.": 6.0
     }
   },
-  "red_death_bleed": {
-    "name": "Red Death (Bleed)",
+  "iron_spear": {
+    "name": "Iron Spear",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "iron_spear := ()",
+    "damage": 17.0,
+    "pen": 0.1,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.9,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 2.5
+    }
+  },
+  "gremorian_longspear": {
+    "name": "Gremorian Longspear",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "gremorian_longspear := 20r MED",
+    "damage": 18.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.9,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 4.0
+    }
+  },
+  "rifle_spear": {
+    "name": "Rifle Spear",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "rifle_spear := 75r MED",
+    "damage": 21.0,
+    "pen": 0.25,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.9,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
+    }
+  },
+  "acherons_warspear_bleed": {
+    "name": "Acheron's Warspear (Bleed)",
     "type": "Spear",
     "damage_type": "Slash + Bleed",
-    "reqs": "red_death_bleed := 25r INT OR 25r WLL OR 25r CHA, 30r MED, 35r BLD, 45r SDW",
+    "reqs": "acherons_warspear_bleed := 40r MED",
+    "damage": 18.0,
+    "pen": 0.15,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "bloodtide_trident_bleed": {
+    "name": "Bloodtide Trident (Bleed)",
+    "type": "Spear",
+    "damage_type": "Slash + Bleed",
+    "reqs": "bloodtide_trident_bleed := 75r MED",
+    "damage": 18.7,
+    "pen": 0.25,
+    "chip": 0.1,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 6.0
+    }
+  },
+  "kyrsglaive_bleed": {
+    "name": "Kyrsglaive (Bleed)",
+    "type": "Spear",
+    "damage_type": "Slash + Bleed",
+    "reqs": "kyrsglaive_bleed := 90r MED",
+    "damage": 18.5,
+    "pen": 0.2,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.96,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 5.0
+    }
+  },
+  "kyrswynter_bleed": {
+    "name": "Kyrswynter (Bleed)",
+    "type": "Spear",
+    "damage_type": "Slash + Bleed",
+    "reqs": "kyrswynter_bleed := 50r MED, 75r ICE",
     "damage": 16.0,
     "pen": 0.2,
     "chip": 0.0,
-    "weight": 5.5,
-    "range": 9.5,
+    "weight": 6.0,
+    "range": 9.0,
+    "speed": 0.96,
+    "endlag": 0.0,
+    "scaling": {
+      "Frostdraw": 3.0,
+      "Medium Wep.": 5.0
+    }
+  },
+  "divine_spear": {
+    "name": "Divine Spear",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "divine_spear := ()",
+    "damage": 23.0,
+    "pen": 0.0,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 10.0,
+    "speed": 0.93,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 9.0
+    }
+  },
+  "weal_and_woe": {
+    "name": "Weal and Woe",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "weal_and_woe := 65r SDW, 80r MED",
+    "damage": 17.5,
+    "pen": 0.15,
+    "chip": 0.05,
+    "weight": 7.5,
+    "range": 9.0,
     "speed": 0.92,
     "endlag": 0.0,
     "scaling": {
-      "Shadowcast": 3.0,
-      "Medium Wep.": 2.0,
-      "Mind": 2.0,
-      "Bloodrend": 3.0
+      "Shadowcast": 6.5,
+      "Medium Wep.": 5.0
     }
   },
-  "imperial_staff": {
-    "name": "Imperial Staff",
+  "true_seraph_spear": {
+    "name": "True Seraph Spear",
     "type": "Spear",
-    "damage_type": "Blunt",
-    "reqs": "imperial_staff := 40r STR, 40r MED",
-    "damage": 19.0,
-    "pen": 0.1,
-    "chip": 0.0,
-    "weight": 6.0,
-    "range": 8.0,
-    "speed": 1.0,
+    "damage_type": "Slash",
+    "reqs": "true_seraph_spear := 80r MED",
+    "damage": 18.5,
+    "pen": 0.2,
+    "chip": 0.4,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.96,
     "endlag": 0.0,
     "scaling": {
-      "Strength": 3.5,
-      "Medium Wep.": 5.0
+      "Medium Wep.": 7.0
     }
   },
   "serrated_warspear_bleed": {
@@ -326,6 +310,22 @@
     "endlag": 0.0,
     "scaling": {
       "Medium Wep.": 6.5
+    }
+  },
+  "alloyed_trident_spear": {
+    "name": "Alloyed Trident Spear",
+    "type": "Spear",
+    "damage_type": "Slash",
+    "reqs": "alloyed_trident_spear := 85r MED",
+    "damage": 19.0,
+    "pen": 0.25,
+    "chip": 0.0,
+    "weight": 5.0,
+    "range": 9.0,
+    "speed": 0.92,
+    "endlag": 0.0,
+    "scaling": {
+      "Medium Wep.": 7.0
     }
   }
 }

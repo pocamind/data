@@ -1,10 +1,10 @@
 {
-  "murmur_tacet_oath": {
-    "name": "Murmur: Tacet [OATH]",
-    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+  "formless": {
+    "name": "Formless",
+    "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
     "rarity": "Oath",
     "category": "Soulbreaker",
-    "reqs": "oath_soulbreaker => murmur_tacet_oath := ()",
+    "reqs": "oath_soulbreaker => formless := ()",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "formless": {
-    "name": "Formless",
-    "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
+  "heart_reverb": {
+    "name": "Heart Reverb",
+    "desc": "Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.",
     "rarity": "Oath",
     "category": "Soulbreaker",
-    "reqs": "oath_soulbreaker => formless := ()",
+    "reqs": "oath_soulbreaker => heart_reverb := ()",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,38 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "soul_infusion": {
+    "name": "Soul Infusion",
+    "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => soul_infusion := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "murmur_ardour_oath": {
     "name": "Murmur: Ardour [OATH]",
     "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
     "rarity": "Oath",
     "category": "Soulbreaker",
     "reqs": "oath_soulbreaker => murmur_ardour_oath := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_tacet_oath": {
+    "name": "Murmur: Tacet [OATH]",
+    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+    "rarity": "Oath",
+    "category": "Soulbreaker",
+    "reqs": "oath_soulbreaker => murmur_tacet_oath := ()",
     "exclusive": [
       ""
     ],
@@ -68,16 +94,18 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "soul_infusion": {
-    "name": "Soul Infusion",
-    "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.",
+  "ardour_scream_oath": {
+    "name": "Ardour Scream [OATH]",
+    "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
     "rarity": "Oath",
     "category": "Soulbreaker",
-    "reqs": "oath_soulbreaker => soul_infusion := ()",
+    "reqs": "oath_soulbreaker => ardour_scream_oath := ()",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Sanity": 9
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -91,34 +119,6 @@
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "heart_reverb": {
-    "name": "Heart Reverb",
-    "desc": "Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath_soulbreaker => heart_reverb := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "ardour_scream_oath": {
-    "name": "Ardour Scream [OATH]",
-    "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
-    "rarity": "Oath",
-    "category": "Soulbreaker",
-    "reqs": "oath_soulbreaker => ardour_scream_oath := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 9
-    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

@@ -11,18 +11,6 @@
     "reqs": "karita_divebomb := 20r LHT",
     "vaulted": false
   },
-  "ceaseless_slashes": {
-    "name": "Ceaseless Slashes",
-    "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Light Weapons"
-    ],
-    "reqs": "ceaseless_slashes := 50r LHT",
-    "vaulted": false
-  },
   "rapid_slashes": {
     "name": "Rapid Slashes",
     "desc": "Rush down your opponent cutting them apart.",
@@ -33,6 +21,18 @@
       "Light Weapons"
     ],
     "reqs": "rapid_slashes := 30r LHT",
+    "vaulted": false
+  },
+  "ceaseless_slashes": {
+    "name": "Ceaseless Slashes",
+    "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "ceaseless_slashes := 50r LHT",
     "vaulted": false
   }
 }

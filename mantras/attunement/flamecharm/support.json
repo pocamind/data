@@ -11,18 +11,6 @@
     "reqs": "graceful_flame := 20r FLM",
     "vaulted": false
   },
-  "flame_of_denial": {
-    "name": "Flame Of Denial",
-    "desc": "While active, you get right back up after being knocked.",
-    "stars": 0,
-    "category": "Support",
-    "type": "Attunement",
-    "attributes": [
-      "Flamecharm"
-    ],
-    "reqs": "flame_of_denial := 1r FLM",
-    "vaulted": false
-  },
   "flame_blind": {
     "name": "Flame Blind",
     "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
@@ -33,6 +21,18 @@
       "Flamecharm"
     ],
     "reqs": "flame_blind := 1r FLM",
+    "vaulted": false
+  },
+  "flame_of_denial": {
+    "name": "Flame Of Denial",
+    "desc": "While active, you get right back up after being knocked.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunement",
+    "attributes": [
+      "Flamecharm"
+    ],
+    "reqs": "flame_of_denial := 1r FLM",
     "vaulted": false
   }
 }

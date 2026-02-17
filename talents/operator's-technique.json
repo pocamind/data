@@ -1,23 +1,10 @@
 {
-  "absolute_force": {
-    "name": "Absolute Force",
-    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
+  "martial_brutality": {
+    "name": "Martial Brutality",
+    "desc": "The less health your opponent has, the more posture damage you deal to them.",
     "rarity": "Faction",
     "category": "Operator's Technique",
-    "reqs": "oppressive_force => absolute_force := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "amp_overdrive": {
-    "name": "Amp Overdrive",
-    "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.",
-    "rarity": "Faction",
-    "category": "Operator's Technique",
-    "reqs": "amp_overdrive := ()",
+    "reqs": "martial_brutality := ()",
     "exclusive": [
       ""
     ],
@@ -38,12 +25,25 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "martial_brutality": {
-    "name": "Martial Brutality",
-    "desc": "The less health your opponent has, the more posture damage you deal to them.",
+  "absolute_force": {
+    "name": "Absolute Force",
+    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
     "rarity": "Faction",
     "category": "Operator's Technique",
-    "reqs": "martial_brutality := ()",
+    "reqs": "oppressive_force => absolute_force := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "amp_overdrive": {
+    "name": "Amp Overdrive",
+    "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.",
+    "rarity": "Faction",
+    "category": "Operator's Technique",
+    "reqs": "amp_overdrive := ()",
     "exclusive": [
       ""
     ],

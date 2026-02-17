@@ -1,17 +1,4 @@
 {
-  "target_switch": {
-    "name": "Target Switch",
-    "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
-    "rarity": "Common",
-    "category": "Tactician",
-    "reqs": "target_switch := 20s INT",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "foolish_outburst": {
     "name": "Foolish Outburst",
     "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.\n[*Absorbs 20% to 40% of the vent's Tempo between 20 INT and 50 INT.]",
@@ -25,12 +12,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hard_read": {
-    "name": "Hard Read",
-    "desc": "Hitting your opponent during a feint will cause them to be dazed.",
+  "water_off_a_ducks_back": {
+    "name": "Water off a Duck's Back",
+    "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.",
     "rarity": "Common",
     "category": "Tactician",
-    "reqs": "hard_read := 20s INT",
+    "reqs": "water_off_a_ducks_back := 50s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "target_switch": {
+    "name": "Target Switch",
+    "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
+    "rarity": "Common",
+    "category": "Tactician",
+    "reqs": "target_switch := 20s INT",
     "exclusive": [
       ""
     ],
@@ -51,12 +51,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "water_off_a_ducks_back": {
-    "name": "Water off a Duck's Back",
-    "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.",
+  "hard_read": {
+    "name": "Hard Read",
+    "desc": "Hitting your opponent during a feint will cause them to be dazed.",
     "rarity": "Common",
     "category": "Tactician",
-    "reqs": "water_off_a_ducks_back := 50s INT",
+    "reqs": "hard_read := 20s INT",
     "exclusive": [
       ""
     ],

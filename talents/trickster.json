@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "crippling_comeuppance": {
-    "name": "Crippling Comeuppance",
-    "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
-    "rarity": "Advanced",
+  "maiming_claws": {
+    "name": "Maiming Claws",
+    "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
+    "rarity": "Common",
     "category": "Trickster",
-    "reqs": "crippling_comeuppance := 100s AGL",
+    "reqs": "down_comes_the_claw => maiming_claws := 100s AGL",
     "exclusive": [
       ""
     ],
@@ -44,12 +44,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "maiming_claws": {
-    "name": "Maiming Claws",
-    "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
-    "rarity": "Common",
+  "crippling_comeuppance": {
+    "name": "Crippling Comeuppance",
+    "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
+    "rarity": "Advanced",
     "category": "Trickster",
-    "reqs": "down_comes_the_claw => maiming_claws := 100s AGL",
+    "reqs": "crippling_comeuppance := 100s AGL",
     "exclusive": [
       ""
     ],

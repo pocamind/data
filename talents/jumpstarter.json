@@ -1,10 +1,10 @@
 {
-  "amplified_reflexes": {
-    "name": "Amplified Reflexes",
-    "desc": "Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.",
+  "electrify": {
+    "name": "Electrify",
+    "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
     "rarity": "Common",
     "category": "Jumpstarter",
-    "reqs": "electrify => amplified_reflexes := 35s LTN",
+    "reqs": "electrify := 25s LTN",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "electrify": {
-    "name": "Electrify",
-    "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
+  "amplified_reflexes": {
+    "name": "Amplified Reflexes",
+    "desc": "Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.",
     "rarity": "Common",
     "category": "Jumpstarter",
-    "reqs": "electrify := 25s LTN",
+    "reqs": "electrify => amplified_reflexes := 35s LTN",
     "exclusive": [
       ""
     ],

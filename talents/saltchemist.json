@@ -1,17 +1,4 @@
 {
-  "perpetual_distillery": {
-    "name": "Perpetual Distillery",
-    "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
-    "rarity": "Oath",
-    "category": "Saltchemist",
-    "reqs": "oath_saltchemist => perpetual_distillery := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "aromatic_salts": {
     "name": "Aromatic Salts",
     "desc": "Alter your brews to create lingering clouds of mist on shattering . Does not count towards the ingredient limit.",
@@ -31,6 +18,19 @@
     "rarity": "Oath",
     "category": "Saltchemist",
     "reqs": "oath_saltchemist => antithetic_salts := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "perpetual_distillery": {
+    "name": "Perpetual Distillery",
+    "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
+    "rarity": "Oath",
+    "category": "Saltchemist",
+    "reqs": "oath_saltchemist => perpetual_distillery := ()",
     "exclusive": [
       ""
     ],
@@ -61,9 +61,9 @@
       ""
     ],
     "innates": {
-      "Support Mantra": 1,
+      "Carry Load": 20,
       "Wildcard Mantra": 1,
-      "Carry Load": 20
+      "Support Mantra": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

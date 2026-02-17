@@ -1,23 +1,10 @@
 {
-  "chitin": {
-    "name": "Chitin",
-    "desc": "You have a layer of Natural Armor that replenishes when you rest.",
+  "mark_of_jurik": {
+    "name": "Mark of Jurik",
+    "desc": "Buffs the sanity of one person they choose around them as long as they are at a campfire",
     "rarity": "Origin",
     "category": "Innate",
-    "reqs": "chitin := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "nightchild": {
-    "name": "Nightchild",
-    "desc": "Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "nightchild := ()",
+    "reqs": "mark_of_jurik := ()",
     "exclusive": [
       ""
     ],
@@ -38,142 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "loyalty": {
-    "name": "Loyalty",
-    "desc": "Your bond with your allies is strong enough to reduce damage between you",
+  "echolocator": {
+    "name": "Echolocator",
+    "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.",
     "rarity": "Origin",
     "category": "Innate",
-    "reqs": "loyalty := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "seaborne": {
-    "name": "Seaborne",
-    "desc": "You have a keen understanding of ships and their maintenance.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "seaborne := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "union_card": {
-    "name": "Union Card",
-    "desc": "A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees slightly reduce your experience gain outside of these.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "union_card := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "deepfolk": {
-    "name": "Deepfolk",
-    "desc": "The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "deepfolk := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "mothwing_dust": {
-    "name": "Mothwing Dust",
-    "desc": "You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "mothwing_dust := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "deepbound_contract": {
-    "name": "Deepbound Contract",
-    "desc": "You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "deepbound_contract := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "mark_of_jurik": {
-    "name": "Mark of Jurik",
-    "desc": "Buffs the sanity of one person they choose around them as long as they are at a campfire",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "mark_of_jurik := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "maudet": {
-    "name": "Maudet",
-    "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "maudet := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "voidwalker_contract": {
-    "name": "Voidwalker Contract",
-    "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "voidwalker_contract := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "versatile": {
-    "name": "Versatile",
-    "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "versatile := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "navaes_guidance": {
-    "name": "Navae's Guidance",
-    "desc": "Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.",
-    "rarity": "Origin",
-    "category": "Innate",
-    "reqs": "navaes_guidance := ()",
+    "reqs": "echolocator := ()",
     "exclusive": [
       ""
     ],
@@ -207,12 +64,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "echolocator": {
-    "name": "Echolocator",
-    "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.",
+  "mark_of_ku": {
+    "name": "Mark of Ku",
+    "desc": "Buffs the rest of one person they choose around them as long as they are at a campfire",
     "rarity": "Origin",
     "category": "Innate",
-    "reqs": "echolocator := ()",
+    "reqs": "mark_of_ku := ()",
     "exclusive": [
       ""
     ],
@@ -220,12 +77,155 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "mark_of_ku": {
-    "name": "Mark of Ku",
-    "desc": "Buffs the rest of one person they choose around them as long as they are at a campfire",
+  "seaborne": {
+    "name": "Seaborne",
+    "desc": "You have a keen understanding of ships and their maintenance.",
     "rarity": "Origin",
     "category": "Innate",
-    "reqs": "mark_of_ku := ()",
+    "reqs": "seaborne := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "nightchild": {
+    "name": "Nightchild",
+    "desc": "Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "nightchild := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "mothwing_dust": {
+    "name": "Mothwing Dust",
+    "desc": "You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "mothwing_dust := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "deepbound_contract": {
+    "name": "Deepbound Contract",
+    "desc": "You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "deepbound_contract := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "deepfolk": {
+    "name": "Deepfolk",
+    "desc": "The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "deepfolk := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "voidwalker_contract": {
+    "name": "Voidwalker Contract",
+    "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "voidwalker_contract := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "union_card": {
+    "name": "Union Card",
+    "desc": "A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees slightly reduce your experience gain outside of these.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "union_card := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "loyalty": {
+    "name": "Loyalty",
+    "desc": "Your bond with your allies is strong enough to reduce damage between you",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "loyalty := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "maudet": {
+    "name": "Maudet",
+    "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "maudet := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "versatile": {
+    "name": "Versatile",
+    "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "versatile := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "navaes_guidance": {
+    "name": "Navae's Guidance",
+    "desc": "Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "navaes_guidance := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "chitin": {
+    "name": "Chitin",
+    "desc": "You have a layer of Natural Armor that replenishes when you rest.",
+    "rarity": "Origin",
+    "category": "Innate",
+    "reqs": "chitin := ()",
     "exclusive": [
       ""
     ],

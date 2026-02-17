@@ -1,30 +1,4 @@
 {
-  "murmur_ardour": {
-    "name": "Murmur: Ardour",
-    "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
-    "rarity": "Murmur",
-    "category": "Murmur",
-    "reqs": "murmur_ardour := ()",
-    "exclusive": [
-      "Oath_Soulbreaker"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "murmur_tacet": {
-    "name": "Murmur: Tacet",
-    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
-    "rarity": "Murmur",
-    "category": "Murmur",
-    "reqs": "murmur_tacet := ()",
-    "exclusive": [
-      "Oath_Soulbreaker"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "murmur_rhythm": {
     "name": "Murmur: Rhythm",
     "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
@@ -50,6 +24,32 @@
     "innates": {
       "Sanity": 9
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_tacet": {
+    "name": "Murmur: Tacet",
+    "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+    "rarity": "Murmur",
+    "category": "Murmur",
+    "reqs": "murmur_tacet := ()",
+    "exclusive": [
+      "Oath_Soulbreaker"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "murmur_ardour": {
+    "name": "Murmur: Ardour",
+    "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
+    "rarity": "Murmur",
+    "category": "Murmur",
+    "reqs": "murmur_ardour := ()",
+    "exclusive": [
+      "Oath_Soulbreaker"
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

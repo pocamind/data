@@ -14,21 +14,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "conditioned_runner": {
-    "name": "Conditioned Runner",
-    "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
-    "rarity": "Advanced",
-    "category": "Alley Cat",
-    "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "endurance_runner": {
     "name": "Endurance Runner",
     "desc": "Even when things look dire, you still have it in you to keep your legs moving.",
@@ -40,6 +25,21 @@
     ],
     "innates": {
       "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "conditioned_runner": {
+    "name": "Conditioned Runner",
+    "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
+    "rarity": "Advanced",
+    "category": "Alley Cat",
+    "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

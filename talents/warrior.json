@@ -1,4 +1,17 @@
 {
+  "engage": {
+    "name": "Engage",
+    "desc": "Landing a Basic Attack slightly restores some of your Ether.",
+    "rarity": "Quest",
+    "category": "Warrior",
+    "reqs": "engage := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "chronostasis": {
     "name": "Chronostasis",
     "desc": "Landing a Basic Attack or Critical Strike now puts target's resonance on cooldown for a short duration.",
@@ -11,19 +24,6 @@
     "innates": {
       "Posture": 1
     },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "engage": {
-    "name": "Engage",
-    "desc": "Landing a Basic Attack slightly restores some of your Ether.",
-    "rarity": "Quest",
-    "category": "Warrior",
-    "reqs": "engage := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },

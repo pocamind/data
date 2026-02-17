@@ -1,10 +1,10 @@
 {
-  "spare_nails": {
-    "name": "Spare Nails",
-    "desc": "You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.",
+  "emergency_repairs": {
+    "name": "Emergency Repairs",
+    "desc": "Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.",
     "rarity": "Common",
     "category": "Shipwright",
-    "reqs": "spare_nails := ()",
+    "reqs": "emergency_repairs := ()",
     "exclusive": [
       ""
     ],
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "emergency_repairs": {
-    "name": "Emergency Repairs",
-    "desc": "Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.",
+  "spare_nails": {
+    "name": "Spare Nails",
+    "desc": "You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.",
     "rarity": "Common",
     "category": "Shipwright",
-    "reqs": "emergency_repairs := ()",
+    "reqs": "spare_nails := ()",
     "exclusive": [
       ""
     ],

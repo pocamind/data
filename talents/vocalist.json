@@ -1,10 +1,10 @@
 {
-  "propagandist": {
-    "name": "Propagandist",
-    "desc": "Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.",
-    "rarity": "Common",
+  "encore": {
+    "name": "Encore",
+    "desc": "Your Sing now stun opponents who are already charmed.",
+    "rarity": "Rare",
     "category": "Vocalist",
-    "reqs": "propagandist := 75s CHA",
+    "reqs": "encore := 40s CHA",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "encore": {
-    "name": "Encore",
-    "desc": "Your Sing now stun opponents who are already charmed.",
-    "rarity": "Rare",
+  "propagandist": {
+    "name": "Propagandist",
+    "desc": "Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.",
+    "rarity": "Common",
     "category": "Vocalist",
-    "reqs": "encore := 40s CHA",
+    "reqs": "propagandist := 75s CHA",
     "exclusive": [
       ""
     ],

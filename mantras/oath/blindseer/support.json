@@ -1,16 +1,4 @@
 {
-  "mindsoothe": {
-    "name": "Mindsoothe",
-    "desc": "Heal nearby Players at the cost of your Sanity.",
-    "stars": 0,
-    "category": "Support",
-    "type": "Oath",
-    "attributes": [
-      "Blindseer"
-    ],
-    "reqs": "oath_blindseer => mindsoothe := ()",
-    "vaulted": false
-  },
   "tranquil_circle": {
     "name": "Tranquil Circle",
     "desc": "Disables mantras from being used, gives 10% Monster Armour and also gain total immunity to mantras whilst inside the radius.",
@@ -21,6 +9,18 @@
       "Blindseer"
     ],
     "reqs": "oath_blindseer => tranquil_circle := ()",
+    "vaulted": false
+  },
+  "mindsoothe": {
+    "name": "Mindsoothe",
+    "desc": "Heal nearby Players at the cost of your Sanity.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Oath",
+    "attributes": [
+      "Blindseer"
+    ],
+    "reqs": "oath_blindseer => mindsoothe := ()",
     "vaulted": false
   }
 }

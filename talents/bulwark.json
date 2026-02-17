@@ -12,6 +12,19 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "dancing_guard": {
+    "name": "Dancing Guard",
+    "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
+    "rarity": "Common",
+    "category": "Bulwark",
+    "reqs": "dancing_guard := 55s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "knuckle_guard": {
     "name": "Knuckle Guard",
     "desc": "Hitting Dazed enemies grants you 10% posture resistance for up to 15s.\n[*Note: 10s to 15s duration between 30 and 80 Strength + Fortitude.]",
@@ -31,19 +44,6 @@
     "rarity": "Common",
     "category": "Bulwark",
     "reqs": "down_to_your_level := 60s FTD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dancing_guard": {
-    "name": "Dancing Guard",
-    "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
-    "rarity": "Common",
-    "category": "Bulwark",
-    "reqs": "dancing_guard := 55s FTD",
     "exclusive": [
       ""
     ],
