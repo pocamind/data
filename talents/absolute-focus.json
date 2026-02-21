@@ -1,7 +1,7 @@
 {
   "unswayed": {
     "name": "Unswayed",
-    "desc": "The effects of Taunt and Encore no longer work on you.",
+    "desc": "The effects of Taunt and Encore no longer work on you. ",
     "rarity": "Common",
     "category": "Absolute Focus",
     "reqs": "unswayed := 75s WLL",
