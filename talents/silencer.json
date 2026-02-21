@@ -1,10 +1,10 @@
 {
-  "silencers_blade": {
-    "name": "Silencer's Blade",
-    "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.",
-    "rarity": "Rare",
+  "a_world_without_song": {
+    "name": "A World Without Song",
+    "desc": "Every 3-4 hits with a Wind Mantra now procs Suffocate.\n[*Note: Takes 4 hits if between 40 and 74 Galebreathe.]",
+    "rarity": "Advanced",
     "category": "Silencer",
-    "reqs": "galebreather => silencers_blade := 60s WND",
+    "reqs": "silencers_blade => a_world_without_song := 75s WND",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "a_world_without_song": {
-    "name": "A World Without Song",
-    "desc": "Every 3-4 hits with a Wind Mantra now procs Suffocate.\n[*Note: Takes 4 hits if between 40 and 74 Galebreathe.]",
-    "rarity": "Advanced",
+  "silencers_blade": {
+    "name": "Silencer's Blade",
+    "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.",
+    "rarity": "Rare",
     "category": "Silencer",
-    "reqs": "silencers_blade => a_world_without_song := 75s WND",
+    "reqs": "galebreather => silencers_blade := 60s WND",
     "exclusive": [
       ""
     ],

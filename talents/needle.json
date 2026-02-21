@@ -1,10 +1,36 @@
 {
   "pressure_skewer": {
     "name": "Pressure Skewer",
-    "desc": "[Rapier] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.",
+    "desc": "[Rapier] Flourishing an enemy causes your M1s to deal additional chip damage, blood loss, and makes your hits deal 3 extra true damage until you take damage.",
     "rarity": "Common",
     "category": "Needle",
     "reqs": "pressure_skewer := 40s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "defensive_stance": {
+    "name": "Defensive Stance",
+    "desc": "[Rapier] Gain more parry frames the lower your health is.",
+    "rarity": "Common",
+    "category": "Needle",
+    "reqs": "defensive_stance := 50s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frenzied_dance": {
+    "name": "Frenzied Dance",
+    "desc": "[Rapier] The more posture you currently have, the more chip and posture damage you deal.",
+    "rarity": "Common",
+    "category": "Needle",
+    "reqs": "frenzied_dance := 50s LHT",
     "exclusive": [
       ""
     ],
@@ -18,19 +44,6 @@
     "rarity": "Common",
     "category": "Needle",
     "reqs": "duelists_lunge := 30s LHT",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "frenzied_dance": {
-    "name": "Frenzied Dance",
-    "desc": "[Rapier] When your posture is about to collapse, you deal greater chip and posture damage.",
-    "rarity": "Common",
-    "category": "Needle",
-    "reqs": "frenzied_dance := 50s LHT",
     "exclusive": [
       ""
     ],

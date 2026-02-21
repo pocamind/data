@@ -1,4 +1,17 @@
 {
+  "reshape_and_remold": {
+    "name": "Reshape and Remold",
+    "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.\n[*This talent loses some effectiveness when below its requirements.]",
+    "rarity": "Advanced",
+    "category": "Scrapsinger",
+    "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "artisans_blade": {
     "name": "Artisan's Blade",
     "desc": "Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.",
@@ -25,6 +38,19 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "gilded_path_scrapsinger": {
+    "name": "Gilded Path: Scrapsinger",
+    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
+    "rarity": "Common",
+    "category": "Scrapsinger",
+    "reqs": "gilded_path_scrapsinger := 35s MTL",
+    "exclusive": [
+      "Rending_Needle_Augmenter"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "songs_unforged": {
     "name": "Songs Unforged",
     "desc": "Your weapon criticals will now activate Scrapsinger",
@@ -46,32 +72,6 @@
     "reqs": "gilded_path_scrapsinger => refine_and_reuse := 45s MTL",
     "exclusive": [
       ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "reshape_and_remold": {
-    "name": "Reshape and Remold",
-    "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.\n[*This talent loses some effectiveness when below its requirements.]",
-    "rarity": "Advanced",
-    "category": "Scrapsinger",
-    "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "gilded_path_scrapsinger": {
-    "name": "Gilded Path: Scrapsinger",
-    "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
-    "rarity": "Common",
-    "category": "Scrapsinger",
-    "reqs": "gilded_path_scrapsinger := 35s MTL",
-    "exclusive": [
-      "Rending_Needle_Augmenter"
     ],
     "innates": {},
     "not_counted_towards_total": false,

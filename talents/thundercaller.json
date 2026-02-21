@@ -1,15 +1,43 @@
 {
-  "expert_thundercaller": {
-    "name": "Expert Thundercaller",
-    "desc": "You can now obtain 2-star Thundercaller mantras.",
+  "static_flash_clone": {
+    "name": "Static Flash Clone",
+    "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
+    "reqs": "static_flash_clone := 30s AGL, 35s LTN",
     "exclusive": [
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "master_thundercaller": {
+    "name": "Master Thundercaller",
+    "desc": "You can now obtain 3-star Thundercaller mantras.",
+    "rarity": "Common",
+    "category": "Thundercaller",
+    "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
     "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "static_fakeout": {
+    "name": "Static Fakeout",
+    "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
+    "rarity": "Rare",
+    "category": "Thundercaller",
+    "reqs": "static_fakeout := 30s AGL, 35s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   },
   "thundercaller": {
@@ -38,12 +66,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static_fakeout": {
-    "name": "Static Fakeout",
-    "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
-    "rarity": "Rare",
+  "shocking_finish": {
+    "name": "Shocking Finish",
+    "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
+    "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "static_fakeout := 30s AGL, 35s LTN",
+    "reqs": "shocking_finish := 30s LTN",
     "exclusive": [
       ""
     ],
@@ -64,19 +92,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static_flash_clone": {
-    "name": "Static Flash Clone",
-    "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "static_flash_clone := 30s AGL, 35s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "adept_thundercaller": {
     "name": "Adept Thundercaller",
     "desc": "You can now obtain 1-star Thundercaller mantras.",
@@ -90,32 +105,17 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "master_thundercaller": {
-    "name": "Master Thundercaller",
-    "desc": "You can now obtain 3-star Thundercaller mantras.",
+  "expert_thundercaller": {
+    "name": "Expert Thundercaller",
+    "desc": "You can now obtain 2-star Thundercaller mantras.",
     "rarity": "Common",
     "category": "Thundercaller",
-    "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "shocking_finish": {
-    "name": "Shocking Finish",
-    "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
-    "rarity": "Common",
-    "category": "Thundercaller",
-    "reqs": "shocking_finish := 30s LTN",
+    "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

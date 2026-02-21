@@ -1,4 +1,19 @@
 {
+  "time_to_go": {
+    "name": "Time To Go",
+    "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.",
+    "rarity": "Common",
+    "category": "Acrobat",
+    "reqs": "time_to_go := 5s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "kick_off": {
     "name": "Kick Off",
     "desc": "You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.",
@@ -25,22 +40,7 @@
     ],
     "innates": {
       "Passive Agility": 2,
-      "Carry Load": 9
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "time_to_go": {
-    "name": "Time To Go",
-    "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.",
-    "rarity": "Common",
-    "category": "Acrobat",
-    "reqs": "time_to_go := 5s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
+      "Carry Load": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false

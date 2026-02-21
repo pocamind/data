@@ -1,4 +1,20 @@
 {
+  "brick_wall": {
+    "name": "Brick Wall",
+    "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. You are also now knocked down for less time.\n[*Note: Knockdown reduction scales with your Fortitude and Willpower.]",
+    "rarity": "Advanced",
+    "category": "Human Architecture",
+    "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5,
+      "Posture": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "mythic_stability": {
     "name": "Mythic Stability",
     "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while knocked. 60s CD.",
@@ -23,22 +39,6 @@
     ],
     "innates": {
       "Posture": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "brick_wall": {
-    "name": "Brick Wall",
-    "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. You are also now knocked down for less time.\n[*Note: Knockdown reduction scales with your Fortitude and Willpower.]",
-    "rarity": "Advanced",
-    "category": "Human Architecture",
-    "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 2,
-      "Health": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false

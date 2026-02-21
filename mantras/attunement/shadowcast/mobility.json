@@ -1,16 +1,4 @@
 {
-  "encircle": {
-    "name": "Encircle",
-    "desc": "Conjure shadows around your enemy before warp-striking to them.",
-    "stars": 1,
-    "category": "Mobility",
-    "type": "Attunement",
-    "attributes": [
-      "Shadowcast"
-    ],
-    "reqs": "encircle := 20r SDW",
-    "vaulted": false
-  },
   "shadow_assault": {
     "name": "Shadow Assault",
     "desc": "A rush of darkness.        ",
@@ -33,6 +21,18 @@
       "Shadowcast"
     ],
     "reqs": "shade_step := 30r SDW",
+    "vaulted": false
+  },
+  "encircle": {
+    "name": "Encircle",
+    "desc": "Conjure shadows around your enemy before warp-striking to them.",
+    "stars": 1,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Shadowcast"
+    ],
+    "reqs": "encircle := 20r SDW",
     "vaulted": false
   }
 }

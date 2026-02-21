@@ -1,10 +1,10 @@
 {
-  "cyclical_exsanguination": {
-    "name": "Cyclical Exsanguination",
-    "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
+  "embolism": {
+    "name": "Embolism",
+    "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
     "rarity": "Common",
     "category": "Transitory Vitality",
-    "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
+    "reqs": "sow_and_mend => embolism := 65s BLD",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "embolism": {
-    "name": "Embolism",
-    "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
-    "rarity": "Common",
+  "sow_and_mend": {
+    "name": "Sow and Mend",
+    "desc": "Sacrifice 35% of your blood for temporary health.",
+    "rarity": "Rare",
     "category": "Transitory Vitality",
-    "reqs": "sow_and_mend => embolism := 65s BLD",
+    "reqs": "master_bloodrender => sow_and_mend := 60s BLD",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "sow_and_mend": {
-    "name": "Sow and Mend",
-    "desc": "Sacrifice 35% of your blood for temporary health.",
-    "rarity": "Rare",
+  "cyclical_exsanguination": {
+    "name": "Cyclical Exsanguination",
+    "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
+    "rarity": "Common",
     "category": "Transitory Vitality",
-    "reqs": "master_bloodrender => sow_and_mend := 60s BLD",
+    "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
     "exclusive": [
       ""
     ],

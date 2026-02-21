@@ -1,19 +1,4 @@
 {
-  "muffled_screams": {
-    "name": "Muffled Screams",
-    "desc": "You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reduce the effectiveness of talents that slow your execution.",
-    "rarity": "Common",
-    "category": "Cutthroat",
-    "reqs": "muffled_screams := 50s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "in_a_hurry": {
     "name": "In a Hurry",
     "desc": "Grip players faster whenever you have a speed boost active.",
@@ -35,6 +20,21 @@
     "rarity": "Common",
     "category": "Cutthroat",
     "reqs": "blood_thirsty := 45s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "muffled_screams": {
+    "name": "Muffled Screams",
+    "desc": "You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reduce the effectiveness of talents that slow your execution.",
+    "rarity": "Common",
+    "category": "Cutthroat",
+    "reqs": "muffled_screams := 50s AGL",
     "exclusive": [
       ""
     ],

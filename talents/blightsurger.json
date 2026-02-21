@@ -1,10 +1,26 @@
 {
-  "blighted_touch": {
-    "name": "Blighted Touch",
-    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+  "oath_blightsurger": {
+    "name": "Oath: Blightsurger",
+    "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath_blightsurger => blighted_touch := ()",
+    "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Wildcard Mantra": 1,
+      "Combat Mantra": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "anchor_shock": {
+    "name": "Anchor Shock",
+    "desc": "Your Blightshock prevents targets from using mobility mantras.",
+    "rarity": "Oath",
+    "category": "Blightsurger",
+    "reqs": "oath_blightsurger => anchor_shock := ()",
     "exclusive": [
       ""
     ],
@@ -25,12 +41,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "anchor_shock": {
-    "name": "Anchor Shock",
-    "desc": "Your Blightshock prevents targets from using mobility mantras.",
+  "sovereign_state": {
+    "name": "Sovereign State",
+    "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath_blightsurger => anchor_shock := ()",
+    "reqs": "oath_blightsurger => sovereign_state := ()",
     "exclusive": [
       ""
     ],
@@ -38,28 +54,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "oath_blightsurger": {
-    "name": "Oath: Blightsurger",
-    "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
+  "blighted_touch": {
+    "name": "Blighted Touch",
+    "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
     "rarity": "Oath",
     "category": "Blightsurger",
-    "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Combat Mantra": 2,
-      "Wildcard Mantra": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "sovereign_state": {
-    "name": "Sovereign State",
-    "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
-    "rarity": "Oath",
-    "category": "Blightsurger",
-    "reqs": "oath_blightsurger => sovereign_state := ()",
+    "reqs": "oath_blightsurger => blighted_touch := ()",
     "exclusive": [
       ""
     ],

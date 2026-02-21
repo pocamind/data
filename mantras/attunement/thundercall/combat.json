@@ -1,28 +1,4 @@
 {
-  "lightning_clones": {
-    "name": "Lightning Clones",
-    "desc": "Replicated forms of yourself conjured from electricity.\t",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "lightning_clones := 20r LTN",
-    "vaulted": false
-  },
-  "lightning_strike": {
-    "name": "Lightning Strike",
-    "desc": "A strike of thunder at your desired location.\t",
-    "stars": 1,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "lightning_strike := 20r LTN",
-    "vaulted": false
-  },
   "lightning_impact": {
     "name": "Lightning Impact",
     "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
@@ -47,64 +23,28 @@
     "reqs": "jolt_grab := 1r LTN",
     "vaulted": false
   },
-  "bolt_piercer": {
-    "name": "Bolt Piercer",
-    "desc": "An arrow of lighting.\t",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "bolt_piercer := 30r LTN",
-    "vaulted": false
-  },
-  "grand_javelin": {
-    "name": "Grand Javelin",
-    "desc": "A javelin of lightning.\t",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "grand_javelin := 30r LTN",
-    "vaulted": false
-  },
-  "thunder_kick": {
-    "name": "Thunder Kick",
-    "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
+  "lightning_strike": {
+    "name": "Lightning Strike",
+    "desc": "A strike of thunder at your desired location.\t",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "thunder_kick := 20r LTN",
+    "reqs": "lightning_strike := 20r LTN",
     "vaulted": false
   },
-  "storm_blades": {
-    "name": "Storm Blades",
-    "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Thundercall"
-    ],
-    "reqs": "storm_blades := 30r LTN",
-    "vaulted": false
-  },
-  "fleeting_sparks": {
-    "name": "Fleeting Sparks",
-    "desc": "Call forth notes of electricity that seek out your foes.",
+  "electro_carve": {
+    "name": "Electro Carve",
+    "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "fleeting_sparks := 20r LTN",
+    "reqs": "electro_carve := 20r LTN",
     "vaulted": false
   },
   "emotion_wave": {
@@ -119,16 +59,28 @@
     "reqs": "emotion_wave := 50r LTN",
     "vaulted": false
   },
-  "rising_thunder": {
-    "name": "Rising Thunder",
-    "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
-    "stars": 3,
+  "lightning_beam": {
+    "name": "Lightning Beam",
+    "desc": "Fire a beam of lightning.\t",
+    "stars": 0,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "rising_thunder := 50r LTN",
+    "reqs": "lightning_beam := 1r LTN",
+    "vaulted": false
+  },
+  "grand_javelin": {
+    "name": "Grand Javelin",
+    "desc": "A javelin of lightning.\t",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "grand_javelin := 30r LTN",
     "vaulted": false
   },
   "lightning_blade": {
@@ -143,28 +95,76 @@
     "reqs": "lightning_blade := 1r LTN",
     "vaulted": false
   },
-  "lightning_beam": {
-    "name": "Lightning Beam",
-    "desc": "Fire a beam of lightning.\t",
-    "stars": 0,
+  "bolt_piercer": {
+    "name": "Bolt Piercer",
+    "desc": "An arrow of lighting.\t",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "lightning_beam := 1r LTN",
+    "reqs": "bolt_piercer := 30r LTN",
     "vaulted": false
   },
-  "electro_carve": {
-    "name": "Electro Carve",
-    "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
+  "storm_blades": {
+    "name": "Storm Blades",
+    "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "storm_blades := 30r LTN",
+    "vaulted": false
+  },
+  "thunder_kick": {
+    "name": "Thunder Kick",
+    "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
     "stars": 1,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Thundercall"
     ],
-    "reqs": "electro_carve := 20r LTN",
+    "reqs": "thunder_kick := 20r LTN",
+    "vaulted": false
+  },
+  "lightning_clones": {
+    "name": "Lightning Clones",
+    "desc": "Replicated forms of yourself conjured from electricity.\t",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "lightning_clones := 20r LTN",
+    "vaulted": false
+  },
+  "rising_thunder": {
+    "name": "Rising Thunder",
+    "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "rising_thunder := 50r LTN",
+    "vaulted": false
+  },
+  "fleeting_sparks": {
+    "name": "Fleeting Sparks",
+    "desc": "Call forth notes of electricity that seek out your foes.",
+    "stars": 1,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Thundercall"
+    ],
+    "reqs": "fleeting_sparks := 20r LTN",
     "vaulted": false
   }
 }

@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "antithetic_salts": {
-    "name": "Antithetic Salts",
-    "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+  "biotic_salts": {
+    "name": "Biotic Salts",
+    "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
     "rarity": "Oath",
     "category": "Saltchemist",
-    "reqs": "oath_saltchemist => antithetic_salts := ()",
+    "reqs": "oath_saltchemist => biotic_salts := ()",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "biotic_salts": {
-    "name": "Biotic Salts",
-    "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
+  "antithetic_salts": {
+    "name": "Antithetic Salts",
+    "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
     "rarity": "Oath",
     "category": "Saltchemist",
-    "reqs": "oath_saltchemist => biotic_salts := ()",
+    "reqs": "oath_saltchemist => antithetic_salts := ()",
     "exclusive": [
       ""
     ],
@@ -61,8 +61,8 @@
       ""
     ],
     "innates": {
-      "Carry Load": 20,
       "Wildcard Mantra": 1,
+      "Carry Load": 20,
       "Support Mantra": 1
     },
     "not_counted_towards_total": false,

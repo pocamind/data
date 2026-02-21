@@ -1,10 +1,10 @@
 {
-  "foolish_outburst": {
-    "name": "Foolish Outburst",
-    "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.\n[*Absorbs 20% to 40% of the vent's Tempo between 20 INT and 50 INT.]",
+  "target_switch": {
+    "name": "Target Switch",
+    "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
     "rarity": "Common",
     "category": "Tactician",
-    "reqs": "foolish_outburst := 50s INT",
+    "reqs": "target_switch := 20s INT",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "target_switch": {
-    "name": "Target Switch",
-    "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
-    "rarity": "Common",
+  "punishing_blow": {
+    "name": "Punishing Blow",
+    "desc": "[Heavy Weapons] Daze opponents for 1s when you interrupt their Basic Attack with your own.",
+    "rarity": "Rare",
     "category": "Tactician",
-    "reqs": "target_switch := 20s INT",
+    "reqs": "punishing_blow := 20s HVY",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "punishing_blow": {
-    "name": "Punishing Blow",
-    "desc": "[Heavy Weapons] Daze opponents for 1s when you interrupt their Basic Attack with your own.",
-    "rarity": "Rare",
+  "foolish_outburst": {
+    "name": "Foolish Outburst",
+    "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.\n[*Absorbs 20% to 40% of the vent's Tempo between 20 INT and 50 INT.]",
+    "rarity": "Common",
     "category": "Tactician",
-    "reqs": "punishing_blow := 20s HVY",
+    "reqs": "foolish_outburst := 50s INT",
     "exclusive": [
       ""
     ],

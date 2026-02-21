@@ -1,10 +1,10 @@
 {
-  "union_hook": {
-    "name": "Union Hook",
-    "desc": "You can now make use of the Ignition Union hooks to ascend or descend.",
-    "rarity": "Quest",
+  "force_your_way": {
+    "name": "Force Your Way",
+    "desc": "You can parry uparryable attacks from giant monsters, at the cost of armor durability.",
+    "rarity": "Outfit",
     "category": "Ignition Union",
-    "reqs": "union_hook := ()",
+    "reqs": "force_your_way := ()",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "force_your_way": {
-    "name": "Force Your Way",
-    "desc": "You can parry uparryable attacks from giant monsters, at the cost of armor durability.",
-    "rarity": "Outfit",
+  "union_hook": {
+    "name": "Union Hook",
+    "desc": "You can now make use of the Ignition Union hooks to ascend or descend.",
+    "rarity": "Quest",
     "category": "Ignition Union",
-    "reqs": "force_your_way := ()",
+    "reqs": "union_hook := ()",
     "exclusive": [
       ""
     ],

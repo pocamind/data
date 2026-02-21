@@ -1,14 +1,14 @@
 {
-  "restrain": {
-    "name": "Restrain",
-    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+  "impel": {
+    "name": "Impel",
+    "desc": "Blast through your opponent's guard and pull them towards you.",
     "stars": 0,
     "category": "Combat",
     "type": "Oath",
     "attributes": [
       "Chainwarden"
     ],
-    "reqs": "oath_chainwarden => restrain := ()",
+    "reqs": "oath_chainwarden => impel := ()",
     "vaulted": false
   },
   "rupture": {
@@ -23,16 +23,16 @@
     "reqs": "oath_chainwarden => rupture := ()",
     "vaulted": false
   },
-  "impel": {
-    "name": "Impel",
-    "desc": "Blast through your opponent's guard and pull them towards you.",
+  "restrain": {
+    "name": "Restrain",
+    "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
     "stars": 0,
     "category": "Combat",
     "type": "Oath",
     "attributes": [
       "Chainwarden"
     ],
-    "reqs": "oath_chainwarden => impel := ()",
+    "reqs": "oath_chainwarden => restrain := ()",
     "vaulted": false
   }
 }

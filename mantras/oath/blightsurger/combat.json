@@ -1,14 +1,14 @@
 {
-  "skycrash": {
-    "name": "Skycrash",
-    "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
+  "sovereign_drive": {
+    "name": "Sovereign Drive",
+    "desc": "Dash forward in a blink, knocking down enemies in your path.",
     "stars": 0,
     "category": "Combat",
     "type": "Oath",
     "attributes": [
       "Blightsurger"
     ],
-    "reqs": "oath_blightsurger => skycrash := ()",
+    "reqs": "oath_blightsurger => sovereign_drive := ()",
     "vaulted": false
   },
   "warp_kick": {
@@ -23,16 +23,16 @@
     "reqs": "oath_blightsurger => warp_kick := ()",
     "vaulted": false
   },
-  "sovereign_drive": {
-    "name": "Sovereign Drive",
-    "desc": "Dash forward in a blink, knocking down enemies in your path.",
+  "skycrash": {
+    "name": "Skycrash",
+    "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
     "stars": 0,
     "category": "Combat",
     "type": "Oath",
     "attributes": [
       "Blightsurger"
     ],
-    "reqs": "oath_blightsurger => sovereign_drive := ()",
+    "reqs": "oath_blightsurger => skycrash := ()",
     "vaulted": false
   }
 }

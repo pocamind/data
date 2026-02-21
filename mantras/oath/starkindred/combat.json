@@ -1,4 +1,16 @@
 {
+  "ascension": {
+    "name": "Ascension",
+    "desc": "Take to the skies for a devastating strike.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Starkindred"
+    ],
+    "reqs": "oath_starkindred => ascension := ()",
+    "vaulted": false
+  },
   "sinister_halo": {
     "name": "Sinister Halo",
     "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
@@ -21,18 +33,6 @@
       "Starkindred"
     ],
     "reqs": "oath_starkindred => celestial_assault := ()",
-    "vaulted": false
-  },
-  "ascension": {
-    "name": "Ascension",
-    "desc": "Take to the skies for a devastating strike.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Starkindred"
-    ],
-    "reqs": "oath_starkindred => ascension := ()",
     "vaulted": false
   }
 }

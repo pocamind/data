@@ -1,4 +1,19 @@
 {
+  "destructive_recovery": {
+    "name": "Destructive Recovery",
+    "desc": "[Greatsword] Enemies recover 20% less Posture when parrying.",
+    "rarity": "Rare",
+    "category": "Colossus",
+    "reqs": "destructive_recovery := 25s STR, 40s HVY",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Posture": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "heavy_hitter": {
     "name": "Heavy Hitter",
     "desc": "[Heavy Weapons] Your Basic Attack posture damage is increased by 10%.",
@@ -12,22 +27,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "destructive_recovery": {
-    "name": "Destructive Recovery",
-    "desc": "[Greatsword] Enemies recover 20% less Posture when parrying.",
-    "rarity": "Rare",
-    "category": "Colossus",
-    "reqs": "destructive_recovery := 25s STR, 40s HVY",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 2,
-      "Posture": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "unstoppable_force": {
     "name": "Unstoppable Force",
     "desc": "[Greathammer] You take 15% less posture damage when parried.",
@@ -38,8 +37,7 @@
       ""
     ],
     "innates": {
-      "Posture": 1,
-      "Carry Load": 2
+      "Posture": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false

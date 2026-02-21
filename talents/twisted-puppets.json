@@ -1,12 +1,14 @@
 {
-  "burning_sacrifice": {
-    "name": "Burning Sacrifice",
-    "desc": "Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.",
-    "rarity": "Rare",
+  "wraith_path_twisted_puppets": {
+    "name": "Wraith Path: Twisted Puppets",
+    "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
+    "rarity": "Common",
     "category": "Twisted Puppets",
-    "reqs": "wraith_path_twisted_puppets, emperor_flame => burning_sacrifice := 40s FLM, 40s SDW",
+    "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
     "exclusive": [
-      ""
+      "Eruption_Path_Lava_Serpent",
+      "Azure_Flames",
+      "Flashboil"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -25,16 +27,27 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "wraith_path_twisted_puppets": {
-    "name": "Wraith Path: Twisted Puppets",
-    "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
+  "explosive_rage": {
+    "name": "Explosive Rage",
+    "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
     "rarity": "Common",
     "category": "Twisted Puppets",
-    "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
+    "reqs": "wraith_path_twisted_puppets => explosive_rage := 40s FLM, 40s SDW",
     "exclusive": [
-      "Eruption_Path_Lava_Serpent",
-      "Azure_Flames",
-      "Flashboil"
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "burning_sacrifice": {
+    "name": "Burning Sacrifice",
+    "desc": "Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.",
+    "rarity": "Rare",
+    "category": "Twisted Puppets",
+    "reqs": "wraith_path_twisted_puppets, emperor_flame => burning_sacrifice := 40s FLM, 40s SDW",
+    "exclusive": [
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -46,19 +59,6 @@
     "rarity": "Common",
     "category": "Twisted Puppets",
     "reqs": "wraith_path_twisted_puppets => burning_puppets := 40s FLM, 40s SDW",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "explosive_rage": {
-    "name": "Explosive Rage",
-    "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
-    "rarity": "Common",
-    "category": "Twisted Puppets",
-    "reqs": "wraith_path_twisted_puppets => explosive_rage := 40s FLM, 40s SDW",
     "exclusive": [
       ""
     ],

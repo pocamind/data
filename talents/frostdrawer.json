@@ -1,10 +1,10 @@
 {
-  "expert_frostdrawer": {
-    "name": "Expert Frostdrawer",
-    "desc": "You can now obtain 2-star Frostdrawer mantras.",
+  "frostdrawer": {
+    "name": "Frostdrawer",
+    "desc": "Grants you the ability to command Ice as a Frostdrawer.",
     "rarity": "Common",
     "category": "Frostdrawer",
-    "reqs": "adept_frostdrawer => expert_frostdrawer := 30s ICE",
+    "reqs": "frostdrawer := 1s ICE",
     "exclusive": [
       ""
     ],
@@ -25,6 +25,32 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
+  "cold_front": {
+    "name": "Cold Front",
+    "desc": "Your Vent is imbued with glacial frost.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "cryonis => cold_front := 25s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expert_frostdrawer": {
+    "name": "Expert Frostdrawer",
+    "desc": "You can now obtain 2-star Frostdrawer mantras.",
+    "rarity": "Common",
+    "category": "Frostdrawer",
+    "reqs": "adept_frostdrawer => expert_frostdrawer := 30s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
   "master_frostdrawer": {
     "name": "Master Frostdrawer",
     "desc": "You can now obtain 3-star Frostdrawer mantras.",
@@ -38,32 +64,6 @@
       "Health": 5
     },
     "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "frostdrawer": {
-    "name": "Frostdrawer",
-    "desc": "Grants you the ability to command Ice as a Frostdrawer.",
-    "rarity": "Common",
-    "category": "Frostdrawer",
-    "reqs": "frostdrawer := 1s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "cold_front": {
-    "name": "Cold Front",
-    "desc": "Your Vent is imbued with glacial frost.",
-    "rarity": "Common",
-    "category": "Frostdrawer",
-    "reqs": "cryonis => cold_front := 25s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

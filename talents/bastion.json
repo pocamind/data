@@ -1,16 +1,29 @@
 {
-  "perseverance": {
-    "name": "Perseverance",
-    "desc": "When you're knocked down, you get back up again more quickly.",
+  "moving_fortress": {
+    "name": "Moving Fortress",
+    "desc": "Blocking no longer slows you down as much.",
     "rarity": "Common",
     "category": "Bastion",
-    "reqs": "perseverance := 30s FTD, 30s WLL",
+    "reqs": "moving_fortress := 5s FTD",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Sanity": 5
+      "Posture": 1
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "braced_collapse": {
+    "name": "Braced Collapse",
+    "desc": "After being block broken, the next attack to hit you deals reduced damage.",
+    "rarity": "Common",
+    "category": "Bastion",
+    "reqs": "braced_collapse := 25s FTD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -30,17 +43,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "moving_fortress": {
-    "name": "Moving Fortress",
-    "desc": "Blocking no longer slows you down as much.",
+  "perseverance": {
+    "name": "Perseverance",
+    "desc": "When you're knocked down, you get back up again more quickly.",
     "rarity": "Common",
     "category": "Bastion",
-    "reqs": "moving_fortress := 5s FTD",
+    "reqs": "perseverance := 30s FTD, 30s WLL",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Posture": 1
+      "Sanity": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -51,19 +64,6 @@
     "rarity": "Advanced",
     "category": "Bastion",
     "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => reinforced_armor := 90s FTD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "braced_collapse": {
-    "name": "Braced Collapse",
-    "desc": "After being block broken, the next attack to hit you deals reduced damage.",
-    "rarity": "Common",
-    "category": "Bastion",
-    "reqs": "braced_collapse := 25s FTD",
     "exclusive": [
       ""
     ],

@@ -1,16 +1,4 @@
 {
-  "arc_beam": {
-    "name": "Arc Beam",
-    "desc": "Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Oath",
-    "attributes": [
-      "Arcwarder"
-    ],
-    "reqs": "oath_arcwarder => arc_beam := ()",
-    "vaulted": false
-  },
   "arc_wave": {
     "name": "Arc Wave",
     "desc": "Release a wave of energy around you, dealing fire and lightning damage.",
@@ -21,6 +9,18 @@
       "Arcwarder"
     ],
     "reqs": "oath_arcwarder => arc_wave := ()",
+    "vaulted": false
+  },
+  "arc_beam": {
+    "name": "Arc Beam",
+    "desc": "Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Oath",
+    "attributes": [
+      "Arcwarder"
+    ],
+    "reqs": "oath_arcwarder => arc_beam := ()",
     "vaulted": false
   }
 }

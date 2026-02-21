@@ -78,9 +78,24 @@ name = "data-util"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "deepwoken",
  "deepwoken-reqparse",
  "serde",
  "serde_json",
+]
+
+[[package]]
+name = "deepwoken"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "20c2e88c527880512c3e2e58ebd779f4ffd77a38b2600a04ca5b65933a5854f9"
+dependencies = [
+ "env_logger",
+ "log",
+ "serde",
+ "serde_json",
+ "thiserror",
+ "winnow",
 ]
 
 [[package]]

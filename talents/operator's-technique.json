@@ -12,12 +12,12 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "shocking_reverb": {
-    "name": "Shocking Reverb",
-    "desc": "Landing enough lightning Mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing. [2 min CD]",
+  "absolute_force": {
+    "name": "Absolute Force",
+    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
     "rarity": "Faction",
     "category": "Operator's Technique",
-    "reqs": "shocking_reverb := ()",
+    "reqs": "oppressive_force => absolute_force := ()",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "absolute_force": {
-    "name": "Absolute Force",
-    "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
+  "shocking_reverb": {
+    "name": "Shocking Reverb",
+    "desc": "Landing enough lightning Mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing. [2 min CD]",
     "rarity": "Faction",
     "category": "Operator's Technique",
-    "reqs": "oppressive_force => absolute_force := ()",
+    "reqs": "shocking_reverb := ()",
     "exclusive": [
       ""
     ],

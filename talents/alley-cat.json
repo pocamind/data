@@ -1,19 +1,4 @@
 {
-  "scaredy_cat": {
-    "name": "Scaredy Cat",
-    "desc": "When enemies initiate a fight with you, gain a speed boost.",
-    "rarity": "Common",
-    "category": "Alley Cat",
-    "reqs": "scaredy_cat := 5s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "endurance_runner": {
     "name": "Endurance Runner",
     "desc": "Even when things look dire, you still have it in you to keep your legs moving.",
@@ -40,6 +25,21 @@
     ],
     "innates": {
       "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "scaredy_cat": {
+    "name": "Scaredy Cat",
+    "desc": "When enemies initiate a fight with you, gain a speed boost.",
+    "rarity": "Common",
+    "category": "Alley Cat",
+    "reqs": "scaredy_cat := 5s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
     },
     "not_counted_towards_total": false,
     "vaulted": false

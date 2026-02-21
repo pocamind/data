@@ -14,21 +14,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "all_above_gods_below": {
-    "name": "All Above, Gods Below",
-    "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
-    "rarity": "Advanced",
-    "category": "Heretic",
-    "reqs": "all_the_dead_gods => all_above_gods_below := 100s INT, 100s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 20
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "all_the_dead_gods": {
     "name": "All the Dead Gods",
     "desc": "Your Basic Attacks now apply anti-heal for 8s.\n[Note: Scales with investment. Having less Willpower reduces the effect of this Talent.]",
@@ -54,6 +39,21 @@
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "all_above_gods_below": {
+    "name": "All Above, Gods Below",
+    "desc": "Any healing your opponent were to receive while All the Dead Gods is active on them is stolen and given to you.",
+    "rarity": "Advanced",
+    "category": "Heretic",
+    "reqs": "all_the_dead_gods => all_above_gods_below := 100s INT, 100s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 20
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

@@ -1,18 +1,18 @@
 {
-  "iron_twinblade": {
-    "name": "Iron Twinblade",
+  "crescendo": {
+    "name": "Crescendo",
     "type": "Twinblade",
     "damage_type": "Slash",
-    "reqs": "iron_twinblade := 15r MED",
-    "damage": 15.0,
+    "reqs": "crescendo := 75r MED",
+    "damage": 22.0,
     "pen": 0.0,
-    "chip": 0.3,
-    "weight": 4.0,
-    "range": 7.0,
-    "speed": 1.0,
+    "chip": 0.0,
+    "weight": 6.0,
+    "range": 7.5,
+    "speed": 0.92,
     "endlag": 0.0,
     "scaling": {
-      "Medium Wep.": 4.0
+      "Medium Wep.": 6.0
     }
   },
   "alloyed_scalesplitter": {
@@ -31,20 +31,20 @@
       "Medium Wep.": 6.0
     }
   },
-  "crescendo": {
-    "name": "Crescendo",
+  "iron_twinblade": {
+    "name": "Iron Twinblade",
     "type": "Twinblade",
     "damage_type": "Slash",
-    "reqs": "crescendo := 75r MED",
-    "damage": 22.0,
+    "reqs": "iron_twinblade := 15r MED",
+    "damage": 15.0,
     "pen": 0.0,
-    "chip": 0.0,
-    "weight": 6.0,
-    "range": 7.5,
-    "speed": 0.92,
+    "chip": 0.3,
+    "weight": 4.0,
+    "range": 7.0,
+    "speed": 1.0,
     "endlag": 0.0,
     "scaling": {
-      "Medium Wep.": 6.0
+      "Medium Wep.": 4.0
     }
   },
   "scalesplitter": {

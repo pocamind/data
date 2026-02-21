@@ -1,15 +1,15 @@
 {
-  "lightweight": {
-    "name": "Lightweight",
-    "desc": "Move faster when your armor runs out of durability.",
+  "steel_scales": {
+    "name": "Steel Scales",
+    "desc": "You take an additional 5% less damage when your armor is broken.",
     "rarity": "Common",
     "category": "Natural Armor",
-    "reqs": "lightweight := ()",
+    "reqs": "padded_armor => steel_scales := ()",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Passive Agility": 3
+      "Slash Armor Percentage": 3
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -27,21 +27,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "steel_scales": {
-    "name": "Steel Scales",
-    "desc": "You take an additional 5% less damage when your armor is broken.",
-    "rarity": "Common",
-    "category": "Natural Armor",
-    "reqs": "padded_armor => steel_scales := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Slash Armor Percentage": 3
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "padded_armor": {
     "name": "Padded Armor",
     "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
@@ -53,6 +38,21 @@
     ],
     "innates": {
       "Blunt Armor Percentage": 3
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "lightweight": {
+    "name": "Lightweight",
+    "desc": "Move faster when your armor runs out of durability.",
+    "rarity": "Common",
+    "category": "Natural Armor",
+    "reqs": "lightweight := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 3
     },
     "not_counted_towards_total": false,
     "vaulted": false

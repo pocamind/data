@@ -1,4 +1,34 @@
 {
+  "hells_partisan_fire_forge": {
+    "name": "Hell's Partisan [FIRE FORGE]",
+    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "hells_partisan_fire_forge := 35s FLM",
+    "exclusive": [
+      "Hells_Partisan_WARDING"
+    ],
+    "innates": {
+      "Sanity": 4
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "cauterized_wounds": {
+    "name": "Cauterized Wounds",
+    "desc": "Blood loss from all sources is lowered.",
+    "rarity": "Common",
+    "category": "Flame Warden",
+    "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "hells_partisan_warding": {
     "name": "Hell's Partisan [WARDING]",
     "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
@@ -35,36 +65,6 @@
     "rarity": "Common",
     "category": "Flame Warden",
     "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "hells_partisan_fire_forge": {
-    "name": "Hell's Partisan [FIRE FORGE]",
-    "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "hells_partisan_fire_forge := 35s FLM",
-    "exclusive": [
-      "Hells_Partisan_WARDING"
-    ],
-    "innates": {
-      "Sanity": 4
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "cauterized_wounds": {
-    "name": "Cauterized Wounds",
-    "desc": "Blood loss from all sources is lowered.",
-    "rarity": "Common",
-    "category": "Flame Warden",
-    "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
     "exclusive": [
       ""
     ],

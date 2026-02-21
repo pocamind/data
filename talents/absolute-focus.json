@@ -1,7 +1,7 @@
 {
   "unswayed": {
     "name": "Unswayed",
-    "desc": "The effects of Taunt and Encore no longer work on you. ",
+    "desc": "The effects of Taunt and Encore no longer work on you.",
     "rarity": "Common",
     "category": "Absolute Focus",
     "reqs": "unswayed := 75s WLL",
@@ -14,12 +14,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "emergency_reserves": {
-    "name": "Emergency Reserves",
-    "desc": "When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).",
+  "against_all_odds": {
+    "name": "Against All Odds",
+    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%).",
     "rarity": "Common",
     "category": "Absolute Focus",
-    "reqs": "emergency_reserves := 80s WLL",
+    "reqs": "against_all_odds := 65s WLL",
     "exclusive": [
       ""
     ],
@@ -27,12 +27,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "against_all_odds": {
-    "name": "Against All Odds",
-    "desc": "For each combat tag you have on your character, increase your damage by 1% (max of 7%).",
+  "emergency_reserves": {
+    "name": "Emergency Reserves",
+    "desc": "When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).",
     "rarity": "Common",
     "category": "Absolute Focus",
-    "reqs": "against_all_odds := 65s WLL",
+    "reqs": "emergency_reserves := 80s WLL",
     "exclusive": [
       ""
     ],

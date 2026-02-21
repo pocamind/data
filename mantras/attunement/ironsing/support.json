@@ -1,14 +1,14 @@
 {
-  "metal_turret": {
-    "name": "Metal Turret",
-    "desc": "An automated turret that fires at targets that cross its sight.",
-    "stars": 2,
+  "iron_skin": {
+    "name": "Iron Skin",
+    "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
+    "stars": 1,
     "category": "Support",
     "type": "Attunement",
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "metal_turret := 30r MTL",
+    "reqs": "iron_skin := 20r MTL",
     "vaulted": false
   },
   "chain_pull": {
@@ -23,16 +23,16 @@
     "reqs": "chain_pull := 20r MTL",
     "vaulted": false
   },
-  "iron_skin": {
-    "name": "Iron Skin",
-    "desc": "Upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.",
-    "stars": 1,
+  "metal_turret": {
+    "name": "Metal Turret",
+    "desc": "An automated turret that fires at targets that cross its sight.",
+    "stars": 2,
     "category": "Support",
     "type": "Attunement",
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "iron_skin := 20r MTL",
+    "reqs": "metal_turret := 30r MTL",
     "vaulted": false
   }
 }

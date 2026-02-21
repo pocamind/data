@@ -1,62 +1,14 @@
 {
-  "pumpkin_pitch": {
-    "name": "Pumpkin Pitch",
-    "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
+  "dread_breath": {
+    "name": "Dread Breath",
+    "desc": "Channels the song through the power of the Dread Serpent.",
     "stars": 0,
     "category": "Combat",
     "type": "Monster",
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "pumpkin_pitch := ()",
-    "vaulted": false
-  },
-  "brachial_spear": {
-    "name": "Brachial Spear",
-    "desc": "A javelin of jagged bone.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "brachial_spear := ()",
-    "vaulted": false
-  },
-  "abyssal_ridge": {
-    "name": "Abyssal Ridge",
-    "desc": "Send a cascading eruption towards your foes, forcing them to react.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "abyssal_ridge := ()",
-    "vaulted": false
-  },
-  "mecha_gatling": {
-    "name": "Mecha Gatling",
-    "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "mecha_gatling := ()",
-    "vaulted": false
-  },
-  "whirling_blade": {
-    "name": "Whirling Blade",
-    "desc": "A chitinous scythe to cut through your foes in a whirl.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Monster",
-    "attributes": [
-      "Monster Mantra"
-    ],
-    "reqs": "whirling_blade := ()",
+    "reqs": "dread_breath := ()",
     "vaulted": false
   },
   "coral_spear": {
@@ -71,16 +23,76 @@
     "reqs": "coral_spear := ()",
     "vaulted": false
   },
-  "dread_breath": {
-    "name": "Dread Breath",
-    "desc": "Channels the song through the power of the Dread Serpent.",
+  "brachial_spear": {
+    "name": "Brachial Spear",
+    "desc": "A javelin of jagged bone.",
     "stars": 0,
     "category": "Combat",
     "type": "Monster",
     "attributes": [
       "Monster Mantra"
     ],
-    "reqs": "dread_breath := ()",
+    "reqs": "brachial_spear := ()",
+    "vaulted": false
+  },
+  "whirling_blade": {
+    "name": "Whirling Blade",
+    "desc": "A chitinous scythe to cut through your foes in a whirl.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "whirling_blade := ()",
+    "vaulted": false
+  },
+  "abyssal_ridge": {
+    "name": "Abyssal Ridge",
+    "desc": "Send a cascading eruption towards your foes, forcing them to react.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "abyssal_ridge := ()",
+    "vaulted": false
+  },
+  "abyssal_tendrils": {
+    "name": "Abyssal Tendrils",
+    "desc": "Create tentacles and pierce multiple opponents at once.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "abyssal_tendrils := ()",
+    "vaulted": false
+  },
+  "mecha_gatling": {
+    "name": "Mecha Gatling",
+    "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "mecha_gatling := ()",
+    "vaulted": false
+  },
+  "pumpkin_pitch": {
+    "name": "Pumpkin Pitch",
+    "desc": "Lob explosive pumpkins at your foes. Note: Requires Hallowtide '23 Seasonal Medal.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "pumpkin_pitch := ()",
     "vaulted": false
   }
 }

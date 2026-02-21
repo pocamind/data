@@ -1,14 +1,14 @@
 {
-  "soul_beam": {
-    "name": "Soul Beam",
-    "desc": "Unknown",
-    "stars": 0,
+  "iron_tether": {
+    "name": "Iron Tether",
+    "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
+    "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Multiple"
     ],
-    "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+    "reqs": "iron_tether := 30r LTN, 30r MTL",
     "vaulted": false
   },
   "permafrost_prison": {
@@ -23,6 +23,18 @@
     "reqs": "permafrost_prison := 30r ICE, 30r SDW",
     "vaulted": false
   },
+  "soul_beam": {
+    "name": "Soul Beam",
+    "desc": "Unknown",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Multiple"
+    ],
+    "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+    "vaulted": false
+  },
   "flashfire_sweep": {
     "name": "Flashfire Sweep",
     "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
@@ -33,18 +45,6 @@
       "Multiple"
     ],
     "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
-    "vaulted": false
-  },
-  "iron_tether": {
-    "name": "Iron Tether",
-    "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Multiple"
-    ],
-    "reqs": "iron_tether := 30r LTN, 30r MTL",
     "vaulted": false
   }
 }

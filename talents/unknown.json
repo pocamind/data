@@ -1,17 +1,4 @@
 {
-  "grotesque_resilience": {
-    "name": "Grotesque Resilience",
-    "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
-    "rarity": "Equipment",
-    "category": "Unknown",
-    "reqs": "grotesque_resilience := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "overwhelming_might": {
     "name": "Overwhelming Might",
     "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
@@ -38,12 +25,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "silencers_song_hvy": {
-    "name": "Silencer's Song [HVY]",
+  "silencers_song_med": {
+    "name": "Silencer's Song [MED]",
     "desc": "Silencer's Blade now procs on your mantras.",
     "rarity": "Common",
     "category": "Unknown",
-    "reqs": "silencers_blade => silencers_song_hvy := 100r HVY, 100s WND",
+    "reqs": "silencers_blade => silencers_song_med := 100r MED, 100s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "grotesque_resilience": {
+    "name": "Grotesque Resilience",
+    "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
+    "rarity": "Equipment",
+    "category": "Unknown",
+    "reqs": "grotesque_resilience := ()",
     "exclusive": [
       ""
     ],
@@ -67,19 +67,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "silencers_song_lht": {
-    "name": "Silencer's Song [LHT]",
-    "desc": "Silencer's Blade now procs on your mantras.",
-    "rarity": "Common",
-    "category": "Unknown",
-    "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "simmerbloom": {
     "name": "Simmerbloom",
     "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
@@ -93,12 +80,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "silencers_song_med": {
-    "name": "Silencer's Song [MED]",
+  "silencers_song_hvy": {
+    "name": "Silencer's Song [HVY]",
     "desc": "Silencer's Blade now procs on your mantras.",
     "rarity": "Common",
     "category": "Unknown",
-    "reqs": "silencers_blade => silencers_song_med := 100r MED, 100s WND",
+    "reqs": "silencers_blade => silencers_song_hvy := 100r HVY, 100s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "silencers_song_lht": {
+    "name": "Silencer's Song [LHT]",
+    "desc": "Silencer's Blade now procs on your mantras.",
+    "rarity": "Common",
+    "category": "Unknown",
+    "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
     "exclusive": [
       ""
     ],

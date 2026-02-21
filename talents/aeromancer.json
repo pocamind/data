@@ -1,10 +1,25 @@
 {
-  "vacuum_punch": {
-    "name": "Vacuum Punch",
-    "desc": "Your Gale Punch pulls enemies in before you hit them.",
+  "aerogliding": {
+    "name": "Aerogliding",
+    "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
+    "rarity": "Rare",
+    "category": "Aeromancer",
+    "reqs": "aerogliding := 30s AGL, 35s WND",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "aeronade": {
+    "name": "Aeronade",
+    "desc": "Your trap automatically detonates on contact with an object.",
     "rarity": "Common",
     "category": "Aeromancer",
-    "reqs": "vacuum_punch := 15s WND",
+    "reqs": "aeronade := 40s WND",
     "exclusive": [
       ""
     ],
@@ -27,27 +42,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "aeronade": {
-    "name": "Aeronade",
-    "desc": "Your trap automatically detonates on contact with an object.",
+  "vacuum_punch": {
+    "name": "Vacuum Punch",
+    "desc": "Your Gale Punch pulls enemies in before you hit them.",
     "rarity": "Common",
     "category": "Aeromancer",
-    "reqs": "aeronade := 40s WND",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "aerogliding": {
-    "name": "Aerogliding",
-    "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.",
-    "rarity": "Rare",
-    "category": "Aeromancer",
-    "reqs": "aerogliding := 30s AGL, 35s WND",
+    "reqs": "vacuum_punch := 15s WND",
     "exclusive": [
       ""
     ],

@@ -25,27 +25,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "everchanging_aegis": {
-    "name": "Everchanging Aegis",
-    "desc": "You take 20% less damage from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different elements.",
-    "rarity": "Rare",
-    "category": "Adept Caster",
-    "reqs": "everchanging_aegis := 25s INT",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 7
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "overflowing_dam": {
     "name": "Overflowing Dam",
     "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grants them 5%-10% more damage.\n[*The percentage of gained damage scales with your Intelligence between 0 INT and 40 INT.]",
     "rarity": "Rare",
     "category": "Adept Caster",
     "reqs": "overflowing_dam := 40s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "everchanging_aegis": {
+    "name": "Everchanging Aegis",
+    "desc": "You take 20% less damage from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different elements.",
+    "rarity": "Rare",
+    "category": "Adept Caster",
+    "reqs": "everchanging_aegis := 25s INT",
     "exclusive": [
       ""
     ],

@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "knuckle_guard": {
-    "name": "Knuckle Guard",
-    "desc": "Hitting Dazed enemies grants you 10% posture resistance for up to 15s.\n[*Note: 10s to 15s duration between 30 and 80 Strength + Fortitude.]",
+  "down_to_your_level": {
+    "name": "Down to your Level",
+    "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for up to 5s.\n[*Note: 3s to 5s duration between 20 and 60 Fortitude.]",
     "rarity": "Common",
     "category": "Bulwark",
-    "reqs": "knuckle_guard := 25s STR, 55s FTD",
+    "reqs": "down_to_your_level := 60s FTD",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "down_to_your_level": {
-    "name": "Down to your Level",
-    "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for up to 5s.\n[*Note: 3s to 5s duration between 20 and 60 Fortitude.]",
+  "knuckle_guard": {
+    "name": "Knuckle Guard",
+    "desc": "Hitting Dazed enemies grants you 10% posture resistance for up to 15s.\n[*Note: 10s to 15s duration between 30 and 80 Strength + Fortitude.]",
     "rarity": "Common",
     "category": "Bulwark",
-    "reqs": "down_to_your_level := 60s FTD",
+    "reqs": "knuckle_guard := 25s STR, 55s FTD",
     "exclusive": [
       ""
     ],

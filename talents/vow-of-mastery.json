@@ -1,17 +1,4 @@
 {
-  "command_live": {
-    "name": "Command: Live",
-    "desc": "Once per hour, command a servant to defy all odds and obey your command - live.\n[*The cooldown for this Talent scales on your Charisma investment.]",
-    "rarity": "Common",
-    "category": "Vow of Mastery",
-    "reqs": "vow_of_mastery => command_live := 75s CHA",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "command_summon": {
     "name": "Command: Summon",
     "desc": "Command your servant to obey your master and appear before you no matter the distance.",
@@ -31,6 +18,19 @@
     "rarity": "Common",
     "category": "Vow of Mastery",
     "reqs": "vow_of_mastery := 20s CHA",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "command_live": {
+    "name": "Command: Live",
+    "desc": "Once per hour, command a servant to defy all odds and obey your command - live.\n[*The cooldown for this Talent scales on your Charisma investment.]",
+    "rarity": "Common",
+    "category": "Vow of Mastery",
+    "reqs": "vow_of_mastery => command_live := 75s CHA",
     "exclusive": [
       ""
     ],

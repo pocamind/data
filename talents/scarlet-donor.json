@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "blood_bank": {
-    "name": "Blood Bank",
-    "desc": "Consuming 'Charm' now gives slight temporary health.",
+  "sharing_is_caring": {
+    "name": "Sharing is Caring",
+    "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
     "rarity": "Common",
     "category": "Scarlet Donor",
-    "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
+    "reqs": "charismatic_cast => sharing_is_caring := 30s CHA, 50s BLD",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "sharing_is_caring": {
-    "name": "Sharing is Caring",
-    "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
+  "blood_bank": {
+    "name": "Blood Bank",
+    "desc": "Consuming 'Charm' now gives slight temporary health.",
     "rarity": "Common",
     "category": "Scarlet Donor",
-    "reqs": "charismatic_cast => sharing_is_caring := 30s CHA, 50s BLD",
+    "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
     "exclusive": [
       ""
     ],

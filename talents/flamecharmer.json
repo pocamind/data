@@ -1,90 +1,10 @@
 {
-  "intrepid_flame": {
-    "name": "Intrepid Flame",
-    "desc": "Flames wear off twice as fast on you.",
-    "rarity": "Outfit",
-    "category": "Flamecharmer",
-    "reqs": "intrepid_flame := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "azure_flames": {
-    "name": "Azure Flames",
-    "desc": "Many of your flames turn blue, signifying their increased intensity.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
-    "exclusive": [
-      "Wraith_Path_Twisted_Puppets"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "expert_flamecharmer": {
-    "name": "Expert Flamecharmer",
-    "desc": "You can now obtain 2-star Flamecharmer Mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
   "produce_spark": {
     "name": "Produce Spark",
     "desc": "A simple production of flame for the use of making campfires.",
     "rarity": "Common",
     "category": "Flamecharmer",
     "reqs": "produce_spark := 20s FLM",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "master_flamecharmer": {
-    "name": "Master Flamecharmer",
-    "desc": "You can now obtain 3-star Flamecharmer mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Health": 5
-    },
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "adept_flamecharmer": {
-    "name": "Adept Flamecharmer",
-    "desc": "You can now obtain 1-star Flamecharmer Mantras.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "unyielding_inferno": {
-    "name": "Unyielding Inferno",
-    "desc": "Your flames burn just as strong even in the fiercest of storms.",
-    "rarity": "Common",
-    "category": "Flamecharmer",
-    "reqs": "flamecharmer => unyielding_inferno := 35s FLM",
     "exclusive": [
       ""
     ],
@@ -103,6 +23,86 @@
     ],
     "innates": {},
     "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "adept_flamecharmer": {
+    "name": "Adept Flamecharmer",
+    "desc": "You can now obtain 1-star Flamecharmer Mantras.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "intrepid_flame": {
+    "name": "Intrepid Flame",
+    "desc": "Flames wear off twice as fast on you.",
+    "rarity": "Outfit",
+    "category": "Flamecharmer",
+    "reqs": "intrepid_flame := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "unyielding_inferno": {
+    "name": "Unyielding Inferno",
+    "desc": "Your flames burn just as strong even in the fiercest of storms.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "flamecharmer => unyielding_inferno := 35s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expert_flamecharmer": {
+    "name": "Expert Flamecharmer",
+    "desc": "You can now obtain 2-star Flamecharmer Mantras.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "master_flamecharmer": {
+    "name": "Master Flamecharmer",
+    "desc": "You can now obtain 3-star Flamecharmer mantras.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 5
+    },
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "azure_flames": {
+    "name": "Azure Flames",
+    "desc": "Many of your flames turn blue, signifying their increased intensity.",
+    "rarity": "Common",
+    "category": "Flamecharmer",
+    "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
+    "exclusive": [
+      "Wraith_Path_Twisted_Puppets"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

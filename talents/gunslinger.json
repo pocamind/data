@@ -1,28 +1,12 @@
 {
-  "bulletproof_med": {
-    "name": "Bulletproof [MED]",
-    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+  "parting_gift": {
+    "name": "Parting Gift",
+    "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]",
     "rarity": "Common",
     "category": "Gunslinger",
-    "reqs": "bulletproof_med := 20r MED",
+    "reqs": "parting_gift := 75s LHT",
     "exclusive": [
-      "Armor_Piercing_LHT",
-      "Armor_Piercing_MED",
-      "Bulletproof_FTD",
-      "Bulletproof_LHT"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "true_ether_bullets_lht": {
-    "name": "True Ether Bullets [LHT]",
-    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
-    "rarity": "Rare",
-    "category": "Gunslinger",
-    "reqs": "true_ether_bullets_lht := 20r LHT, 30s INT",
-    "exclusive": [
-      "True_Ether_Bullets_MED"
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -46,27 +30,17 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hip_shooter_hvy": {
-    "name": "Hip Shooter [HVY]",
-    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
-    "rarity": "Rare",
+  "bulletproof_lht": {
+    "name": "Bulletproof [LHT]",
+    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+    "rarity": "Common",
     "category": "Gunslinger",
-    "reqs": "hip_shooter_hvy := 50r HVY, 25s LHT",
+    "reqs": "bulletproof_lht := 20r LHT",
     "exclusive": [
-      "Hip_Shooter_MED"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "true_ether_bullets_med": {
-    "name": "True Ether Bullets [MED]",
-    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
-    "rarity": "Rare",
-    "category": "Gunslinger",
-    "reqs": "true_ether_bullets_med := 20r MED, 30s INT",
-    "exclusive": [
-      "True_Ether_Bullets_LHT"
+      "Armor_Piercing_LHT",
+      "Armor_Piercing_MED",
+      "Bulletproof_FTD",
+      "Bulletproof_MED"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -90,43 +64,14 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "parting_gift": {
-    "name": "Parting Gift",
-    "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]",
+  "quick_swap": {
+    "name": "Quick Swap",
+    "desc": "Massively reduce your bullet swap cooldown. [Dual Gun]",
     "rarity": "Common",
     "category": "Gunslinger",
-    "reqs": "parting_gift := 75s LHT",
+    "reqs": "quick_swap := 40s LHT",
     "exclusive": [
       ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "bulletproof_lht": {
-    "name": "Bulletproof [LHT]",
-    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
-    "rarity": "Common",
-    "category": "Gunslinger",
-    "reqs": "bulletproof_lht := 20r LHT",
-    "exclusive": [
-      "Armor_Piercing_LHT",
-      "Armor_Piercing_MED",
-      "Bulletproof_FTD",
-      "Bulletproof_MED"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "hip_shooter_med": {
-    "name": "Hip Shooter [MED]",
-    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
-    "rarity": "Rare",
-    "category": "Gunslinger",
-    "reqs": "hip_shooter_med := 50r MED, 25s LHT",
-    "exclusive": [
-      "Hip_Shooter_HVY"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -145,14 +90,14 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "quickdraw": {
-    "name": "Quickdraw",
-    "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
-    "rarity": "Common",
+  "true_ether_bullets_lht": {
+    "name": "True Ether Bullets [LHT]",
+    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
+    "rarity": "Rare",
     "category": "Gunslinger",
-    "reqs": "quickdraw := 55s LHT",
+    "reqs": "true_ether_bullets_lht := 20r LHT, 30s INT",
     "exclusive": [
-      ""
+      "True_Ether_Bullets_MED"
     ],
     "innates": {},
     "not_counted_towards_total": false,
@@ -169,6 +114,141 @@
       "Armor_Piercing_MED",
       "Bulletproof_LHT",
       "Bulletproof_MED"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hip_shooter_med": {
+    "name": "Hip Shooter [MED]",
+    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "hip_shooter_med := 50r MED, 25s LHT",
+    "exclusive": [
+      "Hip_Shooter_HVY",
+      "Execution_HVY",
+      "Execution_MED",
+      "Execution_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "execution_hvy": {
+    "name": "Execution [HVY]",
+    "desc": "Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "execution_hvy := 90r HVY",
+    "exclusive": [
+      "Hip_Shooter_MED",
+      "Hip_Shooter_HVY",
+      "Execution_MED",
+      "Execution_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "true_ether_bullets_med": {
+    "name": "True Ether Bullets [MED]",
+    "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "true_ether_bullets_med := 20r MED, 30s INT",
+    "exclusive": [
+      "True_Ether_Bullets_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "bulletproof_med": {
+    "name": "Bulletproof [MED]",
+    "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "bulletproof_med := 20r MED",
+    "exclusive": [
+      "Armor_Piercing_LHT",
+      "Armor_Piercing_MED",
+      "Bulletproof_FTD",
+      "Bulletproof_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "quickdraw": {
+    "name": "Quickdraw",
+    "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "quickdraw := 55s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hip_shooter_hvy": {
+    "name": "Hip Shooter [HVY]",
+    "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "hip_shooter_hvy := 50r HVY, 25s LHT",
+    "exclusive": [
+      "Hip_Shooter_MED",
+      "Execution_HVY",
+      "Execution_MED",
+      "Execution_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "gunpowder_blast": {
+    "name": "Gunpowder Blast",
+    "desc": "Pistol shots without bullets deal 2 extra posture. [Dual Gun]",
+    "rarity": "Common",
+    "category": "Gunslinger",
+    "reqs": "gunpowder_blast := 45s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "execution_med": {
+    "name": "Execution [MED]",
+    "desc": "Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "execution_med := 90r MED",
+    "exclusive": [
+      "Hip_Shooter_MED",
+      "Hip_Shooter_HVY",
+      "Execution_HVY",
+      "Execution_LHT"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "execution_lht": {
+    "name": "Execution [LHT]",
+    "desc": "Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.",
+    "rarity": "Rare",
+    "category": "Gunslinger",
+    "reqs": "execution_lht := 90r LHT",
+    "exclusive": [
+      "Hip_Shooter_MED",
+      "Hip_Shooter_HVY",
+      "Execution_MED",
+      "Execution_HVY"
     ],
     "innates": {},
     "not_counted_towards_total": false,

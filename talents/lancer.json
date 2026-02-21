@@ -1,27 +1,16 @@
 {
-  "driving_impact": {
-    "name": "Driving Impact",
-    "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
+  "hoplite": {
+    "name": "Hoplite",
+    "desc": "Posture damage is reduced by 15% when wielding a spear and standing still.",
     "rarity": "Common",
     "category": "Lancer",
-    "reqs": "driving_impact := 30s MED",
+    "reqs": "hoplite := 15s FTD",
     "exclusive": [
       ""
     ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "defensive_sweep": {
-    "name": "Defensive Sweep",
-    "desc": "[Spears] Posture breaking an opponent grants you +50% PEN for 3 seconds.",
-    "rarity": "Common",
-    "category": "Lancer",
-    "reqs": "defensive_sweep := 50s MED",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
+    "innates": {
+      "Passive Agility": 2
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -40,18 +29,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hoplite": {
-    "name": "Hoplite",
-    "desc": "Posture damage is reduced by 15% when wielding a spear and standing still.",
+  "defensive_sweep": {
+    "name": "Defensive Sweep",
+    "desc": "[Spears] Posture breaking an opponent grants you +50% PEN for 3 seconds.",
     "rarity": "Common",
     "category": "Lancer",
-    "reqs": "hoplite := 15s FTD",
+    "reqs": "defensive_sweep := 50s MED",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Passive Agility": 2
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -67,6 +54,19 @@
     "innates": {
       "Passive Agility": 2
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "driving_impact": {
+    "name": "Driving Impact",
+    "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
+    "rarity": "Common",
+    "category": "Lancer",
+    "reqs": "driving_impact := 30s MED",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

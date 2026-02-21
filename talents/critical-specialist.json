@@ -1,19 +1,4 @@
 {
-  "finishing_touch": {
-    "name": "Finishing Touch",
-    "desc": "[Daggers] Instantly execute enemies finished with the critical attack of your dagger.",
-    "rarity": "Common",
-    "category": "Critical Specialist",
-    "reqs": "finishing_touch := 40s LHT, 50s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "successive_throw": {
     "name": "Successive Throw",
     "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards.",
@@ -37,6 +22,21 @@
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "finishing_touch": {
+    "name": "Finishing Touch",
+    "desc": "[Daggers] Instantly execute enemies finished with the critical attack of your dagger.",
+    "rarity": "Common",
+    "category": "Critical Specialist",
+    "reqs": "finishing_touch := 40s LHT, 50s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 2
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },

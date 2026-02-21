@@ -1,36 +1,10 @@
 {
-  "bottom_freeze": {
-    "name": "Bottom Freeze",
-    "desc": "Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "bottom_freeze := 25s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "saint_jay": {
     "name": "Saint Jay",
     "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.",
     "rarity": "Rare",
     "category": "Ice Age",
     "reqs": "frostbite => saint_jay := 1s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "stasis_strike_med": {
-    "name": "Stasis Strike [MED]",
-    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "glass_path_crystallization => stasis_strike_med := 90r MED, 90s ICE",
     "exclusive": [
       ""
     ],
@@ -64,25 +38,51 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "unyielding_frost": {
-    "name": "Unyielding Frost",
-    "desc": "Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.",
-    "rarity": "Advanced",
+  "stasis_strike_lht": {
+    "name": "Stasis Strike [LHT]",
+    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+    "rarity": "Common",
     "category": "Ice Age",
-    "reqs": "unyielding_frost := 100s ICE",
+    "reqs": "glass_path_crystallization => stasis_strike_lht := 90r LHT, 90s ICE",
     "exclusive": [
-      "Glass_Path_Crystallization"
+      ""
     ],
     "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "frostbite": {
-    "name": "Frostbite",
-    "desc": "Enemies can no longer heal when under the effect of your chill.",
+  "cryonis": {
+    "name": "Cryonis",
+    "desc": "All ice spells casted on top of ice cost less Ether.",
     "rarity": "Common",
     "category": "Ice Age",
-    "reqs": "frostdrawer => frostbite := 25s ICE",
+    "reqs": "frostdrawer => cryonis := 40s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frozen_anchor_hvy": {
+    "name": "Frozen Anchor [HVY]",
+    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "frozen_anchor_hvy := 100r HVY, 100s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "bottom_freeze": {
+    "name": "Bottom Freeze",
+    "desc": "Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "bottom_freeze := 25s ICE",
     "exclusive": [
       ""
     ],
@@ -116,51 +116,51 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "stasis_strike_med": {
+    "name": "Stasis Strike [MED]",
+    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "glass_path_crystallization => stasis_strike_med := 90r MED, 90s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "unyielding_frost": {
+    "name": "Unyielding Frost",
+    "desc": "Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.",
+    "rarity": "Advanced",
+    "category": "Ice Age",
+    "reqs": "unyielding_frost := 100s ICE",
+    "exclusive": [
+      "Glass_Path_Crystallization"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "frostbite": {
+    "name": "Frostbite",
+    "desc": "Enemies can no longer heal when under the effect of your chill.",
+    "rarity": "Common",
+    "category": "Ice Age",
+    "reqs": "frostdrawer => frostbite := 25s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "frozen_pin_cushion": {
     "name": "Frozen Pin-Cushion",
     "desc": "Hitting an opponent with your Ice Daggers causes them to freeze.",
     "rarity": "Rare",
     "category": "Ice Age",
     "reqs": "frozen_pin_cushion := 60s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "frozen_anchor_hvy": {
-    "name": "Frozen Anchor [HVY]",
-    "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "frozen_anchor_hvy := 100r HVY, 100s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "stasis_strike_lht": {
-    "name": "Stasis Strike [LHT]",
-    "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "glass_path_crystallization => stasis_strike_lht := 90r LHT, 90s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "cryonis": {
-    "name": "Cryonis",
-    "desc": "All ice spells casted on top of ice cost less Ether.",
-    "rarity": "Common",
-    "category": "Ice Age",
-    "reqs": "frostdrawer => cryonis := 40s ICE",
     "exclusive": [
       ""
     ],

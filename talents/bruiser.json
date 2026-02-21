@@ -1,10 +1,10 @@
 {
-  "brazen_blow": {
-    "name": "Brazen Blow",
-    "desc": "[Greataxe] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. 20s CD.",
-    "rarity": "Common",
+  "heavy_fatigue": {
+    "name": "Heavy Fatigue",
+    "desc": "[Greataxe] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.",
+    "rarity": "Rare",
     "category": "Bruiser",
-    "reqs": "impairing_blow => brazen_blow := 30s HVY",
+    "reqs": "heavy_fatigue := 40s HVY",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "heavy_fatigue": {
-    "name": "Heavy Fatigue",
-    "desc": "[Greataxe] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.",
-    "rarity": "Rare",
+  "brazen_blow": {
+    "name": "Brazen Blow",
+    "desc": "[Greataxe] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. 20s CD.",
+    "rarity": "Common",
     "category": "Bruiser",
-    "reqs": "heavy_fatigue := 40s HVY",
+    "reqs": "impairing_blow => brazen_blow := 30s HVY",
     "exclusive": [
       ""
     ],

@@ -1,16 +1,4 @@
 {
-  "vein_tendrils": {
-    "name": "Vein Tendrils",
-    "desc": "Create tendrils of blood.",
-    "stars": 2,
-    "category": "Mobility",
-    "type": "Attunement",
-    "attributes": [
-      "Bloodrend"
-    ],
-    "reqs": "vein_tendrils := 30r BLD",
-    "vaulted": false
-  },
   "sanguine_dive": {
     "name": "Sanguine Dive",
     "desc": "Create or jump into a pool of blood.",
@@ -21,6 +9,18 @@
       "Bloodrend"
     ],
     "reqs": "sanguine_dive := 20r BLD",
+    "vaulted": false
+  },
+  "vein_tendrils": {
+    "name": "Vein Tendrils",
+    "desc": "Create tendrils of blood.",
+    "stars": 2,
+    "category": "Mobility",
+    "type": "Attunement",
+    "attributes": [
+      "Bloodrend"
+    ],
+    "reqs": "vein_tendrils := 30r BLD",
     "vaulted": false
   }
 }

@@ -12,21 +12,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "successive_prediction": {
-    "name": "Successive Prediction",
-    "desc": "Predicting an attack will briefly allow you to predict another.",
-    "rarity": "Common",
-    "category": "Omniscient",
-    "reqs": "successive_prediction := 50s INT",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Ether": 10
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "all_knowing": {
     "name": "All Knowing",
     "desc": "Your prediction now ignores the range requirement to reflect attacks.",
@@ -53,6 +38,21 @@
     ],
     "innates": {},
     "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "successive_prediction": {
+    "name": "Successive Prediction",
+    "desc": "Predicting an attack will briefly allow you to predict another.",
+    "rarity": "Common",
+    "category": "Omniscient",
+    "reqs": "successive_prediction := 50s INT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Ether": 10
+    },
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

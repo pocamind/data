@@ -1,10 +1,10 @@
 {
-  "justicars_renewal": {
-    "name": "Justicar's Renewal",
-    "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (10s cooldown)",
+  "swiftkick_prodigy": {
+    "name": "Swiftkick Prodigy",
+    "desc": "Hitting successive basic attacks with Jus Karita will give you a temporary speed buff.",
     "rarity": "Common",
     "category": "Justicar",
-    "reqs": "jus_karita => justicars_renewal := ()",
+    "reqs": "jus_karita => swiftkick_prodigy := ()",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "swiftkick_prodigy": {
-    "name": "Swiftkick Prodigy",
-    "desc": "Hitting successive basic attacks with Jus Karita will give you a temporary speed buff.",
+  "flying_swiftkick": {
+    "name": "Flying Swiftkick",
+    "desc": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy and consume your speed boost.",
     "rarity": "Common",
     "category": "Justicar",
-    "reqs": "jus_karita => swiftkick_prodigy := ()",
+    "reqs": "swiftkick_prodigy => flying_swiftkick := ()",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "flying_swiftkick": {
-    "name": "Flying Swiftkick",
-    "desc": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy and consume your speed boost.",
+  "justicars_renewal": {
+    "name": "Justicar's Renewal",
+    "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (10s cooldown)",
     "rarity": "Common",
     "category": "Justicar",
-    "reqs": "swiftkick_prodigy => flying_swiftkick := ()",
+    "reqs": "jus_karita => justicars_renewal := ()",
     "exclusive": [
       ""
     ],

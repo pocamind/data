@@ -12,19 +12,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "malevolent_sapper": {
-    "name": "Malevolent Sapper",
-    "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
-    "rarity": "Common",
-    "category": "Bloodsong",
-    "reqs": "malevolent_sapper := 40s SDW, 40s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "electrolyte": {
     "name": "Electrolyte",
     "desc": "Hitting Bloodrend mantras while having temporary health applies Shocked while removing a portion of temporary health.",
@@ -38,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "brain_death": {
-    "name": "Brain Death",
-    "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
+  "scorchblood": {
+    "name": "Scorchblood",
+    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "brain_death := 40s WND, 40s BLD",
+    "reqs": "scorchblood := 40s FLM, 40s BLD",
     "exclusive": [
       ""
     ],
@@ -64,12 +51,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "scorchblood": {
-    "name": "Scorchblood",
-    "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+  "malevolent_sapper": {
+    "name": "Malevolent Sapper",
+    "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
     "rarity": "Common",
     "category": "Bloodsong",
-    "reqs": "scorchblood := 40s FLM, 40s BLD",
+    "reqs": "malevolent_sapper := 40s SDW, 40s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "brain_death": {
+    "name": "Brain Death",
+    "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
+    "rarity": "Common",
+    "category": "Bloodsong",
+    "reqs": "brain_death := 40s WND, 40s BLD",
     "exclusive": [
       ""
     ],

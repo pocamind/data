@@ -1,30 +1,4 @@
 {
-  "juicy_snack": {
-    "name": "Juicy Snack",
-    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
-    "rarity": "Common",
-    "category": "Septicemia",
-    "reqs": "juicy_snack := 20s FTD, 60s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "hemolytic_transfusion": {
-    "name": "Hemolytic Transfusion",
-    "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
-    "rarity": "Common",
-    "category": "Septicemia",
-    "reqs": "hemolytic_transfusion := 65s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "panacea": {
     "name": "Panacea",
     "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
@@ -38,12 +12,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hemolysis": {
-    "name": "Hemolysis",
-    "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
+  "tainted_ground": {
+    "name": "Tainted Ground",
+    "desc": "Enemies who stand in blood pools will not decay blood poison.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "hemolysis := 25s STR, 40s BLD",
+    "reqs": "tainted_ground := 30s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "juicy_snack": {
+    "name": "Juicy Snack",
+    "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "juicy_snack := 20s FTD, 60s BLD",
     "exclusive": [
       ""
     ],
@@ -77,12 +64,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "tainted_ground": {
-    "name": "Tainted Ground",
-    "desc": "Enemies who stand in blood pools will not decay blood poison.",
+  "hemolysis": {
+    "name": "Hemolysis",
+    "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
     "rarity": "Common",
     "category": "Septicemia",
-    "reqs": "tainted_ground := 30s BLD",
+    "reqs": "hemolysis := 25s STR, 40s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "hemolytic_transfusion": {
+    "name": "Hemolytic Transfusion",
+    "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
+    "rarity": "Common",
+    "category": "Septicemia",
+    "reqs": "hemolytic_transfusion := 65s BLD",
     "exclusive": [
       ""
     ],

@@ -1,14 +1,16 @@
 {
-  "master_thief": {
-    "name": "Master Thief",
-    "desc": "Gain more notes when mugging a player.",
+  "cap_artist": {
+    "name": "Cap Artist",
+    "desc": "Pressing [R] while crouching allows you to fake being dead.",
     "rarity": "Common",
     "category": "Thief",
-    "reqs": "pickpocket => master_thief := 25s CHA",
+    "reqs": "cap_artist := 5s CHA, 25s AGL",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Passive Agility": 2
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -27,27 +29,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  "master_thief": {
+    "name": "Master Thief",
+    "desc": "Gain more notes when mugging a player.",
+    "rarity": "Common",
+    "category": "Thief",
+    "reqs": "pickpocket => master_thief := 25s CHA",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "another_mans_trash": {
     "name": "Another Man's Trash",
     "desc": "Take unequipped equipment when mugging a player.",
     "rarity": "Advanced",
     "category": "Thief",
     "reqs": "cap_artist, pickpocket, master_thief => another_mans_trash := 10s AGL, 35s CHA",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 2
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "cap_artist": {
-    "name": "Cap Artist",
-    "desc": "Pressing [R] while crouching allows you to fake being dead.",
-    "rarity": "Common",
-    "category": "Thief",
-    "reqs": "cap_artist := 5s CHA, 25s AGL",
     "exclusive": [
       ""
     ],

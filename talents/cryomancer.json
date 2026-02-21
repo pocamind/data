@@ -1,4 +1,17 @@
 {
+  "preceding_chill": {
+    "name": "Preceding Chill",
+    "desc": "Enemies hit during the last moments of your ice beam are frozen.",
+    "rarity": "Rare",
+    "category": "Cryomancer",
+    "reqs": "preceding_chill := 60s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "fragile_freeze": {
     "name": "Fragile Freeze",
     "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.",
@@ -25,32 +38,6 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "cool_head": {
-    "name": "Cool Head",
-    "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
-    "rarity": "Common",
-    "category": "Cryomancer",
-    "reqs": "frostdrawer => cool_head := 30s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "preceding_chill": {
-    "name": "Preceding Chill",
-    "desc": "Enemies hit during the last moments of your ice beam are frozen.",
-    "rarity": "Rare",
-    "category": "Cryomancer",
-    "reqs": "preceding_chill := 60s ICE",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "spike_traps": {
     "name": "Spike Traps",
     "desc": "Press [F] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.",
@@ -63,6 +50,19 @@
     "innates": {},
     "not_counted_towards_total": false,
     "vaulted": true
+  },
+  "cool_head": {
+    "name": "Cool Head",
+    "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
+    "rarity": "Common",
+    "category": "Cryomancer",
+    "reqs": "frostdrawer => cool_head := 30s ICE",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
   },
   "chilling_flourish": {
     "name": "Chilling Flourish",

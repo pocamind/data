@@ -1,14 +1,16 @@
 {
-  "galebreather": {
-    "name": "Galebreather",
-    "desc": "Grants you the ability to command Wind as a Galebreather",
+  "master_galebreather": {
+    "name": "Master Galebreather",
+    "desc": "You can now obtain 3-star Galebreather mantras.",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "galebreather := 1s WND",
+    "reqs": "expert_galebreather => master_galebreather := 50s WND",
     "exclusive": [
       ""
     ],
-    "innates": {},
+    "innates": {
+      "Health": 5
+    },
     "not_counted_towards_total": true,
     "vaulted": false
   },
@@ -25,18 +27,16 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "master_galebreather": {
-    "name": "Master Galebreather",
-    "desc": "You can now obtain 3-star Galebreather mantras.",
+  "galebreather": {
+    "name": "Galebreather",
+    "desc": "Grants you the ability to command Wind as a Galebreather",
     "rarity": "Common",
     "category": "Galebreather",
-    "reqs": "expert_galebreather => master_galebreather := 50s WND",
+    "reqs": "galebreather := 1s WND",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Health": 5
-    },
+    "innates": {},
     "not_counted_towards_total": true,
     "vaulted": false
   },

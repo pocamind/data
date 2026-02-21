@@ -1,4 +1,17 @@
 {
+  "proficient_baiting": {
+    "name": "Proficient Baiting",
+    "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
+    "rarity": "Quest",
+    "category": "Angler",
+    "reqs": "proficient_baiting := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "hook_line_and_sinker": {
     "name": "Hook, Line, and Sinker",
     "desc": "Once something's caught your line, it's much harder to get loose.",
@@ -8,9 +21,7 @@
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Carry Load": 4
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -20,19 +31,6 @@
     "rarity": "Quest",
     "category": "Angler",
     "reqs": "fishers_lure := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "proficient_baiting": {
-    "name": "Proficient Baiting",
-    "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
-    "rarity": "Quest",
-    "category": "Angler",
-    "reqs": "proficient_baiting := ()",
     "exclusive": [
       ""
     ],

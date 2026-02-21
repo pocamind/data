@@ -1,19 +1,4 @@
 {
-  "conquer_your_fears": {
-    "name": "Conquer your Fears",
-    "desc": "Killing the beings of the deep replenishes your Sanity somewhat. When an ally grips an enemy nearby to you, you regain Sanity.",
-    "rarity": "Common",
-    "category": "Mental Fortress",
-    "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 3
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "disbelief": {
     "name": "Disbelief",
     "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
@@ -40,6 +25,21 @@
     ],
     "innates": {
       "Health": 5
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "conquer_your_fears": {
+    "name": "Conquer your Fears",
+    "desc": "Killing the beings of the deep replenishes your Sanity somewhat. When an ally grips an enemy nearby to you, you regain Sanity.",
+    "rarity": "Common",
+    "category": "Mental Fortress",
+    "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 3
     },
     "not_counted_towards_total": false,
     "vaulted": false

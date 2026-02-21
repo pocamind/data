@@ -1,4 +1,17 @@
 {
+  "luminous_flash": {
+    "name": "Luminous Flash",
+    "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
+    "rarity": "Oath",
+    "category": "Dawnwalker",
+    "reqs": "oath_dawnwalker => luminous_flash := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "absolute_radiance": {
     "name": "Absolute Radiance",
     "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
@@ -18,19 +31,6 @@
     "rarity": "Oath",
     "category": "Dawnwalker",
     "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "luminous_flash": {
-    "name": "Luminous Flash",
-    "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
-    "rarity": "Oath",
-    "category": "Dawnwalker",
-    "reqs": "oath_dawnwalker => luminous_flash := ()",
     "exclusive": [
       ""
     ],

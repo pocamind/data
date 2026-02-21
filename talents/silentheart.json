@@ -1,91 +1,10 @@
 {
-  "flow_state": {
-    "name": "Flow State",
-    "desc": "Enter a moment of extreme focus in which you can change the windup of your special attack with the correct timing.",
+  "rising_star": {
+    "name": "Rising Star",
+    "desc": "Press CTRL + M2 to activate a special uppercut attack.",
     "rarity": "Oath",
     "category": "Silentheart",
-    "reqs": "oath_silentheart => flow_state := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "unmatched_dexterity": {
-    "name": "Unmatched Dexterity",
-    "desc": "Press X to Quick Swap between weapons within your toolbar.",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart => unmatched_dexterity := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "ankle_cutter": {
-    "name": "Ankle Cutter",
-    "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart => ankle_cutter := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "vengeful_pursuit": {
-    "name": "Vengeful Pursuit",
-    "desc": "Your running Basic Attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD.",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart => vengeful_pursuit := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "dread_fighter": {
-    "name": "Dread Fighter",
-    "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart => dread_fighter := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "oath_silentheart": {
-    "name": "Oath: Silentheart",
-    "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements.\n[Note: Only reduces requirements by 25, not half.]",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart := 25s STR, 25s AGL, 25s CHA",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Posture": 2,
-      "Health": 10
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "mayhem": {
-    "name": "Mayhem",
-    "desc": "Initiate a special dash attack by pressing Basic Attack during the start of your dodge.",
-    "rarity": "Oath",
-    "category": "Silentheart",
-    "reqs": "oath_silentheart => mayhem := ()",
+    "reqs": "oath_silentheart => rising_star := ()",
     "exclusive": [
       ""
     ],
@@ -106,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "silent_cascade": {
-    "name": "Silent Cascade",
-    "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.",
+  "ankle_cutter": {
+    "name": "Ankle Cutter",
+    "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.",
     "rarity": "Oath",
     "category": "Silentheart",
-    "reqs": "oath_silentheart => silent_cascade := ()",
+    "reqs": "oath_silentheart => ankle_cutter := ()",
     "exclusive": [
       ""
     ],
@@ -119,12 +38,25 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "true_vantage": {
-    "name": "True Vantage",
-    "desc": "Venting makes you invisible briefly while boosting your speed.",
+  "mayhem": {
+    "name": "Mayhem",
+    "desc": "Initiate a special dash attack by pressing Basic Attack during the start of your dodge.",
     "rarity": "Oath",
     "category": "Silentheart",
-    "reqs": "oath_silentheart => true_vantage := ()",
+    "reqs": "oath_silentheart => mayhem := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "silent_cascade": {
+    "name": "Silent Cascade",
+    "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart => silent_cascade := ()",
     "exclusive": [
       ""
     ],
@@ -145,16 +77,84 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "rising_star": {
-    "name": "Rising Star",
-    "desc": "Press CTRL + M2 to activate a special uppercut attack.",
+  "dread_fighter": {
+    "name": "Dread Fighter",
+    "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
     "rarity": "Oath",
     "category": "Silentheart",
-    "reqs": "oath_silentheart => rising_star := ()",
+    "reqs": "oath_silentheart => dread_fighter := ()",
     "exclusive": [
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "unmatched_dexterity": {
+    "name": "Unmatched Dexterity",
+    "desc": "Press X to Quick Swap between weapons within your toolbar.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart => unmatched_dexterity := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "vengeful_pursuit": {
+    "name": "Vengeful Pursuit",
+    "desc": "Your running Basic Attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart => vengeful_pursuit := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "flow_state": {
+    "name": "Flow State",
+    "desc": "Enter a moment of extreme focus in which you can change the windup of your special attack with the correct timing.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart => flow_state := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "true_vantage": {
+    "name": "True Vantage",
+    "desc": "Venting makes you invisible briefly while boosting your speed.",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart => true_vantage := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "oath_silentheart": {
+    "name": "Oath: Silentheart",
+    "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements.\n[Note: Only reduces requirements by 25, not half.]",
+    "rarity": "Oath",
+    "category": "Silentheart",
+    "reqs": "oath_silentheart := 25s STR, 25s AGL, 25s CHA",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Health": 10,
+      "Posture": 2
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

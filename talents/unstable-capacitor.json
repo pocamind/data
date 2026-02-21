@@ -1,30 +1,4 @@
 {
-  "catalytic_strike": {
-    "name": "Catalytic Strike",
-    "desc": "Posture breaking an enemy will Overload their Surge stacks.",
-    "rarity": "Common",
-    "category": "Unstable Capacitor",
-    "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "closed_circuit": {
-    "name": "Closed Circuit",
-    "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
-    "rarity": "Common",
-    "category": "Unstable Capacitor",
-    "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "fried_circuits": {
     "name": "Fried Circuits",
     "desc": "Overloading an enemy applies Sapped for 5s.",
@@ -51,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "surge_path_unstable_capacitor": {
-    "name": "Surge Path: Unstable Capacitor",
-    "desc": "Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.",
+  "closed_circuit": {
+    "name": "Closed Circuit",
+    "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
     "rarity": "Common",
     "category": "Unstable Capacitor",
-    "reqs": "surge_path_unstable_capacitor := 40s LTN",
+    "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
     "exclusive": [
       ""
     ],
@@ -70,6 +44,32 @@
     "rarity": "Common",
     "category": "Unstable Capacitor",
     "reqs": "surge_path_unstable_capacitor => human_battery := 60s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "surge_path_unstable_capacitor": {
+    "name": "Surge Path: Unstable Capacitor",
+    "desc": "Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge_path_unstable_capacitor := 40s LTN",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "catalytic_strike": {
+    "name": "Catalytic Strike",
+    "desc": "Posture breaking an enemy will Overload their Surge stacks.",
+    "rarity": "Common",
+    "category": "Unstable Capacitor",
+    "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
     "exclusive": [
       ""
     ],

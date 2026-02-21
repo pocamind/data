@@ -8,9 +8,7 @@
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Carry Load": 4
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },

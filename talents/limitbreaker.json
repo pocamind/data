@@ -1,34 +1,4 @@
 {
-  "defiant_until_the_end": {
-    "name": "Defiant until the End",
-    "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
-    "rarity": "Common",
-    "category": "Limitbreaker",
-    "reqs": "defiant_until_the_end := 20s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 6
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "last_resort": {
-    "name": "Last Resort",
-    "desc": "Deal +10% more damage when your health is significantly low.",
-    "rarity": "Common",
-    "category": "Limitbreaker",
-    "reqs": "last_resort := 35s WLL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Sanity": 10
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "the_eleventh_hour": {
     "name": "The Eleventh Hour",
     "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
@@ -54,6 +24,36 @@
       ""
     ],
     "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "last_resort": {
+    "name": "Last Resort",
+    "desc": "Deal +10% more damage when your health is significantly low.",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "last_resort := 35s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 10
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "defiant_until_the_end": {
+    "name": "Defiant until the End",
+    "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
+    "rarity": "Common",
+    "category": "Limitbreaker",
+    "reqs": "defiant_until_the_end := 20s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Sanity": 6
+    },
     "not_counted_towards_total": false,
     "vaulted": false
   }

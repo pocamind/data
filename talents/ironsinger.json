@@ -1,10 +1,36 @@
 {
-  "laced_traps": {
-    "name": "Laced Traps",
-    "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
+  "thornmail": {
+    "name": "Thornmail",
+    "desc": "Getting flourished applies a metal rod to the attacker.",
     "rarity": "Common",
     "category": "Ironsinger",
-    "reqs": "laced_traps := 45s MTL",
+    "reqs": "thornmail := 45s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "alloyblood": {
+    "name": "Alloyblood",
+    "desc": "You  don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.\n[Note: Scales with investment. Having less Ironsing reduces the effect of this Talent.]",
+    "rarity": "Advanced",
+    "category": "Ironsinger",
+    "reqs": "alloyblood := 100s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "piercing_metal": {
+    "name": "Piercing Metal",
+    "desc": "Deal additional armor damage to enemies per metal rod affecting them",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "piercing_metal := 60s MTL",
     "exclusive": [
       ""
     ],
@@ -25,45 +51,6 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
-  "thornmail": {
-    "name": "Thornmail",
-    "desc": "Getting flourished applies a metal rod to the attacker.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "thornmail := 45s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "heavy_shoulders": {
-    "name": "Heavy Shoulders",
-    "desc": "If your opponent has 3 or more rods, their dodges are slower.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "heavy_shoulders := 55s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "ironclad_punishment": {
-    "name": "Ironclad Punishment",
-    "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "ironclad_punishment := 45s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "metal_shackles": {
     "name": "Metal Shackles",
     "desc": "Guardbreaking an opponent prevents them from receiving speed boosts for 5 seconds.",
@@ -77,38 +64,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "adept_ironsinger": {
-    "name": "Adept Ironsinger",
-    "desc": "You can now obtain 1-star Ironsinger mantras.",
+  "laced_traps": {
+    "name": "Laced Traps",
+    "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
     "rarity": "Common",
     "category": "Ironsinger",
-    "reqs": "ironsinger => adept_ironsinger := 20s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "ironsinger": {
-    "name": "Ironsinger",
-    "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to pull on Metal Rods.",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "ironsinger := 1s MTL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "piercing_metal": {
-    "name": "Piercing Metal",
-    "desc": "Deal additional armor damage to enemies per metal rod affecting them",
-    "rarity": "Common",
-    "category": "Ironsinger",
-    "reqs": "piercing_metal := 60s MTL",
+    "reqs": "laced_traps := 45s MTL",
     "exclusive": [
       ""
     ],
@@ -131,6 +92,32 @@
     "not_counted_towards_total": true,
     "vaulted": false
   },
+  "ironclad_punishment": {
+    "name": "Ironclad Punishment",
+    "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "ironclad_punishment := 45s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "heavy_shoulders": {
+    "name": "Heavy Shoulders",
+    "desc": "If your opponent has 3 or more rods, their dodges are slower.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "heavy_shoulders := 55s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "oh_the_irony": {
     "name": "Oh The Irony",
     "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration.",
@@ -144,17 +131,30 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "alloyblood": {
-    "name": "Alloyblood",
-    "desc": "You  don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.\n[Note: Scales with investment. Having less Ironsing reduces the effect of this Talent.]",
-    "rarity": "Advanced",
+  "ironsinger": {
+    "name": "Ironsinger",
+    "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to pull on Metal Rods.",
+    "rarity": "Common",
     "category": "Ironsinger",
-    "reqs": "alloyblood := 100s MTL",
+    "reqs": "ironsinger := 1s MTL",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "adept_ironsinger": {
+    "name": "Adept Ironsinger",
+    "desc": "You can now obtain 1-star Ironsinger mantras.",
+    "rarity": "Common",
+    "category": "Ironsinger",
+    "reqs": "ironsinger => adept_ironsinger := 20s MTL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
     "vaulted": false
   }
 }

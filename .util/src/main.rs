@@ -1,5 +1,5 @@
 use anyhow::Result;
-use deepwoken_reqparse::{req::Requirement, util::reqtree::ReqTree};
+use deepwoken_reqparse::{util::reqtree::ReqTree};
 
 fn main() {
     println!("Hello, world!");

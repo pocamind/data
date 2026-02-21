@@ -1,10 +1,10 @@
 {
-  "phantom_edge": {
-    "name": "Phantom Edge",
-    "desc": "Your weapon Basic Attacks have +0.25 range.",
+  "an_ironsingers_instinct": {
+    "name": "An Ironsinger's Instinct",
+    "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
     "rarity": "Rare",
     "category": "Adaptive Arsenal",
-    "reqs": "phantom_edge := 75s MTL",
+    "reqs": "an_ironsingers_instinct := 75s MTL",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "an_ironsingers_instinct": {
-    "name": "An Ironsinger's Instinct",
-    "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
+  "phantom_edge": {
+    "name": "Phantom Edge",
+    "desc": "Your weapon Basic Attacks have +0.25 range.",
     "rarity": "Rare",
     "category": "Adaptive Arsenal",
-    "reqs": "an_ironsingers_instinct := 75s MTL",
+    "reqs": "phantom_edge := 75s MTL",
     "exclusive": [
       ""
     ],

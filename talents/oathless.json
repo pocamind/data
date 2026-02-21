@@ -9,8 +9,8 @@
       ""
     ],
     "innates": {
-      "Health": 10,
-      "Wildcard Mantra": 2
+      "Wildcard Mantra": 2,
+      "Health": 10
     },
     "not_counted_towards_total": false,
     "vaulted": false

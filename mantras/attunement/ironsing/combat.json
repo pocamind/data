@@ -1,38 +1,14 @@
 {
-  "needle_barrage": {
-    "name": "Needle Barrage",
-    "desc": "A barrage of metal rods.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "needle_barrage := 1r MTL",
-    "vaulted": false
-  },
-  "iron_quills": {
-    "name": "Iron Quills",
-    "desc": "Conjure metal from within, impaling surrounding enemies.",
+  "metal_fakeout": {
+    "name": "Metal Fakeout",
+    "desc": "Create a metal clone and appear behind your taget.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "iron_quills := 30r MTL",
-    "vaulted": false
-  },
-  "rocket_lance": {
-    "name": "Rocket Lance",
-    "desc": "Create a lance, impale your opponent, and send them flying.",
-    "stars": 3,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "rocket_lance := 50r MTL",
+    "reqs": "metal_fakeout := 30r MTL",
     "vaulted": false
   },
   "iron_hug": {
@@ -47,64 +23,16 @@
     "reqs": "iron_hug := 50r MTL",
     "vaulted": false
   },
-  "metal_armament": {
-    "name": "Metal Armament",
-    "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
+  "rocket_lance": {
+    "name": "Rocket Lance",
+    "desc": "Create a lance, impale your opponent, and send them flying.",
     "stars": 3,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "metal_armament := 50r MTL",
-    "vaulted": false
-  },
-  "metal_fakeout": {
-    "name": "Metal Fakeout",
-    "desc": "Create a metal clone and appear behind your taget.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "metal_fakeout := 30r MTL",
-    "vaulted": false
-  },
-  "firing_line": {
-    "name": "Firing Line",
-    "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "firing_line := 30r MTL",
-    "vaulted": false
-  },
-  "metal_rain": {
-    "name": "Metal Rain",
-    "desc": "Rain down a incredible amount of metal rods ",
-    "stars": 2,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "metal_rain := 30r MTL",
-    "vaulted": false
-  },
-  "metal_eruption": {
-    "name": "Metal Eruption",
-    "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunement",
-    "attributes": [
-      "Ironsing"
-    ],
-    "reqs": "metal_eruption := 1r MTL",
+    "reqs": "rocket_lance := 50r MTL",
     "vaulted": false
   },
   "metal_gatling": {
@@ -119,6 +47,30 @@
     "reqs": "metal_gatling := 50r MTL",
     "vaulted": false
   },
+  "metal_armament": {
+    "name": "Metal Armament",
+    "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
+    "stars": 3,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_armament := 50r MTL",
+    "vaulted": false
+  },
+  "firing_line": {
+    "name": "Firing Line",
+    "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "firing_line := 30r MTL",
+    "vaulted": false
+  },
   "metal_kick": {
     "name": "Metal Kick",
     "desc": "A powerful kick laced with metal.",
@@ -131,16 +83,16 @@
     "reqs": "metal_kick := 20r MTL",
     "vaulted": false
   },
-  "caltrops": {
-    "name": "Caltrops",
-    "desc": "Throws 6 sharp metal traps.",
+  "iron_quills": {
+    "name": "Iron Quills",
+    "desc": "Conjure metal from within, impaling surrounding enemies.",
     "stars": 2,
     "category": "Combat",
     "type": "Attunement",
     "attributes": [
       "Ironsing"
     ],
-    "reqs": "caltrops := 30r MTL",
+    "reqs": "iron_quills := 30r MTL",
     "vaulted": false
   },
   "iron_slam": {
@@ -165,6 +117,54 @@
       "Ironsing"
     ],
     "reqs": "oxidizing_rush := 30r MTL",
+    "vaulted": false
+  },
+  "metal_eruption": {
+    "name": "Metal Eruption",
+    "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_eruption := 1r MTL",
+    "vaulted": false
+  },
+  "metal_rain": {
+    "name": "Metal Rain",
+    "desc": "Rain down a incredible amount of metal rods ",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "metal_rain := 30r MTL",
+    "vaulted": false
+  },
+  "needle_barrage": {
+    "name": "Needle Barrage",
+    "desc": "A barrage of metal rods.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "needle_barrage := 1r MTL",
+    "vaulted": false
+  },
+  "caltrops": {
+    "name": "Caltrops",
+    "desc": "Throws 6 sharp metal traps.",
+    "stars": 2,
+    "category": "Combat",
+    "type": "Attunement",
+    "attributes": [
+      "Ironsing"
+    ],
+    "reqs": "caltrops := 30r MTL",
     "vaulted": false
   }
 }

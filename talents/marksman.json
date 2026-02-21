@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "stock_bash": {
-    "name": "Stock Bash",
-    "desc": "[Rifles] Your running attacks now apply a brief amount of daze.",
-    "rarity": "Common",
+  "tactical_reload": {
+    "name": "Tactical Reload",
+    "desc": "[Rifles] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)",
+    "rarity": "Rare",
     "category": "Marksman",
-    "reqs": "stock_bash := 25s STR, 55s MED",
+    "reqs": "tactical_reload := 95s MED",
     "exclusive": [
       ""
     ],
@@ -25,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "tactical_reload": {
-    "name": "Tactical Reload",
-    "desc": "[Rifles] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)",
-    "rarity": "Rare",
+  "stock_bash": {
+    "name": "Stock Bash",
+    "desc": "[Rifles] Your running attacks now apply a brief amount of daze.",
+    "rarity": "Common",
     "category": "Marksman",
-    "reqs": "tactical_reload := 95s MED",
+    "reqs": "stock_bash := 25s STR, 55s MED",
     "exclusive": [
       ""
     ],

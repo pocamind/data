@@ -1,15 +1,15 @@
 {
-  "concussion": {
-    "name": "Concussion",
-    "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.",
-    "rarity": "Rare",
+  "precise_swing": {
+    "name": "Precise Swing",
+    "desc": "After landing a critical your next basic attack will have +25% chip damage.",
+    "rarity": "Common",
     "category": "Duelist",
-    "reqs": "concussion := 15s FTD, 20s STR",
+    "reqs": "precise_swing := 15s AGL, 25s STR",
     "exclusive": [
       ""
     ],
     "innates": {
-      "Carry Load": 8
+      "Passive Agility": 1
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -24,7 +24,6 @@
       ""
     ],
     "innates": {
-      "Carry Load": 9,
       "Passive Agility": 1
     },
     "not_counted_towards_total": false,
@@ -40,7 +39,6 @@
       ""
     ],
     "innates": {
-      "Carry Load": 7,
       "Passive Agility": 2
     },
     "not_counted_towards_total": false,
@@ -56,9 +54,21 @@
       ""
     ],
     "innates": {
-      "Carry Load": 6,
       "Passive Agility": 2
     },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "concussion": {
+    "name": "Concussion",
+    "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.",
+    "rarity": "Rare",
+    "category": "Duelist",
+    "reqs": "concussion := 15s FTD, 20s STR",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   },
@@ -72,22 +82,7 @@
       ""
     ],
     "innates": {
-      "Carry Load": 9
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "concussive_force": {
-    "name": "Concussive Force",
-    "desc": "Enemies you knocked remain downed longer than usual.",
-    "rarity": "Common",
-    "category": "Duelist",
-    "reqs": "concussive_force := 15s STR",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Carry Load": 9
+      "Carry Load": 5
     },
     "not_counted_towards_total": false,
     "vaulted": false
@@ -107,19 +102,16 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "precise_swing": {
-    "name": "Precise Swing",
-    "desc": "After landing a critical your next basic attack will have +25% chip damage.",
+  "concussive_force": {
+    "name": "Concussive Force",
+    "desc": "Enemies you knocked remain downed longer than usual.",
     "rarity": "Common",
     "category": "Duelist",
-    "reqs": "precise_swing := 15s AGL, 25s STR",
+    "reqs": "concussive_force := 15s STR",
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Carry Load": 9,
-      "Passive Agility": 1
-    },
+    "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
   }

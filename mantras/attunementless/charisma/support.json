@@ -11,18 +11,6 @@
     "reqs": "sing := 25r CHA",
     "vaulted": false
   },
-  "taunt": {
-    "name": "Taunt",
-    "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
-    "stars": 0,
-    "category": "Support",
-    "type": "Attunementless",
-    "attributes": [
-      "Charisma"
-    ],
-    "reqs": "taunt := 25r CHA",
-    "vaulted": false
-  },
   "dread_whisper": {
     "name": "Dread Whisper",
     "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane.",
@@ -33,6 +21,18 @@
       "Charisma"
     ],
     "reqs": "dread_whisper := 50r CHA",
+    "vaulted": false
+  },
+  "taunt": {
+    "name": "Taunt",
+    "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
+    "stars": 0,
+    "category": "Support",
+    "type": "Attunementless",
+    "attributes": [
+      "Charisma"
+    ],
+    "reqs": "taunt := 25r CHA",
     "vaulted": false
   }
 }

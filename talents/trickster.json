@@ -1,19 +1,4 @@
 {
-  "pursuit": {
-    "name": "Pursuit",
-    "desc": "If you land your Revenge, clear the cooldown immediately.\n[*Note: 35s to 25s cooldown between 50 and 90 Agility.]",
-    "rarity": "Common",
-    "category": "Trickster",
-    "reqs": "pursuit := 90s AGL",
-    "exclusive": [
-      ""
-    ],
-    "innates": {
-      "Passive Agility": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "maiming_claws": {
     "name": "Maiming Claws",
     "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
@@ -50,6 +35,21 @@
     "rarity": "Advanced",
     "category": "Trickster",
     "reqs": "crippling_comeuppance := 100s AGL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {
+      "Passive Agility": 1
+    },
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "pursuit": {
+    "name": "Pursuit",
+    "desc": "If you land your Revenge, clear the cooldown immediately.\n[*Note: 35s to 25s cooldown between 50 and 90 Agility.]",
+    "rarity": "Common",
+    "category": "Trickster",
+    "reqs": "pursuit := 90s AGL",
     "exclusive": [
       ""
     ],

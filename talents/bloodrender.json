@@ -1,23 +1,36 @@
 {
-  "sheltering_grasp": {
-    "name": "Sheltering Grasp",
-    "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
+  "expert_bloodrender": {
+    "name": "Expert Bloodrender",
+    "desc": "You can now obtain 2-star Bloodrender mantras.",
     "rarity": "Common",
     "category": "Bloodrender",
-    "reqs": "sheltering_grasp := 30s BLD",
+    "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
     "exclusive": [
       ""
     ],
     "innates": {},
-    "not_counted_towards_total": false,
+    "not_counted_towards_total": true,
     "vaulted": false
   },
-  "hemorrhaging_blow": {
-    "name": "Hemorrhaging Blow",
-    "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
-    "rarity": "Rare",
+  "adept_bloodrender": {
+    "name": "Adept Bloodrender",
+    "desc": "You can now obtain 1-star Bloodrender mantras.",
+    "rarity": "Common",
     "category": "Bloodrender",
-    "reqs": "master_bloodrender => hemorrhaging_blow := 95s BLD",
+    "reqs": "bloodrender => adept_bloodrender := 20s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "crimson_fountain": {
+    "name": "Crimson Fountain",
+    "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "crimson_fountain := 40s BLD",
     "exclusive": [
       ""
     ],
@@ -37,58 +50,6 @@
     "innates": {
       "Health": 5
     },
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "crimson_fountain": {
-    "name": "Crimson Fountain",
-    "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "crimson_fountain := 40s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "rush_hour": {
-    "name": "Rush Hour",
-    "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",
-    "rarity": "Rare",
-    "category": "Bloodrender",
-    "reqs": "rush_hour := 50s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "adept_bloodrender": {
-    "name": "Adept Bloodrender",
-    "desc": "You can now obtain 1-star Bloodrender mantras.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "bloodrender => adept_bloodrender := 20s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": true,
-    "vaulted": false
-  },
-  "bloodrender": {
-    "name": "Bloodrender",
-    "desc": "Gain the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish blood, steal blood, and apply 'Blood Poisoning'.",
-    "rarity": "Common",
-    "category": "Bloodrender",
-    "reqs": "bloodrender := 1s BLD",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
     "not_counted_towards_total": true,
     "vaulted": false
   },
@@ -118,17 +79,56 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "expert_bloodrender": {
-    "name": "Expert Bloodrender",
-    "desc": "You can now obtain 2-star Bloodrender mantras.",
+  "rush_hour": {
+    "name": "Rush Hour",
+    "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",
+    "rarity": "Rare",
+    "category": "Bloodrender",
+    "reqs": "rush_hour := 50s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "sheltering_grasp": {
+    "name": "Sheltering Grasp",
+    "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
     "rarity": "Common",
     "category": "Bloodrender",
-    "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
+    "reqs": "sheltering_grasp := 30s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "bloodrender": {
+    "name": "Bloodrender",
+    "desc": "Gain the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish blood, steal blood, and apply 'Blood Poisoning'.",
+    "rarity": "Common",
+    "category": "Bloodrender",
+    "reqs": "bloodrender := 1s BLD",
     "exclusive": [
       ""
     ],
     "innates": {},
     "not_counted_towards_total": true,
+    "vaulted": false
+  },
+  "hemorrhaging_blow": {
+    "name": "Hemorrhaging Blow",
+    "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
+    "rarity": "Rare",
+    "category": "Bloodrender",
+    "reqs": "master_bloodrender => hemorrhaging_blow := 95s BLD",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
     "vaulted": false
   }
 }

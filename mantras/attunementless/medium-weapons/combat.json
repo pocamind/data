@@ -11,16 +11,16 @@
     "reqs": "twincleave := 50r MED",
     "vaulted": false
   },
-  "prominence_draw": {
-    "name": "Prominence Draw",
-    "desc": "Close the distance and deliver a fast slash.",
+  "flashdraw_strike": {
+    "name": "Flashdraw Strike",
+    "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
     "stars": 0,
     "category": "Combat",
     "type": "Attunementless",
     "attributes": [
       "Medium Weapons"
     ],
-    "reqs": "prominence_draw := 50r MED",
+    "reqs": "flashdraw_strike := 25r AGL, 60r MED",
     "vaulted": false
   },
   "slice_n_dice": {
@@ -35,16 +35,16 @@
     "reqs": "slice_n_dice := 60r MED",
     "vaulted": false
   },
-  "flashdraw_strike": {
-    "name": "Flashdraw Strike",
-    "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
+  "prominence_draw": {
+    "name": "Prominence Draw",
+    "desc": "Close the distance and deliver a fast slash.",
     "stars": 0,
     "category": "Combat",
     "type": "Attunementless",
     "attributes": [
       "Medium Weapons"
     ],
-    "reqs": "flashdraw_strike := 25r AGL, 60r MED",
+    "reqs": "prominence_draw := 50r MED",
     "vaulted": false
   },
   "masters_flourish": {

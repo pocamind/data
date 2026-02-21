@@ -1,0 +1,14 @@
+{
+  "bone_wisp": {
+    "name": "Bone Wisp",
+    "desc": "A servant of bone, powered by the Eternal Gale.",
+    "stars": 0,
+    "category": "Wisp",
+    "type": "Monster",
+    "attributes": [
+      "Monster Mantra"
+    ],
+    "reqs": "bone_wisp := ()",
+    "vaulted": false
+  }
+}

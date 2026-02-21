@@ -8,21 +8,6 @@
     "exclusive": [
       ""
     ],
-    "innates": {
-      "Carry Load": 1
-    },
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "defiance": {
-    "name": "Defiance",
-    "desc": "Negative status effects are half as effective when you are below 35% HP.",
-    "rarity": "Rare",
-    "category": "Champion",
-    "reqs": "defiance := 70s WLL",
-    "exclusive": [
-      ""
-    ],
     "innates": {},
     "not_counted_towards_total": false,
     "vaulted": false
@@ -33,6 +18,19 @@
     "rarity": "Common",
     "category": "Champion",
     "reqs": "underdog := 30s WLL",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "defiance": {
+    "name": "Defiance",
+    "desc": "Negative status effects are half as effective when you are below 35% HP.",
+    "rarity": "Rare",
+    "category": "Champion",
+    "reqs": "defiance := 70s WLL",
     "exclusive": [
       ""
     ],

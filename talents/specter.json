@@ -1,10 +1,10 @@
 {
-  "possession": {
-    "name": "Possession",
-    "desc": "After an apparition hits an enemy, receive 15% posture damage on all Galebreath attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.\n[*This talent loses some effectiveness when below its requirements.]",
-    "rarity": "Advanced",
+  "phantom_step": {
+    "name": "Phantom Step",
+    "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)",
+    "rarity": "Common",
     "category": "Specter",
-    "reqs": "haunted_path_specter => possession := 75s WND",
+    "reqs": "haunted_path_specter => phantom_step := 55s WND",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "phantom_step": {
-    "name": "Phantom Step",
-    "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)",
+  "apparitions": {
+    "name": "Apparitions",
+    "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
     "rarity": "Common",
     "category": "Specter",
-    "reqs": "haunted_path_specter => phantom_step := 55s WND",
+    "reqs": "haunted_path_specter => apparitions := 50s WND",
     "exclusive": [
       ""
     ],
@@ -38,12 +38,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "apparitions": {
-    "name": "Apparitions",
-    "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
-    "rarity": "Common",
+  "possession": {
+    "name": "Possession",
+    "desc": "After an apparition hits an enemy, receive 7.5% posture damage on all Galebreath attacks for 8 seconds. If the apparition hits while you have Phantom Step activated, receive a 7.55% chip damage buff as well for 6 seconds.\n[*This talent loses some effectiveness when below its requirements.]",
+    "rarity": "Advanced",
     "category": "Specter",
-    "reqs": "haunted_path_specter => apparitions := 50s WND",
+    "reqs": "haunted_path_specter => possession := 75s WND",
     "exclusive": [
       ""
     ],

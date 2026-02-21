@@ -1,153 +1,10 @@
 {
-  "swift_strike": {
-    "name": "Swift Strike",
-    "desc": "Hitting your opponent's back with an M1 will enhance your nextc ritical, turning into a teleport backstab that procs all assassination Talents. Doesn't go away until you cast your critical. 20s CD.",
-    "rarity": "Equipment",
-    "category": "Weapon",
-    "reqs": "swift_strike := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "vital_wound": {
-    "name": "Vital Wound",
-    "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "vital_wound := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "expeditious_combo": {
-    "name": "Expeditious Combo",
-    "desc": "Landing an uppercut will grant you a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "expeditious_combo := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "bulwark_breaker": {
-    "name": "Bulwark Breaker",
-    "desc": "Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "bulwark_breaker := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "blitz": {
-    "name": "Blitz",
-    "desc": "Increase how quick you release your Prominence Draw.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "blitz := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "curved_edge": {
-    "name": "Curved Edge",
-    "desc": "Your light weapon mantras now gain 30% more chip.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "curved_edge := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "punishing_riposte": {
-    "name": "Punishing Riposte",
-    "desc": "When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "punishing_riposte := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "sovereigns_counter": {
-    "name": "Sovereign's Counter",
-    "desc": "Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "sovereigns_counter := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "belief": {
     "name": "Belief",
     "desc": "Your medium weapon mantras now deal extra damage based on how much Willpower you have.",
     "rarity": "Common",
     "category": "Weapon",
     "reqs": "belief := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "finishing_slay": {
-    "name": "Finishing Slay",
-    "desc": "If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "finishing_slay := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "battle_frenzy": {
-    "name": "Battle Frenzy",
-    "desc": "The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.",
-    "rarity": "Common",
-    "category": "Weapon",
-    "reqs": "battle_frenzy := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "bloodthirsty": {
-    "name": "Bloodthirsty",
-    "desc": "Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.",
-    "rarity": "Equipment",
-    "category": "Weapon",
-    "reqs": "bloodthirsty := ()",
     "exclusive": [
       ""
     ],
@@ -174,6 +31,240 @@
     "rarity": "Common",
     "category": "Weapon",
     "reqs": "assassins_strike := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "battle_frenzy": {
+    "name": "Battle Frenzy",
+    "desc": "The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "battle_frenzy := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "careful_stance": {
+    "name": "Careful Stance",
+    "desc": "Gain a bit more autoparry frames on successful parries.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "careful_stance := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "fortify": {
+    "name": "Fortify",
+    "desc": "Slow down your movement in exchange for fortifying your defenses.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "fortify := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "true_shatter": {
+    "name": "True Shatter",
+    "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off of how slow they were.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "true_shatter := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "blitz": {
+    "name": "Blitz",
+    "desc": "Increase how quick you release your Prominence Draw.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "blitz := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "sovereigns_counter": {
+    "name": "Sovereign's Counter",
+    "desc": "Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "sovereigns_counter := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "subzero": {
+    "name": "Subzero",
+    "desc": "Landing running attacks inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "subzero := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "bulwark_breaker": {
+    "name": "Bulwark Breaker",
+    "desc": "Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "bulwark_breaker := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "vital_wound": {
+    "name": "Vital Wound",
+    "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "vital_wound := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "sable_winds": {
+    "name": "Sable Winds",
+    "desc": "You can now Inhale Shadowcast mantras. Aftercut effects now drain a small almount of ether based on the damage they deal.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "sable_winds := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "punishing_riposte": {
+    "name": "Punishing Riposte",
+    "desc": "When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "punishing_riposte := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "expeditious_combo": {
+    "name": "Expeditious Combo",
+    "desc": "Landing an uppercut will grant you a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "expeditious_combo := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "finishing_slay": {
+    "name": "Finishing Slay",
+    "desc": "If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "finishing_slay := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "phantom": {
+    "name": "Phantom",
+    "desc": "For the next 5 seconds, your basic attack bypasses block after landing a crit. [45s cd]",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "phantom := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "curved_edge": {
+    "name": "Curved Edge",
+    "desc": "Your light weapon mantras now gain 30% more chip.",
+    "rarity": "Common",
+    "category": "Weapon",
+    "reqs": "curved_edge := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "swift_strike": {
+    "name": "Swift Strike",
+    "desc": "Hitting your opponent's back with an M1 will enhance your nextc ritical, turning into a teleport backstab that procs all assassination Talents. Doesn't go away until you cast your critical. 20s CD.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "swift_strike := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "soar": {
+    "name": "Soar",
+    "desc": "Retain full walkspeed while using your crit.\n[*Note; This Talent makes you retain full momentum, not walkspeed. It does not work with Motifs.]",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "soar := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "bloodthirsty": {
+    "name": "Bloodthirsty",
+    "desc": "Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.",
+    "rarity": "Equipment",
+    "category": "Weapon",
+    "reqs": "bloodthirsty := ()",
     "exclusive": [
       ""
     ],

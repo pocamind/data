@@ -1,10 +1,10 @@
 {
-  "static_link": {
-    "name": "Static Link",
-    "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
+  "static_allure": {
+    "name": "Static Allure",
+    "desc": "Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.",
     "rarity": "Common",
     "category": "Static Weaver",
-    "reqs": "static_link := 15s INT, 40s LTN",
+    "reqs": "static_link => static_allure := 15s INT, 50s LTN",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static_ace": {
-    "name": "Static Ace",
-    "desc": "Using Lightning Stream with an active tether targets your closest active link.",
+  "static_link": {
+    "name": "Static Link",
+    "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
     "rarity": "Common",
     "category": "Static Weaver",
-    "reqs": "static_link => static_ace := 15s INT, 70s LTN",
+    "reqs": "static_link := 15s INT, 40s LTN",
     "exclusive": [
       ""
     ],
@@ -51,12 +51,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "static_allure": {
-    "name": "Static Allure",
-    "desc": "Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.",
+  "static_ace": {
+    "name": "Static Ace",
+    "desc": "Using Lightning Stream with an active tether targets your closest active link.",
     "rarity": "Common",
     "category": "Static Weaver",
-    "reqs": "static_link => static_allure := 15s INT, 50s LTN",
+    "reqs": "static_link => static_ace := 15s INT, 70s LTN",
     "exclusive": [
       ""
     ],

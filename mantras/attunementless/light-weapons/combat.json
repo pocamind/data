@@ -1,16 +1,4 @@
 {
-  "karita_divebomb": {
-    "name": "Karita Divebomb",
-    "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
-    "stars": 0,
-    "category": "Combat",
-    "type": "Attunementless",
-    "attributes": [
-      "Light Weapons"
-    ],
-    "reqs": "karita_divebomb := 20r LHT",
-    "vaulted": false
-  },
   "rapid_slashes": {
     "name": "Rapid Slashes",
     "desc": "Rush down your opponent cutting them apart.",
@@ -21,6 +9,18 @@
       "Light Weapons"
     ],
     "reqs": "rapid_slashes := 30r LHT",
+    "vaulted": false
+  },
+  "karita_divebomb": {
+    "name": "Karita Divebomb",
+    "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
+    "stars": 0,
+    "category": "Combat",
+    "type": "Attunementless",
+    "attributes": [
+      "Light Weapons"
+    ],
+    "reqs": "karita_divebomb := 20r LHT",
     "vaulted": false
   },
   "ceaseless_slashes": {

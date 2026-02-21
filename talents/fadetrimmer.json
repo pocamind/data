@@ -1,10 +1,10 @@
 {
-  "hair_products": {
-    "name": "Hair Products",
-    "desc": "Select Hair Products to apply to others with your Hair Spray.",
+  "hair_spray": {
+    "name": "Hair Spray",
+    "desc": "Apply your Hair Products.",
     "rarity": "Oath",
     "category": "Fadetrimmer",
-    "reqs": "oath_fadetrimmer => hair_products := ()",
+    "reqs": "oath_fadetrimmer => hair_spray := ()",
     "exclusive": [
       ""
     ],
@@ -12,12 +12,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "hair_spray": {
-    "name": "Hair Spray",
-    "desc": "Apply your Hair Products.",
+  "hair_products": {
+    "name": "Hair Products",
+    "desc": "Select Hair Products to apply to others with your Hair Spray.",
     "rarity": "Oath",
     "category": "Fadetrimmer",
-    "reqs": "oath_fadetrimmer => hair_spray := ()",
+    "reqs": "oath_fadetrimmer => hair_products := ()",
     "exclusive": [
       ""
     ],

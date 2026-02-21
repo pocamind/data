@@ -1,23 +1,10 @@
 {
-  "sleight_of_hand": {
-    "name": "Sleight of Hand",
-    "desc": "[1H Guns] When you flourish an opponent, you instantly load a bullet.",
+  "lock_n_load": {
+    "name": "Lock n Load",
+    "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%. After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with the number of bullets up to 15%.",
     "rarity": "Common",
     "category": "Outlaw",
-    "reqs": "sleight_of_hand := 50s LHT",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "rapid_fire": {
-    "name": "Rapid Fire",
-    "desc": "[1H Guns] When you land a critical shot gain the ability to rapidly fire your critical for 2s. 12s cooldown.",
-    "rarity": "Common",
-    "category": "Outlaw",
-    "reqs": "rapid_fire := 50s LHT",
+    "reqs": "lock_n_load := 60s LHT",
     "exclusive": [
       ""
     ],
@@ -38,12 +25,12 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
-  "lock_n_load": {
-    "name": "Lock n Load",
-    "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%. After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with the number of bullets up to 15%.",
+  "sleight_of_hand": {
+    "name": "Sleight of Hand",
+    "desc": "[1H Guns] When you flourish an opponent, you instantly load a bullet.",
     "rarity": "Common",
     "category": "Outlaw",
-    "reqs": "lock_n_load := 60s LHT",
+    "reqs": "sleight_of_hand := 50s LHT",
     "exclusive": [
       ""
     ],
@@ -57,6 +44,19 @@
     "rarity": "Common",
     "category": "Outlaw",
     "reqs": "rapid_fire => ultrakill := 55s LHT",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "rapid_fire": {
+    "name": "Rapid Fire",
+    "desc": "[1H Guns] When you land a critical shot gain the ability to rapidly fire your critical for 2s. 12s cooldown.",
+    "rarity": "Common",
+    "category": "Outlaw",
+    "reqs": "rapid_fire := 50s LHT",
     "exclusive": [
       ""
     ],

@@ -1,10 +1,38 @@
 {
+  "the_floor_is_lava": {
+    "name": "The Floor is Lava",
+    "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
+    "rarity": "Advanced",
+    "category": "Lava Serpent",
+    "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
+    "exclusive": [
+      "The_Final_Act",
+      "Wraith_Path_Twisted_Puppets"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
   "flash_point": {
     "name": "Flash Point",
     "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
     "rarity": "Common",
     "category": "Lava Serpent",
     "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
+    "exclusive": [
+      "The_Final_Act",
+      "Wraith_Path_Twisted_Puppets"
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "empowered_eruption": {
+    "name": "Empowered Eruption",
+    "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
+    "rarity": "Common",
+    "category": "Lava Serpent",
+    "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
     "exclusive": [
       "The_Final_Act",
       "Wraith_Path_Twisted_Puppets"
@@ -24,34 +52,6 @@
       "Wraith_Path_Twisted_Puppets",
       "Flashboil",
       "Boiling_Point"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "the_floor_is_lava": {
-    "name": "The Floor is Lava",
-    "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
-    "rarity": "Advanced",
-    "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
-    "exclusive": [
-      "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets"
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
-  "empowered_eruption": {
-    "name": "Empowered Eruption",
-    "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
-    "rarity": "Common",
-    "category": "Lava Serpent",
-    "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
-    "exclusive": [
-      "The_Final_Act",
-      "Wraith_Path_Twisted_Puppets"
     ],
     "innates": {},
     "not_counted_towards_total": false,

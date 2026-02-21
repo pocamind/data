@@ -1,17 +1,4 @@
 {
-  "symbiotic_link": {
-    "name": "Symbiotic Link",
-    "desc": "Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.",
-    "rarity": "Oath",
-    "category": "Linkstrider",
-    "reqs": "oath_linkstrider => symbiotic_link := ()",
-    "exclusive": [
-      ""
-    ],
-    "innates": {},
-    "not_counted_towards_total": false,
-    "vaulted": false
-  },
   "oath_linkstrider": {
     "name": "Oath: Linkstrider",
     "desc": "The Entropy Catalyst generated enough force to fundamentally change your state of existence. You now exist between two states, your newfound clarity making the imperceptible Bonds between all souls malleable to you.",
@@ -34,6 +21,19 @@
     "rarity": "Oath",
     "category": "Linkstrider",
     "reqs": "oath_linkstrider => entropy_link := ()",
+    "exclusive": [
+      ""
+    ],
+    "innates": {},
+    "not_counted_towards_total": false,
+    "vaulted": false
+  },
+  "symbiotic_link": {
+    "name": "Symbiotic Link",
+    "desc": "Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.",
+    "rarity": "Oath",
+    "category": "Linkstrider",
+    "reqs": "oath_linkstrider => symbiotic_link := ()",
     "exclusive": [
       ""
     ],
