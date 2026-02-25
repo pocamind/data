@@ -1,0 +1,18 @@
+{
+  "name": "Armor Piercing [MED]",
+  "desc": "[Guns] Your gun attacks now ignore 10% of an opponent's physical armor. Applied multiplicatively before PEN is applied.",
+  "rarity": "Rare",
+  "category": "Gunslinger",
+  "reqs": "armor_piercing_med := 30r MED",
+  "exclusive": [
+    "Bulletproof_FTD",
+    "Bulletproof_MED",
+    "Bulletproof_LHT",
+    "Armor_Piercing_LHT"
+  ],
+  "innates": {
+    "Ether": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

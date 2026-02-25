@@ -1,0 +1,13 @@
+{
+  "name": "Ankle Cutter",
+  "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.",
+  "rarity": "Oath",
+  "category": "Silentheart",
+  "reqs": "oath_silentheart => ankle_cutter := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

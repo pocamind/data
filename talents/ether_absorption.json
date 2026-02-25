@@ -1,0 +1,13 @@
+{
+  "name": "Ether Absorption",
+  "desc": "Receive Ether back when inflicted with damage from Mantras.",
+  "rarity": "Common",
+  "category": "Ether Conduit",
+  "reqs": "ether_absorption := 15s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

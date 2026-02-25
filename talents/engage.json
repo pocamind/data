@@ -1,0 +1,13 @@
+{
+  "name": "Engage",
+  "desc": "Landing a Basic Attack slightly restores some of your Ether.",
+  "rarity": "Quest",
+  "category": "Warrior",
+  "reqs": "engage := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

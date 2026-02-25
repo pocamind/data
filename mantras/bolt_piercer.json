@@ -1,0 +1,12 @@
+{
+  "name": "Bolt Piercer",
+  "desc": "An arrow of lighting.\t",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "bolt_piercer := 30r LTN",
+  "vaulted": false
+}

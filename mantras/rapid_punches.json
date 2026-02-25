@@ -1,0 +1,12 @@
+{
+  "name": "Rapid Punches",
+  "desc": "Unleash a barrage of blows against your foes.\t\r\n",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Strength"
+  ],
+  "reqs": "rapid_punches := 20r STR",
+  "vaulted": false
+}

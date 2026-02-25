@@ -1,0 +1,12 @@
+{
+  "name": "Lightning Clones",
+  "desc": "Replicated forms of yourself conjured from electricity.\t",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "lightning_clones := 20r LTN",
+  "vaulted": false
+}

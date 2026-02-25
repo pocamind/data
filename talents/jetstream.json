@@ -1,0 +1,16 @@
+{
+  "name": "Jetstream",
+  "desc": "The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.",
+  "rarity": "Equipment",
+  "category": "Unknown",
+  "reqs": "jetstream := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 1,
+    "Wind Armor Percentage": 8
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

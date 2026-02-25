@@ -1,0 +1,13 @@
+{
+  "name": "Blossoming Darkness",
+  "desc": "Ether drained during Shadow Roar increases the size of it.",
+  "rarity": "Common",
+  "category": "Shadowcaster",
+  "reqs": "blossoming_darkness := 30s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

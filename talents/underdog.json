@@ -1,0 +1,13 @@
+{
+  "name": "Underdog",
+  "desc": "You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.",
+  "rarity": "Common",
+  "category": "Champion",
+  "reqs": "underdog := 30s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

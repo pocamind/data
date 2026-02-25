@@ -1,0 +1,12 @@
+{
+  "name": "Fire Gun",
+  "desc": "Shoot successive bullets of fire from your fingertips.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "fire_gun := 1r FLM",
+  "vaulted": false
+}

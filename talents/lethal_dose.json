@@ -1,0 +1,13 @@
+{
+  "name": "Lethal Dose",
+  "desc": "Doubles the duration of your poison from your hidden blade.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "lethal_dose := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Static Allure",
+  "desc": "Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.",
+  "rarity": "Common",
+  "category": "Static Weaver",
+  "reqs": "static_link => static_allure := 15s INT, 50s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stoneheart",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "stoneheart := 20r STR, 80r HVY",
+  "damage": 24.0,
+  "pen": 0.1,
+  "chip": 0.1,
+  "weight": 12.0,
+  "range": 8.5,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 10.0
+  }
+}

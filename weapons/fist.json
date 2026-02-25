@@ -1,0 +1,16 @@
+{
+  "name": "Fist",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "fist := ()",
+  "damage": 12.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 3.0,
+  "range": 6.0,
+  "speed": 1.11,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 7.0
+  }
+}

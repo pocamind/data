@@ -1,0 +1,27 @@
+{
+  "name": "Justicar's Armor",
+  "category": "Master",
+  "durability": 2800,
+  "resistances": {
+    "Blunt Resistance": 0.05,
+    "Elemental Resistance": 0.3,
+    "Ice Resistance": 0.05,
+    "Physical Resistance": 0.3,
+    "Shadow Resistance": 0.05
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 20
+  },
+  "talent": "The Path, Unveiled",
+  "reqs": "justicars_armor := 240r TTL",
+  "mats": {
+    "Cloth": 5,
+    "Dark Feather": 1,
+    "Thresher Spine": 4,
+    "Wayward Gem": 1,
+    "Gale Stone": 5,
+    "Fiber": 5
+  },
+  "notes": 1000
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Buster Call",
+  "desc": "Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. 1d CD.\n[*Note: Applies burn on hit, doesn't knock players.]",
+  "rarity": "Faction",
+  "category": "Dread Imperium",
+  "reqs": "buster_call := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Visionshaper",
+  "desc": "You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands.",
+  "rarity": "Oath",
+  "category": "Visionshaper",
+  "reqs": "oath_visionshaper := 50s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Support Mantra": 1,
+    "Combat Mantra": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

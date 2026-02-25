@@ -1,0 +1,13 @@
+{
+  "name": "Static Flash Clone",
+  "desc": "When using lightning clones you disappear leaving behind a static clone for a short duration.",
+  "rarity": "Common",
+  "category": "Thundercaller",
+  "reqs": "static_flash_clone := 30s AGL, 35s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

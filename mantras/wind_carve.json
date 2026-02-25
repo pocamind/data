@@ -1,0 +1,12 @@
+{
+  "name": "Wind Carve",
+  "desc": "A quick swirl of sharp winds.\r",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "wind_carve := 30r WND",
+  "vaulted": false
+}

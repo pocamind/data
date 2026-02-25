@@ -1,0 +1,16 @@
+{
+  "name": "Risky Moves",
+  "desc": "When you successfully dodge, you'll automatically dodge the next attack.",
+  "rarity": "Rare",
+  "category": "Butterfly",
+  "reqs": "risky_moves := 25s AGL",
+  "exclusive": [
+    "Observation",
+    "Safety_Dance"
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

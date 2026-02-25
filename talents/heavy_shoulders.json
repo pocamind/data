@@ -1,0 +1,13 @@
+{
+  "name": "Heavy Shoulders",
+  "desc": "If your opponent has 3 or more rods, their dodges are slower.",
+  "rarity": "Common",
+  "category": "Ironsinger",
+  "reqs": "heavy_shoulders := 55s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

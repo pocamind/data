@@ -1,0 +1,16 @@
+{
+  "name": "Serpent's Edge",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "serpents_edge := 75r MED",
+  "damage": 22.0,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 6.0,
+  "range": 8.2,
+  "speed": 0.97,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Heavy Hitter",
+  "desc": "[Heavy Weapons] Your Basic Attack posture damage is increased by 10%.",
+  "rarity": "Common",
+  "category": "Colossus",
+  "reqs": "heavy_hitter := 15s STR, 25s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

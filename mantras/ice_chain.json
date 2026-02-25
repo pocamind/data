@@ -1,0 +1,12 @@
+{
+  "name": "Ice Chain",
+  "desc": "Chains of ice.\r\n",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_chain := 20r ICE",
+  "vaulted": false
+}

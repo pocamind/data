@@ -1,0 +1,22 @@
+{
+  "name": "Bounty Hunter",
+  "category": "Master",
+  "durability": 1500,
+  "resistances": {
+    "Flame Resistance": 0.05,
+    "Elemental Resistance": 0.1,
+    "Physical Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Lightweight",
+  "reqs": "bounty_hunter := 90r TTL",
+  "mats": {
+    "Eternal Longstone": 1,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "notes": 0
+}

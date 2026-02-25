@@ -1,0 +1,13 @@
+{
+  "name": "Swiftkick Prodigy",
+  "desc": "Hitting successive basic attacks with Jus Karita will give you a temporary speed buff.",
+  "rarity": "Common",
+  "category": "Justicar",
+  "reqs": "jus_karita => swiftkick_prodigy := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

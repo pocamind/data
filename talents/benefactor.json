@@ -1,0 +1,13 @@
+{
+  "name": "Benefactor",
+  "desc": "Gain reputation for selling goods to Antiquarians within faction territories.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "benefactor := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

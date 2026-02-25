@@ -1,0 +1,15 @@
+{
+  "name": "Savior",
+  "desc": "After saving a player from being gripped gain a short speed boost for a short duration.",
+  "rarity": "Common",
+  "category": "Liberator",
+  "reqs": "savior := 15s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Sanity": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

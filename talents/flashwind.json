@@ -1,0 +1,13 @@
+{
+  "name": "Flashwind",
+  "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "flashwind := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

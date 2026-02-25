@@ -1,0 +1,12 @@
+{
+  "name": "Illusory Counter",
+  "desc": "If hit during the pose, negate the attacks and teleport the user behind the attacker.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Visionshaper"
+  ],
+  "reqs": "oath_visionshaper => illusory_counter := ()",
+  "vaulted": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pathfinder Cloak",
+  "category": "Master",
+  "durability": 1200,
+  "resistances": {
+    "Elemental Resistance": 0.08,
+    "Physical Resistance": 0.18
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": "Environmentalist",
+  "reqs": "pathfinder_cloak := 90r TTL",
+  "mats": {
+    "Fiber": 4,
+    "Cloth": 4,
+    "Iron": 6
+  },
+  "notes": 30
+}

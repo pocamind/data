@@ -1,0 +1,15 @@
+{
+  "name": "Lowstride",
+  "desc": "When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently.",
+  "rarity": "Common",
+  "category": "Assassin",
+  "reqs": "lowstride := 20s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

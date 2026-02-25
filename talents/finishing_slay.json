@@ -1,0 +1,13 @@
+{
+  "name": "Finishing Slay",
+  "desc": "If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "finishing_slay := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

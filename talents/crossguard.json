@@ -1,0 +1,13 @@
+{
+  "name": "Crossguard",
+  "desc": "If you are using a sword, you gain 10% chip against other opponents using swords.",
+  "rarity": "Faction",
+  "category": "Battle Readiness",
+  "reqs": "crossguard := 1s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

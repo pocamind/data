@@ -1,0 +1,13 @@
+{
+  "name": "Repeated Blows",
+  "desc": "Any strength mantra that has a Wrath Gem on it will reset its cooldown if you land a critical while a Wrath Gem is active.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "repeated_blows := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

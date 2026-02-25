@@ -1,0 +1,15 @@
+{
+  "name": "Cheap Shot",
+  "desc": "Your attacks gain up to 10% PEN multiplicatively when you have an active speed boost.\n[*Note: 5% to 10% PEN between 20 and 65 Agility.]",
+  "rarity": "Rare",
+  "category": "Trickster",
+  "reqs": "cheap_shot := 65s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 6
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Petra's Anchor",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "petras_anchor := 10r STR, 75r HVY",
+  "damage": 26.0,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 9.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 8.0
+  }
+}

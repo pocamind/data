@@ -1,0 +1,13 @@
+{
+  "name": "Sable Winds",
+  "desc": "You can now Inhale Shadowcast mantras. Aftercut effects now drain a small almount of ether based on the damage they deal.",
+  "rarity": "Equipment",
+  "category": "Weapon",
+  "reqs": "sable_winds := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

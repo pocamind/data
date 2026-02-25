@@ -1,0 +1,13 @@
+{
+  "name": "Apothecary",
+  "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.",
+  "rarity": "Common",
+  "category": "Alchemist",
+  "reqs": "apothecary := 10s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

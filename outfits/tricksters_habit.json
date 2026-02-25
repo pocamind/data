@@ -1,0 +1,22 @@
+{
+  "name": "Trickster's Habit",
+  "category": "Master",
+  "durability": 2500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Blunt Resistance": 0.15,
+    "Elemental Resistance": 0.35
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 50
+  },
+  "talent": "Mocking Favor",
+  "reqs": "tricksters_habit := 195r TTL",
+  "mats": {
+    "Vibrant Gem": 10,
+    "Fiber": 5,
+    "Cloth": 7
+  },
+  "notes": 400
+}

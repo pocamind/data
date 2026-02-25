@@ -1,0 +1,13 @@
+{
+  "name": "Pleeksty's Will",
+  "desc": "You gain some Ether from consuming elemental ingredients.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "pleekstys_will := 20s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

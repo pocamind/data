@@ -1,0 +1,13 @@
+{
+  "name": "Sharing is Caring",
+  "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
+  "rarity": "Common",
+  "category": "Scarlet Donor",
+  "reqs": "charismatic_cast => sharing_is_caring := 30s CHA, 50s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

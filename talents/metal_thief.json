@@ -1,0 +1,13 @@
+{
+  "name": "Metal Thief",
+  "desc": "Pulling an opponent absorbs a portion of their current Armor durability.",
+  "rarity": "Common",
+  "category": "Metallurgist",
+  "reqs": "metal_thief := 50s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

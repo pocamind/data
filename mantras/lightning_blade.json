@@ -1,0 +1,12 @@
+{
+  "name": "Lightning Blade",
+  "desc": "Arcing blades of electricity.\t",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "lightning_blade := 1r LTN",
+  "vaulted": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Crypt Blade",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "crypt_blade := 40r HVY, 75r SDW",
+  "damage": 22.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 8.5,
+  "range": 9.0,
+  "speed": 0.85,
+  "endlag": 0.15,
+  "scaling": {
+    "Heavy Wep.": 4.0,
+    "Shadowcast": 9.0
+  }
+}

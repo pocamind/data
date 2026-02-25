@@ -1,0 +1,12 @@
+{
+  "name": "Shadow Gun",
+  "desc": "An awful blast of dark energy.\n[*Guard breaks at Level 5 **without** Blast Spark]",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "shadow_gun := 1r SDW",
+  "vaulted": false
+}

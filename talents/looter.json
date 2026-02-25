@@ -1,0 +1,13 @@
+{
+  "name": "Looter",
+  "desc": "Gain extra loot from items you turn in for rewards.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "looter := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

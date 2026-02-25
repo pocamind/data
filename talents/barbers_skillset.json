@@ -1,0 +1,13 @@
+{
+  "name": "Barber's Skillset",
+  "desc": "What type of look are we going for today?",
+  "rarity": "Oath",
+  "category": "Fadetrimmer",
+  "reqs": "oath_fadetrimmer => barbers_skillset := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

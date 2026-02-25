@@ -1,0 +1,13 @@
+{
+  "name": "Hammerfall",
+  "desc": "[Clubs] Aerial attacks do 25% more posture damage when blocked.",
+  "rarity": "Common",
+  "category": "Hammer Rage",
+  "reqs": "hammerfall := 35s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

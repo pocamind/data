@@ -1,0 +1,15 @@
+{
+  "name": "Evasive Expert",
+  "desc": "Your speed boost granted from dodging is increased.",
+  "rarity": "Rare",
+  "category": "Butterfly",
+  "reqs": "swift_rebound => evasive_expert := 15s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

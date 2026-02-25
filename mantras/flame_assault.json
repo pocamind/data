@@ -1,0 +1,12 @@
+{
+  "name": "Flame Assault",
+  "desc": "Dash forward in a spiral of flames.",
+  "stars": 2,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "flame_assault := 30r FLM",
+  "vaulted": false
+}

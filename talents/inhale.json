@@ -1,0 +1,13 @@
+{
+  "name": "Inhale",
+  "desc": "Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant modifications and upgrades from the inhaled wind mantra are applied to the empowered mantra. Inhaling a spell will cause the wind to be applied to your Basic Attacks.",
+  "rarity": "Common",
+  "category": "Galeforce",
+  "reqs": "inhale := 60s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

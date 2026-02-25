@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Longspear",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "alloyed_longspear := 75r MED",
+  "damage": 20.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.5
+  }
+}

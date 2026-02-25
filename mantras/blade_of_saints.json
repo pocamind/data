@@ -1,0 +1,12 @@
+{
+  "name": "Blade of Saints",
+  "desc": "Conjure a blade attack depending on your Saint Stance.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Saintsworn"
+  ],
+  "reqs": "oath_saintsworn => blade_of_saints := ()",
+  "vaulted": false
+}

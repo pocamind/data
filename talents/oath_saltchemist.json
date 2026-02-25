@@ -1,0 +1,17 @@
+{
+  "name": "Oath: Saltchemist",
+  "desc": "You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.",
+  "rarity": "Oath",
+  "category": "Saltchemist",
+  "reqs": "oath_saltchemist := 75s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Wildcard Mantra": 1,
+    "Carry Load": 20,
+    "Support Mantra": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

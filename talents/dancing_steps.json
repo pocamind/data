@@ -1,0 +1,13 @@
+{
+  "name": "Dancing Steps",
+  "desc": "Fire mantras now move you in the direction you're facing.",
+  "rarity": "Common",
+  "category": "Flame Dancer",
+  "reqs": "dancing_steps := 35s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Precise Swing",
+  "desc": "After landing a critical your next basic attack will have +25% chip damage.",
+  "rarity": "Common",
+  "category": "Duelist",
+  "reqs": "precise_swing := 15s AGL, 25s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

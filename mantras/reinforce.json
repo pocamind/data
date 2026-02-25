@@ -1,0 +1,12 @@
+{
+  "name": "Reinforce",
+  "desc": "Buff those around you with extra defense and damage.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Attunementless",
+  "attributes": [
+    "Fortitude"
+  ],
+  "reqs": "reinforce := 50r FTD",
+  "vaulted": false
+}

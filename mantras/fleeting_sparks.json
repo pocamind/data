@@ -1,0 +1,12 @@
+{
+  "name": "Fleeting Sparks",
+  "desc": "Call forth notes of electricity that seek out your foes.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "fleeting_sparks := 20r LTN",
+  "vaulted": false
+}

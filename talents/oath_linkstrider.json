@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Linkstrider",
+  "desc": "The Entropy Catalyst generated enough force to fundamentally change your state of existence. You now exist between two states, your newfound clarity making the imperceptible Bonds between all souls malleable to you.",
+  "rarity": "Oath",
+  "category": "Linkstrider",
+  "reqs": "oath_linkstrider := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Support Mantra": 2,
+    "Wildcard Mantra": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

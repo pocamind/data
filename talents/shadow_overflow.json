@@ -1,0 +1,13 @@
+{
+  "name": "Shadow Overflow",
+  "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "dark_god => shadow_overflow := 55s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

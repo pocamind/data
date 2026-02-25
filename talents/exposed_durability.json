@@ -1,0 +1,13 @@
+{
+  "name": "Exposed Durability",
+  "desc": "Deal +10% damage to opponents with no armor durability left.",
+  "rarity": "Common",
+  "category": "Adaptive Arsenal",
+  "reqs": "exposed_durability := 60s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

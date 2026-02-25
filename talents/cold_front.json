@@ -1,0 +1,13 @@
+{
+  "name": "Cold Front",
+  "desc": "Your Vent is imbued with glacial frost.",
+  "rarity": "Common",
+  "category": "Frostdrawer",
+  "reqs": "cryonis => cold_front := 25s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Panacea",
+  "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.\n[*Note: Lasts for 7 seconds.]",
+  "rarity": "Rare",
+  "category": "Septicemia",
+  "reqs": "panacea := 65s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

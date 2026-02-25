@@ -1,0 +1,15 @@
+{
+  "name": "Hidden Tendril",
+  "desc": "Landing any physical mantra or critical places a hidden tendril on the opponent.",
+  "rarity": "Oath",
+  "category": "Contractor",
+  "reqs": "oath_contractor => hidden_tendril := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Ether": 10
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

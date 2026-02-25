@@ -1,0 +1,24 @@
+{
+  "name": "Darkened Bastion",
+  "category": "Master",
+  "durability": 2600,
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Physical Resistance": 0.3,
+    "Shadow Resistance": 0.2
+  },
+  "extra_percents": {
+    "Extra Stealth": 50,
+    "Ether Regen": 50
+  },
+  "talent": "Withering Soul",
+  "reqs": "darkened_bastion := 240r TTL",
+  "mats": {
+    "Umbral Obsidian": 5,
+    "Cloth": 7,
+    "Void Feather": 1,
+    "Fiber": 5,
+    "Vibrant Gem": 10
+  },
+  "notes": 1000
+}

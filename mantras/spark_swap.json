@@ -1,0 +1,12 @@
+{
+  "name": "Spark Swap",
+  "desc": "Almost instantaneous swap of location with whoever your cursor is on.",
+  "stars": 3,
+  "category": "Support",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "spark_swap := 50r LTN",
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Storm Blades",
+  "desc": "Call forth a ring of blades to strike your enemies with furious lightning.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "storm_blades := 30r LTN",
+  "vaulted": false
+}

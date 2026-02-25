@@ -1,0 +1,13 @@
+{
+  "name": "Surestep",
+  "desc": "Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "surestep := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

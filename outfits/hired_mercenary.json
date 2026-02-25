@@ -1,0 +1,21 @@
+{
+  "name": "Hired Mercenary",
+  "category": "Master",
+  "durability": 1000,
+  "resistances": {
+    "Elemental Resistance": 0.1,
+    "Physical Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": null,
+  "reqs": "hired_mercenary := ()",
+  "mats": {
+    "Iron": 1,
+    "Fiber": 5,
+    "Cloth": 5
+  },
+  "notes": 25
+}

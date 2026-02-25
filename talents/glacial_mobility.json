@@ -1,0 +1,13 @@
+{
+  "name": "Glacial Mobility",
+  "desc": "Cast Ice Blade while slide-jumping to perform a special running attack.",
+  "rarity": "Common",
+  "category": "Frost Forger",
+  "reqs": "glacial_mobility := 20s AGL, 20s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

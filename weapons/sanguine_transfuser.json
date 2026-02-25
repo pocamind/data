@@ -1,0 +1,17 @@
+{
+  "name": "Sanguine Transfuser",
+  "type": "Dagger",
+  "damage_type": "Slash",
+  "reqs": "sanguine_transfuser := 50r LHT, 75r BLD",
+  "damage": 16.5,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 4.5,
+  "range": 6.5,
+  "speed": 1.22,
+  "endlag": 0.0,
+  "scaling": {
+    "Bloodrend": 4.0,
+    "Light Wep.": 6.5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Heavy Fatigue",
+  "desc": "[Greataxe] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.",
+  "rarity": "Rare",
+  "category": "Bruiser",
+  "reqs": "heavy_fatigue := 40s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

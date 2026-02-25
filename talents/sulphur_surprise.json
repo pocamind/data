@@ -1,0 +1,13 @@
+{
+  "name": "Sulphur Surprise",
+  "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages on enemy.",
+  "rarity": "Common",
+  "category": "Saboteur",
+  "reqs": "incendiary_formula => sulphur_surprise := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

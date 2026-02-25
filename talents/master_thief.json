@@ -1,0 +1,13 @@
+{
+  "name": "Master Thief",
+  "desc": "Gain more notes when mugging a player.",
+  "rarity": "Common",
+  "category": "Thief",
+  "reqs": "pickpocket => master_thief := 25s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

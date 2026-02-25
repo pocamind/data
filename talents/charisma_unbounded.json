@@ -1,0 +1,13 @@
+{
+  "name": "Charisma Unbounded",
+  "desc": "You have gained the ability to surpass your limits and train your charisma to its fullest.",
+  "rarity": "Common",
+  "category": "Mr Charm",
+  "reqs": "charisma_unbounded := 75s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Iron Gut [FORT]",
+  "desc": "You have resistance against being poisoned by foods.",
+  "rarity": "Common",
+  "category": "Survival Instinct",
+  "reqs": "iron_gut_fort := 20s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Scarlet Cannon",
+  "desc": "Create a giant blood beam.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "scarlet_cannon := 30r BLD",
+  "vaulted": false
+}

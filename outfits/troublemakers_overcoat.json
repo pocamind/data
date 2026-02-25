@@ -1,0 +1,22 @@
+{
+  "name": "Troublemaker's Overcoat",
+  "category": "Master",
+  "durability": 2500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": null,
+  "reqs": "troublemakers_overcoat := 135r TTL",
+  "mats": {
+    "Megalodaunt Hide": 5,
+    "Cloth": 10,
+    "Iron": 5,
+    "Fiber": 10
+  },
+  "notes": 100
+}

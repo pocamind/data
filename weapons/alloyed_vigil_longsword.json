@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Vigil Longsword",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "alloyed_vigil_longsword := 75r MED",
+  "damage": 20.0,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 7.5
+  }
+}

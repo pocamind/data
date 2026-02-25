@@ -1,0 +1,16 @@
+{
+  "name": "Pale Briar",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "pale_briar := 85r HVY",
+  "damage": 23.0,
+  "pen": 0.25,
+  "chip": 0.1,
+  "weight": 7.0,
+  "range": 10.0,
+  "speed": 0.81,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 7.5
+  }
+}

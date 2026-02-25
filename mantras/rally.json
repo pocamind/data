@@ -1,0 +1,12 @@
+{
+  "name": "Rally",
+  "desc": "Strike your shield a few times to absorb some of the posture received by your allies.\t\r",
+  "stars": 0,
+  "category": "Support",
+  "type": "Attunementless",
+  "attributes": [
+    "Fortitude"
+  ],
+  "reqs": "rally := 10r FTD",
+  "vaulted": false
+}

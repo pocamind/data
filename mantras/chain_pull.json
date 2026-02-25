@@ -1,0 +1,12 @@
+{
+  "name": "Chain Pull",
+  "desc": "Conjure a chain to pull your opponent.",
+  "stars": 1,
+  "category": "Support",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "chain_pull := 20r MTL",
+  "vaulted": false
+}

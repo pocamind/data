@@ -1,0 +1,12 @@
+{
+  "name": "Ice Spikes",
+  "desc": "Piercing spikes of ice.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_spikes := 1r ICE",
+  "vaulted": false
+}

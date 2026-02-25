@@ -1,0 +1,13 @@
+{
+  "name": "Brazen Blow",
+  "desc": "[Greataxe] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. 20s CD.",
+  "rarity": "Common",
+  "category": "Bruiser",
+  "reqs": "impairing_blow => brazen_blow := 30s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

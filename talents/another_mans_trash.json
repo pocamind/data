@@ -1,0 +1,15 @@
+{
+  "name": "Another Man's Trash",
+  "desc": "Take unequipped equipment when mugging a player.",
+  "rarity": "Advanced",
+  "category": "Thief",
+  "reqs": "cap_artist, pickpocket, master_thief => another_mans_trash := 10s AGL, 35s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

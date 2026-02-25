@@ -1,0 +1,13 @@
+{
+  "name": "Unyielding Inferno",
+  "desc": "Your flames burn just as strong even in the fiercest of storms.",
+  "rarity": "Common",
+  "category": "Flamecharmer",
+  "reqs": "flamecharmer => unyielding_inferno := 35s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

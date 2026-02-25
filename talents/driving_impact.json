@@ -1,0 +1,13 @@
+{
+  "name": "Driving Impact",
+  "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.",
+  "rarity": "Common",
+  "category": "Lancer",
+  "reqs": "driving_impact := 30s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

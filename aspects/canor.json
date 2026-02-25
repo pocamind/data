@@ -1,0 +1,8 @@
+{
+  "name": "Canor",
+  "innate": {
+    "Strength": 2,
+    "Charisma": 3
+  },
+  "is_pathfinder": true
+}

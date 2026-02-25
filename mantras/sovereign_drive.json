@@ -1,0 +1,12 @@
+{
+  "name": "Sovereign Drive",
+  "desc": "Dash forward in a blink, knocking down enemies in your path.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Blightsurger"
+  ],
+  "reqs": "oath_blightsurger => sovereign_drive := ()",
+  "vaulted": false
+}

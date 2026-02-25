@@ -1,0 +1,13 @@
+{
+  "name": "Volt Reflex",
+  "desc": "Your dodge window is increased with the power of your lightning, but also increases the cooldown of your dodges.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "volt_reflex := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

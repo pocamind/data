@@ -1,0 +1,13 @@
+{
+  "name": "Sanguine Siphon",
+  "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.",
+  "rarity": "Common",
+  "category": "Bloodrender",
+  "reqs": "sanguine_siphon := 40s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

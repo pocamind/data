@@ -1,0 +1,17 @@
+{
+  "name": "Oath: Jetstriker",
+  "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master.",
+  "rarity": "Oath",
+  "category": "Jetstriker",
+  "reqs": "oath_jetstriker := 50s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Mobility Mantra": 1,
+    "Wildcard Mantra": 1,
+    "Passive Agility": 8
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

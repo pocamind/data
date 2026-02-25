@@ -1,0 +1,15 @@
+{
+  "name": "Bloodiron Spirit",
+  "desc": "You regain some Armor upon killing enemies.",
+  "rarity": "Rare",
+  "category": "Soul Converter",
+  "reqs": "bloodiron_spirit := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

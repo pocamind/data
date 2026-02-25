@@ -1,0 +1,13 @@
+{
+  "name": "Windup Battery",
+  "desc": "Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%.",
+  "rarity": "Common",
+  "category": "Thunder Caster",
+  "reqs": "windup_battery := 30s INT, 30s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

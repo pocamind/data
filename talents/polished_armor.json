@@ -1,0 +1,13 @@
+{
+  "name": "Polished Armor",
+  "desc": "You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.",
+  "rarity": "Common",
+  "category": "Metallurgist",
+  "reqs": "polished_armor := 75s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

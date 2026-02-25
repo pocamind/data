@@ -1,0 +1,12 @@
+{
+  "name": "Updraft",
+  "desc": "A lifting torrent of wind.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "updraft := 20r WND",
+  "vaulted": false
+}

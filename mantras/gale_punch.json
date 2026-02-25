@@ -1,0 +1,12 @@
+{
+  "name": "Gale Punch",
+  "desc": "Form a punch of wind in your fist and release it.\r",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "gale_punch := 20r WND",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Immortality",
+  "desc": "The remnants of the helmet's Mind Veil stir into life when you would be knocked, soaking all damage for a brief duration. 30s CD. Viscocity is rejected.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "immortality := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

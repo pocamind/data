@@ -1,0 +1,13 @@
+{
+  "name": "Bottom Freeze",
+  "desc": "Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground.",
+  "rarity": "Common",
+  "category": "Ice Age",
+  "reqs": "bottom_freeze := 25s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

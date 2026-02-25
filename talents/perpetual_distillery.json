@@ -1,0 +1,13 @@
+{
+  "name": "Perpetual Distillery",
+  "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.",
+  "rarity": "Oath",
+  "category": "Saltchemist",
+  "reqs": "oath_saltchemist => perpetual_distillery := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Prediction",
+  "desc": "Predict an opponent's attack and reflect it.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Intelligence"
+  ],
+  "reqs": "prediction := 50r INT",
+  "vaulted": false
+}

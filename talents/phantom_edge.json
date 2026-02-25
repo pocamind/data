@@ -1,0 +1,13 @@
+{
+  "name": "Phantom Edge",
+  "desc": "Your weapon Basic Attacks have +0.25 range.",
+  "rarity": "Rare",
+  "category": "Adaptive Arsenal",
+  "reqs": "phantom_edge := 75s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

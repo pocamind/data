@@ -1,0 +1,12 @@
+{
+  "name": "Abyssal Ridge",
+  "desc": "Send a cascading eruption towards your foes, forcing them to react.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Monster",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "reqs": "abyssal_ridge := ()",
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bloodtide Trident (Bleed)",
+  "type": "Spear",
+  "damage_type": "Slash + Bleed",
+  "reqs": "bloodtide_trident_bleed := 75r MED",
+  "damage": 18.7,
+  "pen": 0.25,
+  "chip": 0.1,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.93,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

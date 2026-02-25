@@ -1,0 +1,13 @@
+{
+  "name": "Knack",
+  "desc": "Trees yield more Wood when felled. Your Repair speed is increased.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "knack := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

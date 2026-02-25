@@ -1,0 +1,13 @@
+{
+  "name": "Condensation Drip",
+  "desc": "Passively collect condensation from the air, greatly reducing your thirst.",
+  "rarity": "Common",
+  "category": "Cryomancer",
+  "reqs": "condensation_drip := 15s ICE, 20s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

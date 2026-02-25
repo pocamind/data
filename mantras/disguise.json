@@ -1,0 +1,12 @@
+{
+  "name": "Disguise",
+  "desc": "Take on an unimaginable disguise.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Monster",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "reqs": "disguise := 21r CHA",
+  "vaulted": false
+}

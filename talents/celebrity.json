@@ -1,0 +1,13 @@
+{
+  "name": "Celebrity",
+  "desc": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.",
+  "rarity": "Common",
+  "category": "Public Figure",
+  "reqs": "celebrity := 40s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

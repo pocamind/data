@@ -1,0 +1,13 @@
+{
+  "name": "Echolocator",
+  "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "echolocator := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

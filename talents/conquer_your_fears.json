@@ -1,0 +1,15 @@
+{
+  "name": "Conquer your Fears",
+  "desc": "Killing the beings of the deep replenishes your Sanity somewhat. When an ally grips an enemy nearby to you, you regain Sanity.",
+  "rarity": "Common",
+  "category": "Mental Fortress",
+  "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Sanity": 3
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dark Receiver",
+  "desc": "Shadow moves will also steal Ether from those you are Static Linked tethered to.",
+  "rarity": "Common",
+  "category": "Sapper",
+  "reqs": "static_link => dark_receiver := 40s LTN, 40s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

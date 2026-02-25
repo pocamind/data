@@ -1,0 +1,13 @@
+{
+  "name": "Electrolyte",
+  "desc": "Hitting Bloodrend mantras while having temporary health applies Shocked while removing a portion of temporary health.",
+  "rarity": "Common",
+  "category": "Bloodsong",
+  "reqs": "electrolyte := 40s LTN, 40s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Encircle",
+  "desc": "Conjure shadows around your enemy before warp-striking to them.",
+  "stars": 1,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "encircle := 20r SDW",
+  "vaulted": false
+}

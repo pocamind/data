@@ -1,0 +1,12 @@
+{
+  "name": "Flare Volley",
+  "desc": "Conjure up to 3 fireballs to volley at your enemies.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "flare_volley := 30r FLM",
+  "vaulted": false
+}

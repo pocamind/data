@@ -1,0 +1,13 @@
+{
+  "name": "Donation Drive",
+  "desc": "Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.\n[*Note: 12s to 8s CD between 20 and 60 Charisma.]",
+  "rarity": "Common",
+  "category": "Scarlet Donor",
+  "reqs": "manipulator => donation_drive := 50s BLD, 55s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

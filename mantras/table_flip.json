@@ -1,0 +1,12 @@
+{
+  "name": "Table Flip",
+  "desc": "Toss the ground infront of you.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Strength"
+  ],
+  "reqs": "table_flip := 40r STR",
+  "vaulted": false
+}

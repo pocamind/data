@@ -1,0 +1,12 @@
+{
+  "name": "Ice Carve",
+  "desc": "A sharp disk of ice.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_carve := 30r ICE",
+  "vaulted": false
+}

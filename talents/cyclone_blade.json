@@ -1,0 +1,15 @@
+{
+  "name": "Cyclone Blade",
+  "desc": "After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage, and adding +10% chip damage.",
+  "rarity": "Common",
+  "category": "Legion Shock Trooper",
+  "reqs": "air_pressure => cyclone_blade := 30s AGL, 55s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

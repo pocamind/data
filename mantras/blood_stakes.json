@@ -1,0 +1,12 @@
+{
+  "name": "Blood Stakes",
+  "desc": "Create stakes of blood.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "blood_stakes := 20r BLD",
+  "vaulted": false
+}

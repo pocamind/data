@@ -1,0 +1,17 @@
+{
+  "name": "Vortex Echo",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "vortex_echo := 65r CHA, 65r LHT",
+  "damage": 13.5,
+  "pen": 0.0,
+  "chip": 0.08,
+  "weight": 4.0,
+  "range": 6.0,
+  "speed": 1.12,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 8.0,
+    "Charisma": 3.5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hero's Assist",
+  "desc": "Heroes come to your aid based on your Saint Stance.",
+  "rarity": "Oath",
+  "category": "Saintsworn",
+  "reqs": "oath_saintsworn => heros_assist := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

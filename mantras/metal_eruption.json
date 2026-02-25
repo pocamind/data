@@ -1,0 +1,12 @@
+{
+  "name": "Metal Eruption",
+  "desc": "The user stomps on the ground, and spawns a fury of metal spikes",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "metal_eruption := 1r MTL",
+  "vaulted": false
+}

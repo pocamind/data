@@ -1,0 +1,15 @@
+{
+  "name": "Endurance Runner",
+  "desc": "Even when things look dire, you still have it in you to keep your legs moving.",
+  "rarity": "Common",
+  "category": "Alley Cat",
+  "reqs": "endurance_runner := 25s FTD, 25s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

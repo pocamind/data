@@ -1,0 +1,24 @@
+{
+  "name": "Ignition Trailblazer",
+  "category": "Master",
+  "durability": 1000,
+  "resistances": {
+    "Blunt Resistance": 0.05,
+    "Flame Resistance": 0.05,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Perseverance, Strong Stern",
+  "reqs": "ignition_trailblazer := 165r TTL",
+  "mats": {
+    "Megalodaunt Hide": 2,
+    "Cloth": 5,
+    "Rock": 1,
+    "Fiber": 5
+  },
+  "notes": 30
+}

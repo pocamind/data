@@ -1,0 +1,16 @@
+{
+  "name": "Halberd",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "halberd := 25r HVY",
+  "damage": 22.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 7.0
+  }
+}

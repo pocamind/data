@@ -1,0 +1,13 @@
+{
+  "name": "Impairing Blow",
+  "desc": "[Greataxe] Basic attacks will slightly slow your enemy for 2s. Running attacks will slightly slow for 3s. Gain +20% posture damage against enemies with speed boosts",
+  "rarity": "Common",
+  "category": "Bruiser",
+  "reqs": "impairing_blow := 30s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

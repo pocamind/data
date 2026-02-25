@@ -1,0 +1,15 @@
+{
+  "name": "Breathing Exercise",
+  "desc": "Your sanity recovers more quickly once out of terrifying situations.",
+  "rarity": "Common",
+  "category": "Mental Fortress",
+  "reqs": "breathing_exercise := 5s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

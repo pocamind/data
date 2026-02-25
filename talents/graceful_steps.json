@@ -1,0 +1,13 @@
+{
+  "name": "Graceful Steps",
+  "desc": "Your dancing steps now gives a faster speed boost.",
+  "rarity": "Rare",
+  "category": "Flame Dancer",
+  "reqs": "dancing_steps => graceful_steps := 80s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

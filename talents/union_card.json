@@ -1,0 +1,13 @@
+{
+  "name": "Union Card",
+  "desc": "A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees slightly reduce your experience gain outside of these.",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "union_card := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

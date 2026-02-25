@@ -1,0 +1,12 @@
+{
+  "name": "Ice Cubes",
+  "desc": "Manifest cubes of Ice to fire at your enemies. Cast mantra again to fire cubes.",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_cubes := 50r ICE",
+  "vaulted": false
+}

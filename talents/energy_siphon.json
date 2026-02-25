@@ -1,0 +1,13 @@
+{
+  "name": "Energy Siphon",
+  "desc": "Your singularity now pulls ether from the extra players affected by Blackhole.",
+  "rarity": "Common",
+  "category": "Death Speaker",
+  "reqs": "blackhole => energy_siphon := 60s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

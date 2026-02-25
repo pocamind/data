@@ -1,0 +1,12 @@
+{
+  "name": "Firing Line",
+  "desc": "The user spawn 5 gun behind them which will start firing at the target immediately.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "firing_line := 30r MTL",
+  "vaulted": false
+}

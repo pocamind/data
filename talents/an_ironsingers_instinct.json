@@ -1,0 +1,13 @@
+{
+  "name": "An Ironsinger's Instinct",
+  "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack damage taken. 18s CD.",
+  "rarity": "Rare",
+  "category": "Adaptive Arsenal",
+  "reqs": "an_ironsingers_instinct := 75s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

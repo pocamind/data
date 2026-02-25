@@ -1,0 +1,8 @@
+{
+  "name": "Vesperian",
+  "innate": {
+    "Fortitude": 2,
+    "Willpower": 3
+  },
+  "is_pathfinder": true
+}

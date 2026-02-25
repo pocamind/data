@@ -1,0 +1,13 @@
+{
+  "name": "Defensive Reprisal",
+  "desc": "Being flourished grants you 10% posture resistance for up to 20s.\n[*Note: 12s to 20s duration between 20 and 65 Fortitude.]",
+  "rarity": "Common",
+  "category": "Bulwark",
+  "reqs": "defensive_reprisal := 65s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Piercing Will",
+  "desc": "When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.",
+  "rarity": "Rare",
+  "category": "Mindbreaker",
+  "reqs": "piercing_will := 80s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

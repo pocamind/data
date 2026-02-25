@@ -1,0 +1,13 @@
+{
+  "name": "Burning Sacrifice",
+  "desc": "Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.",
+  "rarity": "Rare",
+  "category": "Twisted Puppets",
+  "reqs": "wraith_path_twisted_puppets, emperor_flame => burning_sacrifice := 40s FLM, 40s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

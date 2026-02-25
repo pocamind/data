@@ -1,0 +1,16 @@
+{
+  "name": "Night Axe",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "night_axe := 80r HVY",
+  "damage": 23.0,
+  "pen": 0.05,
+  "chip": 0.8,
+  "weight": 10.0,
+  "range": 8.5,
+  "speed": 0.77,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 8.0
+  }
+}

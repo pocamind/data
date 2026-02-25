@@ -1,0 +1,13 @@
+{
+  "name": "Dark Synergy",
+  "desc": "Engulf your enemy in shadows when flourishing them.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "dark_god => dark_synergy := 45s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

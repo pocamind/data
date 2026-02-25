@@ -1,0 +1,13 @@
+{
+  "name": "Perfect Flash",
+  "desc": "Having over 95% health causes your mantras to do +25% more damage. This damage bonus will scale down to 10% if your enemies are far away.",
+  "rarity": "Rare",
+  "category": "Adept Caster",
+  "reqs": "perfect_flash := 25s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

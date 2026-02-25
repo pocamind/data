@@ -1,0 +1,14 @@
+{
+  "name": "Glass Path: Crystallization",
+  "desc": "Your Ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.",
+  "rarity": "Common",
+  "category": "Glassdancer",
+  "reqs": "frostdrawer => glass_path_crystallization := 40s ICE",
+  "exclusive": [
+    "Unyielding_Frost",
+    "Flashboil"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

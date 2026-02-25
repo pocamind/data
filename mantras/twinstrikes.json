@@ -1,0 +1,12 @@
+{
+  "name": "Twinstrikes",
+  "desc": "Launch quick and devastating kicks.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Multiple"
+  ],
+  "reqs": "twinstrikes := 40r AGL, 60r STR",
+  "vaulted": false
+}

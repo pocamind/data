@@ -1,0 +1,13 @@
+{
+  "name": "Shadow Travel",
+  "desc": "Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.",
+  "rarity": "Rare",
+  "category": "Shadowcaster",
+  "reqs": "dark_god => shadow_travel := 75s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

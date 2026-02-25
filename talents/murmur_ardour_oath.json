@@ -1,0 +1,13 @@
+{
+  "name": "Murmur: Ardour [OATH]",
+  "desc": "An application of the Song that enables one to channel the Murmur into raw strength. Press H.",
+  "rarity": "Oath",
+  "category": "Soulbreaker",
+  "reqs": "oath_soulbreaker => murmur_ardour_oath := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

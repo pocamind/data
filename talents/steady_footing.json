@@ -1,0 +1,16 @@
+{
+  "name": "Steady Footing",
+  "desc": "You're much more resistant to being pushed around. You don't slide on ice.",
+  "rarity": "Common",
+  "category": "Acrobat",
+  "reqs": "steady_footing := 10s STR, 10s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2,
+    "Carry Load": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rule Through Fear",
+  "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+  "rarity": "Rare",
+  "category": "Tyrant",
+  "reqs": "rule_through_fear := 50s STR, 85s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

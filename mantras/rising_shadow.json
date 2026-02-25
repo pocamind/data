@@ -1,0 +1,12 @@
+{
+  "name": "Rising Shadow",
+  "desc": "Form a Shockwave of darkness.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "rising_shadow := 30r SDW",
+  "vaulted": false
+}

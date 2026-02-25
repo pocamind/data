@@ -1,0 +1,13 @@
+{
+  "name": "Deepfolk",
+  "desc": "The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "deepfolk := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

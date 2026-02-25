@@ -1,0 +1,13 @@
+{
+  "name": "Golden Tongue",
+  "desc": "Typing gives a random buff to you and those around you. (60 second cooldown)",
+  "rarity": "Rare",
+  "category": "Silvertongue",
+  "reqs": "golden_tongue := 40s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

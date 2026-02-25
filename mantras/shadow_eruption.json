@@ -1,0 +1,12 @@
+{
+  "name": "Shadow Eruption",
+  "desc": "Form a shockwave of darkness.\t",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "shadow_eruption := 20r SDW",
+  "vaulted": false
+}

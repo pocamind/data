@@ -1,0 +1,17 @@
+{
+  "name": "Bloodfouler (Bleed)",
+  "type": "Greatsword",
+  "damage_type": "Slash + Bleed",
+  "reqs": "bloodfouler_bleed := 50r HVY, 75r BLD",
+  "damage": 19.0,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 8.5,
+  "range": 9.5,
+  "speed": 0.86,
+  "endlag": 0.0,
+  "scaling": {
+    "Bloodrend": 4.0,
+    "Heavy Wep.": 5.0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lasting Charisma",
+  "desc": "Enemies charmed by your mantras are charmed for longer.\n[*Scales by -0.275 seconds per Charisma invested point between 10s-15s.",
+  "rarity": "Common",
+  "category": "Charm Caster",
+  "reqs": "charismatic_cast => lasting_charisma := 55s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

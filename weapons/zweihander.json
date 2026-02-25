@@ -1,0 +1,16 @@
+{
+  "name": "Zweihander",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "zweihander := 10r STR, 20r HVY",
+  "damage": 22.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 7.0
+  }
+}

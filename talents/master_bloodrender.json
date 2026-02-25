@@ -1,0 +1,15 @@
+{
+  "name": "Master Bloodrender",
+  "desc": "You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.",
+  "rarity": "Common",
+  "category": "Bloodrender",
+  "reqs": "expert_bloodrender => master_bloodrender := 50s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 5
+  },
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

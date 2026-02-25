@@ -1,0 +1,13 @@
+{
+  "name": "Vital Wound",
+  "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "vital_wound := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

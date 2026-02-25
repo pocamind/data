@@ -1,0 +1,17 @@
+{
+  "name": "Frostthorn",
+  "type": "Dagger",
+  "damage_type": "Slash",
+  "reqs": "frostthorn := 90r LHT",
+  "damage": 14.5,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 6.0,
+  "speed": 1.25,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 8.0,
+    "Frostdraw": 1.0
+  }
+}

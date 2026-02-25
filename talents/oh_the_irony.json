@@ -1,0 +1,13 @@
+{
+  "name": "Oh The Irony",
+  "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration.",
+  "rarity": "Common",
+  "category": "Ironsinger",
+  "reqs": "oh_the_irony := 40s CHA, 60s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

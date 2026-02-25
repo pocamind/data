@@ -1,0 +1,13 @@
+{
+  "name": "Arc Module: Eject",
+  "desc": "When block broken with Arc Suit active, eject from the armor.",
+  "rarity": "Oath",
+  "category": "Arcwarder",
+  "reqs": "oath_arcwarder => arc_module_eject := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

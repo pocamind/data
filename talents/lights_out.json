@@ -1,0 +1,15 @@
+{
+  "name": "Lights Out",
+  "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
+  "rarity": "Common",
+  "category": "Assassin",
+  "reqs": "lights_out := 55s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

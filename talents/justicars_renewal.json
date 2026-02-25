@@ -1,0 +1,13 @@
+{
+  "name": "Justicar's Renewal",
+  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (10s cooldown)",
+  "rarity": "Common",
+  "category": "Justicar",
+  "reqs": "jus_karita => justicars_renewal := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

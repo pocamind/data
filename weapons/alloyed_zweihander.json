@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Zweihander",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "alloyed_zweihander := 10r STR, 75r HVY",
+  "damage": 23.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 9.0,
+  "speed": 0.83,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 10.0
+  }
+}

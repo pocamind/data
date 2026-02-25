@@ -12,6 +12,7 @@
     "not_counted_towards_total": false,
     "vaulted": false
   },
+  
   "phantom_edge": {
     "name": "Phantom Edge",
     "desc": "Your weapon Basic Attacks have +0.25 range.",

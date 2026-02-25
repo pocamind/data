@@ -1,0 +1,15 @@
+{
+  "name": "Turning of the Wheel",
+  "desc": "[Twinblade] After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.",
+  "rarity": "Rare",
+  "category": "Twinblade",
+  "reqs": "turning_of_the_wheel := 75s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

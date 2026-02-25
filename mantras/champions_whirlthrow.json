@@ -1,0 +1,12 @@
+{
+  "name": "Champion's Whirlthrow",
+  "desc": "Grab your opponent and toss them with the power of gale.\n[*Guard breaks at Level 5]",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "champions_whirlthrow := 30r WND",
+  "vaulted": false
+}

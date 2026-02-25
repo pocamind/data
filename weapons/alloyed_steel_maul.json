@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Steel Maul",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "alloyed_steel_maul := 10r STR, 75r HVY",
+  "damage": 24.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 9.0,
+  "speed": 0.85,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 8.0
+  }
+}

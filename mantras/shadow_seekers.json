@@ -1,0 +1,12 @@
+{
+  "name": "Shadow Seekers",
+  "desc": "Call forth the void to track your opponents.        ",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "shadow_seekers := 20r SDW",
+  "vaulted": false
+}

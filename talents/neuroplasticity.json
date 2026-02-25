@@ -1,0 +1,15 @@
+{
+  "name": "Neuroplasticity",
+  "desc": "Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantra is now reduced by 20%.",
+  "rarity": "Rare",
+  "category": "Genius Intellect",
+  "reqs": "neuroplasticity := 35r INT OR 35r WLL OR 35r CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Wildcard Mantra": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Summer Company Uniform",
+  "category": "Master",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.1,
+    "Shadow Resistance": 0.25,
+    "Slash Resistance": 0.1,
+    "Elemental Resistance": 0.05
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": "Armor Piercing",
+  "reqs": "summer_company_uniform := 90r TTL",
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Iron": 10
+  },
+  "notes": 100
+}

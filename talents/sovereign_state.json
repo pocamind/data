@@ -1,0 +1,13 @@
+{
+  "name": "Sovereign State",
+  "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.",
+  "rarity": "Oath",
+  "category": "Blightsurger",
+  "reqs": "oath_blightsurger => sovereign_state := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

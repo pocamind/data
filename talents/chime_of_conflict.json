@@ -1,0 +1,13 @@
+{
+  "name": "Chime of Conflict",
+  "desc": "Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.",
+  "rarity": "Quest",
+  "category": "Sovereign of Slaughter",
+  "reqs": "chime_of_conflict := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

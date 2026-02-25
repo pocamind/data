@@ -1,0 +1,21 @@
+{
+  "name": "Skeptic Pioneer",
+  "category": "Master",
+  "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.12,
+    "Elemental Resistance": 0.12
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Apothecary",
+  "reqs": "skeptic_pioneer := ()",
+  "mats": {
+    "Crystal Lens": 1,
+    "Fiber": 5,
+    "Cloth": 5
+  },
+  "notes": 25
+}

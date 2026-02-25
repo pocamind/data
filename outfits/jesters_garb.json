@@ -1,0 +1,22 @@
+{
+  "name": "Jester's Garb",
+  "category": "Master",
+  "durability": 2500,
+  "resistances": {
+    "Elemental Resistance": 0.35,
+    "Blunt Resistance": 0.15,
+    "Physical Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 50,
+    "Extra Stealth": 0
+  },
+  "talent": "Mocking Favor",
+  "reqs": "jesters_garb := 195r TTL",
+  "mats": {
+    "Cloth": 7,
+    "Fiber": 5,
+    "Vibrant Gem": 10
+  },
+  "notes": 400
+}

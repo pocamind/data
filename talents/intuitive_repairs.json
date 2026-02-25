@@ -1,0 +1,13 @@
+{
+  "name": "Intuitive Repairs",
+  "desc": "Your \"Iron Skin\" repairs armor while it's active.",
+  "rarity": "Common",
+  "category": "Metallurgist",
+  "reqs": "intuitive_repairs := 25s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

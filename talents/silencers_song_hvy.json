@@ -1,0 +1,13 @@
+{
+  "name": "Silencer's Song [HVY]",
+  "desc": "Silencer's Blade now procs on your mantras.",
+  "rarity": "Common",
+  "category": "Unknown",
+  "reqs": "silencers_blade => silencers_song_hvy := 100r HVY, 100s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Down Comes the Claw",
+  "desc": "Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for up to 6.5s.\n[*Note: 4s to 6.5s duration between 30 and 75 Agility.]",
+  "rarity": "Common",
+  "category": "Trickster",
+  "reqs": "down_comes_the_claw := 75s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

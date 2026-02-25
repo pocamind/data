@@ -1,0 +1,13 @@
+{
+  "name": "Haunted Path: Specter",
+  "desc": "Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.",
+  "rarity": "Common",
+  "category": "Specter",
+  "reqs": "haunted_gale => haunted_path_specter := 50s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

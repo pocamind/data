@@ -1,0 +1,22 @@
+{
+  "name": "Cutthroat Light Armor",
+  "category": "Master",
+  "durability": 1000,
+  "resistances": {
+    "Slash Resistance": 0.1,
+    "Physical Resistance": 0.1
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": "Hunter's Reflexes",
+  "reqs": "cutthroat_light_armor := 90r TTL",
+  "mats": {
+    "Fiber": 4,
+    "Crystal Lens": 1,
+    "Cloth": 4,
+    "Iron": 5
+  },
+  "notes": 30
+}

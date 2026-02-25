@@ -1,0 +1,12 @@
+{
+  "name": "Ice Smash",
+  "desc": "A colossal mace of ice.\n[*Guard breaks at Level 5]",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_smash := 20r ICE",
+  "vaulted": false
+}

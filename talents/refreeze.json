@@ -1,0 +1,13 @@
+{
+  "name": "Refreeze",
+  "desc": "Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "refreeze := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

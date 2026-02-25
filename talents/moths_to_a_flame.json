@@ -1,0 +1,13 @@
+{
+  "name": "Moths to a Flame",
+  "desc": "Your Twisted Puppets now home towards burning enemies.",
+  "rarity": "Common",
+  "category": "Twisted Puppets",
+  "reqs": "wraith_path_twisted_puppets => moths_to_a_flame := 40s FLM, 40s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

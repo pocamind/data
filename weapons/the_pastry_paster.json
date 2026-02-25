@@ -1,0 +1,17 @@
+{
+  "name": "The Pastry Paster",
+  "type": "Club",
+  "damage_type": "Blunt",
+  "reqs": "the_pastry_paster := 30r INT OR 30r WLL OR 30r CHA, 70r MED",
+  "damage": 18.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 7.5,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Mind": 3.0,
+    "Medium Wep.": 5.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Galebreathe Unbounded",
+  "desc": "You have gained the ability to surpass your limits and train your galebreathe to its fullest.\n[Note: Falling below 75 Galebreathe revokes this Talent.]",
+  "rarity": "Common",
+  "category": "Galebreathe Master",
+  "reqs": "galebreathe_unbounded := 75s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 10
+  },
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

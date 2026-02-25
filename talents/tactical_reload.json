@@ -1,0 +1,13 @@
+{
+  "name": "Tactical Reload",
+  "desc": "[Rifles] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)",
+  "rarity": "Rare",
+  "category": "Marksman",
+  "reqs": "tactical_reload := 95s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

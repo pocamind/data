@@ -1,0 +1,13 @@
+{
+  "name": "Molt",
+  "desc": "Ailments and blessings alike fade away more quickly",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "molt := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

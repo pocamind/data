@@ -1,0 +1,22 @@
+{
+  "name": "Seamstress's Attire",
+  "category": "Master",
+  "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": null,
+  "reqs": "seamstresss_attire := 135r TTL",
+  "mats": {
+    "Iron": 5,
+    "Cloth": 10,
+    "Megalodaunt Hide": 2,
+    "Fiber": 10
+  },
+  "notes": 100
+}

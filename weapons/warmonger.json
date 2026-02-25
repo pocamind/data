@@ -1,0 +1,16 @@
+{
+  "name": "Warmonger",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "warmonger := 30r STR, 60r HVY",
+  "damage": 22.9,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 7.0
+  }
+}

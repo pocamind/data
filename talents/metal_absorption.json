@@ -1,0 +1,13 @@
+{
+  "name": "Metal Absorption",
+  "desc": "Your 'Iron Hug' also absorbs armor from the enemy.",
+  "rarity": "Common",
+  "category": "Metallurgist",
+  "reqs": "metal_absorption := 30s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

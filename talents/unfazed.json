@@ -1,0 +1,13 @@
+{
+  "name": "Unfazed",
+  "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
+  "rarity": "Common",
+  "category": "Sturdy Resolve",
+  "reqs": "grasp_on_reality => unfazed := 50s FTD, 50s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

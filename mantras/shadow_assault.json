@@ -1,0 +1,12 @@
+{
+  "name": "Shadow Assault",
+  "desc": "A rush of darkness.        ",
+  "stars": 2,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "shadow_assault := 30r SDW",
+  "vaulted": false
+}

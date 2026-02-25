@@ -1,0 +1,13 @@
+{
+  "name": "Captain Etrea",
+  "desc": "Moving while with a shield no longer slows you down.",
+  "rarity": "Common",
+  "category": "Navaen Nomad",
+  "reqs": "moving_fortress => captain_etrea := 20s FTD, 30s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

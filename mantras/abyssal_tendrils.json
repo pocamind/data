@@ -1,0 +1,12 @@
+{
+  "name": "Abyssal Tendrils",
+  "desc": "Create tentacles and pierce multiple opponents at once.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Monster",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "reqs": "abyssal_tendrils := ()",
+  "vaulted": false
+}

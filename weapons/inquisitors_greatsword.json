@@ -1,0 +1,16 @@
+{
+  "name": "Inquisitor's Greatsword",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "inquisitors_greatsword := 40r HVY",
+  "damage": 23.5,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 9.0,
+  "range": 9.0,
+  "speed": 0.84,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 8.3
+  }
+}

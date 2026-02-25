@@ -1,0 +1,18 @@
+{
+  "name": "Flareblood Kamas (Bleed)",
+  "type": "Dagger",
+  "damage_type": "Slash + Bleed",
+  "reqs": "flareblood_kamas_bleed := 30r INT, 60r LHT",
+  "damage": 13.0,
+  "pen": 0.3,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 6.0,
+  "speed": 1.25,
+  "endlag": 0.05,
+  "scaling": {
+    "Light Wep.": 6.0,
+    "Intelligence": 1.5,
+    "Bloodrend": 3.0
+  }
+}

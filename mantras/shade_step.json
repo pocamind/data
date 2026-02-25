@@ -1,0 +1,12 @@
+{
+  "name": "Shade Step",
+  "desc": "Submerge into your shadow. Click to launch an attack at any point while sumberged.",
+  "stars": 2,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "shade_step := 30r SDW",
+  "vaulted": false
+}

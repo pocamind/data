@@ -1,0 +1,13 @@
+{
+  "name": "Vow of Mastery",
+  "desc": "The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow, you must ask the other player if they'd like to make the vow.e.g.\"wanna make a vow of mastery?\"",
+  "rarity": "Common",
+  "category": "Vow of Mastery",
+  "reqs": "vow_of_mastery := 20s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

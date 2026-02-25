@@ -1,0 +1,25 @@
+{
+  "name": "Royal Etrean Guard",
+  "category": "Master",
+  "durability": 3000,
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Slash Resistance": 0.05,
+    "Physical Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "talent": "Paired Soul",
+  "reqs": "royal_etrean_guard := 315r TTL",
+  "mats": {
+    "King Thresher Spine": 1,
+    "Umbral Obsidian": 10,
+    "Vibrant Gem": 5,
+    "Void Feather": 1,
+    "Fiber": 5,
+    "Cloth": 5
+  },
+  "notes": 1000
+}

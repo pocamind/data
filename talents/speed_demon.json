@@ -1,0 +1,15 @@
+{
+  "name": "Speed Demon",
+  "desc": "Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown.\n[Normal bleed is 15%, this is 7.5%.]",
+  "rarity": "Rare",
+  "category": "Vigil Swordsman",
+  "reqs": "speed_demon := 25s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Guiding Star",
+  "type": "Bow",
+  "damage_type": "Slash",
+  "reqs": "guiding_star := 25r INT OR 25r WLL OR 25r CHA, 75r MED",
+  "damage": 14.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 1.05,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 10.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Warding Radiance",
+  "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
+  "rarity": "Rare",
+  "category": "Flame Warden",
+  "reqs": "flamecharmer => warding_radiance := 20s AGL, 30s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

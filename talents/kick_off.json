@@ -1,0 +1,15 @@
+{
+  "name": "Kick Off",
+  "desc": "You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall.",
+  "rarity": "Common",
+  "category": "Acrobat",
+  "reqs": "kick_off := 20s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 6
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

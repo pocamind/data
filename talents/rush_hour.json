@@ -1,0 +1,13 @@
+{
+  "name": "Rush Hour",
+  "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",
+  "rarity": "Rare",
+  "category": "Bloodrender",
+  "reqs": "rush_hour := 50s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

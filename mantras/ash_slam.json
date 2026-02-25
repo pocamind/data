@@ -1,0 +1,12 @@
+{
+  "name": "Ash Slam",
+  "desc": "Strike the ground, turning it to ash.\r\n",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "ash_slam := 20r STR, 50r FLM",
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sacred Hammer",
+  "type": "Club",
+  "damage_type": "Blunt",
+  "reqs": "sacred_hammer := 65r MED",
+  "damage": 19.5,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 6.0,
+  "range": 7.5,
+  "speed": 0.97,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 7.0
+  }
+}

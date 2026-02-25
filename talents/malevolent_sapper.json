@@ -1,0 +1,13 @@
+{
+  "name": "Malevolent Sapper",
+  "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
+  "rarity": "Common",
+  "category": "Bloodsong",
+  "reqs": "malevolent_sapper := 40s SDW, 40s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

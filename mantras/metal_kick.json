@@ -1,0 +1,12 @@
+{
+  "name": "Metal Kick",
+  "desc": "A powerful kick laced with metal.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "metal_kick := 20r MTL",
+  "vaulted": false
+}

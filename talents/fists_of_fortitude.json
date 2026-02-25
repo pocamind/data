@@ -1,0 +1,13 @@
+{
+  "name": "Fists of Fortitude",
+  "desc": "[Fists] Every 6 hits with your fist builds of a shield of endurance reducing incoming damage by 15%. 70s CD.",
+  "rarity": "Rare",
+  "category": "Navaen Nomad",
+  "reqs": "fists_of_fortitude := 20s FTD, 20s LHT",
+  "exclusive": [
+    "Orbital_Ice"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

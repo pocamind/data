@@ -1,0 +1,13 @@
+{
+  "name": "Piercing Metal",
+  "desc": "Deal additional armor damage to enemies per metal rod affecting them",
+  "rarity": "Common",
+  "category": "Ironsinger",
+  "reqs": "piercing_metal := 60s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Flying Swiftkick",
+  "desc": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy and consume your speed boost.",
+  "rarity": "Common",
+  "category": "Justicar",
+  "reqs": "swiftkick_prodigy => flying_swiftkick := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

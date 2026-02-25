@@ -1,0 +1,12 @@
+{
+  "name": "Lord's Slice",
+  "desc": "Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Contractor"
+  ],
+  "reqs": "oath_contractor => lords_slice := ()",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dark Waltz [MED]",
+  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "dark_waltz_med := 90r MED, 90s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

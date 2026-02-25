@@ -1,0 +1,16 @@
+{
+  "name": "Divine Axe",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "divine_axe := ()",
+  "damage": 28.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 8.0,
+  "range": 10.1,
+  "speed": 0.8,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 13.0
+  }
+}

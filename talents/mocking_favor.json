@@ -1,0 +1,13 @@
+{
+  "name": "Mocking Favor",
+  "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction (30s cooldown).",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "mocking_favor := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

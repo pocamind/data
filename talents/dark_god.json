@@ -1,0 +1,13 @@
+{
+  "name": "Dark God",
+  "desc": "If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. Shadowcast mantras will now raise your tempo if your ether is full.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "shadowcaster => dark_god := 20s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

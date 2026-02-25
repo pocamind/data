@@ -1,0 +1,13 @@
+{
+  "name": "Versatile",
+  "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "versatile := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

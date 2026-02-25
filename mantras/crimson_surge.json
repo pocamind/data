@@ -1,0 +1,12 @@
+{
+  "name": "Crimson Surge",
+  "desc": "Slash upwards and launch slashes of blood.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "crimson_surge := 30r BLD",
+  "vaulted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Unwavering Resolve",
+  "desc": "Getting parried punishes your posture up to 33% less.\n[*Note: 20% to 33% punishment reduction between 10 and 40 Strength.]",
+  "rarity": "Common",
+  "category": "Rampaging Brute",
+  "reqs": "unwavering_resolve := 40s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Posture": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

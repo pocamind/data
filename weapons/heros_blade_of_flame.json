@@ -1,0 +1,16 @@
+{
+  "name": "Hero's Blade Of Flame",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "heros_blade_of_flame := 100r FLM",
+  "damage": 19.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Flamecharm": 5.5
+  }
+}

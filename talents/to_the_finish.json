@@ -1,0 +1,15 @@
+{
+  "name": "To The Finish",
+  "desc": "You take up to 10% less damage when below 30% health.\n[*Note: -5%-10% between 20 and 50 Fortitude.]",
+  "rarity": "Rare",
+  "category": "Freak of Nature",
+  "reqs": "to_the_finish := 50s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

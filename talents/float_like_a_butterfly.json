@@ -1,0 +1,13 @@
+{
+  "name": "Float Like a Butterfly",
+  "desc": "In a display of true strength, cancel your air dash to enter a frenzy of slashes. (5s CD)",
+  "rarity": "Oath",
+  "category": "Bladeharper",
+  "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

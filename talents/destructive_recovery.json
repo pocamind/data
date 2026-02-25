@@ -1,0 +1,15 @@
+{
+  "name": "Destructive Recovery",
+  "desc": "[Greatsword] Enemies recover 20% less Posture when parrying.",
+  "rarity": "Rare",
+  "category": "Colossus",
+  "reqs": "destructive_recovery := 25s STR, 40s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Posture": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

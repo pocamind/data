@@ -1,0 +1,13 @@
+{
+  "name": "Stronger Under Pressure",
+  "desc": "Your mantras with might gem now slow down your opponents, scaling with how many combat tags you currently have.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "stronger_under_pressure := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

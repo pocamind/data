@@ -1,0 +1,13 @@
+{
+  "name": "Oppressive Force",
+  "desc": "When using a weapon found in the Merit Armoury, gain a unique two-hit flourish that does not knock back opponents and dazes them. Second hit only procs if the first hit.\n[*Note: The second hit deals 80% of your weapon's scaled damage and cannot be damage modified otherwise.]",
+  "rarity": "Faction",
+  "category": "Battle Readiness",
+  "reqs": "oppressive_force := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

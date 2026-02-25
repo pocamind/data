@@ -1,0 +1,12 @@
+{
+  "name": "Galetrap",
+  "desc": "Toss a wind landmine.\r",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "galetrap := 20r WND",
+  "vaulted": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Etrean Guard",
+  "category": "Master",
+  "durability": 2000,
+  "resistances": {
+    "Elemental Resistance": 0.2,
+    "Physical Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Unbreakable",
+  "reqs": "etrean_guard := 165r TTL",
+  "mats": {
+    "Erisore": 5,
+    "Fiber": 5,
+    "Megalodaunt Hide": 2,
+    "Cloth": 5
+  },
+  "notes": 30
+}

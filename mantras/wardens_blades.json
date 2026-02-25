@@ -1,0 +1,12 @@
+{
+  "name": "Warden's Blades",
+  "desc": "Revolving blades of ice.\r",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "wardens_blades := 1r ICE",
+  "vaulted": false
+}

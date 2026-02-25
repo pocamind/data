@@ -1,0 +1,13 @@
+{
+  "name": "Bulldozer",
+  "desc": "Enemies you flourish into walls have a chance of breaking the wall and are guard broken on impact.",
+  "rarity": "Rare",
+  "category": "Raging Bull",
+  "reqs": "bulldozer := 25s STR",
+  "exclusive": [
+    "Dazing_Finisher"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

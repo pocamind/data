@@ -1,0 +1,12 @@
+{
+  "name": "Clutching Shadow",
+  "desc": "A shadowy hand.\t",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "clutching_shadow := 1r SDW",
+  "vaulted": false
+}

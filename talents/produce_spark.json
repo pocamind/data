@@ -1,0 +1,13 @@
+{
+  "name": "Produce Spark",
+  "desc": "A simple production of flame for the use of making campfires.",
+  "rarity": "Common",
+  "category": "Flamecharmer",
+  "reqs": "produce_spark := 20s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

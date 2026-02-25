@@ -1,0 +1,28 @@
+{
+  "name": "Celtorian Tideknight",
+  "category": "Master",
+  "durability": 2800,
+  "resistances": {
+    "Ice Resistance": 0.05,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.25,
+    "Shadow Resistance": 0.1,
+    "Blunt Resistance": 0.05
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 20
+  },
+  "talent": "Tidekeeper",
+  "reqs": "celtorian_tideknight := 240r TTL",
+  "mats": {
+    "Thresher Spine": 1,
+    "Vibrant Gem": 5,
+    "Umbral Obsidian": 5,
+    "Bloodless Gem": 1,
+    "Dark Feather": 1,
+    "Odd Tentacle": 1,
+    "Cloth": 5
+  },
+  "notes": 1000
+}

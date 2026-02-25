@@ -1,0 +1,16 @@
+{
+  "name": "Serrated Warspear (Bleed)",
+  "type": "Spear",
+  "damage_type": "Slash + Bleed",
+  "reqs": "serrated_warspear_bleed := 65r MED",
+  "damage": 18.0,
+  "pen": 0.2,
+  "chip": 0.1,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.93,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.5
+  }
+}

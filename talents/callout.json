@@ -1,0 +1,13 @@
+{
+  "name": "Callout",
+  "desc": "You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.",
+  "rarity": "Common",
+  "category": "Leader",
+  "reqs": "callout := 20s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

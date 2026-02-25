@@ -1,0 +1,13 @@
+{
+  "name": "Singularity",
+  "desc": "Enemies will briefly hang in place when hit by a shadow move.",
+  "rarity": "Common",
+  "category": "Shadowcaster",
+  "reqs": "shadowcaster => singularity := 40s SDW",
+  "exclusive": [
+    "Sightless_Still"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

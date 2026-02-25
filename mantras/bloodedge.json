@@ -1,0 +1,12 @@
+{
+  "name": "Bloodedge",
+  "desc": "Conjure a scythe of blood and swing.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "bloodedge := 20r BLD",
+  "vaulted": false
+}

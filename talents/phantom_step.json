@@ -1,0 +1,13 @@
+{
+  "name": "Phantom Step",
+  "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)",
+  "rarity": "Common",
+  "category": "Specter",
+  "reqs": "haunted_path_specter => phantom_step := 55s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

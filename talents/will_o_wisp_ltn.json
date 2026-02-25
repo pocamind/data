@@ -1,0 +1,20 @@
+{
+  "name": "Will o' Wisp [LTN]",
+  "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your Wisps, allowing any number of Wisps to be active at a time.",
+  "rarity": "Advanced",
+  "category": "Sage of Wisps",
+  "reqs": "will_o_wisp_ltn := 25r LTN",
+  "exclusive": [
+    "Will_o_Wisp_ICE",
+    "Will_o_Wisp_FLM",
+    "Will_o_Wisp_WND",
+    "Will_o_Wisp_MTL",
+    "Will_o_Wisp_SDW",
+    "Will_o_Wisp_BLD"
+  ],
+  "innates": {
+    "Wisp Mantra Slot": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

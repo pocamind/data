@@ -1,0 +1,17 @@
+{
+  "name": "Withered Death Knell",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "withered_death_knell := 40r BLD, 70r LHT",
+  "damage": 15.0,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 5.5,
+  "range": 6.5,
+  "speed": 1.08,
+  "endlag": 0.0,
+  "scaling": {
+    "Bloodrend": 5.0,
+    "Light Wep.": 5.0
+  }
+}

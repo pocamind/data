@@ -1,0 +1,25 @@
+{
+  "name": "Windrunner Robes",
+  "category": "Master",
+  "durability": 2600,
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Physical Resistance": 0.25,
+    "Wind Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 50,
+    "Extra Stealth": 0
+  },
+  "talent": "Wind Dancer",
+  "reqs": "windrunner_robes := 10r AGL, 165r TTL",
+  "mats": {
+    "Vibrant Gem": 5,
+    "Wind Gem": 1,
+    "Fiber": 5,
+    "Erisore": 8,
+    "Gale stone": 5,
+    "Cloth": 5
+  },
+  "notes": 1000
+}

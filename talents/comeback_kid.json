@@ -1,0 +1,13 @@
+{
+  "name": "Comeback Kid",
+  "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+  "rarity": "Common",
+  "category": "Limitbreaker",
+  "reqs": "comeback_kid := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

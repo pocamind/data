@@ -1,0 +1,13 @@
+{
+  "name": "Showstopper",
+  "desc": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.",
+  "rarity": "Rare",
+  "category": "Weapon Master",
+  "reqs": "showstopper := 40s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

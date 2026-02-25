@@ -1,0 +1,12 @@
+{
+  "name": "Gale Lunge",
+  "desc": "A rush of piercing wind.\r",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "gale_lunge := 20r WND",
+  "vaulted": false
+}

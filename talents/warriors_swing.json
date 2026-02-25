@@ -1,0 +1,13 @@
+{
+  "name": "Warrior's Swing",
+  "desc": "Reduces incoming damage if hit during Heavy swing hyper armor.",
+  "rarity": "Common",
+  "category": "Weapon Master",
+  "reqs": "warriors_swing := 30s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

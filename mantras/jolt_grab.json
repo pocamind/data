@@ -1,0 +1,12 @@
+{
+  "name": "Jolt Grab",
+  "desc": "An electrified chokehold.\t",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "jolt_grab := 1r LTN",
+  "vaulted": false
+}

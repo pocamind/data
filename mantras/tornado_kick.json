@@ -1,0 +1,12 @@
+{
+  "name": "Tornado Kick",
+  "desc": "Slicing blades of wind.\r\n",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "tornado_kick := 1r WND",
+  "vaulted": false
+}

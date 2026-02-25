@@ -1,0 +1,13 @@
+{
+  "name": "Full Reset",
+  "desc": "Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "full_reset := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

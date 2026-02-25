@@ -1,0 +1,16 @@
+{
+  "name": "Anklets of Alsin",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "anklets_of_alsin := 25r LHT",
+  "damage": 13.5,
+  "pen": 0.15,
+  "chip": 0.1,
+  "weight": 3.0,
+  "range": 6.5,
+  "speed": 1.14,
+  "endlag": 0.05,
+  "scaling": {
+    "Light Wep.": 9.0
+  }
+}

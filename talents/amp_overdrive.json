@@ -1,0 +1,13 @@
+{
+  "name": "Amp Overdrive",
+  "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.",
+  "rarity": "Faction",
+  "category": "Operator's Technique",
+  "reqs": "amp_overdrive := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

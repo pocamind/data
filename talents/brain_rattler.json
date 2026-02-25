@@ -1,0 +1,13 @@
+{
+  "name": "Brain Rattler",
+  "desc": "[Clubs] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.",
+  "rarity": "Common",
+  "category": "Hammer Rage",
+  "reqs": "brain_rattler := 50s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

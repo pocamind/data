@@ -1,0 +1,12 @@
+{
+  "name": "Veinbreaker",
+  "desc": "Charge up a strong punch infused with your blood.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "veinbreaker := 30r BLD",
+  "vaulted": false
+}

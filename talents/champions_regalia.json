@@ -1,0 +1,13 @@
+{
+  "name": "Champion's Regalia",
+  "desc": "Flourishing an opponent grants you 1.5x posture damage for 10 seconds.",
+  "rarity": "Rare",
+  "category": "Champion",
+  "reqs": "champions_regalia := 25s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

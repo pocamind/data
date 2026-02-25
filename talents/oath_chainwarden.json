@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Chainwarden",
+  "desc": "You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.",
+  "rarity": "Oath",
+  "category": "Chainwarden",
+  "reqs": "oath_chainwarden := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Wildcard Mantra": 1,
+    "Combat Mantra": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

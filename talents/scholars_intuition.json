@@ -1,0 +1,13 @@
+{
+  "name": "Scholar's Intuition",
+  "desc": "INT, WIL, and CHA Training gear is 50% more effective.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "scholars_intuition := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

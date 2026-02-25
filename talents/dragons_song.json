@@ -1,0 +1,13 @@
+{
+  "name": "Dragon's Song",
+  "desc": "Landing a Mantra after an uppercut grants Ether. 2s CD.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "dragons_song := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stock Bash",
+  "desc": "[Rifles] Your running attacks now apply a brief amount of daze.",
+  "rarity": "Common",
+  "category": "Marksman",
+  "reqs": "stock_bash := 25s STR, 55s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

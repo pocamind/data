@@ -1,0 +1,15 @@
+{
+  "name": "Successive Prediction",
+  "desc": "Predicting an attack will briefly allow you to predict another.",
+  "rarity": "Common",
+  "category": "Omniscient",
+  "reqs": "successive_prediction := 50s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Ether": 10
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

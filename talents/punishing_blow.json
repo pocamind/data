@@ -1,0 +1,13 @@
+{
+  "name": "Punishing Blow",
+  "desc": "[Heavy Weapons] Daze opponents for 1s when you interrupt their Basic Attack with your own.",
+  "rarity": "Rare",
+  "category": "Tactician",
+  "reqs": "punishing_blow := 20s HVY",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

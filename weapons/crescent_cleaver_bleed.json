@@ -1,0 +1,16 @@
+{
+  "name": "Crescent Cleaver (Bleed)",
+  "type": "Greatsword",
+  "damage_type": "Slash + Bleed",
+  "reqs": "crescent_cleaver_bleed := 10r STR, 45r HVY",
+  "damage": 22.4,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 9.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 8.0
+  }
+}

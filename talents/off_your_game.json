@@ -1,0 +1,13 @@
+{
+  "name": "Off Your Game",
+  "desc": "You now slow Taunted enemies when you hit them.",
+  "rarity": "Common",
+  "category": "Empath",
+  "reqs": "off_your_game := 90s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

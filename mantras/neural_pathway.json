@@ -1,0 +1,12 @@
+{
+  "name": "Neural Pathway",
+  "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.\n[Does not go through walls.]",
+  "stars": 0,
+  "category": "Mobility",
+  "type": "Attunementless",
+  "attributes": [
+    "Intelligence"
+  ],
+  "reqs": "neural_pathway := 35r INT",
+  "vaulted": false
+}

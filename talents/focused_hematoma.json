@@ -1,0 +1,13 @@
+{
+  "name": "Focused Hematoma",
+  "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "focused_hematoma := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

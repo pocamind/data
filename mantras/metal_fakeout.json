@@ -1,0 +1,12 @@
+{
+  "name": "Metal Fakeout",
+  "desc": "Create a metal clone and appear behind your taget.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "metal_fakeout := 30r MTL",
+  "vaulted": false
+}

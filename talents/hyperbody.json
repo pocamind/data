@@ -1,0 +1,13 @@
+{
+  "name": "Hyperbody",
+  "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "hyperbody := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

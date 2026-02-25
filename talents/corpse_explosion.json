@@ -1,0 +1,13 @@
+{
+  "name": "Corpse Explosion",
+  "desc": "Bodies that burn to death immediately explode dealing massive damage. Your fires will incinerate unconscious targets much faster.",
+  "rarity": "Common",
+  "category": "Inferno",
+  "reqs": "agitating_spark => corpse_explosion := 60s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

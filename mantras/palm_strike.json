@@ -1,0 +1,12 @@
+{
+  "name": "Palm Strike",
+  "desc": "Strike your opponent with your palm. If your true power is revealed, slice them up into the air.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Bladeharper"
+  ],
+  "reqs": "oath_bladeharper => palm_strike := ()",
+  "vaulted": false
+}

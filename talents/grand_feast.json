@@ -1,0 +1,15 @@
+{
+  "name": "Grand Feast",
+  "desc": "Regain ether, tempo, blood, and health from killing.",
+  "rarity": "Common",
+  "category": "Apex Predator",
+  "reqs": "carnivore => grand_feast := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

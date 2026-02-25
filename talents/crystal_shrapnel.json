@@ -1,0 +1,13 @@
+{
+  "name": "Crystal Shrapnel",
+  "desc": "Your Crystal explosions now have an AoE that applies crystals to all hit.",
+  "rarity": "Common",
+  "category": "Glassdancer",
+  "reqs": "glass_path_crystallization => crystal_shrapnel := 60s ICE",
+  "exclusive": [
+    "Unyielding_Frost"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

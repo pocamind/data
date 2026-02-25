@@ -1,0 +1,8 @@
+{
+  "name": "Khan",
+  "innate": {
+    "Strength": 3,
+    "Agility": 2
+  },
+  "is_pathfinder": true
+}

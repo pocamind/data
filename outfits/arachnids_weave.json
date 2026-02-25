@@ -1,0 +1,27 @@
+{
+  "name": "Arachnid's Weave",
+  "category": "Master",
+  "durability": 2100,
+  "resistances": {
+    "Elemental Resistance": 0.35,
+    "Blood Resistance": 0.15,
+    "Physical Resistance": 0.2,
+    "Thunder Resistance": 0.1,
+    "Metal Resistance": 0.1
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 55
+  },
+  "talent": "Corrosive Touch",
+  "reqs": "arachnids_weave := 240r TTL",
+  "mats": {
+    "Bloodless Gem": 1,
+    "Spider Eggs": 5,
+    "Fiber": 2,
+    "Cloth": 10,
+    "Dark Feathers": 2,
+    "Vibrant Gems": 5
+  },
+  "notes": 1000
+}

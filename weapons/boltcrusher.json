@@ -1,0 +1,17 @@
+{
+  "name": "Boltcrusher",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "boltcrusher := 20r STR, 55r HVY, 80r LTN",
+  "damage": 25.0,
+  "pen": 0.2,
+  "chip": 0.3,
+  "weight": 8.0,
+  "range": 8.5,
+  "speed": 0.87,
+  "endlag": 0.15,
+  "scaling": {
+    "Thundercall": 7.0,
+    "Heavy Wep.": 4.2
+  }
+}

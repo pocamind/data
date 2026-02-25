@@ -1,0 +1,13 @@
+{
+  "name": "Meteor Impact",
+  "desc": "Aerial moves will follow up into a devastating slam.",
+  "rarity": "Common",
+  "category": "Falling Star Guard",
+  "reqs": "meteor_impact := 25s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

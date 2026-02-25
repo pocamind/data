@@ -1,0 +1,12 @@
+{
+  "name": "Ice Eruption",
+  "desc": "A flurry of ice spikes.\r\n",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_eruption := 20r ICE",
+  "vaulted": false
+}

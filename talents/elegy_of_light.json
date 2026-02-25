@@ -1,0 +1,13 @@
+{
+  "name": "Elegy of Light",
+  "desc": "The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "elegy_of_light := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

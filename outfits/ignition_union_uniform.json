@@ -1,0 +1,22 @@
+{
+  "name": "Ignition Union Uniform",
+  "category": "Master",
+  "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.22,
+    "Elemental Resistance": 0.22
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": null,
+  "reqs": "ignition_union_uniform := 105r TTL",
+  "mats": {
+    "Fiber": 5,
+    "Cloth": 5,
+    "Irithine": 3,
+    "Lionfish Scale": 1
+  },
+  "notes": 0
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hard Read",
+  "desc": "Hitting your opponent during a feint will cause them to be dazed.",
+  "rarity": "Common",
+  "category": "Tactician",
+  "reqs": "hard_read := 20s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

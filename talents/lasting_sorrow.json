@@ -1,0 +1,13 @@
+{
+  "name": "Lasting Sorrow",
+  "desc": "Shadow lasts longer on your opponent.",
+  "rarity": "Common",
+  "category": "Shadowcaster",
+  "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

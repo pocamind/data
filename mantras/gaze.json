@@ -1,0 +1,12 @@
+{
+  "name": "Gaze",
+  "desc": "Gaze into your opponent's souls.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Attunementless",
+  "attributes": [
+    "Willpower"
+  ],
+  "reqs": "gaze := 30r WLL",
+  "vaulted": false
+}

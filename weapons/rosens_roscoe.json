@@ -1,0 +1,16 @@
+{
+  "name": "Rosen's Roscoe",
+  "type": "Guns",
+  "damage_type": "Blunt",
+  "reqs": "rosens_roscoe := 75r LHT",
+  "damage": 16.0,
+  "pen": 0.0,
+  "chip": 0.2,
+  "weight": 3.5,
+  "range": 11.0,
+  "speed": 1.2,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 11.0
+  }
+}

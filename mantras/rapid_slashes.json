@@ -1,0 +1,12 @@
+{
+  "name": "Rapid Slashes",
+  "desc": "Rush down your opponent cutting them apart.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Light Weapons"
+  ],
+  "reqs": "rapid_slashes := 30r LHT",
+  "vaulted": false
+}

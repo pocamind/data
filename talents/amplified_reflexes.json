@@ -1,0 +1,13 @@
+{
+  "name": "Amplified Reflexes",
+  "desc": "Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.",
+  "rarity": "Common",
+  "category": "Jumpstarter",
+  "reqs": "electrify => amplified_reflexes := 35s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

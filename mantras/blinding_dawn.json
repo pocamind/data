@@ -1,0 +1,12 @@
+{
+  "name": "Blinding Dawn",
+  "desc": "Dance uncontrollably. No one can withstand the sheer groove of your spin routine.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Dawnwalker"
+  ],
+  "reqs": "oath_dawnwalker => blinding_dawn := ()",
+  "vaulted": false
+}

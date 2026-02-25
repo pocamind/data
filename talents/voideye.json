@@ -1,0 +1,13 @@
+{
+  "name": "Voideye",
+  "desc": "Voidmother's blessing, the method to travel back to the Voidheart.",
+  "rarity": "Origin",
+  "category": "The Knives of Eylis",
+  "reqs": "voideye := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

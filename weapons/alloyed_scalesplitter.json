@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Scalesplitter",
+  "type": "Twinblade",
+  "damage_type": "Slash",
+  "reqs": "alloyed_scalesplitter := 65r MED",
+  "damage": 20.0,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 6.0,
+  "range": 8.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

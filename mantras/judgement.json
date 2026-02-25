@@ -1,0 +1,12 @@
+{
+  "name": "Judgement",
+  "desc": "Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Contractor"
+  ],
+  "reqs": "oath_contractor => judgement := ()",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Second Interrogation",
+  "desc": "Opponents who are electrified do 50% less damage to you and do 50% less posture damage to you.",
+  "rarity": "Common",
+  "category": "Authority Interrogator",
+  "reqs": "first_interrogation => second_interrogation := 65s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

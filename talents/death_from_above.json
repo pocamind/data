@@ -1,0 +1,13 @@
+{
+  "name": "Death From Above",
+  "desc": "Upon cancelling your Air Dash, reveal your wings and strike your enemy.",
+  "rarity": "Oath",
+  "category": "Starkindred",
+  "reqs": "oath_starkindred => death_from_above := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

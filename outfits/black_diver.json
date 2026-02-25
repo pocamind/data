@@ -1,0 +1,27 @@
+{
+  "name": "Black Diver",
+  "category": "Master",
+  "durability": 2600,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Thunder Resistance": 0.2,
+    "Shadow Resistance": 0.2,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 50
+  },
+  "talent": null,
+  "reqs": "black_diver := 10r WLL, 240r TTL",
+  "mats": {
+    "Megalodaunt Hide": 1,
+    "Cloth": 5,
+    "Vibrant Gem": 5,
+    "Odd Tentacle": 1,
+    "Fiber": 5,
+    "Thresher Spine": 1,
+    "Blessed Gem": 1
+  },
+  "notes": 1000
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Assassin's Strike",
+  "desc": "Your Rapid Slashes now deals twice the amount of damage.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "assassins_strike := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

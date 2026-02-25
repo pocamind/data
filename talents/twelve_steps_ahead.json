@@ -1,0 +1,13 @@
+{
+  "name": "Twelve Steps Ahead",
+  "desc": "Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 40s. This effect stacks up for up to 30 seconds.\n[*Note: The penalty cooldown scales off of your Intelligence, with 30s at 80 Intelligence.]",
+  "rarity": "Common",
+  "category": "Omniscient",
+  "reqs": "twelve_steps_ahead := 80s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

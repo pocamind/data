@@ -1,0 +1,15 @@
+{
+  "name": "Pack Mule",
+  "desc": "The max quantity for food you can hold is increased by 5.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "pack_mule := 5s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Carry Load": 10
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

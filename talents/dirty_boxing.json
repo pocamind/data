@@ -1,0 +1,15 @@
+{
+  "name": "Dirty Boxing",
+  "desc": "Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s cooldown.",
+  "rarity": "Rare",
+  "category": "Scoundrel",
+  "reqs": "dirty_boxing := 1s LHT, 25s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

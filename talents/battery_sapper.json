@@ -1,0 +1,13 @@
+{
+  "name": "Battery Sapper",
+  "desc": "If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s Cd",
+  "rarity": "Common",
+  "category": "Unstable Capacitor",
+  "reqs": "surge_path_unstable_capacitor => battery_sapper := 25s SDW, 60s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Parting Gift",
+  "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]",
+  "rarity": "Common",
+  "category": "Gunslinger",
+  "reqs": "parting_gift := 75s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

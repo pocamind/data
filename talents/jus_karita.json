@@ -1,0 +1,13 @@
+{
+  "name": "Jus Karita",
+  "desc": "Adopt the kick-based fighting style of the Justicars.",
+  "rarity": "Common",
+  "category": "Justicar",
+  "reqs": "jus_karita := 25s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

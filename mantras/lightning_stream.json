@@ -1,0 +1,12 @@
+{
+  "name": "Lightning Stream",
+  "desc": "A stream of lightning.\t",
+  "stars": 1,
+  "category": "Support",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "lightning_stream := 20r LTN",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Legendary",
+  "desc": "Parrying and landing hits with your weapon gives you ether back.",
+  "rarity": "Outfit",
+  "category": "Grand Pathfinder",
+  "reqs": "legendary := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

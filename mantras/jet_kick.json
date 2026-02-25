@@ -1,0 +1,12 @@
+{
+  "name": "Jet Kick",
+  "desc": "Rush forward with a jet kick. Requires a target if you're in combat.",
+  "stars": 0,
+  "category": "Mobility",
+  "type": "Oath",
+  "attributes": [
+    "Jetstriker"
+  ],
+  "reqs": "oath_jetstriker => jet_kick := ()",
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wind Blade",
+  "desc": "Slicing blades of wind.\r\n",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "wind_blade := 1r WND",
+  "vaulted": false
+}

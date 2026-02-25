@@ -1,0 +1,15 @@
+{
+  "name": "Frostdraw Unbounded",
+  "desc": "You have gained the ability to surpass your limits and train your frostdraw to its fullest.\n[Note: Falling below 75 Frostdraw revokes this Talent.]",
+  "rarity": "Common",
+  "category": "Frostdraw Master",
+  "reqs": "frostdraw_unbounded := 75s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 10
+  },
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Metal Rain",
+  "desc": "Rain down a incredible amount of metal rods ",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "metal_rain := 30r MTL",
+  "vaulted": false
+}

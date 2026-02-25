@@ -1,0 +1,13 @@
+{
+  "name": "Willpower Unbounded",
+  "desc": "You have gained the ability to surpass your limits and train your willpower to its fullest.",
+  "rarity": "Common",
+  "category": "Iron Will",
+  "reqs": "willpower_unbounded := 75s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

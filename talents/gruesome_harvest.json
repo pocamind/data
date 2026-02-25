@@ -1,0 +1,13 @@
+{
+  "name": "Gruesome Harvest",
+  "desc": "Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.",
+  "rarity": "Advanced",
+  "category": "Septicemia",
+  "reqs": "gruesome_harvest := 85s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

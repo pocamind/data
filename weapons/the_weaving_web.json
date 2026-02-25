@@ -1,0 +1,17 @@
+{
+  "name": "The Weaving Web",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "the_weaving_web := 40r CHA, 60r MED",
+  "damage": 20.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 8.5,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Charisma": 1.0,
+    "Medium Wep.": 5.5
+  }
+}

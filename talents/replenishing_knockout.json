@@ -1,0 +1,13 @@
+{
+  "name": "Replenishing Knockout",
+  "desc": "Gain more health and posture from downing enemies.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "replenishing_knockout := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

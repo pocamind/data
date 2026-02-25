@@ -1,0 +1,15 @@
+{
+  "name": "Treefelling Blow",
+  "desc": "You can collect lumber from the trees you fell with your fists. It's only natural.",
+  "rarity": "Quest",
+  "category": "Miscellaneous",
+  "reqs": "treefelling_blow := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Carry Load": 4
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

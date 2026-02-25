@@ -1,0 +1,13 @@
+{
+  "name": "Decisive Blow",
+  "desc": "Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage.",
+  "rarity": "Common",
+  "category": "Critical Specialist",
+  "reqs": "knifes_journey => decisive_blow := 30s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

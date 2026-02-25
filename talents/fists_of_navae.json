@@ -1,0 +1,13 @@
+{
+  "name": "Fists of Navae",
+  "desc": "Your flourish timer lasts longer with fists.",
+  "rarity": "Outfit",
+  "category": "Navaen Nomad",
+  "reqs": "fists_of_navae := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

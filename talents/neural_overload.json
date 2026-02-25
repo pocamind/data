@@ -1,0 +1,13 @@
+{
+  "name": "Neural Overload",
+  "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
+  "rarity": "Advanced",
+  "category": "Adept Caster",
+  "reqs": "neural_overload := 85s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

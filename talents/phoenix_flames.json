@@ -1,0 +1,13 @@
+{
+  "name": "Phoenix Flames",
+  "desc": "Any time you would burn to death, you instead rise again with up to 50% of your health restored. Has a 60 second cooldown.\n[*The health returned with this talent scales on your Flamecharm investment, starting at 25%.]",
+  "rarity": "Advanced",
+  "category": "Immolator",
+  "reqs": "agitating_spark, immolation => phoenix_flames := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shaper Mimicry",
+  "desc": "The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.",
+  "rarity": "Oath",
+  "category": "Visionshaper",
+  "reqs": "oath_visionshaper => shaper_mimicry := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

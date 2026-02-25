@@ -1,0 +1,13 @@
+{
+  "name": "Rain of Static",
+  "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.",
+  "rarity": "Common",
+  "category": "Thunder Caster",
+  "reqs": "rain_of_static := 30s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

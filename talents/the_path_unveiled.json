@@ -1,0 +1,13 @@
+{
+  "name": "The Path, Unveiled",
+  "desc": "Your Jus Karita attacks deal 15% more damage.",
+  "rarity": "Outfit",
+  "category": "Jus Karita",
+  "reqs": "the_path_unveiled := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

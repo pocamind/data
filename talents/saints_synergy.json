@@ -1,0 +1,13 @@
+{
+  "name": "Saint's Synergy",
+  "desc": "25% of your highest element scaling is applied to other elemental damage.",
+  "rarity": "Oath",
+  "category": "Saintsworn",
+  "reqs": "oath_saintsworn => saints_synergy := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bloodcurdle",
+  "desc": "Manipulate the blood within your target's body.",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "bloodcurdle := 50r BLD",
+  "vaulted": false
+}

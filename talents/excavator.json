@@ -1,0 +1,13 @@
+{
+  "name": "Excavator",
+  "desc": "Chance to receive two sets of ore when mining. You mine things more quickly.",
+  "rarity": "Quest",
+  "category": "Prospector",
+  "reqs": "excavator := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

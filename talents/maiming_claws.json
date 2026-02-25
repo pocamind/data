@@ -1,0 +1,15 @@
+{
+  "name": "Maiming Claws",
+  "desc": "Down Comes the Claw now disables your opponents posture regeneration for 6s on proc.",
+  "rarity": "Common",
+  "category": "Trickster",
+  "reqs": "down_comes_the_claw => maiming_claws := 100s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

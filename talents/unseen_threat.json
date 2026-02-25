@@ -1,0 +1,13 @@
+{
+  "name": "Unseen Threat",
+  "desc": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 5s.",
+  "rarity": "Common",
+  "category": "Assassin",
+  "reqs": "deep_wound => unseen_threat := 60s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

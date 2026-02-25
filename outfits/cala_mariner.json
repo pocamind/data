@@ -1,0 +1,26 @@
+{
+  "name": "Cala-Mariner",
+  "category": "Master",
+  "durability": 2200,
+  "resistances": {
+    "Blood Resistance": 0.25,
+    "Elemental Resistance": 0.35,
+    "Wind Resistance": 0.3,
+    "Physical Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 45,
+    "Extra Stealth": 0
+  },
+  "talent": "Tidal Shock",
+  "reqs": "cala_mariner := 5r WLL, 240r TTL",
+  "mats": {
+    "Odd Tentacles": 5,
+    "Fiber": 4,
+    "Cloth": 3,
+    "Nautilodaunt Beak": 1,
+    "Vibrant Gems": 10,
+    "Blue Gem": 1
+  },
+  "notes": 2200
+}

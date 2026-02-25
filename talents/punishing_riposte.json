@@ -1,0 +1,13 @@
+{
+  "name": "Punishing Riposte",
+  "desc": "When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "punishing_riposte := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

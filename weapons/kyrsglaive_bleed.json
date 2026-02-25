@@ -1,0 +1,16 @@
+{
+  "name": "Kyrsglaive (Bleed)",
+  "type": "Spear",
+  "damage_type": "Slash + Bleed",
+  "reqs": "kyrsglaive_bleed := 90r MED",
+  "damage": 18.5,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.96,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 5.0
+  }
+}

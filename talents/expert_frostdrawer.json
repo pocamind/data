@@ -1,0 +1,13 @@
+{
+  "name": "Expert Frostdrawer",
+  "desc": "You can now obtain 2-star Frostdrawer mantras.",
+  "rarity": "Common",
+  "category": "Frostdrawer",
+  "reqs": "adept_frostdrawer => expert_frostdrawer := 30s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Decimate",
+  "desc": "Cut through your opponent, if True Strength is active, this attack will extend to nearby enemies. Fists cannot use this mantra. Autogrips players if low enough or knocked.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Bladeharper"
+  ],
+  "reqs": "oath_bladeharper => decimate := ()",
+  "vaulted": false
+}

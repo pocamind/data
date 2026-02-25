@@ -1,0 +1,13 @@
+{
+  "name": "Static Blade",
+  "desc": "[Medium Weapons] Hitting blocks or blocking or parrying hits will now generate an electric chage in your blade, granting a small speed buff. Charges can stack up to 5 times.",
+  "rarity": "Common",
+  "category": "Thunderblade",
+  "reqs": "thundercaller => static_blade := 20s MED, 40s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

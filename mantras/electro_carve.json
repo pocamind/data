@@ -1,0 +1,12 @@
+{
+  "name": "Electro Carve",
+  "desc": "Produce a highly potent field of electromagnetism, shocking all inside.\t",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "electro_carve := 20r LTN",
+  "vaulted": false
+}

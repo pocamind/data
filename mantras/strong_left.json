@@ -1,0 +1,12 @@
+{
+  "name": "Strong Left",
+  "desc": "A powerful, flinging punch that shatters the air.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Strength"
+  ],
+  "reqs": "strong_left := 20r STR",
+  "vaulted": false
+}

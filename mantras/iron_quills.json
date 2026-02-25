@@ -1,0 +1,12 @@
+{
+  "name": "Iron Quills",
+  "desc": "Conjure metal from within, impaling surrounding enemies.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "iron_quills := 30r MTL",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Surge Path: Unstable Capacitor",
+  "desc": "Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.",
+  "rarity": "Common",
+  "category": "Unstable Capacitor",
+  "reqs": "surge_path_unstable_capacitor := 40s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

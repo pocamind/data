@@ -1,0 +1,13 @@
+{
+  "name": "Murmur: Tacet [OATH]",
+  "desc": "An application of the Song that enables the user to suppress their own murmur. Press T while crouched.",
+  "rarity": "Oath",
+  "category": "Soulbreaker",
+  "reqs": "oath_soulbreaker => murmur_tacet_oath := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

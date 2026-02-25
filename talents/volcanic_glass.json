@@ -1,0 +1,15 @@
+{
+  "name": "Volcanic Glass",
+  "desc": "Detonating crystals causes an eruption soon after.",
+  "rarity": "Advanced",
+  "category": "Pyroclast",
+  "reqs": "glass_path_crystallization, eruption_path_lava_serpent => volcanic_glass := ()",
+  "exclusive": [
+    "Unyielding_Frost",
+    "The_Final_Act",
+    "Wraith_Path_Twisted_Puppets"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

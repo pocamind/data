@@ -1,0 +1,16 @@
+{
+  "name": "Gremorian Longspear",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "gremorian_longspear := 20r MED",
+  "damage": 18.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.9,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 4.0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fatal Stealth",
+  "desc": "You deal increased backstab damage to opponents based on how high your stealth stat currently is.\n[*Note: +0.2% damage per 1 Stealth from Equipment.]",
+  "rarity": "Faction",
+  "category": "Inquisitive Lethality",
+  "reqs": "fatal_stealth := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

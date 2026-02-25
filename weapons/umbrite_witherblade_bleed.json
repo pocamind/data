@@ -1,0 +1,16 @@
+{
+  "name": "Umbrite Witherblade (Bleed)",
+  "type": "Sword",
+  "damage_type": "Slash + Bleed",
+  "reqs": "umbrite_witherblade_bleed := 10r WLL, 65r MED",
+  "damage": 13.0,
+  "pen": 0.0,
+  "chip": 0.2,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 1.02,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 12.0
+  }
+}

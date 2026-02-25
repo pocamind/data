@@ -1,0 +1,13 @@
+{
+  "name": "Static Mastery",
+  "desc": "Your static withdraw no longer deals damage nor stuns you.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "static_mastery := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

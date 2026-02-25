@@ -1,0 +1,13 @@
+{
+  "name": "Jolting Current",
+  "desc": "Your lightning attacks in water strike others near them with lightning.",
+  "rarity": "Common",
+  "category": "Rampant Static",
+  "reqs": "jolting_current := 35s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

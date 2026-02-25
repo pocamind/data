@@ -1,0 +1,13 @@
+{
+  "name": "Adept Galebreather",
+  "desc": "You can now obtain 1-star Galebreather mantras.",
+  "rarity": "Common",
+  "category": "Galebreather",
+  "reqs": "galebreather => adept_galebreather := 20s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

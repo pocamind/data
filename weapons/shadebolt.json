@@ -1,0 +1,17 @@
+{
+  "name": "Shadebolt",
+  "type": "Bow",
+  "damage_type": "Slash",
+  "reqs": "shadebolt := 30r SDW, 45r MED",
+  "damage": 16.0,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 4.5,
+  "range": 12.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Shadowcast": 2.0,
+    "Medium Wep.": 8.0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mercy Kill",
+  "desc": "When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.",
+  "rarity": "Quest",
+  "category": "Weapon Master",
+  "reqs": "mercy_kill := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

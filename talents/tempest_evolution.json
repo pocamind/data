@@ -1,0 +1,13 @@
+{
+  "name": "Tempest Evolution",
+  "desc": "If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "tempest_evolution := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

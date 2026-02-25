@@ -1,0 +1,16 @@
+{
+  "name": "Shield Breaker",
+  "desc": "Blunt damage now fully ignores the posture bonus from shields.",
+  "rarity": "Common",
+  "category": "Rampaging Brute",
+  "reqs": "shield_breaker := 60s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Carry Load": 4,
+    "Posture": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Broken Ankles",
+  "desc": "Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD",
+  "rarity": "Common",
+  "category": "Raging Bull",
+  "reqs": "broken_ankles := 70s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

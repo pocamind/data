@@ -1,0 +1,12 @@
+{
+  "name": "Crucifixion",
+  "desc": "Conjure a bloody cross.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "crucifixion := 1r BLD",
+  "vaulted": false
+}

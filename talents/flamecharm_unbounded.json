@@ -1,0 +1,15 @@
+{
+  "name": "Flamecharm Unbounded",
+  "desc": "You have gained the ability to surpass your limits and train your flamecharm to its fullest.\n[Note: Falling below 75 Flamecharm revokes this Talent.]",
+  "rarity": "Common",
+  "category": "Flamecharm Master",
+  "reqs": "flamecharm_unbounded := 75s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 10
+  },
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

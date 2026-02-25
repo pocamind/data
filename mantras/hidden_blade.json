@@ -1,0 +1,12 @@
+{
+  "name": "Hidden Blade",
+  "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison.\n[*Note: Requires Authority Ensign Origin's Inquisition Division]",
+  "stars": 0,
+  "category": "Support",
+  "type": "Origin",
+  "attributes": [
+    "Authority Ensign"
+  ],
+  "reqs": "hidden_blade := ()",
+  "vaulted": false
+}

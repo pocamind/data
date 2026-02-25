@@ -1,0 +1,15 @@
+{
+  "name": "Blade's Edge",
+  "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%.",
+  "rarity": "Common",
+  "category": "Lancer",
+  "reqs": "blades_edge := 30s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

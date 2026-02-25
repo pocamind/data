@@ -1,0 +1,16 @@
+{
+  "name": "Hero's Blade Of Frost",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "heros_blade_of_frost := 100r ICE",
+  "damage": 19.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Frostdraw": 5.5
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Blighted Song",
+  "desc": "Attaching your Shadow Chains to enemies disables both your and your enemy's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "blighted_song := 10s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

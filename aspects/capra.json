@@ -1,0 +1,8 @@
+{
+  "name": "Capra",
+  "innate": {
+    "Intelligence": 2,
+    "Willpower": 3
+  },
+  "is_pathfinder": true
+}

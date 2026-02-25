@@ -1,0 +1,12 @@
+{
+  "name": "Twincleave",
+  "desc": "Dart around the battlefield with devastating cleaves delivered in quick succesion.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Medium Weapons"
+  ],
+  "reqs": "twincleave := 50r MED",
+  "vaulted": false
+}

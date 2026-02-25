@@ -1,0 +1,12 @@
+{
+  "name": "Emotion Wave",
+  "desc": "Conjure up surging waves of lightning that travel along the ground.\n[*Guard breaks on first hit]",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "emotion_wave := 50r LTN",
+  "vaulted": false
+}

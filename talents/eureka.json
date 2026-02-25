@@ -1,0 +1,13 @@
+{
+  "name": "Eureka",
+  "desc": "Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack",
+  "rarity": "Rare",
+  "category": "Ether Conduit",
+  "reqs": "eureka := 30s INT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

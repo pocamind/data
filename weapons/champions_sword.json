@@ -1,0 +1,16 @@
+{
+  "name": "Champion's Sword",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "champions_sword := 40r MED",
+  "damage": 19.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 8.0,
+  "speed": 1.02,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.5
+  }
+}

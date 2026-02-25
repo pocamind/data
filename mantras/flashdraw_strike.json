@@ -1,0 +1,12 @@
+{
+  "name": "Flashdraw Strike",
+  "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Medium Weapons"
+  ],
+  "reqs": "flashdraw_strike := 25r AGL, 60r MED",
+  "vaulted": false
+}

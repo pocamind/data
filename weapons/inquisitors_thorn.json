@@ -1,0 +1,16 @@
+{
+  "name": "Inquisitor's Thorn",
+  "type": "Rapier",
+  "damage_type": "Slash",
+  "reqs": "inquisitors_thorn := 40r LHT",
+  "damage": 14.0,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 8.0,
+  "speed": 1.08,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 7.0
+  }
+}

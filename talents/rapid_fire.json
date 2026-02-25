@@ -1,0 +1,13 @@
+{
+  "name": "Rapid Fire",
+  "desc": "[1H Guns] When you land a critical shot gain the ability to rapidly fire your critical for 2s. 12s cooldown.",
+  "rarity": "Common",
+  "category": "Outlaw",
+  "reqs": "rapid_fire := 50s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

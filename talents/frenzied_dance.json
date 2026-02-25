@@ -1,0 +1,13 @@
+{
+  "name": "Frenzied Dance",
+  "desc": "[Rapier] The more posture you currently have, the more chip and posture damage you deal.",
+  "rarity": "Common",
+  "category": "Needle",
+  "reqs": "frenzied_dance := 50s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

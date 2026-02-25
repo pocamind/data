@@ -1,0 +1,13 @@
+{
+  "name": "Thresher Claws",
+  "desc": "All of your attacks have +5% more PEN. Your Basic Attacks and critical attacks have an additional +5% PEN on top.",
+  "rarity": "Rare",
+  "category": "Marauder",
+  "reqs": "thresher_claws := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

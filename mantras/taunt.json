@@ -1,0 +1,12 @@
+{
+  "name": "Taunt",
+  "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Attunementless",
+  "attributes": [
+    "Charisma"
+  ],
+  "reqs": "taunt := 25r CHA",
+  "vaulted": false
+}

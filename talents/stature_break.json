@@ -1,0 +1,13 @@
+{
+  "name": "Stature Break",
+  "desc": "Landing a backstab of any kind disables posture for 8 seconds.",
+  "rarity": "Faction",
+  "category": "Inquisitive Lethality",
+  "reqs": "stature_break := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

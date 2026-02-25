@@ -1,0 +1,13 @@
+{
+  "name": "Sow and Mend",
+  "desc": "Sacrifice 35% of your blood for temporary health.",
+  "rarity": "Rare",
+  "category": "Transitory Vitality",
+  "reqs": "master_bloodrender => sow_and_mend := 60s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

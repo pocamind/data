@@ -1,0 +1,13 @@
+{
+  "name": "Narcissist",
+  "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.",
+  "rarity": "Common",
+  "category": "Toxic Personality",
+  "reqs": "charismatic_cast => narcissist := 60s CHA",
+  "exclusive": [
+    "Tough_Love"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

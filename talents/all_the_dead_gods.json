@@ -1,0 +1,15 @@
+{
+  "name": "All the Dead Gods",
+  "desc": "Your Basic Attacks now apply anti-heal for 8s.\n[Note: Scales with investment. Having less Willpower reduces the effect of this Talent.]",
+  "rarity": "Rare",
+  "category": "Heretic",
+  "reqs": "all_the_dead_gods := 40s INT, 65s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Sanity": 7
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

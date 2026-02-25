@@ -1,0 +1,13 @@
+{
+  "name": "Steel Tread",
+  "desc": "Gain a bit of knockback resistance as well as damage resistence against attacks that ragdoll you.",
+  "rarity": "Faction",
+  "category": "Battle Readiness",
+  "reqs": "steel_tread := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Brachial Spear",
+  "desc": "A javelin of jagged bone.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Monster",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "reqs": "brachial_spear := ()",
+  "vaulted": false
+}

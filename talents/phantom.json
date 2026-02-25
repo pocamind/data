@@ -1,0 +1,13 @@
+{
+  "name": "Phantom",
+  "desc": "For the next 5 seconds, your basic attack bypasses block after landing a crit. [45s cd]",
+  "rarity": "Equipment",
+  "category": "Weapon",
+  "reqs": "phantom := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

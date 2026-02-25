@@ -1,0 +1,13 @@
+{
+  "name": "Azure Flames",
+  "desc": "Many of your flames turn blue, signifying their increased intensity.",
+  "rarity": "Common",
+  "category": "Flamecharmer",
+  "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
+  "exclusive": [
+    "Wraith_Path_Twisted_Puppets"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

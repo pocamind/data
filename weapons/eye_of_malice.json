@@ -1,0 +1,16 @@
+{
+  "name": "Eye of Malice",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "eye_of_malice := 75r MED",
+  "damage": 21.0,
+  "pen": 0.25,
+  "chip": 0.15,
+  "weight": 4.0,
+  "range": 10.5,
+  "speed": 0.95,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 8.0
+  }
+}

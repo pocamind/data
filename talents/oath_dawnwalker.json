@@ -1,0 +1,15 @@
+{
+  "name": "Oath: Dawnwalker",
+  "desc": "You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge.",
+  "rarity": "Oath",
+  "category": "Dawnwalker",
+  "reqs": "oath_dawnwalker := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Combat Mantra": 3
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

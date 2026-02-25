@@ -1,0 +1,17 @@
+{
+  "name": "Wyrmtooth",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "wyrmtooth := 40r HVY, 60r MED",
+  "damage": 20.0,
+  "pen": 0.2,
+  "chip": 0.0,
+  "weight": 7.0,
+  "range": 9.0,
+  "speed": 0.93,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.2,
+    "Heavy Wep.": 4.2
+  }
+}

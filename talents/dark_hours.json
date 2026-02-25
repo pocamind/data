@@ -1,0 +1,13 @@
+{
+  "name": "Dark Hours",
+  "desc": "Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "shadowcaster => dark_hours := 35s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

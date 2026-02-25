@@ -1,0 +1,16 @@
+{
+  "name": "Crescendo",
+  "type": "Twinblade",
+  "damage_type": "Slash",
+  "reqs": "crescendo := 75r MED",
+  "damage": 22.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 6.0,
+  "range": 7.5,
+  "speed": 0.92,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

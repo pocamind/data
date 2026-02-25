@@ -1,0 +1,23 @@
+{
+  "name": "Whaler Coat",
+  "category": "Master",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.15
+  },
+  "extra_percents": {
+    "Extra Stealth": 50,
+    "Ether Regen": 0
+  },
+  "talent": null,
+  "reqs": "whaler_coat := 165r TTL",
+  "mats": {
+    "Gold": 2,
+    "Lionfish Scale": 2,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Iron": 10
+  },
+  "notes": 100
+}

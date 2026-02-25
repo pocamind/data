@@ -1,0 +1,13 @@
+{
+  "name": "Overwhelming Might",
+  "desc": "Strong Left, Table Flip and Skyshatter Kick now all guardbreak at level 5.",
+  "rarity": "Outfit",
+  "category": "Unknown",
+  "reqs": "overwhelming_might := 30s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

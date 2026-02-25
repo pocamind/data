@@ -1,0 +1,16 @@
+{
+  "name": "Gourmand",
+  "desc": "Your hunger and thirst gain from eating increased.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "gourmand := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Carry Load": 2,
+    "Posture": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

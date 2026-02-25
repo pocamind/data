@@ -1,0 +1,16 @@
+{
+  "name": "Morning Star (Bleed)",
+  "type": "Club",
+  "damage_type": "Blunt + Bleed",
+  "reqs": "morning_star_bleed := 50r MED",
+  "damage": 16.0,
+  "pen": 0.2,
+  "chip": 0.2,
+  "weight": 5.0,
+  "range": 7.5,
+  "speed": 0.98,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 5.5
+  }
+}

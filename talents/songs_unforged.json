@@ -1,0 +1,13 @@
+{
+  "name": "Songs Unforged",
+  "desc": "Your weapon criticals will now activate Scrapsinger",
+  "rarity": "Common",
+  "category": "Scrapsinger",
+  "reqs": "gilded_path_scrapsinger => songs_unforged := 50s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

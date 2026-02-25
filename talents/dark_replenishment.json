@@ -1,0 +1,13 @@
+{
+  "name": "Dark Replenishment",
+  "desc": "Knocking out an enemy in combat restores a portion of your ether.",
+  "rarity": "Common",
+  "category": "Darksiphon",
+  "reqs": "dark_god => dark_replenishment := 25s INT, 50s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Metal Turret",
+  "desc": "An automated turret that fires at targets that cross its sight.",
+  "stars": 2,
+  "category": "Support",
+  "type": "Attunement",
+  "attributes": [
+    "Ironsing"
+  ],
+  "reqs": "metal_turret := 30r MTL",
+  "vaulted": false
+}

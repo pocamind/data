@@ -1,0 +1,13 @@
+{
+  "name": "Adept Frostdrawer",
+  "desc": "You can now obtain 1-star Frostdrawer mantras.",
+  "rarity": "Common",
+  "category": "Frostdrawer",
+  "reqs": "frostdrawer => adept_frostdrawer := 20s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

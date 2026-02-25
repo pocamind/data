@@ -1,0 +1,12 @@
+{
+  "name": "Rising Wind",
+  "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "rising_wind := 30r WND",
+  "vaulted": false
+}

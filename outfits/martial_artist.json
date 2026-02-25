@@ -1,0 +1,22 @@
+{
+  "name": "Martial Artist",
+  "category": "Master",
+  "durability": 1200,
+  "resistances": {
+    "Flame Resistance": 0.05,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Bruiser's Mixup",
+  "reqs": "martial_artist := 15r STR, 165r TTL",
+  "mats": {
+    "Fiber": 5,
+    "Odd Tentacle": 1,
+    "Cloth": 7
+  },
+  "notes": 0
+}

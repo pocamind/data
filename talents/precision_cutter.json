@@ -1,0 +1,13 @@
+{
+  "name": "Precision Cutter",
+  "desc": "Landing a charged shot will knock your opponent down instead of back.",
+  "rarity": "Rare",
+  "category": "Greatarcher",
+  "reqs": "hard_stop => precision_cutter := 75s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

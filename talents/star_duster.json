@@ -1,0 +1,13 @@
+{
+  "name": "Star Duster",
+  "desc": "You take 10% less damage from airborne enemies.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "star_duster => star_duster := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

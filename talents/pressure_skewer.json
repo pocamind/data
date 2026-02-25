@@ -1,0 +1,13 @@
+{
+  "name": "Pressure Skewer",
+  "desc": "[Rapier] Flourishing an enemy causes your M1s to deal additional chip damage, blood loss, and makes your hits deal 3 extra true damage until you take damage.",
+  "rarity": "Common",
+  "category": "Needle",
+  "reqs": "pressure_skewer := 40s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

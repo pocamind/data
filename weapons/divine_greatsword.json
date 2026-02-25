@@ -1,0 +1,16 @@
+{
+  "name": "Divine Greatsword",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "divine_greatsword := ()",
+  "damage": 30.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 8.5,
+  "range": 9.2,
+  "speed": 0.84,
+  "endlag": 0.25,
+  "scaling": {
+    "Heavy Wep.": 12.0
+  }
+}

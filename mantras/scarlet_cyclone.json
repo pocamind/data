@@ -1,0 +1,12 @@
+{
+  "name": "Scarlet Cyclone",
+  "desc": "Create a cyclone of blood.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "reqs": "scarlet_cyclone := 1r BLD",
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Depths Connection",
+  "desc": "Your interaction with The Depths allows you to easily draw ether from the surrounding air.",
+  "rarity": "Common",
+  "category": "Deepwoken",
+  "reqs": "depths_connection := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ready or Not",
+  "desc": "The first attack to hit you while out of combat has its damage cut in half.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "ready_or_not := 20s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kiron",
+  "innate": {
+    "Agility": 3,
+    "Intelligence": 2
+  },
+  "is_pathfinder": true
+}

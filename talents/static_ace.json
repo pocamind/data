@@ -1,0 +1,13 @@
+{
+  "name": "Static Ace",
+  "desc": "Using Lightning Stream with an active tether targets your closest active link.",
+  "rarity": "Common",
+  "category": "Static Weaver",
+  "reqs": "static_link => static_ace := 15s INT, 70s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

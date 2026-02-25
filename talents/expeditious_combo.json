@@ -1,0 +1,13 @@
+{
+  "name": "Expeditious Combo",
+  "desc": "Landing an uppercut will grant you a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "expeditious_combo := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

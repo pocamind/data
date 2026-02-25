@@ -1,0 +1,16 @@
+{
+  "name": "Chorus of Agonies",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "chorus_of_agonies := 20r STR, 100r HVY",
+  "damage": 27.6,
+  "pen": 0.0,
+  "chip": 0.25,
+  "weight": 10.0,
+  "range": 10.0,
+  "speed": 0.7,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 11.0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Soul Rip",
+  "desc": "Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite Ether for 25 seconds. Beware its strenuous downside.",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "soul_rip := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

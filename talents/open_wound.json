@@ -1,0 +1,13 @@
+{
+  "name": "Open Wound",
+  "desc": "Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.",
+  "rarity": "Common",
+  "category": "Quack Doctor",
+  "reqs": "open_wound := 40s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

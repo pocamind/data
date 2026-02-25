@@ -1,0 +1,16 @@
+{
+  "name": "Lumber Axe",
+  "type": "Item",
+  "damage_type": "Slash",
+  "reqs": "lumber_axe := ()",
+  "damage": 10.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 3.0,
+  "range": 6.5,
+  "speed": 1.0,
+  "endlag": 0.65,
+  "scaling": {
+    "Strength": 10.0
+  }
+}

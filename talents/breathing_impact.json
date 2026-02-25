@@ -1,0 +1,13 @@
+{
+  "name": "Breathing Impact",
+  "desc": "Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit.",
+  "rarity": "Common",
+  "category": "Galeforce",
+  "reqs": "galebreather => breathing_impact := 30s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

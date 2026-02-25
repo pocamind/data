@@ -1,0 +1,13 @@
+{
+  "name": "Blood Bank",
+  "desc": "Consuming 'Charm' now gives slight temporary health.",
+  "rarity": "Common",
+  "category": "Scarlet Donor",
+  "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

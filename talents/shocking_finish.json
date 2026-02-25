@@ -1,0 +1,13 @@
+{
+  "name": "Shocking Finish",
+  "desc": "Following a flourish up with a lightning beam causes it to be casted instantly.",
+  "rarity": "Common",
+  "category": "Thundercaller",
+  "reqs": "shocking_finish := 30s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

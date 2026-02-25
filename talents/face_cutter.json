@@ -1,0 +1,15 @@
+{
+  "name": "Face Cutter",
+  "desc": "[Twinblade] Your Spine Cutter now deals an additional hit.",
+  "rarity": "Rare",
+  "category": "Twinblade",
+  "reqs": "spine_cutter => face_cutter := 75s MED",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

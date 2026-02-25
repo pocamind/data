@@ -1,0 +1,13 @@
+{
+  "name": "Authority Intimidation",
+  "desc": "Lightning moves slow your opponent more.",
+  "rarity": "Common",
+  "category": "Authority Interrogator",
+  "reqs": "thundercaller => authority_intimidation := 60s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

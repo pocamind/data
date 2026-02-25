@@ -1,0 +1,13 @@
+{
+  "name": "Brassneck",
+  "desc": "Knocking an enemy grants you 20% damage resistance for 15 seconds.",
+  "rarity": "Common",
+  "category": "Miscellaneous",
+  "reqs": "brassneck := 30s STR, 35s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

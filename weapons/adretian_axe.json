@@ -1,0 +1,16 @@
+{
+  "name": "Adretian Axe",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "adretian_axe := 35r HVY",
+  "damage": 24.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 8.0,
+  "speed": 0.85,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 7.0
+  }
+}

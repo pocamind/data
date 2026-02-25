@@ -1,0 +1,12 @@
+{
+  "name": "Eclipse Kick",
+  "desc": "Show your foes your strength.",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "eclipse_kick := 15r STR, 50r SDW",
+  "vaulted": false
+}

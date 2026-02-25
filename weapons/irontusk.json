@@ -1,0 +1,16 @@
+{
+  "name": "Irontusk",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "irontusk := ()",
+  "damage": 16.5,
+  "pen": 0.1,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.9,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 3.0
+  }
+}

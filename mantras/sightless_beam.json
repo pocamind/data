@@ -1,0 +1,12 @@
+{
+  "name": "Sightless Beam",
+  "desc": "Fires a high pressure beam from your eyes.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Blindseer"
+  ],
+  "reqs": "oath_blindseer => sightless_beam := ()",
+  "vaulted": false
+}

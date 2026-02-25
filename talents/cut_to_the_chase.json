@@ -1,0 +1,15 @@
+{
+  "name": "Cut to the Chase",
+  "desc": "You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them.",
+  "rarity": "Rare",
+  "category": "Vigil Swordsman",
+  "reqs": "cut_to_the_chase := 60s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

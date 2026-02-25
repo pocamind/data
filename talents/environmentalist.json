@@ -1,0 +1,13 @@
+{
+  "name": "Environmentalist",
+  "desc": "Resist the effects of some weather events.",
+  "rarity": "Outfit",
+  "category": "Pathfinder",
+  "reqs": "environmentalist := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

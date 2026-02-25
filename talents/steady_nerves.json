@@ -1,0 +1,15 @@
+{
+  "name": "Steady Nerves",
+  "desc": "You dance from toe to toe - successful dodges restore posture.",
+  "rarity": "Common",
+  "category": "Duelist",
+  "reqs": "steady_nerves := 15s STR, 45s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

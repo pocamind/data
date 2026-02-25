@@ -1,0 +1,13 @@
+{
+  "name": "Volt Draft",
+  "desc": "Using Inhale will now also make your m1s apply a storm strike. [20 second CD]",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "volt_draft := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

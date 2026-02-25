@@ -1,0 +1,8 @@
+{
+  "name": "Drakkard",
+  "innate": {
+    "Agility": 2,
+    "Fortitude": 3
+  },
+  "is_pathfinder": false
+}

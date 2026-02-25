@@ -1,0 +1,13 @@
+{
+  "name": "Hemolytic Transfusion",
+  "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
+  "rarity": "Common",
+  "category": "Septicemia",
+  "reqs": "hemolytic_transfusion := 65s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

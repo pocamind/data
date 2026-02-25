@@ -1,0 +1,13 @@
+{
+  "name": "Concussive Force",
+  "desc": "Enemies you knocked remain downed longer than usual.",
+  "rarity": "Common",
+  "category": "Duelist",
+  "reqs": "concussive_force := 15s STR",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

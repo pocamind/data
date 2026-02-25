@@ -1,0 +1,15 @@
+{
+  "name": "Featherfall",
+  "desc": "Prevents Falls from damaging you After sufficient damage has been resisted. the pendant will go inactive and require time to recharge.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "featherfall := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

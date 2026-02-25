@@ -1,0 +1,16 @@
+{
+  "name": "Divine Flintlock",
+  "type": "Guns",
+  "damage_type": "Blunt",
+  "reqs": "divine_flintlock := ()",
+  "damage": 15.0,
+  "pen": 0.14,
+  "chip": 0.0,
+  "weight": 1.0,
+  "range": 12.0,
+  "speed": 1.33,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 15.0
+  }
+}

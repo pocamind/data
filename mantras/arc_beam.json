@@ -1,0 +1,12 @@
+{
+  "name": "Arc Beam",
+  "desc": "Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Arcwarder"
+  ],
+  "reqs": "oath_arcwarder => arc_beam := ()",
+  "vaulted": false
+}

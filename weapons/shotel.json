@@ -1,0 +1,16 @@
+{
+  "name": "Shotel",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "shotel := 45r MED",
+  "damage": 22.0,
+  "pen": 0.0,
+  "chip": 0.2,
+  "weight": 4.0,
+  "range": 8.0,
+  "speed": 0.97,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 5.0
+  }
+}

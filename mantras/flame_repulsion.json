@@ -1,0 +1,12 @@
+{
+  "name": "Flame Repulsion",
+  "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "flame_repulsion := 1r FLM",
+  "vaulted": false
+}

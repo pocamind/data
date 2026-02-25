@@ -1,0 +1,25 @@
+{
+  "name": "Titus Raiment",
+  "category": "Master",
+  "durability": 3000,
+  "resistances": {
+    "Wind Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.35,
+    "Thunder Resistance": 0.1
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 30
+  },
+  "talent": "Overwhelming Might",
+  "reqs": "titus_raiment := 30r STR, 240r TTL",
+  "mats": {
+    "Cloth": 5,
+    "Titus' Armor Piece": 1,
+    "Might Gem": 3,
+    "Wrath Gem": 3,
+    "Warden's Armor Piece": 1
+  },
+  "notes": 2500
+}

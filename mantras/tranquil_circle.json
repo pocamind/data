@@ -1,0 +1,12 @@
+{
+  "name": "Tranquil Circle",
+  "desc": "Disables mantras from being used, gives 10% Monster Armour and also gain total immunity to mantras whilst inside the radius.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Oath",
+  "attributes": [
+    "Blindseer"
+  ],
+  "reqs": "oath_blindseer => tranquil_circle := ()",
+  "vaulted": false
+}

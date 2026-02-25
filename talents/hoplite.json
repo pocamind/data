@@ -1,0 +1,15 @@
+{
+  "name": "Hoplite",
+  "desc": "Posture damage is reduced by 15% when wielding a spear and standing still.",
+  "rarity": "Common",
+  "category": "Lancer",
+  "reqs": "hoplite := 15s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

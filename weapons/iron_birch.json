@@ -1,0 +1,16 @@
+{
+  "name": "Iron Birch",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "iron_birch := 50r HVY",
+  "damage": 26.5,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 8.0,
+  "speed": 0.85,
+  "endlag": 0.0,
+  "scaling": {
+    "Heavy Wep.": 6.0
+  }
+}

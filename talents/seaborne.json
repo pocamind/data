@@ -1,0 +1,13 @@
+{
+  "name": "Seaborne",
+  "desc": "You have a keen understanding of ships and their maintenance.",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "seaborne := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

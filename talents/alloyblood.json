@@ -1,0 +1,13 @@
+{
+  "name": "Alloyblood",
+  "desc": "You  don't bleed like others do. Bleed damage is reduced by 30%. Blood loss is reduced by 75%.\n[Note: Scales with investment. Having less Ironsing reduces the effect of this Talent.]",
+  "rarity": "Advanced",
+  "category": "Ironsinger",
+  "reqs": "alloyblood := 100s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

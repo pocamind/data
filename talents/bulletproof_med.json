@@ -1,0 +1,16 @@
+{
+  "name": "Bulletproof [MED]",
+  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+  "rarity": "Common",
+  "category": "Gunslinger",
+  "reqs": "bulletproof_med := 20r MED",
+  "exclusive": [
+    "Armor_Piercing_LHT",
+    "Armor_Piercing_MED",
+    "Bulletproof_FTD",
+    "Bulletproof_LHT"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

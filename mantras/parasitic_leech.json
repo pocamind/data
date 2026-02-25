@@ -1,0 +1,12 @@
+{
+  "name": "Parasitic Leech",
+  "desc": "If linked to an enemy, this move will start leeching your opponent's health for a few seconds while healing you.",
+  "stars": 0,
+  "category": "Support",
+  "type": "Oath",
+  "attributes": [
+    "Linkstrider"
+  ],
+  "reqs": "oath_linkstrider => parasitic_leech := ()",
+  "vaulted": false
+}

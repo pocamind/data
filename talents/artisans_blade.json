@@ -1,0 +1,13 @@
+{
+  "name": "Artisan's Blade",
+  "desc": "Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.",
+  "rarity": "Common",
+  "category": "Scrapsinger",
+  "reqs": "gilded_path_scrapsinger => artisans_blade := 45s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

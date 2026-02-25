@@ -1,0 +1,12 @@
+{
+  "name": "Tornado",
+  "desc": "A rushing current of wind.\r\n",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "tornado := 20r WND",
+  "vaulted": false
+}

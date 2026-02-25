@@ -1,0 +1,13 @@
+{
+  "name": "Chilling Flourish",
+  "desc": "When flourishing an enemy, they leave behind a trail of ice in the direction you send them.",
+  "rarity": "Common",
+  "category": "Cryomancer",
+  "reqs": "frostdrawer => chilling_flourish := 30s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

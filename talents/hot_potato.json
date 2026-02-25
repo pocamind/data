@@ -1,0 +1,15 @@
+{
+  "name": "Hot Potato",
+  "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice.",
+  "rarity": "Common",
+  "category": "Saboteur",
+  "reqs": "family_recipe => hot_potato := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 6
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

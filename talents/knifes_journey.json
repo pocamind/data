@@ -1,0 +1,13 @@
+{
+  "name": "Knife's Journey",
+  "desc": "Cancelling an enemy's Mantra windup with your basic attack now deals 15% more damage.",
+  "rarity": "Rare",
+  "category": "Critical Specialist",
+  "reqs": "knifes_journey := 30s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ice Skate",
+  "desc": "Skate freely on paths of ice.\r",
+  "stars": 3,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_skate := 50r ICE",
+  "vaulted": false
+}

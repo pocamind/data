@@ -1,0 +1,13 @@
+{
+  "name": "You'll Need To Get Past Me",
+  "desc": "When you're attacked, one of your many allies will leap into action to protect their boss.\n[*Note: 65s CD at 20 Charisma, 55s CD at 100 Charisma.]",
+  "rarity": "Common",
+  "category": "Public Figure",
+  "reqs": "youll_need_to_get_past_me := 75s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

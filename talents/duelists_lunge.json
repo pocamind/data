@@ -1,0 +1,13 @@
+{
+  "name": "Duelist's Lunge",
+  "desc": "[Rapier] Running Basic Attacks deal increased posture damage. Upon landing your critical, your next running Basic Attack has increased range.",
+  "rarity": "Common",
+  "category": "Needle",
+  "reqs": "duelists_lunge := 30s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

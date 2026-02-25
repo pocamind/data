@@ -1,0 +1,18 @@
+{
+  "name": "Rimebreakers",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "rimebreakers := 50r LHT, 50r ICE, 50r WND",
+  "damage": 14.0,
+  "pen": 0.05,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 6.0,
+  "speed": 1.1,
+  "endlag": 0.0,
+  "scaling": {
+    "Galebreathe": 3.5,
+    "Light Wep.": 5.0,
+    "Frostdraw": 3.5
+  }
+}

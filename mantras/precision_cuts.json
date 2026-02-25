@@ -1,0 +1,12 @@
+{
+  "name": "Precision Cuts",
+  "desc": "Snip forward with your scissors!",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Fadetrimmer"
+  ],
+  "reqs": "oath_fadetrimmer => precision_cuts := ()",
+  "vaulted": false
+}

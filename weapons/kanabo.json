@@ -1,0 +1,17 @@
+{
+  "name": "Kanabo",
+  "type": "Greathammer",
+  "damage_type": "Blunt",
+  "reqs": "kanabo := 40r STR, 100r HVY",
+  "damage": 25.0,
+  "pen": 0.0,
+  "chip": 0.1,
+  "weight": 9.0,
+  "range": 9.0,
+  "speed": 0.8,
+  "endlag": 0.1,
+  "scaling": {
+    "Strength": 3.0,
+    "Heavy Wep.": 6.0
+  }
+}

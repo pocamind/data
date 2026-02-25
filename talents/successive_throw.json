@@ -1,0 +1,13 @@
+{
+  "name": "Successive Throw",
+  "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards.",
+  "rarity": "Common",
+  "category": "Critical Specialist",
+  "reqs": "successive_throw := 35s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

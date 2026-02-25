@@ -1,0 +1,16 @@
+{
+  "name": "True Seraph Spear",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "true_seraph_spear := 80r MED",
+  "damage": 18.5,
+  "pen": 0.2,
+  "chip": 0.4,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.96,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 7.0
+  }
+}

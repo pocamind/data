@@ -1,0 +1,13 @@
+{
+  "name": "Spike Traps",
+  "desc": "Press [F] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.",
+  "rarity": "Common",
+  "category": "Cryomancer",
+  "reqs": "frostdrawer => spike_traps := 30s ICE",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": true
+}

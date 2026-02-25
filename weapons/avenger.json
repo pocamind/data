@@ -1,0 +1,16 @@
+{
+  "name": "Avenger",
+  "type": "Greatsword",
+  "damage_type": "Slash",
+  "reqs": "avenger := ()",
+  "damage": 21.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 8.0,
+  "range": 8.5,
+  "speed": 0.83,
+  "endlag": 0.1,
+  "scaling": {
+    "Heavy Wep.": 6.5
+  }
+}

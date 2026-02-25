@@ -1,0 +1,15 @@
+{
+  "name": "Vacuum Punch",
+  "desc": "Your Gale Punch pulls enemies in before you hit them.",
+  "rarity": "Common",
+  "category": "Aeromancer",
+  "reqs": "vacuum_punch := 15s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

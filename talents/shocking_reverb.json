@@ -1,0 +1,13 @@
+{
+  "name": "Shocking Reverb",
+  "desc": "Landing enough lightning Mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing. [2 min CD]",
+  "rarity": "Faction",
+  "category": "Operator's Technique",
+  "reqs": "shocking_reverb := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

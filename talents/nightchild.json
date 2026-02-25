@@ -1,0 +1,13 @@
+{
+  "name": "Nightchild",
+  "desc": "Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "nightchild := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

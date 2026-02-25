@@ -1,0 +1,12 @@
+{
+  "name": "Ice Blade",
+  "desc": "A barrage of freezing blades.\r",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "ice_blade := 20r ICE",
+  "vaulted": false
+}

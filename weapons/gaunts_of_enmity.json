@@ -1,0 +1,16 @@
+{
+  "name": "Gaunts of Enmity",
+  "type": "Fists",
+  "damage_type": "Blunt",
+  "reqs": "gaunts_of_enmity := 10r FTD, 75r LHT",
+  "damage": 15.0,
+  "pen": 0.0,
+  "chip": 0.2,
+  "weight": 6.0,
+  "range": 6.0,
+  "speed": 1.11,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 10.5
+  }
+}

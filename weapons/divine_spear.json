@@ -1,0 +1,16 @@
+{
+  "name": "Divine Spear",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "divine_spear := ()",
+  "damage": 23.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 10.0,
+  "speed": 0.93,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 9.0
+  }
+}

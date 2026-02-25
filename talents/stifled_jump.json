@@ -1,0 +1,15 @@
+{
+  "name": "Stifled Jump",
+  "desc": "Enemies who jump while suffocated by you are dazed.",
+  "rarity": "Rare",
+  "category": "Aeromancer",
+  "reqs": "suffocating_impact => stifled_jump := 15s STR, 35s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

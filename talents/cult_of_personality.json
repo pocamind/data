@@ -1,0 +1,13 @@
+{
+  "name": "Cult of Personality",
+  "desc": "You gain +3% PEN per each person Charmed. Capping at +15% PEN.",
+  "rarity": "Common",
+  "category": "Politician",
+  "reqs": "cult_of_personality := 90s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

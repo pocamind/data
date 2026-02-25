@@ -1,0 +1,13 @@
+{
+  "name": "Charismatic Cast",
+  "desc": "Landing a hit with a mantra on an enemy applies Charmed, reducing their damage done to you. Allies recover from being knocked twice as quickly when charmed by you.",
+  "rarity": "Common",
+  "category": "Charm Caster",
+  "reqs": "charismatic_cast := 25s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

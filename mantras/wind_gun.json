@@ -1,0 +1,12 @@
+{
+  "name": "Wind Gun",
+  "desc": "A powerful wind blast.\r",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "reqs": "wind_gun := 30r WND",
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Messer",
+  "type": "Sword",
+  "damage_type": "Slash",
+  "reqs": "alloyed_messer := 75r MED",
+  "damage": 21.0,
+  "pen": 0.15,
+  "chip": 0.15,
+  "weight": 7.0,
+  "range": 7.5,
+  "speed": 0.97,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

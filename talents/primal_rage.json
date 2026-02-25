@@ -1,0 +1,13 @@
+{
+  "name": "Primal Rage",
+  "desc": "If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. [3 minute CD]",
+  "rarity": "Outfit",
+  "category": "Miscellaneous",
+  "reqs": "primal_rage := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

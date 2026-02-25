@@ -1,0 +1,13 @@
+{
+  "name": "Human Battery",
+  "desc": "When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.",
+  "rarity": "Common",
+  "category": "Unstable Capacitor",
+  "reqs": "surge_path_unstable_capacitor => human_battery := 60s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

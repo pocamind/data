@@ -1,0 +1,13 @@
+{
+  "name": "Hair Spray",
+  "desc": "Apply your Hair Products.",
+  "rarity": "Oath",
+  "category": "Fadetrimmer",
+  "reqs": "oath_fadetrimmer => hair_spray := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

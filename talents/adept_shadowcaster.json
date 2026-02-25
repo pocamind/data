@@ -1,0 +1,13 @@
+{
+  "name": "Adept Shadowcaster",
+  "desc": "You can now obtain 1-Star Leveled Shadowcaster Mantras.",
+  "rarity": "Common",
+  "category": "Shadowcaster",
+  "reqs": "shadowcaster => adept_shadowcaster := 20s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

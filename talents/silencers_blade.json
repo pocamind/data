@@ -1,0 +1,13 @@
+{
+  "name": "Silencer's Blade",
+  "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.",
+  "rarity": "Rare",
+  "category": "Silencer",
+  "reqs": "galebreather => silencers_blade := 60s WND",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

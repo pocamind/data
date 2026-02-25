@@ -1,0 +1,12 @@
+{
+  "name": "Frost Grab",
+  "desc": "An icy chokehold.\r\n",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "reqs": "frost_grab := 30r ICE",
+  "vaulted": false
+}

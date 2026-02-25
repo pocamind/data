@@ -1,0 +1,13 @@
+{
+  "name": "Temple Guard",
+  "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "temple_guard := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

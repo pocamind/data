@@ -1,0 +1,12 @@
+{
+  "name": "Lightning Assault",
+  "desc": "A rush of lightning.\t",
+  "stars": 2,
+  "category": "Mobility",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "lightning_assault := 30r LTN",
+  "vaulted": false
+}

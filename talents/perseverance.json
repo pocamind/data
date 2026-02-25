@@ -1,0 +1,15 @@
+{
+  "name": "Perseverance",
+  "desc": "When you're knocked down, you get back up again more quickly.",
+  "rarity": "Common",
+  "category": "Bastion",
+  "reqs": "perseverance := 30s FTD, 30s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Sanity": 5
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

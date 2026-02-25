@@ -1,0 +1,26 @@
+{
+  "name": "Shock Corps Light",
+  "category": "Master",
+  "durability": 3500,
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Ice Resistance": 0.1,
+    "Flame Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Thunder Resistance": 0.1
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 15
+  },
+  "talent": "Battle-Hardened",
+  "reqs": "shock_corps_light := 240r TTL",
+  "mats": {
+    "Fiber": 5,
+    "Wayward Gem": 3,
+    "Cloth": 5,
+    "Vibrant Gem": 5,
+    "Void Feather": 3
+  },
+  "notes": 1000
+}

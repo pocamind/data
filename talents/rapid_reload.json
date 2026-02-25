@@ -1,0 +1,13 @@
+{
+  "name": "Rapid Reload",
+  "desc": "[1H Guns] You have 20% faster reload when reloading an empty pistol.",
+  "rarity": "Common",
+  "category": "Outlaw",
+  "reqs": "rapid_reload := 50s LHT",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

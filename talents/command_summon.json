@@ -1,0 +1,13 @@
+{
+  "name": "Command: Summon",
+  "desc": "Command your servant to obey your master and appear before you no matter the distance.",
+  "rarity": "Advanced",
+  "category": "Vow of Mastery",
+  "reqs": "vow_of_mastery => command_summon := 80s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

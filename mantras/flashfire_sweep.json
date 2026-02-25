@@ -1,0 +1,12 @@
+{
+  "name": "Flashfire Sweep",
+  "desc": "Sweep with flames and lightning before following into a devastating uppercut.",
+  "stars": 3,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Multiple"
+  ],
+  "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
+  "vaulted": false
+}

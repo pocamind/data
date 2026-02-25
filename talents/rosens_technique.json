@@ -1,0 +1,13 @@
+{
+  "name": "Rosen's Technique",
+  "desc": "If you use Tactical Reload, Rosen's Peacemaker has 30 seconds less off its cooldown.",
+  "rarity": "Common",
+  "category": "Weapon",
+  "reqs": "rosens_technique := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just a Taste",
+  "desc": "First bloodrend mantra you hit in combat has increased blood drain.",
+  "rarity": "Common",
+  "category": "Quack Doctor",
+  "reqs": "just_a_taste := 20s BLD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Fire Forge",
+  "desc": "Conjure flaming daggers and throw them forwards.",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "fire_forge := 20r FLM",
+  "vaulted": false
+}

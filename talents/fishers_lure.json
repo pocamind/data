@@ -1,0 +1,13 @@
+{
+  "name": "Fisher's Lure",
+  "desc": "Fish are drawn to your line more quickly.",
+  "rarity": "Quest",
+  "category": "Angler",
+  "reqs": "fishers_lure := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

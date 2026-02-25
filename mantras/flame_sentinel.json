@@ -1,0 +1,12 @@
+{
+  "name": "Flame Sentinel",
+  "desc": "Conjure a turret of flames.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "reqs": "flame_sentinel := 30r FLM",
+  "vaulted": false
+}

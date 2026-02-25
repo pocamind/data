@@ -1,0 +1,12 @@
+{
+  "name": "Karita Leap",
+  "desc": "Launch yourself into a flying kick, backflipping you into the air if you hit a wall.",
+  "stars": 0,
+  "category": "Mobility",
+  "type": "Attunementless",
+  "attributes": [
+    "Light Weapons"
+  ],
+  "reqs": "karita_leap := 20r LHT",
+  "vaulted": false
+}

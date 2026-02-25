@@ -1,0 +1,16 @@
+{
+  "name": "Summer Rifle",
+  "type": "Guns",
+  "damage_type": "Blunt",
+  "reqs": "summer_rifle := ()",
+  "damage": 17.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 8.0,
+  "speed": 1.0,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 6.0
+  }
+}

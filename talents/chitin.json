@@ -1,0 +1,13 @@
+{
+  "name": "Chitin",
+  "desc": "You have a layer of Natural Armor that replenishes when you rest.",
+  "rarity": "Origin",
+  "category": "Innate",
+  "reqs": "chitin := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

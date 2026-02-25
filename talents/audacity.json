@@ -1,0 +1,15 @@
+{
+  "name": "Audacity",
+  "desc": "Once you've brought down your prey, instill fear into all those who would seperate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff.\n[*Note: CD scales from 30s to 40s with your Charisma and Strength stats, between 50 and 150.]",
+  "rarity": "Advanced",
+  "category": "Tyrant",
+  "reqs": "audacity := 50s STR, 100s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Posture": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Par's Glaive",
+  "type": "Greataxe",
+  "damage_type": "Slash",
+  "reqs": "pars_glaive := ()",
+  "damage": 10.0,
+  "pen": 0.0,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 1.07,
+  "endlag": 0.0,
+  "scaling": {
+    "Charisma": 30.0
+  }
+}

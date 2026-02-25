@@ -1,0 +1,13 @@
+{
+  "name": "Controlled Combustion",
+  "desc": "Your Agitating Spark no longer spreads to your allies. All-Consuming Flame no longer applies against allies.",
+  "rarity": "Common",
+  "category": "Tamed Flame",
+  "reqs": "agitating_spark => controlled_combustion := 40s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

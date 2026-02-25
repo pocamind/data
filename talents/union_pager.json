@@ -1,0 +1,13 @@
+{
+  "name": "Union Pager",
+  "desc": "Check up on job listings remotely.",
+  "rarity": "Origin",
+  "category": "Ignition Delver",
+  "reqs": "union_pager := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Prominence Draw",
+  "desc": "Close the distance and deliver a fast slash.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Medium Weapons"
+  ],
+  "reqs": "prominence_draw := 50r MED",
+  "vaulted": false
+}

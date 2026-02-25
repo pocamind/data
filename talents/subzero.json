@@ -1,0 +1,13 @@
+{
+  "name": "Subzero",
+  "desc": "Landing running attacks inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.",
+  "rarity": "Equipment",
+  "category": "Weapon",
+  "reqs": "subzero := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

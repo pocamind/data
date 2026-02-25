@@ -1,0 +1,15 @@
+{
+  "name": "Scaredy Cat",
+  "desc": "When enemies initiate a fight with you, gain a speed boost.",
+  "rarity": "Common",
+  "category": "Alley Cat",
+  "reqs": "scaredy_cat := 5s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Passive Agility": 2
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

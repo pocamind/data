@@ -1,0 +1,16 @@
+{
+  "name": "Big Brother",
+  "type": "Dagger",
+  "damage_type": "Slash",
+  "reqs": "big_brother := 80r LHT",
+  "damage": 15.0,
+  "pen": 0.15,
+  "chip": 0.0,
+  "weight": 4.0,
+  "range": 6.0,
+  "speed": 1.2,
+  "endlag": 0.0,
+  "scaling": {
+    "Light Wep.": 8.0
+  }
+}

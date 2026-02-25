@@ -1,0 +1,13 @@
+{
+  "name": "Discovery of Fire",
+  "desc": "Flints and Flamecharm are for simpletons.",
+  "rarity": "Common",
+  "category": "Thundercaller",
+  "reqs": "discovery_of_fire := 50s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

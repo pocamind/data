@@ -1,0 +1,13 @@
+{
+  "name": "Down to your Level",
+  "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for up to 5s.\n[*Note: 3s to 5s duration between 20 and 60 Fortitude.]",
+  "rarity": "Common",
+  "category": "Bulwark",
+  "reqs": "down_to_your_level := 60s FTD",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

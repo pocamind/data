@@ -1,0 +1,12 @@
+{
+  "name": "Permafrost Prison",
+  "desc": "Imprison your enemies with shadows and impale them with pillars of ice.",
+  "stars": 2,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Multiple"
+  ],
+  "reqs": "permafrost_prison := 30r ICE, 30r SDW",
+  "vaulted": false
+}

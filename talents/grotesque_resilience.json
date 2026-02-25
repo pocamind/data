@@ -1,0 +1,13 @@
+{
+  "name": "Grotesque Resilience",
+  "desc": "You take reduced damage from 'Damage over Time' effects. \n[50%, 25% while Flame Within is active.]\n[Bleed reduction is 25%.]",
+  "rarity": "Equipment",
+  "category": "Unknown",
+  "reqs": "grotesque_resilience := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

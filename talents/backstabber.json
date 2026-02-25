@@ -1,0 +1,13 @@
+{
+  "name": "Backstabber",
+  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.",
+  "rarity": "Faction",
+  "category": "Inquisitive Lethality",
+  "reqs": "backstabber := 30s AGL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

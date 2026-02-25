@@ -1,0 +1,13 @@
+{
+  "name": "Metal Eater",
+  "desc": "When you have no Ether, consume armor durability to cast your Ironsing mantras.",
+  "rarity": "Common",
+  "category": "Metallurgist",
+  "reqs": "metal_eater := 50s MTL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

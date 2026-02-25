@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Arcwarder",
+  "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
+  "rarity": "Oath",
+  "category": "Arcwarder",
+  "reqs": "oath_arcwarder := 20s FTD, 20s FLM, 20s LTN",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Combat Mantra": 2,
+    "Wildcard Mantra": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

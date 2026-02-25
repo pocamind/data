@@ -1,0 +1,13 @@
+{
+  "name": "Scorching Decay [LHT]",
+  "desc": "The wither dealt from your Emperor's Flame is massively increased.",
+  "rarity": "Common",
+  "category": "Withered Flame",
+  "reqs": "emperor_flame => scorching_decay_lht := 100r LHT, 100s FLM",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

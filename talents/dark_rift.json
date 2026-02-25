@@ -1,0 +1,13 @@
+{
+  "name": "Dark Rift",
+  "desc": "Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled early if you attack.",
+  "rarity": "Rare",
+  "category": "Darksiphon",
+  "reqs": "dark_hours => dark_rift := 60s SDW",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

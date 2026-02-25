@@ -1,0 +1,12 @@
+{
+  "name": "Dark Blade",
+  "desc": "Slicing blades of dark energy.\t",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "reqs": "dark_blade := 1r SDW",
+  "vaulted": false
+}

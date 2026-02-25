@@ -1,0 +1,13 @@
+{
+  "name": "Proficient Baiting",
+  "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
+  "rarity": "Quest",
+  "category": "Angler",
+  "reqs": "proficient_baiting := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jetstream Pursuit",
+  "desc": "Upon a succesful flourish. teleport to the opponent when they stop moving. Receive a significant boost of momentum.",
+  "rarity": "Oath",
+  "category": "Jetstriker",
+  "reqs": "oath_jetstriker => jetstream_pursuit := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

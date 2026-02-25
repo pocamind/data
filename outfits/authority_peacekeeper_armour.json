@@ -1,0 +1,23 @@
+{
+  "name": "Authority Peacekeeper Armour",
+  "category": "Master",
+  "durability": 1600,
+  "resistances": {
+    "Flame Resistance": 0.15,
+    "Elemental Resistance": 0.1,
+    "Physical Resistance": 0.15,
+    "Slash Resistance": 0.1
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": "Now You See Me",
+  "reqs": "authority_peacekeeper_armour := 5r FTD, 90r TTL",
+  "mats": {
+    "Fiber": 5,
+    "Cloth": 5,
+    "Iron": 1
+  },
+  "notes": 30
+}

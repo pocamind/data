@@ -1,0 +1,12 @@
+{
+  "name": "Thunder Kick",
+  "desc": "An unrelenting kick like a clap of thunder.\n[*Guard breaks at Level 5]",
+  "stars": 1,
+  "category": "Combat",
+  "type": "Attunement",
+  "attributes": [
+    "Thundercall"
+  ],
+  "reqs": "thunder_kick := 20r LTN",
+  "vaulted": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Punishment",
+  "desc": "Absorb damage then return fury upon your foes.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Attunementless",
+  "attributes": [
+    "Heavy Weapons"
+  ],
+  "reqs": "punishment := 50r HVY",
+  "vaulted": false
+}

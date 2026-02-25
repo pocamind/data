@@ -1,0 +1,23 @@
+{
+  "name": "Darksteel Plate",
+  "category": "Master",
+  "durability": 2500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Extra Stealth": 0,
+    "Ether Regen": 0
+  },
+  "talent": "Unbreakable",
+  "reqs": "darksteel_plate := 20r FTD, 165r TTL",
+  "mats": {
+    "Fiber": 5,
+    "Strange Claw": 1,
+    "Cloth": 5,
+    "Dark Feather": 1,
+    "Erisore": 5
+  },
+  "notes": 300
+}

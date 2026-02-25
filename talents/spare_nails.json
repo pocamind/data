@@ -1,0 +1,13 @@
+{
+  "name": "Spare Nails",
+  "desc": "You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.",
+  "rarity": "Common",
+  "category": "Shipwright",
+  "reqs": "spare_nails := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

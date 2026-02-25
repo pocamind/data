@@ -1,0 +1,13 @@
+{
+  "name": "Tacet Minimization",
+  "desc": "Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.",
+  "rarity": "Faction",
+  "category": "Inquisitive Lethality",
+  "reqs": "murmur_tacet => tacet_minimization := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": true,
+  "vaulted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Winter's Presence",
+  "desc": "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "winters_presence := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

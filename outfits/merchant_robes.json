@@ -1,0 +1,17 @@
+{
+  "name": "Merchant Robes",
+  "category": "Master",
+  "durability": 1200,
+  "resistances": {},
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "talent": "Mates' Rates",
+  "reqs": "merchant_robes := ()",
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "notes": 25
+}

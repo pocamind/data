@@ -25,40 +25,7 @@ jobs:
       # bundle every top-level data directory into one JSON each,
       # then merge those into a mega json
       - name: Bundle data
-        run: |
-          mkdir -p .dist
-
-          for dir in */; do
-            # strip trailing slashes
-            dir_name="${dir%/}"
-
-            # skip hidden files/folders
-            [[ "$dir_name" == .* ]] && continue
-
-            # find all .json files recursively
-            files=$(find "$dir_name" -name '*.json' -type f)
-
-            # if we found any files 
-            if [ -n "$files" ]; then
-              find "$dir_name" -name '*.json' -type f -print0 \
-                | xargs -0 cat \
-                | jq -s 'add' \
-                > ".dist/${dir_name}.json"
-            fi
-          done
-
-          # form the megabundle with every category as its own key
-          mega="{}"
-
-          for file in .dist/*.json; do
-            # the key for ".dist/talents.json" -> "talents", same for the others
-            key=$(basename "$file" .json)
-
-            # ok man    
-            mega=$(echo "$mega" | jq --arg k "$key" --slurpfile v "$file" '. + {($k): $v[0]}')
-          done
-
-          echo "$mega" > .dist/all.json
+        run: python .util/bundle.py
 
       - name: Generate version tag
         # have id so we can ref outputs

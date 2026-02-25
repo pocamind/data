@@ -1,0 +1,13 @@
+{
+  "name": "Reclaimed Glass",
+  "desc": "Your crystal shrapnel explosions now grant you and any allies caught in them for 10% Elemental Resistance for 10s.",
+  "rarity": "Common",
+  "category": "Glassdancer",
+  "reqs": "crystal_shrapnel => reclaimed_glass := 65s ICE",
+  "exclusive": [
+    "Unyielding_Frost"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

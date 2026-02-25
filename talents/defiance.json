@@ -1,0 +1,13 @@
+{
+  "name": "Defiance",
+  "desc": "Negative status effects are half as effective when you are below 35% HP.",
+  "rarity": "Rare",
+  "category": "Champion",
+  "reqs": "defiance := 70s WLL",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

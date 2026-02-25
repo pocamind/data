@@ -1,0 +1,12 @@
+{
+  "name": "Close Shave",
+  "desc": "Close the distance and deliver a fast slash.",
+  "stars": 0,
+  "category": "Combat",
+  "type": "Oath",
+  "attributes": [
+    "Fadetrimmer"
+  ],
+  "reqs": "oath_fadetrimmer => close_shave := ()",
+  "vaulted": false
+}

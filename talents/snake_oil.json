@@ -1,0 +1,13 @@
+{
+  "name": "Snake Oil",
+  "desc": "Okay, the amount you're charging people for your items is downright criminal. But I'm just a talent description, I can't stop you.",
+  "rarity": "Common",
+  "category": "Silvertongue",
+  "reqs": "snake_oil := 30s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

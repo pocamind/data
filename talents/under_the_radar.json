@@ -1,0 +1,15 @@
+{
+  "name": "Under The Radar",
+  "desc": "The negative reputation threshold for a faction to put up on bounty posters is now higher.",
+  "rarity": "Common",
+  "category": "Public Figure",
+  "reqs": "under_the_radar := 60s CHA",
+  "exclusive": [
+    ""
+  ],
+  "innates": {
+    "Health": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

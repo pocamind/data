@@ -1,0 +1,16 @@
+{
+  "name": "Alloyed Trident Spear",
+  "type": "Spear",
+  "damage_type": "Slash",
+  "reqs": "alloyed_trident_spear := 85r MED",
+  "damage": 19.0,
+  "pen": 0.25,
+  "chip": 0.0,
+  "weight": 5.0,
+  "range": 9.0,
+  "speed": 0.92,
+  "endlag": 0.0,
+  "scaling": {
+    "Medium Wep.": 7.0
+  }
+}

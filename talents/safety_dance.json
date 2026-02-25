@@ -1,0 +1,15 @@
+{
+  "name": "Safety Dance",
+  "desc": "Your base dodge frames are increased by 0.05s.",
+  "rarity": "Rare",
+  "category": "Leaf in the Wind",
+  "reqs": "safety_dance := 20s AGL",
+  "exclusive": [
+    "Risky_Moves"
+  ],
+  "innates": {
+    "Passive Agility": 1
+  },
+  "not_counted_towards_total": false,
+  "vaulted": false
+}

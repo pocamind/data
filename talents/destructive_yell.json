@@ -1,0 +1,13 @@
+{
+  "name": "Destructive Yell",
+  "desc": "Your ardour screams now break campfires around you.",
+  "rarity": "Equipment",
+  "category": "Miscellaneous",
+  "reqs": "destructive_yell := ()",
+  "exclusive": [
+    ""
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}
