@@ -1,0 +1,12 @@
+name: Test Gate
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  test-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait
+        run: sleep 25
