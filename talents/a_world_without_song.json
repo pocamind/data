@@ -1,13 +1,4 @@
 {
   "name": "A World Without Song",
-  "desc": "Every 3-4 hits with a Wind Mantra now procs Suffocate.\n[*Note: Takes 4 hits if between 40 and 74 Galebreathe.]",
-  "rarity": "Advanced",
-  "category": "Silencer",
-  "reqs": "silencers_blade => a_world_without_song := 75s WND",
-  "exclusive": [
-    ""
-  ],
-  "innates": {},
-  "not_counted_towards_total": false,
-  "vaulted": false
+  "desc": "I edited this and removed a bunch of lines lol"
 }
