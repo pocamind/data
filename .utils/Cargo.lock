@@ -79,34 +79,20 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "deepwoken",
- "deepwoken-reqparse",
  "serde",
  "serde_json",
 ]
 
 [[package]]
 name = "deepwoken"
-version = "0.1.2"
+version = "0.1.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "20c2e88c527880512c3e2e58ebd779f4ffd77a38b2600a04ca5b65933a5854f9"
+checksum = "6ff9b151bb615f0c7faad70b725c44b9245215ff2c28330402e23fd6941805e4"
 dependencies = [
  "env_logger",
  "log",
  "serde",
  "serde_json",
- "thiserror",
- "winnow",
-]
-
-[[package]]
-name = "deepwoken-reqparse"
-version = "0.1.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "58ad138447f54b7fb39b4104b6c08c2711931acaeb0cb8c5115689b6d250d82b"
-dependencies = [
- "env_logger",
- "log",
- "serde",
  "thiserror",
  "winnow",
 ]

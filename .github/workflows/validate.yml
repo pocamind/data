@@ -34,7 +34,7 @@ jobs:
 
       - name: Run validation
         id: validate
-        run: cargo run --release --manifest-path .utils/Cargo.toml 2>&1 | tee /tmp/output.txt
+        run: cargo run --release --manifest-path .utils/Cargo.toml
         continue-on-error: true
 
       - name: Comment on failure
@@ -43,7 +43,7 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const output = fs.readFileSync('/tmp/output.txt', 'utf8').slice(-2000);
+            const output = fs.readFileSync('.tmp/errors.txt', 'utf8').slice(-2000);
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
