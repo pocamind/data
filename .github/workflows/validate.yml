@@ -1,0 +1,56 @@
+name: Validate Data
+
+on:
+  pull_request:
+    branches: [main]
+
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - "LICENSE"
+      - ".**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            .utils/target
+          key: validate-${{ hashFiles('.utils/Cargo.lock') }}
+          restore-keys: validate-
+
+      - name: Bundle data
+        run: python .utils/bundle.py
+
+      - name: Run validation
+        id: validate
+        run: cargo run --release --manifest-path .utils/Cargo.toml 2>&1 | tee /tmp/output.txt
+        continue-on-error: true
+
+      - name: Comment on failure
+        if: steps.validate.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const output = fs.readFileSync('/tmp/output.txt', 'utf8').slice(-2000);
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Validation failed:\n\`\`\`\n${output}\n\`\`\``
+            });
+
+      - name: Conditional Fail
+        if: steps.validate.outcome == 'failure'
+        run: exit 1
