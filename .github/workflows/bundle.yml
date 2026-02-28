@@ -25,7 +25,7 @@ jobs:
       # bundle every top-level data directory into one JSON each,
       # then merge those into a mega json
       - name: Bundle data
-        run: python .util/bundle.py
+        run: python .utils/bundle.py
 
       - name: Generate version tag
         # have id so we can ref outputs
