@@ -1,15 +1,13 @@
 {
+  "desc": "You can execute enemies in water. Gain additional healing from knocking others in water. ",
+  "name": "Fishman",
+  "reqs": "fishman := ()",
+  "rarity": "Rare",
+  "innates": {},
+  "vaulted": false,
   "category": "Fish",
-  "desc": "You can execute enemies in water. Gain additional healing from knocking others in water.",
   "exclusive": [
     ""
   ],
-  "innates": {
-    "Health": 5
-  },
-  "name": "Fishman",
-  "not_counted_towards_total": false,
-  "rarity": "Rare",
-  "reqs": "fishman := ()",
-  "vaulted": false
+  "not_counted_towards_total": false
 }
