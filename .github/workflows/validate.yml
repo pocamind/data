@@ -54,6 +54,29 @@ jobs:
               body: `Validation failed:\n\`\`\`\n${output}\n\`\`\``
             });
 
+      - name: Close PR and delete branch
+        if: steps.validate.outcome == 'failure' && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number
+            });
+            if (!pr.data.title.startsWith('[Patch |')) return;
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              state: 'closed'
+            });
+            await github.rest.git.deleteRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `heads/${pr.data.head.ref}`
+            });
+
       - name: Conditional Fail
         if: steps.validate.outcome == 'failure'
         run: exit 1
