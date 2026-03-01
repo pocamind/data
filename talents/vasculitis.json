@@ -1,13 +1,13 @@
 {
-  "name": "Vasculitis",
   "desc": "Your opponent cannot proc deep gems if they have over 20% blood poisoning for a brief duration. *Must hit them while they are over 20% BP.)",
-  "rarity": "Common",
-  "category": "Septicemia",
+  "name": "Vasculitis",
   "reqs": "vasculitis := 35s INT, 40s BLD",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Septicemia",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "not_counted_towards_total": false,
-  "vaulted": false
+  "not_counted_towards_total": false
 }
