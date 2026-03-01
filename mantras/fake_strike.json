@@ -1,12 +1,12 @@
 {
-  "name": "Fake Strike",
-  "desc": "Trick your opponent and quickly go behind them.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Jetstriker"
   ],
+  "category": "Combat",
+  "desc": "Trick your opponent and quickly go behind them.",
+  "name": "Fake Strike",
   "reqs": "oath_jetstriker => fake_strike := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Dash",
-  "desc": "An agile dash.",
-  "stars": 0,
-  "category": "Mobility",
-  "type": "Attunementless",
   "attributes": [
     "Agility"
   ],
+  "category": "Mobility",
+  "desc": "An agile dash.",
+  "name": "Dash",
   "reqs": "dash := 40r AGL",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

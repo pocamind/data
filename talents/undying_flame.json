@@ -1,13 +1,13 @@
 {
-  "name": "Undying Flame",
-  "desc": "Your flame can be casted in the depths. Standing close to your graceful flame will slowly restore sanity for others in the area.",
-  "rarity": "Rare",
   "category": "Undying Ember",
-  "reqs": "undying_flame := 40s WLL, 40s FLM",
+  "desc": "Your flame can be casted in the depths. Standing close to your graceful flame will slowly restore sanity for others in the area.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Undying Flame",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "undying_flame := 40s WLL, 40s FLM",
   "vaulted": false
 }

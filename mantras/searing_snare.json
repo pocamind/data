@@ -1,12 +1,12 @@
 {
-  "name": "Searing Snare",
-  "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
+  "name": "Searing Snare",
   "reqs": "searing_snare := 20r FLM",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Mirage Clone",
-  "desc": "Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.",
-  "rarity": "Rare",
   "category": "The Emperor's Blade",
-  "reqs": "flamecharmer => mirage_clone := 65s FLM",
+  "desc": "Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mirage Clone",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "flamecharmer => mirage_clone := 65s FLM",
   "vaulted": false
 }

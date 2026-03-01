@@ -1,16 +1,16 @@
 {
-  "name": "Iron Twinblade",
-  "type": "Twinblade",
-  "damage_type": "Slash",
-  "reqs": "iron_twinblade := 15r MED",
-  "damage": 15.0,
-  "pen": 0.0,
   "chip": 0.3,
-  "weight": 4.0,
-  "range": 7.0,
-  "speed": 1.0,
+  "damage": 15.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Iron Twinblade",
+  "pen": 0.0,
+  "range": 7.0,
+  "reqs": "iron_twinblade := 15r MED",
   "scaling": {
     "Medium Wep.": 4.0
-  }
+  },
+  "speed": 1.0,
+  "type": "Twinblade",
+  "weight": 4.0
 }

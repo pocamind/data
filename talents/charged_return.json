@@ -1,13 +1,13 @@
 {
-  "name": "Charged Return",
-  "desc": "Being under an elemental status effect causes your Basic Attacks and critical attacks to do 10% more damage.",
-  "rarity": "Common",
   "category": "Elemental Rebound",
-  "reqs": "charged_return := 15s STR, 20s WLL",
+  "desc": "Being under an elemental status effect causes your Basic Attacks and critical attacks to do 10% more damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Charged Return",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "charged_return := 15s STR, 20s WLL",
   "vaulted": false
 }

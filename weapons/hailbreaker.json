@@ -1,17 +1,17 @@
 {
-  "name": "Hailbreaker",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "hailbreaker := 55r ICE, 65r HVY",
-  "damage": 22.0,
-  "pen": 0.15,
   "chip": 0.0,
-  "weight": 7.5,
-  "range": 8.5,
-  "speed": 0.85,
+  "damage": 22.0,
+  "damage_type": "Slash",
   "endlag": 0.1,
+  "name": "Hailbreaker",
+  "pen": 0.15,
+  "range": 8.5,
+  "reqs": "hailbreaker := 55r ICE, 65r HVY",
   "scaling": {
     "Frostdraw": 4.0,
     "Heavy Wep.": 7.0
-  }
+  },
+  "speed": 0.85,
+  "type": "Greatsword",
+  "weight": 7.5
 }

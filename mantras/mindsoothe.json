@@ -1,12 +1,12 @@
 {
-  "name": "Mindsoothe",
-  "desc": "Heal nearby Players at the cost of your Sanity.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Oath",
   "attributes": [
     "Blindseer"
   ],
+  "category": "Support",
+  "desc": "Heal nearby Players at the cost of your Sanity.",
+  "name": "Mindsoothe",
   "reqs": "oath_blindseer => mindsoothe := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

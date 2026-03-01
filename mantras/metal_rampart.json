@@ -1,12 +1,12 @@
 {
-  "name": "Metal Rampart",
-  "desc": "Form a medium size pillar at the user location .",
-  "stars": 0,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Mobility",
+  "desc": "Form a medium size pillar at the user location .",
+  "name": "Metal Rampart",
   "reqs": "metal_rampart := 1r MTL",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

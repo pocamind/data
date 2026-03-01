@@ -1,13 +1,13 @@
 {
-  "name": "No Interruptions",
-  "desc": "Wehn combat tagged by 2 or more players, render any ranged attack a lot less effective.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "no_interruptions := ()",
+  "desc": "Wehn combat tagged by 2 or more players, render any ranged attack a lot less effective.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "No Interruptions",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "no_interruptions := ()",
   "vaulted": false
 }

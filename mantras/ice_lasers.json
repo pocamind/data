@@ -1,12 +1,12 @@
 {
-  "name": "Ice Lasers",
-  "desc": "Swift bolts of frozen air.\r\n",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Swift bolts of frozen air.\r\n",
+  "name": "Ice Lasers",
   "reqs": "ice_lasers := 40r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Flashboil",
-  "desc": "Landing Ice/Fire attacks on burning/chilled enemies extinquishes the flame and generates steam.",
-  "rarity": "Common",
   "category": "Vaporborne",
-  "reqs": "flashboil := 30s ICE, 30s FLM",
+  "desc": "Landing Ice/Fire attacks on burning/chilled enemies extinquishes the flame and generates steam.",
   "exclusive": [
     "Wraith_Path_Twisted_Puppets",
     "Glass_Path_Crystallization",
     "Eruption_Path_Lava_Serpent"
   ],
   "innates": {},
+  "name": "Flashboil",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "flashboil := 30s ICE, 30s FLM",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Kickstart [CHA]",
-  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
-  "rarity": "Common",
   "category": "Kickstarter",
-  "reqs": "kickstart_cha := 40r CHA, 50s LTN",
+  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
   "exclusive": [
     "Kickstart_FTD"
   ],
   "innates": {},
+  "name": "Kickstart [CHA]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "kickstart_cha := 40r CHA, 50s LTN",
   "vaulted": false
 }

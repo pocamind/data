@@ -1,21 +1,21 @@
 {
-  "name": "Pathfinder Thaumaturge",
   "category": "Master",
   "durability": 1000,
-  "resistances": {
-    "Physical Resistance": 0.1,
-    "Elemental Resistance": 0.15
-  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "talent": "Now You See Me",
-  "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
   "mats": {
-    "Rock": 1,
     "Cloth": 5,
-    "Fiber": 5
+    "Fiber": 5,
+    "Rock": 1
   },
-  "notes": 30
+  "name": "Pathfinder Thaumaturge",
+  "notes": 30,
+  "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.15,
+    "Physical Resistance": 0.1
+  },
+  "talent": "Now You See Me"
 }

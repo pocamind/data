@@ -1,16 +1,16 @@
 {
-  "name": "Enforcer's Hammer",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "enforcers_hammer := 25r STR, 80r HVY",
-  "damage": 25.0,
-  "pen": 0.1,
   "chip": 0.2,
-  "weight": 12.0,
-  "range": 8.5,
-  "speed": 0.8,
+  "damage": 25.0,
+  "damage_type": "Blunt",
   "endlag": 0.1,
+  "name": "Enforcer's Hammer",
+  "pen": 0.1,
+  "range": 8.5,
+  "reqs": "enforcers_hammer := 25r STR, 80r HVY",
   "scaling": {
     "Heavy Wep.": 9.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greathammer",
+  "weight": 12.0
 }

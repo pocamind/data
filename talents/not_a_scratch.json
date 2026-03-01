@@ -1,15 +1,15 @@
 {
-  "name": "Not A Scratch",
-  "desc": "You don't show any signs of damage.",
-  "rarity": "Advanced",
   "category": "Human Architecture",
-  "reqs": "not_a_scratch := 20s FTD, 100s WLL",
+  "desc": "You don't show any signs of damage.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Posture": 2
   },
+  "name": "Not A Scratch",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "not_a_scratch := 20s FTD, 100s WLL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Maudet",
-  "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "maudet := ()",
+  "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Maudet",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "maudet := ()",
   "vaulted": false
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Ferryman's Coat",
   "category": "Master",
   "durability": 2500,
-  "resistances": {
-    "Elemental Resistance": 0.35,
-    "Blunt Resistance": 0.05,
-    "Physical Resistance": 0.2,
-    "Wind Resistance": 0.05,
-    "Thunder Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "talent": "Ferryman's Curse",
-  "reqs": "ferrymans_coat := 195r TTL",
   "mats": {
     "Cloth": 7,
-    "Vibrant Gems": 10,
-    "Void Feather": 1,
+    "Fiber": 5,
     "Spark Glands": 5,
-    "Fiber": 5
+    "Vibrant Gems": 10,
+    "Void Feather": 1
   },
-  "notes": 400
+  "name": "Ferryman's Coat",
+  "notes": 400,
+  "reqs": "ferrymans_coat := 195r TTL",
+  "resistances": {
+    "Blunt Resistance": 0.05,
+    "Elemental Resistance": 0.35,
+    "Physical Resistance": 0.2,
+    "Thunder Resistance": 0.25,
+    "Wind Resistance": 0.05
+  },
+  "talent": "Ferryman's Curse"
 }

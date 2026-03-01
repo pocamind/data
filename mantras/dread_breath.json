@@ -1,12 +1,12 @@
 {
-  "name": "Dread Breath",
-  "desc": "Channels the song through the power of the Dread Serpent.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Monster",
   "attributes": [
     "Monster Mantra"
   ],
+  "category": "Combat",
+  "desc": "Channels the song through the power of the Dread Serpent.",
+  "name": "Dread Breath",
   "reqs": "dread_breath := ()",
+  "stars": 0,
+  "type": "Monster",
   "vaulted": false
 }

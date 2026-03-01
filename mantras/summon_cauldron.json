@@ -1,12 +1,12 @@
 {
-  "name": "Summon Cauldron",
-  "desc": "Make a cauldron appear from your memories.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunementless",
   "attributes": [
     "Intelligence"
   ],
+  "category": "Support",
+  "desc": "Make a cauldron appear from your memories.",
+  "name": "Summon Cauldron",
   "reqs": "summon_cauldron := 20r INT",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

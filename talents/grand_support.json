@@ -1,13 +1,13 @@
 {
-  "name": "Grand Support",
-  "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.",
-  "rarity": "Rare",
   "category": "Comrade",
-  "reqs": "grand_support := 40s FTD",
+  "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Grand Support",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "grand_support := 40s FTD",
   "vaulted": false
 }

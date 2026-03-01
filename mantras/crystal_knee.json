@@ -1,12 +1,12 @@
 {
-  "name": "Crystal Knee",
-  "desc": "Knock your enemy skyward with a kick of crystal.\r",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Knock your enemy skyward with a kick of crystal.\r",
+  "name": "Crystal Knee",
   "reqs": "crystal_knee := 40r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

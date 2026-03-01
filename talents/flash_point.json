@@ -1,14 +1,14 @@
 {
-  "name": "Flash Point",
-  "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
-  "rarity": "Common",
   "category": "Lava Serpent",
-  "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
+  "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.",
   "exclusive": [
     "The_Final_Act",
     "Wraith_Path_Twisted_Puppets"
   ],
   "innates": {},
+  "name": "Flash Point",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Thornmail",
-  "desc": "Getting flourished applies a metal rod to the attacker.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "thornmail := 45s MTL",
+  "desc": "Getting flourished applies a metal rod to the attacker.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Thornmail",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "thornmail := 45s MTL",
   "vaulted": false
 }

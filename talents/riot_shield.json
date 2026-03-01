@@ -1,13 +1,13 @@
 {
-  "name": "Riot Shield",
-  "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
-  "rarity": "Faction",
   "category": "Battle Readiness",
-  "reqs": "riot_shield := ()",
+  "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Riot Shield",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "riot_shield := ()",
   "vaulted": false
 }

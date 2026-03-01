@@ -1,13 +1,13 @@
 {
-  "name": "Overwhelming Drain",
-  "desc": "If multiple enemies are hit by your Shadow Eruption, they are dazed.",
-  "rarity": "Common",
   "category": "Darksiphon",
-  "reqs": "overwhelming_drain := 20s SDW",
+  "desc": "If multiple enemies are hit by your Shadow Eruption, they are dazed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Overwhelming Drain",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "overwhelming_drain := 20s SDW",
   "vaulted": false
 }

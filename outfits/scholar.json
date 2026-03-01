@@ -1,20 +1,20 @@
 {
-  "name": "Scholar",
   "category": "Master",
   "durability": 1000,
-  "resistances": {
-    "Elemental Resistance": 0.1,
-    "Physical Resistance": 0.08
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
+    "Ether Regen": 0,
+    "Extra Stealth": 0
   },
-  "talent": "Scholar's Intuition",
-  "reqs": "scholar := ()",
   "mats": {
     "Cloth": 3,
     "Fiber": 3
   },
-  "notes": 50
+  "name": "Scholar",
+  "notes": 50,
+  "reqs": "scholar := ()",
+  "resistances": {
+    "Elemental Resistance": 0.1,
+    "Physical Resistance": 0.08
+  },
+  "talent": "Scholar's Intuition"
 }

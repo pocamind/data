@@ -1,13 +1,13 @@
 {
-  "name": "Fried Circuits",
-  "desc": "Overloading an enemy applies Sapped for 5s.",
-  "rarity": "Common",
   "category": "Unstable Capacitor",
-  "reqs": "surge_path_unstable_capacitor => fried_circuits := 60s LTN",
+  "desc": "Overloading an enemy applies Sapped for 5s.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fried Circuits",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => fried_circuits := 60s LTN",
   "vaulted": false
 }

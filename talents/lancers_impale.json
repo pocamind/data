@@ -1,15 +1,15 @@
 {
-  "name": "Lancer's Impale",
-  "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
-  "rarity": "Common",
   "category": "Lancer",
-  "reqs": "lancers_impale := 30s MED",
+  "desc": "[Spears] Hitting an enemy after a dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 4
   },
+  "name": "Lancer's Impale",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "lancers_impale := 30s MED",
   "vaulted": false
 }

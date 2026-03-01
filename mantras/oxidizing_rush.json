@@ -1,12 +1,12 @@
 {
-  "name": "Oxidizing Rush",
-  "desc": "Conjure metal swords and rush forward with them",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Conjure metal swords and rush forward with them",
+  "name": "Oxidizing Rush",
   "reqs": "oxidizing_rush := 30r MTL",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

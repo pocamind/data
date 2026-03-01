@@ -1,13 +1,13 @@
 {
-  "name": "Dark Waltz [HVY]",
-  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
-  "rarity": "Common",
   "category": "Darksiphon",
-  "reqs": "dark_waltz_hvy := 90r HVY, 90s SDW",
+  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Dark Waltz [HVY]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "dark_waltz_hvy := 90r HVY, 90s SDW",
   "vaulted": false
 }

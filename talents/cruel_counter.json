@@ -1,13 +1,13 @@
 {
-  "name": "Cruel Counter",
-  "desc": "When using your initial charge up critical on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.",
-  "rarity": "Common",
   "category": "Weapon",
-  "reqs": "cruel_counter := ()",
+  "desc": "When using your initial charge up critical on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cruel Counter",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "cruel_counter := ()",
   "vaulted": false
 }

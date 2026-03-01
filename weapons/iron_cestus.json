@@ -1,16 +1,16 @@
 {
-  "name": "Iron Cestus",
-  "type": "Fists",
-  "damage_type": "Blunt",
-  "reqs": "iron_cestus := ()",
-  "damage": 13.5,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 6.0,
-  "speed": 1.11,
+  "damage": 13.5,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Iron Cestus",
+  "pen": 0.0,
+  "range": 6.0,
+  "reqs": "iron_cestus := ()",
   "scaling": {
     "Light Wep.": 7.0
-  }
+  },
+  "speed": 1.11,
+  "type": "Fists",
+  "weight": 5.0
 }

@@ -1,9 +1,6 @@
 {
-  "name": "Rending Needle: Augmenter [LHT]",
-  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
-  "rarity": "Rare",
   "category": "Rending Needle",
-  "reqs": "master_ironsinger => rending_needle_augmenter_lht := 90r LHT, 90s MTL",
+  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
   "exclusive": [
     "Rending_Needle_Impaler",
     "Rending_Needle_Jailer",
@@ -13,6 +10,9 @@
     "Gilded_Path_Scrapsinger"
   ],
   "innates": {},
+  "name": "Rending Needle: Augmenter [LHT]",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_augmenter_lht := 90r LHT, 90s MTL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Fear the Dark",
-  "desc": "Enemies that run from you after being hit by your shadows will hang in place briefly.",
-  "rarity": "Common",
   "category": "Shadowcaster",
-  "reqs": "shadowcaster => fear_the_dark := 50s SDW",
+  "desc": "Enemies that run from you after being hit by your shadows will hang in place briefly.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fear the Dark",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "shadowcaster => fear_the_dark := 50s SDW",
   "vaulted": false
 }

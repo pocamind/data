@@ -1,15 +1,15 @@
 {
-  "name": "Action Surge",
-  "desc": "Adrenaline Surge now increases your swing speed by 0.04s for its duration.",
-  "rarity": "Common",
   "category": "Vigil Swordsman",
-  "reqs": "adrenaline_surge => action_surge := 70s AGL",
+  "desc": "Adrenaline Surge now increases your swing speed by 0.04s for its duration.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Action Surge",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "adrenaline_surge => action_surge := 70s AGL",
   "vaulted": false
 }

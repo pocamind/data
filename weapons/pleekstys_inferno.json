@@ -1,17 +1,17 @@
 {
-  "name": "Pleeksty's Inferno",
-  "type": "Club",
-  "damage_type": "Blunt",
-  "reqs": "pleekstys_inferno := 40r MED, 80r FLM",
-  "damage": 22.0,
-  "pen": 0.3,
   "chip": 0.1,
-  "weight": 8.0,
-  "range": 8.0,
-  "speed": 0.94,
+  "damage": 22.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Pleeksty's Inferno",
+  "pen": 0.3,
+  "range": 8.0,
+  "reqs": "pleekstys_inferno := 40r MED, 80r FLM",
   "scaling": {
     "Flamecharm": 4.0,
     "Medium Wep.": 3.0
-  }
+  },
+  "speed": 0.94,
+  "type": "Club",
+  "weight": 8.0
 }

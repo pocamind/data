@@ -1,16 +1,16 @@
 {
-  "name": "Canorian Axe",
-  "type": "Greataxe",
-  "damage_type": "Slash",
-  "reqs": "canorian_axe := 35r HVY",
-  "damage": 23.5,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 8.0,
-  "speed": 0.83,
+  "damage": 23.5,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Canorian Axe",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "canorian_axe := 35r HVY",
   "scaling": {
     "Heavy Wep.": 7.0
-  }
+  },
+  "speed": 0.83,
+  "type": "Greataxe",
+  "weight": 6.0
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Friends in High Places",
-  "desc": "Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!",
-  "rarity": "Common",
   "category": "Silvertongue",
-  "reqs": "friends_in_high_places := 20s CHA",
+  "desc": "Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Friends in High Places",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "friends_in_high_places := 20s CHA",
   "vaulted": false
 }

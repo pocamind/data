@@ -1,13 +1,13 @@
 {
-  "name": "Denial Repulse",
-  "desc": "You now emit a delayed burst of flames after coming close to death.",
-  "rarity": "Rare",
   "category": "Undying Ember",
-  "reqs": "denial_repulse := 40s WLL, 40s FLM",
+  "desc": "You now emit a delayed burst of flames after coming close to death.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Denial Repulse",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "denial_repulse := 40s WLL, 40s FLM",
   "vaulted": false
 }

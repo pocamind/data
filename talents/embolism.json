@@ -1,13 +1,13 @@
 {
-  "name": "Embolism",
-  "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
-  "rarity": "Common",
   "category": "Transitory Vitality",
-  "reqs": "sow_and_mend => embolism := 65s BLD",
+  "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Embolism",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sow_and_mend => embolism := 65s BLD",
   "vaulted": false
 }

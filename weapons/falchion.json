@@ -1,16 +1,16 @@
 {
-  "name": "Falchion",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "falchion := 20r MED",
-  "damage": 16.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 8.0,
-  "speed": 1.06,
+  "damage": 16.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Falchion",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "falchion := 20r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 1.06,
+  "type": "Sword",
+  "weight": 4.0
 }

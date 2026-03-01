@@ -1,13 +1,13 @@
 {
-  "name": "Murmur: Rhythm [OATH]",
-  "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
-  "rarity": "Oath",
   "category": "Soulbreaker",
-  "reqs": "oath_soulbreaker => murmur_rhythm_oath := ()",
+  "desc": "An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Murmur: Rhythm [OATH]",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => murmur_rhythm_oath := ()",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Glare",
-  "desc": "Opponents facing you are briefly rendered immobile.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunementless",
   "attributes": [
     "Multiple"
   ],
+  "category": "Support",
+  "desc": "Opponents facing you are briefly rendered immobile.",
+  "name": "Glare",
   "reqs": "glare := 5r WLL, 25r CHA",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Lethal Injection",
-  "desc": "Inject all of your readied Autobrews into your target. This might sting.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Saltchemist"
   ],
+  "category": "Combat",
+  "desc": "Inject all of your readied Autobrews into your target. This might sting.",
+  "name": "Lethal Injection",
   "reqs": "oath_saltchemist => lethal_injection := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

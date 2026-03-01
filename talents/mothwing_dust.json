@@ -1,13 +1,13 @@
 {
-  "name": "Mothwing Dust",
-  "desc": "You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "mothwing_dust := ()",
+  "desc": "You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mothwing Dust",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "mothwing_dust := ()",
   "vaulted": false
 }

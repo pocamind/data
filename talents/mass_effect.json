@@ -1,13 +1,13 @@
 {
-  "name": "Mass Effect",
-  "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "mass_effect := ()",
+  "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mass Effect",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "mass_effect := ()",
   "vaulted": false
 }

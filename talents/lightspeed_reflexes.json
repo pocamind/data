@@ -1,15 +1,15 @@
 {
-  "name": "Lightspeed Reflexes",
-  "desc": "Feinting gives a brief auto-parry window.",
-  "rarity": "Rare",
   "category": "Nimble Blade",
-  "reqs": "lightspeed_reflexes := 20s AGL, 20s INT",
+  "desc": "Feinting gives a brief auto-parry window.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Lightspeed Reflexes",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "lightspeed_reflexes := 20s AGL, 20s INT",
   "vaulted": false
 }

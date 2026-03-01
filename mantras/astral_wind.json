@@ -1,12 +1,12 @@
 {
-  "name": "Astral Wind",
-  "desc": "A rapid delivery of consecutive attacks.\r",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "A rapid delivery of consecutive attacks.\r",
+  "name": "Astral Wind",
   "reqs": "astral_wind := 50r WND",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

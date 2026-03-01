@@ -1,12 +1,12 @@
 {
-  "name": "Adrenaline Surge",
-  "desc": "An adrenaline rush of mobility.\t",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunementless",
   "attributes": [
     "Agility"
   ],
+  "category": "Support",
+  "desc": "An adrenaline rush of mobility.\t",
+  "name": "Adrenaline Surge",
   "reqs": "adrenaline_surge := 20r AGL",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

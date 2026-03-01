@@ -1,13 +1,13 @@
 {
-  "name": "Adept Ironsinger",
-  "desc": "You can now obtain 1-star Ironsinger mantras.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "ironsinger => adept_ironsinger := 20s MTL",
+  "desc": "You can now obtain 1-star Ironsinger mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Adept Ironsinger",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "ironsinger => adept_ironsinger := 20s MTL",
   "vaulted": false
 }

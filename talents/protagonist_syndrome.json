@@ -1,13 +1,13 @@
 {
-  "name": "Protagonist Syndrome",
-  "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.",
-  "rarity": "Oath",
   "category": "Dawnwalker",
-  "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
+  "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Protagonist Syndrome",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
   "vaulted": false
 }

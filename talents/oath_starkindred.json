@@ -1,17 +1,17 @@
 {
-  "name": "Oath: Starkindred",
-  "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you.",
-  "rarity": "Oath",
   "category": "Starkindred",
-  "reqs": "oath_starkindred := 40s STR",
+  "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Combat Mantra": 2,
-    "Wildcard Mantra": 1,
-    "Health": 8
+    "Health": 8,
+    "Wildcard Mantra": 1
   },
+  "name": "Oath: Starkindred",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_starkindred := 40s STR",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Alloyed Shotel",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "alloyed_shotel := 75r MED",
-  "damage": 22.0,
-  "pen": 0.1,
   "chip": 0.3,
-  "weight": 4.0,
-  "range": 8.0,
-  "speed": 0.97,
+  "damage": 22.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Alloyed Shotel",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "alloyed_shotel := 75r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 0.97,
+  "type": "Sword",
+  "weight": 4.0
 }

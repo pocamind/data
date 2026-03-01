@@ -1,16 +1,16 @@
 {
-  "name": "Alloyed Adretian Axe",
-  "type": "Greataxe",
-  "damage_type": "Slash",
-  "reqs": "alloyed_adretian_axe := 75r HVY",
-  "damage": 24.0,
-  "pen": 0.1,
   "chip": 0.1,
-  "weight": 7.0,
-  "range": 8.0,
-  "speed": 0.87,
+  "damage": 24.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Alloyed Adretian Axe",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "alloyed_adretian_axe := 75r HVY",
   "scaling": {
     "Heavy Wep.": 8.0
-  }
+  },
+  "speed": 0.87,
+  "type": "Greataxe",
+  "weight": 7.0
 }

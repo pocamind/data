@@ -1,12 +1,12 @@
 {
-  "name": "Ice Flock",
-  "desc": "Send forth a flock of ice.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Send forth a flock of ice.",
+  "name": "Ice Flock",
   "reqs": "ice_flock := 30r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

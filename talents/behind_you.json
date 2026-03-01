@@ -1,13 +1,13 @@
 {
-  "name": "Behind You",
-  "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.",
-  "rarity": "Common",
   "category": "Ether Endeavors",
-  "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
+  "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Behind You",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
   "vaulted": false
 }

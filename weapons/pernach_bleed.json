@@ -1,16 +1,16 @@
 {
-  "name": "Pernach (Bleed)",
-  "type": "Club",
-  "damage_type": "Blunt + Bleed",
-  "reqs": "pernach_bleed := 75r MED",
-  "damage": 18.5,
-  "pen": 0.3,
   "chip": 0.05,
-  "weight": 7.0,
-  "range": 8.0,
-  "speed": 0.98,
+  "damage": 18.5,
+  "damage_type": "Blunt + Bleed",
   "endlag": 0.0,
+  "name": "Pernach (Bleed)",
+  "pen": 0.3,
+  "range": 8.0,
+  "reqs": "pernach_bleed := 75r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 0.98,
+  "type": "Club",
+  "weight": 7.0
 }

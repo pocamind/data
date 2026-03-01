@@ -1,13 +1,13 @@
 {
-  "name": "Manipulator",
-  "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
-  "rarity": "Common",
   "category": "Toxic Personality",
-  "reqs": "charismatic_cast => manipulator := 60s CHA",
+  "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Manipulator",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "charismatic_cast => manipulator := 60s CHA",
   "vaulted": false
 }

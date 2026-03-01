@@ -1,13 +1,13 @@
 {
-  "name": "Blightpierce",
-  "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
-  "rarity": "Oath",
   "category": "Blightsurger",
-  "reqs": "oath_blightsurger => blightpierce := ()",
+  "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Blightpierce",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_blightsurger => blightpierce := ()",
   "vaulted": false
 }

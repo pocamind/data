@@ -1,13 +1,13 @@
 {
-  "name": "Laced Traps",
-  "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "laced_traps := 45s MTL",
+  "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Laced Traps",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "laced_traps := 45s MTL",
   "vaulted": false
 }

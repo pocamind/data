@@ -1,12 +1,12 @@
 {
-  "name": "Mirror Illusion",
-  "desc": "Mirror your opponents and use their arsenal to your advantage.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Oath",
   "attributes": [
     "Visionshaper"
   ],
+  "category": "Support",
+  "desc": "Mirror your opponents and use their arsenal to your advantage.",
+  "name": "Mirror Illusion",
   "reqs": "oath_visionshaper => mirror_illusion := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

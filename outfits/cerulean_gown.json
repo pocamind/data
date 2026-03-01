@@ -1,21 +1,21 @@
 {
-  "name": "Cerulean Gown",
   "category": "Master",
   "durability": 1500,
-  "resistances": {
-    "Physical Resistance": 0.2,
-    "Elemental Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "talent": null,
-  "reqs": "cerulean_gown := 135r TTL",
   "mats": {
-    "Fiber": 15,
     "Cloth": 15,
+    "Fiber": 15,
     "Megalodaunt Hide": 1
   },
-  "notes": 200
+  "name": "Cerulean Gown",
+  "notes": 200,
+  "reqs": "cerulean_gown := 135r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.2
+  },
+  "talent": null
 }

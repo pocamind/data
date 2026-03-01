@@ -1,13 +1,13 @@
 {
-  "name": "Armored Plating",
-  "desc": "Put on extra plating on your armor, giving you 50 temporary health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.",
-  "rarity": "Faction",
   "category": "Battle Readiness",
-  "reqs": "armored_plating := ()",
+  "desc": "Put on extra plating on your armor, giving you 50 temporary health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Armored Plating",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "armored_plating := ()",
   "vaulted": false
 }

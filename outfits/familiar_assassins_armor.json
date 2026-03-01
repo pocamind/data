@@ -1,21 +1,21 @@
 {
-  "name": "Familiar Assassin's Armor",
   "category": "Master",
   "durability": 2000,
-  "resistances": {
-    "Physical Resistance": 0.25,
-    "Elemental Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 50
   },
-  "talent": "Bane",
-  "reqs": "familiar_assassins_armor := 240r TTL",
   "mats": {
     "Cloth": 5,
-    "Fiber": 5,
-    "Emerald": 1
+    "Emerald": 1,
+    "Fiber": 5
   },
-  "notes": 15000
+  "name": "Familiar Assassin's Armor",
+  "notes": 15000,
+  "reqs": "familiar_assassins_armor := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.25
+  },
+  "talent": "Bane"
 }

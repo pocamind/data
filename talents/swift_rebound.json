@@ -1,15 +1,15 @@
 {
-  "name": "Swift Rebound",
-  "desc": "Move faster after successfully dodging an attack.",
-  "rarity": "Common",
   "category": "Butterfly",
-  "reqs": "swift_rebound := 15s AGL",
+  "desc": "Move faster after successfully dodging an attack.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Swift Rebound",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "swift_rebound := 15s AGL",
   "vaulted": false
 }

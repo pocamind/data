@@ -1,12 +1,12 @@
 {
-  "name": "Illusory Servants",
-  "desc": "Spawns an illusion of yourself that targets the closest player.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Visionshaper"
   ],
+  "category": "Combat",
+  "desc": "Spawns an illusion of yourself that targets the closest player.",
+  "name": "Illusory Servants",
   "reqs": "oath_visionshaper => illusory_servants := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

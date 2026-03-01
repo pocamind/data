@@ -1,13 +1,13 @@
 {
-  "name": "Martial Brutality",
-  "desc": "The less health your opponent has, the more posture damage you deal to them.",
-  "rarity": "Faction",
   "category": "Operator's Technique",
-  "reqs": "martial_brutality := ()",
+  "desc": "The less health your opponent has, the more posture damage you deal to them.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Martial Brutality",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "martial_brutality := ()",
   "vaulted": false
 }

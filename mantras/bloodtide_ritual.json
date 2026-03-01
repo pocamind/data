@@ -1,12 +1,12 @@
 {
-  "name": "Bloodtide Ritual",
-  "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Combat",
+  "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
+  "name": "Bloodtide Ritual",
   "reqs": "bloodtide_ritual := 50r BLD",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

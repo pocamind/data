@@ -1,16 +1,16 @@
 {
-  "name": "Putrid Edenstaff",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "putrid_edenstaff := 75r HVY",
-  "damage": 25.0,
-  "pen": 0.15,
   "chip": 0.0,
-  "weight": 9.0,
-  "range": 9.0,
-  "speed": 0.81,
+  "damage": 25.0,
+  "damage_type": "Blunt",
   "endlag": 0.1,
+  "name": "Putrid Edenstaff",
+  "pen": 0.15,
+  "range": 9.0,
+  "reqs": "putrid_edenstaff := 75r HVY",
   "scaling": {
     "Heavy Wep.": 8.5
-  }
+  },
+  "speed": 0.81,
+  "type": "Greathammer",
+  "weight": 9.0
 }

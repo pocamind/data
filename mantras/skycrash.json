@@ -1,12 +1,12 @@
 {
-  "name": "Skycrash",
-  "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Blightsurger"
   ],
+  "category": "Combat",
+  "desc": "Leap towards your enemies and stomp, knocking up enemies caught.",
+  "name": "Skycrash",
   "reqs": "oath_blightsurger => skycrash := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

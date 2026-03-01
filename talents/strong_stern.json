@@ -1,15 +1,15 @@
 {
-  "name": "Strong Stern",
-  "desc": "The duration you are dazed from wall bangs is cut in half.",
-  "rarity": "Rare",
   "category": "Duelist",
-  "reqs": "strong_stern := 15s STR, 25s FTD",
+  "desc": "The duration you are dazed from wall bangs is cut in half.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Carry Load": 5
   },
+  "name": "Strong Stern",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "strong_stern := 15s STR, 25s FTD",
   "vaulted": false
 }

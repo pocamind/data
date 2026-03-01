@@ -1,15 +1,15 @@
 {
-  "name": "In a Hurry",
-  "desc": "Grip players faster whenever you have a speed boost active.",
-  "rarity": "Common",
   "category": "Cutthroat",
-  "reqs": "in_a_hurry := 30s AGL",
+  "desc": "Grip players faster whenever you have a speed boost active.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "In a Hurry",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "in_a_hurry := 30s AGL",
   "vaulted": false
 }

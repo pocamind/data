@@ -1,13 +1,13 @@
 {
-  "name": "Biotic Salts",
-  "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
-  "rarity": "Oath",
   "category": "Saltchemist",
-  "reqs": "oath_saltchemist => biotic_salts := ()",
+  "desc": "Alter your brews to have reduced positive effects on your enemies and somewhat reduced negative effects on your allies when thrown. Does not count towards the ingredient limit.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Biotic Salts",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_saltchemist => biotic_salts := ()",
   "vaulted": false
 }

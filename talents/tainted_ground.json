@@ -1,13 +1,13 @@
 {
-  "name": "Tainted Ground",
-  "desc": "Enemies who stand in blood pools will not decay blood poison.",
-  "rarity": "Common",
   "category": "Septicemia",
-  "reqs": "tainted_ground := 30s BLD",
+  "desc": "Enemies who stand in blood pools will not decay blood poison.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Tainted Ground",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "tainted_ground := 30s BLD",
   "vaulted": false
 }

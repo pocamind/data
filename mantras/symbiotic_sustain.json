@@ -1,12 +1,12 @@
 {
-  "name": "Symbiotic Sustain",
-  "desc": "If linked to an ally, this move will take ~5% of your health and then heal your ally by that times an undefined amount.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Oath",
   "attributes": [
     "Linkstrider"
   ],
+  "category": "Support",
+  "desc": "If linked to an ally, this move will take ~5% of your health and then heal your ally by that times an undefined amount.",
+  "name": "Symbiotic Sustain",
   "reqs": "oath_linkstrider => symbiotic_sustain := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

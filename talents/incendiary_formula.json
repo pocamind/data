@@ -1,13 +1,13 @@
 {
-  "name": "Incendiary Formula",
-  "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.",
-  "rarity": "Common",
   "category": "Saboteur",
-  "reqs": "family_recipe => incendiary_formula := ()",
+  "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Incendiary Formula",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "family_recipe => incendiary_formula := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Jumper Cables",
-  "desc": "Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.",
-  "rarity": "Common",
   "category": "Static Weaver",
-  "reqs": "static_link => jumper_cables := 20s FTD, 40s LTN",
+  "desc": "Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Jumper Cables",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "static_link => jumper_cables := 20s FTD, 40s LTN",
   "vaulted": false
 }

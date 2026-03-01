@@ -1,13 +1,13 @@
 {
-  "name": "Expert Thundercaller",
-  "desc": "You can now obtain 2-star Thundercaller mantras.",
-  "rarity": "Common",
   "category": "Thundercaller",
-  "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
+  "desc": "You can now obtain 2-star Thundercaller mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Expert Thundercaller",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
   "vaulted": false
 }

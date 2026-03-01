@@ -1,13 +1,13 @@
 {
-  "name": "Overcharge",
-  "desc": "Your next dash after activating Static Blade is enhanced by lightning.",
-  "rarity": "Common",
   "category": "Thunderblade",
-  "reqs": "overcharge := 45s LTN",
+  "desc": "Your next dash after activating Static Blade is enhanced by lightning.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Overcharge",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "overcharge := 45s LTN",
   "vaulted": false
 }

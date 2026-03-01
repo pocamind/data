@@ -1,25 +1,25 @@
 {
-  "name": "Pathfinder Arch-Sorcerer",
   "category": "Master",
   "durability": 1500,
-  "resistances": {
-    "Ice Resistance": 0.1,
-    "Physical Resistance": 0.1,
-    "Thunder Resistance": 0.1,
-    "Elemental Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 40,
     "Extra Stealth": 0
   },
-  "talent": "Devastating Power",
-  "reqs": "pathfinder_arch_sorcerer := 25r INT, 165r TTL",
   "mats": {
-    "Fiber": 5,
-    "Lionfish Scale": 1,
     "Cloth": 5,
+    "Fiber": 5,
     "Irithine": 10,
+    "Lionfish Scale": 1,
     "Strange Claw": 1
   },
-  "notes": 100
+  "name": "Pathfinder Arch-Sorcerer",
+  "notes": 100,
+  "reqs": "pathfinder_arch_sorcerer := 25r INT, 165r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Ice Resistance": 0.1,
+    "Physical Resistance": 0.1,
+    "Thunder Resistance": 0.1
+  },
+  "talent": "Devastating Power"
 }

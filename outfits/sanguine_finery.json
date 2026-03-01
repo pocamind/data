@@ -1,25 +1,25 @@
 {
-  "name": "Sanguine Finery",
   "category": "Master",
   "durability": 2600,
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Bloodless Gem": 1,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Heart Star": 5,
+    "Umbrite": 8,
+    "Vibrant Gem": 5
+  },
+  "name": "Sanguine Finery",
+  "notes": 1000,
+  "reqs": "sanguine_finery := 45r BLD, 240r TTL",
   "resistances": {
     "Blood Resistance": 0.25,
     "Elemental Resistance": 0.3,
     "Physical Resistance": 0.25
   },
-  "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 75
-  },
-  "talent": "Focused Hematoma",
-  "reqs": "sanguine_finery := 45r BLD, 240r TTL",
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Umbrite": 8,
-    "Bloodless Gem": 1,
-    "Vibrant Gem": 5,
-    "Heart Star": 5
-  },
-  "notes": 1000
+  "talent": "Focused Hematoma"
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Brunt",
-  "desc": "While 2-handling, you take less posture damage.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "brunt := ()",
+  "desc": "While 2-handling, you take less posture damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Brunt",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "brunt := ()",
   "vaulted": false
 }

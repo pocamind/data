@@ -1,12 +1,12 @@
 {
-  "name": "Grand Warden's Axe",
-  "desc": "Create a lightning axe!\n[*Note: Requires Authority Ensign Origin's Shock Corps Division.]\n[*Note: You can M1 during this Mantra's windup to change the attack, dealing more damage and posture damage with a vertical swing, rather than the normal horizontal attack.]",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Origin",
   "attributes": [
     "Authority Ensign"
   ],
+  "category": "Combat",
+  "desc": "Create a lightning axe!\n[*Note: Requires Authority Ensign Origin's Shock Corps Division.]\n[*Note: You can M1 during this Mantra's windup to change the attack, dealing more damage and posture damage with a vertical swing, rather than the normal horizontal attack.]",
+  "name": "Grand Warden's Axe",
   "reqs": "grand_wardens_axe := ()",
+  "stars": 0,
+  "type": "Origin",
   "vaulted": false
 }

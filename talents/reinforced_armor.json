@@ -1,13 +1,13 @@
 {
-  "name": "Reinforced Armor",
-  "desc": "Incoming PEN is reduced by 30%.\n[Note: Scales with investment. Having less Fortitude reduces the effect of this Talent, with a minimum of 10%.]",
-  "rarity": "Advanced",
   "category": "Bastion",
-  "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => reinforced_armor := 90s FTD",
+  "desc": "Incoming PEN is reduced by 30%.\n[Note: Scales with investment. Having less Fortitude reduces the effect of this Talent, with a minimum of 10%.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Reinforced Armor",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => reinforced_armor := 90s FTD",
   "vaulted": false
 }

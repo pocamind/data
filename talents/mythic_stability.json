@@ -1,13 +1,13 @@
 {
-  "name": "Mythic Stability",
-  "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while knocked. 60s CD.",
-  "rarity": "Rare",
   "category": "Human Architecture",
-  "reqs": "mythic_stability := 85s FTD",
+  "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution while knocked. 60s CD.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mythic Stability",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "mythic_stability := 85s FTD",
   "vaulted": false
 }

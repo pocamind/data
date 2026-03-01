@@ -1,13 +1,13 @@
 {
-  "name": "Pocket Sand",
-  "desc": "[Fist] Feinting into an uppercut blinds and dazes your opponents briefly. We're even now, right? 30s cooldown",
-  "rarity": "Common",
   "category": "Scoundrel",
-  "reqs": "pocket_sand := 20s STR, 35s LHT",
+  "desc": "[Fist] Feinting into an uppercut blinds and dazes your opponents briefly. We're even now, right? 30s cooldown",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Pocket Sand",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "pocket_sand := 20s STR, 35s LHT",
   "vaulted": false
 }

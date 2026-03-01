@@ -1,13 +1,13 @@
 {
-  "name": "Resolve Crusher",
-  "desc": "Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply 'Electrified' to your opponent. Attacks from Electrified opponents are converted into Lightning damage, but will deal 10% less damage to you.",
-  "rarity": "Common",
   "category": "Authority Interrogator",
-  "reqs": "thundercaller => resolve_crusher := 65s LTN",
+  "desc": "Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply 'Electrified' to your opponent. Attacks from Electrified opponents are converted into Lightning damage, but will deal 10% less damage to you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Resolve Crusher",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "thundercaller => resolve_crusher := 65s LTN",
   "vaulted": false
 }

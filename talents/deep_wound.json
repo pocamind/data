@@ -1,13 +1,13 @@
 {
-  "name": "Deep Wound",
-  "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
-  "rarity": "Common",
   "category": "Assassin",
-  "reqs": "deep_wound := 35s AGL",
+  "desc": "Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level against mobs.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Deep Wound",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "deep_wound := 35s AGL",
   "vaulted": false
 }

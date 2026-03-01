@@ -1,13 +1,13 @@
 {
-  "name": "Expert Shadowcaster",
-  "desc": "You can now obtain 2-Star Leveled Shadowcaster Mantras.",
-  "rarity": "Common",
   "category": "Shadowcaster",
-  "reqs": "adept_shadowcaster => expert_shadowcaster := 30s SDW",
+  "desc": "You can now obtain 2-Star Leveled Shadowcaster Mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Expert Shadowcaster",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "adept_shadowcaster => expert_shadowcaster := 30s SDW",
   "vaulted": false
 }

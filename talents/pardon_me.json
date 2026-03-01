@@ -1,13 +1,13 @@
 {
-  "name": "Pardon Me",
-  "desc": "Crimes you commit in allied territories are often ignored. Who's asking?",
-  "rarity": "Common",
   "category": "Politician",
-  "reqs": "pardon_me := 85s CHA",
+  "desc": "Crimes you commit in allied territories are often ignored. Who's asking?",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Pardon Me",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "pardon_me := 85s CHA",
   "vaulted": false
 }

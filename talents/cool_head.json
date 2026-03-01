@@ -1,13 +1,13 @@
 {
-  "name": "Cool Head",
-  "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
-  "rarity": "Common",
   "category": "Cryomancer",
-  "reqs": "frostdrawer => cool_head := 30s ICE",
+  "desc": "If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cool Head",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "frostdrawer => cool_head := 30s ICE",
   "vaulted": false
 }

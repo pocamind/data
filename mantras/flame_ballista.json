@@ -1,12 +1,12 @@
 {
-  "name": "Flame Ballista",
-  "desc": "Conjure a flaming arrow and fire it at your target.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Conjure a flaming arrow and fire it at your target.",
+  "name": "Flame Ballista",
   "reqs": "flame_ballista := 50r FLM",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

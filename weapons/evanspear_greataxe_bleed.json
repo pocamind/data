@@ -1,16 +1,16 @@
 {
-  "name": "Evanspear Greataxe (Bleed)",
-  "type": "Greataxe",
-  "damage_type": "Slash + Bleed",
-  "reqs": "evanspear_greataxe_bleed := 70r HVY",
-  "damage": 25.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 8.0,
-  "range": 8.5,
-  "speed": 0.73,
+  "damage": 25.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Evanspear Greataxe (Bleed)",
+  "pen": 0.0,
+  "range": 8.5,
+  "reqs": "evanspear_greataxe_bleed := 70r HVY",
   "scaling": {
     "Heavy Wep.": 9.5
-  }
+  },
+  "speed": 0.73,
+  "type": "Greataxe",
+  "weight": 8.0
 }

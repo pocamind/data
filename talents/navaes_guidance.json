@@ -1,13 +1,13 @@
 {
-  "name": "Navae's Guidance",
-  "desc": "Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "navaes_guidance := ()",
+  "desc": "Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Navae's Guidance",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "navaes_guidance := ()",
   "vaulted": false
 }

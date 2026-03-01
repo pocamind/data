@@ -1,16 +1,16 @@
 {
-  "name": "Toothed Club (Bleed)",
-  "type": "Club",
-  "damage_type": "Blunt + Bleed",
-  "reqs": "toothed_club_bleed := 30r MED",
-  "damage": 15.5,
-  "pen": 0.1,
   "chip": 0.05,
-  "weight": 6.0,
-  "range": 7.5,
-  "speed": 0.98,
+  "damage": 15.5,
+  "damage_type": "Blunt + Bleed",
   "endlag": 0.0,
+  "name": "Toothed Club (Bleed)",
+  "pen": 0.1,
+  "range": 7.5,
+  "reqs": "toothed_club_bleed := 30r MED",
   "scaling": {
     "Medium Wep.": 5.0
-  }
+  },
+  "speed": 0.98,
+  "type": "Club",
+  "weight": 6.0
 }

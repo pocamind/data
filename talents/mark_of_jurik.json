@@ -1,13 +1,13 @@
 {
-  "name": "Mark of Jurik",
-  "desc": "Buffs the sanity of one person they choose around them as long as they are at a campfire",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "mark_of_jurik := ()",
+  "desc": "Buffs the sanity of one person they choose around them as long as they are at a campfire",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mark of Jurik",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "mark_of_jurik := ()",
   "vaulted": false
 }

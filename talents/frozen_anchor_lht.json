@@ -1,13 +1,13 @@
 {
-  "name": "Frozen Anchor [LHT]",
-  "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
-  "rarity": "Common",
   "category": "Ice Age",
-  "reqs": "frozen_anchor_lht := 100r LHT, 100s ICE",
+  "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Frozen Anchor [LHT]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "frozen_anchor_lht := 100r LHT, 100s ICE",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Wretched Mawblades",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "wretched_mawblades := 75r HVY",
-  "damage": 27.0,
-  "pen": 0.0,
   "chip": 0.15,
-  "weight": 8.0,
-  "range": 8.0,
-  "speed": 0.84,
+  "damage": 27.0,
+  "damage_type": "Slash",
   "endlag": 0.1,
+  "name": "Wretched Mawblades",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "wretched_mawblades := 75r HVY",
   "scaling": {
     "Heavy Wep.": 8.0
-  }
+  },
+  "speed": 0.84,
+  "type": "Greatsword",
+  "weight": 8.0
 }

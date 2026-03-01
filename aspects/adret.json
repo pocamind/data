@@ -1,8 +1,8 @@
 {
-  "name": "Adret",
   "innate": {
-    "Willpower": 2,
-    "Charisma": 3
+    "Charisma": 3,
+    "Willpower": 2
   },
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "name": "Adret"
 }

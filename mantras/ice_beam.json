@@ -1,12 +1,12 @@
 {
-  "name": "Ice Beam",
-  "desc": "Fire a beam of ice.\r",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Fire a beam of ice.\r",
+  "name": "Ice Beam",
   "reqs": "ice_beam := 1r ICE",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

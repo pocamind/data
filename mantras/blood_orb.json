@@ -1,12 +1,12 @@
 {
-  "name": "Blood Orb",
-  "desc": "Release an amalgamation of your blood.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Combat",
+  "desc": "Release an amalgamation of your blood.",
+  "name": "Blood Orb",
   "reqs": "blood_orb := 1r BLD",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

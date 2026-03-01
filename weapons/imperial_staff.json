@@ -1,17 +1,17 @@
 {
-  "name": "Imperial Staff",
-  "type": "Spear",
-  "damage_type": "Blunt",
-  "reqs": "imperial_staff := 40r STR, 40r MED",
-  "damage": 19.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 19.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Imperial Staff",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "imperial_staff := 40r STR, 40r MED",
   "scaling": {
-    "Strength": 3.5,
-    "Medium Wep.": 5.0
-  }
+    "Medium Wep.": 5.0,
+    "Strength": 3.5
+  },
+  "speed": 1.0,
+  "type": "Spear",
+  "weight": 6.0
 }

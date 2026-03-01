@@ -1,15 +1,15 @@
 {
-  "name": "Pickpocket",
-  "desc": "Gain the ability to pickpocket by pressing \"N\" on a downed person.",
-  "rarity": "Common",
   "category": "Thief",
-  "reqs": "pickpocket := 5s AGL, 10s CHA",
+  "desc": "Gain the ability to pickpocket by pressing \"N\" on a downed person.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 2
   },
+  "name": "Pickpocket",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "pickpocket := 5s AGL, 10s CHA",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Metal Shackles",
-  "desc": "Guardbreaking an opponent prevents them from receiving speed boosts for 5 seconds.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "metal_shackles := 15s STR, 40s MTL",
+  "desc": "Guardbreaking an opponent prevents them from receiving speed boosts for 5 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Metal Shackles",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "metal_shackles := 15s STR, 40s MTL",
   "vaulted": false
 }

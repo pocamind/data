@@ -1,13 +1,13 @@
 {
-  "name": "Everchanging Aegis",
-  "desc": "You take 20% less damage from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different elements.",
-  "rarity": "Rare",
   "category": "Adept Caster",
-  "reqs": "everchanging_aegis := 25s INT",
+  "desc": "You take 20% less damage from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different elements.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Everchanging Aegis",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "everchanging_aegis := 25s INT",
   "vaulted": false
 }

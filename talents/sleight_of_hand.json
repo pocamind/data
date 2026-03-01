@@ -1,13 +1,13 @@
 {
-  "name": "Sleight of Hand",
-  "desc": "[1H Guns] When you flourish an opponent, you instantly load a bullet.",
-  "rarity": "Common",
   "category": "Outlaw",
-  "reqs": "sleight_of_hand := 50s LHT",
+  "desc": "[1H Guns] When you flourish an opponent, you instantly load a bullet.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Sleight of Hand",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sleight_of_hand := 50s LHT",
   "vaulted": false
 }

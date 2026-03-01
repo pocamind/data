@@ -1,13 +1,13 @@
 {
-  "name": "Blood and Iron",
-  "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
-  "rarity": "Common",
   "category": "Bloodsong",
-  "reqs": "blood_and_iron := 40s MTL, 40s BLD",
+  "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Blood and Iron",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "blood_and_iron := 40s MTL, 40s BLD",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Conditioned Runner",
-  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
-  "rarity": "Advanced",
   "category": "Alley Cat",
-  "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
+  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Conditioned Runner",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
   "vaulted": false
 }

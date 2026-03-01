@@ -1,9 +1,6 @@
 {
-  "name": "Brick Wall",
-  "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. You are also now knocked down for less time.\n[*Note: Knockdown reduction scales with your Fortitude and Willpower.]",
-  "rarity": "Advanced",
   "category": "Human Architecture",
-  "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
+  "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. You are also now knocked down for less time.\n[*Note: Knockdown reduction scales with your Fortitude and Willpower.]",
   "exclusive": [
     ""
   ],
@@ -11,6 +8,9 @@
     "Health": 5,
     "Posture": 2
   },
+  "name": "Brick Wall",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
   "vaulted": false
 }

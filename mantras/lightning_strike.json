@@ -1,12 +1,12 @@
 {
-  "name": "Lightning Strike",
-  "desc": "A strike of thunder at your desired location.\t",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Combat",
+  "desc": "A strike of thunder at your desired location.\t",
+  "name": "Lightning Strike",
   "reqs": "lightning_strike := 20r LTN",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Thresher Scales",
-  "desc": "You regenerate your armor at campfires.",
-  "rarity": "Quest",
   "category": "Marauder",
-  "reqs": "thresher_scales := ()",
+  "desc": "You regenerate your armor at campfires.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Thresher Scales",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "thresher_scales := ()",
   "vaulted": false
 }

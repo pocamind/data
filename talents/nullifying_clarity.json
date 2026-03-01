@@ -1,13 +1,13 @@
 {
-  "name": "Nullifying Clarity",
-  "desc": "Deal 10% more damage to enemies with status effects on them with your basic attacks but the effect is removed on impact.",
-  "rarity": "Common",
   "category": "Elemental Rebound",
-  "reqs": "nullifying_clarity := 5s INT, 15s STR",
+  "desc": "Deal 10% more damage to enemies with status effects on them with your basic attacks but the effect is removed on impact.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Nullifying Clarity",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "nullifying_clarity := 5s INT, 15s STR",
   "vaulted": false
 }

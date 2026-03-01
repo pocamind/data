@@ -1,13 +1,13 @@
 {
-  "name": "All-Seeing Eye",
-  "desc": "The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.",
-  "rarity": "Oath",
   "category": "Blindseer",
-  "reqs": "oath_blindseer => all_seeing_eye := ()",
+  "desc": "The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "All-Seeing Eye",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_blindseer => all_seeing_eye := ()",
   "vaulted": false
 }

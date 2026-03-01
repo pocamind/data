@@ -1,16 +1,16 @@
 {
-  "name": "Oath: Contractor",
-  "desc": "Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.",
-  "rarity": "Oath",
   "category": "Contractor",
-  "reqs": "oath_contractor := ()",
+  "desc": "Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.",
   "exclusive": [
     ""
   ],
   "innates": {
-    "Wildcard Mantra": 1,
-    "Combat Mantra": 2
+    "Combat Mantra": 2,
+    "Wildcard Mantra": 1
   },
+  "name": "Oath: Contractor",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_contractor := ()",
   "vaulted": false
 }

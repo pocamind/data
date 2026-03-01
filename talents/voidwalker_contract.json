@@ -1,13 +1,13 @@
 {
-  "name": "Voidwalker Contract",
-  "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "voidwalker_contract := ()",
+  "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Voidwalker Contract",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "voidwalker_contract := ()",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Master Galebreather",
-  "desc": "You can now obtain 3-star Galebreather mantras.",
-  "rarity": "Common",
   "category": "Galebreather",
-  "reqs": "expert_galebreather => master_galebreather := 50s WND",
+  "desc": "You can now obtain 3-star Galebreather mantras.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Galebreather",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "expert_galebreather => master_galebreather := 50s WND",
   "vaulted": false
 }

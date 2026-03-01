@@ -1,13 +1,13 @@
 {
-  "name": "Cryonis",
-  "desc": "All ice spells casted on top of ice cost less Ether.",
-  "rarity": "Common",
   "category": "Ice Age",
-  "reqs": "frostdrawer => cryonis := 40s ICE",
+  "desc": "All ice spells casted on top of ice cost less Ether.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cryonis",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "frostdrawer => cryonis := 40s ICE",
   "vaulted": false
 }

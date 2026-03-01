@@ -1,13 +1,13 @@
 {
-  "name": "Grasp of Eylis",
-  "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronised.",
-  "rarity": "Origin",
   "category": "The Knives of Eylis",
-  "reqs": "grasp_of_eylis := ()",
+  "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronised.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Grasp of Eylis",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "grasp_of_eylis := ()",
   "vaulted": false
 }

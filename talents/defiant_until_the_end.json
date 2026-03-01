@@ -1,15 +1,15 @@
 {
-  "name": "Defiant until the End",
-  "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
-  "rarity": "Common",
   "category": "Limitbreaker",
-  "reqs": "defiant_until_the_end := 20s WLL",
+  "desc": "Slow the enemy trying to execute you down with one last shout of your determination",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 6
   },
+  "name": "Defiant until the End",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "defiant_until_the_end := 20s WLL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Phoenix Impact",
-  "desc": "If you Meteor Slam an opponent while you're on Fire, restore some HP and Ether.",
-  "rarity": "Common",
   "category": "Falling Star Guard",
-  "reqs": "meteor_impact => phoenix_impact := 40s FLM",
+  "desc": "If you Meteor Slam an opponent while you're on Fire, restore some HP and Ether.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Phoenix Impact",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "meteor_impact => phoenix_impact := 40s FLM",
   "vaulted": false
 }

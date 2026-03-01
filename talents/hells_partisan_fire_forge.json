@@ -1,15 +1,15 @@
 {
-  "name": "Hell's Partisan [FIRE FORGE]",
-  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
-  "rarity": "Common",
   "category": "Flame Warden",
-  "reqs": "hells_partisan_fire_forge := 35s FLM",
+  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
   "exclusive": [
     "Hells_Partisan_WARDING"
   ],
   "innates": {
     "Sanity": 4
   },
+  "name": "Hell's Partisan [FIRE FORGE]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "hells_partisan_fire_forge := 35s FLM",
   "vaulted": false
 }

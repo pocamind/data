@@ -1,13 +1,13 @@
 {
-  "name": "Luminous Flash",
-  "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
-  "rarity": "Oath",
   "category": "Dawnwalker",
-  "reqs": "oath_dawnwalker => luminous_flash := ()",
+  "desc": "After dealing a certain amount of damage while in 'Absolute Radiance', gain a chance to empower your strikes with pure light.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Luminous Flash",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => luminous_flash := ()",
   "vaulted": false
 }

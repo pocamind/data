@@ -1,13 +1,13 @@
 {
-  "name": "Hemorrhaging Blow",
-  "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
-  "rarity": "Rare",
   "category": "Bloodrender",
-  "reqs": "master_bloodrender => hemorrhaging_blow := 95s BLD",
+  "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD)",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Hemorrhaging Blow",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "master_bloodrender => hemorrhaging_blow := 95s BLD",
   "vaulted": false
 }

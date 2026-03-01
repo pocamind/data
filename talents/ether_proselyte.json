@@ -1,13 +1,13 @@
 {
-  "name": "Ether Proselyte",
-  "desc": "All of your Elemental Mantras below Lv. 5 are 1 Mantra Level higher. Your Mantras are converted to the element of your active stance.",
-  "rarity": "Oath",
   "category": "Saintsworn",
-  "reqs": "oath_saintsworn => ether_proselyte := ()",
+  "desc": "All of your Elemental Mantras below Lv. 5 are 1 Mantra Level higher. Your Mantras are converted to the element of your active stance.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Ether Proselyte",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_saintsworn => ether_proselyte := ()",
   "vaulted": false
 }

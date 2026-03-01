@@ -1,13 +1,13 @@
 {
-  "name": "Harvester",
-  "desc": "Chance to receive two sets of ingredients when harvesting. You fell trees in fewer strikes.",
-  "rarity": "Quest",
   "category": "Prospector",
-  "reqs": "harvester := ()",
+  "desc": "Chance to receive two sets of ingredients when harvesting. You fell trees in fewer strikes.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Harvester",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "harvester := ()",
   "vaulted": false
 }

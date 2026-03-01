@@ -1,13 +1,13 @@
 {
-  "name": "Float Like a Butterfly",
-  "desc": "In a display of true strength, cancel your air dash to enter a frenzy of slashes. (5s CD)",
-  "rarity": "Oath",
   "category": "Bladeharper",
-  "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
+  "desc": "In a display of true strength, cancel your air dash to enter a frenzy of slashes. (5s CD)",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Float Like a Butterfly",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
   "vaulted": false
 }

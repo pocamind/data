@@ -1,12 +1,12 @@
 {
-  "name": "Iron Hug",
-  "desc": "Grab your opponent and crush them with your ironclad grip.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Grab your opponent and crush them with your ironclad grip.",
+  "name": "Iron Hug",
   "reqs": "iron_hug := 50r MTL",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

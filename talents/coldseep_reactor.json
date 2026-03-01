@@ -1,13 +1,13 @@
 {
-  "name": "Coldseep Reactor",
-  "desc": "By cultivating the local chemosynthetic microornganisms within the Depths and utilising them as a power source, your helm thrums with a protective field of static electricity and heat.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "coldseep_reactor := ()",
+  "desc": "By cultivating the local chemosynthetic microornganisms within the Depths and utilising them as a power source, your helm thrums with a protective field of static electricity and heat.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Coldseep Reactor",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "coldseep_reactor := ()",
   "vaulted": false
 }

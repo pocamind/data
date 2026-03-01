@@ -1,13 +1,13 @@
 {
-  "name": "Heavy Haul",
-  "desc": "Enemies who carry you move significantly slower.",
-  "rarity": "Common",
   "category": "Miscellaneous",
-  "reqs": "heavy_haul := 15s STR",
+  "desc": "Enemies who carry you move significantly slower.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Heavy Haul",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "heavy_haul := 15s STR",
   "vaulted": false
 }

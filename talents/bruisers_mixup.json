@@ -1,13 +1,13 @@
 {
-  "name": "Bruiser's Mixup",
-  "desc": "Switching your fight Style mid-fight makes your basic Fist attack inflict bleed temporarily.",
-  "rarity": "Common",
   "category": "Brawler",
-  "reqs": "bruisers_mixup := 1s LHT",
+  "desc": "Switching your fight Style mid-fight makes your basic Fist attack inflict bleed temporarily.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Bruiser's Mixup",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "bruisers_mixup := 1s LHT",
   "vaulted": false
 }

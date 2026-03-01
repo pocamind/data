@@ -1,13 +1,13 @@
 {
-  "name": "Static Link",
-  "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
-  "rarity": "Common",
   "category": "Static Weaver",
-  "reqs": "static_link := 15s INT, 40s LTN",
+  "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Static Link",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "static_link := 15s INT, 40s LTN",
   "vaulted": false
 }

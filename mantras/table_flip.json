@@ -1,12 +1,12 @@
 {
-  "name": "Table Flip",
-  "desc": "Toss the ground infront of you.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Strength"
   ],
+  "category": "Combat",
+  "desc": "Toss the ground infront of you.",
+  "name": "Table Flip",
   "reqs": "table_flip := 40r STR",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

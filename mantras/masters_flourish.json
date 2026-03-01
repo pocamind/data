@@ -1,12 +1,12 @@
 {
-  "name": "Master's Flourish",
-  "desc": "A powerful slash that chips through block and slashes through armor.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Medium Weapons"
   ],
+  "category": "Combat",
+  "desc": "A powerful slash that chips through block and slashes through armor.",
+  "name": "Master's Flourish",
   "reqs": "masters_flourish := 30r MED",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

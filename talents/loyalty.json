@@ -1,13 +1,13 @@
 {
-  "name": "Loyalty",
-  "desc": "Your bond with your allies is strong enough to reduce damage between you",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "loyalty := ()",
+  "desc": "Your bond with your allies is strong enough to reduce damage between you",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Loyalty",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "loyalty := ()",
   "vaulted": false
 }

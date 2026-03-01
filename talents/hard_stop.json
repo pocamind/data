@@ -1,13 +1,13 @@
 {
-  "name": "Hard Stop",
-  "desc": "Landing a charged shot will knock your opponent back.",
-  "rarity": "Rare",
   "category": "Greatarcher",
-  "reqs": "hard_stop := 55s STR",
+  "desc": "Landing a charged shot will knock your opponent back.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Hard Stop",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "hard_stop := 55s STR",
   "vaulted": false
 }

@@ -1,9 +1,6 @@
 {
-  "name": "Rending Needle: Jailer",
-  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.",
-  "rarity": "Rare",
   "category": "Rending Needle",
-  "reqs": "master_ironsinger => rending_needle_jailer := 75s MTL",
+  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.",
   "exclusive": [
     "Rending_Needle_Impaler",
     "Rending_Needle_Conductor",
@@ -12,6 +9,9 @@
     "Rending_Needle_Augmenter_LHT"
   ],
   "innates": {},
+  "name": "Rending Needle: Jailer",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_jailer := 75s MTL",
   "vaulted": false
 }

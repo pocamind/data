@@ -1,12 +1,12 @@
 {
-  "name": "Needle Barrage",
-  "desc": "A barrage of metal rods.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "A barrage of metal rods.",
+  "name": "Needle Barrage",
   "reqs": "needle_barrage := 1r MTL",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Fire Palm",
-  "desc": "A blast of flame.\r",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "A blast of flame.\r",
+  "name": "Fire Palm",
   "reqs": "fire_palm := 20r FLM",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

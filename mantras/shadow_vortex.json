@@ -1,12 +1,12 @@
 {
-  "name": "Shadow Vortex",
-  "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Create a shadow vortex that pulls in everything in its surroundings.\n[VAULTED]",
+  "name": "Shadow Vortex",
   "reqs": "shadow_vortex := 50r SDW",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": true
 }

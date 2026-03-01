@@ -1,15 +1,15 @@
 {
-  "name": "Mantra Permanence",
-  "desc": "Knocking an enemy with a mantra refunds the cost of the mantra.",
-  "rarity": "Common",
   "category": "Ether Conduit",
-  "reqs": "mantra_permanence := 20s INT",
+  "desc": "Knocking an enemy with a mantra refunds the cost of the mantra.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Ether": 5
   },
+  "name": "Mantra Permanence",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "mantra_permanence := 20s INT",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Flame Blind",
-  "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Support",
+  "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
+  "name": "Flame Blind",
   "reqs": "flame_blind := 1r FLM",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

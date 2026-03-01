@@ -1,9 +1,6 @@
 {
-  "name": "Ether Overdrive [LTN]",
-  "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
-  "rarity": "Advanced",
   "category": "Songmaster",
-  "reqs": "ether_overdrive_ltn := 20r LTN, 90s INT",
+  "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
   "exclusive": [
     "Ether_Overdrive_FLM",
     "Ether_Overdrive_ICE",
@@ -14,6 +11,9 @@
     "Million_Ton_Piercer"
   ],
   "innates": {},
+  "name": "Ether Overdrive [LTN]",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "ether_overdrive_ltn := 20r LTN, 90s INT",
   "vaulted": false
 }

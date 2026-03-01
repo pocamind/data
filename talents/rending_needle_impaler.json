@@ -1,9 +1,6 @@
 {
-  "name": "Rending Needle: Impaler",
-  "desc": "If an enemy has 5 or more rods, your Ironsing Pull instead pulls out all of the rods for massive damage.",
-  "rarity": "Rare",
   "category": "Rending Needle",
-  "reqs": "master_ironsinger => rending_needle_impaler := 75s MTL",
+  "desc": "If an enemy has 5 or more rods, your Ironsing Pull instead pulls out all of the rods for massive damage.",
   "exclusive": [
     "Rending_Needle_Jailer",
     "Rending_Needle_Conductor",
@@ -12,6 +9,9 @@
     "Rending_Needle_Augmenter_LHT"
   ],
   "innates": {},
+  "name": "Rending Needle: Impaler",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_impaler := 75s MTL",
   "vaulted": false
 }

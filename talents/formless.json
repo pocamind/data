@@ -1,13 +1,13 @@
 {
-  "name": "Formless",
-  "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
-  "rarity": "Oath",
   "category": "Soulbreaker",
-  "reqs": "oath_soulbreaker => formless := ()",
+  "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Formless",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => formless := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Hair Products",
-  "desc": "Select Hair Products to apply to others with your Hair Spray.",
-  "rarity": "Oath",
   "category": "Fadetrimmer",
-  "reqs": "oath_fadetrimmer => hair_products := ()",
+  "desc": "Select Hair Products to apply to others with your Hair Spray.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Hair Products",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_fadetrimmer => hair_products := ()",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Shadow Meteors",
-  "desc": "Hail down meteors of darkness.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Hail down meteors of darkness.",
+  "name": "Shadow Meteors",
   "reqs": "shadow_meteors := 30r SDW",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

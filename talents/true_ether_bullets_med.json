@@ -1,13 +1,13 @@
 {
-  "name": "True Ether Bullets [MED]",
-  "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
-  "rarity": "Rare",
   "category": "Gunslinger",
-  "reqs": "true_ether_bullets_med := 20r MED, 30s INT",
+  "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
   "exclusive": [
     "True_Ether_Bullets_LHT"
   ],
   "innates": {},
+  "name": "True Ether Bullets [MED]",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "true_ether_bullets_med := 20r MED, 30s INT",
   "vaulted": false
 }

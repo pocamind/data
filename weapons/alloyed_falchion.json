@@ -1,16 +1,16 @@
 {
-  "name": "Alloyed Falchion",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "alloyed_falchion := 75r MED",
-  "damage": 16.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 7.5,
-  "speed": 1.06,
+  "damage": 16.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Alloyed Falchion",
+  "pen": 0.2,
+  "range": 7.5,
+  "reqs": "alloyed_falchion := 75r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 1.06,
+  "type": "Sword",
+  "weight": 4.0
 }

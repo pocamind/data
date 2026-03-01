@@ -1,16 +1,16 @@
 {
-  "name": "Hunting Bow",
-  "type": "Bow",
-  "damage_type": "Slash",
-  "reqs": "hunting_bow := 20r MED",
-  "damage": 14.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 12.0,
-  "speed": 1.0,
+  "damage": 14.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Hunting Bow",
+  "pen": 0.1,
+  "range": 12.0,
+  "reqs": "hunting_bow := 20r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 1.0,
+  "type": "Bow",
+  "weight": 4.0
 }

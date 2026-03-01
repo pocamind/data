@@ -1,13 +1,13 @@
 {
-  "name": "Ash Ember [MED]",
-  "desc": "The more wither your opponent has the more damage your burn deals.",
-  "rarity": "Common",
   "category": "Withered Flame",
-  "reqs": "ash_ember_med := 90r MED, 90s FLM",
+  "desc": "The more wither your opponent has the more damage your burn deals.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Ash Ember [MED]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "ash_ember_med := 90r MED, 90s FLM",
   "vaulted": false
 }

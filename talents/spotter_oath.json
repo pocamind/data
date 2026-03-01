@@ -1,13 +1,13 @@
 {
-  "name": "Spotter [OATH]",
-  "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
-  "rarity": "Oath",
   "category": "Soulbreaker",
-  "reqs": "oath_soulbreaker => spotter_oath := ()",
+  "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Spotter [OATH]",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => spotter_oath := ()",
   "vaulted": false
 }

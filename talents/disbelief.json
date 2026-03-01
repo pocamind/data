@@ -1,15 +1,15 @@
 {
-  "name": "Disbelief",
-  "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
-  "rarity": "Common",
   "category": "Mental Fortress",
-  "reqs": "disbelief := 25s WLL",
+  "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 5
   },
+  "name": "Disbelief",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "disbelief := 25s WLL",
   "vaulted": false
 }

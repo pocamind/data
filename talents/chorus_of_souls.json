@@ -1,15 +1,15 @@
 {
-  "name": "Chorus of Souls",
-  "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
-  "rarity": "Advanced",
   "category": "Sage of Wisps",
-  "reqs": "oath_oathless => chorus_of_souls := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
+  "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Wisp Mantra Slot": 1
   },
+  "name": "Chorus of Souls",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "oath_oathless => chorus_of_souls := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
   "vaulted": false
 }

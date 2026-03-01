@@ -1,13 +1,13 @@
 {
-  "name": "Sightless Still",
-  "desc": "The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.",
-  "rarity": "Common",
   "category": "Shadowcaster",
-  "reqs": "sightless_still := 30s SDW",
+  "desc": "The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.",
   "exclusive": [
     "Singularity"
   ],
   "innates": {},
+  "name": "Sightless Still",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sightless_still := 30s SDW",
   "vaulted": false
 }

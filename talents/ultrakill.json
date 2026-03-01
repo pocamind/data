@@ -1,13 +1,13 @@
 {
-  "name": "Ultrakill",
-  "desc": "[1H Guns] When under the effects of Rapid Fire you reload 2x as fast. (Play Ultrakill)",
-  "rarity": "Common",
   "category": "Outlaw",
-  "reqs": "rapid_fire => ultrakill := 55s LHT",
+  "desc": "[1H Guns] When under the effects of Rapid Fire you reload 2x as fast. (Play Ultrakill)",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Ultrakill",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "rapid_fire => ultrakill := 55s LHT",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Iron Blunderbuss",
-  "type": "Guns",
-  "damage_type": "Blunt",
-  "reqs": "iron_blunderbuss := 75r MED",
-  "damage": 20.0,
-  "pen": 0.25,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 7.0,
-  "speed": 0.97,
+  "damage": 20.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Iron Blunderbuss",
+  "pen": 0.25,
+  "range": 7.0,
+  "reqs": "iron_blunderbuss := 75r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 0.97,
+  "type": "Guns",
+  "weight": 5.0
 }

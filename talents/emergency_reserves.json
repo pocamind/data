@@ -1,13 +1,13 @@
 {
-  "name": "Emergency Reserves",
-  "desc": "When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).",
-  "rarity": "Common",
   "category": "Absolute Focus",
-  "reqs": "emergency_reserves := 80s WLL",
+  "desc": "When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Emergency Reserves",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "emergency_reserves := 80s WLL",
   "vaulted": false
 }

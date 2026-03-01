@@ -1,13 +1,13 @@
 {
-  "name": "Encore",
-  "desc": "Your Sing now stun opponents who are already charmed.",
-  "rarity": "Rare",
   "category": "Vocalist",
-  "reqs": "encore := 40s CHA",
+  "desc": "Your Sing now stun opponents who are already charmed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Encore",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "encore := 40s CHA",
   "vaulted": false
 }

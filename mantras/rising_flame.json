@@ -1,12 +1,12 @@
 {
-  "name": "Rising Flame",
-  "desc": "A rising tornado of flames.\r",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "A rising tornado of flames.\r",
+  "name": "Rising Flame",
   "reqs": "rising_flame := 30r FLM",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

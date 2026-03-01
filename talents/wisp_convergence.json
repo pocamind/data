@@ -1,13 +1,13 @@
 {
-  "name": "Wisp Convergence",
-  "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes.",
-  "rarity": "Rare",
   "category": "Sage of Wisps",
-  "reqs": "oath_oathless, chorus_of_souls => wisp_convergence := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
+  "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Wisp Convergence",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "oath_oathless, chorus_of_souls => wisp_convergence := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
   "vaulted": false
 }

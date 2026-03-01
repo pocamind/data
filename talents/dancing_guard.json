@@ -1,13 +1,13 @@
 {
-  "name": "Dancing Guard",
-  "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
-  "rarity": "Common",
   "category": "Bulwark",
-  "reqs": "dancing_guard := 55s FTD",
+  "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for up to 7s.\n[*Note: 4s to 7s duration between 20 and 55 Fortitude.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Dancing Guard",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "dancing_guard := 55s FTD",
   "vaulted": false
 }

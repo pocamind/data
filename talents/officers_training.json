@@ -1,13 +1,13 @@
 {
-  "name": "Officer's Training",
-  "desc": "While using a sword or rapier, take 30% less posture damage from Critical Attacks.",
-  "rarity": "Faction",
   "category": "Dread Imperium",
-  "reqs": "officers_training := ()",
+  "desc": "While using a sword or rapier, take 30% less posture damage from Critical Attacks.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Officer's Training",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "officers_training := ()",
   "vaulted": false
 }

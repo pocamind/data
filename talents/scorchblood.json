@@ -1,13 +1,13 @@
 {
-  "name": "Scorchblood",
-  "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
-  "rarity": "Common",
   "category": "Bloodsong",
-  "reqs": "scorchblood := 40s FLM, 40s BLD",
+  "desc": "Guardbreaking your opponent with a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Scorchblood",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "scorchblood := 40s FLM, 40s BLD",
   "vaulted": false
 }

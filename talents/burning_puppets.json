@@ -1,13 +1,13 @@
 {
-  "name": "Burning Puppets",
-  "desc": "Your puppets can now inflict burn and fire-based talents when they explode.",
-  "rarity": "Common",
   "category": "Twisted Puppets",
-  "reqs": "wraith_path_twisted_puppets => burning_puppets := 40s FLM, 40s SDW",
+  "desc": "Your puppets can now inflict burn and fire-based talents when they explode.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Burning Puppets",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets => burning_puppets := 40s FLM, 40s SDW",
   "vaulted": false
 }

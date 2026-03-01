@@ -1,12 +1,12 @@
 {
-  "name": "Karita Divebomb",
-  "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Light Weapons"
   ],
+  "category": "Combat",
+  "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap.",
+  "name": "Karita Divebomb",
   "reqs": "karita_divebomb := 20r LHT",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

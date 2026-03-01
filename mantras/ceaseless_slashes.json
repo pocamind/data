@@ -1,12 +1,12 @@
 {
-  "name": "Ceaseless Slashes",
-  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Light Weapons"
   ],
+  "category": "Combat",
+  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
+  "name": "Ceaseless Slashes",
   "reqs": "ceaseless_slashes := 50r LHT",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

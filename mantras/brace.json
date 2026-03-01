@@ -1,12 +1,12 @@
 {
-  "name": "Brace",
-  "desc": "Brace yourself against attacks and gain hyperarmour.        ",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunementless",
   "attributes": [
     "Fortitude"
   ],
+  "category": "Support",
+  "desc": "Brace yourself against attacks and gain hyperarmour.        ",
+  "name": "Brace",
   "reqs": "brace := 75r FTD",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

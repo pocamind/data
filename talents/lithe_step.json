@@ -1,13 +1,13 @@
 {
-  "name": "Lithe Step",
-  "desc": "When sprinting, roll-cancel and instantly vanish and surge with unmatched speed.",
-  "rarity": "Oath",
   "category": "Bladeharper",
-  "reqs": "oath_bladeharper => lithe_step := ()",
+  "desc": "When sprinting, roll-cancel and instantly vanish and surge with unmatched speed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Lithe Step",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => lithe_step := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Tempest Wind",
-  "desc": "Cast Wind Blade while sliding to unleash a quick whirlwind attack.",
-  "rarity": "Common",
   "category": "Gale Duelist",
-  "reqs": "tempest_wind := 20s WND",
+  "desc": "Cast Wind Blade while sliding to unleash a quick whirlwind attack.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Tempest Wind",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "tempest_wind := 20s WND",
   "vaulted": true
 }

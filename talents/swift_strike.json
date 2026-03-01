@@ -1,13 +1,13 @@
 {
-  "name": "Swift Strike",
-  "desc": "Hitting your opponent's back with an M1 will enhance your nextc ritical, turning into a teleport backstab that procs all assassination Talents. Doesn't go away until you cast your critical. 20s CD.",
-  "rarity": "Equipment",
   "category": "Weapon",
-  "reqs": "swift_strike := ()",
+  "desc": "Hitting your opponent's back with an M1 will enhance your nextc ritical, turning into a teleport backstab that procs all assassination Talents. Doesn't go away until you cast your critical. 20s CD.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Swift Strike",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "swift_strike := ()",
   "vaulted": false
 }

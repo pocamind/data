@@ -1,13 +1,13 @@
 {
-  "name": "Frost Buster",
-  "desc": "Greatsword and Greathammer criticals now place Ice underneath the path they carve.",
-  "rarity": "Common",
   "category": "Ice Age",
-  "reqs": "cryonis => frost_buster := 15s HVY, 45s ICE",
+  "desc": "Greatsword and Greathammer criticals now place Ice underneath the path they carve.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Frost Buster",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "cryonis => frost_buster := 15s HVY, 45s ICE",
   "vaulted": false
 }

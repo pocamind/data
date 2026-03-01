@@ -1,13 +1,13 @@
 {
-  "name": "Amplified Rage",
-  "desc": "Amped now grants you an additional +10% weapon damage.",
-  "rarity": "Common",
   "category": "Jumpstarter",
-  "reqs": "electrify => amplified_rage := 35s LTN",
+  "desc": "Amped now grants you an additional +10% weapon damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Amplified Rage",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "electrify => amplified_rage := 35s LTN",
   "vaulted": false
 }

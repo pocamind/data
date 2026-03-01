@@ -1,13 +1,13 @@
 {
-  "name": "Curved Edge",
-  "desc": "Your light weapon mantras now gain 30% more chip.",
-  "rarity": "Common",
   "category": "Weapon",
-  "reqs": "curved_edge := ()",
+  "desc": "Your light weapon mantras now gain 30% more chip.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Curved Edge",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "curved_edge := ()",
   "vaulted": false
 }

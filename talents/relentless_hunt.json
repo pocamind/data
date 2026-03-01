@@ -1,13 +1,13 @@
 {
-  "name": "Relentless Hunt",
-  "desc": "Basic Attack while doing an Aerial Attack to initiate a special gap closer attack.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => relentless_hunt := ()",
+  "desc": "Basic Attack while doing an Aerial Attack to initiate a special gap closer attack.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Relentless Hunt",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => relentless_hunt := ()",
   "vaulted": false
 }

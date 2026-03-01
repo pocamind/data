@@ -1,12 +1,12 @@
 {
-  "name": "Throw",
-  "desc": "Grab and throw your enemies.\n[*You must defeat Titus.]",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Strength"
   ],
+  "category": "Combat",
+  "desc": "Grab and throw your enemies.\n[*You must defeat Titus.]",
+  "name": "Throw",
   "reqs": "throw := 35r STR",
+  "stars": 2,
+  "type": "Attunementless",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Sheltering Grasp",
-  "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
-  "rarity": "Common",
   "category": "Bloodrender",
-  "reqs": "sheltering_grasp := 30s BLD",
+  "desc": "Blood mantras cast within blood pools have a reduced blood cost.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Sheltering Grasp",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sheltering_grasp := 30s BLD",
   "vaulted": false
 }

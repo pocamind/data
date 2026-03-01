@@ -1,13 +1,13 @@
 {
-  "name": "Bloodwarden's Sense",
-  "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted briefly.",
-  "rarity": "Common",
   "category": "Bloodhound",
-  "reqs": "bloodwardens_sense := 30s BLD",
+  "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted briefly.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Bloodwarden's Sense",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "bloodwardens_sense := 30s BLD",
   "vaulted": false
 }

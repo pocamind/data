@@ -1,13 +1,13 @@
 {
-  "name": "Brute Strength",
-  "desc": "Your vent is replaced with a ground slam attack that knocks back enemies.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "brute_strength := ()",
+  "desc": "Your vent is replaced with a ground slam attack that knocks back enemies.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Brute Strength",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "brute_strength := ()",
   "vaulted": false
 }

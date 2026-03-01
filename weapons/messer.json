@@ -1,16 +1,16 @@
 {
-  "name": "Messer",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "messer := 10r MED",
-  "damage": 20.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 7.5,
-  "speed": 0.93,
+  "damage": 20.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Messer",
+  "pen": 0.0,
+  "range": 7.5,
+  "reqs": "messer := 10r MED",
   "scaling": {
     "Medium Wep.": 5.0
-  }
+  },
+  "speed": 0.93,
+  "type": "Sword",
+  "weight": 6.0
 }

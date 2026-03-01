@@ -1,9 +1,6 @@
 {
-  "name": "Oath: Silentheart",
-  "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements.\n[Note: Only reduces requirements by 25, not half.]",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart := 25s STR, 25s AGL, 25s CHA",
+  "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with half the usual requirements.\n[Note: Only reduces requirements by 25, not half.]",
   "exclusive": [
     ""
   ],
@@ -11,6 +8,9 @@
     "Health": 10,
     "Posture": 2
   },
+  "name": "Oath: Silentheart",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart := 25s STR, 25s AGL, 25s CHA",
   "vaulted": false
 }

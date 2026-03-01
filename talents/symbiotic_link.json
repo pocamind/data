@@ -1,13 +1,13 @@
 {
-  "name": "Symbiotic Link",
-  "desc": "Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.",
-  "rarity": "Oath",
   "category": "Linkstrider",
-  "reqs": "oath_linkstrider => symbiotic_link := ()",
+  "desc": "Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Symbiotic Link",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_linkstrider => symbiotic_link := ()",
   "vaulted": false
 }

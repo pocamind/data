@@ -1,15 +1,15 @@
 {
-  "name": "Cauterized Wounds",
-  "desc": "Blood loss from all sources is lowered.",
-  "rarity": "Common",
   "category": "Flame Warden",
-  "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
+  "desc": "Blood loss from all sources is lowered.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Cauterized Wounds",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "cauterized_wounds := 5s FTD, 40s FLM",
   "vaulted": false
 }

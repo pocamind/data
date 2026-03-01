@@ -1,21 +1,21 @@
 {
-  "name": "Diver Apprentice Robes",
   "category": "Master",
   "durability": 1000,
-  "resistances": {
-    "Physical Resistance": 0.1,
-    "Elemental Resistance": 0.15
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 10
+    "Ether Regen": 10,
+    "Extra Stealth": 0
   },
-  "talent": null,
-  "reqs": "diver_apprentice_robes := 10r INT, 90r TTL",
   "mats": {
     "Cloth": 4,
-    "Fiber": 4,
-    "Crystal Lens": 3
+    "Crystal Lens": 3,
+    "Fiber": 4
   },
-  "notes": 50
+  "name": "Diver Apprentice Robes",
+  "notes": 50,
+  "reqs": "diver_apprentice_robes := 10r INT, 90r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.15,
+    "Physical Resistance": 0.1
+  },
+  "talent": null
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Relic Axe",
-  "type": "Greataxe",
-  "damage_type": "Slash",
-  "reqs": "relic_axe := 75r HVY",
-  "damage": 25.0,
-  "pen": 0.25,
   "chip": 0.1,
-  "weight": 10.0,
-  "range": 8.5,
-  "speed": 0.8,
+  "damage": 25.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Relic Axe",
+  "pen": 0.25,
+  "range": 8.5,
+  "reqs": "relic_axe := 75r HVY",
   "scaling": {
     "Heavy Wep.": 9.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greataxe",
+  "weight": 10.0
 }

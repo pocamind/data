@@ -1,13 +1,13 @@
 {
-  "name": "Silent Cascade",
-  "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => silent_cascade := ()",
+  "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Silent Cascade",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => silent_cascade := ()",
   "vaulted": false
 }

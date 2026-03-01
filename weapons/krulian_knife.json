@@ -1,16 +1,16 @@
 {
-  "name": "Krulian Knife",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "krulian_knife := 75r LHT",
-  "damage": 12.5,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.0,
-  "speed": 1.25,
+  "damage": 12.5,
+  "damage_type": "Slash",
   "endlag": 0.05,
+  "name": "Krulian Knife",
+  "pen": 0.2,
+  "range": 6.0,
+  "reqs": "krulian_knife := 75r LHT",
   "scaling": {
     "Light Wep.": 10.5
-  }
+  },
+  "speed": 1.25,
+  "type": "Dagger",
+  "weight": 4.0
 }

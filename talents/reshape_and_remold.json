@@ -1,13 +1,13 @@
 {
-  "name": "Reshape and Remold",
-  "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.\n[*This talent loses some effectiveness when below its requirements.]",
-  "rarity": "Advanced",
   "category": "Scrapsinger",
-  "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
+  "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.\n[*This talent loses some effectiveness when below its requirements.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Reshape and Remold",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
   "vaulted": false
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Summer Dragoon",
   "category": "Master",
   "durability": 2800,
-  "resistances": {
-    "Wind Resistance": 0.2,
-    "Elemental Resistance": 0.3,
-    "Physical Resistance": 0.3
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 20
+    "Ether Regen": 20,
+    "Extra Stealth": 0
   },
-  "talent": "Sunset Ricochet",
-  "reqs": "summer_dragoon := 240r TTL",
   "mats": {
-    "Bounder Claw": 1,
-    "Thresher Spine": 1,
-    "Cloth": 5,
     "Bloodless Gem": 1,
+    "Bounder Claw": 1,
+    "Cloth": 5,
     "Fiber": 5,
-    "Vibrant Gem": 5,
-    "Megalodaunt Hide": 1
+    "Megalodaunt Hide": 1,
+    "Thresher Spine": 1,
+    "Vibrant Gem": 5
   },
-  "notes": 1000
+  "name": "Summer Dragoon",
+  "notes": 1000,
+  "reqs": "summer_dragoon := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Physical Resistance": 0.3,
+    "Wind Resistance": 0.2
+  },
+  "talent": "Sunset Ricochet"
 }

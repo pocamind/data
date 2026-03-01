@@ -1,13 +1,13 @@
 {
-  "name": "Chemist's Bag",
-  "desc": "You no longer drop Potions on death.",
-  "rarity": "Common",
   "category": "Alchemist",
-  "reqs": "chemists_bag := 80s INT",
+  "desc": "You no longer drop Potions on death.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Chemist's Bag",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "chemists_bag := 80s INT",
   "vaulted": false
 }

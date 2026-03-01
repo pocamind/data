@@ -1,12 +1,12 @@
 {
-  "name": "Twister Kicks",
-  "desc": "Go forth with spinning kicks infused with the wind.",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "Go forth with spinning kicks infused with the wind.",
+  "name": "Twister Kicks",
   "reqs": "twister_kicks := 20r WND",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

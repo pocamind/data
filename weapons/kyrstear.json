@@ -1,16 +1,16 @@
 {
-  "name": "Kyrstear",
-  "type": "Offhand",
-  "damage_type": "Posture",
-  "reqs": "kyrstear := 40r AGL",
-  "damage": 5.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.5,
-  "speed": 1.3,
+  "damage": 5.0,
+  "damage_type": "Posture",
   "endlag": 0.1,
+  "name": "Kyrstear",
+  "pen": 0.0,
+  "range": 6.5,
+  "reqs": "kyrstear := 40r AGL",
   "scaling": {
     "Agility": 8.0
-  }
+  },
+  "speed": 1.3,
+  "type": "Offhand",
+  "weight": 4.0
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Fire Blade",
-  "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Release a slash of flames downwards that deals heavy posture damage.\n[*Guard breaks at Level 5]",
+  "name": "Fire Blade",
   "reqs": "fire_blade := 1r FLM",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

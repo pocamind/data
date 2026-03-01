@@ -1,13 +1,13 @@
 {
-  "name": "Dread Fighter",
-  "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => dread_fighter := ()",
+  "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Dread Fighter",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => dread_fighter := ()",
   "vaulted": false
 }

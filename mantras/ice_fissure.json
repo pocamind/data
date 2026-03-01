@@ -1,12 +1,12 @@
 {
-  "name": "Ice Fissure",
-  "desc": "Send ice rippling out in a shockwave.\r",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Send ice rippling out in a shockwave.\r",
+  "name": "Ice Fissure",
   "reqs": "ice_fissure := 50r ICE",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

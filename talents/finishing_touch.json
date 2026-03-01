@@ -1,15 +1,15 @@
 {
-  "name": "Finishing Touch",
-  "desc": "[Daggers] Instantly execute enemies finished with the critical attack of your dagger.",
-  "rarity": "Common",
   "category": "Critical Specialist",
-  "reqs": "finishing_touch := 40s LHT, 50s AGL",
+  "desc": "[Daggers] Instantly execute enemies finished with the critical attack of your dagger.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 2
   },
+  "name": "Finishing Touch",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "finishing_touch := 40s LHT, 50s AGL",
   "vaulted": false
 }

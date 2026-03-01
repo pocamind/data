@@ -1,16 +1,16 @@
 {
-  "name": "Hivelord's Hubris",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "hivelords_hubris := 60r STR, 100r HVY",
-  "damage": 28.0,
-  "pen": 0.05,
   "chip": 0.0,
-  "weight": 9.0,
-  "range": 10.0,
-  "speed": 0.62,
+  "damage": 28.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Hivelord's Hubris",
+  "pen": 0.05,
+  "range": 10.0,
+  "reqs": "hivelords_hubris := 60r STR, 100r HVY",
   "scaling": {
     "Heavy Wep.": 10.0
-  }
+  },
+  "speed": 0.62,
+  "type": "Greathammer",
+  "weight": 9.0
 }

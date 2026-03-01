@@ -1,22 +1,22 @@
 {
-  "name": "Authority Captain Uniform",
   "category": "Master",
   "durability": 2000,
-  "resistances": {
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "talent": null,
-  "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
   "mats": {
-    "Dark Feather": 1,
     "Cloth": 5,
+    "Dark Feather": 1,
     "Fiber": 5,
     "Lionfish Scale": 1
   },
-  "notes": 500
+  "name": "Authority Captain Uniform",
+  "notes": 500,
+  "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.3
+  },
+  "talent": null
 }

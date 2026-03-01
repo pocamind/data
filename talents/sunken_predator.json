@@ -1,15 +1,15 @@
 {
-  "name": "Sunken Predator",
-  "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
-  "rarity": "Common",
   "category": "Apex Predator",
-  "reqs": "sunken_predator := ()",
+  "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Sunken Predator",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sunken_predator := ()",
   "vaulted": false
 }

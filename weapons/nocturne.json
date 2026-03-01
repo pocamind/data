@@ -1,16 +1,16 @@
 {
-  "name": "Nocturne",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "nocturne := 90r MED",
-  "damage": 19.0,
-  "pen": 0.3,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 7.5,
-  "speed": 1.02,
+  "damage": 19.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Nocturne",
+  "pen": 0.3,
+  "range": 7.5,
+  "reqs": "nocturne := 90r MED",
   "scaling": {
     "Medium Wep.": 8.0
-  }
+  },
+  "speed": 1.02,
+  "type": "Sword",
+  "weight": 5.0
 }

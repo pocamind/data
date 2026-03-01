@@ -1,16 +1,16 @@
 {
-  "name": "Repeater (Offhand)",
-  "type": "Offhand",
-  "damage_type": "Blunt",
-  "reqs": "repeater_offhand := 65r LHT",
-  "damage": 13.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 1.0,
-  "range": 12.0,
-  "speed": 1.25,
+  "damage": 13.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Repeater (Offhand)",
+  "pen": 0.0,
+  "range": 12.0,
+  "reqs": "repeater_offhand := 65r LHT",
   "scaling": {
     "Light Wep.": 15.0
-  }
+  },
+  "speed": 1.25,
+  "type": "Offhand",
+  "weight": 1.0
 }

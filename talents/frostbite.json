@@ -1,13 +1,13 @@
 {
-  "name": "Frostbite",
-  "desc": "Enemies can no longer heal when under the effect of your chill.",
-  "rarity": "Common",
   "category": "Ice Age",
-  "reqs": "frostdrawer => frostbite := 25s ICE",
+  "desc": "Enemies can no longer heal when under the effect of your chill.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Frostbite",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "frostdrawer => frostbite := 25s ICE",
   "vaulted": false
 }

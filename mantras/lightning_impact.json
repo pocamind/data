@@ -1,12 +1,12 @@
 {
-  "name": "Lightning Impact",
-  "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Combat",
+  "desc": "Slam those under you with a lightning empowered kick.\n[*Guard breaks at Level 5]",
+  "name": "Lightning Impact",
   "reqs": "lightning_impact := 20r LTN",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

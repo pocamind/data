@@ -1,12 +1,12 @@
 {
-  "name": "Frozen Servants",
-  "desc": "A legion of frost.\r",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "A legion of frost.\r",
+  "name": "Frozen Servants",
   "reqs": "frozen_servants := 1r ICE",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

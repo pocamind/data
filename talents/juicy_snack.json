@@ -1,13 +1,13 @@
 {
-  "name": "Juicy Snack",
-  "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
-  "rarity": "Common",
   "category": "Septicemia",
-  "reqs": "juicy_snack := 20s FTD, 60s BLD",
+  "desc": "Eliminating enemies returns their amount of blood poision as health to you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Juicy Snack",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "juicy_snack := 20s FTD, 60s BLD",
   "vaulted": false
 }

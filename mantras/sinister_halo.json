@@ -1,12 +1,12 @@
 {
-  "name": "Sinister Halo",
-  "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Starkindred"
   ],
+  "category": "Combat",
+  "desc": "Emit a spinning halo of celestial energy, trapping and shredding all caught within its wake.",
+  "name": "Sinister Halo",
   "reqs": "oath_starkindred => sinister_halo := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Cyclical Exsanguination",
-  "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
-  "rarity": "Common",
   "category": "Transitory Vitality",
-  "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
+  "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cyclical Exsanguination",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
   "vaulted": false
 }

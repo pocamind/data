@@ -1,13 +1,13 @@
 {
-  "name": "Spotter",
-  "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
-  "rarity": "Common",
   "category": "Leader",
-  "reqs": "murmur_rhythm, callout => spotter := 40s CHA",
+  "desc": "Marking enemies while in Rhythm will indicate their health status to your allies.",
   "exclusive": [
     "Oath_Soulbreaker"
   ],
   "innates": {},
+  "name": "Spotter",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "murmur_rhythm, callout => spotter := 40s CHA",
   "vaulted": false
 }

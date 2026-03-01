@@ -1,15 +1,15 @@
 {
-  "name": "Blood Thirsty",
-  "desc": "Gain a speed boost after causing an opponent heavy blood loss.",
-  "rarity": "Common",
   "category": "Cutthroat",
-  "reqs": "blood_thirsty := 45s AGL",
+  "desc": "Gain a speed boost after causing an opponent heavy blood loss.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Blood Thirsty",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "blood_thirsty := 45s AGL",
   "vaulted": false
 }

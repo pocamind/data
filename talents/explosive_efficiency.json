@@ -1,13 +1,13 @@
 {
-  "name": "Explosive Efficiency",
-  "desc": "When crafting bombs, you craft double the amount. You have the chance to triple the amount.",
-  "rarity": "Common",
   "category": "Saboteur",
-  "reqs": "hot_potato => explosive_efficiency := ()",
+  "desc": "When crafting bombs, you craft double the amount. You have the chance to triple the amount.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Explosive Efficiency",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "hot_potato => explosive_efficiency := ()",
   "vaulted": false
 }

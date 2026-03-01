@@ -1,12 +1,12 @@
 {
-  "name": "Flame Grab",
-  "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
+  "name": "Flame Grab",
   "reqs": "flame_grab := 1r FLM",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

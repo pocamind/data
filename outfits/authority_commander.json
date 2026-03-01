@@ -1,27 +1,27 @@
 {
-  "name": "Authority Commander",
   "category": "Master",
   "durability": 2800,
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Blessed Gem": 1,
+    "Bounder Claw": 1,
+    "Cloth": 5,
+    "Dark Feather": 1,
+    "Fiber": 5,
+    "Thresher Spine": 1,
+    "Vibrant Gem": 5
+  },
+  "name": "Authority Commander",
+  "notes": 1000,
+  "reqs": "authority_commander := 240r TTL",
   "resistances": {
     "Blunt Resistance": 0.1,
-    "Physical Resistance": 0.3,
     "Elemental Resistance": 0.3,
-    "Flame Resistance": 0.1
+    "Flame Resistance": 0.1,
+    "Physical Resistance": 0.3
   },
-  "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 20
-  },
-  "talent": "Riot Breaker",
-  "reqs": "authority_commander := 240r TTL",
-  "mats": {
-    "Thresher Spine": 1,
-    "Fiber": 5,
-    "Vibrant Gem": 5,
-    "Dark Feather": 1,
-    "Bounder Claw": 1,
-    "Blessed Gem": 1,
-    "Cloth": 5
-  },
-  "notes": 1000
+  "talent": "Riot Breaker"
 }

@@ -1,17 +1,17 @@
 {
-  "name": "Wraithclaw",
-  "type": "Fists",
-  "damage_type": "Slash",
-  "reqs": "wraithclaw := 40r LHT, 75r WND",
-  "damage": 16.0,
-  "pen": 0.1,
   "chip": 0.25,
-  "weight": 5.0,
-  "range": 6.5,
-  "speed": 1.1,
+  "damage": 16.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Wraithclaw",
+  "pen": 0.1,
+  "range": 6.5,
+  "reqs": "wraithclaw := 40r LHT, 75r WND",
   "scaling": {
-    "Light Wep.": 4.0,
-    "Galebreathe": 5.5
-  }
+    "Galebreathe": 5.5,
+    "Light Wep.": 4.0
+  },
+  "speed": 1.1,
+  "type": "Fists",
+  "weight": 5.0
 }

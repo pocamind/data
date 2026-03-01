@@ -1,15 +1,15 @@
 {
-  "name": "Fast Blade",
-  "desc": "Increase the speed boost you get from successfully parrying an attack.",
-  "rarity": "Common",
   "category": "Nimble Blade",
-  "reqs": "fast_blade := 20s AGL",
+  "desc": "Increase the speed boost you get from successfully parrying an attack.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Fast Blade",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "fast_blade := 20s AGL",
   "vaulted": false
 }

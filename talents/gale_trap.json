@@ -1,13 +1,13 @@
 {
-  "name": "Gale Trap",
-  "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
-  "rarity": "Common",
   "category": "Aeromancer",
-  "reqs": "wind_step => gale_trap := 50s WND",
+  "desc": "Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Gale Trap",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wind_step => gale_trap := 50s WND",
   "vaulted": false
 }

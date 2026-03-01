@@ -1,13 +1,13 @@
 {
-  "name": "Mark of Nemit",
-  "desc": "Buffs the food of one person they choose around them as long as they are at a campfire",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "mark_of_nemit := ()",
+  "desc": "Buffs the food of one person they choose around them as long as they are at a campfire",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mark of Nemit",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "mark_of_nemit := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Apparitions",
-  "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
-  "rarity": "Common",
   "category": "Specter",
-  "reqs": "haunted_path_specter => apparitions := 50s WND",
+  "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Apparitions",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "haunted_path_specter => apparitions := 50s WND",
   "vaulted": false
 }

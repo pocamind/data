@@ -1,13 +1,13 @@
 {
-  "name": "First Blood",
-  "desc": "Your first blood mantra you use in combat has no blood cost.",
-  "rarity": "Common",
   "category": "Bloodrender",
-  "reqs": "first_blood := 10s BLD",
+  "desc": "Your first blood mantra you use in combat has no blood cost.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "First Blood",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "first_blood := 10s BLD",
   "vaulted": false
 }

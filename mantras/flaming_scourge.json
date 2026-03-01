@@ -1,12 +1,12 @@
 {
-  "name": "Flaming Scourge",
-  "desc": "Conjure a flaming whip and sling your foes around and into the ground with a devastating slam.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Conjure a flaming whip and sling your foes around and into the ground with a devastating slam.",
+  "name": "Flaming Scourge",
   "reqs": "flaming_scourge := 50r FLM",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Keen Recovery",
-  "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.",
-  "rarity": "Common",
   "category": "Ether Endeavors",
-  "reqs": "keen_recovery := 55s INT",
+  "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Keen Recovery",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "keen_recovery := 55s INT",
   "vaulted": false
 }

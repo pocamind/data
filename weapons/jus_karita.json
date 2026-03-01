@@ -1,16 +1,16 @@
 {
-  "name": "Jus Karita",
-  "type": "Fists",
-  "damage_type": "Blunt",
-  "reqs": "jus_karita := 40r LHT",
-  "damage": 14.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 3.0,
-  "range": 6.5,
-  "speed": 1.14,
+  "damage": 14.0,
+  "damage_type": "Blunt",
   "endlag": 0.05,
+  "name": "Jus Karita",
+  "pen": 0.2,
+  "range": 6.5,
+  "reqs": "jus_karita := 40r LHT",
   "scaling": {
     "Light Wep.": 9.0
-  }
+  },
+  "speed": 1.14,
+  "type": "Fists",
+  "weight": 3.0
 }

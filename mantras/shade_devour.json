@@ -1,12 +1,12 @@
 {
-  "name": "Shade Devour",
-  "desc": "Gorge on your own health for raw strength.",
-  "stars": 1,
-  "category": "Support",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Support",
+  "desc": "Gorge on your own health for raw strength.",
+  "name": "Shade Devour",
   "reqs": "shade_devour := 20r SDW",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

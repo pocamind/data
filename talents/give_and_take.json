@@ -1,13 +1,13 @@
 {
-  "name": "Give and Take",
-  "desc": "Deal less damage to comrades and receive less damage from comrades.\n[*Note: 20% less damage to and from allies.]",
-  "rarity": "Common",
   "category": "Empath",
-  "reqs": "give_and_take := 35s CHA",
+  "desc": "Deal less damage to comrades and receive less damage from comrades.\n[*Note: 20% less damage to and from allies.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Give and Take",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "give_and_take := 35s CHA",
   "vaulted": false
 }

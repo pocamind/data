@@ -1,13 +1,13 @@
 {
-  "name": "Saint Jay",
-  "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.",
-  "rarity": "Rare",
   "category": "Ice Age",
-  "reqs": "frostbite => saint_jay := 1s ICE",
+  "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Saint Jay",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "frostbite => saint_jay := 1s ICE",
   "vaulted": false
 }

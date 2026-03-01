@@ -1,12 +1,12 @@
 {
-  "name": "Tacet Drop Kick",
-  "desc": "[Jus Karita] Disguise yourself in tacet and drop kick your enemies.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Multiple"
   ],
+  "category": "Combat",
+  "desc": "[Jus Karita] Disguise yourself in tacet and drop kick your enemies.",
+  "name": "Tacet Drop Kick",
   "reqs": "jus_karita => tacet_drop_kick := 5r STR",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

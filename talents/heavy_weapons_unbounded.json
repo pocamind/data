@@ -1,13 +1,13 @@
 {
-  "name": "Heavy Weapons Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
-  "rarity": "Common",
   "category": "Saint of Blades",
-  "reqs": "heavy_weapons_unbounded := 75s HVY",
+  "desc": "You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Heavy Weapons Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "heavy_weapons_unbounded := 75s HVY",
   "vaulted": false
 }

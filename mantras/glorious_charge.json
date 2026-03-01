@@ -1,12 +1,12 @@
 {
-  "name": "Glorious Charge",
-  "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.\n[*Note: Requires Authority Ensign Origin's Command Division.]",
-  "stars": 0,
-  "category": "Support",
-  "type": "Origin",
   "attributes": [
     "Authority Ensign"
   ],
+  "category": "Support",
+  "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.\n[*Note: Requires Authority Ensign Origin's Command Division.]",
+  "name": "Glorious Charge",
   "reqs": "glorious_charge := ()",
+  "stars": 0,
+  "type": "Origin",
   "vaulted": false
 }

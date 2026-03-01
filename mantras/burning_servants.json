@@ -1,12 +1,12 @@
 {
-  "name": "Burning Servants",
-  "desc": "Summon a legion of flaming spearmen that lunge inwards.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Summon a legion of flaming spearmen that lunge inwards.",
+  "name": "Burning Servants",
   "reqs": "burning_servants := 1r FLM",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

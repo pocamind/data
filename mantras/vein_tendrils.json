@@ -1,12 +1,12 @@
 {
-  "name": "Vein Tendrils",
-  "desc": "Create tendrils of blood.",
-  "stars": 2,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Mobility",
+  "desc": "Create tendrils of blood.",
+  "name": "Vein Tendrils",
   "reqs": "vein_tendrils := 30r BLD",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

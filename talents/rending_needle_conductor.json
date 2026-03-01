@@ -1,9 +1,6 @@
 {
-  "name": "Rending Needle: Conductor",
-  "desc": "5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt their element back in turn.",
-  "rarity": "Rare",
   "category": "Rending Needle",
-  "reqs": "master_ironsinger => rending_needle_conductor := 75s MTL",
+  "desc": "5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt their element back in turn.",
   "exclusive": [
     "Rending_Needle_Impaler",
     "Rending_Needle_Jailer",
@@ -12,6 +9,9 @@
     "Rending_Needle_Augmenter_LHT"
   ],
   "innates": {},
+  "name": "Rending Needle: Conductor",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_conductor := 75s MTL",
   "vaulted": false
 }

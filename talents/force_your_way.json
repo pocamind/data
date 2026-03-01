@@ -1,13 +1,13 @@
 {
-  "name": "Force Your Way",
-  "desc": "You can parry uparryable attacks from giant monsters, at the cost of armor durability.",
-  "rarity": "Outfit",
   "category": "Ignition Union",
-  "reqs": "force_your_way := ()",
+  "desc": "You can parry uparryable attacks from giant monsters, at the cost of armor durability.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Force Your Way",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "force_your_way := ()",
   "vaulted": false
 }

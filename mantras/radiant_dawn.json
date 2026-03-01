@@ -1,12 +1,12 @@
 {
-  "name": "Radiant Dawn",
-  "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Dawnwalker"
   ],
+  "category": "Combat",
+  "desc": "Strike down your foes with your blinding light.\n[*Guard breaks]",
+  "name": "Radiant Dawn",
   "reqs": "oath_dawnwalker => radiant_dawn := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

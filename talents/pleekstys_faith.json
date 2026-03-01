@@ -1,13 +1,13 @@
 {
-  "name": "Pleeksty's Faith",
-  "desc": "When on fire, automatically quench flames at the cost of some ether.",
-  "rarity": "Common",
   "category": "Inferno",
-  "reqs": "pleekstys_faith := 15s WLL, 15s CHA, 25s FLM",
+  "desc": "When on fire, automatically quench flames at the cost of some ether.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Pleeksty's Faith",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "pleekstys_faith := 15s WLL, 15s CHA, 25s FLM",
   "vaulted": false
 }

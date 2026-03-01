@@ -1,16 +1,16 @@
 {
-  "name": "Stiletto",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "stiletto := ()",
-  "damage": 11.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 2.0,
-  "range": 6.0,
-  "speed": 1.25,
+  "damage": 11.0,
+  "damage_type": "Slash",
   "endlag": 0.05,
+  "name": "Stiletto",
+  "pen": 0.0,
+  "range": 6.0,
+  "reqs": "stiletto := ()",
   "scaling": {
     "Light Wep.": 3.0
-  }
+  },
+  "speed": 1.25,
+  "type": "Dagger",
+  "weight": 2.0
 }

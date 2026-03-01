@@ -1,12 +1,12 @@
 {
-  "name": "Iron Slam",
-  "desc": "Conjure a giant rod of metal and slam it down.\n[*Guardbreaks at Level 5]",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Conjure a giant rod of metal and slam it down.\n[*Guardbreaks at Level 5]",
+  "name": "Iron Slam",
   "reqs": "iron_slam := 50r MTL",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

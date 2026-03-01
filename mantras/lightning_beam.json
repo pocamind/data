@@ -1,12 +1,12 @@
 {
-  "name": "Lightning Beam",
-  "desc": "Fire a beam of lightning.\t",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Combat",
+  "desc": "Fire a beam of lightning.\t",
+  "name": "Lightning Beam",
   "reqs": "lightning_beam := 1r LTN",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

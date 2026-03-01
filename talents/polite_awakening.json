@@ -1,15 +1,15 @@
 {
-  "name": "Polite Awakening",
-  "desc": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP)",
-  "rarity": "Common",
   "category": "Miscellaneous",
-  "reqs": "polite_awakening := ()",
+  "desc": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP)",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Polite Awakening",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "polite_awakening := ()",
   "vaulted": false
 }

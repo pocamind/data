@@ -1,12 +1,12 @@
 {
-  "name": "Caltrops",
-  "desc": "Throws 6 sharp metal traps.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Throws 6 sharp metal traps.",
+  "name": "Caltrops",
   "reqs": "caltrops := 30r MTL",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

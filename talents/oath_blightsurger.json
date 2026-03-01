@@ -1,16 +1,16 @@
 {
-  "name": "Oath: Blightsurger",
-  "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
-  "rarity": "Oath",
   "category": "Blightsurger",
-  "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
+  "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.\n[*Note; the requirements for this Oath is 80 additive Body (so 30 Strength, 20 Fortitude, and 30 Agility works!]",
   "exclusive": [
     ""
   ],
   "innates": {
-    "Wildcard Mantra": 1,
-    "Combat Mantra": 2
+    "Combat Mantra": 2,
+    "Wildcard Mantra": 1
   },
+  "name": "Oath: Blightsurger",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
   "vaulted": false
 }

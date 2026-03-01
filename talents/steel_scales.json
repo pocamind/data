@@ -1,15 +1,15 @@
 {
-  "name": "Steel Scales",
-  "desc": "You take an additional 5% less damage when your armor is broken.",
-  "rarity": "Common",
   "category": "Natural Armor",
-  "reqs": "padded_armor => steel_scales := ()",
+  "desc": "You take an additional 5% less damage when your armor is broken.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Slash Armor Percentage": 3
   },
+  "name": "Steel Scales",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "padded_armor => steel_scales := ()",
   "vaulted": false
 }

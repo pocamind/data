@@ -1,17 +1,17 @@
 {
-  "name": "Kyrswynter (Bleed)",
-  "type": "Spear",
-  "damage_type": "Slash + Bleed",
-  "reqs": "kyrswynter_bleed := 50r MED, 75r ICE",
-  "damage": 16.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 9.0,
-  "speed": 0.96,
+  "damage": 16.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Kyrswynter (Bleed)",
+  "pen": 0.2,
+  "range": 9.0,
+  "reqs": "kyrswynter_bleed := 50r MED, 75r ICE",
   "scaling": {
     "Frostdraw": 3.0,
     "Medium Wep.": 5.0
-  }
+  },
+  "speed": 0.96,
+  "type": "Spear",
+  "weight": 6.0
 }

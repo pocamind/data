@@ -1,13 +1,13 @@
 {
-  "name": "Explosive Finish",
-  "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast.",
-  "rarity": "Common",
   "category": "The Demon Blade",
-  "reqs": "explosive_finish := 45s FLM",
+  "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Explosive Finish",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "explosive_finish := 45s FLM",
   "vaulted": false
 }

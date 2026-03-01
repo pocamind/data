@@ -1,22 +1,22 @@
 {
-  "name": "Ignition Welder",
   "category": "Master",
   "durability": 3000,
-  "resistances": {
-    "Elemental Resistance": 0.25,
-    "Physical Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "talent": "Master Craftsman",
-  "reqs": "ignition_welder := 10r FTD, 165r TTL",
   "mats": {
-    "Fiber": 5,
     "Cloth": 5,
-    "Iron": 5,
-    "Erisore": 5
+    "Erisore": 5,
+    "Fiber": 5,
+    "Iron": 5
   },
-  "notes": 300
+  "name": "Ignition Welder",
+  "notes": 300,
+  "reqs": "ignition_welder := 10r FTD, 165r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.25
+  },
+  "talent": "Master Craftsman"
 }

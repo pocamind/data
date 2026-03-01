@@ -1,16 +1,16 @@
 {
-  "name": "Enforcer's Blade",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "enforcers_blade := 25r STR, 80r HVY",
-  "damage": 25.0,
-  "pen": 0.0,
   "chip": 0.15,
-  "weight": 10.0,
-  "range": 8.5,
-  "speed": 0.79,
+  "damage": 25.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Enforcer's Blade",
+  "pen": 0.0,
+  "range": 8.5,
+  "reqs": "enforcers_blade := 25r STR, 80r HVY",
   "scaling": {
     "Heavy Wep.": 9.0
-  }
+  },
+  "speed": 0.79,
+  "type": "Greatsword",
+  "weight": 10.0
 }

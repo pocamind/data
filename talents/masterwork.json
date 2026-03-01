@@ -1,13 +1,13 @@
 {
-  "name": "Masterwork",
-  "desc": "Successful hits from Artisan Blades will proc metal rods and deal 50% more damage.",
-  "rarity": "Rare",
   "category": "Scrapsinger",
-  "reqs": "artisans_blade => masterwork := 60s MTL",
+  "desc": "Successful hits from Artisan Blades will proc metal rods and deal 50% more damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Masterwork",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "artisans_blade => masterwork := 60s MTL",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Dormant Splinter",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "dormant_splinter := 5r MED",
-  "damage": 5.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 8.0,
-  "speed": 0.9,
+  "damage": 5.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Dormant Splinter",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "dormant_splinter := 5r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 0.9,
+  "type": "Sword",
+  "weight": 4.0
 }

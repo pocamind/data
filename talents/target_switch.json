@@ -1,13 +1,13 @@
 {
-  "name": "Target Switch",
-  "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
-  "rarity": "Common",
   "category": "Tactician",
-  "reqs": "target_switch := 20s INT",
+  "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Target Switch",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "target_switch := 20s INT",
   "vaulted": false
 }

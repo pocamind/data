@@ -1,17 +1,17 @@
 {
-  "name": "Withered Pale Gale",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "withered_pale_gale := 75r HVY, 90r WND",
-  "damage": 22.0,
-  "pen": 0.15,
   "chip": 0.0,
-  "weight": 10.0,
-  "range": 9.0,
-  "speed": 0.9,
+  "damage": 22.0,
+  "damage_type": "Blunt",
   "endlag": 0.1,
+  "name": "Withered Pale Gale",
+  "pen": 0.15,
+  "range": 9.0,
+  "reqs": "withered_pale_gale := 75r HVY, 90r WND",
   "scaling": {
     "Galebreathe": 8.0,
     "Heavy Wep.": 8.0
-  }
+  },
+  "speed": 0.9,
+  "type": "Greathammer",
+  "weight": 10.0
 }

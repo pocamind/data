@@ -1,26 +1,26 @@
 {
-  "name": "Inquisition Light",
   "category": "Master",
   "durability": 3500,
-  "resistances": {
-    "Shadow Resistance": 0.1,
-    "Elemental Resistance": 0.3,
-    "Blood Resistance": 0.1,
-    "Physical Resistance": 0.3,
-    "Metal Resistance": 0.1
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 15
+    "Ether Regen": 15,
+    "Extra Stealth": 0
   },
-  "talent": "Lethal Dose",
-  "reqs": "inquisition_light := 240r TTL",
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
-    "Wayward Gem": 3,
+    "Vibrant Gem": 5,
     "Void Feather": 3,
-    "Vibrant Gem": 5
+    "Wayward Gem": 3
   },
-  "notes": 1000
+  "name": "Inquisition Light",
+  "notes": 1000,
+  "reqs": "inquisition_light := 240r TTL",
+  "resistances": {
+    "Blood Resistance": 0.1,
+    "Elemental Resistance": 0.3,
+    "Metal Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Shadow Resistance": 0.1
+  },
+  "talent": "Lethal Dose"
 }

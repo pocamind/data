@@ -1,13 +1,13 @@
 {
-  "name": "Arc Module: Leap",
-  "desc": "Holding Spacebar after double jumping propels you up for a short duration.",
-  "rarity": "Oath",
   "category": "Arcwarder",
-  "reqs": "oath_arcwarder => arc_module_leap := ()",
+  "desc": "Holding Spacebar after double jumping propels you up for a short duration.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Arc Module: Leap",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_leap := ()",
   "vaulted": false
 }

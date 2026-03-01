@@ -1,17 +1,17 @@
 {
-  "name": "Weal and Woe",
-  "type": "Spear",
-  "damage_type": "Slash",
-  "reqs": "weal_and_woe := 65r SDW, 80r MED",
-  "damage": 17.5,
-  "pen": 0.15,
   "chip": 0.05,
-  "weight": 7.5,
-  "range": 9.0,
-  "speed": 0.92,
+  "damage": 17.5,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Weal and Woe",
+  "pen": 0.15,
+  "range": 9.0,
+  "reqs": "weal_and_woe := 65r SDW, 80r MED",
   "scaling": {
-    "Shadowcast": 6.5,
-    "Medium Wep.": 5.0
-  }
+    "Medium Wep.": 5.0,
+    "Shadowcast": 6.5
+  },
+  "speed": 0.92,
+  "type": "Spear",
+  "weight": 7.5
 }

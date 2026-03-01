@@ -1,13 +1,13 @@
 {
-  "name": "Medium Weapons Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.",
-  "rarity": "Common",
   "category": "Saint of Blades",
-  "reqs": "medium_weapons_unbounded := 75s MED",
+  "desc": "You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Medium Weapons Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "medium_weapons_unbounded := 75s MED",
   "vaulted": false
 }

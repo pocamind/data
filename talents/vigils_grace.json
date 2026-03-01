@@ -1,13 +1,13 @@
 {
-  "name": "Vigil's Grace",
-  "desc": "Whenever you have a speed boost, increase your swing speed by 0.03.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "vigils_grace := ()",
+  "desc": "Whenever you have a speed boost, increase your swing speed by 0.03.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Vigil's Grace",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "vigils_grace := ()",
   "vaulted": false
 }

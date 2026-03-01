@@ -1,12 +1,12 @@
 {
-  "name": "Impel",
-  "desc": "Blast through your opponent's guard and pull them towards you.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Chainwarden"
   ],
+  "category": "Combat",
+  "desc": "Blast through your opponent's guard and pull them towards you.",
+  "name": "Impel",
   "reqs": "oath_chainwarden => impel := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

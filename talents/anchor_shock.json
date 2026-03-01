@@ -1,13 +1,13 @@
 {
-  "name": "Anchor Shock",
-  "desc": "Your Blightshock prevents targets from using mobility mantras.",
-  "rarity": "Oath",
   "category": "Blightsurger",
-  "reqs": "oath_blightsurger => anchor_shock := ()",
+  "desc": "Your Blightshock prevents targets from using mobility mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Anchor Shock",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_blightsurger => anchor_shock := ()",
   "vaulted": false
 }

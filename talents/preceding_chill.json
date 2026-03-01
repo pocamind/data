@@ -1,13 +1,13 @@
 {
-  "name": "Preceding Chill",
-  "desc": "Enemies hit during the last moments of your ice beam are frozen.",
-  "rarity": "Rare",
   "category": "Cryomancer",
-  "reqs": "preceding_chill := 60s ICE",
+  "desc": "Enemies hit during the last moments of your ice beam are frozen.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Preceding Chill",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "preceding_chill := 60s ICE",
   "vaulted": false
 }

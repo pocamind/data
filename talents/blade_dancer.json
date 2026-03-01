@@ -1,15 +1,15 @@
 {
-  "name": "Blade Dancer",
-  "desc": "Landing a Basic Attack removes your roll cooldown.",
-  "rarity": "Common",
   "category": "Vigil Swordsman",
-  "reqs": "blade_dancer := 25s AGL",
+  "desc": "Landing a Basic Attack removes your roll cooldown.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Blade Dancer",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "blade_dancer := 25s AGL",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Pressure Break [AGL]",
-  "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
-  "rarity": "Common",
   "category": "Legion Shock Trooper",
-  "reqs": "air_pressure => pressure_break_agl := 30r AGL, 65s WND",
+  "desc": "Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards.",
   "exclusive": [
     "Pressure_Break_STR"
   ],
   "innates": {
     "Passive Agility": 2
   },
+  "name": "Pressure Break [AGL]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "air_pressure => pressure_break_agl := 30r AGL, 65s WND",
   "vaulted": false
 }

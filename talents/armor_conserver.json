@@ -1,13 +1,13 @@
 {
-  "name": "Armor Conserver",
-  "desc": "You lose 15% less armor when hit.",
-  "rarity": "Common",
   "category": "Natural Armor",
-  "reqs": "armor_conserver := ()",
+  "desc": "You lose 15% less armor when hit.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Armor Conserver",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "armor_conserver := ()",
   "vaulted": false
 }

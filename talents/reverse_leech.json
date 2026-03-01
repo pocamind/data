@@ -1,13 +1,13 @@
 {
-  "name": "Reverse Leech",
-  "desc": "Anytime you proc Behind You, steal ether from your opponent too.",
-  "rarity": "Common",
   "category": "Ether Endeavors",
-  "reqs": "behind_you => reverse_leech := 60s SDW",
+  "desc": "Anytime you proc Behind You, steal ether from your opponent too.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Reverse Leech",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "behind_you => reverse_leech := 60s SDW",
   "vaulted": false
 }

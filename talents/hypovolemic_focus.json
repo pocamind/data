@@ -1,13 +1,13 @@
 {
-  "name": "Hypovolemic Focus",
-  "desc": "While you have temporary health, your opponent regains far less posture from parrying you.",
-  "rarity": "Common",
   "category": "Transitory Vitality",
-  "reqs": "sow_and_mend => hypovolemic_focus := 65s BLD",
+  "desc": "While you have temporary health, your opponent regains far less posture from parrying you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Hypovolemic Focus",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "sow_and_mend => hypovolemic_focus := 65s BLD",
   "vaulted": false
 }

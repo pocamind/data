@@ -1,27 +1,27 @@
 {
-  "name": "Vigil Sentinel",
   "category": "Master",
   "durability": 2500,
-  "resistances": {
-    "Shadow Resistance": 0.1,
-    "Elemental Resistance": 0.3,
-    "Wind Resistance": 0.25,
-    "Physical Resistance": 0.3,
-    "Flame Resistance": 0.1
-  },
   "extra_percents": {
     "Ether Regen": 25,
     "Extra Stealth": 0
   },
-  "talent": "Vigil's Grace",
-  "reqs": "vigil_sentinel := 5r WLL, 165r TTL",
   "mats": {
-    "Irithine": 5,
-    "Vibrant Gem": 5,
-    "Wind Gem": 1,
     "Cloth": 5,
     "Fiber": 5,
-    "Gale Stone": 5
+    "Gale Stone": 5,
+    "Irithine": 5,
+    "Vibrant Gem": 5,
+    "Wind Gem": 1
   },
-  "notes": 1000
+  "name": "Vigil Sentinel",
+  "notes": 1000,
+  "reqs": "vigil_sentinel := 5r WLL, 165r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Flame Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Shadow Resistance": 0.1,
+    "Wind Resistance": 0.25
+  },
+  "talent": "Vigil's Grace"
 }

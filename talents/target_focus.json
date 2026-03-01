@@ -1,13 +1,13 @@
 {
-  "name": "Target Focus",
-  "desc": "Enemies you charm take more damage from your squadmates in your party.",
-  "rarity": "Faction",
   "category": "Dread Imperium",
-  "reqs": "target_focus := ()",
+  "desc": "Enemies you charm take more damage from your squadmates in your party.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Target Focus",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "target_focus := ()",
   "vaulted": false
 }

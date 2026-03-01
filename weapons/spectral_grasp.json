@@ -1,16 +1,16 @@
 {
-  "name": "Spectral Grasp",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "spectral_grasp := 75r LHT",
-  "damage": 16.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.5,
-  "speed": 1.23,
+  "damage": 16.0,
+  "damage_type": "Slash",
   "endlag": 0.05,
+  "name": "Spectral Grasp",
+  "pen": 0.2,
+  "range": 6.5,
+  "reqs": "spectral_grasp := 75r LHT",
   "scaling": {
     "Light Wep.": 7.0
-  }
+  },
+  "speed": 1.23,
+  "type": "Dagger",
+  "weight": 4.0
 }

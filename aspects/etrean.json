@@ -1,8 +1,8 @@
 {
-  "name": "Etrean",
   "innate": {
     "Agility": 2,
     "Intelligence": 3
   },
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "name": "Etrean"
 }

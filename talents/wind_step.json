@@ -1,13 +1,13 @@
 {
-  "name": "Wind Step",
-  "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (5s combat CD, 1s normal CD)",
-  "rarity": "Common",
   "category": "Legion Shock Trooper",
-  "reqs": "wind_step := 40s WND",
+  "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (5s combat CD, 1s normal CD)",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Wind Step",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wind_step := 40s WND",
   "vaulted": false
 }

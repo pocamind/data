@@ -1,12 +1,12 @@
 {
-  "name": "Heavenly Wind",
-  "desc": "A strike from the heavens.\r",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "A strike from the heavens.\r",
+  "name": "Heavenly Wind",
   "reqs": "heavenly_wind := 20r WND",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

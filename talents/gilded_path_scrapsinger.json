@@ -1,13 +1,13 @@
 {
-  "name": "Gilded Path: Scrapsinger",
-  "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
-  "rarity": "Common",
   "category": "Scrapsinger",
-  "reqs": "gilded_path_scrapsinger := 35s MTL",
+  "desc": "Flourishing an enemy consumes any rods they have and siphones their armor to you per rod.",
   "exclusive": [
     "Rending_Needle_Augmenter"
   ],
   "innates": {},
+  "name": "Gilded Path: Scrapsinger",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "gilded_path_scrapsinger := 35s MTL",
   "vaulted": false
 }

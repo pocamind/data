@@ -1,25 +1,25 @@
 {
-  "name": "Icebringer's Vestments",
   "category": "Master",
   "durability": 2600,
-  "resistances": {
-    "Ice Resistance": 0.2,
-    "Elemental Resistance": 0.3,
-    "Physical Resistance": 0.25
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 75
+    "Ether Regen": 75,
+    "Extra Stealth": 0
   },
-  "talent": "Refreeze",
-  "reqs": "icebringers_vestments := 45r ICE, 240r TTL",
   "mats": {
+    "Blue Gem": 1,
+    "Cloth": 5,
     "Fiber": 5,
     "Frigid Prism": 5,
-    "Cloth": 5,
     "Iron": 8,
-    "Vibrant Gem": 5,
-    "Blue Gem": 1
+    "Vibrant Gem": 5
   },
-  "notes": 1000
+  "name": "Icebringer's Vestments",
+  "notes": 1000,
+  "reqs": "icebringers_vestments := 45r ICE, 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Ice Resistance": 0.2,
+    "Physical Resistance": 0.25
+  },
+  "talent": "Refreeze"
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Gunpowder Blast",
-  "desc": "Pistol shots without bullets deal 2 extra posture. [Dual Gun]",
-  "rarity": "Common",
   "category": "Gunslinger",
-  "reqs": "gunpowder_blast := 45s LHT",
+  "desc": "Pistol shots without bullets deal 2 extra posture. [Dual Gun]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Gunpowder Blast",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "gunpowder_blast := 45s LHT",
   "vaulted": false
 }

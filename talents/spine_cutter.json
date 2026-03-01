@@ -1,15 +1,15 @@
 {
-  "name": "Spine Cutter",
-  "desc": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.",
-  "rarity": "Rare",
   "category": "Duelist",
-  "reqs": "spine_cutter := 20s STR, 25s AGL",
+  "desc": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 2
   },
+  "name": "Spine Cutter",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "spine_cutter := 20s STR, 25s AGL",
   "vaulted": false
 }

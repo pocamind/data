@@ -1,13 +1,13 @@
 {
-  "name": "Light Weapons Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
-  "rarity": "Common",
   "category": "Saint of Blades",
-  "reqs": "light_weapons_unbounded := 75s LHT",
+  "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Light Weapons Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "light_weapons_unbounded := 75s LHT",
   "vaulted": false
 }

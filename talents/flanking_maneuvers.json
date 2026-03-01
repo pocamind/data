@@ -1,13 +1,13 @@
 {
-  "name": "Flanking Maneuvers",
-  "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
-  "rarity": "Faction",
   "category": "Inquisitive Lethality",
-  "reqs": "flanking_maneuvers := ()",
+  "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Flanking Maneuvers",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "flanking_maneuvers := ()",
   "vaulted": false
 }
