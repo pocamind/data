@@ -1,13 +1,13 @@
 {
-  "category": "Shock Therapy",
   "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+  "name": "Grounding Bolt [LHT] thisshouldfail",
+  "reqs": "grounding_bolt_lht := 90r LHT, 90s LTN",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Shock Therapy",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Grounding Bolt [LHT]",
-  "not_counted_towards_total": false,
-  "rarity": "Common",
-  "reqs": "grounding_bolt_lht := 90r LHT, 90s LTN",
-  "vaulted": false
+  "not_counted_towards_total": false
 }

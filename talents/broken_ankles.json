@@ -1,13 +1,13 @@
 {
-  "category": "Raging Bull",
   "desc": "Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD",
+  "name": "Broken Ankles",
+  "reqs": "broken_ankles := 70s STR",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Raging Bull",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Broken Ankles",
-  "not_counted_towards_total": false,
-  "rarity": "Common",
-  "reqs": "broken_ankles := 70s STR",
-  "vaulted": false
+  "not_counted_towards_total": false
 }
