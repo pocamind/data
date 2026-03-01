@@ -1,13 +1,13 @@
 {
-  "name": "Night Terror [LHT]",
-  "desc": "Your light attacks and criticals now proc Fear the Dark.",
-  "rarity": "Common",
   "category": "Darksiphon",
-  "reqs": "fear_the_dark => night_terror_lht := 100r LHT, 100s SDW",
+  "desc": "Your light attacks and criticals now proc Fear the Dark.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Night Terror [LHT]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "fear_the_dark => night_terror_lht := 100r LHT, 100s SDW",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Artisan Chef",
-  "desc": "The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%.",
-  "rarity": "Common",
   "category": "Tavernkeep",
-  "reqs": "artisan_chef := 15s CHA, 25s INT",
+  "desc": "The food you cook now becomes Artisan food, increasing it's hunger and thirst gained by +25%.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Artisan Chef",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "artisan_chef := 15s CHA, 25s INT",
   "vaulted": false
 }

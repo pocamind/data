@@ -1,13 +1,13 @@
 {
-  "name": "Serpent's Dance",
-  "desc": "Unleash the power of Fang and Coil and unlock a devastating Running Critical Attack,, feint to cancel momentum.",
-  "rarity": "Outfit",
   "category": "Jade Vigil's Weave",
-  "reqs": "serpents_dance := ()",
+  "desc": "Unleash the power of Fang and Coil and unlock a devastating Running Critical Attack,, feint to cancel momentum.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Serpent's Dance",
   "not_counted_towards_total": true,
+  "rarity": "Outfit",
+  "reqs": "serpents_dance := ()",
   "vaulted": false
 }

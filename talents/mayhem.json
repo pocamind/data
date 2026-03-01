@@ -1,13 +1,13 @@
 {
-  "name": "Mayhem",
-  "desc": "Initiate a special dash attack by pressing Basic Attack during the start of your dodge.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => mayhem := ()",
+  "desc": "Initiate a special dash attack by pressing Basic Attack during the start of your dodge.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mayhem",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => mayhem := ()",
   "vaulted": false
 }

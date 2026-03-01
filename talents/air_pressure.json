@@ -1,15 +1,15 @@
 {
-  "name": "Air Pressure",
-  "desc": "Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.",
-  "rarity": "Common",
   "category": "Legion Shock Trooper",
-  "reqs": "galebreather => air_pressure := 20s AGL, 50s WND",
+  "desc": "Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Air Pressure",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "galebreather => air_pressure := 20s AGL, 50s WND",
   "vaulted": false
 }

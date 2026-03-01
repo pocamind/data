@@ -1,13 +1,13 @@
 {
-  "name": "Crippling Impact",
-  "desc": "Landing a critical on someone while Wrath Gem is active disables their vent for a few seconds.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "crippling_impact := ()",
+  "desc": "Landing a critical on someone while Wrath Gem is active disables their vent for a few seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Crippling Impact",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "crippling_impact := ()",
   "vaulted": false
 }

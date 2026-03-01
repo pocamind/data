@@ -1,22 +1,22 @@
 {
-  "name": "Familiar Heretic's Armor",
   "category": "Master",
   "durability": 1300,
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Rock": 1
+  },
+  "name": "Familiar Heretic's Armor",
+  "notes": 30,
+  "reqs": "familiar_heretics_armor := 90r TTL",
   "resistances": {
     "Flame Resistance": 0.25,
     "Physical Resistance": 0.15,
     "Slash Resistance": 0.1
   },
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
-  "talent": "Soul Rip",
-  "reqs": "familiar_heretics_armor := 90r TTL",
-  "mats": {
-    "Fiber": 5,
-    "Rock": 1,
-    "Cloth": 5
-  },
-  "notes": 30
+  "talent": "Soul Rip"
 }

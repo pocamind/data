@@ -1,13 +1,13 @@
 {
-  "name": "Cold Blooded",
-  "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
-  "rarity": "Common",
   "category": "Bloodsong",
-  "reqs": "cold_blooded := 40s ICE, 40s BLD",
+  "desc": "Chilled enemies passively build up blood poision, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cold Blooded",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "cold_blooded := 40s ICE, 40s BLD",
   "vaulted": false
 }

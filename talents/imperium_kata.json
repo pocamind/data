@@ -1,15 +1,15 @@
 {
-  "name": "Imperium Kata",
-  "desc": "Wield an advanced form of the Legion's martial arts.",
-  "rarity": "Quest",
   "category": "Gale Kata",
-  "reqs": "imperium_kata := ()",
+  "desc": "Wield an advanced form of the Legion's martial arts.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Imperium Kata",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "imperium_kata := ()",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Skull Piercer (Bleed)",
-  "type": "Rapier",
-  "damage_type": "Slash + Bleed",
-  "reqs": "skull_piercer_bleed := 75r LHT",
-  "damage": 14.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 8.5,
-  "speed": 1.08,
+  "damage": 14.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Skull Piercer (Bleed)",
+  "pen": 0.1,
+  "range": 8.5,
+  "reqs": "skull_piercer_bleed := 75r LHT",
   "scaling": {
     "Light Wep.": 7.5
-  }
+  },
+  "speed": 1.08,
+  "type": "Rapier",
+  "weight": 4.0
 }

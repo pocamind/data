@@ -1,13 +1,13 @@
 {
-  "name": "Leg Shot",
-  "desc": "[Rifles] Landing a critical slows your enemy for a bit, and disables any speed boosts they get for the next 10 seconds.",
-  "rarity": "Rare",
   "category": "Marksman",
-  "reqs": "leg_shot := 80s MED",
+  "desc": "[Rifles] Landing a critical slows your enemy for a bit, and disables any speed boosts they get for the next 10 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Leg Shot",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "leg_shot := 80s MED",
   "vaulted": false
 }

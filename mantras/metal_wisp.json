@@ -1,12 +1,12 @@
 {
-  "name": "Metal Wisp",
-  "desc": "A servant of metal.\n[Regenerates armor durability, and applies Metal Rods when the caster vents.]",
-  "stars": 2,
-  "category": "Wisp",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Wisp",
+  "desc": "A servant of metal.\n[Regenerates armor durability, and applies Metal Rods when the caster vents.]",
+  "name": "Metal Wisp",
   "reqs": "metal_wisp := 30r MTL",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

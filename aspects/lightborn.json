@@ -1,11 +1,11 @@
 {
-  "name": "Lightborn",
   "innate": {
-    "Strength": 2,
     "Agility": 2,
+    "Fortitude": 2,
     "Intelligence": 2,
-    "Willpower": 2,
-    "Fortitude": 2
+    "Strength": 2,
+    "Willpower": 2
   },
-  "is_pathfinder": false
+  "is_pathfinder": false,
+  "name": "Lightborn"
 }

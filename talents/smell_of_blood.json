@@ -1,13 +1,13 @@
 {
-  "name": "Smell of Blood",
-  "desc": "When people touch a blood pool, briefly see their blood and blood poison.\n[*Note: This Talent does proc on guardbreaks.]",
-  "rarity": "Rare",
   "category": "Bloodhound",
-  "reqs": "smell_of_blood := 65s BLD",
+  "desc": "When people touch a blood pool, briefly see their blood and blood poison.\n[*Note: This Talent does proc on guardbreaks.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Smell of Blood",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "smell_of_blood := 65s BLD",
   "vaulted": false
 }

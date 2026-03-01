@@ -1,15 +1,15 @@
 {
-  "name": "Critical Attack",
-  "desc": "Landing a hit with your critical restores 30% Posture.",
-  "rarity": "Quest",
   "category": "Warrior",
-  "reqs": "critical_attack := ()",
+  "desc": "Landing a hit with your critical restores 30% Posture.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Posture": 1
   },
+  "name": "Critical Attack",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "critical_attack := ()",
   "vaulted": false
 }

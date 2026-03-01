@@ -1,9 +1,6 @@
 {
-  "name": "Eruption Path: Lava Serpent",
-  "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
-  "rarity": "Common",
   "category": "Lava Serpent",
-  "reqs": "eruption_path_lava_serpent := 40s FLM",
+  "desc": "Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.",
   "exclusive": [
     "The_Final_Act",
     "Wraith_Path_Twisted_Puppets",
@@ -11,6 +8,9 @@
     "Boiling_Point"
   ],
   "innates": {},
+  "name": "Eruption Path: Lava Serpent",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "eruption_path_lava_serpent := 40s FLM",
   "vaulted": false
 }

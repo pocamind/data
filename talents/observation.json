@@ -1,15 +1,15 @@
 {
-  "name": "Observation",
-  "desc": "Dodge frames are larger if you cancel your roll immediately.",
-  "rarity": "Rare",
   "category": "Leaf in the Wind",
-  "reqs": "observation := 20s AGL",
+  "desc": "Dodge frames are larger if you cancel your roll immediately.",
   "exclusive": [
     "Risky_Moves"
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Observation",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "observation := 20s AGL",
   "vaulted": false
 }

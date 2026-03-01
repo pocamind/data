@@ -1,13 +1,13 @@
 {
-  "name": "Paired Soul",
-  "desc": "Wielding a katana with this outfit grants extra damage.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "paired_soul := ()",
+  "desc": "Wielding a katana with this outfit grants extra damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Paired Soul",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "paired_soul := ()",
   "vaulted": false
 }

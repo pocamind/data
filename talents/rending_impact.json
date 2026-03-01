@@ -1,13 +1,13 @@
 {
-  "name": "Rending Impact",
-  "desc": "[Greataxe] Block breaking an enemy applies an extended knockdown.",
-  "rarity": "Rare",
   "category": "Bruiser",
-  "reqs": "rending_impact := 40s HVY",
+  "desc": "[Greataxe] Block breaking an enemy applies an extended knockdown.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Rending Impact",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "rending_impact := 40s HVY",
   "vaulted": false
 }

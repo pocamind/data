@@ -1,15 +1,15 @@
 {
-  "name": "Exoskeleton",
-  "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% of Physical Damage while active.\n[*Note: +5%-+10% between 0 and 40 Fortitude.]",
-  "rarity": "Rare",
   "category": "Freak of Nature",
-  "reqs": "exoskeleton := 40s FTD",
+  "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% of Physical Damage while active.\n[*Note: +5%-+10% between 0 and 40 Fortitude.]",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Exoskeleton",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "exoskeleton := 40s FTD",
   "vaulted": false
 }

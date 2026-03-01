@@ -1,13 +1,13 @@
 {
-  "name": "Refine and Reuse",
-  "desc": "Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.",
-  "rarity": "Common",
   "category": "Scrapsinger",
-  "reqs": "gilded_path_scrapsinger => refine_and_reuse := 45s MTL",
+  "desc": "Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Refine and Reuse",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "gilded_path_scrapsinger => refine_and_reuse := 45s MTL",
   "vaulted": false
 }

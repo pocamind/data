@@ -1,13 +1,13 @@
 {
-  "name": "Lasting Trauma",
-  "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "lasting_trauma := ()",
+  "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Lasting Trauma",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "lasting_trauma := ()",
   "vaulted": false
 }

@@ -1,21 +1,21 @@
 {
-  "name": "Corsair Outlaw",
   "category": "Master",
   "durability": 1200,
-  "resistances": {
-    "Physical Resistance": 0.15,
-    "Elemental Resistance": 0.1
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
+    "Ether Regen": 0,
+    "Extra Stealth": 0
   },
-  "talent": "Lightweight",
-  "reqs": "corsair_outlaw := ()",
   "mats": {
     "Aeon Longstone": 1,
     "Cloth": 5,
     "Fiber": 5
   },
-  "notes": 0
+  "name": "Corsair Outlaw",
+  "notes": 0,
+  "reqs": "corsair_outlaw := ()",
+  "resistances": {
+    "Elemental Resistance": 0.1,
+    "Physical Resistance": 0.15
+  },
+  "talent": "Lightweight"
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Onslaught",
-  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Heavy Weapons"
   ],
+  "category": "Combat",
+  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.\n[*Guard breaks]",
+  "name": "Onslaught",
   "reqs": "onslaught := 50r HVY",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

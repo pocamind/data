@@ -1,15 +1,15 @@
 {
-  "name": "Last Second Negotiations",
-  "desc": "Most enemies will hesitate a moment longer before executing you.",
-  "rarity": "Common",
   "category": "The Negotiator",
-  "reqs": "last_second_negotiations := 55s CHA",
+  "desc": "Most enemies will hesitate a moment longer before executing you.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Ether": 1
   },
+  "name": "Last Second Negotiations",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "last_second_negotiations := 55s CHA",
   "vaulted": false
 }

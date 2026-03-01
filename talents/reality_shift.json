@@ -1,13 +1,13 @@
 {
-  "name": "Reality Shift",
-  "desc": "Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.",
-  "rarity": "Oath",
   "category": "Visionshaper",
-  "reqs": "oath_visionshaper => reality_shift := ()",
+  "desc": "Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Reality Shift",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_visionshaper => reality_shift := ()",
   "vaulted": false
 }

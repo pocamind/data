@@ -1,16 +1,16 @@
 {
-  "name": "Forge Greathammer",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "forge_greathammer := 10r STR, 55r HVY",
-  "damage": 24.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 9.0,
-  "range": 9.0,
-  "speed": 0.8,
+  "damage": 24.0,
+  "damage_type": "Blunt",
   "endlag": 0.1,
+  "name": "Forge Greathammer",
+  "pen": 0.0,
+  "range": 9.0,
+  "reqs": "forge_greathammer := 10r STR, 55r HVY",
   "scaling": {
     "Heavy Wep.": 8.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greathammer",
+  "weight": 9.0
 }

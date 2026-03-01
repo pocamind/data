@@ -1,13 +1,13 @@
 {
-  "name": "Umami",
-  "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
-  "rarity": "Equipment",
   "category": "Unknown",
-  "reqs": "umami := ()",
+  "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Umami",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "umami := ()",
   "vaulted": false
 }

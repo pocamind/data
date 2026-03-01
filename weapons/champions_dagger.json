@@ -1,16 +1,16 @@
 {
-  "name": "Champion's Dagger",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "champions_dagger := 50r LHT",
-  "damage": 14.5,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.0,
-  "speed": 1.25,
+  "damage": 14.5,
+  "damage_type": "Slash",
   "endlag": 0.05,
+  "name": "Champion's Dagger",
+  "pen": 0.0,
+  "range": 6.0,
+  "reqs": "champions_dagger := 50r LHT",
   "scaling": {
     "Light Wep.": 8.0
-  }
+  },
+  "speed": 1.25,
+  "type": "Dagger",
+  "weight": 4.0
 }

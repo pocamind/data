@@ -1,12 +1,12 @@
 {
-  "name": "Rising Frost",
-  "desc": "Conjure a glaive of frost to launch your opponents skywards.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Conjure a glaive of frost to launch your opponents skywards.",
+  "name": "Rising Frost",
   "reqs": "rising_frost := 30r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

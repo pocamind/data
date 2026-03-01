@@ -1,15 +1,15 @@
 {
-  "name": "All Knowing",
-  "desc": "Your prediction now ignores the range requirement to reflect attacks.",
-  "rarity": "Rare",
   "category": "Omniscient",
-  "reqs": "all_knowing := 60s INT",
+  "desc": "Your prediction now ignores the range requirement to reflect attacks.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Ether": 10
   },
+  "name": "All Knowing",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "all_knowing := 60s INT",
   "vaulted": false
 }

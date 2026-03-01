@@ -1,16 +1,16 @@
 {
-  "name": "Cerulean Thread",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "cerulean_thread := 85r LHT",
-  "damage": 16.5,
-  "pen": 0.25,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.0,
-  "speed": 1.2,
+  "damage": 16.5,
+  "damage_type": "Slash",
   "endlag": 0.05,
+  "name": "Cerulean Thread",
+  "pen": 0.25,
+  "range": 6.0,
+  "reqs": "cerulean_thread := 85r LHT",
   "scaling": {
     "Light Wep.": 8.5
-  }
+  },
+  "speed": 1.2,
+  "type": "Dagger",
+  "weight": 4.0
 }

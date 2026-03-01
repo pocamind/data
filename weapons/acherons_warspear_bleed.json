@@ -1,16 +1,16 @@
 {
-  "name": "Acheron's Warspear (Bleed)",
-  "type": "Spear",
-  "damage_type": "Slash + Bleed",
-  "reqs": "acherons_warspear_bleed := 40r MED",
-  "damage": 18.0,
-  "pen": 0.15,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 9.0,
-  "speed": 0.93,
+  "damage": 18.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Acheron's Warspear (Bleed)",
+  "pen": 0.15,
+  "range": 9.0,
+  "reqs": "acherons_warspear_bleed := 40r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 0.93,
+  "type": "Spear",
+  "weight": 5.0
 }

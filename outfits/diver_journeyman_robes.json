@@ -1,23 +1,23 @@
 {
-  "name": "Diver Journeyman Robes",
   "category": "Master",
   "durability": 2500,
-  "resistances": {
-    "Physical Resistance": 0.2,
-    "Blunt Resistance": 0.1,
-    "Elemental Resistance": 0.3
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
+    "Ether Regen": 0,
+    "Extra Stealth": 0
   },
-  "talent": null,
-  "reqs": "diver_journeyman_robes := 165r TTL",
   "mats": {
-    "Megalodaunt Hide": 2,
-    "Fiber": 5,
     "Cloth": 5,
+    "Fiber": 5,
+    "Megalodaunt Hide": 2,
     "Rock": 1
   },
-  "notes": 30
+  "name": "Diver Journeyman Robes",
+  "notes": 30,
+  "reqs": "diver_journeyman_robes := 165r TTL",
+  "resistances": {
+    "Blunt Resistance": 0.1,
+    "Elemental Resistance": 0.3,
+    "Physical Resistance": 0.2
+  },
+  "talent": null
 }

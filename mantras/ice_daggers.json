@@ -1,12 +1,12 @@
 {
-  "name": "Ice Daggers",
-  "desc": "Form and toss daggers of ice at your aimed opponent.",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Form and toss daggers of ice at your aimed opponent.",
+  "name": "Ice Daggers",
   "reqs": "ice_daggers := 20r ICE",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

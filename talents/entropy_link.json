@@ -1,13 +1,13 @@
 {
-  "name": "Entropy Link",
-  "desc": "The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.",
-  "rarity": "Oath",
   "category": "Linkstrider",
-  "reqs": "oath_linkstrider => entropy_link := ()",
+  "desc": "The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Entropy Link",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_linkstrider => entropy_link := ()",
   "vaulted": false
 }

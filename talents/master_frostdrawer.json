@@ -1,15 +1,15 @@
 {
-  "name": "Master Frostdrawer",
-  "desc": "You can now obtain 3-star Frostdrawer mantras.",
-  "rarity": "Common",
   "category": "Frostdrawer",
-  "reqs": "expert_frostdrawer => master_frostdrawer := 50s ICE",
+  "desc": "You can now obtain 3-star Frostdrawer mantras.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Frostdrawer",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "expert_frostdrawer => master_frostdrawer := 50s ICE",
   "vaulted": false
 }

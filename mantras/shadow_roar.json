@@ -1,12 +1,12 @@
 {
-  "name": "Shadow Roar",
-  "desc": "Roar a wave of shadows.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Roar a wave of shadows.",
+  "name": "Shadow Roar",
   "reqs": "shadow_roar := 30r SDW",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

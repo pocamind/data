@@ -1,13 +1,13 @@
 {
-  "name": "Crimson Fountain",
-  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
-  "rarity": "Common",
   "category": "Bloodrender",
-  "reqs": "crimson_fountain := 40s BLD",
+  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Crimson Fountain",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "crimson_fountain := 40s BLD",
   "vaulted": false
 }

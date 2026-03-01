@@ -1,13 +1,13 @@
 {
-  "name": "Belief",
-  "desc": "Your medium weapon mantras now deal extra damage based on how much Willpower you have.",
-  "rarity": "Common",
   "category": "Weapon",
-  "reqs": "belief := ()",
+  "desc": "Your medium weapon mantras now deal extra damage based on how much Willpower you have.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Belief",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "belief := ()",
   "vaulted": false
 }

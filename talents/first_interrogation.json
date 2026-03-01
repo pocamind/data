@@ -1,13 +1,13 @@
 {
-  "name": "First Interrogation",
-  "desc": "Attacks from opponents who are Electrified will give you Ether proportional to their initial damage.",
-  "rarity": "Common",
   "category": "Authority Interrogator",
-  "reqs": "resolve_crusher => first_interrogation := 65s LTN",
+  "desc": "Attacks from opponents who are Electrified will give you Ether proportional to their initial damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "First Interrogation",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "resolve_crusher => first_interrogation := 65s LTN",
   "vaulted": false
 }

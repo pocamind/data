@@ -1,13 +1,13 @@
 {
-  "name": "Tough Love",
-  "desc": "Deal 10% more damage to enemies charmed by you. Mantras deal 5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.",
-  "rarity": "Common",
   "category": "Charm Caster",
-  "reqs": "charismatic_cast => tough_love := 25s CHA",
+  "desc": "Deal 10% more damage to enemies charmed by you. Mantras deal 5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.",
   "exclusive": [
     "Narcissist"
   ],
   "innates": {},
+  "name": "Tough Love",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "charismatic_cast => tough_love := 25s CHA",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Wormwarder",
-  "desc": "Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. it's not exactly the lightest thing to lug around, though.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "wormwarder := ()",
+  "desc": "Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. it's not exactly the lightest thing to lug around, though.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Wormwarder",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "wormwarder := ()",
   "vaulted": false
 }

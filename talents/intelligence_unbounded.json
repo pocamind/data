@@ -1,13 +1,13 @@
 {
-  "name": "Intelligence Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your intelligence to its fullest.",
-  "rarity": "Common",
   "category": "Omniscient",
-  "reqs": "intelligence_unbounded := 75s INT",
+  "desc": "You have gained the ability to surpass your limits and train your intelligence to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Intelligence Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "intelligence_unbounded := 75s INT",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Possession",
-  "desc": "After an apparition hits an enemy, receive 7.5% posture damage on all Galebreath attacks for 8 seconds. If the apparition hits while you have Phantom Step activated, receive a 7.55% chip damage buff as well for 6 seconds.\n[*This talent loses some effectiveness when below its requirements.]",
-  "rarity": "Advanced",
   "category": "Specter",
-  "reqs": "haunted_path_specter => possession := 75s WND",
+  "desc": "After an apparition hits an enemy, receive 7.5% posture damage on all Galebreath attacks for 8 seconds. If the apparition hits while you have Phantom Step activated, receive a 7.55% chip damage buff as well for 6 seconds.\n[*This talent loses some effectiveness when below its requirements.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Possession",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "haunted_path_specter => possession := 75s WND",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Master Craftsman",
-  "desc": "Your skills alone substitute the need for a Craft Station.",
-  "rarity": "Common",
   "category": "Artisan",
-  "reqs": "master_craftsman := 45s INT",
+  "desc": "Your skills alone substitute the need for a Craft Station.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Craftsman",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "master_craftsman := 45s INT",
   "vaulted": false
 }

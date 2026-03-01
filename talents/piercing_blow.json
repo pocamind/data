@@ -1,13 +1,13 @@
 {
-  "name": "Piercing Blow",
-  "desc": "Attacks that break an opponent's block ignore their Armor resistances.",
-  "rarity": "Advanced",
   "category": "Raging Bull",
-  "reqs": "piercing_blow := 100s STR",
+  "desc": "Attacks that break an opponent's block ignore their Armor resistances.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Piercing Blow",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "piercing_blow := 100s STR",
   "vaulted": false
 }

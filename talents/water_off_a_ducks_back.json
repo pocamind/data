@@ -1,13 +1,13 @@
 {
-  "name": "Water off a Duck's Back",
-  "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.",
-  "rarity": "Common",
   "category": "Tactician",
-  "reqs": "water_off_a_ducks_back := 50s INT",
+  "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Water off a Duck's Back",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "water_off_a_ducks_back := 50s INT",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Adept Thundercaller",
-  "desc": "You can now obtain 1-star Thundercaller mantras.",
-  "rarity": "Common",
   "category": "Thundercaller",
-  "reqs": "thundercaller => adept_thundercaller := 20s LTN",
+  "desc": "You can now obtain 1-star Thundercaller mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Adept Thundercaller",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "thundercaller => adept_thundercaller := 20s LTN",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Master Ironsinger",
-  "desc": "You can now obtain 3-star Ironsinger mantras.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "expert_ironsinger => master_ironsinger := 50s MTL",
+  "desc": "You can now obtain 3-star Ironsinger mantras.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Ironsinger",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "expert_ironsinger => master_ironsinger := 50s MTL",
   "vaulted": false
 }

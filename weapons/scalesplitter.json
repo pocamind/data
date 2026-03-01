@@ -1,16 +1,16 @@
 {
-  "name": "Scalesplitter",
-  "type": "Twinblade",
-  "damage_type": "Slash",
-  "reqs": "scalesplitter := 40r MED",
-  "damage": 17.5,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 7.5,
-  "speed": 0.9,
+  "damage": 17.5,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Scalesplitter",
+  "pen": 0.1,
+  "range": 7.5,
+  "reqs": "scalesplitter := 40r MED",
   "scaling": {
     "Medium Wep.": 5.0
-  }
+  },
+  "speed": 0.9,
+  "type": "Twinblade",
+  "weight": 5.0
 }

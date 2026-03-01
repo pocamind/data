@@ -1,22 +1,22 @@
 {
-  "name": "Familiar Demon's Armor",
   "category": "Master",
   "durability": 2500,
-  "resistances": {
-    "Physical Resistance": 0.25,
-    "Elemental Resistance": 0.25,
-    "Flame Resistance": 0.1
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 10
+    "Ether Regen": 10,
+    "Extra Stealth": 0
   },
-  "talent": "Demon Step",
-  "reqs": "familiar_demons_armor := 240r TTL",
   "mats": {
-    "Fiber": 5,
     "Cloth": 5,
-    "Dread Serpent's Tooth": 1
+    "Dread Serpent's Tooth": 1,
+    "Fiber": 5
   },
-  "notes": 5000
+  "name": "Familiar Demon's Armor",
+  "notes": 5000,
+  "reqs": "familiar_demons_armor := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Flame Resistance": 0.1,
+    "Physical Resistance": 0.25
+  },
+  "talent": "Demon Step"
 }

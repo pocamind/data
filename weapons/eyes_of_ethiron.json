@@ -1,18 +1,18 @@
 {
-  "name": "Eyes of Ethiron",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "eyes_of_ethiron := 40r MED, 40r WND, 40r SDW",
-  "damage": 16.5,
-  "pen": 0.15,
   "chip": 0.05,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.04,
+  "damage": 16.5,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Eyes of Ethiron",
+  "pen": 0.15,
+  "range": 8.0,
+  "reqs": "eyes_of_ethiron := 40r MED, 40r WND, 40r SDW",
   "scaling": {
-    "Medium Wep.": 4.0,
     "Galebreathe": 4.5,
+    "Medium Wep.": 4.0,
     "Shadowcast": 4.5
-  }
+  },
+  "speed": 1.04,
+  "type": "Sword",
+  "weight": 5.0
 }

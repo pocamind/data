@@ -1,22 +1,22 @@
 {
-  "name": "Carefree Garments",
   "category": "Master",
   "durability": 2000,
-  "resistances": {
-    "Physical Resistance": 0.1,
-    "Elemental Resistance": 0.15
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
+    "Ether Regen": 0,
+    "Extra Stealth": 0
   },
-  "talent": "Fleetfoot",
-  "reqs": "carefree_garments := 105r TTL",
   "mats": {
     "Cloth": 4,
-    "Iron": 1,
+    "Fiber": 5,
     "Glass Stone": 1,
-    "Fiber": 5
+    "Iron": 1
   },
-  "notes": 0
+  "name": "Carefree Garments",
+  "notes": 0,
+  "reqs": "carefree_garments := 105r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.15,
+    "Physical Resistance": 0.1
+  },
+  "talent": "Fleetfoot"
 }

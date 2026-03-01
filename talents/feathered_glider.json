@@ -1,13 +1,13 @@
 {
-  "name": "Feathered Glider",
-  "desc": "As a show of independance when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes. You take 10% less fall damage.",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "feathered_glider := ()",
+  "desc": "As a show of independance when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes. You take 10% less fall damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Feathered Glider",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "feathered_glider := ()",
   "vaulted": false
 }

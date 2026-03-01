@@ -1,13 +1,13 @@
 {
-  "name": "Silencer's Song [LHT]",
-  "desc": "Silencer's Blade now procs on your mantras.",
-  "rarity": "Common",
   "category": "Unknown",
-  "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
+  "desc": "Silencer's Blade now procs on your mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Silencer's Song [LHT]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "silencers_blade => silencers_song_lht := 100r LHT, 100s WND",
   "vaulted": false
 }

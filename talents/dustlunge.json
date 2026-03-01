@@ -1,15 +1,15 @@
 {
-  "name": "Dustlunge",
-  "desc": "You can now assassinate enemies from much farther range, shadestepping to their location if they're too far. You automatically assassinate other nearby enemies.\n[*This talent loses some effectiveness when below its requirements.]",
-  "rarity": "Advanced",
   "category": "Swiftshade",
-  "reqs": "lowstride, lights_out, deep_wound, unseen_threat => dustlunge := 90s AGL",
+  "desc": "You can now assassinate enemies from much farther range, shadestepping to their location if they're too far. You automatically assassinate other nearby enemies.\n[*This talent loses some effectiveness when below its requirements.]",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Dustlunge",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "lowstride, lights_out, deep_wound, unseen_threat => dustlunge := 90s AGL",
   "vaulted": false
 }

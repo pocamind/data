@@ -1,13 +1,13 @@
 {
-  "name": "Overflowing Dam",
-  "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grants them 5%-10% more damage.\n[*The percentage of gained damage scales with your Intelligence between 0 INT and 40 INT.]",
-  "rarity": "Rare",
   "category": "Adept Caster",
-  "reqs": "overflowing_dam := 40s INT",
+  "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grants them 5%-10% more damage.\n[*The percentage of gained damage scales with your Intelligence between 0 INT and 40 INT.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Overflowing Dam",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "overflowing_dam := 40s INT",
   "vaulted": false
 }

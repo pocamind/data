@@ -1,23 +1,23 @@
 {
-  "name": "Familiar Occulist's Armor",
   "category": "Master",
   "durability": 2000,
-  "resistances": {
-    "Physical Resistance": 0.25,
-    "Shadow Resistance": 0.2,
-    "Elemental Resistance": 0.25
-  },
   "extra_percents": {
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "talent": "Life Leech",
-  "reqs": "familiar_occulists_armor := 240r TTL",
   "mats": {
-    "Hemobloom": 5,
-    "Cloth": 5,
     "Bloodless Gem": 5,
-    "Fiber": 5
+    "Cloth": 5,
+    "Fiber": 5,
+    "Hemobloom": 5
   },
-  "notes": 10000
+  "name": "Familiar Occulist's Armor",
+  "notes": 10000,
+  "reqs": "familiar_occulists_armor := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.25,
+    "Shadow Resistance": 0.2
+  },
+  "talent": "Life Leech"
 }

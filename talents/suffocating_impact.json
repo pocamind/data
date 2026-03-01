@@ -1,15 +1,15 @@
 {
-  "name": "Suffocating Impact",
-  "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
-  "rarity": "Common",
   "category": "Aeromancer",
-  "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
+  "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 2
   },
+  "name": "Suffocating Impact",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
   "vaulted": false
 }

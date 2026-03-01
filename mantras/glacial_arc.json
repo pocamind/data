@@ -1,12 +1,12 @@
 {
-  "name": "Glacial Arc",
-  "desc": "An arc of ice.\r",
-  "stars": 1,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Mobility",
+  "desc": "An arc of ice.\r",
+  "name": "Glacial Arc",
   "reqs": "glacial_arc := 20r ICE",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

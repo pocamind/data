@@ -1,13 +1,13 @@
 {
-  "name": "Adept Flamecharmer",
-  "desc": "You can now obtain 1-star Flamecharmer Mantras.",
-  "rarity": "Common",
   "category": "Flamecharmer",
-  "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
+  "desc": "You can now obtain 1-star Flamecharmer Mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Adept Flamecharmer",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
   "vaulted": false
 }

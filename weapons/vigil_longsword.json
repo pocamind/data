@@ -1,16 +1,16 @@
 {
-  "name": "Vigil Longsword",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "vigil_longsword := 40r MED",
-  "damage": 20.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 20.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Vigil Longsword",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "vigil_longsword := 40r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.0
 }

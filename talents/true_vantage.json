@@ -1,13 +1,13 @@
 {
-  "name": "True Vantage",
-  "desc": "Venting makes you invisible briefly while boosting your speed.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => true_vantage := ()",
+  "desc": "Venting makes you invisible briefly while boosting your speed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "True Vantage",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => true_vantage := ()",
   "vaulted": false
 }

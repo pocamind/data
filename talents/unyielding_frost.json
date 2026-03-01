@@ -1,13 +1,13 @@
 {
-  "name": "Unyielding Frost",
-  "desc": "Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.",
-  "rarity": "Advanced",
   "category": "Ice Age",
-  "reqs": "unyielding_frost := 100s ICE",
+  "desc": "Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.",
   "exclusive": [
     "Glass_Path_Crystallization"
   ],
   "innates": {},
+  "name": "Unyielding Frost",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "unyielding_frost := 100s ICE",
   "vaulted": false
 }

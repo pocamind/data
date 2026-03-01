@@ -1,9 +1,6 @@
 {
-  "name": "Ghost",
-  "desc": "Dodging a move will briefly make you invisible, ending early if you attack.\n[*Note: 0.8s to 1.2s duration between 10 and 40 Agility.]",
-  "rarity": "Advanced",
   "category": "Butterfly",
-  "reqs": "swift_rebound, evasive_expert, risky_moves => ghost := 40s AGL",
+  "desc": "Dodging a move will briefly make you invisible, ending early if you attack.\n[*Note: 0.8s to 1.2s duration between 10 and 40 Agility.]",
   "exclusive": [
     "Observation",
     "Safety_Dance"
@@ -11,6 +8,9 @@
   "innates": {
     "Passive Agility": 5
   },
+  "name": "Ghost",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "swift_rebound, evasive_expert, risky_moves => ghost := 40s AGL",
   "vaulted": false
 }

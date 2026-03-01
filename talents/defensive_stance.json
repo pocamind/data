@@ -1,13 +1,13 @@
 {
-  "name": "Defensive Stance",
-  "desc": "[Rapier] Gain more parry frames the lower your health is.",
-  "rarity": "Common",
   "category": "Needle",
-  "reqs": "defensive_stance := 50s LHT",
+  "desc": "[Rapier] Gain more parry frames the lower your health is.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Defensive Stance",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "defensive_stance := 50s LHT",
   "vaulted": false
 }

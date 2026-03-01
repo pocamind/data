@@ -1,15 +1,15 @@
 {
-  "name": "Blinded",
-  "desc": "Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.",
-  "rarity": "Common",
   "category": "Miscellaneous",
-  "reqs": "blinded := ()",
+  "desc": "Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 20
   },
+  "name": "Blinded",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "blinded := ()",
   "vaulted": false
 }

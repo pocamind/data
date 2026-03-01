@@ -1,15 +1,15 @@
 {
-  "name": "The Eleventh Hour",
-  "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
-  "rarity": "Common",
   "category": "Limitbreaker",
-  "reqs": "the_eleventh_hour := 35s WLL",
+  "desc": "When below 15% health your mantras require no ether to cast for 11 seconds. 60s CD",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 10
   },
+  "name": "The Eleventh Hour",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "the_eleventh_hour := 35s WLL",
   "vaulted": false
 }

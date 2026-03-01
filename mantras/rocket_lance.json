@@ -1,12 +1,12 @@
 {
-  "name": "Rocket Lance",
-  "desc": "Create a lance, impale your opponent, and send them flying.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Create a lance, impale your opponent, and send them flying.",
+  "name": "Rocket Lance",
   "reqs": "rocket_lance := 50r MTL",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

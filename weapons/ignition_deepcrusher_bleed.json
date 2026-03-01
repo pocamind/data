@@ -1,17 +1,17 @@
 {
-  "name": "Ignition Deepcrusher (Bleed)",
-  "type": "Club",
-  "damage_type": "Slash + Bleed",
-  "reqs": "ignition_deepcrusher_bleed := 40r MED, 75r MTL",
-  "damage": 18.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 8.0,
-  "speed": 1.05,
+  "damage": 18.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Ignition Deepcrusher (Bleed)",
+  "pen": 0.2,
+  "range": 8.0,
+  "reqs": "ignition_deepcrusher_bleed := 40r MED, 75r MTL",
   "scaling": {
-    "Medium Wep.": 3.0,
-    "Ironsing": 4.0
-  }
+    "Ironsing": 4.0,
+    "Medium Wep.": 3.0
+  },
+  "speed": 1.05,
+  "type": "Club",
+  "weight": 4.0
 }

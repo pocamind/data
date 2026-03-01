@@ -1,13 +1,13 @@
 {
-  "name": "Quickdraw",
-  "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
-  "rarity": "Common",
   "category": "Gunslinger",
-  "reqs": "quickdraw := 55s LHT",
+  "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Quickdraw",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "quickdraw := 55s LHT",
   "vaulted": false
 }

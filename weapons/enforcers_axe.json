@@ -1,16 +1,16 @@
 {
-  "name": "Enforcer's Axe",
-  "type": "Greataxe",
-  "damage_type": "Slash",
-  "reqs": "enforcers_axe := 75r HVY",
-  "damage": 26.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 8.0,
-  "range": 8.5,
-  "speed": 0.79,
+  "damage": 26.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Enforcer's Axe",
+  "pen": 0.1,
+  "range": 8.5,
+  "reqs": "enforcers_axe := 75r HVY",
   "scaling": {
     "Heavy Wep.": 9.0
-  }
+  },
+  "speed": 0.79,
+  "type": "Greataxe",
+  "weight": 8.0
 }

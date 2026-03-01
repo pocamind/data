@@ -1,16 +1,16 @@
 {
-  "name": "Darkalloy Greatsword",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "darkalloy_greatsword := 10r STR, 75r HVY",
-  "damage": 26.0,
-  "pen": 0.0,
   "chip": 0.1,
-  "weight": 9.0,
-  "range": 9.0,
-  "speed": 0.8,
+  "damage": 26.0,
+  "damage_type": "Slash",
   "endlag": 0.1,
+  "name": "Darkalloy Greatsword",
+  "pen": 0.0,
+  "range": 9.0,
+  "reqs": "darkalloy_greatsword := 10r STR, 75r HVY",
   "scaling": {
     "Heavy Wep.": 8.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greatsword",
+  "weight": 9.0
 }

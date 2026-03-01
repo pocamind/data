@@ -1,16 +1,16 @@
 {
-  "name": "Whaling Knife",
-  "type": "Dagger",
-  "damage_type": "Slash",
-  "reqs": "whaling_knife := 40r LHT",
-  "damage": 15.3,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 6.5,
-  "speed": 1.25,
+  "damage": 15.3,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Whaling Knife",
+  "pen": 0.0,
+  "range": 6.5,
+  "reqs": "whaling_knife := 40r LHT",
   "scaling": {
     "Light Wep.": 5.0
-  }
+  },
+  "speed": 1.25,
+  "type": "Dagger",
+  "weight": 4.0
 }

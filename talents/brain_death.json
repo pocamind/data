@@ -1,13 +1,13 @@
 {
-  "name": "Brain Death",
-  "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
-  "rarity": "Common",
   "category": "Bloodsong",
-  "reqs": "brain_death := 40s WND, 40s BLD",
+  "desc": "Enemies that are already suffocated will have their suffocation extended when hit by a Bloodrend mantra.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Brain Death",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "brain_death := 40s WND, 40s BLD",
   "vaulted": false
 }

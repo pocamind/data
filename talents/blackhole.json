@@ -1,13 +1,13 @@
 {
-  "name": "Blackhole",
-  "desc": "Your singularity pulls everyone nearby in.",
-  "rarity": "Common",
   "category": "Death Speaker",
-  "reqs": "singularity => blackhole := 60s SDW",
+  "desc": "Your singularity pulls everyone nearby in.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Blackhole",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "singularity => blackhole := 60s SDW",
   "vaulted": false
 }

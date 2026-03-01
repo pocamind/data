@@ -1,13 +1,13 @@
 {
-  "name": "Executioner's Frenzy",
-  "desc": "Landing a light attack while an opponent's posture is paused reduces their assassination cooldown by 5 seconds.",
-  "rarity": "Faction",
   "category": "Inquisitive Lethality",
-  "reqs": "executioners_frenzy := ()",
+  "desc": "Landing a light attack while an opponent's posture is paused reduces their assassination cooldown by 5 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Executioner's Frenzy",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "executioners_frenzy := ()",
   "vaulted": false
 }

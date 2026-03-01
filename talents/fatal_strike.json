@@ -1,13 +1,13 @@
 {
-  "name": "Fatal Strike",
-  "desc": "Landing a guardbreak with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "fatal_strike := ()",
+  "desc": "Landing a guardbreak with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fatal Strike",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "fatal_strike := ()",
   "vaulted": false
 }

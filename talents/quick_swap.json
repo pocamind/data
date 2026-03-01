@@ -1,13 +1,13 @@
 {
-  "name": "Quick Swap",
-  "desc": "Massively reduce your bullet swap cooldown. [Dual Gun]",
-  "rarity": "Common",
   "category": "Gunslinger",
-  "reqs": "quick_swap := 40s LHT",
+  "desc": "Massively reduce your bullet swap cooldown. [Dual Gun]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Quick Swap",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "quick_swap := 40s LHT",
   "vaulted": false
 }

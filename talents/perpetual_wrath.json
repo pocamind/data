@@ -1,13 +1,13 @@
 {
-  "name": "Perpetual Wrath",
-  "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
-  "rarity": "Oath",
   "category": "Chainwarden",
-  "reqs": "oath_chainwarden => perpetual_wrath := ()",
+  "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Perpetual Wrath",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_chainwarden => perpetual_wrath := ()",
   "vaulted": false
 }

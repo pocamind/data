@@ -1,15 +1,15 @@
 {
-  "name": "Ardour Scream [OATH]",
-  "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
-  "rarity": "Oath",
   "category": "Soulbreaker",
-  "reqs": "oath_soulbreaker => ardour_scream_oath := ()",
+  "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 25% more damage and 50% more posture damage for 10s.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 9
   },
+  "name": "Ardour Scream [OATH]",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => ardour_scream_oath := ()",
   "vaulted": false
 }

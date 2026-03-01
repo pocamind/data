@@ -1,16 +1,16 @@
 {
-  "name": "Darksteel Greatsword",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "darksteel_greatsword := 10r STR, 40r HVY",
-  "damage": 26.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 9.0,
-  "range": 9.0,
-  "speed": 0.8,
+  "damage": 26.0,
+  "damage_type": "Slash",
   "endlag": 0.1,
+  "name": "Darksteel Greatsword",
+  "pen": 0.0,
+  "range": 9.0,
+  "reqs": "darksteel_greatsword := 10r STR, 40r HVY",
   "scaling": {
     "Heavy Wep.": 7.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greatsword",
+  "weight": 9.0
 }

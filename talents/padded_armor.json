@@ -1,15 +1,15 @@
 {
-  "name": "Padded Armor",
-  "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
-  "rarity": "Common",
   "category": "Natural Armor",
-  "reqs": "padded_armor := ()",
+  "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Blunt Armor Percentage": 3
   },
+  "name": "Padded Armor",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "padded_armor := ()",
   "vaulted": false
 }

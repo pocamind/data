@@ -1,13 +1,13 @@
 {
-  "name": "Bodkin Arrow",
-  "desc": "Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.",
-  "rarity": "Rare",
   "category": "Greatarcher",
-  "reqs": "bodkin_arrow := 55s STR",
+  "desc": "Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Bodkin Arrow",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "bodkin_arrow := 55s STR",
   "vaulted": false
 }

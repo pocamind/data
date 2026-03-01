@@ -1,17 +1,17 @@
 {
-  "name": "Whaler Initiate",
   "category": "Master",
   "durability": 1500,
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 25
+  },
+  "mats": {},
+  "name": "Whaler Initiate",
+  "notes": 0,
+  "reqs": "whaler_initiate := 90r TTL",
   "resistances": {
     "Elemental Resistance": 0.05,
     "Physical Resistance": 0.25
   },
-  "extra_percents": {
-    "Extra Stealth": 25,
-    "Ether Regen": 0
-  },
-  "talent": null,
-  "reqs": "whaler_initiate := 90r TTL",
-  "mats": {},
-  "notes": 0
+  "talent": null
 }

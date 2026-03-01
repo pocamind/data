@@ -1,25 +1,25 @@
 {
-  "name": "Tempestmaker's Threads",
   "category": "Master",
   "durability": 2600,
-  "resistances": {
-    "Physical Resistance": 0.25,
-    "Wind Resistance": 0.25,
-    "Elemental Resistance": 0.3
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 75
+    "Ether Regen": 75,
+    "Extra Stealth": 0
   },
-  "talent": "Tempest Evolution",
-  "reqs": "tempestmakers_threads := 45r WND, 240r TTL",
   "mats": {
     "Cloth": 5,
-    "Gale Stone": 5,
     "Fiber": 5,
-    "Wind Gem": 1,
+    "Gale Stone": 5,
     "Iron": 8,
-    "Vibrant Gem": 5
+    "Vibrant Gem": 5,
+    "Wind Gem": 1
   },
-  "notes": 1000
+  "name": "Tempestmaker's Threads",
+  "notes": 1000,
+  "reqs": "tempestmakers_threads := 45r WND, 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Physical Resistance": 0.25,
+    "Wind Resistance": 0.25
+  },
+  "talent": "Tempest Evolution"
 }

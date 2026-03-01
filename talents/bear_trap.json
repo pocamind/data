@@ -1,15 +1,15 @@
 {
-  "name": "Bear Trap",
-  "desc": "Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent.",
-  "rarity": "Common",
   "category": "Vigil Swordsman",
-  "reqs": "bear_trap := 20s STR, 20s AGL",
+  "desc": "Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Bear Trap",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "bear_trap := 20s STR, 20s AGL",
   "vaulted": false
 }

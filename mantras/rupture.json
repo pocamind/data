@@ -1,12 +1,12 @@
 {
-  "name": "Rupture",
-  "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Chainwarden"
   ],
+  "category": "Combat",
+  "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.",
+  "name": "Rupture",
   "reqs": "oath_chainwarden => rupture := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Master Thundercaller",
-  "desc": "You can now obtain 3-star Thundercaller mantras.",
-  "rarity": "Common",
   "category": "Thundercaller",
-  "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
+  "desc": "You can now obtain 3-star Thundercaller mantras.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Thundercaller",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
   "vaulted": false
 }

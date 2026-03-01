@@ -1,12 +1,12 @@
 {
-  "name": "Ether Barrage",
-  "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Intelligence"
   ],
+  "category": "Combat",
+  "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
+  "name": "Ether Barrage",
   "reqs": "ether_barrage := 30r INT",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

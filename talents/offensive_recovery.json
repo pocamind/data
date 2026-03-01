@@ -1,13 +1,13 @@
 {
-  "name": "Offensive Recovery",
-  "desc": "If all your mantras have Might Gems equipped, lose posture anytime you hit an opponents block with a mantra.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "offensive_recovery := ()",
+  "desc": "If all your mantras have Might Gems equipped, lose posture anytime you hit an opponents block with a mantra.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Offensive Recovery",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "offensive_recovery := ()",
   "vaulted": false
 }

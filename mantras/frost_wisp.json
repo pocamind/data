@@ -1,12 +1,12 @@
 {
-  "name": "Frost Wisp",
-  "desc": "A servant of Ice.\n[Occasionally freezes the ground below you. Shoots a small beam of ice whenever the user vents successfully.]",
-  "stars": 2,
-  "category": "Wisp",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Wisp",
+  "desc": "A servant of Ice.\n[Occasionally freezes the ground below you. Shoots a small beam of ice whenever the user vents successfully.]",
+  "name": "Frost Wisp",
   "reqs": "frost_wisp := 30r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

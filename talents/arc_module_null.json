@@ -1,13 +1,13 @@
 {
-  "name": "Arc Module: Null",
-  "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
-  "rarity": "Oath",
   "category": "Arcwarder",
-  "reqs": "oath_arcwarder => arc_module_null := ()",
+  "desc": "When your Arc suit is active, outgoing and incoming enchant effects are nullified.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Arc Module: Null",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_null := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Foolish Outburst",
-  "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.\n[*Absorbs 20% to 40% of the vent's Tempo between 20 INT and 50 INT.]",
-  "rarity": "Common",
   "category": "Tactician",
-  "reqs": "foolish_outburst := 50s INT",
+  "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.\n[*Absorbs 20% to 40% of the vent's Tempo between 20 INT and 50 INT.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Foolish Outburst",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "foolish_outburst := 50s INT",
   "vaulted": false
 }

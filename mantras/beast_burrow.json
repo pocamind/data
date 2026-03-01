@@ -1,12 +1,12 @@
 {
-  "name": "Beast Burrow",
-  "desc": "Burrow underneath the ground before bursting out, knocking enemies up.",
-  "stars": 0,
-  "category": "Mobility",
-  "type": "Monster",
   "attributes": [
     "Monster Mantra"
   ],
+  "category": "Mobility",
+  "desc": "Burrow underneath the ground before bursting out, knocking enemies up.",
+  "name": "Beast Burrow",
   "reqs": "beast_burrow := ()",
+  "stars": 0,
+  "type": "Monster",
   "vaulted": false
 }

@@ -1,9 +1,6 @@
 {
-  "name": "Million Ton Piercer",
-  "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Strength.]",
-  "rarity": "Advanced",
   "category": "Rampaging Brute",
-  "reqs": "unwavering_resolve, shield_breaker => million_ton_piercer := 90s STR",
+  "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Strength.]",
   "exclusive": [
     "Ether_Overdrive_FLM",
     "Ether_Overdrive_ICE",
@@ -13,6 +10,9 @@
     "Ether_Overdrive_MTL_"
   ],
   "innates": {},
+  "name": "Million Ton Piercer",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "unwavering_resolve, shield_breaker => million_ton_piercer := 90s STR",
   "vaulted": false
 }

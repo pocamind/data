@@ -1,13 +1,13 @@
 {
-  "name": "Untouchable",
-  "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.",
-  "rarity": "Oath",
   "category": "Bladeharper",
-  "reqs": "oath_bladeharper => untouchable := ()",
+  "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your true strength for a short duration.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Untouchable",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => untouchable := ()",
   "vaulted": false
 }

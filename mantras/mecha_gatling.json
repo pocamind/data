@@ -1,12 +1,12 @@
 {
-  "name": "Mecha Gatling",
-  "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Monster",
   "attributes": [
     "Monster Mantra"
   ],
+  "category": "Combat",
+  "desc": "Let loose a torrent of bullets from your shoulder mounted minigun.",
+  "name": "Mecha Gatling",
   "reqs": "mecha_gatling := ()",
+  "stars": 0,
+  "type": "Monster",
   "vaulted": false
 }

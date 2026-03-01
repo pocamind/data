@@ -1,13 +1,13 @@
 {
-  "name": "Heretic's Sutra",
-  "desc": "A chant that steers you into the state of insanity for 20 seconds.\n[*Note: Procs Piercing Will for 15 seconds.]\n[*Note: 0.4s to 0.1s wind-up and 24s to 18s cooldown between 30 and 100 Willpower.]",
-  "rarity": "Quest",
   "category": "Heretic",
-  "reqs": "heretics_sutra := 80s WLL",
+  "desc": "A chant that steers you into the state of insanity for 20 seconds.\n[*Note: Procs Piercing Will for 15 seconds.]\n[*Note: 0.4s to 0.1s wind-up and 24s to 18s cooldown between 30 and 100 Willpower.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Heretic's Sutra",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "heretics_sutra := 80s WLL",
   "vaulted": false
 }

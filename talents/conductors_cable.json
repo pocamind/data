@@ -1,13 +1,13 @@
 {
-  "name": "Conductor's Cable",
-  "desc": "Applying Conductor rods on opponents steals some of their armor to you.",
-  "rarity": "Common",
   "category": "Rending Needle",
-  "reqs": "rending_needle_conductor => conductors_cable := ()",
+  "desc": "Applying Conductor rods on opponents steals some of their armor to you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Conductor's Cable",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "rending_needle_conductor => conductors_cable := ()",
   "vaulted": false
 }

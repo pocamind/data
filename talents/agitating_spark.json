@@ -1,13 +1,13 @@
 {
-  "name": "Agitating Spark",
-  "desc": "Setting enemies on fire spreads to anyone nearby. Including yourself.",
-  "rarity": "Common",
   "category": "Immolator",
-  "reqs": "flamecharmer => agitating_spark := 40s FLM",
+  "desc": "Setting enemies on fire spreads to anyone nearby. Including yourself.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Agitating Spark",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "flamecharmer => agitating_spark := 40s FLM",
   "vaulted": false
 }

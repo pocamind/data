@@ -1,12 +1,12 @@
 {
-  "name": "Graceful Flame",
-  "desc": "Conjure a campfire for you and your comrades to rest by.\n",
-  "stars": 1,
-  "category": "Support",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Support",
+  "desc": "Conjure a campfire for you and your comrades to rest by.\n",
+  "name": "Graceful Flame",
   "reqs": "graceful_flame := 20r FLM",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

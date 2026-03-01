@@ -1,9 +1,6 @@
 {
-  "name": "Oath: Fadetrimmer",
-  "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
-  "rarity": "Oath",
   "category": "Fadetrimmer",
-  "reqs": "oath_fadetrimmer := ()",
+  "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
   "exclusive": [
     ""
   ],
@@ -11,6 +8,9 @@
     "Combat Mantra": 1,
     "Wildcard Mantra": 1
   },
+  "name": "Oath: Fadetrimmer",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_fadetrimmer := ()",
   "vaulted": false
 }

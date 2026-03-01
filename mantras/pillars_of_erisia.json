@@ -1,12 +1,12 @@
 {
-  "name": "Pillars of Erisia",
-  "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
+  "name": "Pillars of Erisia",
   "reqs": "pillars_of_erisia := 50r WND",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

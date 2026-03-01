@@ -1,26 +1,26 @@
 {
-  "name": "Jade Vigil's Weave",
   "category": "Master",
   "durability": 2800,
-  "resistances": {
-    "Physical Resistance": 0.3,
-    "Blood Resistance": 0.25,
-    "Elemental Resistance": 0.25,
-    "Wind Resistance": 0.15
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 25
+    "Ether Regen": 25,
+    "Extra Stealth": 0
   },
-  "talent": "Serpent's Dance",
-  "reqs": "jade_vigils_weave := 10r AGL, 240r TTL",
   "mats": {
-    "Fiber": 5,
-    "Gale Stone": 5,
-    "Wind Gem": 1,
     "Cloth": 5,
     "Dark Feather": 1,
-    "Thresher Spine": 1
+    "Fiber": 5,
+    "Gale Stone": 5,
+    "Thresher Spine": 1,
+    "Wind Gem": 1
   },
-  "notes": 1000
+  "name": "Jade Vigil's Weave",
+  "notes": 1000,
+  "reqs": "jade_vigils_weave := 10r AGL, 240r TTL",
+  "resistances": {
+    "Blood Resistance": 0.25,
+    "Elemental Resistance": 0.25,
+    "Physical Resistance": 0.3,
+    "Wind Resistance": 0.15
+  },
+  "talent": "Serpent's Dance"
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Expert Ironsinger",
-  "desc": "You can now obtain 2-star Ironsinger mantras.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "adept_ironsinger => expert_ironsinger := 30s MTL",
+  "desc": "You can now obtain 2-star Ironsinger mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Expert Ironsinger",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "adept_ironsinger => expert_ironsinger := 30s MTL",
   "vaulted": false
 }

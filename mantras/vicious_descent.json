@@ -1,12 +1,12 @@
 {
-  "name": "Vicious Descent",
-  "desc": "Leap into the air and slam down with vengeance.",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Combat",
+  "desc": "Leap into the air and slam down with vengeance.",
+  "name": "Vicious Descent",
   "reqs": "vicious_descent := 20r BLD",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

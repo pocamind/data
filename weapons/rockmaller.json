@@ -1,16 +1,16 @@
 {
-  "name": "Rockmaller",
-  "type": "Greathammer",
-  "damage_type": "Blunt",
-  "reqs": "rockmaller := 10r STR, 55r HVY",
-  "damage": 25.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 9.5,
-  "range": 8.0,
-  "speed": 0.82,
+  "damage": 25.0,
+  "damage_type": "Blunt",
   "endlag": 0.1,
+  "name": "Rockmaller",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "rockmaller := 10r STR, 55r HVY",
   "scaling": {
     "Heavy Wep.": 7.5
-  }
+  },
+  "speed": 0.82,
+  "type": "Greathammer",
+  "weight": 9.5
 }

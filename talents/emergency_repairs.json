@@ -1,15 +1,15 @@
 {
-  "name": "Emergency Repairs",
-  "desc": "Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.",
-  "rarity": "Common",
   "category": "Shipwright",
-  "reqs": "emergency_repairs := ()",
+  "desc": "Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Carry Load": 2
   },
+  "name": "Emergency Repairs",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "emergency_repairs := ()",
   "vaulted": false
 }

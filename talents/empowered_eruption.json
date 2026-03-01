@@ -1,14 +1,14 @@
 {
-  "name": "Empowered Eruption",
-  "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
-  "rarity": "Common",
   "category": "Lava Serpent",
-  "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
+  "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.",
   "exclusive": [
     "The_Final_Act",
     "Wraith_Path_Twisted_Puppets"
   ],
   "innates": {},
+  "name": "Empowered Eruption",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
   "vaulted": false
 }

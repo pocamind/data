@@ -1,13 +1,13 @@
 {
-  "name": "The Final Act",
-  "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
-  "rarity": "Rare",
   "category": "Flame Dancer",
-  "reqs": "flamecharmer => the_final_act := 60s FLM",
+  "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
   "exclusive": [
     "Eruption_Path_Lava_Serpent"
   ],
   "innates": {},
+  "name": "The Final Act",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "flamecharmer => the_final_act := 60s FLM",
   "vaulted": false
 }

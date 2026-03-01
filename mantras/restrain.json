@@ -1,12 +1,12 @@
 {
-  "name": "Restrain",
-  "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Chainwarden"
   ],
+  "category": "Combat",
+  "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+  "name": "Restrain",
   "reqs": "oath_chainwarden => restrain := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

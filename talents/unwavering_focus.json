@@ -1,13 +1,13 @@
 {
-  "name": "Unwavering Focus",
-  "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
-  "rarity": "Common",
   "category": "Ether Endeavors",
-  "reqs": "unwavering_focus := 10s STR, 60s INT",
+  "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Unwavering Focus",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "unwavering_focus := 10s STR, 60s INT",
   "vaulted": false
 }

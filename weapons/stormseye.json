@@ -1,17 +1,17 @@
 {
-  "name": "Stormseye",
-  "type": "Guns",
-  "damage_type": "Blunt",
-  "reqs": "stormseye := 40r MED, 75r LTN",
-  "damage": 19.5,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 19.5,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Stormseye",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "stormseye := 40r MED, 75r LTN",
   "scaling": {
-    "Thundercall": 6.0,
-    "Medium Wep.": 3.0
-  }
+    "Medium Wep.": 3.0,
+    "Thundercall": 6.0
+  },
+  "speed": 1.0,
+  "type": "Guns",
+  "weight": 5.0
 }

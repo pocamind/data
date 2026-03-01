@@ -1,16 +1,16 @@
 {
-  "name": "Battleaxe",
-  "type": "Greataxe",
-  "damage_type": "Slash",
-  "reqs": "battleaxe := ()",
-  "damage": 20.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 8.0,
-  "speed": 0.83,
+  "damage": 20.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Battleaxe",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "battleaxe := ()",
   "scaling": {
     "Heavy Wep.": 5.0
-  }
+  },
+  "speed": 0.83,
+  "type": "Greataxe",
+  "weight": 6.0
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Old Habits Die Hard",
-  "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
-  "rarity": "Common",
   "category": "Marauder",
-  "reqs": "old_habits_die_hard := 20s WLL",
+  "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Old Habits Die Hard",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "old_habits_die_hard := 20s WLL",
   "vaulted": false
 }

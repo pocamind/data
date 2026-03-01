@@ -1,12 +1,12 @@
 {
-  "name": "Crimson Rain",
-  "desc": "Release blood daggers. Recast to recall them.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Combat",
+  "desc": "Release blood daggers. Recast to recall them.",
+  "name": "Crimson Rain",
   "reqs": "crimson_rain := 30r BLD",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

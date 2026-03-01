@@ -1,16 +1,16 @@
 {
-  "name": "Battle Tendency",
-  "desc": "You can breathe more easily with +20% faster posture regen.",
-  "rarity": "Common",
   "category": "Bastion",
-  "reqs": "battle_tendency := 15s FTD, 15s WLL",
+  "desc": "You can breathe more easily with +20% faster posture regen.",
   "exclusive": [
     ""
   ],
   "innates": {
-    "Sanity": 10,
-    "Posture": 2
+    "Posture": 2,
+    "Sanity": 10
   },
+  "name": "Battle Tendency",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "battle_tendency := 15s FTD, 15s WLL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Fortitude Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
-  "rarity": "Common",
   "category": "Great Wall",
-  "reqs": "fortitude_unbounded := 75s FTD",
+  "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fortitude Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "fortitude_unbounded := 75s FTD",
   "vaulted": false
 }

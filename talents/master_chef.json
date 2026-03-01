@@ -1,13 +1,13 @@
 {
-  "name": "Master Chef",
-  "desc": "Buffs applied by food you cook now have their buffs amplified by +30%.",
-  "rarity": "Common",
   "category": "Tavernkeep",
-  "reqs": "master_chef := 15s CHA, 25s INT",
+  "desc": "Buffs applied by food you cook now have their buffs amplified by +30%.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Master Chef",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "master_chef := 15s CHA, 25s INT",
   "vaulted": false
 }

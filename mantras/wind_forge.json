@@ -1,12 +1,12 @@
 {
-  "name": "Wind Forge",
-  "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
+  "name": "Wind Forge",
   "reqs": "wind_forge := 20r WND",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

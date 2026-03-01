@@ -1,16 +1,16 @@
 {
-  "name": "Repeater",
-  "type": "Guns",
-  "damage_type": "Blunt",
-  "reqs": "repeater := 65r LHT",
-  "damage": 14.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 3.0,
-  "range": 12.0,
-  "speed": 1.25,
+  "damage": 14.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Repeater",
+  "pen": 0.0,
+  "range": 12.0,
+  "reqs": "repeater := 65r LHT",
   "scaling": {
     "Light Wep.": 15.0
-  }
+  },
+  "speed": 1.25,
+  "type": "Guns",
+  "weight": 3.0
 }

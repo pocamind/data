@@ -1,12 +1,12 @@
 {
-  "name": "Crystal Impale",
-  "desc": "Impale your foes with a brutal crystal smash.\r",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Impale your foes with a brutal crystal smash.\r",
+  "name": "Crystal Impale",
   "reqs": "crystal_impale := 40r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

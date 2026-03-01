@@ -1,12 +1,12 @@
 {
-  "name": "Umbral Slash",
-  "desc": "Perform a diagonal shadow-infused slash.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Perform a diagonal shadow-infused slash.",
+  "name": "Umbral Slash",
   "reqs": "umbral_slash := 30r SDW",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

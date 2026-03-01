@@ -1,13 +1,13 @@
 {
-  "name": "Carnivore",
-  "desc": "In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.",
-  "rarity": "Rare",
   "category": "Apex Predator",
-  "reqs": "carnivore := 5s STR, 5s WLL",
+  "desc": "In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.",
   "exclusive": [
     "Herbivore"
   ],
   "innates": {},
+  "name": "Carnivore",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "carnivore := 5s STR, 5s WLL",
   "vaulted": false
 }

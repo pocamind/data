@@ -1,13 +1,13 @@
 {
-  "name": "Cornered Fool",
-  "desc": "Blockbreaking a Charmed opponent procs Taunt for a scaled duration, making them take and deal more damage. 15s CD.\n[*Note: 3 seconds at 0 Charisma, 6 seconds at 85 Charisma.]",
-  "rarity": "Common",
   "category": "Empath",
-  "reqs": "cornered_fool := 85s CHA",
+  "desc": "Blockbreaking a Charmed opponent procs Taunt for a scaled duration, making them take and deal more damage. 15s CD.\n[*Note: 3 seconds at 0 Charisma, 6 seconds at 85 Charisma.]",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cornered Fool",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "cornered_fool := 85s CHA",
   "vaulted": false
 }

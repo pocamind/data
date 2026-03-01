@@ -1,13 +1,13 @@
 {
-  "name": "Link Conduction",
-  "desc": "While you have active tethers your lightning mantras cost less ether.",
-  "rarity": "Common",
   "category": "Static Weaver",
-  "reqs": "static_link => link_conduction := 15s INT, 65s LTN",
+  "desc": "While you have active tethers your lightning mantras cost less ether.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Link Conduction",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "static_link => link_conduction := 15s INT, 65s LTN",
   "vaulted": false
 }

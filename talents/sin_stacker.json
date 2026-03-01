@@ -1,15 +1,15 @@
 {
-  "name": "Sin Stacker",
-  "desc": "Your All the Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.",
-  "rarity": "Rare",
   "category": "Heretic",
-  "reqs": "all_the_dead_gods => sin_stacker := 90s WLL",
+  "desc": "Your All the Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 8
   },
+  "name": "Sin Stacker",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "all_the_dead_gods => sin_stacker := 90s WLL",
   "vaulted": false
 }

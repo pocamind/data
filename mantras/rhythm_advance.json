@@ -1,12 +1,12 @@
 {
-  "name": "Rhythm Advance",
-  "desc": "Rhythm Advance",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Soulbreaker"
   ],
+  "category": "Combat",
+  "desc": "Rhythm Advance",
+  "name": "Rhythm Advance",
   "reqs": "oath_soulbreaker => rhythm_advance := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

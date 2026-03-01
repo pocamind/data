@@ -1,13 +1,13 @@
 {
-  "name": "Ironclad Punishment",
-  "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.",
-  "rarity": "Common",
   "category": "Ironsinger",
-  "reqs": "ironclad_punishment := 45s MTL",
+  "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Ironclad Punishment",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "ironclad_punishment := 45s MTL",
   "vaulted": false
 }

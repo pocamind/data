@@ -1,12 +1,12 @@
 {
-  "name": "Ardour Slicer",
-  "desc": "Close the distance and deliver a fast slash using your Ardour.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Soulbreaker"
   ],
+  "category": "Combat",
+  "desc": "Close the distance and deliver a fast slash using your Ardour.",
+  "name": "Ardour Slicer",
   "reqs": "oath_soulbreaker => ardour_slicer := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

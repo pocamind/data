@@ -1,13 +1,13 @@
 {
-  "name": "Legion Kata",
-  "desc": "Gain the ability to use the Legion's martial arts.",
-  "rarity": "Quest",
   "category": "Gale Kata",
-  "reqs": "legion_kata := 25s LHT",
+  "desc": "Gain the ability to use the Legion's martial arts.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Legion Kata",
   "not_counted_towards_total": false,
+  "rarity": "Quest",
+  "reqs": "legion_kata := 25s LHT",
   "vaulted": false
 }

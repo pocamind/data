@@ -1,12 +1,12 @@
 {
-  "name": "Skyshatter Kick",
-  "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Strength"
   ],
+  "category": "Combat",
+  "desc": "Unleash two devasting kicks with your brute strength.\n[*Guard breaks at Level 5]",
+  "name": "Skyshatter Kick",
   "reqs": "skyshatter_kick := 80r STR",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

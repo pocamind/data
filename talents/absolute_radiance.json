@@ -1,13 +1,13 @@
 {
-  "name": "Absolute Radiance",
-  "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
-  "rarity": "Oath",
   "category": "Dawnwalker",
-  "reqs": "oath_dawnwalker => absolute_radiance := ()",
+  "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental status effects for a short duration.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Absolute Radiance",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => absolute_radiance := ()",
   "vaulted": false
 }

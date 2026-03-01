@@ -1,13 +1,13 @@
 {
-  "name": "Night Terror [MED]",
-  "desc": "Your light attacks and criticals now proc Fear the Dark.",
-  "rarity": "Common",
   "category": "Darksiphon",
-  "reqs": "fear_the_dark => night_terror_med := 100r MED, 100s SDW",
+  "desc": "Your light attacks and criticals now proc Fear the Dark.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Night Terror [MED]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "fear_the_dark => night_terror_med := 100r MED, 100s SDW",
   "vaulted": false
 }

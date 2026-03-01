@@ -1,15 +1,15 @@
 {
-  "name": "Master Flamecharmer",
-  "desc": "You can now obtain 3-star Flamecharmer mantras.",
-  "rarity": "Common",
   "category": "Flamecharmer",
-  "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
+  "desc": "You can now obtain 3-star Flamecharmer mantras.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 5
   },
+  "name": "Master Flamecharmer",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Iron Tether",
-  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Multiple"
   ],
+  "category": "Combat",
+  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
+  "name": "Iron Tether",
   "reqs": "iron_tether := 30r LTN, 30r MTL",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

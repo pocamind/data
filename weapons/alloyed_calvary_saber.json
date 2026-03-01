@@ -1,16 +1,16 @@
 {
-  "name": "Alloyed Calvary Saber",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "alloyed_calvary_saber := 75r MED",
-  "damage": 22.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 22.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Alloyed Calvary Saber",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "alloyed_calvary_saber := 75r MED",
   "scaling": {
     "Medium Wep.": 5.5
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 6.0
 }

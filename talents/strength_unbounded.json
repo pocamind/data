@@ -1,13 +1,13 @@
 {
-  "name": "Strength Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your strength to its fullest.",
-  "rarity": "Common",
   "category": "One Eyed King",
-  "reqs": "strength_unbounded := 75s STR",
+  "desc": "You have gained the ability to surpass your limits and train your strength to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Strength Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "strength_unbounded := 75s STR",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Katana",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "katana := 25r MED",
-  "damage": 18.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 18.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Katana",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "katana := 25r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.0
 }

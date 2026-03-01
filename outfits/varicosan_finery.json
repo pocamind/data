@@ -1,23 +1,23 @@
 {
-  "name": "Varicosan Finery",
   "category": "Master",
   "durability": 1500,
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Alestrian Coral": 3,
+    "Cloth": 7,
+    "Fiber": 5,
+    "Irithine": 5,
+    "Vibrant Gem": 10
+  },
+  "name": "Varicosan Finery",
+  "notes": 100,
+  "reqs": "varicosan_finery := 165r TTL",
   "resistances": {
     "Elemental Resistance": 0.2,
     "Physical Resistance": 0.2
   },
-  "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
-  },
-  "talent": "Benefactor",
-  "reqs": "varicosan_finery := 165r TTL",
-  "mats": {
-    "Vibrant Gem": 10,
-    "Fiber": 5,
-    "Alestrian Coral": 3,
-    "Irithine": 5,
-    "Cloth": 7
-  },
-  "notes": 100
+  "talent": "Benefactor"
 }

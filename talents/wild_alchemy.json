@@ -1,13 +1,13 @@
 {
-  "name": "Wild Alchemy",
-  "desc": "You have a chance to brew 2 potions instead of 1.",
-  "rarity": "Common",
   "category": "Alchemist",
-  "reqs": "wild_alchemy := 25s INT",
+  "desc": "You have a chance to brew 2 potions instead of 1.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Wild Alchemy",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wild_alchemy := 25s INT",
   "vaulted": false
 }

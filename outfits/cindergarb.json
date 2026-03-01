@@ -1,18 +1,18 @@
 {
-  "name": "Cindergarb",
   "category": "Master",
   "durability": 3000,
-  "resistances": {
-    "Metal Resistance": 0.15,
-    "Physical Resistance": 0.35,
-    "Flame Resistance": 0.5
-  },
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 0
   },
-  "talent": "Warding Radiance",
-  "reqs": "cindergarb := ()",
   "mats": {},
-  "notes": 0
+  "name": "Cindergarb",
+  "notes": 0,
+  "reqs": "cindergarb := ()",
+  "resistances": {
+    "Flame Resistance": 0.5,
+    "Metal Resistance": 0.15,
+    "Physical Resistance": 0.35
+  },
+  "talent": "Warding Radiance"
 }

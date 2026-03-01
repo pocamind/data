@@ -1,12 +1,12 @@
 {
-  "name": "Metal Ball",
-  "desc": "Form yourself into a metal ball and rush forward.",
-  "stars": 2,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Mobility",
+  "desc": "Form yourself into a metal ball and rush forward.",
+  "name": "Metal Ball",
   "reqs": "metal_ball := 30r MTL",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

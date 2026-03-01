@@ -1,14 +1,14 @@
 {
-  "name": "The Floor is Lava",
-  "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
-  "rarity": "Advanced",
   "category": "Lava Serpent",
-  "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
+  "desc": "Your eruptions leave pools of lava beneath them. Don't fall in.\n[*The duration of your pools of lava scales on your Flamecharm investment.]",
   "exclusive": [
     "The_Final_Act",
     "Wraith_Path_Twisted_Puppets"
   ],
   "innates": {},
+  "name": "The Floor is Lava",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
   "vaulted": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Alloyed Katana",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "alloyed_katana := 75r MED",
-  "damage": 20.0,
-  "pen": 0.1,
   "chip": 0.1,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 20.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Alloyed Katana",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "alloyed_katana := 75r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.0
 }

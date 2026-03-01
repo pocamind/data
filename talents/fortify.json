@@ -1,13 +1,13 @@
 {
-  "name": "Fortify",
-  "desc": "Slow down your movement in exchange for fortifying your defenses.",
-  "rarity": "Equipment",
   "category": "Weapon",
-  "reqs": "fortify := ()",
+  "desc": "Slow down your movement in exchange for fortifying your defenses.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fortify",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "fortify := ()",
   "vaulted": false
 }

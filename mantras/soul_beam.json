@@ -1,12 +1,12 @@
 {
-  "name": "Soul Beam",
-  "desc": "Unknown",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Multiple"
   ],
+  "category": "Combat",
+  "desc": "Unknown",
+  "name": "Soul Beam",
   "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

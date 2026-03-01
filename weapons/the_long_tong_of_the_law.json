@@ -1,17 +1,17 @@
 {
-  "name": "The Long Tong of the Law",
-  "type": "Greatsword",
-  "damage_type": "Slash + Bleed",
-  "reqs": "the_long_tong_of_the_law := 30r INT OR 30r WLL OR 30r CHA, 70r HVY",
-  "damage": 20.0,
-  "pen": 0.0,
   "chip": 0.4,
-  "weight": 8.0,
-  "range": 10.0,
-  "speed": 0.82,
+  "damage": 20.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "The Long Tong of the Law",
+  "pen": 0.0,
+  "range": 10.0,
+  "reqs": "the_long_tong_of_the_law := 30r INT OR 30r WLL OR 30r CHA, 70r HVY",
   "scaling": {
-    "Mind": 5.0,
-    "Heavy Wep.": 7.5
-  }
+    "Heavy Wep.": 7.5,
+    "Mind": 5.0
+  },
+  "speed": 0.82,
+  "type": "Greatsword",
+  "weight": 8.0
 }

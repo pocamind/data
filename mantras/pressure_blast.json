@@ -1,12 +1,12 @@
 {
-  "name": "Pressure Blast",
-  "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Heavy Weapons"
   ],
+  "category": "Combat",
+  "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
+  "name": "Pressure Blast",
   "reqs": "pressure_blast := 30r HVY",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

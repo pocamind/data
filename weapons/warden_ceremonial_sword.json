@@ -1,16 +1,16 @@
 {
-  "name": "Warden Ceremonial Sword",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "warden_ceremonial_sword := 50r MED",
-  "damage": 17.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 4.0,
-  "range": 7.5,
-  "speed": 1.06,
+  "damage": 17.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Warden Ceremonial Sword",
+  "pen": 0.0,
+  "range": 7.5,
+  "reqs": "warden_ceremonial_sword := 50r MED",
   "scaling": {
     "Medium Wep.": 7.0
-  }
+  },
+  "speed": 1.06,
+  "type": "Sword",
+  "weight": 4.0
 }

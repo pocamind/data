@@ -1,13 +1,13 @@
 {
-  "name": "Iron Gut [WILL]",
-  "desc": "You have resistance against being poisoned by foods.",
-  "rarity": "Common",
   "category": "Survival Instinct",
-  "reqs": "iron_gut_will := 20s WLL",
+  "desc": "You have resistance against being poisoned by foods.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Iron Gut [WILL]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "iron_gut_will := 20s WLL",
   "vaulted": false
 }

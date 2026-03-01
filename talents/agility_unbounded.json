@@ -1,13 +1,13 @@
 {
-  "name": "Agility Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your agility to its fullest.",
-  "rarity": "Common",
   "category": "Flow",
-  "reqs": "agility_unbounded := 75s AGL",
+  "desc": "You have gained the ability to surpass your limits and train your agility to its fullest.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Agility Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "agility_unbounded := 75s AGL",
   "vaulted": false
 }

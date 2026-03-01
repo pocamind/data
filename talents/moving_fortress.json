@@ -1,15 +1,15 @@
 {
-  "name": "Moving Fortress",
-  "desc": "Blocking no longer slows you down as much.",
-  "rarity": "Common",
   "category": "Bastion",
-  "reqs": "moving_fortress := 5s FTD",
+  "desc": "Blocking no longer slows you down as much.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Posture": 1
   },
+  "name": "Moving Fortress",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "moving_fortress := 5s FTD",
   "vaulted": false
 }

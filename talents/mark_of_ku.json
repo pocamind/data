@@ -1,13 +1,13 @@
 {
-  "name": "Mark of Ku",
-  "desc": "Buffs the rest of one person they choose around them as long as they are at a campfire",
-  "rarity": "Origin",
   "category": "Innate",
-  "reqs": "mark_of_ku := ()",
+  "desc": "Buffs the rest of one person they choose around them as long as they are at a campfire",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Mark of Ku",
   "not_counted_towards_total": false,
+  "rarity": "Origin",
+  "reqs": "mark_of_ku := ()",
   "vaulted": false
 }

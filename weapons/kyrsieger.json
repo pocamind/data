@@ -1,17 +1,17 @@
 {
-  "name": "Kyrsieger",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "kyrsieger := 15r CHA, 50r HVY",
-  "damage": 24.0,
-  "pen": 0.15,
   "chip": 0.1,
-  "weight": 9.0,
-  "range": 9.0,
-  "speed": 0.83,
+  "damage": 24.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Kyrsieger",
+  "pen": 0.15,
+  "range": 9.0,
+  "reqs": "kyrsieger := 15r CHA, 50r HVY",
   "scaling": {
     "Charisma": 2.0,
     "Heavy Wep.": 7.0
-  }
+  },
+  "speed": 0.83,
+  "type": "Greatsword",
+  "weight": 9.0
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Ignition Deepdelver",
   "category": "Master",
   "durability": 3000,
-  "resistances": {
-    "Ice Resistance": 0.15,
-    "Elemental Resistance": 0.35,
-    "Physical Resistance": 0.3
-  },
   "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 20
+    "Ether Regen": 20,
+    "Extra Stealth": 0
   },
-  "talent": "Force Your Way",
-  "reqs": "ignition_deepdelver := 240r TTL",
   "mats": {
     "Blue Gem": 1,
-    "Fiber": 5,
     "Bounder Claw": 1,
     "Cloth": 5,
-    "Worn Cog": 1,
+    "Fiber": 5,
+    "Frozen Membrane": 1,
     "Vibrant Gems": 5,
-    "Frozen Membrane": 1
+    "Worn Cog": 1
   },
-  "notes": 1000
+  "name": "Ignition Deepdelver",
+  "notes": 1000,
+  "reqs": "ignition_deepdelver := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.35,
+    "Ice Resistance": 0.15,
+    "Physical Resistance": 0.3
+  },
+  "talent": "Force Your Way"
 }

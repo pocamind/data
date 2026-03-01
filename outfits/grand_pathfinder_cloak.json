@@ -1,25 +1,25 @@
 {
-  "name": "Grand Pathfinder Cloak",
   "category": "Master",
   "durability": 2000,
-  "resistances": {
-    "Physical Resistance": 0.2,
-    "Elemental Resistance": 0.2
-  },
   "extra_percents": {
-    "Extra Stealth": 40,
-    "Ether Regen": 0
+    "Ether Regen": 0,
+    "Extra Stealth": 40
   },
-  "talent": "Legendary",
-  "reqs": "grand_pathfinder_cloak := 165r TTL",
   "mats": {
+    "Cloth": 5,
     "Dark Feather": 2,
     "Erisore": 5,
     "Fiber": 5,
     "Gold": 5,
     "Irithine": 5,
-    "Cloth": 5,
     "Iron": 6
   },
-  "notes": 150
+  "name": "Grand Pathfinder Cloak",
+  "notes": 150,
+  "reqs": "grand_pathfinder_cloak := 165r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.2,
+    "Physical Resistance": 0.2
+  },
+  "talent": "Legendary"
 }

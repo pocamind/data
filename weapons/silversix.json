@@ -1,16 +1,16 @@
 {
-  "name": "Silversix",
-  "type": "Guns",
-  "damage_type": "Blunt",
-  "reqs": "silversix := ()",
-  "damage": 10.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 1.0,
-  "range": 10.0,
-  "speed": 1.17,
+  "damage": 10.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Silversix",
+  "pen": 0.0,
+  "range": 10.0,
+  "reqs": "silversix := ()",
   "scaling": {
     "Light Wep.": 13.0
-  }
+  },
+  "speed": 1.17,
+  "type": "Guns",
+  "weight": 1.0
 }

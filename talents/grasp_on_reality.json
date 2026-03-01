@@ -1,13 +1,13 @@
 {
-  "name": "Grasp on Reality",
-  "desc": "Damage taken from insanity is reduced.",
-  "rarity": "Common",
   "category": "Sturdy Resolve",
-  "reqs": "grasp_on_reality := 5s WLL, 25s FTD",
+  "desc": "Damage taken from insanity is reduced.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Grasp on Reality",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "grasp_on_reality := 5s WLL, 25s FTD",
   "vaulted": false
 }

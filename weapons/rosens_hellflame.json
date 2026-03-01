@@ -1,17 +1,17 @@
 {
-  "name": "Rosen's Hellflame",
-  "type": "Guns",
-  "damage_type": "Blunt",
-  "reqs": "rosens_hellflame := 40r MED, 75r FLM",
-  "damage": 19.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 3.0,
-  "range": 7.0,
-  "speed": 0.93,
+  "damage": 19.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Rosen's Hellflame",
+  "pen": 0.0,
+  "range": 7.0,
+  "reqs": "rosens_hellflame := 40r MED, 75r FLM",
   "scaling": {
     "Flamecharm": 4.0,
     "Medium Wep.": 3.0
-  }
+  },
+  "speed": 0.93,
+  "type": "Guns",
+  "weight": 3.0
 }

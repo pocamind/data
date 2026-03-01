@@ -1,13 +1,13 @@
 {
-  "name": "Matador",
-  "desc": "Deal +20% more damage to human enemies with hyperarmor.",
-  "rarity": "Common",
   "category": "Weapon Master",
-  "reqs": "matador := 5s AGL, 20s STR",
+  "desc": "Deal +20% more damage to human enemies with hyperarmor.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Matador",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "matador := 5s AGL, 20s STR",
   "vaulted": false
 }

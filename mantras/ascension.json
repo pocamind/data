@@ -1,12 +1,12 @@
 {
-  "name": "Ascension",
-  "desc": "Take to the skies for a devastating strike.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Starkindred"
   ],
+  "category": "Combat",
+  "desc": "Take to the skies for a devastating strike.",
+  "name": "Ascension",
   "reqs": "oath_starkindred => ascension := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

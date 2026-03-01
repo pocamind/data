@@ -1,13 +1,13 @@
 {
-  "name": "Flow State",
-  "desc": "Enter a moment of extreme focus in which you can change the windup of your special attack with the correct timing.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => flow_state := ()",
+  "desc": "Enter a moment of extreme focus in which you can change the windup of your special attack with the correct timing.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Flow State",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => flow_state := ()",
   "vaulted": false
 }

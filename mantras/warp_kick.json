@@ -1,12 +1,12 @@
 {
-  "name": "Warp Kick",
-  "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Blightsurger"
   ],
+  "category": "Combat",
+  "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
+  "name": "Warp Kick",
   "reqs": "oath_blightsurger => warp_kick := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

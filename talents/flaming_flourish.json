@@ -1,13 +1,13 @@
 {
-  "name": "Flaming Flourish",
-  "desc": "Set enemies on fire when you flourish or uppercut them.",
-  "rarity": "Common",
   "category": "The Demon Blade",
-  "reqs": "flamecharmer => flaming_flourish := 30s FLM",
+  "desc": "Set enemies on fire when you flourish or uppercut them.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Flaming Flourish",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "flamecharmer => flaming_flourish := 30s FLM",
   "vaulted": false
 }

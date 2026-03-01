@@ -1,15 +1,15 @@
 {
-  "name": "Unswayed",
-  "desc": "The effects of Taunt and Encore no longer work on you.",
-  "rarity": "Common",
   "category": "Absolute Focus",
-  "reqs": "unswayed := 75s WLL",
+  "desc": "The effects of Taunt and Encore no longer work on you.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 20
   },
+  "name": "Unswayed",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "unswayed := 75s WLL",
   "vaulted": false
 }

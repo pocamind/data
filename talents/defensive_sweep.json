@@ -1,13 +1,13 @@
 {
-  "name": "Defensive Sweep",
-  "desc": "[Spears] Posture breaking an opponent grants you +50% PEN for 3 seconds.",
-  "rarity": "Common",
   "category": "Lancer",
-  "reqs": "defensive_sweep := 50s MED",
+  "desc": "[Spears] Posture breaking an opponent grants you +50% PEN for 3 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Defensive Sweep",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "defensive_sweep := 50s MED",
   "vaulted": false
 }

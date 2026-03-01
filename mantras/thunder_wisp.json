@@ -1,12 +1,12 @@
 {
-  "name": "Thunder Wisp",
-  "desc": "A servant of lightning.\n[Applies \"Sapping\" to a target upon being uppercutted or flourished.]",
-  "stars": 2,
-  "category": "Wisp",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Wisp",
+  "desc": "A servant of lightning.\n[Applies \"Sapping\" to a target upon being uppercutted or flourished.]",
+  "name": "Thunder Wisp",
   "reqs": "thunder_wisp := 30r LTN",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

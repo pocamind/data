@@ -1,13 +1,13 @@
 {
-  "name": "Expert Flamecharmer",
-  "desc": "You can now obtain 2-star Flamecharmer Mantras.",
-  "rarity": "Common",
   "category": "Flamecharmer",
-  "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
+  "desc": "You can now obtain 2-star Flamecharmer Mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Expert Flamecharmer",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
   "vaulted": false
 }

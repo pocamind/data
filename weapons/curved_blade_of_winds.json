@@ -1,17 +1,17 @@
 {
-  "name": "Curved Blade Of Winds",
-  "type": "Sword",
-  "damage_type": "Slash + Aftercut",
-  "reqs": "curved_blade_of_winds := 40r MED, 75r WND",
-  "damage": 17.5,
-  "pen": 0.15,
   "chip": 0.05,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.04,
+  "damage": 17.5,
+  "damage_type": "Slash + Aftercut",
   "endlag": 0.0,
+  "name": "Curved Blade Of Winds",
+  "pen": 0.15,
+  "range": 8.0,
+  "reqs": "curved_blade_of_winds := 40r MED, 75r WND",
   "scaling": {
-    "Medium Wep.": 5.0,
-    "Galebreathe": 5.0
-  }
+    "Galebreathe": 5.0,
+    "Medium Wep.": 5.0
+  },
+  "speed": 1.04,
+  "type": "Sword",
+  "weight": 5.0
 }

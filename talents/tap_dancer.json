@@ -1,15 +1,15 @@
 {
-  "name": "Tap Dancer",
-  "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
-  "rarity": "Rare",
   "category": "Duelist",
-  "reqs": "tap_dancer := 60s AGL",
+  "desc": "Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Tap Dancer",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "tap_dancer := 60s AGL",
   "vaulted": false
 }

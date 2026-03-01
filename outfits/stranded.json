@@ -1,14 +1,14 @@
 {
-  "name": "Stranded",
   "category": "Master",
   "durability": 0,
-  "resistances": {},
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "talent": null,
-  "reqs": "stranded := ()",
   "mats": {},
-  "notes": 0
+  "name": "Stranded",
+  "notes": 0,
+  "reqs": "stranded := ()",
+  "resistances": {},
+  "talent": null
 }

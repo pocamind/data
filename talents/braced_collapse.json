@@ -1,13 +1,13 @@
 {
-  "name": "Braced Collapse",
-  "desc": "After being block broken, the next attack to hit you deals reduced damage.",
-  "rarity": "Common",
   "category": "Bastion",
-  "reqs": "braced_collapse := 25s FTD",
+  "desc": "After being block broken, the next attack to hit you deals reduced damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Braced Collapse",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "braced_collapse := 25s FTD",
   "vaulted": false
 }

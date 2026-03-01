@@ -1,12 +1,12 @@
 {
-  "name": "Air Force",
-  "desc": "Shoots out an air blast.\n",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Combat",
+  "desc": "Shoots out an air blast.\n",
+  "name": "Air Force",
   "reqs": "air_force := 1r WND",
+  "stars": 0,
+  "type": "Attunement",
   "vaulted": false
 }

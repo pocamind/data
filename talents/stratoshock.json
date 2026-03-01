@@ -1,13 +1,13 @@
 {
-  "name": "Stratoshock",
-  "desc": "Your lightning deals an additional 5% damage when in the rain.",
-  "rarity": "Common",
   "category": "Thundercaller",
-  "reqs": "stratoshock := 35s LTN",
+  "desc": "Your lightning deals an additional 5% damage when in the rain.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Stratoshock",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "stratoshock := 35s LTN",
   "vaulted": false
 }

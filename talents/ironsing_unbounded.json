@@ -1,15 +1,15 @@
 {
-  "name": "Ironsing Unbounded",
-  "desc": "You have gained the ability to surpass your limits and train your ironsing to its fullest.\n[Note: Falling below 75 Ironsing revokes this Talent.]",
-  "rarity": "Common",
   "category": "Ironsing Master",
-  "reqs": "ironsing_unbounded := 75s MTL",
+  "desc": "You have gained the ability to surpass your limits and train your ironsing to its fullest.\n[Note: Falling below 75 Ironsing revokes this Talent.]",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 10
   },
+  "name": "Ironsing Unbounded",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "ironsing_unbounded := 75s MTL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Vanishing Wraith",
-  "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target.",
-  "rarity": "Rare",
   "category": "Specter",
-  "reqs": "phantom_step => vanishing_wraith := 60s WND",
+  "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Vanishing Wraith",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "phantom_step => vanishing_wraith := 60s WND",
   "vaulted": false
 }

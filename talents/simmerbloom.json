@@ -1,13 +1,13 @@
 {
-  "name": "Simmerbloom",
-  "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
-  "rarity": "Equipment",
   "category": "Unknown",
-  "reqs": "simmerbloom := 85s FLM",
+  "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Simmerbloom",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "simmerbloom := 85s FLM",
   "vaulted": false
 }

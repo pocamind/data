@@ -1,13 +1,13 @@
 {
-  "name": "Glacial Finish",
-  "desc": "Press [F] while using your Ice Smash Mantra to follow up with a devastating attack.",
-  "rarity": "Common",
   "category": "Frost Forger",
-  "reqs": "glacial_finish := 35s ICE",
+  "desc": "Press [F] while using your Ice Smash Mantra to follow up with a devastating attack.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Glacial Finish",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "glacial_finish := 35s ICE",
   "vaulted": true
 }

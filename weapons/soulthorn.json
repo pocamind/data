@@ -1,17 +1,17 @@
 {
-  "name": "Soulthorn",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "soulthorn := 40r INT, 80r MED",
-  "damage": 17.0,
-  "pen": 0.0,
   "chip": 0.3,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.02,
+  "damage": 17.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Soulthorn",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "soulthorn := 40r INT, 80r MED",
   "scaling": {
-    "Medium Wep.": 7.0,
-    "Intelligence": 3.5
-  }
+    "Intelligence": 3.5,
+    "Medium Wep.": 7.0
+  },
+  "speed": 1.02,
+  "type": "Sword",
+  "weight": 5.0
 }

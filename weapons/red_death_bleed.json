@@ -1,19 +1,19 @@
 {
-  "name": "Red Death (Bleed)",
-  "type": "Spear",
-  "damage_type": "Slash + Bleed",
-  "reqs": "red_death_bleed := 25r INT OR 25r WLL OR 25r CHA, 30r MED, 35r BLD, 45r SDW",
-  "damage": 16.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 5.5,
-  "range": 9.5,
-  "speed": 0.92,
+  "damage": 16.0,
+  "damage_type": "Slash + Bleed",
   "endlag": 0.0,
+  "name": "Red Death (Bleed)",
+  "pen": 0.2,
+  "range": 9.5,
+  "reqs": "red_death_bleed := 25r INT OR 25r WLL OR 25r CHA, 30r MED, 35r BLD, 45r SDW",
   "scaling": {
+    "Bloodrend": 3.0,
     "Medium Wep.": 2.0,
     "Mind": 2.0,
-    "Bloodrend": 3.0,
     "Shadowcast": 3.0
-  }
+  },
+  "speed": 0.92,
+  "type": "Spear",
+  "weight": 5.5
 }

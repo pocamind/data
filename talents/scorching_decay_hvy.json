@@ -1,13 +1,13 @@
 {
-  "name": "Scorching Decay [HVY]",
-  "desc": "The wither dealt from your Emperor's Flame is massively increased.",
-  "rarity": "Common",
   "category": "Withered Flame",
-  "reqs": "emperor_flame => scorching_decay_hvy := 100r HVY, 100s FLM",
+  "desc": "The wither dealt from your Emperor's Flame is massively increased.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Scorching Decay [HVY]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "emperor_flame => scorching_decay_hvy := 100r HVY, 100s FLM",
   "vaulted": false
 }

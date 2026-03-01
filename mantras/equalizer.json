@@ -1,12 +1,12 @@
 {
-  "name": "Equalizer",
-  "desc": "A counter that leaves your opponent open",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Contractor"
   ],
+  "category": "Combat",
+  "desc": "A counter that leaves your opponent open",
+  "name": "Equalizer",
   "reqs": "oath_contractor => equalizer := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

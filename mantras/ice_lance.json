@@ -1,12 +1,12 @@
 {
-  "name": "Ice Lance",
-  "desc": "Form an icy spear and lunge forward.\n",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Form an icy spear and lunge forward.\n",
+  "name": "Ice Lance",
   "reqs": "ice_lance := 30r ICE",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

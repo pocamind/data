@@ -1,12 +1,12 @@
 {
-  "name": "Ice Forge",
-  "desc": "Conjure and throw weapons of ice.\r",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Frostdraw"
   ],
+  "category": "Combat",
+  "desc": "Conjure and throw weapons of ice.\r",
+  "name": "Ice Forge",
   "reqs": "ice_forge := 20r ICE",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

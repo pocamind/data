@@ -1,13 +1,13 @@
 {
-  "name": "Unnecessary Theatrics",
-  "desc": "Deliver a one-liner on uppercuts, flourishes, and critical attacks that charms your opponents briefly.",
-  "rarity": "Common",
   "category": "Showboater",
-  "reqs": "charismatic_cast => unnecessary_theatrics := 75s CHA",
+  "desc": "Deliver a one-liner on uppercuts, flourishes, and critical attacks that charms your opponents briefly.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Unnecessary Theatrics",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "charismatic_cast => unnecessary_theatrics := 75s CHA",
   "vaulted": false
 }

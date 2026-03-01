@@ -1,13 +1,13 @@
 {
-  "name": "Fragile Freeze",
-  "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.",
-  "rarity": "Common",
   "category": "Cryomancer",
-  "reqs": "fragile_freeze := 60s ICE",
+  "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fragile Freeze",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "fragile_freeze := 60s ICE",
   "vaulted": false
 }

@@ -1,15 +1,15 @@
 {
-  "name": "Chronostasis",
-  "desc": "Landing a Basic Attack or Critical Strike now puts target's resonance on cooldown for a short duration.",
-  "rarity": "Rare",
   "category": "Warrior",
-  "reqs": "engage => chronostasis := ()",
+  "desc": "Landing a Basic Attack or Critical Strike now puts target's resonance on cooldown for a short duration.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Posture": 1
   },
+  "name": "Chronostasis",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "engage => chronostasis := ()",
   "vaulted": false
 }

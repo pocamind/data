@@ -1,12 +1,12 @@
 {
-  "name": "Shade Bringer",
-  "desc": "Temporarily summon a shadow greatsword for a large slash.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Temporarily summon a shadow greatsword for a large slash.",
+  "name": "Shade Bringer",
   "reqs": "shade_bringer := 50r SDW",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

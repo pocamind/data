@@ -1,13 +1,13 @@
 {
-  "name": "Explosive Rage",
-  "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
-  "rarity": "Common",
   "category": "Twisted Puppets",
-  "reqs": "wraith_path_twisted_puppets => explosive_rage := 40s FLM, 40s SDW",
+  "desc": "Causing explosions will make your puppets go into a frenzy - speeding up and dealing slightly more damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Explosive Rage",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets => explosive_rage := 40s FLM, 40s SDW",
   "vaulted": false
 }

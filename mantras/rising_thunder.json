@@ -1,12 +1,12 @@
 {
-  "name": "Rising Thunder",
-  "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Combat",
+  "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
+  "name": "Rising Thunder",
   "reqs": "rising_thunder := 50r LTN",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

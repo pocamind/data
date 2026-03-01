@@ -1,16 +1,16 @@
 {
-  "name": "Golden Swordfish",
-  "type": "Rapier",
-  "damage_type": "Slash",
-  "reqs": "golden_swordfish := 75r LHT",
-  "damage": 15.0,
-  "pen": 0.2,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.1,
-  "speed": 1.1,
+  "damage": 15.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Golden Swordfish",
+  "pen": 0.2,
+  "range": 8.1,
+  "reqs": "golden_swordfish := 75r LHT",
   "scaling": {
     "Light Wep.": 8.0
-  }
+  },
+  "speed": 1.1,
+  "type": "Rapier",
+  "weight": 5.0
 }

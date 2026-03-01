@@ -1,16 +1,16 @@
 {
-  "name": "Worshipper Longsword",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "worshipper_longsword := 30r MED",
-  "damage": 19.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 19.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Worshipper Longsword",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "worshipper_longsword := 30r MED",
   "scaling": {
     "Medium Wep.": 4.5
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.0
 }

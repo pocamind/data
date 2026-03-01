@@ -1,15 +1,15 @@
 {
-  "name": "Strong Hold",
-  "desc": "[Medium Weapons] When above half health and two-handling, posture damage taken is reduced by 5%.",
-  "rarity": "Common",
   "category": "Duelist",
-  "reqs": "strong_hold := 30s STR, 30s MED",
+  "desc": "[Medium Weapons] When above half health and two-handling, posture damage taken is reduced by 5%.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 1
   },
+  "name": "Strong Hold",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "strong_hold := 30s STR, 30s MED",
   "vaulted": false
 }

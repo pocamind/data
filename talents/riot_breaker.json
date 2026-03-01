@@ -1,13 +1,13 @@
 {
-  "name": "Riot Breaker",
-  "desc": "You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.",
-  "rarity": "Outfit",
   "category": "Authority Commander",
-  "reqs": "riot_breaker := ()",
+  "desc": "You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Riot Breaker",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "riot_breaker := ()",
   "vaulted": false
 }

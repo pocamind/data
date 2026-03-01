@@ -1,13 +1,13 @@
 {
-  "name": "Blood Bag",
-  "desc": "You receive extra blood from knocking an enemy.",
-  "rarity": "Common",
   "category": "Quack Doctor",
-  "reqs": "blood_bag := 20s BLD",
+  "desc": "You receive extra blood from knocking an enemy.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Blood Bag",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "blood_bag := 20s BLD",
   "vaulted": false
 }

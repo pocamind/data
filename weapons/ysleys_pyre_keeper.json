@@ -1,17 +1,17 @@
 {
-  "name": "Ysley's Pyre Keeper",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "ysleys_pyre_keeper := 10r LHT, 25r HVY, 75r FLM",
-  "damage": 21.0,
-  "pen": 0.15,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 0.93,
+  "damage": 21.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Ysley's Pyre Keeper",
+  "pen": 0.15,
+  "range": 8.0,
+  "reqs": "ysleys_pyre_keeper := 10r LHT, 25r HVY, 75r FLM",
   "scaling": {
-    "Heavy Wep.": 5.0,
-    "Flamecharm": 4.0
-  }
+    "Flamecharm": 4.0,
+    "Heavy Wep.": 5.0
+  },
+  "speed": 0.93,
+  "type": "Greatsword",
+  "weight": 5.0
 }

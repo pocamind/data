@@ -1,12 +1,12 @@
 {
-  "name": "Fire Eruption",
-  "desc": "A pyroclastic eruption.\n[*Guard breaks]",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "A pyroclastic eruption.\n[*Guard breaks]",
+  "name": "Fire Eruption",
   "reqs": "fire_eruption := 20r FLM",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

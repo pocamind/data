@@ -1,12 +1,12 @@
 {
-  "name": "Wind Passage",
-  "desc": "A rush of wind.",
-  "stars": 3,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Mobility",
+  "desc": "A rush of wind.",
+  "name": "Wind Passage",
   "reqs": "wind_passage := 50r WND",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

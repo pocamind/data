@@ -1,13 +1,13 @@
 {
-  "name": "Cheap Trick",
-  "desc": "When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. Briefly disappear after knocking an enemy.",
-  "rarity": "Oath",
   "category": "Visionshaper",
-  "reqs": "oath_visionshaper => cheap_trick := ()",
+  "desc": "When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. Briefly disappear after knocking an enemy.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Cheap Trick",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_visionshaper => cheap_trick := ()",
   "vaulted": false
 }

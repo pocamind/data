@@ -1,13 +1,13 @@
 {
-  "name": "Tidekeeper",
-  "desc": "Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, a 20% defence buff, and prevents you from being knocked for 10 seconds.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "tidekeeper := ()",
+  "desc": "Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, a 20% defence buff, and prevents you from being knocked for 10 seconds.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Tidekeeper",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "tidekeeper := ()",
   "vaulted": false
 }

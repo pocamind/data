@@ -1,13 +1,13 @@
 {
-  "name": "Fleetfoot",
-  "desc": "Gain an initial speed boost when slide jumping.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "fleetfoot := ()",
+  "desc": "Gain an initial speed boost when slide jumping.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Fleetfoot",
   "not_counted_towards_total": true,
+  "rarity": "Outfit",
+  "reqs": "fleetfoot := ()",
   "vaulted": false
 }

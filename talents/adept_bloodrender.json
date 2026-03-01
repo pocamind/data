@@ -1,13 +1,13 @@
 {
-  "name": "Adept Bloodrender",
-  "desc": "You can now obtain 1-star Bloodrender mantras.",
-  "rarity": "Common",
   "category": "Bloodrender",
-  "reqs": "bloodrender => adept_bloodrender := 20s BLD",
+  "desc": "You can now obtain 1-star Bloodrender mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Adept Bloodrender",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "bloodrender => adept_bloodrender := 20s BLD",
   "vaulted": false
 }

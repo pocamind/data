@@ -1,13 +1,13 @@
 {
-  "name": "Frozen Pin-Cushion",
-  "desc": "Hitting an opponent with your Ice Daggers causes them to freeze.",
-  "rarity": "Rare",
   "category": "Ice Age",
-  "reqs": "frozen_pin_cushion := 60s ICE",
+  "desc": "Hitting an opponent with your Ice Daggers causes them to freeze.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Frozen Pin-Cushion",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "frozen_pin_cushion := 60s ICE",
   "vaulted": false
 }

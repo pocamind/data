@@ -1,16 +1,16 @@
 {
-  "name": "Dawnshot (Offhand)",
-  "type": "Offhand",
-  "damage_type": "Blunt",
-  "reqs": "dawnshot_offhand := 40r LHT",
-  "damage": 14.8,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 1.0,
-  "range": 10.5,
-  "speed": 1.17,
+  "damage": 14.8,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Dawnshot (Offhand)",
+  "pen": 0.0,
+  "range": 10.5,
+  "reqs": "dawnshot_offhand := 40r LHT",
   "scaling": {
     "Light Wep.": 12.0
-  }
+  },
+  "speed": 1.17,
+  "type": "Offhand",
+  "weight": 1.0
 }

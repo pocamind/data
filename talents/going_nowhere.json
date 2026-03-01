@@ -1,15 +1,15 @@
 {
-  "name": "Going Nowhere",
-  "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.",
-  "rarity": "Rare",
   "category": "Pursuer",
-  "reqs": "going_nowhere := 25s STR, 25s AGL",
+  "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Passive Agility": 6
   },
+  "name": "Going Nowhere",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "going_nowhere := 25s STR, 25s AGL",
   "vaulted": false
 }

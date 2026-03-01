@@ -1,15 +1,15 @@
 {
-  "name": "Echoing Lunatic",
-  "desc": "Your Ardour Scream now applies a bit of insanity.",
-  "rarity": "Common",
   "category": "Mindbreaker",
-  "reqs": "ardour_scream => echoing_lunatic := 55s WLL",
+  "desc": "Your Ardour Scream now applies a bit of insanity.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 3
   },
+  "name": "Echoing Lunatic",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "ardour_scream => echoing_lunatic := 55s WLL",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Relentless Flames",
-  "desc": "Bear down on your foes with repeated fiery slashes.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Combat",
+  "desc": "Bear down on your foes with repeated fiery slashes.",
+  "name": "Relentless Flames",
   "reqs": "relentless_flames := 30r FLM",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

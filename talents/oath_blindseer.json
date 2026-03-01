@@ -1,17 +1,17 @@
 {
-  "name": "Oath: Blindseer",
-  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
-  "rarity": "Oath",
   "category": "Blindseer",
-  "reqs": "oath_blindseer := 40s WLL",
+  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 10,
-    "Wildcard Mantra": 1,
-    "Support Mantra": 1
+    "Support Mantra": 1,
+    "Wildcard Mantra": 1
   },
+  "name": "Oath: Blindseer",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_blindseer := 40s WLL",
   "vaulted": false
 }

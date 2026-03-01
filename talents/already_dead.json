@@ -1,13 +1,13 @@
 {
-  "name": "Already Dead",
-  "desc": "You take reduced damage from abilities with a health cost.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "already_dead := ()",
+  "desc": "You take reduced damage from abilities with a health cost.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Already Dead",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "already_dead := ()",
   "vaulted": false
 }

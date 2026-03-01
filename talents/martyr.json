@@ -1,13 +1,13 @@
 {
-  "name": "Martyr",
-  "desc": "Enemies gain less health and posture when knocking you.",
-  "rarity": "Common",
   "category": "Miscellaneous",
-  "reqs": "martyr := ()",
+  "desc": "Enemies gain less health and posture when knocking you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Martyr",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "martyr := ()",
   "vaulted": false
 }

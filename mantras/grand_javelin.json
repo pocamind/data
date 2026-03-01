@@ -1,12 +1,12 @@
 {
-  "name": "Grand Javelin",
-  "desc": "A javelin of lightning.\t",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Thundercall"
   ],
+  "category": "Combat",
+  "desc": "A javelin of lightning.\t",
+  "name": "Grand Javelin",
   "reqs": "grand_javelin := 30r LTN",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

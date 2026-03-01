@@ -1,13 +1,13 @@
 {
-  "name": "Kickstart [FTD]",
-  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
-  "rarity": "Common",
   "category": "Kickstarter",
-  "reqs": "kickstart_ftd := 40r FTD, 50s LTN",
+  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
   "exclusive": [
     "Kickstart_CHA"
   ],
   "innates": {},
+  "name": "Kickstart [FTD]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "kickstart_ftd := 40r FTD, 50s LTN",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Electrify",
-  "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
-  "rarity": "Common",
   "category": "Jumpstarter",
-  "reqs": "electrify := 25s LTN",
+  "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Electrify",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "electrify := 25s LTN",
   "vaulted": false
 }

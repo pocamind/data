@@ -1,13 +1,13 @@
 {
-  "name": "Switchblade [HVY]",
-  "desc": "You can now utilise Dagger talents when not wielding a dagger.",
-  "rarity": "Advanced",
   "category": "Weapon Master",
-  "reqs": "switchblade_hvy := 50r HVY, 50s LHT",
+  "desc": "You can now utilise Dagger talents when not wielding a dagger.",
   "exclusive": [
     "Switchblade_MED"
   ],
   "innates": {},
+  "name": "Switchblade [HVY]",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "switchblade_hvy := 50r HVY, 50s LHT",
   "vaulted": false
 }

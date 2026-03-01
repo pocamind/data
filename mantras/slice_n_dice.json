@@ -1,12 +1,12 @@
 {
-  "name": "Slice 'n' Dice",
-  "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Attunementless",
   "attributes": [
     "Medium Weapons"
   ],
+  "category": "Combat",
+  "desc": "Step forward and slice through your enemies. Ability can be activated again on successful hit.",
+  "name": "Slice 'n' Dice",
   "reqs": "slice_n_dice := 60r MED",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

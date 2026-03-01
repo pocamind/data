@@ -1,13 +1,13 @@
 {
-  "name": "Prime Ether Bullets",
-  "desc": "Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling.",
-  "rarity": "Advanced",
   "category": "Gunslinger",
-  "reqs": "prime_ether_bullets := 60s INT, 90s LHT",
+  "desc": "Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Prime Ether Bullets",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "prime_ether_bullets := 60s INT, 90s LHT",
   "vaulted": false
 }

@@ -1,14 +1,14 @@
 {
-  "name": "Wyvern's Claw [LHT]",
-  "desc": "You deal 10% more damage while airborne. Mantras receive a 5% bonus to damage instead.",
-  "rarity": "Rare",
   "category": "Aerial Dancer",
-  "reqs": "wyverns_claw_lht := 25r LHT, 15s STR",
+  "desc": "You deal 10% more damage while airborne. Mantras receive a 5% bonus to damage instead.",
   "exclusive": [
     "Wyverns_Claw_HVY",
     "Wyverns_Claw_MED"
   ],
   "innates": {},
+  "name": "Wyvern's Claw [LHT]",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "wyverns_claw_lht := 25r LHT, 15s STR",
   "vaulted": false
 }

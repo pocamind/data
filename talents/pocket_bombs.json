@@ -1,9 +1,6 @@
 {
-  "name": "Pocket Bombs",
-  "desc": "You have a chance to activate a bomb in your inventory when damaged.",
-  "rarity": "Common",
   "category": "Saboteur",
-  "reqs": "family_recipe => pocket_bombs := ()",
+  "desc": "You have a chance to activate a bomb in your inventory when damaged.",
   "exclusive": [
     ""
   ],
@@ -11,6 +8,9 @@
     "Carry Load": 5,
     "Health": 1
   },
+  "name": "Pocket Bombs",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "family_recipe => pocket_bombs := ()",
   "vaulted": false
 }

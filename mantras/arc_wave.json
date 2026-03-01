@@ -1,12 +1,12 @@
 {
-  "name": "Arc Wave",
-  "desc": "Release a wave of energy around you, dealing fire and lightning damage.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Arcwarder"
   ],
+  "category": "Combat",
+  "desc": "Release a wave of energy around you, dealing fire and lightning damage.",
+  "name": "Arc Wave",
   "reqs": "oath_arcwarder => arc_wave := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

@@ -1,9 +1,6 @@
 {
-  "name": "Bulletproof [FTD]",
-  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
-  "rarity": "Common",
   "category": "Gunslinger",
-  "reqs": "bulletproof_ftd := 20r FTD",
+  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
   "exclusive": [
     "Armor_Piercing_LHT",
     "Armor_Piercing_MED",
@@ -11,6 +8,9 @@
     "Bulletproof_MED"
   ],
   "innates": {},
+  "name": "Bulletproof [FTD]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "bulletproof_ftd := 20r FTD",
   "vaulted": false
 }

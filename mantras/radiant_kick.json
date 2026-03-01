@@ -1,12 +1,12 @@
 {
-  "name": "Radiant Kick",
-  "desc": "Kick your foes at the speed of light.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Dawnwalker"
   ],
+  "category": "Combat",
+  "desc": "Kick your foes at the speed of light.",
+  "name": "Radiant Kick",
   "reqs": "oath_dawnwalker => radiant_kick := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

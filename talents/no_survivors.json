@@ -1,13 +1,13 @@
 {
-  "name": "No Survivors",
-  "desc": "Your allies and yourself execute faster while affected by Overcharm.",
-  "rarity": "Common",
   "category": "Tyrant",
-  "reqs": "no_survivors := 45s STR, 80s CHA",
+  "desc": "Your allies and yourself execute faster while affected by Overcharm.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "No Survivors",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "no_survivors := 45s STR, 80s CHA",
   "vaulted": false
 }

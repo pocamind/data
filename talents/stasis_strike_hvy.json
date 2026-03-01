@@ -1,13 +1,13 @@
 {
-  "name": "Stasis Strike [HVY]",
-  "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
-  "rarity": "Common",
   "category": "Ice Age",
-  "reqs": "glass_path_crystallization => stasis_strike_hvy := 90r HVY, 90s ICE",
+  "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Stasis Strike [HVY]",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "glass_path_crystallization => stasis_strike_hvy := 90r HVY, 90s ICE",
   "vaulted": false
 }

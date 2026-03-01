@@ -1,13 +1,13 @@
 {
-  "name": "Absolute Force",
-  "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
-  "rarity": "Faction",
   "category": "Operator's Technique",
-  "reqs": "oppressive_force => absolute_force := ()",
+  "desc": "Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Absolute Force",
   "not_counted_towards_total": true,
+  "rarity": "Faction",
+  "reqs": "oppressive_force => absolute_force := ()",
   "vaulted": false
 }

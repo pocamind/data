@@ -1,16 +1,16 @@
 {
-  "name": "Markor's Inheritor",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "markors_inheritor := 10r STR, 30r HVY",
-  "damage": 24.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 8.0,
-  "range": 8.5,
-  "speed": 0.85,
+  "damage": 24.0,
+  "damage_type": "Slash",
   "endlag": 0.1,
+  "name": "Markor's Inheritor",
+  "pen": 0.1,
+  "range": 8.5,
+  "reqs": "markors_inheritor := 10r STR, 30r HVY",
   "scaling": {
     "Heavy Wep.": 7.0
-  }
+  },
+  "speed": 0.85,
+  "type": "Greatsword",
+  "weight": 8.0
 }

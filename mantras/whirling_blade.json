@@ -1,12 +1,12 @@
 {
-  "name": "Whirling Blade",
-  "desc": "A chitinous scythe to cut through your foes in a whirl.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Monster",
   "attributes": [
     "Monster Mantra"
   ],
+  "category": "Combat",
+  "desc": "A chitinous scythe to cut through your foes in a whirl.",
+  "name": "Whirling Blade",
   "reqs": "whirling_blade := ()",
+  "stars": 0,
+  "type": "Monster",
   "vaulted": false
 }

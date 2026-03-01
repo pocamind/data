@@ -1,23 +1,23 @@
 {
-  "name": "Cloak of Winds",
   "category": "Master",
   "durability": 1200,
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Cloth": 5,
+    "Erisore": 10,
+    "Strange Claw": 2,
+    "Vibrant Gem": 1
+  },
+  "name": "Cloak of Winds",
+  "notes": 0,
+  "reqs": "cloak_of_winds := 165r TTL",
   "resistances": {
     "Elemental Resistance": 0.3,
-    "Shadow Resistance": 0.25,
-    "Physical Resistance": 0.2
+    "Physical Resistance": 0.2,
+    "Shadow Resistance": 0.25
   },
-  "extra_percents": {
-    "Extra Stealth": 0,
-    "Ether Regen": 0
-  },
-  "talent": "Paired Soul",
-  "reqs": "cloak_of_winds := 165r TTL",
-  "mats": {
-    "Vibrant Gem": 1,
-    "Cloth": 5,
-    "Strange Claw": 2,
-    "Erisore": 10
-  },
-  "notes": 0
+  "talent": "Paired Soul"
 }

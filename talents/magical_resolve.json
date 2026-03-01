@@ -1,15 +1,15 @@
 {
-  "name": "Magical Resolve",
-  "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
-  "rarity": "Common",
   "category": "Sturdy Resolve",
-  "reqs": "battle_tendency => magical_resolve := 15s FTD, 40s WLL",
+  "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Sanity": 7
   },
+  "name": "Magical Resolve",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "battle_tendency => magical_resolve := 15s FTD, 40s WLL",
   "vaulted": false
 }

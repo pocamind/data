@@ -1,13 +1,13 @@
 {
-  "name": "Catalytic Strike",
-  "desc": "Posture breaking an enemy will Overload their Surge stacks.",
-  "rarity": "Common",
   "category": "Unstable Capacitor",
-  "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
+  "desc": "Posture breaking an enemy will Overload their Surge stacks.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Catalytic Strike",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
   "vaulted": false
 }

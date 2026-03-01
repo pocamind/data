@@ -1,16 +1,16 @@
 {
-  "name": "Forgotten Gladius",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "forgotten_gladius := 65r MED",
-  "damage": 18.0,
-  "pen": 0.13,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 7.5,
-  "speed": 1.04,
+  "damage": 18.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Forgotten Gladius",
+  "pen": 0.13,
+  "range": 7.5,
+  "reqs": "forgotten_gladius := 65r MED",
   "scaling": {
     "Medium Wep.": 7.5
-  }
+  },
+  "speed": 1.04,
+  "type": "Sword",
+  "weight": 5.0
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Merciless Blade",
-  "desc": "You now execute enemies much faster.",
-  "rarity": "Oath",
   "category": "Silentheart",
-  "reqs": "oath_silentheart => merciless_blade := ()",
+  "desc": "You now execute enemies much faster.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Merciless Blade",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => merciless_blade := ()",
   "vaulted": false
 }

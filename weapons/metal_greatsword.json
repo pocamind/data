@@ -1,16 +1,16 @@
 {
-  "name": "Metal Greatsword",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "metal_greatsword := ()",
-  "damage": 45.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 8.0,
-  "range": 12.0,
-  "speed": 0.8,
+  "damage": 45.0,
+  "damage_type": "Slash",
   "endlag": 0.2,
+  "name": "Metal Greatsword",
+  "pen": 0.0,
+  "range": 12.0,
+  "reqs": "metal_greatsword := ()",
   "scaling": {
     "Heavy Wep.": 0.0
-  }
+  },
+  "speed": 0.8,
+  "type": "Greatsword",
+  "weight": 8.0
 }

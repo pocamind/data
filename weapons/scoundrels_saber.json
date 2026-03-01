@@ -1,16 +1,16 @@
 {
-  "name": "Scoundrel's Saber",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "scoundrels_saber := 55r MED",
-  "damage": 22.0,
-  "pen": 0.0,
   "chip": 0.0,
-  "weight": 5.5,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 22.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Scoundrel's Saber",
+  "pen": 0.0,
+  "range": 8.0,
+  "reqs": "scoundrels_saber := 55r MED",
   "scaling": {
     "Medium Wep.": 4.8
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.5
 }

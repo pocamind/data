@@ -1,17 +1,17 @@
 {
-  "name": "Light's Final Toll",
-  "type": "Fists",
-  "damage_type": "Blunt",
-  "reqs": "lights_final_toll := 35r LHT, 60r WLL",
-  "damage": 12.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 6.5,
-  "speed": 1.1,
+  "damage": 12.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Light's Final Toll",
+  "pen": 0.1,
+  "range": 6.5,
+  "reqs": "lights_final_toll := 35r LHT, 60r WLL",
   "scaling": {
-    "Willpower": 11.0,
-    "Light Wep.": 4.0
-  }
+    "Light Wep.": 4.0,
+    "Willpower": 11.0
+  },
+  "speed": 1.1,
+  "type": "Fists",
+  "weight": 5.0
 }

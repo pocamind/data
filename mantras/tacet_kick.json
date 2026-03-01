@@ -1,12 +1,12 @@
 {
-  "name": "Tacet Kick",
-  "desc": "Slip out of perception and deliver a brutal kick.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Oath",
   "attributes": [
     "Soulbreaker"
   ],
+  "category": "Combat",
+  "desc": "Slip out of perception and deliver a brutal kick.",
+  "name": "Tacet Kick",
   "reqs": "oath_soulbreaker => tacet_kick := ()",
+  "stars": 0,
+  "type": "Oath",
   "vaulted": false
 }

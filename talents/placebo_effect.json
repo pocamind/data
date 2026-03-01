@@ -1,13 +1,13 @@
 {
-  "name": "Placebo Effect",
-  "desc": "Drinking potions near allies will share the potion's effect with them.",
-  "rarity": "Rare",
   "category": "Alchemist",
-  "reqs": "placebo_effect := 60s INT",
+  "desc": "Drinking potions near allies will share the potion's effect with them.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Placebo Effect",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "placebo_effect := 60s INT",
   "vaulted": false
 }

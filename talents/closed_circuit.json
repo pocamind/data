@@ -1,13 +1,13 @@
 {
-  "name": "Closed Circuit",
-  "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
-  "rarity": "Common",
   "category": "Unstable Capacitor",
-  "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
+  "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Closed Circuit",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Shadow Chains",
-  "desc": "Chains of shadow.\t",
-  "stars": 1,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Combat",
+  "desc": "Chains of shadow.\t",
+  "name": "Shadow Chains",
   "reqs": "shadow_chains := 20r SDW",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

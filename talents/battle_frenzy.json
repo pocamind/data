@@ -1,13 +1,13 @@
 {
-  "name": "Battle Frenzy",
-  "desc": "The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.",
-  "rarity": "Common",
   "category": "Weapon",
-  "reqs": "battle_frenzy := ()",
+  "desc": "The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Battle Frenzy",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "battle_frenzy := ()",
   "vaulted": false
 }

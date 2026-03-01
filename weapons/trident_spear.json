@@ -1,16 +1,16 @@
 {
-  "name": "Trident Spear",
-  "type": "Spear",
-  "damage_type": "Slash",
-  "reqs": "trident_spear := 50r MED",
-  "damage": 19.0,
-  "pen": 0.25,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 9.0,
-  "speed": 0.9,
+  "damage": 19.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Trident Spear",
+  "pen": 0.25,
+  "range": 9.0,
+  "reqs": "trident_spear := 50r MED",
   "scaling": {
     "Medium Wep.": 6.0
-  }
+  },
+  "speed": 0.9,
+  "type": "Spear",
+  "weight": 5.0
 }

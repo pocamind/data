@@ -1,17 +1,17 @@
 {
-  "name": "Fractine",
-  "type": "Greatsword",
-  "damage_type": "Slash",
-  "reqs": "fractine := 40r INT, 80r HVY",
-  "damage": 22.0,
-  "pen": 0.25,
   "chip": 0.2,
-  "weight": 6.0,
-  "range": 9.0,
-  "speed": 0.81,
+  "damage": 22.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Fractine",
+  "pen": 0.25,
+  "range": 9.0,
+  "reqs": "fractine := 40r INT, 80r HVY",
   "scaling": {
     "Heavy Wep.": 7.0,
     "Intelligence": 4.0
-  }
+  },
+  "speed": 0.81,
+  "type": "Greatsword",
+  "weight": 6.0
 }

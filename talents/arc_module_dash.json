@@ -1,13 +1,13 @@
 {
-  "name": "Arc Module: Dash",
-  "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
-  "rarity": "Oath",
   "category": "Arcwarder",
-  "reqs": "oath_arcwarder => arc_module_dash := ()",
+  "desc": "When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Arc Module: Dash",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_dash := ()",
   "vaulted": false
 }

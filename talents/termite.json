@@ -1,15 +1,15 @@
 {
-  "name": "Termite",
-  "desc": "You can eat things most would consider inedible.",
-  "rarity": "Common",
   "category": "Survival Instinct",
-  "reqs": "termite := 10s WLL, 20s FTD",
+  "desc": "You can eat things most would consider inedible.",
   "exclusive": [
     ""
   ],
   "innates": {
     "Health": 3
   },
+  "name": "Termite",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "termite := 10s WLL, 20s FTD",
   "vaulted": false
 }

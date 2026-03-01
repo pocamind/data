@@ -1,13 +1,13 @@
 {
-  "name": "Hemolysis",
-  "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
-  "rarity": "Common",
   "category": "Septicemia",
-  "reqs": "hemolysis := 25s STR, 40s BLD",
+  "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Hemolysis",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "hemolysis := 25s STR, 40s BLD",
   "vaulted": false
 }

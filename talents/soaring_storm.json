@@ -1,13 +1,13 @@
 {
-  "name": "Soaring Storm",
-  "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an oath ability.",
-  "rarity": "Oath",
   "category": "Bladeharper",
-  "reqs": "oath_bladeharper => soaring_storm := ()",
+  "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an oath ability.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Soaring Storm",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => soaring_storm := ()",
   "vaulted": false
 }

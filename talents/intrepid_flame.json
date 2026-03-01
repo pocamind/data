@@ -1,13 +1,13 @@
 {
-  "name": "Intrepid Flame",
-  "desc": "Flames wear off twice as fast on you.",
-  "rarity": "Outfit",
   "category": "Flamecharmer",
-  "reqs": "intrepid_flame := ()",
+  "desc": "Flames wear off twice as fast on you.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Intrepid Flame",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "intrepid_flame := ()",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Sanguine Dive",
-  "desc": "Create or jump into a pool of blood.",
-  "stars": 1,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Mobility",
+  "desc": "Create or jump into a pool of blood.",
+  "name": "Sanguine Dive",
   "reqs": "sanguine_dive := 20r BLD",
+  "stars": 1,
+  "type": "Attunement",
   "vaulted": false
 }

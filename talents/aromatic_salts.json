@@ -1,13 +1,13 @@
 {
-  "name": "Aromatic Salts",
-  "desc": "Alter your brews to create lingering clouds of mist on shattering . Does not count towards the ingredient limit.",
-  "rarity": "Oath",
   "category": "Saltchemist",
-  "reqs": "oath_saltchemist => aromatic_salts := ()",
+  "desc": "Alter your brews to create lingering clouds of mist on shattering . Does not count towards the ingredient limit.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Aromatic Salts",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_saltchemist => aromatic_salts := ()",
   "vaulted": false
 }

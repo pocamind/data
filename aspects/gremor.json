@@ -1,8 +1,8 @@
 {
-  "name": "Gremor",
   "innate": {
-    "Strength": 2,
-    "Fortitude": 3
+    "Fortitude": 3,
+    "Strength": 2
   },
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "name": "Gremor"
 }

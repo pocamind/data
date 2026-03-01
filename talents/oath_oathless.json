@@ -1,16 +1,16 @@
 {
-  "name": "Oath: Oathless",
-  "desc": "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
-  "rarity": "Oath",
   "category": "Oathless",
-  "reqs": "oath_oathless := ()",
+  "desc": "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
   "exclusive": [
     ""
   ],
   "innates": {
-    "Wildcard Mantra": 2,
-    "Health": 10
+    "Health": 10,
+    "Wildcard Mantra": 2
   },
+  "name": "Oath: Oathless",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_oathless := ()",
   "vaulted": false
 }

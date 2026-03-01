@@ -1,13 +1,13 @@
 {
-  "name": "Concussion",
-  "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.",
-  "rarity": "Rare",
   "category": "Duelist",
-  "reqs": "concussion := 15s FTD, 20s STR",
+  "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Concussion",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "concussion := 15s FTD, 20s STR",
   "vaulted": false
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Gale Wisp",
-  "desc": "A servant of wind.\nReduces fall damage by 20%.\nWith Specter Path, restores your  Spectral Gauge.\nWith Haunted Gale, increases the duration of your Phantoms by 3s.",
-  "stars": 2,
-  "category": "Wisp",
-  "type": "Attunement",
   "attributes": [
     "Galebreathe"
   ],
+  "category": "Wisp",
+  "desc": "A servant of wind.\nReduces fall damage by 20%.\nWith Specter Path, restores your  Spectral Gauge.\nWith Haunted Gale, increases the duration of your Phantoms by 3s.",
+  "name": "Gale Wisp",
   "reqs": "gale_wisp := 30r WND",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

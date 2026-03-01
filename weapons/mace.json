@@ -1,16 +1,16 @@
 {
-  "name": "Mace",
-  "type": "Club",
-  "damage_type": "Blunt",
-  "reqs": "mace := 10r MED",
-  "damage": 20.0,
-  "pen": 0.05,
   "chip": 0.0,
-  "weight": 6.0,
-  "range": 7.5,
-  "speed": 0.93,
+  "damage": 20.0,
+  "damage_type": "Blunt",
   "endlag": 0.0,
+  "name": "Mace",
+  "pen": 0.05,
+  "range": 7.5,
+  "reqs": "mace := 10r MED",
   "scaling": {
     "Medium Wep.": 5.0
-  }
+  },
+  "speed": 0.93,
+  "type": "Club",
+  "weight": 6.0
 }

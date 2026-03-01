@@ -1,13 +1,13 @@
 {
-  "name": "Diver's Resilience",
-  "desc": "You can parry unparryable attack from giant monsters, but due to the heft of the plate you have slightly reduced speed.",
-  "rarity": "Equipment",
   "category": "Miscellaneous",
-  "reqs": "divers_resilience := ()",
+  "desc": "You can parry unparryable attack from giant monsters, but due to the heft of the plate you have slightly reduced speed.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Diver's Resilience",
   "not_counted_towards_total": false,
+  "rarity": "Equipment",
+  "reqs": "divers_resilience := ()",
   "vaulted": false
 }

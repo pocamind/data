@@ -1,13 +1,13 @@
 {
-  "name": "Expert Bloodrender",
-  "desc": "You can now obtain 2-star Bloodrender mantras.",
-  "rarity": "Common",
   "category": "Bloodrender",
-  "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
+  "desc": "You can now obtain 2-star Bloodrender mantras.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Expert Bloodrender",
   "not_counted_towards_total": true,
+  "rarity": "Common",
+  "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
   "vaulted": false
 }

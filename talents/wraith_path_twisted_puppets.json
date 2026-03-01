@@ -1,15 +1,15 @@
 {
-  "name": "Wraith Path: Twisted Puppets",
-  "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
-  "rarity": "Common",
   "category": "Twisted Puppets",
-  "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
+  "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
   "exclusive": [
     "Eruption_Path_Lava_Serpent",
     "Azure_Flames",
     "Flashboil"
   ],
   "innates": {},
+  "name": "Wraith Path: Twisted Puppets",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
   "vaulted": false
 }

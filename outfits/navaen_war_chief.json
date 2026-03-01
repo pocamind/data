@@ -1,27 +1,27 @@
 {
-  "name": "Navaen War Chief",
   "category": "Master",
   "durability": 3000,
-  "resistances": {
-    "Ice Resistance": 0.1,
-    "Physical Resistance": 0.3,
-    "Shadow Resistance": 0.05,
-    "Elemental Resistance": 0.3
-  },
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 50
   },
-  "talent": "Chief's Will",
-  "reqs": "navaen_war_chief := 240r TTL",
   "mats": {
-    "Fiber": 5,
     "Cloth": 5,
     "Erisore": 8,
-    "Odd Tentacle": 1,
-    "Wind Gem": 1,
+    "Fiber": 5,
     "Frigid Prisms": 2,
-    "Thresher Spine": 2
+    "Odd Tentacle": 1,
+    "Thresher Spine": 2,
+    "Wind Gem": 1
   },
-  "notes": 1000
+  "name": "Navaen War Chief",
+  "notes": 1000,
+  "reqs": "navaen_war_chief := 240r TTL",
+  "resistances": {
+    "Elemental Resistance": 0.3,
+    "Ice Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Shadow Resistance": 0.05
+  },
+  "talent": "Chief's Will"
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Flame Leap",
-  "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
-  "stars": 2,
-  "category": "Mobility",
-  "type": "Attunement",
   "attributes": [
     "Flamecharm"
   ],
+  "category": "Mobility",
+  "desc": "Leap up leaving behind a burst of flames. Those nearby are dragged up too.",
+  "name": "Flame Leap",
   "reqs": "flame_leap := 30r FLM",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

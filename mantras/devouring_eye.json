@@ -1,12 +1,12 @@
 {
-  "name": "Devouring Eye",
-  "desc": "Summon a fragile eye that consumes the ether of those who try to cast mantras within it's gaze.",
-  "stars": 2,
-  "category": "Support",
-  "type": "Attunement",
   "attributes": [
     "Shadowcast"
   ],
+  "category": "Support",
+  "desc": "Summon a fragile eye that consumes the ether of those who try to cast mantras within it's gaze.",
+  "name": "Devouring Eye",
   "reqs": "devouring_eye := 30r SDW",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

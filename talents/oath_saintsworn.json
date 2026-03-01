@@ -1,17 +1,17 @@
 {
-  "name": "Oath: Saintsworn",
-  "desc": "A vow to the fallen heroes. Press L to swap to Saintsblade.",
-  "rarity": "Oath",
   "category": "Saintsworn",
-  "reqs": "oath_saintsworn := 15s ICE, 15s FLM, 15s LTN, 15s WND, 15s SDW",
+  "desc": "A vow to the fallen heroes. Press L to swap to Saintsblade.",
   "exclusive": [
     ""
   ],
   "innates": {
-    "Support Mantra Slot": 2,
     "Combat Mantra Slot": 2,
+    "Support Mantra Slot": 2,
     "Wildcard Mantra Slot": 1
   },
+  "name": "Oath: Saintsworn",
   "not_counted_towards_total": false,
+  "rarity": "Oath",
+  "reqs": "oath_saintsworn := 15s ICE, 15s FLM, 15s LTN, 15s WND, 15s SDW",
   "vaulted": false
 }

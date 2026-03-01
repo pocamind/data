@@ -1,13 +1,13 @@
 {
-  "name": "Crippling Darkness",
-  "desc": "Your non-basic attacks have 20% PEN.",
-  "rarity": "Outfit",
   "category": "Ministry Prophet",
-  "reqs": "crippling_darkness := ()",
+  "desc": "Your non-basic attacks have 20% PEN.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Crippling Darkness",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "crippling_darkness := ()",
   "vaulted": false
 }

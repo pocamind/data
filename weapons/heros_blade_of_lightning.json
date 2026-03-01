@@ -1,16 +1,16 @@
 {
-  "name": "Hero's Blade Of Lightning",
-  "type": "Sword",
-  "damage_type": "Slash",
-  "reqs": "heros_blade_of_lightning := 100r LTN",
-  "damage": 19.0,
-  "pen": 0.1,
   "chip": 0.0,
-  "weight": 5.0,
-  "range": 8.0,
-  "speed": 1.0,
+  "damage": 19.0,
+  "damage_type": "Slash",
   "endlag": 0.0,
+  "name": "Hero's Blade Of Lightning",
+  "pen": 0.1,
+  "range": 8.0,
+  "reqs": "heros_blade_of_lightning := 100r LTN",
   "scaling": {
     "Thundercall": 5.5
-  }
+  },
+  "speed": 1.0,
+  "type": "Sword",
+  "weight": 5.0
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Justicar's Prowess",
-  "desc": "Jus Karita +30% posture damage against other fist styles.",
-  "rarity": "Common",
   "category": "Justicar",
-  "reqs": "jus_karita => justicars_prowess := ()",
+  "desc": "Jus Karita +30% posture damage against other fist styles.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Justicar's Prowess",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "jus_karita => justicars_prowess := ()",
   "vaulted": false
 }

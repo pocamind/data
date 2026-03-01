@@ -1,12 +1,12 @@
 {
-  "name": "Coral Spear",
-  "desc": "Fire corals all around you.",
-  "stars": 0,
-  "category": "Combat",
-  "type": "Monster",
   "attributes": [
     "Monster Mantra"
   ],
+  "category": "Combat",
+  "desc": "Fire corals all around you.",
+  "name": "Coral Spear",
   "reqs": "coral_spear := ()",
+  "stars": 0,
+  "type": "Monster",
   "vaulted": false
 }

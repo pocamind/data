@@ -1,12 +1,12 @@
 {
-  "name": "Sing",
-  "desc": "Charm those around you with your powerful voice.        \n",
-  "stars": 0,
-  "category": "Support",
-  "type": "Attunementless",
   "attributes": [
     "Charisma"
   ],
+  "category": "Support",
+  "desc": "Charm those around you with your powerful voice.        \n",
+  "name": "Sing",
   "reqs": "sing := 25r CHA",
+  "stars": 0,
+  "type": "Attunementless",
   "vaulted": false
 }

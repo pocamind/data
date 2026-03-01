@@ -1,12 +1,12 @@
 {
-  "name": "Soulflare Siphon",
-  "desc": "Grab and siphon the blood out of your victim.",
-  "stars": 2,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Bloodrend"
   ],
+  "category": "Combat",
+  "desc": "Grab and siphon the blood out of your victim.",
+  "name": "Soulflare Siphon",
   "reqs": "soulflare_siphon := 30r BLD",
+  "stars": 2,
+  "type": "Attunement",
   "vaulted": false
 }

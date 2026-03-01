@@ -1,12 +1,12 @@
 {
-  "name": "Metal Armament",
-  "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
-  "stars": 3,
-  "category": "Combat",
-  "type": "Attunement",
   "attributes": [
     "Ironsing"
   ],
+  "category": "Combat",
+  "desc": "Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, it will swing a Kyrscleave-like Greatsword upon m1 (with an interval of 3s).",
+  "name": "Metal Armament",
   "reqs": "metal_armament := 50r MTL",
+  "stars": 3,
+  "type": "Attunement",
   "vaulted": false
 }

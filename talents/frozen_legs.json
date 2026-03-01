@@ -1,13 +1,13 @@
 {
-  "name": "Frozen Legs",
-  "desc": "Your slow effect prevents opponents from rolling.",
-  "rarity": "Rare",
   "category": "Frozen Warrior",
-  "reqs": "frostdrawer => frozen_legs := 60s ICE",
+  "desc": "Your slow effect prevents opponents from rolling.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Frozen Legs",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "frostdrawer => frozen_legs := 60s ICE",
   "vaulted": false
 }

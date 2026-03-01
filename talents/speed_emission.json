@@ -1,13 +1,13 @@
 {
-  "name": "Speed Emission",
-  "desc": "Gain a slight speed boost after landing a vent.",
-  "rarity": "Common",
   "category": "Nimble Blade",
-  "reqs": "speed_emission := 25s AGL",
+  "desc": "Gain a slight speed boost after landing a vent.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Speed Emission",
   "not_counted_towards_total": false,
+  "rarity": "Common",
+  "reqs": "speed_emission := 25s AGL",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Battle-Hardened",
-  "desc": "20% damage reduction to Mantra guardbreaks.",
-  "rarity": "Outfit",
   "category": "Miscellaneous",
-  "reqs": "battle_hardened := ()",
+  "desc": "20% damage reduction to Mantra guardbreaks.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Battle-Hardened",
   "not_counted_towards_total": false,
+  "rarity": "Outfit",
+  "reqs": "battle_hardened := ()",
   "vaulted": false
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Dazing Finisher",
-  "desc": "Flourishing enemies that are charmed by you causes them to not be knocked back and be dazed instead.\n[*This talent loses some effect below its investment cost.]",
-  "rarity": "Advanced",
   "category": "Charm Caster",
-  "reqs": "charismatic_cast, tough_love, chaotic_charm, lasting_charisma => dazing_finisher := 55s CHA",
+  "desc": "Flourishing enemies that are charmed by you causes them to not be knocked back and be dazed instead.\n[*This talent loses some effect below its investment cost.]",
   "exclusive": [
     "Bulldozer"
   ],
   "innates": {},
+  "name": "Dazing Finisher",
   "not_counted_towards_total": false,
+  "rarity": "Advanced",
+  "reqs": "charismatic_cast, tough_love, chaotic_charm, lasting_charisma => dazing_finisher := 55s CHA",
   "vaulted": false
 }

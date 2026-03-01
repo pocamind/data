@@ -1,13 +1,13 @@
 {
-  "name": "Lord's Tithe",
-  "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast.",
-  "rarity": "Rare",
   "category": "Comrade",
-  "reqs": "lords_tithe := 40s FTD, 40s SDW",
+  "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast.",
   "exclusive": [
     ""
   ],
   "innates": {},
+  "name": "Lord's Tithe",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "lords_tithe := 40s FTD, 40s SDW",
   "vaulted": false
 }

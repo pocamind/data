@@ -1,13 +1,13 @@
 {
-  "name": "Potion Quaffer [WIL]",
-  "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
-  "rarity": "Rare",
   "category": "Alchemist",
-  "reqs": "potion_quaffer_wil := 15r WLL, 30s INT",
+  "desc": "You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows you down less and grants superior regenerative effects to you.",
   "exclusive": [
     "Potion_Quaffer_FTD"
   ],
   "innates": {},
+  "name": "Potion Quaffer [WIL]",
   "not_counted_towards_total": false,
+  "rarity": "Rare",
+  "reqs": "potion_quaffer_wil := 15r WLL, 30s INT",
   "vaulted": false
 }
