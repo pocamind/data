@@ -1,0 +1,15 @@
+{
+  "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s.\n[*Note: 10s to 15s CD between 50 and 100 Agility.]",
+  "name": "Crippling Comeuppance",
+  "reqs": "crippling_comeuppance := 100s AGL",
+  "rarity": "Advanced",
+  "innates": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "category": "Trickster",
+  "exclusive": [
+    ""
+  ],
+  "not_counted_towards_total": false
+}
