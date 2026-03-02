@@ -7,6 +7,7 @@ use std::sync::atomic::Ordering;
 
 use anyhow::Result;
 use deepwoken::data::DeepData;
+use deepwoken::req::Requirement;
 use deepwoken::util::name_to_identifier;
 use serde_json::Value;
 
@@ -46,6 +47,7 @@ fn main() {
 
 fn validate(bundle: &Value) {
     check_identifiers(bundle);
+    check_reqs_parsable(bundle);
     check_parsable(bundle);
 }
 
@@ -67,6 +69,28 @@ fn check_identifiers(bundle: &Value) {
                 key == &expected,
                 "{category}/{key}: identifier mismatch, name '{name}' produces '{expected}'"
             );
+        }
+    }
+}
+
+fn check_reqs_parsable(bundle: &Value) {
+    let Some(categories) = check!(bundle.as_object(), "bundle should be an object") else { return };
+
+    for (category, items) in categories {
+        let Some(items) = check!(items.as_object(), "{category}: should be an object") else { continue };
+
+        for (key, entry) in items {
+            if let Some(req_field) = entry.get("reqs") {
+                let Some(req_str) = check!(
+                    req_field.as_str(),
+                    "{category}/{key}: 'req' field is not a string"
+                ) else { continue };
+
+                check!(
+                    Requirement::parse(req_str),
+                    "'{req_str}' is not a valid parsable requirement"
+                );
+            }
         }
     }
 }
