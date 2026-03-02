@@ -1,0 +1,13 @@
+{
+  "desc": "Gain additional PEN and remove the cap on your PEN. Go beyond your limits.\n[*The amount of additional PEN received scales with your Intelligence.]",
+  "name": "Ether Overdrive",
+  "reqs": "ether_overdrive := (20r FLM or 20r ICE or 20r SDW or 20r LTN or 20r WND or 20r MTL or 20r BLD), 90s INT",
+  "rarity": "Advanced",
+  "innates": {},
+  "vaulted": false,
+  "category": "Songmaster",
+  "exclusive": [
+    "Million_Ton_Piercer"
+  ],
+  "not_counted_towards_total": false
+}

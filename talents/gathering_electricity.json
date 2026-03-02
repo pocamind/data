@@ -1,0 +1,13 @@
+{
+  "desc": "[Medium Weapons] Reaching 5 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown.",
+  "name": "Gathering Electricity",
+  "reqs": "static_blade => gathering_electricity := 25r AGL or 25r STR, 65s LTN",
+  "rarity": "Common",
+  "innates": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "category": "Thunderblade",
+  "exclusive": [],
+  "not_counted_towards_total": false
+}
