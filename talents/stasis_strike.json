@@ -1,0 +1,13 @@
+{
+  "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+  "name": "Stasis Strike",
+  "reqs": "glass_path_crystallization => stasis_strike := 90r LHT or 90r MED or 90r HVY, 90s ICE",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Ice Age",
+  "exclusive": [
+    ""
+  ],
+  "not_counted_towards_total": false
+}

@@ -1,7 +1,7 @@
 {
   "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
   "name": "Grounding Bolt",
-  "reqs": "grounding_bolt := 90r LHT or 90r HVY or 90r MED, 90s LTN",
+  "reqs": "grounding_bolt := 90r HVY or 90r LHT or 90r MED, 90s LTN",
   "rarity": "Common",
   "innates": {},
   "vaulted": false,

@@ -1,0 +1,11 @@
+{
+  "desc": "You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.",
+  "name": "Survival Kit",
+  "reqs": "survival_kit := 20r CHA or 20r INT or 20r WLL",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Master Survivalist",
+  "exclusive": [],
+  "not_counted_towards_total": false
+}

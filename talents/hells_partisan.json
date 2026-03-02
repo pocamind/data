@@ -1,0 +1,13 @@
+{
+  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+  "name": "Hell's Partisan",
+  "reqs": "warding_radiance => hells_partisan := 35s FLM",
+  "rarity": "Common",
+  "innates": {
+    "Sanity": 4
+  },
+  "vaulted": false,
+  "category": "Flame Warden",
+  "exclusive": [],
+  "not_counted_towards_total": false
+}

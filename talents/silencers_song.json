@@ -1,7 +1,7 @@
 {
   "desc": "Silencer's Blade now procs on your mantras.",
   "name": "Silencer's Song",
-  "reqs": "silencers_blade => silencers_song := 100r HVY or 100r MED or 100r LHT, 100s WND",
+  "reqs": "silencers_blade => silencers_song := 100r MED or 100r HVY or 100r LHT, 100s WND",
   "rarity": "Common",
   "innates": {},
   "vaulted": false,
