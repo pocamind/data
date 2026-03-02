@@ -4,7 +4,7 @@
     "Fiber": 3,
     "Irithine": 2
   },
-  "name": "Inexperienced Adventurer",
+  "name": "Experienced Adventurer",
   "reqs": "experienced_adventurer := 90r TTL",
   "notes": 25,
   "talent": "Looter",
