@@ -1,0 +1,13 @@
+{
+  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+  "name": "Bulletproof",
+  "reqs": "bulletproof := 20r MED or 20r LHT or 20r FTD",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Gunslinger",
+  "exclusive": [
+    "Armor_Piercing"
+  ],
+  "not_counted_towards_total": false
+}
