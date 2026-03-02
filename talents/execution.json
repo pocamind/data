@@ -1,16 +1,13 @@
 {
   "desc": "Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.",
-  "name": "Execution [MED]",
-  "reqs": "execution_med := 90r MED",
+  "name": "Execution",
+  "reqs": "execution := 90 LHT, 90r MED or 90r HVY",
   "rarity": "Rare",
   "innates": {},
   "vaulted": false,
   "category": "Gunslinger",
   "exclusive": [
-    "Hip_Shooter_MED",
-    "Hip_Shooter_HVY",
-    "Execution_HVY",
-    "Execution_LHT"
+    "Hip_Shooter"
   ],
   "not_counted_towards_total": false
 }

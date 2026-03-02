@@ -1,0 +1,11 @@
+{
+  "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from using Rush Hour.",
+  "name": "Enhanced Flow",
+  "reqs": "rush_hour => enhanced_flow := 90r MED or 90r HVY or 90r LHT, 90s BLD",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Sanguine Wager",
+  "exclusive": [],
+  "not_counted_towards_total": false
+}
