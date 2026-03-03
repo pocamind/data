@@ -1,17 +1,17 @@
 {
-  "chip": 0.0,
-  "damage": 13.0,
-  "damage_type": "Slash",
-  "endlag": 0.0,
-  "name": "Coldpoint",
   "pen": 0.1,
-  "range": 8.0,
+  "chip": 0,
+  "name": "Coldpoint",
   "reqs": "coldpoint := 25r ICE, 70r LHT",
-  "scaling": {
-    "Frostdraw": 3.0,
-    "Light Wep.": 7.0
-  },
-  "speed": 1.06,
   "type": "Rapier",
-  "weight": 4.0
+  "range": 8,
+  "speed": 1.06,
+  "damage": 15,
+  "endlag": 0,
+  "weight": 4,
+  "scaling": {
+    "Frostdraw": 5,
+    "Light Wep.": 7
+  },
+  "damage_type": "Slash"
 }

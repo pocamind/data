@@ -1,18 +1,18 @@
 {
-  "chip": 0.0,
-  "damage": 14.0,
-  "damage_type": "Blunt",
-  "endlag": 0.0,
-  "name": "Rimebreakers",
   "pen": 0.05,
-  "range": 6.0,
+  "chip": 0,
+  "name": "Rimebreakers",
   "reqs": "rimebreakers := 50r LHT, 50r ICE, 50r WND",
+  "type": "Fists",
+  "range": 6,
+  "speed": 1.1,
+  "damage": 16.5,
+  "endlag": 0,
+  "weight": 5,
   "scaling": {
     "Frostdraw": 3.5,
-    "Galebreathe": 3.5,
-    "Light Wep.": 5.0
+    "Light Wep.": 5,
+    "Galebreathe": 3.5
   },
-  "speed": 1.1,
-  "type": "Fists",
-  "weight": 5.0
+  "damage_type": "Blunt"
 }
