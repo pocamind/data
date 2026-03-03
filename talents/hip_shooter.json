@@ -1,0 +1,13 @@
+{
+  "name": "Hip Shooter",
+  "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.",
+  "rarity": "Rare",
+  "category": "Gunslinger",
+  "reqs": "hip_shooter: 50r HVY or 50r MED, 25s LHT",
+  "exclusive": [
+    "Execution"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}
