@@ -1,15 +1,15 @@
 {
-  "category": "Heretic",
-  "desc": "Your All the Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.",
-  "exclusive": [
-    ""
-  ],
+  "desc": "Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE Heal Boost to 10% instead.",
+  "name": "Sin Stacker",
+  "reqs": "all_the_dead_gods => sin_stacker := 90s WLL",
+  "rarity": "Rare",
   "innates": {
     "Sanity": 8
   },
-  "name": "Sin Stacker",
-  "not_counted_towards_total": false,
-  "rarity": "Rare",
-  "reqs": "all_the_dead_gods => sin_stacker := 90s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "category": "Heretic",
+  "exclusive": [
+    ""
+  ],
+  "not_counted_towards_total": false
 }
