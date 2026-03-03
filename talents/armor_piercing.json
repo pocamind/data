@@ -1,0 +1,13 @@
+{
+  "name": "Armor Piercing",
+  "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.",
+  "rarity": "Rare",
+  "category": "Gunslinger",
+  "reqs": "armor_piercing := 30r LHT or 30r MED",
+  "exclusive": [
+    "Bulletproof"
+  ],
+  "innates": {},
+  "not_counted_towards_total": false,
+  "vaulted": false
+}
