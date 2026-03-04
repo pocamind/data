@@ -1,13 +1,13 @@
 {
-  "category": "Summer Company",
   "desc": "Your bullets ricochet to a nearby enemy when hitting an opponent.\n[*Note: Hits up to two people.]",
+  "name": "Sunset Ricochet",
+  "reqs": "sunset_ricochet := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Summer Company",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Sunset Ricochet",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "sunset_ricochet := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

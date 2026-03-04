@@ -1,13 +1,13 @@
 {
-  "category": "Pathfinder",
   "desc": "Resist the effects of some weather events.",
+  "name": "Environmentalist",
+  "reqs": "environmentalist := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Pathfinder",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Environmentalist",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "environmentalist := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

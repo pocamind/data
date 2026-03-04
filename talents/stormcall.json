@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.",
+  "name": "Stormcall",
+  "reqs": "stormcall := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Stormcall",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "stormcall := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

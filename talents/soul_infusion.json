@@ -1,13 +1,13 @@
 {
-  "category": "Soulbreaker",
   "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.",
+  "name": "Soul Infusion",
+  "reqs": "oath_soulbreaker => soul_infusion := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Soulbreaker",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Soul Infusion",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_soulbreaker => soul_infusion := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

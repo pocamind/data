@@ -1,13 +1,13 @@
 {
-  "category": "Jetstriker",
   "desc": "When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.",
+  "name": "Decisive Winds",
+  "reqs": "oath_jetstriker => decisive_winds := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Jetstriker",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Decisive Winds",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_jetstriker => decisive_winds := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

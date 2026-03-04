@@ -1,13 +1,13 @@
 {
-  "category": "Chainwarden",
   "desc": "On flourish, gain the ability to summon a chain on an enemy for 5 seconds by right clicking. This lets you whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.",
+  "name": "Chainlash",
+  "reqs": "oath_chainwarden => chainlash := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Chainwarden",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Chainlash",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_chainwarden => chainlash := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

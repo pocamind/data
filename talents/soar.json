@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Retain full walkspeed while using your crit.\n[*Note; This Talent makes you retain full momentum, not walkspeed. It does not work with Motifs.]",
+  "name": "Soar",
+  "reqs": "soar := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Soar",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "soar := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

@@ -1,13 +1,13 @@
 {
-  "category": "Legion Shock Trooper",
   "desc": "Your Legion Kata attacks deal 10% more damage.",
+  "name": "Centurion's Resolve",
+  "reqs": "centurions_resolve := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Legion Shock Trooper",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Centurion's Resolve",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "centurions_resolve := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

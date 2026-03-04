@@ -1,13 +1,13 @@
 {
-  "category": "Navaen Nomad",
   "desc": "Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.",
+  "name": "Way of Navae",
+  "reqs": "way_of_navae := ()",
+  "rarity": "Quest",
+  "innates": {},
+  "vaulted": false,
+  "category": "Navaen Nomad",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Way of Navae",
-  "not_counted_towards_total": false,
-  "rarity": "Quest",
-  "reqs": "way_of_navae := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

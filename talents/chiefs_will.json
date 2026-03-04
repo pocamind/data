@@ -1,13 +1,13 @@
 {
-  "category": "Navaen War Chief",
   "desc": "Your Way of Navae light attacks have 25% additional penetration.",
+  "name": "Chief's Will",
+  "reqs": "chiefs_will := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Navaen War Chief",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Chief's Will",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "chiefs_will := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

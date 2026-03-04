@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Your critical attack cooldown is 20% shorter. but your Resonance cooldown is double as long. In areas where your Resonance is suppresed. reduces your cooldown by 5% instead",
+  "name": "Actions Speak Louder",
+  "reqs": "actions_speak_louder := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Actions Speak Louder",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "actions_speak_louder := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

@@ -1,13 +1,13 @@
 {
-  "category": "Saltchemist",
   "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+  "name": "Antithetic Salts",
+  "reqs": "oath_saltchemist => antithetic_salts := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Saltchemist",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Antithetic Salts",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_saltchemist => antithetic_salts := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

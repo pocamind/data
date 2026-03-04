@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Doubles your ore yields when mining.",
+  "name": "Rock Blaster",
+  "reqs": "rock_blaster := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Rock Blaster",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "rock_blaster := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }
