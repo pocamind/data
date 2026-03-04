@@ -1,0 +1,11 @@
+{
+  "desc": "Activate to make your light attacks teleport to the closest enemy nearby. [100s CD]",
+  "name": "Bane",
+  "reqs": "bane := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}
