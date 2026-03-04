@@ -1,0 +1,8 @@
+{
+  "name": "Karita Leap",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[30,33,36,39,42][BLUNT][1.65:LHT]",
+  "derives": [],
+  "pve_multiplier": 0
+}
