@@ -1,0 +1,8 @@
+{
+  "name": "Rapid Slashes",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[12,14,16,18,20][SLASH][1.65:LHT] -> [4,4.67,5.33,6,6.67][SLASH][1.65:LHT]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
