@@ -1,8 +1,11 @@
 {
+  "name": "Gremor",
   "innate": {
-    "Fortitude": 3,
-    "Strength": 2
+    "Strength": 2,
+    "Fortitude": 3
   },
-  "is_pathfinder": true,
-  "name": "Gremor"
+  "talent": [
+    "Navae's Guidance"
+  ],
+  "is_pathfinder": true
 }

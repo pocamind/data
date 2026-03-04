@@ -1,8 +1,11 @@
 {
+  "name": "Chrysid",
   "innate": {
     "Agility": 2,
     "Charisma": 3
   },
-  "is_pathfinder": true,
-  "name": "Chrysid"
+  "talent": [
+    "Mothwing Dust"
+  ],
+  "is_pathfinder": true
 }
