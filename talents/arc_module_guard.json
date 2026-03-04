@@ -1,13 +1,13 @@
 {
-  "category": "Arcwarder",
   "desc": "Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.",
+  "name": "Arc Module: Guard",
+  "reqs": "oath_arcwarder => arc_module_guard := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Arcwarder",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Arc Module: Guard",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_arcwarder => arc_module_guard := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

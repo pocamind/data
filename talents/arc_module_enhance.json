@@ -1,0 +1,11 @@
+{
+  "desc": "In Arc Suit, your Arcwarder Mantras deal increased damage.",
+  "name": "Arc Module: Enhance",
+  "reqs": "oath_arcwarder => arc_module_enhance := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Arcwarder",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}

@@ -1,0 +1,11 @@
+{
+  "desc": "Landing a successful Critical Attack or Flourish will corrode 5% of your opponent's Armor.",
+  "name": "Corrosive Touch",
+  "reqs": "corrosive_touch := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}

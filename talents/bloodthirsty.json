@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.",
+  "name": "Bloodthirsty",
+  "reqs": "bloodthirsty := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Bloodthirsty",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "bloodthirsty := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }
