@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.",
+  "name": "Sovereign's Counter",
+  "reqs": "sovereigns_counter := ()",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Sovereign's Counter",
-  "not_counted_towards_total": false,
-  "rarity": "Common",
-  "reqs": "sovereigns_counter := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

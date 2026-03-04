@@ -1,13 +1,13 @@
 {
-  "category": "Fadetrimmer",
   "desc": "What type of look are we going for today?",
+  "name": "Barber's Skillset",
+  "reqs": "oath_fadetrimmer => barbers_skillset := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Fadetrimmer",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Barber's Skillset",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_fadetrimmer => barbers_skillset := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

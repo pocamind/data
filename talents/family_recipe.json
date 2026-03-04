@@ -1,13 +1,13 @@
 {
-  "category": "Saboteur",
   "desc": "You can now craft bombs at a crafting bench.",
+  "name": "Family Recipe",
+  "reqs": "family_recipe := ()",
+  "rarity": "Quest",
+  "innates": {},
+  "vaulted": false,
+  "category": "Saboteur",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Family Recipe",
-  "not_counted_towards_total": false,
-  "rarity": "Quest",
-  "reqs": "family_recipe := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

@@ -1,13 +1,13 @@
 {
-  "category": "Silentheart",
   "desc": "Press CTRL + M2 to activate a special uppercut attack.",
+  "name": "Rising Star",
+  "reqs": "oath_silentheart => rising_star := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Silentheart",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Rising Star",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_silentheart => rising_star := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

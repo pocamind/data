@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Increase how quick you release your Prominence Draw.",
+  "name": "Blitz",
+  "reqs": "blitz := ()",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Blitz",
-  "not_counted_towards_total": false,
-  "rarity": "Common",
-  "reqs": "blitz := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

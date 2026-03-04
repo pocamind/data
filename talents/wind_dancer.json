@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.",
+  "name": "Wind Dancer",
+  "reqs": "windrunner_robes => wind_dancer := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Wind Dancer",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "windrunner_robes => wind_dancer := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

@@ -1,13 +1,13 @@
 {
-  "category": "Saintsworn",
   "desc": "After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers [are] increased by 10%.",
+  "name": "Saint's Overload",
+  "reqs": "oath_saintsworn => saints_overload := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Saintsworn",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Saint's Overload",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_saintsworn => saints_overload := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

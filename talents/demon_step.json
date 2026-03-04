@@ -1,0 +1,11 @@
+{
+  "desc": "Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.",
+  "name": "Demon Step",
+  "reqs": "demon_step := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Equipment",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}

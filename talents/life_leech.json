@@ -1,0 +1,11 @@
+{
+  "desc": "Your summons now heal you each time they deal damage",
+  "name": "Life Leech",
+  "reqs": "life_leech := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}

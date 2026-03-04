@@ -1,13 +1,13 @@
 {
-  "category": "Ignition Union",
   "desc": "You can now make use of the Ignition Union hooks to ascend or descend.",
+  "name": "Union Hook",
+  "reqs": "union_hook := ()",
+  "rarity": "Quest",
+  "innates": {},
+  "vaulted": false,
+  "category": "Ignition Union",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Union Hook",
-  "not_counted_towards_total": false,
-  "rarity": "Quest",
-  "reqs": "union_hook := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

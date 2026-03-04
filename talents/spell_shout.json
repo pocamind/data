@@ -1,13 +1,13 @@
 {
-  "category": "Deepwoken",
   "desc": "You now will shout the names of your spells upon cast.",
+  "name": "Spell Shout",
+  "reqs": "spell_shout := ()",
+  "rarity": "Quest",
+  "innates": {},
+  "vaulted": false,
+  "category": "Deepwoken",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Spell Shout",
-  "not_counted_towards_total": false,
-  "rarity": "Quest",
-  "reqs": "spell_shout := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

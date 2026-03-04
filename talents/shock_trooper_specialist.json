@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.",
+  "name": "Shock Trooper Specialist",
+  "reqs": "shock_trooper_specialist := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Shock Trooper Specialist",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "shock_trooper_specialist := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

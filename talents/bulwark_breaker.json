@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage.",
+  "name": "Bulwark Breaker",
+  "reqs": "bulwark_breaker := ()",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Bulwark Breaker",
-  "not_counted_towards_total": false,
-  "rarity": "Common",
-  "reqs": "bulwark_breaker := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

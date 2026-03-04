@@ -1,15 +1,15 @@
 {
-  "category": "Jetstriker",
   "desc": "Dashing at maximum sprint momentum makes you one with the wind itself.",
-  "exclusive": [
-    ""
-  ],
+  "name": "Rush of Ancients",
+  "reqs": "oath_jetstriker => rush_of_ancients := ()",
+  "rarity": "Oath",
   "innates": {
     "Passive Agility": 4
   },
-  "name": "Rush of Ancients",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_jetstriker => rush_of_ancients := ()",
-  "vaulted": false
+  "vaulted": false,
+  "category": "Jetstriker",
+  "exclusive": [
+    ""
+  ],
+  "not_counted_towards_total": true
 }

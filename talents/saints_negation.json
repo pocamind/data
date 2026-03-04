@@ -1,13 +1,13 @@
 {
-  "category": "Saintsworn",
   "desc": "Once per stance cycle you can fully block an attack that matches your Saint Stance.",
+  "name": "Saint's Negation",
+  "reqs": "oath_saintsworn => saints_negation := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Saintsworn",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Saint's Negation",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_saintsworn => saints_negation := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }
