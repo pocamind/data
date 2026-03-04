@@ -1,0 +1,8 @@
+{
+  "name": "Pressure Blast",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[8,10.5,13,15.5,18][SLASH][1.65:HVY] -> [8,10.5,13,15.5,18][SLASH][1.65:HVY] -> [8,10.5,13,15.5,18][SLASH][1.65:HVY]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

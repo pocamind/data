@@ -1,0 +1,8 @@
+{
+  "name": "Punishment",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[10,15,20,25,30][SLASH][1.65:HVY]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

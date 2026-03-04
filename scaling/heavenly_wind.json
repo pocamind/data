@@ -1,0 +1,8 @@
+{
+  "name": "Heavenly Wind",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[15,22,29,36,43][WND][2.75:WND]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

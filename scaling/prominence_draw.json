@@ -1,0 +1,8 @@
+{
+  "name": "Prominence Draw",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[9,17,25,33,41][SLASH][1.65:MED]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

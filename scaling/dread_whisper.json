@@ -1,0 +1,8 @@
+{
+  "name": "Dread Whisper",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[10,12,14,16,18][BLUNT][1.65:WLL]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

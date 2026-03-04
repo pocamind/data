@@ -1,0 +1,8 @@
+{
+  "name": "Twinstrikes",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[31.88,35.06,25.5,41.44,44.63][BLUNT][] -> [19.13,22.31,38.25,28.69,31.88][BLUNT][]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
