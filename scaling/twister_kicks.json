@@ -1,0 +1,8 @@
+{
+  "name": "Twister Kicks",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[7,8.3,12.4,13.6,14.8][WND][2.75:WND] -> [7,8.3,12.4,13.6,14.8][WND][2.75:WND] -> [7,8.3,12.4,13.6,14.8][WND][2.75:WND] -> [7,8.3,12.4,13.6,14.8][WND][2.75:WND]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

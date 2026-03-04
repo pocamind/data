@@ -1,0 +1,8 @@
+{
+  "name": "Flashfire Sweep",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[7.5,8.75,10,11.25,12.5][LTN][2.75:LTN] -> [7.5,8.75,10,11.25,12.5][FLM,BLUNT][2.75:LTN,2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

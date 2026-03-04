@@ -1,0 +1,8 @@
+{
+  "name": "Revenge",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[12,13,14,15,16][SLASH][1.65:AGL]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
