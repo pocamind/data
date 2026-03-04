@@ -1,0 +1,11 @@
+{
+  "desc": "Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.",
+  "name": "Torture Mastery",
+  "reqs": "torture_mastery := 100r MED or 100r LHT or 100r HVY, 100s BLD",
+  "rarity": "Common",
+  "innates": {},
+  "vaulted": false,
+  "category": "Sanguine Wager",
+  "exclusive": [],
+  "not_counted_towards_total": false
+}
