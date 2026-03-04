@@ -1,0 +1,8 @@
+{
+  "name": "Clutching Shadow",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[20,23.5,27,30.5,34][SDW][2.75:SDW] -> [4,4.7,5.4,6.1,6.8][BLUNT][2.75:SDW]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
