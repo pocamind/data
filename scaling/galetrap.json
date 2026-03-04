@@ -1,0 +1,10 @@
+{
+  "name": "Galetrap",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[22,24,26,28,30][WND,SLASH][2.75:WND] -> [7.7,8.4,9.1,9.8,10.5][WND,SLASH][2.75:WND] -> [2.7,2.9,3.2,3.4,3.7][WND,SLASH][2.75:WND]",
+  "derives": [
+    ""
+  ],
+  "pve_multiplier": 9.18
+}
