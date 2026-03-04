@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "oath": true,
+  "bleed": true,
+  "scheme": "test",
+  "derives": {},
+  "pve_multiplier": 9.18
+}
