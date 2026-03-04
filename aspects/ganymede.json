@@ -1,8 +1,11 @@
 {
+  "name": "Ganymede",
   "innate": {
-    "Intelligence": 2,
-    "Willpower": 3
+    "Willpower": 3,
+    "Intelligence": 2
   },
-  "is_pathfinder": true,
-  "name": "Ganymede"
+  "talent": [
+    "Deepfolk"
+  ],
+  "is_pathfinder": true
 }

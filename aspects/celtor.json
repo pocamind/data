@@ -1,8 +1,11 @@
 {
+  "name": "Celtor",
   "innate": {
     "Charisma": 3,
     "Intelligence": 2
   },
-  "is_pathfinder": true,
-  "name": "Celtor"
+  "talent": [
+    "Seaborne"
+  ],
+  "is_pathfinder": true
 }
