@@ -1,0 +1,11 @@
+{
+  "desc": "Gain a permanent +2 stud/s walkspeed buff at all times.",
+  "name": "Breeze",
+  "reqs": "breeze := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
+  "exclusive": [],
+  "not_counted_towards_total": true
+}
