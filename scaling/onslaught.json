@@ -1,0 +1,8 @@
+{
+  "name": "Onslaught",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[30,32,34,36,38][SLASH][1.65:HVY] -> [15,16,17,18,19][BLUNT][1.65:HVY] -> [15,16,17,18,19][BLUNT][1.65:HVY]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

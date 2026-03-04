@@ -1,0 +1,8 @@
+{
+  "name": "Master's Flourish",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[3,6,9,12,15][SLASH][1.65:MED] -> [5.4,10.8,16.2,21.6,27][SLASH][1.65:MED]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

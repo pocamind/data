@@ -1,0 +1,8 @@
+{
+  "name": "Gale Punch",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[12.5,13.75,15,16.25,17.5][WND,SLASH][2.75:WND] -> [12.5,13.75,15,16.25,17.5][WND,SLASH][2.75:WND] -> [12.5,13.75,15,16.25,17.5][WND,SLASH][2.75:WND] ",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
