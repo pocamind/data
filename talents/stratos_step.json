@@ -1,16 +1,16 @@
 {
-  "category": "Jetstriker",
   "desc": "Holding space while climbing will now let you perform Stratos Steps to get even higher. Others can follow your Stratos Steps.",
-  "exclusive": [
-    ""
-  ],
+  "name": "Stratos Step",
+  "reqs": "oath_jetstriker => stratos_step := ()",
+  "rarity": "Oath",
   "innates": {
     "Health": 5,
     "Passive Agility": 3
   },
-  "name": "Stratos Step",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_jetstriker => stratos_step := ()",
-  "vaulted": false
+  "vaulted": false,
+  "category": "Jetstriker",
+  "exclusive": [
+    ""
+  ],
+  "not_counted_towards_total": true
 }

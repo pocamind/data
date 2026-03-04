@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off of how slow they were.",
+  "name": "True Shatter",
+  "reqs": "true_shatter := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "True Shatter",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "true_shatter := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

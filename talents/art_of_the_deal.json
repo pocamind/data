@@ -1,13 +1,13 @@
 {
-  "category": "Merchant",
   "desc": "Your rapport with merchants gives you lower prices!",
+  "name": "Art of the Deal",
+  "reqs": "art_of_the_deal := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Merchant",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Art of the Deal",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "art_of_the_deal := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

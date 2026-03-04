@@ -1,13 +1,13 @@
 {
-  "category": "Contractor",
   "desc": "Pulls together any two opponents you've attached Hidden Tendrils to.",
+  "name": "String Trick",
+  "reqs": "oath_contractor, hidden_tendril => string_trick := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Contractor",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "String Trick",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_contractor, hidden_tendril => string_trick := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

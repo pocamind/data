@@ -1,13 +1,13 @@
 {
-  "category": "Tower Knight",
   "desc": "Reduces the time you spend stunned after being block broken.",
+  "name": "Unbreakable",
+  "reqs": "unbreakable := 20s FTD",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Tower Knight",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Unbreakable",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "unbreakable := 20s FTD",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

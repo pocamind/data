@@ -1,13 +1,13 @@
 {
-  "category": "Metamancer",
   "desc": "You gain stacks of 'Perfection' on hitting mobs with basic attacks. Perfection increases your damage towards mobs the more stack you have. All stacks are lost upon taking damage.",
+  "name": "Chain of Perfection",
+  "reqs": "chain_of_perfection := ()",
+  "rarity": "Quest",
+  "innates": {},
+  "vaulted": false,
+  "category": "Metamancer",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Chain of Perfection",
-  "not_counted_towards_total": false,
-  "rarity": "Quest",
-  "reqs": "chain_of_perfection := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

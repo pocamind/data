@@ -1,13 +1,13 @@
 {
-  "category": "Blightsurger",
   "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+  "name": "Blighted Touch",
+  "reqs": "oath_blightsurger => blighted_touch := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Blightsurger",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Blighted Touch",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_blightsurger => blighted_touch := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

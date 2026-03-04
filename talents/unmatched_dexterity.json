@@ -1,13 +1,13 @@
 {
-  "category": "Silentheart",
   "desc": "Press X to Quick Swap between weapons within your toolbar.",
+  "name": "Unmatched Dexterity",
+  "reqs": "oath_silentheart => unmatched_dexterity := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Silentheart",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Unmatched Dexterity",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_silentheart => unmatched_dexterity := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

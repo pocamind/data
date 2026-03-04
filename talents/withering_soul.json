@@ -1,13 +1,13 @@
 {
-  "category": "Miscellaneous",
   "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle will double the amount to 25%.",
+  "name": "Withering Soul",
+  "reqs": "withering_soul := ()",
+  "rarity": "Outfit",
+  "innates": {},
+  "vaulted": false,
+  "category": "Miscellaneous",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Withering Soul",
-  "not_counted_towards_total": false,
-  "rarity": "Outfit",
-  "reqs": "withering_soul := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

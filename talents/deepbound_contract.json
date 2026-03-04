@@ -1,13 +1,13 @@
 {
-  "category": "Innate",
   "desc": "You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.",
+  "name": "Deepbound Contract",
+  "reqs": "deepbound_contract := ()",
+  "rarity": "Origin",
+  "innates": {},
+  "vaulted": false,
+  "category": "Innate",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Deepbound Contract",
-  "not_counted_towards_total": false,
-  "rarity": "Origin",
-  "reqs": "deepbound_contract := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

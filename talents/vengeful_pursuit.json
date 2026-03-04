@@ -1,13 +1,13 @@
 {
-  "category": "Silentheart",
   "desc": "Your running Basic Attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD.",
+  "name": "Vengeful Pursuit",
+  "reqs": "oath_silentheart => vengeful_pursuit := ()",
+  "rarity": "Oath",
+  "innates": {},
+  "vaulted": false,
+  "category": "Silentheart",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Vengeful Pursuit",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_silentheart => vengeful_pursuit := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }

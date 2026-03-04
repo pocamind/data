@@ -1,13 +1,13 @@
 {
-  "category": "Weapon",
   "desc": "Gain a bit more autoparry frames on successful parries.",
+  "name": "Careful Stance",
+  "reqs": "careful_stance := ()",
+  "rarity": "Equipment",
+  "innates": {},
+  "vaulted": false,
+  "category": "Weapon",
   "exclusive": [
     ""
   ],
-  "innates": {},
-  "name": "Careful Stance",
-  "not_counted_towards_total": false,
-  "rarity": "Equipment",
-  "reqs": "careful_stance := ()",
-  "vaulted": false
+  "not_counted_towards_total": true
 }
