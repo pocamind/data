@@ -1,8 +1,13 @@
 {
+  "name": "Capra",
   "innate": {
-    "Intelligence": 2,
-    "Willpower": 3
+    "Willpower": 3,
+    "Intelligence": 2
   },
-  "is_pathfinder": true,
-  "name": "Capra"
+  "talent": [
+    "Mark of Ku",
+    "Mark of Nemit",
+    "Mark of Jurik"
+  ],
+  "is_pathfinder": true
 }

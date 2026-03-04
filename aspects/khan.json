@@ -1,8 +1,11 @@
 {
+  "name": "Khan",
   "innate": {
     "Agility": 2,
     "Strength": 3
   },
-  "is_pathfinder": true,
-  "name": "Khan"
+  "talent": [
+    "Versatile"
+  ],
+  "is_pathfinder": true
 }

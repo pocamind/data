@@ -1,8 +1,11 @@
 {
+  "name": "Drakkard",
   "innate": {
     "Agility": 2,
     "Fortitude": 3
   },
-  "is_pathfinder": false,
-  "name": "Drakkard"
+  "talent": [
+    "Teachings of the Edenkite"
+  ],
+  "is_pathfinder": false
 }
