@@ -1,0 +1,8 @@
+{
+  "name": "Flame Ballista",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[30.08,33.09,36.1,39.1,42.11][FLM][2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Flaming Scourge [Reversal]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[10,11,12,13,14][FLM][2.75:FLM] -> [10,11,12,13,14][FLM][2.75:FLM]",
+  "derives": [
+    ""
+  ],
+  "pve_multiplier": 9.18
+}
