@@ -1,8 +1,0 @@
-{
-  "name": "Shoulder Bash",
-  "oath": false,
-  "bleed": false,
-  "scheme": "[9.9,13.05,16.2,19.35,22.5][BLUNT][1.65:FTD]",
-  "derives": [],
-  "pve_multiplier": 9.18
-}

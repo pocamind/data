@@ -1,0 +1,8 @@
+{
+  "name": "Dark Blade [Tornado]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[10,11.5,13,14.5,16][SDW][2.75:SDW] -> [10,11.5,13,14.5,16][SDW][2.75:SDW] -> [10,11.5,13,14.5,16][SDW][2.75:SDW]->[10,11.5,13,14.5,16][SDW][2.75:SDW]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

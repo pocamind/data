@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Gun",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[25,28,31,34,37][SDW][2.75:SDW]",
+  "derives": [
+    "shadow_gun_blast"
+  ],
+  "pve_multiplier": 9.18
+}
