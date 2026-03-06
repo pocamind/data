@@ -1,0 +1,8 @@
+{
+  "name": "Air Force",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[22,24.4,26.8,29.2,31.6][WND][2.75:WND]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

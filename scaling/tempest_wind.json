@@ -1,0 +1,8 @@
+{
+  "name": "Tempest Wind",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[15,22.5,30,37.5,45][WND][2.75:WND]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
