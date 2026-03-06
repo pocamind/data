@@ -1,0 +1,15 @@
+{
+  "name": "bulwark helm",
+  "type": "Head",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "Strong Hold"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

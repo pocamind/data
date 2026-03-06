@@ -1,0 +1,12 @@
+{
+  "name": "bloodfeather mask",
+  "type": "Face",
+  "stats": {
+    "shadow_armor": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

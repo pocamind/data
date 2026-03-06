@@ -1,0 +1,14 @@
+{
+  "name": "ministry cloak",
+  "type": "Arms",
+  "stats": {
+    "ether": 10,
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

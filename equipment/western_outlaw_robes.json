@@ -1,0 +1,13 @@
+{
+  "name": "western outlaw robes",
+  "type": "Arms",
+  "stats": {
+    "health": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

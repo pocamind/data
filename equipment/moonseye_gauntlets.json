@@ -1,0 +1,14 @@
+{
+  "name": "moonseye gauntlets",
+  "type": "Arms",
+  "stats": {
+    "health": 7,
+    "posture": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": ""
+}

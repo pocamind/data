@@ -1,0 +1,16 @@
+{
+  "name": "grand authority plate",
+  "type": "Arms",
+  "stats": {
+    "health": 8
+  },
+  "talents": [
+    "Heavy Haul"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

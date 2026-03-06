@@ -1,0 +1,12 @@
+{
+  "name": "feathertop helm",
+  "type": "Head",
+  "stats": {
+    "health": 3
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

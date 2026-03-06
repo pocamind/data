@@ -1,0 +1,15 @@
+{
+  "name": "abyss wanderer's plate",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Braced Collapse",
+    "Kick Off"
+  ],
+  "rarities": {
+    "legendary": 3
+  },
+  "desc": ""
+}

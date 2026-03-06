@@ -1,0 +1,15 @@
+{
+  "name": "specialist boots",
+  "type": "Legs",
+  "stats": {
+    "posture": 1
+  },
+  "talents": [
+    "Flashwind",
+    "Shock Trooper Specialist"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

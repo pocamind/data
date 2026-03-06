@@ -1,0 +1,13 @@
+{
+  "name": "bloodfeather cowl",
+  "type": "Head",
+  "stats": {
+    "stealth": 6,
+    "shadow_armor": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "star duster",
+  "type": "Arms",
+  "stats": {
+    "health": 5,
+    "posture": 1
+  },
+  "talents": [
+    "Star Duster"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": ""
+}

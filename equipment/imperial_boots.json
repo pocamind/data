@@ -1,0 +1,13 @@
+{
+  "name": "imperial boots",
+  "type": "Legs",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": ""
+}

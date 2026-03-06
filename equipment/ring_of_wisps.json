@@ -1,0 +1,12 @@
+{
+  "name": "ring of wisps",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "double charges on attunement wisps"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

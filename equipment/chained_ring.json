@@ -1,0 +1,13 @@
+{
+  "name": "chained ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "less knockback taken",
+    "no air dash"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

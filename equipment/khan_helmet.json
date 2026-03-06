@@ -1,0 +1,13 @@
+{
+  "name": "khan helmet",
+  "type": "Head",
+  "stats": {
+    "health": 10,
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

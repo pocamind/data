@@ -1,0 +1,13 @@
+{
+  "name": "silver knight's helm",
+  "type": "Head",
+  "stats": {
+    "health": 10
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1
+  },
+  "desc": ""
+}

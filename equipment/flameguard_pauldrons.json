@@ -1,0 +1,13 @@
+{
+  "name": "flameguard pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 3,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

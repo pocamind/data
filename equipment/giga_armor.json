@@ -1,0 +1,21 @@
+{
+  "name": "Giga armor",
+  "type": "Head",
+  "stats": {
+    "health": -9999,
+    "sanity": 100,
+    "stealth": 90,
+    "fire_armor": 200
+  },
+  "talents": [
+    "Ankle Cutter",
+    "The Eleventh Hour"
+  ],
+  "rarities": {
+    "rare": 100,
+    "common": 100,
+    "uncommon": 100,
+    "legendary": 100
+  },
+  "desc": ""
+}

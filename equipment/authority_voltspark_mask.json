@@ -1,0 +1,14 @@
+{
+  "name": "authority voltspark mask",
+  "type": "Face",
+  "stats": {
+    "lightning_armor": 3
+  },
+  "talents": [
+    "Volt Reflex"
+  ],
+  "rarities": {
+    "common": 1
+  },
+  "desc": ""
+}

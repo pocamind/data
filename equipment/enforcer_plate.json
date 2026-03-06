@@ -1,0 +1,15 @@
+{
+  "name": "enforcer plate",
+  "type": "Arms",
+  "stats": {
+    "posture": 1
+  },
+  "talents": [
+    "Brassneck"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

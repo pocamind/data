@@ -1,0 +1,12 @@
+{
+  "name": "lightkeeper's medallion",
+  "type": "Torso",
+  "stats": {},
+  "talents": [
+    "Elegy of Light"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

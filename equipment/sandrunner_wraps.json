@@ -1,0 +1,17 @@
+{
+  "name": "sandrunner wraps",
+  "type": "Arms",
+  "stats": {
+    "health": 6,
+    "stealth": 4,
+    "fire_armor": 8
+  },
+  "talents": [
+    "Kick Off"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

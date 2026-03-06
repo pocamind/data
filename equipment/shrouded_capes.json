@@ -1,0 +1,14 @@
+{
+  "name": "shrouded capes",
+  "type": "Torso",
+  "stats": {
+    "stealth": 5,
+    "elemental_armor": 2
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

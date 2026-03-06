@@ -1,0 +1,13 @@
+{
+  "name": "brigand's cloak",
+  "type": "Arms",
+  "stats": {
+    "health": 3,
+    "stealth": 4
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

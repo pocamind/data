@@ -1,0 +1,12 @@
+{
+  "name": "warmaster's medallion",
+  "type": "Torso",
+  "stats": {},
+  "talents": [
+    "Actions Speak Louder"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

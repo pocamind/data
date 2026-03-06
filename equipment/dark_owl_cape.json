@@ -1,0 +1,14 @@
+{
+  "name": "dark owl cape",
+  "type": "Torso",
+  "stats": {
+    "stealth": 2,
+    "shadow_armor": 5,
+    "elemental_armor": 2
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

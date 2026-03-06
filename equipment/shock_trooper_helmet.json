@@ -1,0 +1,12 @@
+{
+  "name": "shock trooper helmet",
+  "type": "Head",
+  "stats": {
+    "health": 8
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

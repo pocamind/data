@@ -1,0 +1,17 @@
+{
+  "name": "hive scourge cuirass",
+  "type": "Arms",
+  "stats": {
+    "health": 5,
+    "posture": 2
+  },
+  "talents": [
+    "Lowstride"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

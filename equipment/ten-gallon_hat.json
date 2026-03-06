@@ -1,0 +1,12 @@
+{
+  "name": "ten-gallon hat",
+  "type": "Head",
+  "stats": {
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "glassdancer wraps",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 3
+  },
+  "talents": [
+    "Lightweight"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

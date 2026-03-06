@@ -1,0 +1,13 @@
+{
+  "name": "adventurer's scarf",
+  "type": "Torso",
+  "stats": {
+    "wind_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

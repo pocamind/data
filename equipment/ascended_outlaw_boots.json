@@ -1,0 +1,18 @@
+{
+  "name": "ascended outlaw boots",
+  "type": "Legs",
+  "stats": {
+    "health": 3,
+    "wind_armor": 3,
+    "lightning_armor": 3
+  },
+  "talents": [
+    "Stronger Under Pressure",
+    "Offensive Recovery"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1
+  },
+  "desc": ""
+}

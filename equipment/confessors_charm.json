@@ -1,0 +1,13 @@
+{
+  "name": "confessor's charm",
+  "type": "Torso",
+  "stats": {
+    "physical_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

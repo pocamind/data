@@ -1,0 +1,13 @@
+{
+  "name": "herbalist's hat",
+  "type": "Head",
+  "stats": {},
+  "talents": [
+    "Herbivore",
+    "Iron Gut"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "specialist helmet",
+  "type": "Head",
+  "stats": {
+    "health": 8
+  },
+  "talents": [
+    "Volt Draft",
+    "Shock Trooper Specialist"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

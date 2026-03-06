@@ -1,0 +1,12 @@
+{
+  "name": "vanguard boots",
+  "type": "Legs",
+  "stats": {
+    "health": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

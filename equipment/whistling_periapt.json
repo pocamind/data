@@ -1,0 +1,13 @@
+{
+  "name": "whistling periapt",
+  "type": "Torso",
+  "stats": {
+    "health": 1,
+    "wind_armor": 8
+  },
+  "talents": [
+    "Whistleguard"
+  ],
+  "rarities": {},
+  "desc": ""
+}

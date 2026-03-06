@@ -1,0 +1,17 @@
+{
+  "name": "grand fisher helm",
+  "type": "Head",
+  "stats": {
+    "health": 5,
+    "ice_armor": 5,
+    "lightning_armor": 5
+  },
+  "talents": [
+    "Coldseep Reactor"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

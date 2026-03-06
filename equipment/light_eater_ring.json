@@ -1,0 +1,15 @@
+{
+  "name": "light eater ring",
+  "type": "Rings",
+  "stats": {
+    "fire_armor": 2,
+    "lightning_armor": 2
+  },
+  "talents": [
+    "regen ether when hit by FLM/THN"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

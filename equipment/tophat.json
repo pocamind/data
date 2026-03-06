@@ -1,0 +1,15 @@
+{
+  "name": "tophat",
+  "type": "Head",
+  "stats": {
+    "health": 4
+  },
+  "talents": [
+    "Give and Take"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1
+  },
+  "desc": ""
+}

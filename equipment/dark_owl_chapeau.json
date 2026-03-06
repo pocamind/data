@@ -1,0 +1,16 @@
+{
+  "name": "dark owl chapeau",
+  "type": "Head",
+  "stats": {
+    "stealth": 10,
+    "shadow_armor": 5
+  },
+  "talents": [
+    "Underdog"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

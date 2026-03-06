@@ -1,0 +1,13 @@
+{
+  "name": "brilliant pauldron",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "steel pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 5,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "forest scarf",
+  "type": "Torso",
+  "stats": {
+    "lightning_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

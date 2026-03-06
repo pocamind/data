@@ -1,0 +1,15 @@
+{
+  "name": "blackleaf helm",
+  "type": "Head",
+  "stats": {
+    "health": 5,
+    "posture": 1
+  },
+  "talents": [
+    "Concussive Force"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

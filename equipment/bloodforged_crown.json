@@ -1,0 +1,15 @@
+{
+  "name": "bloodforged crown",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Cauterized Wounds"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

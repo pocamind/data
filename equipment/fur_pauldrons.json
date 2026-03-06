@@ -1,0 +1,12 @@
+{
+  "name": "fur pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

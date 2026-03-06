@@ -1,0 +1,16 @@
+{
+  "name": "etrean siege cuirass",
+  "type": "Arms",
+  "stats": {
+    "health": 8
+  },
+  "talents": [
+    "Battle Tendency"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

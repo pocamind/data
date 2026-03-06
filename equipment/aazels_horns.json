@@ -1,0 +1,13 @@
+{
+  "name": "aazel's horns",
+  "type": "Head",
+  "stats": {
+    "posture": 1,
+    "fire_armor": 8
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

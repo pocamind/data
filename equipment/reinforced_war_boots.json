@@ -1,0 +1,15 @@
+{
+  "name": "reinforced war boots",
+  "type": "Legs",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "Repeated Blows",
+    "Lasting Trauma"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,13 @@
+{
+  "name": "crimson/desert scarf",
+  "type": "Torso",
+  "stats": {
+    "fire_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

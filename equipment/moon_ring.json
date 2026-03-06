@@ -1,0 +1,12 @@
+{
+  "name": "moon ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "makes you look young"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "reinforced war helmet",
+  "type": "Head",
+  "stats": {
+    "health": 4,
+    "posture": 1
+  },
+  "talents": [
+    "Fatal Strike"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "chef's toque",
+  "type": "Head",
+  "stats": {
+    "health": 10
+  },
+  "talents": [
+    "Gourmand",
+    "Umami"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

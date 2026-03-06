@@ -1,0 +1,13 @@
+{
+  "name": "fleet warden cape",
+  "type": "Torso",
+  "stats": {
+    "elemental_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

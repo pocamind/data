@@ -1,0 +1,14 @@
+{
+  "name": "bluestone pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Ether Emergency"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

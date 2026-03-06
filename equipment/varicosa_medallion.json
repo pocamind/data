@@ -1,0 +1,13 @@
+{
+  "name": "varicosa medallion",
+  "type": "Torso",
+  "stats": {
+    "shadow_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": ""
+}

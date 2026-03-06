@@ -1,0 +1,12 @@
+{
+  "name": "crawling necktie",
+  "type": "Torso",
+  "stats": {
+    "shadow_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 2
+  },
+  "desc": ""
+}

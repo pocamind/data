@@ -1,0 +1,13 @@
+{
+  "name": "novice brace",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}

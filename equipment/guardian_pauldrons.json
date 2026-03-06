@@ -1,0 +1,11 @@
+{
+  "name": "guardian pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {},
+  "desc": ""
+}

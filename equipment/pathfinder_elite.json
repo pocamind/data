@@ -1,0 +1,13 @@
+{
+  "name": "pathfinder elite",
+  "type": "Arms",
+  "stats": {
+    "dvm": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": ""
+}

@@ -1,0 +1,12 @@
+{
+  "name": "western outlaw hat",
+  "type": "Head",
+  "stats": {
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

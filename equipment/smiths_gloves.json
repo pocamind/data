@@ -1,0 +1,12 @@
+{
+  "name": "smith's gloves",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": ""
+}

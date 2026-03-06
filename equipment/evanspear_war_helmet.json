@@ -1,0 +1,12 @@
+{
+  "name": "evanspear war helmet",
+  "type": "Head",
+  "stats": {
+    "health": 4
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

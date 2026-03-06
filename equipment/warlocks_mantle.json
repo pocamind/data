@@ -1,0 +1,15 @@
+{
+  "name": "warlock's mantle",
+  "type": "Arms",
+  "stats": {
+    "health": 7
+  },
+  "talents": [
+    "Overflowing Dam"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 2
+  },
+  "desc": ""
+}

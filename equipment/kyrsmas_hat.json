@@ -1,0 +1,13 @@
+{
+  "name": "kyrsmas hat",
+  "type": "Head",
+  "stats": {
+    "health": 10,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": ""
+}

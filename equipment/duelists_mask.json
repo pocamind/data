@@ -1,0 +1,12 @@
+{
+  "name": "duelist's mask",
+  "type": "Face",
+  "stats": {
+    "stealth": 6
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": ""
+}
