@@ -9,5 +9,5 @@
     "common": 1
   },
   "desc": "",
-  "reqs": ""
+  "reqs": "barrel_helm := ()"
 }

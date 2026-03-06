@@ -9,5 +9,5 @@
     "rare": 1
   },
   "desc": "",
-  "reqs": ""
+  "reqs": "duelists_mask := ()"
 }
