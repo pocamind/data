@@ -1,0 +1,8 @@
+{
+  "name": "Ice Spikes",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[25,25,25,25,25][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
