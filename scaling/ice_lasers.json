@@ -1,0 +1,8 @@
+{
+  "name": "Ice Lasers",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[8,11,14,17,20][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

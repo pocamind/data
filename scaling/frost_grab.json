@@ -1,0 +1,10 @@
+{
+  "name": "Frost Grab",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[6,7.2,8.4,9.6,10.8][ICE][2.75:ICE] -> [6,7.2,8.4,9.6,10.8][ICE][2.75:ICE]",
+  "derives": [
+    "frost_grab_blast"
+  ],
+  "pve_multiplier": 9.18
+}

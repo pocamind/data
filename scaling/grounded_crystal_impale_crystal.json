@@ -1,0 +1,10 @@
+{
+  "name": "Grounded Crystal Impale [Crystal]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[7.77,9.44,11.1,12.77,14.43][ICE][2.75:ICE] -> [7.77,9.44,11.1,12.77,14.43][ICE][2.75:ICE] -> [7.77,9.44,11.1,12.77,14.43][ICE][2.75:ICE]",
+  "derives": [
+    "aerial_crystal_impale_crystal"
+  ],
+  "pve_multiplier": 9.18
+}
