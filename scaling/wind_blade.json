@@ -1,0 +1,10 @@
+{
+  "name": "Wind Blade",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[18,20.5,23,25.5,28][WND][2.75:WND]",
+  "derives": [
+    "tempest_wind"
+  ],
+  "pve_multiplier": 9.18
+}

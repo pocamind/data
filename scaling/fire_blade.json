@@ -1,0 +1,8 @@
+{
+  "name": "Fire Blade",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[18,21,24,27,30][FLM][2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

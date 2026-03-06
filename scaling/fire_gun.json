@@ -1,0 +1,8 @@
+{
+  "name": "Fire Gun",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[6.5,8.5,10.5,12.5,14.5][FLM][2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
