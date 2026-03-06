@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "strength_unbounded := 75s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Tituss Cape",
+  "type": "Arms",
+  "stats": {
+    "lightning_armor": 10
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

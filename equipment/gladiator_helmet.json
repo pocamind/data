@@ -1,0 +1,16 @@
+{
+  "name": "Gladiator Helmet",
+  "type": "Head",
+  "stats": {
+    "health": 5,
+    "posture": 2
+  },
+  "talents": [
+    "Concussive Force"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

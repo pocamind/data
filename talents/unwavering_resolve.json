@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "unwavering_resolve := 40s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

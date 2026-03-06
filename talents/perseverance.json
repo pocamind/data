@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "perseverance := 30s FTD, 30s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

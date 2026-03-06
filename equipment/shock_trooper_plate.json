@@ -1,0 +1,13 @@
+{
+  "name": "Shock Trooper Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

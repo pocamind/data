@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "ironsinger => adept_ironsinger := 20s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

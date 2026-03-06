@@ -1,0 +1,13 @@
+{
+  "name": "Pathfinders Backpack",
+  "type": "Torso",
+  "stats": {},
+  "talents": [
+    "Robber Baron"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

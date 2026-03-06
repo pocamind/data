@@ -1,0 +1,12 @@
+{
+  "name": "Dark Cowl",
+  "type": "Head",
+  "stats": {
+    "posture": 1,
+    "stealth": 4
+  },
+  "talents": [],
+  "rarities": {},
+  "desc": "",
+  "requirements": ""
+}

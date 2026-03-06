@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "concussive_flash := 25s STR, 30s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "fortitude_unbounded := 75s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

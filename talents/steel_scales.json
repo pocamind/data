@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "padded_armor => steel_scales := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

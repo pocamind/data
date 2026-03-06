@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_blightsurger := 80r STR OR 80r FTD OR 80r AGL, 40s LTN, 40s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

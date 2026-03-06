@@ -1,0 +1,13 @@
+{
+  "name": "Waning Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "makes you look old"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mercenarys Garb",
+  "type": "Arms",
+  "stats": {
+    "stealth": 6
+  },
+  "talents": [
+    "Kick Off"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

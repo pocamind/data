@@ -1,0 +1,14 @@
+{
+  "name": "Brilliant Pauldron",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

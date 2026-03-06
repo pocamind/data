@@ -1,0 +1,16 @@
+{
+  "name": "Deepscorn Casque",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Already Dead"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

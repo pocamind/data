@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "overwhelming_drain := 20s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

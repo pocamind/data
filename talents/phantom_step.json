@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "haunted_path_specter => phantom_step := 55s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

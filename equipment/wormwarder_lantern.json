@@ -1,0 +1,13 @@
+{
+  "name": "Wormwarder Lantern",
+  "type": "Torso",
+  "stats": {
+    "sanity": 10
+  },
+  "talents": [
+    "Wormwarder"
+  ],
+  "rarities": {},
+  "desc": "",
+  "requirements": ""
+}

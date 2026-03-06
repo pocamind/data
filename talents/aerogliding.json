@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Rare",
   "reqs": "aerogliding := 30s AGL, 35s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

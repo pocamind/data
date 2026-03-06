@@ -1,0 +1,18 @@
+{
+  "name": "Winter Corps Parka",
+  "type": "Arms",
+  "stats": {
+    "health": 6,
+    "posture": 2,
+    "ice_armor": 5,
+    "wind_armor": 5
+  },
+  "talents": [
+    "Winter's Protection"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

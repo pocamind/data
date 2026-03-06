@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "inhale => fan_the_flames := 40s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

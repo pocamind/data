@@ -1,0 +1,16 @@
+{
+  "name": "Specialist Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Stormcall",
+    "Shock Trooper Specialist"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "cold_blooded := 40s ICE, 40s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

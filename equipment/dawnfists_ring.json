@@ -1,0 +1,13 @@
+{
+  "name": "Dawnfists Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "1.2 STR scaling"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_contractor => hidden_tendril := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

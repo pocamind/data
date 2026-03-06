@@ -1,0 +1,14 @@
+{
+  "name": "Immortal Helm",
+  "type": "Head",
+  "stats": {},
+  "talents": [
+    "Immortality"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

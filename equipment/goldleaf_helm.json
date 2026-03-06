@@ -1,0 +1,13 @@
+{
+  "name": "Goldleaf Helm",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

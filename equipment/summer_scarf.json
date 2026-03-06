@@ -1,0 +1,13 @@
+{
+  "name": "Summer Scarf",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

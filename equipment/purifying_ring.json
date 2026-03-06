@@ -1,0 +1,13 @@
+{
+  "name": "Purifying Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "you can drink ocean water"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

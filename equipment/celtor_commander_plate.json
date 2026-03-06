@@ -1,0 +1,16 @@
+{
+  "name": "Celtor Commander Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 8
+  },
+  "talents": [
+    "Breathing Exercise"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

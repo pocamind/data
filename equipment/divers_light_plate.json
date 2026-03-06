@@ -1,0 +1,16 @@
+{
+  "name": "Divers Light Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "posture": 1
+  },
+  "talents": [
+    "Conquer your Fears"
+  ],
+  "rarities": {
+    "legendary": 3
+  },
+  "desc": "",
+  "requirements": ""
+}

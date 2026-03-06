@@ -1,0 +1,12 @@
+{
+  "name": "Guardian Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {},
+  "desc": "",
+  "requirements": ""
+}

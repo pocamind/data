@@ -1,0 +1,13 @@
+{
+  "name": "Adjudicators Coat",
+  "type": "Arms",
+  "stats": {},
+  "talents": [
+    "Unwavering Resolve"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

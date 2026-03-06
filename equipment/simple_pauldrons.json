@@ -1,0 +1,14 @@
+{
+  "name": "Simple Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "common": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

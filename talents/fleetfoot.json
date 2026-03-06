@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Outfit",
   "reqs": "fleetfoot := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

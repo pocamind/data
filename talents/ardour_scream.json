@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "murmur_ardour => ardour_scream := 15s STR, 40s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

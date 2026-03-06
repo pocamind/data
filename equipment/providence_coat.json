@@ -1,0 +1,16 @@
+{
+  "name": "Providence Coat",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Braced Collapse"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

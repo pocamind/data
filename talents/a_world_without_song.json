@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "silencers_blade => a_world_without_song := 75s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

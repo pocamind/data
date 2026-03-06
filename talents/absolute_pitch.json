@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "absolute_pitch := 100s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

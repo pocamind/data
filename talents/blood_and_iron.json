@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "blood_and_iron := 40s MTL, 40s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Barrel Helm",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "common": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

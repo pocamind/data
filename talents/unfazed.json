@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "grasp_on_reality => unfazed := 50s FTD, 50s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

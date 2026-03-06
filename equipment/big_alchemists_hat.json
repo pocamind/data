@@ -1,0 +1,13 @@
+{
+  "name": "Big Alchemists Hat",
+  "type": "Head",
+  "stats": {},
+  "talents": [
+    "Apothecary"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

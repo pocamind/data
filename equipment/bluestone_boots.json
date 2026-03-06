@@ -1,0 +1,15 @@
+{
+  "name": "Bluestone Boots",
+  "type": "Legs",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "I'm Blue"
+  ],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

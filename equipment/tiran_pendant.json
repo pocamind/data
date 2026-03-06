@@ -1,0 +1,15 @@
+{
+  "name": "Tiran Pendant",
+  "type": "Torso",
+  "stats": {
+    "health": 2
+  },
+  "talents": [
+    "Featherfall"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

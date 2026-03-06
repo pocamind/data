@@ -1,0 +1,16 @@
+{
+  "name": "Delvers Duster",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Braced Collapse",
+    "Kick Off"
+  ],
+  "rarities": {
+    "legendary": 3
+  },
+  "desc": "",
+  "requirements": ""
+}

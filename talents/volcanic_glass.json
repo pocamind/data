@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "glass_path_crystallization, eruption_path_lava_serpent => volcanic_glass := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Citadel Frames",
+  "type": "Face",
+  "stats": {
+    "health": 5,
+    "posture": -1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

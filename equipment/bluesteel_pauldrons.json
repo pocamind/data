@@ -1,0 +1,13 @@
+{
+  "name": "Bluesteel Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 5
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

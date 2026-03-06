@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "vow_of_mastery => command_summon := 80s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

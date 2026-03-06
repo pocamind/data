@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_frostdrawer => master_frostdrawer := 50s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

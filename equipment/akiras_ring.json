@@ -1,0 +1,13 @@
+{
+  "name": "Akiras Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "1.2 WLL scaling"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

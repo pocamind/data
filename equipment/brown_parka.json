@@ -1,0 +1,16 @@
+{
+  "name": "Brown Parka",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [
+    "Steady Footing"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_chainwarden => perpetual_wrath := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

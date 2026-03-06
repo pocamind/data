@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "cap_artist, pickpocket, master_thief => another_mans_trash := 10s AGL, 35s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

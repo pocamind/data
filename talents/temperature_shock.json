@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "glass_path_crystallization => temperature_shock := 40s ICE, 40s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

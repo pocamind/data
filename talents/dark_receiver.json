@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "static_link => dark_receiver := 40s LTN, 40s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

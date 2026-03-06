@@ -1,0 +1,17 @@
+{
+  "name": "Ironsinger Heavy Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "iron_armor": 5
+  },
+  "talents": [
+    "Defiant until the End"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

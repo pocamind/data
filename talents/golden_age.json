@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "gilded_path_scrapsinger, glass_path_crystallization, surge_path_unstable_capacitor => golden_age := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

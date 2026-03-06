@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "down_to_your_level := 60s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

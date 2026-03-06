@@ -1,0 +1,16 @@
+{
+  "name": "Aristocrat Coat",
+  "type": "Arms",
+  "stats": {
+    "health": 6
+  },
+  "talents": [
+    "Art of the Deal"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

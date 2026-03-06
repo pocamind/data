@@ -1,0 +1,16 @@
+{
+  "name": "Phalanx Helmet",
+  "type": "Head",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "Precise Swing"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

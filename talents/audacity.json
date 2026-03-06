@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "audacity := 50s STR, 100s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

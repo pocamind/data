@@ -1,0 +1,14 @@
+{
+  "name": "Tundra Scarf",
+  "type": "Torso",
+  "stats": {
+    "ice_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

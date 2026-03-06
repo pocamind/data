@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "static_link => storm_link := 50s WND, 60s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

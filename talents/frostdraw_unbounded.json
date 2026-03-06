@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "frostdraw_unbounded := 75s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "no_survivors := 45s STR, 80s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

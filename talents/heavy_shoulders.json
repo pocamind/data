@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "heavy_shoulders := 55s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

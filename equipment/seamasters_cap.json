@@ -1,0 +1,15 @@
+{
+  "name": "Seamasters Cap",
+  "type": "Head",
+  "stats": {
+    "posture": 1
+  },
+  "talents": [
+    "Seamaster's Guile"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Dark Owl Cloak",
+  "type": "Arms",
+  "stats": {
+    "stealth": 6,
+    "shadow_armor": 8
+  },
+  "talents": [
+    "Disbelief"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

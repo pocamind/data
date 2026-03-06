@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "knuckle_guard := 25s STR, 55s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

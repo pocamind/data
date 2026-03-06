@@ -1,0 +1,16 @@
+{
+  "name": "Royal Pathfinder",
+  "type": "Arms",
+  "stats": {
+    "health": 6
+  },
+  "talents": [
+    "Ready or Not"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

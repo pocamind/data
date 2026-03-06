@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Rare",
   "reqs": "artisans_blade => masterwork := 60s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

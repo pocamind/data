@@ -1,0 +1,15 @@
+{
+  "name": "Parasol Planter",
+  "type": "Head",
+  "stats": {
+    "health": 2
+  },
+  "talents": [
+    "Grotesque Resilience"
+  ],
+  "rarities": {
+    "rare": 3
+  },
+  "desc": "",
+  "requirements": ""
+}

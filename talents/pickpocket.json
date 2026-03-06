@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "pickpocket := 5s AGL, 10s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Origin",
   "reqs": "maudet := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

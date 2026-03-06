@@ -1,0 +1,13 @@
+{
+  "name": "Authority Commander Coat",
+  "type": "Arms",
+  "stats": {
+    "health": 10
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

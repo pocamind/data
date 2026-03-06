@@ -1,0 +1,16 @@
+{
+  "name": "Ascended Outlaw Robes",
+  "type": "Arms",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "Ether Pinpoint"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

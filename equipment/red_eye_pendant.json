@@ -1,0 +1,13 @@
+{
+  "name": "Red Eye Pendant",
+  "type": "Torso",
+  "stats": {
+    "elemental_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

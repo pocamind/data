@@ -1,0 +1,13 @@
+{
+  "name": "Dazed Band",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "flourish has stun chance"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

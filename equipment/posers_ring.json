@@ -1,0 +1,13 @@
+{
+  "name": "Posers Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "katana dmg dealt when you sheathe"
+  ],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

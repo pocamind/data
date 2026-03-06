@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

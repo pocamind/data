@@ -1,0 +1,13 @@
+{
+  "name": "Rosens Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "1.2 INT scaling"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

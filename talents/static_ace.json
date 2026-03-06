@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "static_link => static_ace := 15s INT, 70s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

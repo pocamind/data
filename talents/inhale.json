@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "inhale := 60s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

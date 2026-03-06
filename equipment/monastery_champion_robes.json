@@ -1,0 +1,17 @@
+{
+  "name": "Monastery Champion Robes",
+  "type": "Arms",
+  "stats": {
+    "health": 8,
+    "posture": 1
+  },
+  "talents": [
+    "Temple Guard"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "hemolysis := 25s STR, 40s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

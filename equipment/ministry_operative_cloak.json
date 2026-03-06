@@ -1,0 +1,16 @@
+{
+  "name": "Ministry Operative Cloak",
+  "type": "Arms",
+  "stats": {
+    "stealth": 6
+  },
+  "talents": [
+    "Eureka"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

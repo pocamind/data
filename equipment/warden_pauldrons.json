@@ -1,0 +1,14 @@
+{
+  "name": "Warden Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

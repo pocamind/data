@@ -1,0 +1,14 @@
+{
+  "name": "Celestial Boots",
+  "type": "Legs",
+  "stats": {},
+  "talents": [
+    "Cosmic Connection"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

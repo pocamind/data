@@ -1,0 +1,14 @@
+{
+  "name": "Gladiator Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 3,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

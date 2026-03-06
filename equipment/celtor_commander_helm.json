@@ -1,0 +1,16 @@
+{
+  "name": "Celtor Commander Helm",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Grasp on Reality"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

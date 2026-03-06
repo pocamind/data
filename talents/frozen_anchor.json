@@ -9,5 +9,6 @@
   "exclusive": [
     ""
   ],
-  "not_counted_towards_total": false
+  "not_counted_towards_total": false,
+  "extended_desc": ""
 }

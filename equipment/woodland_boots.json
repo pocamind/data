@@ -1,0 +1,13 @@
+{
+  "name": "Woodland Boots",
+  "type": "Legs",
+  "stats": {
+    "health": 3
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

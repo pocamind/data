@@ -1,0 +1,14 @@
+{
+  "name": "Aegis of Enmity",
+  "type": "Head",
+  "stats": {
+    "health": 5,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

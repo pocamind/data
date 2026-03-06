@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Rare",
   "reqs": "dark_hours => dark_rift := 60s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

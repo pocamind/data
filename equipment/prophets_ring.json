@@ -1,0 +1,13 @@
+{
+  "name": "Prophets Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "1.2 CHA scaling"
+  ],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

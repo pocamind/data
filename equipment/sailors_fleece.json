@@ -1,0 +1,13 @@
+{
+  "name": "Sailors Fleece",
+  "type": "Arms",
+  "stats": {
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

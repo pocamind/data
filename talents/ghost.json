@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "swift_rebound, evasive_expert, risky_moves => ghost := 40s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

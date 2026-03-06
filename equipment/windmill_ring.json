@@ -1,0 +1,16 @@
+{
+  "name": "Windmill Ring",
+  "type": "Rings",
+  "stats": {
+    "ice_armor": 2,
+    "wind_armor": 2
+  },
+  "talents": [
+    "regen ether when hit by ICE/WND"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

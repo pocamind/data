@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "galebreathe_unbounded := 75s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Alchemists Hat",
+  "type": "Head",
+  "stats": {},
+  "talents": [
+    "Potion Quaffer"
+  ],
+  "rarities": {
+    "common": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

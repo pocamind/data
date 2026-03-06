@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "shield_breaker := 60s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

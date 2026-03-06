@@ -1,0 +1,17 @@
+{
+  "name": "Ignition Gauntlets",
+  "type": "Arms",
+  "stats": {
+    "health": 8,
+    "posture": 1
+  },
+  "talents": [
+    "Force Your Way"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

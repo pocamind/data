@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Rare",
   "reqs": "neuroplasticity := 35r INT OR 35r WLL OR 35r CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

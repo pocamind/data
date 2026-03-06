@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Origin",
   "reqs": "mark_of_jurik := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

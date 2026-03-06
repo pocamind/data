@@ -1,0 +1,13 @@
+{
+  "name": "Shock Trooper Boots",
+  "type": "Legs",
+  "stats": {
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

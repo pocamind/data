@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "under_the_radar := 60s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

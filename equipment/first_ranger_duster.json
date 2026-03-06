@@ -1,0 +1,14 @@
+{
+  "name": "First Ranger Duster",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

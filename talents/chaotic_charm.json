@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "charismatic_cast => chaotic_charm := 55s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

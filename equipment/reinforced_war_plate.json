@@ -1,0 +1,17 @@
+{
+  "name": "Reinforced War Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 6,
+    "posture": 1
+  },
+  "talents": [
+    "Crippling Impact"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

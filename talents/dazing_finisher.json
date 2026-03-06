@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "charismatic_cast, tough_love, chaotic_charm, lasting_charisma => dazing_finisher := 55s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

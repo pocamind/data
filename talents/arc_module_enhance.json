@@ -7,5 +7,6 @@
   "vaulted": false,
   "category": "Arcwarder",
   "exclusive": [],
-  "not_counted_towards_total": true
+  "not_counted_towards_total": true,
+  "extended_desc": ""
 }

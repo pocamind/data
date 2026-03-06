@@ -13,5 +13,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_saintsworn := 15s ICE, 15s FLM, 15s LTN, 15s WND, 15s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

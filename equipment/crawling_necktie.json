@@ -1,0 +1,13 @@
+{
+  "name": "Crawling Necktie",
+  "type": "Torso",
+  "stats": {
+    "shadow_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 2
+  },
+  "desc": "",
+  "requirements": ""
+}

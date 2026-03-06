@@ -1,0 +1,15 @@
+{
+  "name": "Evanspear War Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 6,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

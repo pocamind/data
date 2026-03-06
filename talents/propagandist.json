@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "propagandist := 75s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

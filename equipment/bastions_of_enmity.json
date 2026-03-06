@@ -1,0 +1,14 @@
+{
+  "name": "Bastions of Enmity",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "posture": 2
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 3
+  },
+  "desc": "",
+  "requirements": ""
+}

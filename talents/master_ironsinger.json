@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_ironsinger => master_ironsinger := 50s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

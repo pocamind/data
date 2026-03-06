@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "haunted_path_specter => possession := 75s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

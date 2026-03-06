@@ -1,0 +1,14 @@
+{
+  "name": "Steel Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 5,
+    "posture": 1
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

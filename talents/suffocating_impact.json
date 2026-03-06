@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

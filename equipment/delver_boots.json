@@ -1,0 +1,15 @@
+{
+  "name": "Delver Boots",
+  "type": "Legs",
+  "stats": {
+    "posture": 2
+  },
+  "talents": [
+    "Surestep"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

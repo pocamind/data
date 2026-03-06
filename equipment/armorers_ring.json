@@ -1,0 +1,13 @@
+{
+  "name": "Armorers Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [
+    "-10% armor dmg"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Legion Phalanx Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 6,
+    "posture": 2
+  },
+  "talents": [
+    "Hoplite"
+  ],
+  "rarities": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "surge_path_unstable_capacitor => fried_circuits := 60s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

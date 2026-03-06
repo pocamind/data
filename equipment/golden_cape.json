@@ -1,0 +1,13 @@
+{
+  "name": "Golden Cape",
+  "type": "Torso",
+  "stats": {
+    "physical_armor": 3
+  },
+  "talents": [],
+  "rarities": {
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

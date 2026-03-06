@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "adept_thundercaller => expert_thundercaller := 30s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

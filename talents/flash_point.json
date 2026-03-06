@@ -10,5 +10,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

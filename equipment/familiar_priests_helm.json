@@ -1,0 +1,14 @@
+{
+  "name": "Familiar Priests Helm",
+  "type": "Head",
+  "stats": {
+    "health": 10
+  },
+  "talents": [],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

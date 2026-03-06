@@ -1,0 +1,16 @@
+{
+  "name": "White Parka",
+  "type": "Arms",
+  "stats": {
+    "health": 2
+  },
+  "talents": [
+    "Steady Footing"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "windup_battery := 30s INT, 30s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

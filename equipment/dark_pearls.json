@@ -1,0 +1,14 @@
+{
+  "name": "Dark Pearls",
+  "type": "Ears",
+  "stats": {
+    "health": 2,
+    "posture": -2
+  },
+  "talents": [
+    "Inky Pearls"
+  ],
+  "rarities": {},
+  "desc": "",
+  "requirements": ""
+}

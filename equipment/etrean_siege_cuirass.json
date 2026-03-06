@@ -1,0 +1,17 @@
+{
+  "name": "Etrean Siege Cuirass",
+  "type": "Arms",
+  "stats": {
+    "health": 8
+  },
+  "talents": [
+    "Battle Tendency"
+  ],
+  "rarities": {
+    "rare": 1,
+    "uncommon": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

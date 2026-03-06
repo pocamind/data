@@ -1,0 +1,16 @@
+{
+  "name": "Simmerbloom Diadem",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Simmerbloom"
+  ],
+  "rarities": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

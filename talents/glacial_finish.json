@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "glacial_finish := 35s ICE",
-  "vaulted": true
+  "vaulted": true,
+  "extended_desc": ""
 }

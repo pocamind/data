@@ -1,0 +1,16 @@
+{
+  "name": "Grand Fisher Plate",
+  "type": "Arms",
+  "stats": {
+    "health": 10,
+    "posture": 1
+  },
+  "talents": [
+    "Diver's Resilience"
+  ],
+  "rarities": {
+    "legendary": 3
+  },
+  "desc": "",
+  "requirements": ""
+}

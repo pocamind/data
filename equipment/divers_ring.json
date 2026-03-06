@@ -1,0 +1,15 @@
+{
+  "name": "Divers Ring",
+  "type": "Rings",
+  "stats": {
+    "dvm": 5
+  },
+  "talents": [
+    "that 5% dvm is ONLY in depths!"
+  ],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

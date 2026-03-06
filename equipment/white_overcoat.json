@@ -1,0 +1,13 @@
+{
+  "name": "White Overcoat",
+  "type": "Arms",
+  "stats": {
+    "health": 2
+  },
+  "talents": [],
+  "rarities": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "requirements": ""
+}

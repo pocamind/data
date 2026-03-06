@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "intelligence_unbounded := 75s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

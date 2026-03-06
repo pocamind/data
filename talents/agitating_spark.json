@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "flamecharmer => agitating_spark := 40s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

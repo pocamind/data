@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "brassneck := 30s STR, 35s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }
