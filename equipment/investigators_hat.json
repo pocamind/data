@@ -12,5 +12,5 @@
     "uncommon": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "investigators_hat := ()"
 }

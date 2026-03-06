@@ -9,5 +9,5 @@
     "uncommon": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "feathertop_helm := ()"
 }

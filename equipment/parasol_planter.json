@@ -11,5 +11,5 @@
     "rare": 3
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "parasol_planter := ()"
 }

@@ -10,5 +10,5 @@
     "common": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "leather_gloves := ()"
 }

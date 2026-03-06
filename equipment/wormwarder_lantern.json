@@ -9,5 +9,5 @@
   ],
   "rarities": {},
   "desc": "",
-  "requirements": ""
+  "reqs": "wormwarder_lantern := ()"
 }

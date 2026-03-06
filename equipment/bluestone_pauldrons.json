@@ -11,5 +11,5 @@
     "rare": 2
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "bluestone_pauldrons := ()"
 }

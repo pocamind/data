@@ -12,5 +12,5 @@
     "legendary": 3
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "grand_fisher_plate := ()"
 }

@@ -10,5 +10,5 @@
     "uncommon": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "familiar_priests_helm := ()"
 }

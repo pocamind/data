@@ -11,5 +11,5 @@
     "common": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "authority_voltspark_mask := ()"
 }

@@ -10,5 +10,5 @@
     "rare": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "gladiator_pauldrons := ()"
 }

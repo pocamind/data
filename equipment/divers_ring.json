@@ -11,5 +11,5 @@
     "uncommon": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "divers_ring := ()"
 }

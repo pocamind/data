@@ -9,5 +9,5 @@
     "rare": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "sailors_fleece := ()"
 }

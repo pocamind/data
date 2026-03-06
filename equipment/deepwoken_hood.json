@@ -8,5 +8,5 @@
     "legendary": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "deepwoken_hood := ()"
 }

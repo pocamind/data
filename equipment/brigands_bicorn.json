@@ -12,5 +12,5 @@
     "rare": 2
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "brigands_bicorn := ()"
 }

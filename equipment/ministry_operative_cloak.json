@@ -12,5 +12,5 @@
     "legendary": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "ministry_operative_cloak := ()"
 }

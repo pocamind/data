@@ -9,5 +9,5 @@
     "rare": 2
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "fur_pauldrons := ()"
 }

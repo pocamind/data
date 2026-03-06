@@ -14,5 +14,5 @@
     "legendary": 1
   },
   "desc": "",
-  "requirements": ""
+  "reqs": "hive_scourge_cuirass := ()"
 }
