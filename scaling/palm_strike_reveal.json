@@ -1,0 +1,8 @@
+{
+  "name": "Palm Strike [Reveal]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[31,31,31,31,31][OATH,BLUNT][] -> [31,31,31,31,31][OATH,BLUNT][] -> [7,7,7,7,7][OATH,SLASH][] -> [7,7,7,7,7][OATH,SLASH][] -> [7,7,7,7,7][OATH,SLASH][] -> [7,7,7,7,7][OATH,SLASH][]",
+  "derives": [],
+  "pve_multiplier": 15
+}

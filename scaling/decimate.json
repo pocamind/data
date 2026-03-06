@@ -1,0 +1,10 @@
+{
+  "name": "Decimate",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[18.67,18.67,18.67,18.67,18.67][OATH,SLASH][] -> [18.67,18.67,18.67,18.67,18.67][OATH,SLASH][]",
+  "derives": [
+    "decimate_reveal"
+  ],
+  "pve_multiplier": 12
+}
