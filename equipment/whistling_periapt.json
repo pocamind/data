@@ -1,5 +1,5 @@
 {
-  "name": "whistling periapt",
+  "name": "Whistling Periapt",
   "type": "Torso",
   "stats": {
     "health": 1,
@@ -9,5 +9,6 @@
     "Whistleguard"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

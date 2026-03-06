@@ -1,5 +1,5 @@
 {
-  "name": "barrel helm",
+  "name": "Barrel Helm",
   "type": "Head",
   "stats": {
     "health": 5
@@ -8,5 +8,6 @@
   "rarities": {
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

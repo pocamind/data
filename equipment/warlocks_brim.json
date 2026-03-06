@@ -1,5 +1,5 @@
 {
-  "name": "warlock's brim",
+  "name": "Warlocks Brim",
   "type": "Head",
   "stats": {
     "health": 5
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

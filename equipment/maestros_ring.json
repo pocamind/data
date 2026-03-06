@@ -1,5 +1,5 @@
 {
-  "name": "maestro's ring",
+  "name": "Maestros Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "vagabond's bicorn",
+  "name": "Vagabonds Bicorn",
   "type": "Head",
   "stats": {
     "health": 4
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

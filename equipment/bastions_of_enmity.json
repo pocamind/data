@@ -1,5 +1,5 @@
 {
-  "name": "bastions of enmity",
+  "name": "Bastions of Enmity",
   "type": "Arms",
   "stats": {
     "health": 10,
@@ -9,5 +9,6 @@
   "rarities": {
     "legendary": 3
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

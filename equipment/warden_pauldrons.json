@@ -1,5 +1,5 @@
 {
-  "name": "warden pauldrons",
+  "name": "Warden Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 10,
@@ -9,5 +9,6 @@
   "rarities": {
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

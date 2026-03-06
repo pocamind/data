@@ -1,10 +1,11 @@
 {
-  "name": "imperator's fury",
+  "name": "Imperators Fury",
   "type": "Torso",
   "stats": {},
   "talents": [
     "Brute Strength"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

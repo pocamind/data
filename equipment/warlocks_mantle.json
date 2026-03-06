@@ -1,5 +1,5 @@
 {
-  "name": "warlock's mantle",
+  "name": "Warlocks Mantle",
   "type": "Arms",
   "stats": {
     "health": 7
@@ -11,5 +11,6 @@
     "rare": 1,
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

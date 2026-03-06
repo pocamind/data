@@ -1,5 +1,5 @@
 {
-  "name": "moonseye gauntlets",
+  "name": "Moonseye Gauntlets",
   "type": "Arms",
   "stats": {
     "health": 7,
@@ -10,5 +10,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

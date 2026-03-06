@@ -1,5 +1,5 @@
 {
-  "name": "miner's hardhat",
+  "name": "Miners Hardhat",
   "type": "Head",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

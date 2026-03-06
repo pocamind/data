@@ -1,10 +1,11 @@
 {
-  "name": "hivelord mask",
+  "name": "Hivelord Mask",
   "type": "Face",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

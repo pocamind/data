@@ -1,10 +1,11 @@
 {
-  "name": "brow stud",
+  "name": "Brow Stud",
   "type": "Face",
   "stats": {
     "health": 1
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

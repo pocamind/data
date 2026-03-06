@@ -1,5 +1,5 @@
 {
-  "name": "threadwork kilt",
+  "name": "Threadwork Kilt",
   "type": "Torso",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

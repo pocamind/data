@@ -1,5 +1,5 @@
 {
-  "name": "reinforced war helmet",
+  "name": "Reinforced War Helmet",
   "type": "Head",
   "stats": {
     "health": 4,
@@ -11,5 +11,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "winter corps parka",
+  "name": "Winter Corps Parka",
   "type": "Arms",
   "stats": {
     "health": 6,
@@ -13,5 +13,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

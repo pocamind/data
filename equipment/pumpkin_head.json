@@ -1,8 +1,9 @@
 {
-  "name": "pumpkin head",
+  "name": "Pumpkin Head",
   "type": "Head",
   "stats": {},
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

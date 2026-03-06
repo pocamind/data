@@ -1,5 +1,5 @@
 {
-  "name": "grand pauldrons",
+  "name": "Grand Pauldrons",
   "type": "Arms",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

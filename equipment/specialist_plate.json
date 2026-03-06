@@ -1,5 +1,5 @@
 {
-  "name": "specialist plate",
+  "name": "Specialist Plate",
   "type": "Arms",
   "stats": {
     "health": 5
@@ -11,5 +11,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

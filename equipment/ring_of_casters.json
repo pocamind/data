@@ -1,5 +1,5 @@
 {
-  "name": "ring of casters",
+  "name": "Ring of Casters",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -7,5 +7,6 @@
     "-5% weapon dmg"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

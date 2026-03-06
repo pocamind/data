@@ -1,8 +1,9 @@
 {
-  "name": "authority prototype mask",
+  "name": "Authority Prototype Mask",
   "type": "Face",
   "stats": {},
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

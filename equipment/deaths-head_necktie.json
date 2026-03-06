@@ -1,5 +1,5 @@
 {
-  "name": "death's-head necktie",
+  "name": "Deaths-Head Necktie",
   "type": "Torso",
   "stats": {
     "shadow_armor": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

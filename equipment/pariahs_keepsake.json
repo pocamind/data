@@ -1,10 +1,11 @@
 {
-  "name": "pariah's keepsake",
+  "name": "Pariahs Keepsake",
   "type": "Rings",
   "stats": {},
   "talents": [
     "more dmg to bad rep factions"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

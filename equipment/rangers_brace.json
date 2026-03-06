@@ -1,5 +1,5 @@
 {
-  "name": "ranger's brace",
+  "name": "Rangers Brace",
   "type": "Arms",
   "stats": {
     "health": 3,
@@ -9,5 +9,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

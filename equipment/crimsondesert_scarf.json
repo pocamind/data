@@ -1,5 +1,5 @@
 {
-  "name": "crimson/desert scarf",
+  "name": "Crimsondesert Scarf",
   "type": "Torso",
   "stats": {
     "fire_armor": 3
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

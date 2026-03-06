@@ -1,5 +1,5 @@
 {
-  "name": "hive scourge cuirass",
+  "name": "Hive Scourge Cuirass",
   "type": "Arms",
   "stats": {
     "health": 5,
@@ -13,5 +13,6 @@
     "uncommon": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

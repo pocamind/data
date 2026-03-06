@@ -1,5 +1,5 @@
 {
-  "name": "woodland pauldrons",
+  "name": "Woodland Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 3
@@ -10,5 +10,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

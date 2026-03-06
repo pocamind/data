@@ -1,5 +1,5 @@
 {
-  "name": "immortal helm",
+  "name": "Immortal Helm",
   "type": "Head",
   "stats": {},
   "talents": [
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

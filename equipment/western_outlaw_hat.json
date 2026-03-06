@@ -1,5 +1,5 @@
 {
-  "name": "western outlaw hat",
+  "name": "Western Outlaw Hat",
   "type": "Head",
   "stats": {
     "posture": 2
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "specialist boots",
+  "name": "Specialist Boots",
   "type": "Legs",
   "stats": {
     "posture": 1
@@ -11,5 +11,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

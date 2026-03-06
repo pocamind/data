@@ -1,5 +1,5 @@
 {
-  "name": "white overcoat",
+  "name": "White Overcoat",
   "type": "Arms",
   "stats": {
     "health": 2
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

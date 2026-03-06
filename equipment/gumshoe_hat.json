@@ -1,10 +1,11 @@
 {
-  "name": "gumshoe hat",
+  "name": "Gumshoe Hat",
   "type": "Head",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

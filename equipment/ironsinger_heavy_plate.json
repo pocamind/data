@@ -1,5 +1,5 @@
 {
-  "name": "ironsinger heavy plate",
+  "name": "Ironsinger Heavy Plate",
   "type": "Arms",
   "stats": {
     "health": 10,
@@ -12,5 +12,6 @@
     "rare": 1,
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

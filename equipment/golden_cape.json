@@ -1,5 +1,5 @@
 {
-  "name": "black/golden cape",
+  "name": "Golden Cape",
   "type": "Torso",
   "stats": {
     "physical_armor": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

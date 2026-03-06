@@ -1,5 +1,5 @@
 {
-  "name": "ignition gauntlets",
+  "name": "Ignition Gauntlets",
   "type": "Arms",
   "stats": {
     "health": 8,
@@ -12,5 +12,6 @@
     "rare": 1,
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

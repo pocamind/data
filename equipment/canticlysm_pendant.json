@@ -1,5 +1,5 @@
 {
-  "name": "canticlysm pendant",
+  "name": "Canticlysm Pendant",
   "type": "Torso",
   "stats": {
     "elemental_armor": 3
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

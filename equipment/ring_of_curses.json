@@ -1,10 +1,11 @@
 {
-  "name": "ring of curses",
+  "name": "Ring of Curses",
   "type": "Rings",
   "stats": {},
   "talents": [
     "more event spawns"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

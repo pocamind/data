@@ -1,5 +1,5 @@
 {
-  "name": "etrean siege cuirass",
+  "name": "Etrean Siege Cuirass",
   "type": "Arms",
   "stats": {
     "health": 8
@@ -12,5 +12,6 @@
     "uncommon": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

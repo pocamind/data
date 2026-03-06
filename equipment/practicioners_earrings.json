@@ -1,10 +1,11 @@
 {
-  "name": "practicioner's earrings",
+  "name": "Practicioners Earrings",
   "type": "Ears",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

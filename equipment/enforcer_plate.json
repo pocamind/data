@@ -1,5 +1,5 @@
 {
-  "name": "enforcer plate",
+  "name": "Enforcer Plate",
   "type": "Arms",
   "stats": {
     "posture": 1
@@ -11,5 +11,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

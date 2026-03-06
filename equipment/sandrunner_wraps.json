@@ -1,5 +1,5 @@
 {
-  "name": "sandrunner wraps",
+  "name": "Sandrunner Wraps",
   "type": "Arms",
   "stats": {
     "health": 6,
@@ -13,5 +13,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

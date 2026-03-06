@@ -1,5 +1,5 @@
 {
-  "name": "bulwark helm",
+  "name": "Bulwark Helm",
   "type": "Head",
   "stats": {
     "health": 3
@@ -11,5 +11,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

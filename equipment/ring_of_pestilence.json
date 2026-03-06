@@ -1,10 +1,11 @@
 {
-  "name": "ring of pestilence",
+  "name": "Ring of Pestilence",
   "type": "Rings",
   "stats": {},
   "talents": [
     "weapon dmg has 50% antiheal"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

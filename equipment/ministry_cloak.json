@@ -1,5 +1,5 @@
 {
-  "name": "ministry cloak",
+  "name": "Ministry Cloak",
   "type": "Arms",
   "stats": {
     "ether": 10,
@@ -10,5 +10,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

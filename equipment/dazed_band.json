@@ -1,5 +1,5 @@
 {
-  "name": "dazed band",
+  "name": "Dazed Band",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "mantle of enmity",
+  "name": "Mantle of Enmity",
   "type": "Torso",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

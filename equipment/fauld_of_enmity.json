@@ -1,5 +1,5 @@
 {
-  "name": "fauld of enmity",
+  "name": "Fauld of Enmity",
   "type": "Torso",
   "stats": {},
   "talents": [],
@@ -7,5 +7,6 @@
     "rare": 1,
     "legendary": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

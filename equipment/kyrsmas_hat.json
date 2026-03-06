@@ -1,5 +1,5 @@
 {
-  "name": "kyrsmas hat",
+  "name": "Kyrsmas Hat",
   "type": "Head",
   "stats": {
     "health": 10,
@@ -9,5 +9,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

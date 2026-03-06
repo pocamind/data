@@ -1,5 +1,5 @@
 {
-  "name": "guardian pauldrons",
+  "name": "Guardian Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 2,
@@ -7,5 +7,6 @@
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

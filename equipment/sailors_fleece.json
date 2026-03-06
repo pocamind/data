@@ -1,5 +1,5 @@
 {
-  "name": "sailor's fleece",
+  "name": "Sailors Fleece",
   "type": "Arms",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

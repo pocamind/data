@@ -1,5 +1,5 @@
 {
-  "name": "master thief earrings",
+  "name": "Master Thief Earrings",
   "type": "Ears",
   "stats": {
     "stealth": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

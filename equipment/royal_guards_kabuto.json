@@ -1,5 +1,5 @@
 {
-  "name": "royal guard's kabuto",
+  "name": "Royal Guards Kabuto",
   "type": "Head",
   "stats": {
     "health": 8
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

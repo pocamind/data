@@ -1,5 +1,5 @@
 {
-  "name": "evanspear war helmet",
+  "name": "Evanspear War Helmet",
   "type": "Head",
   "stats": {
     "health": 4
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,10 +1,11 @@
 {
-  "name": "enforcer boots",
+  "name": "Enforcer Boots",
   "type": "Legs",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

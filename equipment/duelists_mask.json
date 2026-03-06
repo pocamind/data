@@ -1,5 +1,5 @@
 {
-  "name": "duelist's mask",
+  "name": "Duelists Mask",
   "type": "Face",
   "stats": {
     "stealth": 6
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "blackleaf helm",
+  "name": "Blackleaf Helm",
   "type": "Head",
   "stats": {
     "health": 5,
@@ -11,5 +11,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

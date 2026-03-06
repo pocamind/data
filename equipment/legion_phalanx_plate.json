@@ -1,5 +1,5 @@
 {
-  "name": "legion phalanx plate",
+  "name": "Legion Phalanx Plate",
   "type": "Arms",
   "stats": {
     "health": 6,
@@ -12,5 +12,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

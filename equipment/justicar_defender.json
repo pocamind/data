@@ -1,10 +1,11 @@
 {
-  "name": "justicar defender",
+  "name": "Justicar Defender",
   "type": "Arms",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

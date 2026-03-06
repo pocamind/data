@@ -1,5 +1,5 @@
 {
-  "name": "tillian's beret",
+  "name": "Tillians Beret",
   "type": "Head",
   "stats": {
     "ether": 10,
@@ -12,5 +12,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

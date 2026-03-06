@@ -1,5 +1,5 @@
 {
-  "name": "seamaster's cap",
+  "name": "Seamasters Cap",
   "type": "Head",
   "stats": {
     "posture": 1
@@ -10,5 +10,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

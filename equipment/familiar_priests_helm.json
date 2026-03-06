@@ -1,5 +1,5 @@
 {
-  "name": "familiar priest's helm",
+  "name": "Familiar Priests Helm",
   "type": "Head",
   "stats": {
     "health": 10
@@ -9,5 +9,6 @@
     "rare": 1,
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

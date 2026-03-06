@@ -1,5 +1,5 @@
 {
-  "name": "varicosa medallion",
+  "name": "Varicosa Medallion",
   "type": "Torso",
   "stats": {
     "shadow_armor": 3
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

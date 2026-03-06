@@ -1,5 +1,5 @@
 {
-  "name": "imperial boots",
+  "name": "Imperial Boots",
   "type": "Legs",
   "stats": {
     "health": 5
@@ -9,5 +9,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

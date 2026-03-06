@@ -1,5 +1,5 @@
 {
-  "name": "hollow angel mask",
+  "name": "Hollow Angel Mask",
   "type": "Face",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

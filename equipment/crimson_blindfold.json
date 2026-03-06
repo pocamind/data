@@ -1,5 +1,5 @@
 {
-  "name": "black/crimson blindfold",
+  "name": "Crimson Blindfold",
   "type": "Face",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

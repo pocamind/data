@@ -1,10 +1,11 @@
 {
-  "name": "Assassin's Cloak",
+  "name": "Assassins Cloak",
   "type": "Arms",
   "stats": {},
   "talents": [
     "Lowstride"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

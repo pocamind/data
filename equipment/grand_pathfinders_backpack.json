@@ -1,5 +1,5 @@
 {
-  "name": "grand pathfinder's backpack",
+  "name": "Grand Pathfinders Backpack",
   "type": "Torso",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

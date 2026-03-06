@@ -1,5 +1,5 @@
 {
-  "name": "gladiator helmet",
+  "name": "Gladiator Helmet",
   "type": "Head",
   "stats": {
     "health": 5,
@@ -11,5 +11,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "light eater ring",
+  "name": "Light Eater Ring",
   "type": "Rings",
   "stats": {
     "fire_armor": 2,
@@ -11,5 +11,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

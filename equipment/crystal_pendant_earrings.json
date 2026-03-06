@@ -1,10 +1,11 @@
 {
-  "name": "crystal pendant earrings",
+  "name": "Crystal Pendant Earrings",
   "type": "Ears",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

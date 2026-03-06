@@ -1,5 +1,5 @@
 {
-  "name": "aazel's horns",
+  "name": "Aazels Horns",
   "type": "Head",
   "stats": {
     "posture": 1,
@@ -9,5 +9,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

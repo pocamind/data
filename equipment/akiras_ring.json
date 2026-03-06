@@ -1,5 +1,5 @@
 {
-  "name": "akira's ring",
+  "name": "Akiras Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

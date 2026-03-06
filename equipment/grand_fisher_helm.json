@@ -1,5 +1,5 @@
 {
-  "name": "grand fisher helm",
+  "name": "Grand Fisher Helm",
   "type": "Head",
   "stats": {
     "health": 5,
@@ -13,5 +13,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

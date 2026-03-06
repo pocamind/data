@@ -1,5 +1,5 @@
 {
-  "name": "old blood earrings",
+  "name": "Old Blood Earrings",
   "type": "Ears",
   "stats": {
     "ether": 5
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "parasol planter",
+  "name": "Parasol Planter",
   "type": "Head",
   "stats": {
     "health": 2
@@ -10,5 +10,6 @@
   "rarities": {
     "rare": 3
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "brilliant cape",
+  "name": "Brilliant Cape",
   "type": "Torso",
   "stats": {
     "elemental_armor": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

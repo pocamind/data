@@ -1,5 +1,5 @@
 {
-  "name": "dark cowl",
+  "name": "Dark Cowl",
   "type": "Head",
   "stats": {
     "posture": 1,
@@ -7,5 +7,6 @@
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

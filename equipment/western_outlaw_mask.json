@@ -1,10 +1,11 @@
 {
-  "name": "western outlaw mask",
+  "name": "Western Outlaw Mask",
   "type": "Face",
   "stats": {},
   "talents": [],
   "rarities": {
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

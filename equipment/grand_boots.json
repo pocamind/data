@@ -1,5 +1,5 @@
 {
-  "name": "grand boots",
+  "name": "Grand Boots",
   "type": "Legs",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

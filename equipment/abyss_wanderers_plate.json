@@ -1,5 +1,5 @@
 {
-  "name": "abyss wanderer's plate",
+  "name": "Abyss Wanderers Plate",
   "type": "Arms",
   "stats": {
     "health": 5
@@ -11,5 +11,6 @@
   "rarities": {
     "legendary": 3
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

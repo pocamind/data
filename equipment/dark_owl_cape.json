@@ -1,5 +1,5 @@
 {
-  "name": "dark owl cape",
+  "name": "Dark Owl Cape",
   "type": "Torso",
   "stats": {
     "stealth": 2,
@@ -10,5 +10,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

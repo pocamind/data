@@ -1,5 +1,5 @@
 {
-  "name": "chained ring",
+  "name": "Chained Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -9,5 +9,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "specialist helmet",
+  "name": "Specialist Helmet",
   "type": "Head",
   "stats": {
     "health": 8
@@ -11,5 +11,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

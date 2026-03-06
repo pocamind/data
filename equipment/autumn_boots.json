@@ -1,5 +1,5 @@
 {
-  "name": "autumn boots",
+  "name": "Autumn Boots",
   "type": "Legs",
   "stats": {
     "health": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

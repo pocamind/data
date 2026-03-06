@@ -1,5 +1,5 @@
 {
-  "name": "bluestone pauldrons",
+  "name": "Bluestone Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 5
@@ -10,5 +10,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

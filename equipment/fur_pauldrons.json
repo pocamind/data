@@ -1,5 +1,5 @@
 {
-  "name": "fur pauldrons",
+  "name": "Fur Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 3
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

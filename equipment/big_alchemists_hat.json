@@ -1,5 +1,5 @@
 {
-  "name": "Big Alchemist's Hat",
+  "name": "Big Alchemists Hat",
   "type": "Head",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

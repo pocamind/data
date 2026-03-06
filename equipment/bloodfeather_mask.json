@@ -1,5 +1,5 @@
 {
-  "name": "bloodfeather mask",
+  "name": "Bloodfeather Mask",
   "type": "Face",
   "stats": {
     "shadow_armor": 5
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

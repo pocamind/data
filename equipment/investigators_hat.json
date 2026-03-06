@@ -1,5 +1,5 @@
 {
-  "name": "investigator's hat",
+  "name": "Investigators Hat",
   "type": "Head",
   "stats": {
     "health": 4
@@ -11,5 +11,6 @@
     "rare": 1,
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

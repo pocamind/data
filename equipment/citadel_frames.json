@@ -1,5 +1,5 @@
 {
-  "name": "citadel frames",
+  "name": "Citadel Frames",
   "type": "Face",
   "stats": {
     "health": 5,
@@ -9,5 +9,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

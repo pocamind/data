@@ -1,5 +1,5 @@
 {
-  "name": "western outlaw robes",
+  "name": "Western Outlaw Robes",
   "type": "Arms",
   "stats": {
     "health": 3
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

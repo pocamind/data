@@ -1,5 +1,5 @@
 {
-  "name": "chef's toque",
+  "name": "Chefs Toque",
   "type": "Head",
   "stats": {
     "health": 10
@@ -11,5 +11,6 @@
   "rarities": {
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

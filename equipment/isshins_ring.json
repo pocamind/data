@@ -1,5 +1,5 @@
 {
-  "name": "isshin's ring",
+  "name": "Isshins Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -7,5 +7,6 @@
     "+25% taken dmg"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

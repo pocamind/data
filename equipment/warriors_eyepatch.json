@@ -1,10 +1,11 @@
 {
-  "name": "warrior's eyepatch",
+  "name": "Warriors Eyepatch",
   "type": "Face",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

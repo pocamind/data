@@ -1,5 +1,5 @@
 {
-  "name": "windmill ring",
+  "name": "Windmill Ring",
   "type": "Rings",
   "stats": {
     "ice_armor": 2,
@@ -11,5 +11,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

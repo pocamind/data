@@ -1,5 +1,5 @@
 {
-  "name": "guardian helmet",
+  "name": "Guardian Helmet",
   "type": "Head",
   "stats": {
     "health": 5,
@@ -7,5 +7,6 @@
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

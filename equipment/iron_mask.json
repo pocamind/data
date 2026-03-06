@@ -1,10 +1,11 @@
 {
-  "name": "iron mask",
+  "name": "Iron Mask",
   "type": "Face",
   "stats": {},
   "talents": [],
   "rarities": {
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

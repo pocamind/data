@@ -1,5 +1,5 @@
 {
-  "name": "shock trooper boots",
+  "name": "Shock Trooper Boots",
   "type": "Legs",
   "stats": {
     "posture": 1
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

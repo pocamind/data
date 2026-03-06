@@ -1,5 +1,5 @@
 {
-  "name": "champion's cape",
+  "name": "Champions Cape",
   "type": "Arms",
   "stats": {
     "lightning_armor": 10
@@ -11,5 +11,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

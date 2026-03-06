@@ -1,10 +1,11 @@
 {
-  "name": "silver ring",
+  "name": "Silver Ring",
   "type": "Rings",
   "stats": {},
   "talents": [],
   "rarities": {
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

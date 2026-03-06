@@ -1,5 +1,5 @@
 {
-  "name": "wormwarder lantern",
+  "name": "Wormwarder Lantern",
   "type": "Torso",
   "stats": {
     "sanity": 10
@@ -8,5 +8,6 @@
     "Wormwarder"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "dark pearls",
+  "name": "Dark Pearls",
   "type": "Ears",
   "stats": {
     "health": 2,
@@ -9,5 +9,6 @@
     "Inky Pearls"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

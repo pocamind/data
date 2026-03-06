@@ -1,10 +1,11 @@
 {
-  "name": "moon dermal rings",
+  "name": "Moon Dermal Rings",
   "type": "Face",
   "stats": {
     "health": 1
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

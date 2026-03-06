@@ -1,5 +1,5 @@
 {
-  "name": "waning ring",
+  "name": "Waning Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

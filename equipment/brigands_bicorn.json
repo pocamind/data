@@ -1,5 +1,5 @@
 {
-  "name": "brigand's bicorn",
+  "name": "Brigands Bicorn",
   "type": "Head",
   "stats": {
     "health": 3
@@ -11,5 +11,6 @@
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

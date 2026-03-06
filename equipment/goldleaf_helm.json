@@ -1,5 +1,5 @@
 {
-  "name": "goldleaf helm",
+  "name": "Goldleaf Helm",
   "type": "Head",
   "stats": {
     "health": 5
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

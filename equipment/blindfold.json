@@ -1,10 +1,11 @@
 {
-  "name": "blindfold",
+  "name": "Blindfold",
   "type": "Face",
   "stats": {},
   "talents": [
     "Blinded"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

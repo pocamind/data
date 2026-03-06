@@ -1,10 +1,11 @@
 {
-  "name": "deepfire ring",
+  "name": "Deepfire Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
     "burn ticks faster"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

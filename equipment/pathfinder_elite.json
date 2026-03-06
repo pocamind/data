@@ -1,5 +1,5 @@
 {
-  "name": "pathfinder elite",
+  "name": "Pathfinder Elite",
   "type": "Arms",
   "stats": {
     "dvm": 5
@@ -9,5 +9,6 @@
     "rare": 2,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

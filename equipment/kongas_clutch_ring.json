@@ -1,10 +1,11 @@
 {
-  "name": "konga's clutch ring",
+  "name": "Kongas Clutch Ring",
   "type": "Rings",
   "stats": {},
   "talents": [
     "reduced slide cooldown"
   ],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

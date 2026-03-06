@@ -1,5 +1,5 @@
 {
-  "name": "big herbalist's hat",
+  "name": "Big Herbalists Hat",
   "type": "Head",
   "stats": {},
   "talents": [
@@ -9,5 +9,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

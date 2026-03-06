@@ -1,5 +1,5 @@
 {
-  "name": "shock trooper helmet",
+  "name": "Shock Trooper Helmet",
   "type": "Head",
   "stats": {
     "health": 8
@@ -8,5 +8,6 @@
   "rarities": {
     "rare": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

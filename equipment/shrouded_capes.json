@@ -1,5 +1,5 @@
 {
-  "name": "shrouded capes",
+  "name": "Shrouded Capes",
   "type": "Torso",
   "stats": {
     "stealth": 5,
@@ -10,5 +10,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

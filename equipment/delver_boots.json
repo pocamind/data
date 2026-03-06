@@ -1,5 +1,5 @@
 {
-  "name": "delver boots",
+  "name": "Delver Boots",
   "type": "Legs",
   "stats": {
     "posture": 2
@@ -10,5 +10,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,10 +1,11 @@
 {
-  "name": "iron boots",
+  "name": "Iron Boots",
   "type": "Legs",
   "stats": {},
   "talents": [],
   "rarities": {
     "rare": 2
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

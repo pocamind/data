@@ -1,5 +1,5 @@
 {
-  "name": "ring of wisps",
+  "name": "Ring of Wisps",
   "type": "Rings",
   "stats": {},
   "talents": [
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

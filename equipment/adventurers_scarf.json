@@ -1,5 +1,5 @@
 {
-  "name": "adventurer's scarf",
+  "name": "Adventurers Scarf",
   "type": "Torso",
   "stats": {
     "wind_armor": 3
@@ -9,5 +9,6 @@
     "rare": 1,
     "legendary": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

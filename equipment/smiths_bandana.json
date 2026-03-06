@@ -1,5 +1,5 @@
 {
-  "name": "smith's bandana",
+  "name": "Smiths Bandana",
   "type": "Head",
   "stats": {
     "health": 4
@@ -8,5 +8,6 @@
   "rarities": {
     "uncommon": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,10 +1,11 @@
 {
-  "name": "moon brow rings",
+  "name": "Moon Brow Rings",
   "type": "Face",
   "stats": {
     "health": 1
   },
   "talents": [],
   "rarities": {},
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }

@@ -1,5 +1,5 @@
 {
-  "name": "emerald tusk earrings",
+  "name": "Emerald Tusk Earrings",
   "type": "Ears",
   "stats": {},
   "talents": [],
@@ -7,5 +7,6 @@
     "rare": 1,
     "common": 1
   },
-  "desc": ""
+  "desc": "",
+  "requirements": ""
 }
