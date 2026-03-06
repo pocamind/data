@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_arcwarder := 20s FTD, 20s FLM, 20s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "stock_bash := 25s STR, 55s MED",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

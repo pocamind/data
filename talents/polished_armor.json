@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "polished_armor := 75s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

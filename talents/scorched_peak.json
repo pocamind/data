@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "scorched_peak := 25s FLM, 50s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

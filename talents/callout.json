@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "callout := 20s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "the_eleventh_hour := 35s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

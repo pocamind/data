@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "battle_tendency => magical_resolve := 15s FTD, 40s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

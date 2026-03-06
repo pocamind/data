@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

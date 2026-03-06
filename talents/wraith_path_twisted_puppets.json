@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

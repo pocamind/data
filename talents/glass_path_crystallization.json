@@ -10,5 +10,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "frostdrawer => glass_path_crystallization := 40s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "flamecharmer => flaming_flourish := 30s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

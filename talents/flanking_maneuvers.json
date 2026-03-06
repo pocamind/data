@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Faction",
   "reqs": "flanking_maneuvers := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

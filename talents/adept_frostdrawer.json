@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "frostdrawer => adept_frostdrawer := 20s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "master_chef := 15s CHA, 25s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

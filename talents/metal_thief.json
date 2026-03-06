@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "metal_thief := 50s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

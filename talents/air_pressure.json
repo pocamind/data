@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "galebreather => air_pressure := 20s AGL, 50s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

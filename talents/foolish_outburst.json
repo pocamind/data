@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "foolish_outburst := 50s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

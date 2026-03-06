@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Faction",
   "reqs": "murmur_tacet => tacet_minimization := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_bloodrender => master_bloodrender := 50s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

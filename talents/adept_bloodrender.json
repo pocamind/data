@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "bloodrender => adept_bloodrender := 20s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

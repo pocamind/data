@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "deep_wound := 35s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

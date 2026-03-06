@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "surge_path_unstable_capacitor => battery_sapper := 25s SDW, 60s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

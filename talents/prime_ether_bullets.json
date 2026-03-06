@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "prime_ether_bullets := 60s INT, 90s LHT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

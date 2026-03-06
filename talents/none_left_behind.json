@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "dustlunge => none_left_behind := 100s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

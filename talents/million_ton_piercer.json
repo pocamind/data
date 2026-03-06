@@ -14,5 +14,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "unwavering_resolve, shield_breaker => million_ton_piercer := 90s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

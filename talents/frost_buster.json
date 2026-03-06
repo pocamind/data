@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "cryonis => frost_buster := 15s HVY, 45s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

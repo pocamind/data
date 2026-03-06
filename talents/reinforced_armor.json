@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "battle_tendency, braced_collapse, perseverance, moving_fortress => reinforced_armor := 90s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

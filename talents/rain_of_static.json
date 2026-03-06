@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "rain_of_static := 30s LTN",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

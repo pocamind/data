@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

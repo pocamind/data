@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

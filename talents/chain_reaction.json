@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "chain_reaction := 80s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

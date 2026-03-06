@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "defensive_reprisal := 65s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

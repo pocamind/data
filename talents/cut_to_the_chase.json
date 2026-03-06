@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Rare",
   "reqs": "cut_to_the_chase := 60s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

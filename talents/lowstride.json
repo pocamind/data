@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "lowstride := 20s AGL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

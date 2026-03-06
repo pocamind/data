@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "explosive_finish := 45s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

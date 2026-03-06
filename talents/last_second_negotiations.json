@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "last_second_negotiations := 55s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

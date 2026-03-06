@@ -12,5 +12,6 @@
   "not_counted_towards_total": false,
   "rarity": "Oath",
   "reqs": "oath_visionshaper := 50s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "agitating_spark => emperor_flame := 60s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

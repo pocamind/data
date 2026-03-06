@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_galebreather => master_galebreather := 50s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

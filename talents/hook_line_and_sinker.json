@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Quest",
   "reqs": "hook_line_and_sinker := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

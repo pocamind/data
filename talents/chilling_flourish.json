@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "frostdrawer => chilling_flourish := 30s ICE",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

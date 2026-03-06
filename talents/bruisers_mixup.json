@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "bruisers_mixup := 1s LHT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "hoplite := 15s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

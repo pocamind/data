@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

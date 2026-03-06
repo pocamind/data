@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "tempest_wind := 20s WND",
-  "vaulted": true
+  "vaulted": true,
+  "extended_desc": ""
 }

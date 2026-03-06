@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

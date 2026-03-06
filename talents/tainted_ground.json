@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "tainted_ground := 30s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

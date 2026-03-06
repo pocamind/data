@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

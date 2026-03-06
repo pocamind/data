@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "off_your_game := 90s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "cult_of_personality := 90s CHA",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

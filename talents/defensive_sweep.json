@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "defensive_sweep := 50s MED",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

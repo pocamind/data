@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "bloodrend_unbounded := 75s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

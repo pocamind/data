@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

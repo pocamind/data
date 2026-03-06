@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "willpower_unbounded := 75s WLL",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

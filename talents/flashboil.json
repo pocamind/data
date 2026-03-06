@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "flashboil := 30s ICE, 30s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

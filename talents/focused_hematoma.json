@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Outfit",
   "reqs": "focused_hematoma := ()",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

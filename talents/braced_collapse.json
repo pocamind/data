@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "braced_collapse := 25s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

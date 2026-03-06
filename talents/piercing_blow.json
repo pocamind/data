@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Advanced",
   "reqs": "piercing_blow := 100s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

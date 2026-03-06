@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "sow_and_mend => hypovolemic_focus := 65s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

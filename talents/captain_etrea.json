@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "moving_fortress => captain_etrea := 20s FTD, 30s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

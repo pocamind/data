@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "precise_swing := 15s AGL, 25s STR",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

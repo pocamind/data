@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

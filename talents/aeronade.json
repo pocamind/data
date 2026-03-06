@@ -11,5 +11,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "aeronade := 40s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -9,5 +9,6 @@
   "not_counted_towards_total": false,
   "rarity": "Common",
   "reqs": "knights_rally => turtle_shell := 50s FTD",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

@@ -11,5 +11,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "flamecharm_unbounded := 75s FLM",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }

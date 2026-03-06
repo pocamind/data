@@ -9,5 +9,6 @@
   "not_counted_towards_total": true,
   "rarity": "Common",
   "reqs": "galebreather => adept_galebreather := 20s WND",
-  "vaulted": false
+  "vaulted": false,
+  "extended_desc": ""
 }
