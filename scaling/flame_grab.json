@@ -1,0 +1,8 @@
+{
+  "name": "Flame Grab",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[15,20,25,30,35][FLM][2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Frozen Servants [Blast]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[15,18,21,24,27][ICE][2.75:ICE] -> [15,18,21,24,27][ICE][2.75:ICE] ->[15,18,21,24,27][ICE][2.75:ICE] ->[15,18,21,24,27][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

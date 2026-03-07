@@ -1,0 +1,8 @@
+{
+  "name": "Decimate [Reveal]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[18.67,18.67,18.67,18.67,18.67][OATH,SLASH][] -> [18.67,18.67,18.67,18.67,18.67][OATH,SLASH][] -> [0.1,0.1,0.1,0.1,0.1][OATH,SLASH][] -> [4,4,4,4,4][OATH,SLASH][] -> [4,4,4,4,4][OATH,SLASH][] -> [4,4,4,4,4][OATH,SLASH][]",
+  "derives": [],
+  "pve_multiplier": 12
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ice Beam",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[7,7.3,7.6,7.9,8.2][ICE][2.75:ICE] -> [7,7.3,7.6,7.9,8.2][ICE][2.75:ICE] ->[7,7.3,7.6,7.9,8.2][ICE][2.75:ICE] ->[7,7.3,7.6,7.9,8.2][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

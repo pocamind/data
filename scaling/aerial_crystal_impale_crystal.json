@@ -1,0 +1,8 @@
+{
+  "name": "Aerial Crystal Impale [Crystal]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[7,8.5,10,11.5,13][ICE][2.75:ICE] -> [3.5,4.25,5,5.75,6.5][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

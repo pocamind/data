@@ -1,0 +1,8 @@
+{
+  "name": "Tornado Kick",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[18,20.5,23,25.5,28][WND][2.75:WND] -> [18,20.5,23,25.5,28][WND][2.75:WND] -> [18,20.5,23,25.5,28][WND][2.75:WND] -> [18,20.5,23,25.5,28][WND][2.75:WND]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

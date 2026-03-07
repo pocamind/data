@@ -1,0 +1,8 @@
+{
+  "name": "Flame Repulsion [Spring]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[14.4,16.56,18.72,20.88,23.04][FLM][2.75:FLM] -> [17,17,17,17,17][FLM][2.75:FLM]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}

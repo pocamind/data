@@ -1,0 +1,8 @@
+{
+  "name": "Ice Carve [Spring]",
+  "oath": false,
+  "bleed": false,
+  "scheme": "[10,10.5,11,11.5,12][ICE][2.75:ICE]",
+  "derives": [],
+  "pve_multiplier": 9.18
+}
