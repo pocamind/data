@@ -4,5 +4,8 @@
   "bleed": false,
   "scheme": "[11.88,13.86,15.84,17.82,19.8][SDW][2.75:SDW] -> [11.88,13.86,15.84,17.82,19.8][SDW][2.75:SDW] ->[11.88,13.86,15.84,17.82,19.8][SDW][2.75:SDW]",
   "derives": [],
-  "pve_multiplier": 9.18
+  "pve_multiplier": 9.18,
+  "ether_drain_scheme": "",
+  "bloodrend": false,
+  "posture": ""
 }

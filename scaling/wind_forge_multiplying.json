@@ -4,5 +4,8 @@
   "bleed": false,
   "scheme": "[5,6,7,8,9][WND,SLASH][2.75:WND] -> [5,6,7,8,9][WND,SLASH][2.75:WND] -> [5,6,7,8,9][WND,SLASH][2.75:WND]",
   "derives": [],
-  "pve_multiplier": 9.18
+  "pve_multiplier": 9.18,
+  "ether_drain_scheme": "",
+  "bloodrend": false,
+  "posture": ""
 }
