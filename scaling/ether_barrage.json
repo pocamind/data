@@ -4,5 +4,8 @@
   "bleed": false,
   "scheme": "[6,6.5,7,7.5,8][BLUNT][1.65:INT] -> [6,6.5,7,7.5,8][BLUNT][1.65:INT] -> [6,6.5,7,7.5,8][BLUNT][1.65:INT] -> [6,6.5,7,7.5,8][BLUNT][1.65:INT] -> [6,6.5,7,7.5,8][BLUNT][1.65:INT] ->[6,6.5,7,7.5,8][BLUNT][1.65:INT]",
   "derives": [],
-  "pve_multiplier": 9.18
+  "pve_multiplier": 9.18,
+  "ether_drain_scheme": "",
+  "bloodrend": false,
+  "posture": ""
 }

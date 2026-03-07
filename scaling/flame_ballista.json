@@ -4,5 +4,8 @@
   "bleed": false,
   "scheme": "[30.08,33.09,36.1,39.1,42.11][FLM][2.75:FLM]",
   "derives": [],
-  "pve_multiplier": 9.18
+  "pve_multiplier": 9.18,
+  "ether_drain_scheme": "",
+  "bloodrend": false,
+  "posture": ""
 }

@@ -4,5 +4,8 @@
   "bleed": false,
   "scheme": "[30,33,36,39,42][BLUNT][1.65:LHT]",
   "derives": [],
-  "pve_multiplier": 0
+  "pve_multiplier": 0,
+  "ether_drain_scheme": "",
+  "bloodrend": false,
+  "posture": ""
 }
