@@ -5,10 +5,10 @@
   "rarity": "Common",
   "innates": {},
   "vaulted": false,
-  "category": "Unknown",
+  "category": "Maestro's Technique",
   "exclusive": [
     ""
   ],
-  "not_counted_towards_total": false,
-  "extended_desc": ""
+  "extended_desc": "",
+  "not_counted_towards_total": false
 }
