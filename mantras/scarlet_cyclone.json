@@ -1,7 +1,7 @@
 {
   "desc": "Create a cyclone of blood.",
   "name": "Scarlet Cyclone",
-  "reqs": "scarlet_cyclone := 1r BLD",
+  "reqs": "scarlet_cyclone := 30r BLD",
   "type": "Attunement",
   "stars": 2,
   "vaulted": false,
