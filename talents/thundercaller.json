@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command Lightning as a Thundercaller. ",
+  "name": "Thundercaller",
+  "reqs": "thundercaller := 1 LTN",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Thundercaller",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}

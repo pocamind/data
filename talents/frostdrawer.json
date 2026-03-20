@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command Ice as a Frostdrawer. ",
+  "name": "Frostdrawer",
+  "reqs": "frostdrawer := 1 ICE",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Frostdrawer",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}

@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command wind as a Galebreather. ",
+  "name": "Galebreather",
+  "reqs": "galebreather := 1 WND",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Galebreather",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}
