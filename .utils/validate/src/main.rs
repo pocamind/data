@@ -12,7 +12,7 @@ use deepwoken::util::name_to_identifier;
 use serde_json::Value;
 
 fn repo_root() -> PathBuf {
-    PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("..")
+    PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("../..")
 }
 
 fn error_file() -> PathBuf {
@@ -90,6 +90,32 @@ fn check_reqs_parsable(bundle: &Value) {
                     Requirement::parse(req_str),
                     "'{req_str}' is not a valid parsable requirement"
                 );
+            }
+        }
+    }
+}
+
+// TODO! this is a slight issue for obvious reasons:
+// mantra prereqs? quest prereqs? we skip those for now but its a bit weird..
+// perhaps we may want to look into prefixing talents with talent_, mantras with mantra_ etc, within the requirement
+fn check_prereqs_exist(bundle: &Value) {
+    let Some(categories) = check!(bundle.as_object(), "bundle should be an object") else { return };
+
+    // acutally this remains unused for now.
+    for (category, items) in categories {
+        let Some(items) = check!(items.as_object(), "{category}: should be an object") else { continue };
+
+        for (key, entry) in items {
+            if let Some(req_field) = entry.get("reqs") {
+                let Some(req_str) = check!(
+                    req_field.as_str(),
+                    "{category}/{key}: 'req' field is not a string"
+                ) else { continue };
+
+                let Some(req) = check!(
+                    Requirement::parse(req_str),
+                    "'{req_str}' is not a valid parsable requirement"
+                ) else { continue };
             }
         }
     }

@@ -38,7 +38,7 @@ jobs:
 
       - name: Run validation
         id: validate
-        run: cargo run --release --manifest-path .utils/Cargo.toml
+        run: cargo run --release --manifest-path .utils/Cargo.toml -p validate
         continue-on-error: true
 
       - name: Comment on failure
