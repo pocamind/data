@@ -10,7 +10,7 @@ fn repo_root() -> PathBuf {
 /// A TransformationContext object provides utilities for transforming the data present
 /// at the repo's root (in parallel if applicable), and writing back the result. 
 pub struct TransformContext {
-    tables: HashMap<
+    pub(crate) tables: HashMap<
         String,
         // this is a map of values corresponding to each 'name' field -> a UID
         // (which is the id of the row semantically, which is also the name of the file)
@@ -93,6 +93,7 @@ impl TransformContext {
 
         paths.par_iter().for_each(|(path, val)| {
             fs::write(path, serde_json::to_string_pretty(val).unwrap()).unwrap();
+            println!("wrote: {path:?}");
         });
 
         Ok(())
