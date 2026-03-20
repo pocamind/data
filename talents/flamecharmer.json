@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command Fire as a Flamecharmer.",
+  "name": "Flamecharmer",
+  "reqs": "flamecharmer := 1 FLM",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Flamecharmer",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}

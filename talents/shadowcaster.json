@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command shadows as a Shadowcaster.",
+  "name": "Shadowcaster",
+  "reqs": "shadowcaster := 1 SDW",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Shadowcaster",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}

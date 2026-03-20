@@ -1,0 +1,12 @@
+{
+  "desc": "Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. ",
+  "name": "Bloodrender",
+  "reqs": "bloodrender := 1 BLD",
+  "rarity": "",
+  "innates": {},
+  "vaulted": false,
+  "category": "Bloodrender",
+  "exclusive": [],
+  "extended_desc": "",
+  "not_counted_towards_total": false
+}
