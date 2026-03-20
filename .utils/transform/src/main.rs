@@ -1,7 +1,14 @@
+use crate::ctx::TransformContext;
+
 mod mutate;
-mod unbundle;
 mod ctx;
 
-fn main() {
+fn main() -> anyhow::Result<()> {
     println!("transform");
+
+    let ctx = TransformContext::new()?;
+
+    ctx.write_back()?;
+
+    Ok(())
 }
