@@ -2,7 +2,7 @@
   "desc": "Grants you the ability to command shadows as a Shadowcaster.",
   "name": "Shadowcaster",
   "reqs": "shadowcaster := 1 SDW",
-  "rarity": "",
+  "rarity": "Common",
   "innates": {},
   "vaulted": false,
   "category": "Shadowcaster",
