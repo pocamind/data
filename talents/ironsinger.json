@@ -2,7 +2,7 @@
   "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods. ",
   "name": "Ironsinger",
   "reqs": "ironsinger := 1 MTL",
-  "rarity": "",
+  "rarity": "Common",
   "innates": {},
   "vaulted": false,
   "category": "Ironsinger",
