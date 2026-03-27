@@ -1,14 +1,16 @@
 {
+  "mats": {},
+  "name": "Stranded",
+  "reqs": "stranded := ()",
+  "notes": 0,
+  "talent": null,
   "category": "Master",
+  "pants_id": "5150610387",
+  "shirt_id": "5150609038",
   "durability": 0,
+  "resistances": {},
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {},
-  "name": "Stranded",
-  "notes": 0,
-  "reqs": "stranded := ()",
-  "resistances": {},
-  "talent": null
+  }
 }
