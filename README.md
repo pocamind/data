@@ -1,6 +1,6 @@
 # A Public Deepwoken Database
 
-This is a publicly available 'database' of Deepwoken talents, mantras, weapons and other information needed for people to develop and maintain tools.
+This is a publicly available 'database' of talents, mantras, weapons and other information from the game [Deepwoken](https://www.roblox.com/games/4111023553) needed for people to develop and maintain tools.
 
 ## Contributing
 
@@ -12,7 +12,7 @@ Whether it's adding new talent entries, fixing a requirement or even fixing a ty
 
 ## Using the Data
 
-If you're a developer trying to access the data, API wrappers are provGided in the following repository for the following languages:
+If you're a developer trying to access the data, API wrappers are provided in the following repository for the following languages:
 
 ### TODO 
 
