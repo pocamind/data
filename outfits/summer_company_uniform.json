@@ -1,23 +1,25 @@
 {
+  "mats": {
+    "Iron": 10,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "Summer Company Uniform",
+  "reqs": "summer_company_uniform := 90r TTL",
+  "notes": 100,
+  "talent": "Armor Piercing",
   "category": "Master",
+  "pants_id": "13743902756",
+  "shirt_id": "13743909041",
   "durability": 1500,
+  "resistances": {
+    "Slash Resistance": 0.1,
+    "Shadow Resistance": 0.25,
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.05
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Iron": 10
-  },
-  "name": "Summer Company Uniform",
-  "notes": 100,
-  "reqs": "summer_company_uniform := 90r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.05,
-    "Physical Resistance": 0.1,
-    "Shadow Resistance": 0.25,
-    "Slash Resistance": 0.1
-  },
-  "talent": "Armor Piercing"
+  }
 }

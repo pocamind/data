@@ -1,25 +1,27 @@
 {
+  "mats": {
+    "Iron": 8,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Spark Gland": 5,
+    "Vibrant Gem": 5,
+    "Insignia Gem": 1
+  },
+  "name": "Stormchanter's Raiments",
+  "reqs": "stormchanters_raiments := 45r LTN, 240r TTL",
+  "notes": 1000,
+  "talent": "Static Mastery",
   "category": "Master",
+  "pants_id": "16826416646",
+  "shirt_id": "16826412506",
   "durability": 2600,
+  "resistances": {
+    "Thunder Resistance": 0.25,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Insignia Gem": 1,
-    "Iron": 8,
-    "Spark Gland": 5,
-    "Vibrant Gem": 5
-  },
-  "name": "Stormchanter's Raiments",
-  "notes": 1000,
-  "reqs": "stormchanters_raiments := 45r LTN, 240r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.25,
-    "Physical Resistance": 0.25,
-    "Thunder Resistance": 0.25
-  },
-  "talent": "Static Mastery"
+  }
 }
