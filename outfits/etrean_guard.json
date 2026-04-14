@@ -9,9 +9,7 @@
   "reqs": "etrean_guard := 165r TTL",
   "notes": 30,
   "talent": "Unbreakable",
-  "category": "Master",
-  "pants_id": "6891785609",
-  "shirt_id": "6891784537",
+  "category": "Expert",
   "durability": 2000,
   "resistances": {
     "Physical Resistance": 0.25,
