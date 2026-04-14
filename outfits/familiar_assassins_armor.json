@@ -1,21 +1,21 @@
 {
-  "category": "Master",
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Emerald": 1
+  },
+  "name": "Familiar Assassin's Armor",
+  "reqs": "familiar_assassins_armor := 240r TTL",
+  "notes": 15000,
+  "talent": "Bane",
+  "category": "Unique",
   "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 50
-  },
-  "mats": {
-    "Cloth": 5,
-    "Emerald": 1,
-    "Fiber": 5
-  },
-  "name": "Familiar Assassin's Armor",
-  "notes": 15000,
-  "reqs": "familiar_assassins_armor := 240r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.25,
-    "Physical Resistance": 0.25
-  },
-  "talent": "Bane"
+  }
 }
