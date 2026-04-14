@@ -1,17 +1,19 @@
 {
+  "mats": {},
+  "name": "Whaler Initiate",
+  "reqs": "whaler_initiate := 90r TTL",
+  "notes": 0,
+  "talent": null,
   "category": "Master",
+  "pants_id": "5990847137",
+  "shirt_id": "5990796652",
   "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.05
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 25
-  },
-  "mats": {},
-  "name": "Whaler Initiate",
-  "notes": 0,
-  "reqs": "whaler_initiate := 90r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.05,
-    "Physical Resistance": 0.25
-  },
-  "talent": null
+  }
 }

@@ -1,21 +1,23 @@
 {
-  "category": "Master",
-  "durability": 1200,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
+    "Iron": 4,
     "Cloth": 5,
-    "Fiber,": 5,
-    "Iron": 4
+    "Fiber,": 5
   },
   "name": "Vigil Initiate",
-  "notes": 0,
   "reqs": "vigil_initiate := 90r TTL",
+  "notes": 0,
+  "talent": "Paired Soul",
+  "category": "Master",
+  "pants_id": "6191481920",
+  "shirt_id": "6191481006",
+  "durability": 1200,
   "resistances": {
     "Blunt Resistance": 0.1,
     "Physical Resistance": 0.2
   },
-  "talent": "Paired Soul"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }

@@ -1,23 +1,25 @@
 {
-  "category": "Master",
-  "durability": 1500,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 50
-  },
   "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
     "Gold": 2,
     "Iron": 10,
+    "Cloth": 5,
+    "Fiber": 5,
     "Lionfish Scale": 2
   },
   "name": "Whaler Coat",
-  "notes": 100,
   "reqs": "whaler_coat := 165r TTL",
+  "notes": 100,
+  "talent": null,
+  "category": "Master",
+  "pants_id": "10418587285",
+  "shirt_id": "10418548613",
+  "durability": 1500,
   "resistances": {
-    "Elemental Resistance": 0.15,
-    "Physical Resistance": 0.25
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.15
   },
-  "talent": null
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 50
+  }
 }
