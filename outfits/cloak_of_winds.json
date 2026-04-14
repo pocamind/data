@@ -1,23 +1,25 @@
 {
-  "category": "Master",
-  "durability": 1200,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
     "Erisore": 10,
-    "Strange Claw": 2,
-    "Vibrant Gem": 1
+    "Vibrant Gem": 1,
+    "Strange Claw": 2
   },
   "name": "Cloak of Winds",
-  "notes": 0,
   "reqs": "cloak_of_winds := 165r TTL",
+  "notes": 0,
+  "talent": "Paired Soul",
+  "category": "Master",
+  "pants_id": "10401292128",
+  "shirt_id": "10401137145",
+  "durability": 1200,
   "resistances": {
-    "Elemental Resistance": 0.3,
+    "Shadow Resistance": 0.25,
     "Physical Resistance": 0.2,
-    "Shadow Resistance": 0.25
+    "Elemental Resistance": 0.3
   },
-  "talent": "Paired Soul"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }

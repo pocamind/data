@@ -1,18 +1,20 @@
 {
-  "category": "Master",
-  "durability": 3000,
-  "extra_percents": {
-    "Ether Regen": 20,
-    "Extra Stealth": 0
-  },
   "mats": {},
   "name": "Cindergarb",
-  "notes": 0,
   "reqs": "cindergarb := ()",
+  "notes": 0,
+  "talent": "Warding Radiance",
+  "category": "Master",
+  "pants_id": "13408550924",
+  "shirt_id": "13408549888",
+  "durability": 3000,
   "resistances": {
     "Flame Resistance": 0.5,
     "Metal Resistance": 0.15,
     "Physical Resistance": 0.35
   },
-  "talent": "Warding Radiance"
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  }
 }
