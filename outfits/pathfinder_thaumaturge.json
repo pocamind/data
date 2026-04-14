@@ -1,21 +1,23 @@
 {
+  "mats": {
+    "Rock": 1,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "Pathfinder Thaumaturge",
+  "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
+  "notes": 30,
+  "talent": "Now You See Me",
   "category": "Master",
+  "pants_id": "12994469874",
+  "shirt_id": "12994454374",
   "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.15
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Rock": 1
-  },
-  "name": "Pathfinder Thaumaturge",
-  "notes": 30,
-  "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.15,
-    "Physical Resistance": 0.1
-  },
-  "talent": "Now You See Me"
+  }
 }

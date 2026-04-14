@@ -1,25 +1,27 @@
 {
-  "category": "Master",
-  "durability": 1500,
-  "extra_percents": {
-    "Ether Regen": 40,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
     "Irithine": 10,
-    "Lionfish Scale": 1,
-    "Strange Claw": 1
+    "Strange Claw": 1,
+    "Lionfish Scale": 1
   },
   "name": "Pathfinder Arch-Sorcerer",
-  "notes": 100,
   "reqs": "pathfinder_arch_sorcerer := 25r INT, 165r TTL",
+  "notes": 100,
+  "talent": "Devastating Power",
+  "category": "Master",
+  "pants_id": "10378362276",
+  "shirt_id": "10378359701",
+  "durability": 1500,
   "resistances": {
-    "Elemental Resistance": 0.25,
     "Ice Resistance": 0.1,
+    "Thunder Resistance": 0.1,
     "Physical Resistance": 0.1,
-    "Thunder Resistance": 0.1
+    "Elemental Resistance": 0.25
   },
-  "talent": "Devastating Power"
+  "extra_percents": {
+    "Ether Regen": 40,
+    "Extra Stealth": 0
+  }
 }
