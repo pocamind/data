@@ -1,26 +1,28 @@
 {
-  "category": "Master",
-  "durability": 3500,
-  "extra_percents": {
-    "Ether Regen": 15,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
     "Vibrant Gem": 5,
-    "Void Feather": 3,
-    "Wayward Gem": 3
+    "Wayward Gem": 3,
+    "Void Feather": 3
   },
   "name": "Shock Corps Light",
-  "notes": 1000,
   "reqs": "shock_corps_light := 240r TTL",
+  "notes": 1000,
+  "talent": "Battle-Hardened",
+  "category": "Master",
+  "pants_id": "106517259194191",
+  "shirt_id": "127010889576907",
+  "durability": 3500,
   "resistances": {
-    "Elemental Resistance": 0.3,
-    "Flame Resistance": 0.1,
     "Ice Resistance": 0.1,
+    "Flame Resistance": 0.1,
+    "Thunder Resistance": 0.1,
     "Physical Resistance": 0.3,
-    "Thunder Resistance": 0.1
+    "Elemental Resistance": 0.3
   },
-  "talent": "Battle-Hardened"
+  "extra_percents": {
+    "Ether Regen": 15,
+    "Extra Stealth": 0
+  }
 }
