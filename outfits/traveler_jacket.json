@@ -1,18 +1,18 @@
 {
-  "category": "Master",
-  "durability": 1000,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 1
   },
   "name": "Traveler Jacket",
-  "notes": 10,
   "reqs": "traveler_jacket := ()",
+  "notes": 10,
+  "talent": null,
+  "category": "Starter",
+  "durability": 1000,
   "resistances": {
     "Physical Resistance": 0.1
   },
-  "talent": null
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }
