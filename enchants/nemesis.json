@@ -1,0 +1,7 @@
+{
+  "info": "Your weapon critical changes to play the animation of the Katana critical. This does not have hitregistry unless a Nemesis Mark has been applied. On M1, a Nemesis Mark is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing 25 flat damage, or 18 posture damage if blocked. Nemesis' critical does not benefit from damage modifiers. If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each. The critical can still trigger critical Talents like Bear Trap and Manipulator, but it will not benefit from any damage modifiers these Talents may grant. The teleportation has a range cap of 65-70 studs.",
+  "name": "Nemesis",
+  "category": "Weapon",
+  "in_game_desc": "Your critical attack is replaced with Nemesis. Basic attacks now mark your enemies allowing you to critical attack to teleport to them.",
+  "obtainable_in": "Pathfinder"
+}

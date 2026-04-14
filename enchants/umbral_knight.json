@@ -1,0 +1,7 @@
+{
+  "info": "On hit, a red slash will follow up after a 0.25s delay, dealing 20% of your weapon's scaled damage. This has a 5 second cooldown. Umbral Knight can be parried, blocked, and dodged.",
+  "name": "Umbral Knight",
+  "category": "Weapon",
+  "in_game_desc": "On hit, the Umbral Knight will strike your foes for 20% of your weapon's damage after a 0.25s delay. 5s CD.",
+  "obtainable_in": "Pathfinder"
+}

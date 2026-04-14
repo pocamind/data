@@ -1,0 +1,7 @@
+{
+  "info": "After landing enough basic attacks (LHT: 3, MED: 2, HVY: 1), every hit for 5 seconds will apply Burn. Burn damage scales on Flamecharm investment. Procs an Eruption instead if you have Eruption Path. Procs Puppet Burn instead, spawning Puppets if you have Twisted Puppets Path.",
+  "name": "Blazing",
+  "category": "Weapon",
+  "in_game_desc": "Once enough stacks have been applied, for 5s your weapon attacks will ignite your foes.",
+  "obtainable_in": "Pathfinder"
+}

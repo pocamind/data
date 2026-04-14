@@ -1,0 +1,7 @@
+{
+  "info": "On weapon attack, there is a chance that one of two things will happen: A percentage (LHT: 3%, MED: 4.5%, HVY: 6%) of your maximum health will be added to your attack's scaled damage. This is applied before damage modifiers. You lose 7% of your maximum health instead. This can autogrip you. Curse of Yun'Shul has a 12 second cooldown per victim.",
+  "name": "Curse of Yun'Shul",
+  "category": "Weapon",
+  "in_game_desc": "Has a chance to inflict a curse that deals percentage damage, but who it falls upon is often down to luck.",
+  "obtainable_in": "Pathfinder"
+}
