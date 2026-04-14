@@ -1,21 +1,23 @@
 {
+  "mats": {
+    "Iron": 1,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "Hired Mercenary",
+  "reqs": "hired_mercenary := ()",
+  "notes": 25,
+  "talent": null,
   "category": "Master",
+  "pants_id": "5738143134",
+  "shirt_id": "5738141373",
   "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Elemental Resistance": 0.1
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Iron": 1
-  },
-  "name": "Hired Mercenary",
-  "notes": 25,
-  "reqs": "hired_mercenary := ()",
-  "resistances": {
-    "Elemental Resistance": 0.1,
-    "Physical Resistance": 0.15
-  },
-  "talent": null
+  }
 }

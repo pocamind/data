@@ -1,23 +1,25 @@
 {
-  "category": "Master",
-  "durability": 1200,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
+    "Iron": 2,
     "Cloth": 5,
     "Dark Feather": 2,
-    "Iron": 2,
     "Vibrant Gems": 3
   },
   "name": "Hive Tactician Armor",
-  "notes": 0,
   "reqs": "hive_tactician_armor := 25r AGL, 165r TTL",
+  "notes": 0,
+  "talent": "Brunt",
+  "category": "Master",
+  "pants_id": "10376886686",
+  "shirt_id": "10376884392",
+  "durability": 1200,
   "resistances": {
-    "Elemental Resistance": 0.2,
+    "Wind Resistance": 0.1,
     "Physical Resistance": 0.3,
-    "Wind Resistance": 0.1
+    "Elemental Resistance": 0.2
   },
-  "talent": "Brunt"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }
