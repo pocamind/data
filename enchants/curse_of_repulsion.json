@@ -1,0 +1,7 @@
+{
+  "info": "Upon blocking an attack, push the attacker backwards. Additionally, you take 30% chip damage from the attack that procced this enchant. Curse of Repulsion has a 2.5 second cooldown. There is no range limit for this effect.",
+  "name": "Curse of Repulsion",
+  "category": "Weapon",
+  "in_game_desc": "When you block attacks, you knock your attacker backwards. You receive +30% chip damage.",
+  "obtainable_in": "Pathfinder"
+}

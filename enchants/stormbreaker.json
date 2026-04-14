@@ -1,0 +1,7 @@
+{
+  "info": "On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies Shock or 1 Surge Rod. This effect has a 5 second cooldown. The damage this deals is based off your weapon's scaled damage, and it cannot be enhanced with damage modifiers. Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 40 flat typeless damage on throw and then 30 flat typeless damage on return. Stormbreaker can hit the same target twice on throw or recall and it deals less than 1 posture damage per hit. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.",
+  "name": "Stormbreaker",
+  "category": "Weapon",
+  "in_game_desc": "Your critical attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above.",
+  "obtainable_in": "Pathfinder"
+}

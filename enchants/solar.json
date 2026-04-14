@@ -1,0 +1,7 @@
+{
+  "info": "Applies a Solar Mark on Critical, Uppercut, or Flourish. Solar Marks last 8 seconds and reduces the affected target's Tempo gain and Ether regeneration. If you hit a marked enemy with a Vent, steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo. If a PvE enemy has the Solar Mark, your Vent damage against them is massively increased.",
+  "name": "Solar",
+  "category": "Weapon",
+  "in_game_desc": "Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and reduce Tempo gain and Ether regeneration. Your Vent drains the Tempo of those you've marked.",
+  "obtainable_in": "Pathfinder"
+}

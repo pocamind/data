@@ -1,0 +1,5 @@
+{
+  "info": "Every hit has an individual 10% chance to proc any other enchantment in the game. Multiple enchantments can proc at once. If a hit count-based enchantment is procced, you will gain 1 stack for that enchantment.",
+  "name": "Unstable",
+  "category": "Weapon"
+}

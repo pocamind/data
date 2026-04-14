@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage, this has a 20% chance to proc. On proc, push the attacker away, making it harder for them to chain attacks.",
+  "name": "Bounce",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may bounce your attacker away.",
+  "obtainable_in": "Pathfinder"
+}

@@ -1,0 +1,7 @@
+{
+  "info": "On critical hit, uppercut, flourish, or offhand shot, apply suffocation for a short duration.",
+  "name": "Suffocated",
+  "category": "Weapon",
+  "in_game_desc": "Landing a critical, uppercut, flourish, or offhand attack procs suffocation.",
+  "obtainable_in": "Pathfinder"
+}

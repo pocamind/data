@@ -1,0 +1,7 @@
+{
+  "info": "Drains the target's Ether on hit, based on scaled damage dealt. Your critical attack is replaced with a counter that drains 25% of your Ether on use. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% of your Posture and refunding 15% of your maximum Ether. The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.",
+  "name": "Curse of the Unbidden",
+  "category": "Weapon",
+  "in_game_desc": "Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit.",
+  "obtainable_in": "Pathfinder"
+}

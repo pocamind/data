@@ -1,0 +1,7 @@
+{
+  "info": "On hit, drain the target's armor durability to restore your own. Metal can still restore your armor even if the target has no armor durability left. The armor drain and armor restoration effects are calculated separately. Metal's effects are calculated based on your weapon's scaled damage, and the maximum armor durability of the relevant party; your armor durability for the restoration, and your opponent's armor durability for the drain. Metal cannot drain more than 200 armor durability in one hit. Similarly, Metal cannot restore more than 150 armor in one hit.",
+  "name": "Metal",
+  "category": "Weapon",
+  "in_game_desc": "Steal Armor durability on hit.",
+  "obtainable_in": "Pathfinder"
+}

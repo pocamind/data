@@ -1,0 +1,7 @@
+{
+  "info": "Grants a +10% damage buff to your weapon. Your weapon gains a blood drain effect. This blood drain scales on your weapon's damage. If you whiff an M1, lose 2% of your maximum blood.",
+  "name": "Curse of the Bloodthirsty",
+  "category": "Weapon",
+  "in_game_desc": "Deal +10% weapon damage and drain the blood of your foes, but suffer blood loss if your weapon attacks miss.",
+  "obtainable_in": "Pathfinder"
+}

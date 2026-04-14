@@ -1,0 +1,7 @@
+{
+  "info": "You take 50% more damage when being guard broken. On Flourish, Critical, or Uppercut, apply the Authoritative status effect to yourself, increasing all posture damage you deal by 50% for 30 seconds.",
+  "name": "Curse of the Authoritative",
+  "category": "Weapon",
+  "in_game_desc": "On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage.",
+  "obtainable_in": "Pathfinder"
+}

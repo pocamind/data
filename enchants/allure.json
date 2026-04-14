@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage from M1s, this has a 50% chance to proc. On proc, apply Charm to the opponent for 10 seconds. Charm-augmenting Talents can proc on Allure.",
+  "name": "Allure",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may Charm your attacker for 10s.",
+  "obtainable_in": "Pathfinder"
+}

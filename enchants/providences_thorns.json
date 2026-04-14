@@ -1,0 +1,7 @@
+{
+  "info": "PVE: Parrying an attack deals damage to the attacker after a delay. This deals 35% of the attack's damage you parried * your Power level, capping at 500 damage per proc. PVP: Parrying 3 attacks within 7 seconds deals damage to the attacker after a delay. This deals 4% of their maximum hp as damage. Providence's Thorns is parryable, but it does not grant autoparry frames. Certain bosses are entirely immune to Providence Thorns. These are: Maestro Evangarde Rest, Heart of Enmity, Parliament, Kyrsgarde Champion and Titus Fulminus Destellus.",
+  "name": "Providence's Thorns",
+  "category": "Weapon",
+  "in_game_desc": "Parrying attacks damages your foes.",
+  "obtainable_in": "Pathfinder"
+}
