@@ -9,6 +9,8 @@
   "notes": 25,
   "talent": "Looter",
   "category": "Master",
+  "pants_id": "5899132181",
+  "shirt_id": "5899129203",
   "durability": 1000,
   "resistances": {
     "Blunt Resistance": 0.1,

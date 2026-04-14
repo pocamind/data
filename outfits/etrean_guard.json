@@ -1,22 +1,24 @@
 {
-  "category": "Master",
-  "durability": 2000,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
-    "Erisore": 5,
     "Fiber": 5,
+    "Erisore": 5,
     "Megalodaunt Hide": 2
   },
   "name": "Etrean Guard",
-  "notes": 30,
   "reqs": "etrean_guard := 165r TTL",
+  "notes": 30,
+  "talent": "Unbreakable",
+  "category": "Master",
+  "pants_id": "6891785609",
+  "shirt_id": "6891784537",
+  "durability": 2000,
   "resistances": {
-    "Elemental Resistance": 0.2,
-    "Physical Resistance": 0.25
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.2
   },
-  "talent": "Unbreakable"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }
