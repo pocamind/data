@@ -1,26 +1,28 @@
 {
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Wind Gem": 1,
+    "Gale Stone": 5,
+    "Dark Feather": 1,
+    "Thresher Spine": 1
+  },
+  "name": "Jade Vigil's Weave",
+  "reqs": "jade_vigils_weave := 10r AGL, 240r TTL",
+  "notes": 1000,
+  "talent": "Serpent's Dance",
   "category": "Master",
+  "pants_id": "16220453084",
+  "shirt_id": "16220418770",
   "durability": 2800,
+  "resistances": {
+    "Wind Resistance": 0.15,
+    "Blood Resistance": 0.25,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.25
+  },
   "extra_percents": {
     "Ether Regen": 25,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Dark Feather": 1,
-    "Fiber": 5,
-    "Gale Stone": 5,
-    "Thresher Spine": 1,
-    "Wind Gem": 1
-  },
-  "name": "Jade Vigil's Weave",
-  "notes": 1000,
-  "reqs": "jade_vigils_weave := 10r AGL, 240r TTL",
-  "resistances": {
-    "Blood Resistance": 0.25,
-    "Elemental Resistance": 0.25,
-    "Physical Resistance": 0.3,
-    "Wind Resistance": 0.15
-  },
-  "talent": "Serpent's Dance"
+  }
 }
