@@ -10,9 +10,7 @@
   "reqs": "darksteel_plate := 20r FTD, 165r TTL",
   "notes": 300,
   "talent": "Unbreakable",
-  "category": "Master",
-  "pants_id": "10424589665",
-  "shirt_id": "10424588094",
+  "category": "Expert",
   "durability": 2500,
   "resistances": {
     "Physical Resistance": 0.25,
