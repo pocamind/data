@@ -1,26 +1,28 @@
 {
+  "mats": {
+    "Cloth": 3,
+    "Fiber": 4,
+    "Blue Gem": 1,
+    "Vibrant Gems": 10,
+    "Odd Tentacles": 5,
+    "Nautilodaunt Beak": 1
+  },
+  "name": "Cala-Mariner",
+  "reqs": "cala_mariner := 5r WLL, 240r TTL",
+  "notes": 2200,
+  "talent": "Tidal Shock",
   "category": "Master",
+  "pants_id": "73865346210922",
+  "shirt_id": "111462203380466",
   "durability": 2200,
+  "resistances": {
+    "Wind Resistance": 0.3,
+    "Blood Resistance": 0.25,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.35
+  },
   "extra_percents": {
     "Ether Regen": 45,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Blue Gem": 1,
-    "Cloth": 3,
-    "Fiber": 4,
-    "Nautilodaunt Beak": 1,
-    "Odd Tentacles": 5,
-    "Vibrant Gems": 10
-  },
-  "name": "Cala-Mariner",
-  "notes": 2200,
-  "reqs": "cala_mariner := 5r WLL, 240r TTL",
-  "resistances": {
-    "Blood Resistance": 0.25,
-    "Elemental Resistance": 0.35,
-    "Physical Resistance": 0.25,
-    "Wind Resistance": 0.3
-  },
-  "talent": "Tidal Shock"
+  }
 }

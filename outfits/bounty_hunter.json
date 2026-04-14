@@ -1,22 +1,24 @@
 {
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Eternal Longstone": 1
+  },
+  "name": "Bounty Hunter",
+  "reqs": "bounty_hunter := 90r TTL",
+  "notes": 0,
+  "talent": "Lightweight",
   "category": "Master",
+  "pants_id": "5707068742",
+  "shirt_id": "5707040824",
   "durability": 1500,
+  "resistances": {
+    "Flame Resistance": 0.05,
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.1
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Eternal Longstone": 1,
-    "Fiber": 5
-  },
-  "name": "Bounty Hunter",
-  "notes": 0,
-  "reqs": "bounty_hunter := 90r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.1,
-    "Flame Resistance": 0.05,
-    "Physical Resistance": 0.2
-  },
-  "talent": "Lightweight"
+  }
 }

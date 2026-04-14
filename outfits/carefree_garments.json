@@ -1,22 +1,24 @@
 {
+  "mats": {
+    "Iron": 1,
+    "Cloth": 4,
+    "Fiber": 5,
+    "Glass Stone": 1
+  },
+  "name": "Carefree Garments",
+  "reqs": "carefree_garments := 105r TTL",
+  "notes": 0,
+  "talent": "Fleetfoot",
   "category": "Master",
+  "pants_id": "122843258666243",
+  "shirt_id": "77587021895074",
   "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.15
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 4,
-    "Fiber": 5,
-    "Glass Stone": 1,
-    "Iron": 1
-  },
-  "name": "Carefree Garments",
-  "notes": 0,
-  "reqs": "carefree_garments := 105r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.15,
-    "Physical Resistance": 0.1
-  },
-  "talent": "Fleetfoot"
+  }
 }
