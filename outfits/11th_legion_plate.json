@@ -1,22 +1,24 @@
 {
-  "category": "Master",
-  "durability": 1500,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
     "Gold": 2,
-    "Iron": 10
+    "Iron": 10,
+    "Cloth": 5,
+    "Fiber": 5
   },
   "name": "11th Legion Plate",
-  "notes": 100,
   "reqs": "11th_legion_plate := 10r FTD, 90r TTL",
+  "notes": 100,
+  "talent": null,
+  "category": "Master",
+  "pants_id": "6026297753",
+  "shirt_id": "6026296387",
+  "durability": 1500,
   "resistances": {
     "Blunt Resistance": 0.3,
     "Physical Resistance": 0.1
   },
-  "talent": null
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }
