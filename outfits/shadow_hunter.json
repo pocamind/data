@@ -1,23 +1,25 @@
 {
+  "mats": {
+    "Gold": 2,
+    "Iron": 10,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "Shadow Hunter",
+  "reqs": "shadow_hunter := 10r AGL",
+  "notes": 0,
+  "talent": "Now You See Me",
   "category": "Master",
+  "pants_id": "4879083419",
+  "shirt_id": "4879082425",
   "durability": 1500,
+  "resistances": {
+    "Shadow Resistance": 0.1,
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.05
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Fiber": 5,
-    "Gold": 2,
-    "Iron": 10
-  },
-  "name": "Shadow Hunter",
-  "notes": 0,
-  "reqs": "shadow_hunter := 10r AGL",
-  "resistances": {
-    "Elemental Resistance": 0.05,
-    "Physical Resistance": 0.1,
-    "Shadow Resistance": 0.1
-  },
-  "talent": "Now You See Me"
+  }
 }
