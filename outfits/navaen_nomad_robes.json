@@ -1,25 +1,25 @@
 {
-  "category": "Master",
-  "durability": 1800,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 50
-  },
   "mats": {
     "Cloth": 5,
-    "Erisore": 8,
     "Fiber": 5,
+    "Erisore": 8,
     "Frigid Prisms": 2
   },
   "name": "Navaen Nomad Robes",
-  "notes": 100,
   "reqs": "navaen_nomad_robes := 90r TTL",
+  "notes": 100,
+  "talent": "Fists of Navae (Bugged)",
+  "category": "Adept",
+  "durability": 1800,
   "resistances": {
-    "Blunt Resistance": 0.1,
-    "Elemental Resistance": 0.1,
     "Ice Resistance": 0.15,
+    "Blunt Resistance": 0.1,
+    "Shadow Resistance": 0.15,
     "Physical Resistance": 0.1,
-    "Shadow Resistance": 0.15
+    "Elemental Resistance": 0.1
   },
-  "talent": "Fists of Navae (Bugged)"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 50
+  }
 }
