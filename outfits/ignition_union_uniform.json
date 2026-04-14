@@ -1,10 +1,4 @@
 {
-  "category": "Master",
-  "durability": 2000,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
@@ -12,11 +6,19 @@
     "Lionfish Scale": 1
   },
   "name": "Ignition Union Uniform",
-  "notes": 0,
   "reqs": "ignition_union_uniform := 105r TTL",
+  "notes": 0,
+  "talent": null,
+  "category": "Master",
+  "pants_id": "7009098395",
+  "shirt_id": "7009096659",
+  "durability": 2000,
   "resistances": {
-    "Elemental Resistance": 0.22,
-    "Physical Resistance": 0.22
+    "Physical Resistance": 0.22,
+    "Elemental Resistance": 0.22
   },
-  "talent": null
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }

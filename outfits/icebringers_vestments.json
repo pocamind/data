@@ -1,25 +1,27 @@
 {
+  "mats": {
+    "Iron": 8,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Blue Gem": 1,
+    "Vibrant Gem": 5,
+    "Frigid Prism": 5
+  },
+  "name": "Icebringer's Vestments",
+  "reqs": "icebringers_vestments := 45r ICE, 240r TTL",
+  "notes": 1000,
+  "talent": "Refreeze",
   "category": "Master",
+  "pants_id": "16826351109",
+  "shirt_id": "16826348060",
   "durability": 2600,
+  "resistances": {
+    "Ice Resistance": 0.2,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.3
+  },
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Blue Gem": 1,
-    "Cloth": 5,
-    "Fiber": 5,
-    "Frigid Prism": 5,
-    "Iron": 8,
-    "Vibrant Gem": 5
-  },
-  "name": "Icebringer's Vestments",
-  "notes": 1000,
-  "reqs": "icebringers_vestments := 45r ICE, 240r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.3,
-    "Ice Resistance": 0.2,
-    "Physical Resistance": 0.25
-  },
-  "talent": "Refreeze"
+  }
 }

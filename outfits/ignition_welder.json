@@ -1,22 +1,24 @@
 {
+  "mats": {
+    "Iron": 5,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Erisore": 5
+  },
+  "name": "Ignition Welder",
+  "reqs": "ignition_welder := 10r FTD, 165r TTL",
+  "notes": 300,
+  "talent": "Master Craftsman",
   "category": "Master",
+  "pants_id": "112355463907464",
+  "shirt_id": "80584303714847",
   "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 5,
-    "Erisore": 5,
-    "Fiber": 5,
-    "Iron": 5
-  },
-  "name": "Ignition Welder",
-  "notes": 300,
-  "reqs": "ignition_welder := 10r FTD, 165r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.25,
-    "Physical Resistance": 0.25
-  },
-  "talent": "Master Craftsman"
+  }
 }
