@@ -1,5 +1,7 @@
 {
   "info": "Gain a +20% damage buff to your M1s in PvE. This bypasses both the soft and hard damage modifier caps.  Upon landing your critical attack or parrying 3 times in a row, a star will rain down and explode, dealing 4% health damage in PvP or 100 PvE damage in a small AoE.",
   "name": "Astral",
-  "in_game_desc": "Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice."
+  "category": "Weapon",
+  "in_game_desc": "Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice.",
+  "obtainable_in": "Pathfinder"
 }
