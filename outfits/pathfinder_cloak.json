@@ -1,21 +1,23 @@
 {
+  "mats": {
+    "Iron": 6,
+    "Cloth": 4,
+    "Fiber": 4
+  },
+  "name": "Pathfinder Cloak",
+  "reqs": "pathfinder_cloak := 90r TTL",
+  "notes": 30,
+  "talent": "Environmentalist",
   "category": "Master",
+  "pants_id": "9639386496",
+  "shirt_id": "9639320443",
   "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.18,
+    "Elemental Resistance": 0.08
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Cloth": 4,
-    "Fiber": 4,
-    "Iron": 6
-  },
-  "name": "Pathfinder Cloak",
-  "notes": 30,
-  "reqs": "pathfinder_cloak := 90r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.08,
-    "Physical Resistance": 0.18
-  },
-  "talent": "Environmentalist"
+  }
 }
