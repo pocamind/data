@@ -1,26 +1,28 @@
 {
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Blue Gem": 1,
+    "Worn Cog": 1,
+    "Bounder Claw": 1,
+    "Vibrant Gems": 5,
+    "Frozen Membrane": 1
+  },
+  "name": "Ignition Deepdelver",
+  "reqs": "ignition_deepdelver := 240r TTL",
+  "notes": 1000,
+  "talent": "Force Your Way",
   "category": "Master",
+  "pants_id": "11698217402",
+  "shirt_id": "11698216419",
   "durability": 3000,
+  "resistances": {
+    "Ice Resistance": 0.15,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.35
+  },
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Blue Gem": 1,
-    "Bounder Claw": 1,
-    "Cloth": 5,
-    "Fiber": 5,
-    "Frozen Membrane": 1,
-    "Vibrant Gems": 5,
-    "Worn Cog": 1
-  },
-  "name": "Ignition Deepdelver",
-  "notes": 1000,
-  "reqs": "ignition_deepdelver := 240r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.35,
-    "Ice Resistance": 0.15,
-    "Physical Resistance": 0.3
-  },
-  "talent": "Force Your Way"
+  }
 }
