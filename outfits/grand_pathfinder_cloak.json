@@ -1,25 +1,27 @@
 {
+  "mats": {
+    "Gold": 5,
+    "Iron": 6,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Erisore": 5,
+    "Irithine": 5,
+    "Dark Feather": 2
+  },
+  "name": "Grand Pathfinder Cloak",
+  "reqs": "grand_pathfinder_cloak := 165r TTL",
+  "notes": 150,
+  "talent": "Legendary",
   "category": "Master",
+  "pants_id": "9639386496",
+  "shirt_id": "9639320443",
   "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.2
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 40
-  },
-  "mats": {
-    "Cloth": 5,
-    "Dark Feather": 2,
-    "Erisore": 5,
-    "Fiber": 5,
-    "Gold": 5,
-    "Irithine": 5,
-    "Iron": 6
-  },
-  "name": "Grand Pathfinder Cloak",
-  "notes": 150,
-  "reqs": "grand_pathfinder_cloak := 165r TTL",
-  "resistances": {
-    "Elemental Resistance": 0.2,
-    "Physical Resistance": 0.2
-  },
-  "talent": "Legendary"
+  }
 }
