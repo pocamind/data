@@ -1,27 +1,29 @@
 {
+  "mats": {
+    "Cloth": 10,
+    "Fiber": 2,
+    "Spider Eggs": 5,
+    "Vibrant Gems": 5,
+    "Bloodless Gem": 1,
+    "Dark Feathers": 2
+  },
+  "name": "Arachnid's Weave",
+  "reqs": "arachnids_weave := 240r TTL",
+  "notes": 1000,
+  "talent": "Corrosive Touch",
   "category": "Master",
+  "pants_id": "139797713905949",
+  "shirt_id": "129686480471028",
   "durability": 2100,
+  "resistances": {
+    "Blood Resistance": 0.15,
+    "Metal Resistance": 0.1,
+    "Thunder Resistance": 0.1,
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.35
+  },
   "extra_percents": {
     "Ether Regen": 55,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Bloodless Gem": 1,
-    "Cloth": 10,
-    "Dark Feathers": 2,
-    "Fiber": 2,
-    "Spider Eggs": 5,
-    "Vibrant Gems": 5
-  },
-  "name": "Arachnid's Weave",
-  "notes": 1000,
-  "reqs": "arachnids_weave := 240r TTL",
-  "resistances": {
-    "Blood Resistance": 0.15,
-    "Elemental Resistance": 0.35,
-    "Metal Resistance": 0.1,
-    "Physical Resistance": 0.2,
-    "Thunder Resistance": 0.1
-  },
-  "talent": "Corrosive Touch"
+  }
 }
