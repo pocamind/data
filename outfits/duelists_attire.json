@@ -6,9 +6,7 @@
   "reqs": "duelists_attire := 90r TTL",
   "notes": 0,
   "talent": null,
-  "category": "Master",
-  "pants_id": "4908563329",
-  "shirt_id": "4908561487",
+  "category": "Adept",
   "durability": 1200,
   "resistances": {
     "Slash Resistance": 0.1,
