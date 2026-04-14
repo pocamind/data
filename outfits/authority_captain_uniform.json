@@ -9,9 +9,7 @@
   "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
   "notes": 500,
   "talent": null,
-  "category": "Master",
-  "pants_id": "10461616070",
-  "shirt_id": "10461611383",
+  "category": "Expert",
   "durability": 2000,
   "resistances": {
     "Physical Resistance": 0.3,
