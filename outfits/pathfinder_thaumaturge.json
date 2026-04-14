@@ -8,7 +8,7 @@
   "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
   "notes": 30,
   "talent": "Now You See Me",
-  "category": "Master",
+  "category": "Adept",
   "pants_id": "12994469874",
   "shirt_id": "12994454374",
   "durability": 1000,

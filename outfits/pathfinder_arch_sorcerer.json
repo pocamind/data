@@ -10,7 +10,7 @@
   "reqs": "pathfinder_arch_sorcerer := 25r INT, 165r TTL",
   "notes": 100,
   "talent": "Devastating Power",
-  "category": "Master",
+  "category": "Expert",
   "pants_id": "10378362276",
   "shirt_id": "10378359701",
   "durability": 1500,
