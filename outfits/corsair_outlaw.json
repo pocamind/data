@@ -1,21 +1,23 @@
 {
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Aeon Longstone": 1
+  },
+  "name": "Corsair Outlaw",
+  "reqs": "corsair_outlaw := ()",
+  "notes": 0,
+  "talent": "Lightweight",
   "category": "Master",
+  "pants_id": "4854428285",
+  "shirt_id": "4854374607",
   "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Elemental Resistance": 0.1
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  },
-  "mats": {
-    "Aeon Longstone": 1,
-    "Cloth": 5,
-    "Fiber": 5
-  },
-  "name": "Corsair Outlaw",
-  "notes": 0,
-  "reqs": "corsair_outlaw := ()",
-  "resistances": {
-    "Elemental Resistance": 0.1,
-    "Physical Resistance": 0.15
-  },
-  "talent": "Lightweight"
+  }
 }
