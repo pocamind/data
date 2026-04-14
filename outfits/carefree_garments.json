@@ -9,9 +9,7 @@
   "reqs": "carefree_garments := 105r TTL",
   "notes": 0,
   "talent": "Fleetfoot",
-  "category": "Master",
-  "pants_id": "122843258666243",
-  "shirt_id": "77587021895074",
+  "category": "Adept",
   "durability": 2000,
   "resistances": {
     "Physical Resistance": 0.1,

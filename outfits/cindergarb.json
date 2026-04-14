@@ -4,9 +4,7 @@
   "reqs": "cindergarb := ()",
   "notes": 0,
   "talent": "Warding Radiance",
-  "category": "Master",
-  "pants_id": "13408550924",
-  "shirt_id": "13408549888",
+  "category": "Unique",
   "durability": 3000,
   "resistances": {
     "Flame Resistance": 0.5,

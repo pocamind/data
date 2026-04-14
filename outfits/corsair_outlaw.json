@@ -8,9 +8,7 @@
   "reqs": "corsair_outlaw := ()",
   "notes": 0,
   "talent": "Lightweight",
-  "category": "Master",
-  "pants_id": "4854428285",
-  "shirt_id": "4854374607",
+  "category": "Starter",
   "durability": 1200,
   "resistances": {
     "Physical Resistance": 0.15,
