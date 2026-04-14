@@ -1,26 +1,28 @@
 {
-  "category": "Master",
-  "durability": 3500,
-  "extra_percents": {
-    "Ether Regen": 15,
-    "Extra Stealth": 0
-  },
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
     "Vibrant Gem": 5,
-    "Void Feather": 3,
-    "Wayward Gem": 3
+    "Wayward Gem": 3,
+    "Void Feather": 3
   },
   "name": "Inquisition Light",
-  "notes": 1000,
   "reqs": "inquisition_light := 240r TTL",
+  "notes": 1000,
+  "talent": "Lethal Dose",
+  "category": "Master",
+  "pants_id": "72208548326844",
+  "shirt_id": "84894162495052",
+  "durability": 3500,
   "resistances": {
     "Blood Resistance": 0.1,
-    "Elemental Resistance": 0.3,
     "Metal Resistance": 0.1,
+    "Shadow Resistance": 0.1,
     "Physical Resistance": 0.3,
-    "Shadow Resistance": 0.1
+    "Elemental Resistance": 0.3
   },
-  "talent": "Lethal Dose"
+  "extra_percents": {
+    "Ether Regen": 15,
+    "Extra Stealth": 0
+  }
 }
