@@ -1,23 +1,25 @@
 {
-  "category": "Master",
-  "durability": 1500,
-  "extra_percents": {
-    "Ether Regen": 0,
-    "Extra Stealth": 0
-  },
   "mats": {
-    "Alestrian Coral": 3,
     "Cloth": 7,
     "Fiber": 5,
     "Irithine": 5,
-    "Vibrant Gem": 10
+    "Vibrant Gem": 10,
+    "Alestrian Coral": 3
   },
   "name": "Varicosan Finery",
-  "notes": 100,
   "reqs": "varicosan_finery := 165r TTL",
+  "notes": 100,
+  "talent": "Benefactor",
+  "category": "Master",
+  "pants_id": "16831806008",
+  "shirt_id": "16826381363",
+  "durability": 1500,
   "resistances": {
-    "Elemental Resistance": 0.2,
-    "Physical Resistance": 0.2
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.2
   },
-  "talent": "Benefactor"
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
 }
