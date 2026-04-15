@@ -6,9 +6,9 @@
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 2
   },
   "desc": "",
-  "reqs": "warden_pauldrons := ()"
+  "reqs": "warden_pauldrons := 210 ttl"
 }

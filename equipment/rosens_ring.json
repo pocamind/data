@@ -2,12 +2,10 @@
   "name": "Rosens Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "1.2 INT scaling"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "rosens_ring := ()"
+  "reqs": "rosens_ring := 105 ttl"
 }

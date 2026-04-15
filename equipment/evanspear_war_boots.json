@@ -5,9 +5,9 @@
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "evanspear_war_boots := ()"
+  "reqs": "evanspear_war_boots := 165 ttl"
 }

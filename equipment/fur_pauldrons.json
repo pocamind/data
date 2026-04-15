@@ -5,9 +5,9 @@
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "fur_pauldrons := ()"
+  "reqs": "fur_pauldrons := 90 ttl"
 }

@@ -2,10 +2,8 @@
   "name": "Pariahs Keepsake",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "more dmg to bad rep factions"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "pariahs_keepsake := ()"
+  "reqs": "pariahs_keepsake := 60 ttl"
 }

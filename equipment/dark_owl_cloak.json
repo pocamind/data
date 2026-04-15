@@ -8,10 +8,10 @@
   "talents": [
     "Disbelief"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "dark_owl_cloak := ()"
+  "reqs": "dark_owl_cloak := 135 ttl"
 }

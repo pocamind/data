@@ -9,10 +9,10 @@
   "talents": [
     "Coldseep Reactor"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "grand_fisher_helm := ()"
+  "reqs": "grand_fisher_helm := 210 ttl"
 }

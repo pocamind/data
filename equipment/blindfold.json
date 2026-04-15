@@ -5,7 +5,7 @@
   "talents": [
     "Blinded"
   ],
-  "rarities": {},
+  "pips": {},
   "desc": "",
   "reqs": "blindfold := ()"
 }

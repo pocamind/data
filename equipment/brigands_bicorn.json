@@ -8,9 +8,9 @@
     "Emergency Repairs",
     "Spare Nails"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "brigands_bicorn := ()"
+  "reqs": "brigands_bicorn := 105 ttl"
 }

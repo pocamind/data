@@ -2,13 +2,10 @@
   "name": "Chained Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "less knockback taken",
-    "no air dash"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "chained_ring := ()"
+  "reqs": "chained_ring := 60 ttl"
 }

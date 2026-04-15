@@ -5,9 +5,9 @@
     "elemental_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "nomad_pendant := ()"
+  "reqs": "nomad_pendant := 90 ttl"
 }

@@ -5,9 +5,9 @@
   "talents": [
     "Angel's Guise"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "sworn_angel_mask := ()"
+  "reqs": "sworn_angel_mask := 165 ttl"
 }

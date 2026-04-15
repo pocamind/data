@@ -1,0 +1,18 @@
+{
+  "name": "The No-Life Kings Crown",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Blood Necrosis",
+    "Cauterized Wounds",
+    "No Limits"
+  ],
+  "pips": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "the_no_life_kings_crown := 165 ttl"
+}

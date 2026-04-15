@@ -2,11 +2,8 @@
   "name": "Ring of Casters",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "​+5% mantra dmg",
-    "-5% weapon dmg"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "ring_of_casters := ()"
+  "reqs": "ring_of_casters := 165 ttl"
 }

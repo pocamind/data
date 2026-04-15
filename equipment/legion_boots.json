@@ -1,13 +1,13 @@
 {
-  "name": "Khan Boots",
+  "name": "Legion Boots",
   "type": "Legs",
   "stats": {
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "khan_boots := ()"
+  "reqs": "legion_boots := 105 ttl"
 }

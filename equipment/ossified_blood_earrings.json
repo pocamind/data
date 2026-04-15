@@ -1,0 +1,15 @@
+{
+  "name": "Ossified Blood Earrings",
+  "type": "Ears",
+  "stats": {
+    "stealth": 3
+  },
+  "talents": [
+    "Sharpened Dagger"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "ossified_blood_earrings := ()"
+}

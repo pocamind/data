@@ -2,15 +2,14 @@
   "name": "Light Eater Ring",
   "type": "Rings",
   "stats": {
+    "elemental_armor": 3,
     "fire_armor": 2,
     "lightning_armor": 2
   },
-  "talents": [
-    "regen ether when hit by FLM/THN"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "light_eater_ring := ()"
+  "reqs": "light_eater_ring := 60 ttl"
 }

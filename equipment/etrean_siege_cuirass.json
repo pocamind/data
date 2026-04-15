@@ -7,11 +7,11 @@
   "talents": [
     "Battle Tendency"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "etrean_siege_cuirass := ()"
+  "reqs": "etrean_siege_cuirass := 165 ttl"
 }

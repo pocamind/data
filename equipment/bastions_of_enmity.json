@@ -6,9 +6,9 @@
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 3
   },
   "desc": "",
-  "reqs": "bastions_of_enmity := ()"
+  "reqs": "bastions_of_enmity := 210 ttl"
 }

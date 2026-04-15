@@ -5,10 +5,10 @@
     "health": 10
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "blacksteel_helm := ()"
+  "reqs": "blacksteel_helm := 135 ttl"
 }

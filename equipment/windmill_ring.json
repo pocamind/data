@@ -2,15 +2,14 @@
   "name": "Windmill Ring",
   "type": "Rings",
   "stats": {
+    "elemental_armor": 3,
     "ice_armor": 2,
     "wind_armor": 2
   },
-  "talents": [
-    "regen ether when hit by ICE/WND"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "windmill_ring := ()"
+  "reqs": "windmill_ring := 60 ttl"
 }

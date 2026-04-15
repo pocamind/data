@@ -8,9 +8,9 @@
   "talents": [
     "Concussive Force"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "blackleaf_helm := ()"
+  "reqs": "blackleaf_helm := 165 ttl"
 }

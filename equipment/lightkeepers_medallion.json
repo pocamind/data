@@ -5,9 +5,9 @@
   "talents": [
     "Elegy of Light"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "lightkeepers_medallion := ()"
+  "reqs": "lightkeepers_medallion := 135 ttl"
 }

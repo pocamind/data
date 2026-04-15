@@ -2,18 +2,16 @@
   "name": "Ascended Outlaw Boots",
   "type": "Legs",
   "stats": {
-    "health": 3,
-    "wind_armor": 3,
-    "lightning_armor": 3
+    "lightning_armor": 3,
+    "wind_armor": 3
   },
   "talents": [
-    "Stronger Under Pressure",
-    "Offensive Recovery"
+    "Stronger Under Pressure"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "ascended_outlaw_boots := ()"
+  "reqs": "ascended_outlaw_boots := 315 ttl"
 }

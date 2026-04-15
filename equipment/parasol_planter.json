@@ -7,9 +7,9 @@
   "talents": [
     "Grotesque Resilience"
   ],
-  "rarities": {
+  "pips": {
     "rare": 3
   },
   "desc": "",
-  "reqs": "parasol_planter := ()"
+  "reqs": "parasol_planter := 165 ttl"
 }

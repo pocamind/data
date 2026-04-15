@@ -1,11 +1,16 @@
 {
   "name": "Authority Helm",
   "type": "Head",
-  "stats": {},
+  "stats": {
+    "health": 8
+  },
   "talents": [
     "Strong Hold"
   ],
-  "rarities": {},
+  "pips": {
+    "uncommon": 1,
+    "rare": 1
+  },
   "desc": "",
-  "reqs": "authority_helm := ()"
+  "reqs": "authority_helm := 165 ttl, 10 ftd"
 }

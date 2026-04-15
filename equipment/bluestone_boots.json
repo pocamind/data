@@ -7,9 +7,9 @@
   "talents": [
     "I'm Blue"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "bluestone_boots := ()"
+  "reqs": "bluestone_boots := 105 ttl"
 }

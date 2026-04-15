@@ -5,12 +5,9 @@
     "health": 8
   },
   "talents": [
-    "Volt Draft",
-    "Shock Trooper Specialist"
+    "Volt Draft"
   ],
-  "rarities": {
-    "rare": 1
-  },
+  "pips": {},
   "desc": "",
-  "reqs": "specialist_helmet := ()"
+  "reqs": "specialist_helmet := 315 ttl, 30 wnd, 30 ltn"
 }

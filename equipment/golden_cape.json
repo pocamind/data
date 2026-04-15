@@ -5,9 +5,9 @@
     "physical_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "golden_cape := ()"
+  "reqs": "golden_cape := 90 ttl"
 }

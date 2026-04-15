@@ -5,10 +5,10 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "imperial_boots := ()"
+  "reqs": "imperial_boots := 165 ttl"
 }

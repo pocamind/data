@@ -5,9 +5,9 @@
     "health": 10
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "authority_commander_coat := ()"
+  "reqs": "authority_commander_coat := 210 ttl"
 }

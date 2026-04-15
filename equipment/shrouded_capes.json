@@ -6,10 +6,10 @@
     "elemental_armor": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "shrouded_capes := ()"
+  "reqs": "shrouded_capes := 90 ttl"
 }

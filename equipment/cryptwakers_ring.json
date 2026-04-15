@@ -1,0 +1,11 @@
+{
+  "name": "Cryptwakers Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "cryptwakers_ring := 240 ttl"
+}

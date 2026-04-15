@@ -1,0 +1,16 @@
+{
+  "name": "Gale Enhanced Cowl",
+  "type": "Head",
+  "stats": {
+    "stealth": 5
+  },
+  "talents": [
+    "Blade Dancer",
+    "Footwork Mastery"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "gale_enhanced_cowl := 105 ttl"
+}

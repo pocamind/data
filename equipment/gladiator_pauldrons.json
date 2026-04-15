@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "gladiator_pauldrons := ()"
+  "reqs": "gladiator_pauldrons := 90 ttl"
 }

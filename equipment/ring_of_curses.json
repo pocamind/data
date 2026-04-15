@@ -2,10 +2,8 @@
   "name": "Ring of Curses",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "more event spawns"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "ring_of_curses := ()"
+  "reqs": "ring_of_curses := 165 ttl"
 }

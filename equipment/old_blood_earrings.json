@@ -5,9 +5,9 @@
     "ether": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "old_blood_earrings := ()"
+  "reqs": "old_blood_earrings := 90 ttl"
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Black Hood",
+  "type": "Head",
+  "stats": {
+    "posture": 1,
+    "stealth": 4
+  },
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "black_hood := ()"
+}

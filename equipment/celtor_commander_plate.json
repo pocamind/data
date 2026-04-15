@@ -7,10 +7,10 @@
   "talents": [
     "Breathing Exercise"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "celtor_commander_plate := ()"
+  "reqs": "celtor_commander_plate := 165 ttl"
 }

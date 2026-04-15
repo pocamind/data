@@ -7,9 +7,9 @@
   "talents": [
     "Featherfall"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "tiran_pendant := ()"
+  "reqs": "tiran_pendant := 135 ttl"
 }

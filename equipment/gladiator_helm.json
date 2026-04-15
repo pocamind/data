@@ -1,5 +1,5 @@
 {
-  "name": "Gladiator Helmet",
+  "name": "Gladiator Helm",
   "type": "Head",
   "stats": {
     "health": 5,
@@ -8,9 +8,9 @@
   "talents": [
     "Concussive Force"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "gladiator_helmet := ()"
+  "reqs": "gladiator_helm := 135 ttl"
 }

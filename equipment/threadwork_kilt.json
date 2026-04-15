@@ -5,9 +5,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "threadwork_kilt := ()"
+  "reqs": "threadwork_kilt := 90 ttl"
 }

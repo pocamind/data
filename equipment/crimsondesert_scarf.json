@@ -5,10 +5,10 @@
     "fire_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "crimsondesert_scarf := ()"
+  "reqs": "crimsondesert_scarf := 90 ttl"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Necrotic Cowl",
+  "type": "Head",
+  "stats": {
+    "shadow_armor": 5,
+    "stealth": 6
+  },
+  "talents": [
+    "Blood Siphon"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "necrotic_cowl := ()"
+}

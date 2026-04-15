@@ -5,9 +5,9 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "summer_scarf := ()"
+  "reqs": "summer_scarf := 90 ttl"
 }

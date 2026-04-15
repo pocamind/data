@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "novice_brace := ()"
+  "reqs": "novice_brace := 90 ttl"
 }

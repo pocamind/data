@@ -6,10 +6,10 @@
     "posture": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "moonseye_gauntlets := ()"
+  "reqs": "moonseye_gauntlets := 210 ttl"
 }

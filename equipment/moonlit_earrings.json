@@ -5,9 +5,9 @@
     "health": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "moonlit_earrings := ()"
+  "reqs": "moonlit_earrings := 90 ttl"
 }

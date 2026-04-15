@@ -1,0 +1,13 @@
+{
+  "name": "Ether Empowered Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Ether Adeptness"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "ether_empowered_earrings := ()"
+}

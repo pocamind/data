@@ -2,10 +2,8 @@
   "name": "Deepfire Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "burn ticks faster"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "deepfire_ring := ()"
+  "reqs": "deepfire_ring := 90 ttl"
 }

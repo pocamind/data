@@ -1,0 +1,9 @@
+{
+  "name": "Blizzard Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "blizzard_ring := 90 ttl"
+}

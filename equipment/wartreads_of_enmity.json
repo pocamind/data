@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 2
   },
   "desc": "",
-  "reqs": "wartreads_of_enmity := ()"
+  "reqs": "wartreads_of_enmity := 240 ttl"
 }

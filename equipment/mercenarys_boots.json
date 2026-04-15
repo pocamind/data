@@ -7,10 +7,10 @@
   "talents": [
     "Endurance Runner"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "mercenarys_boots := ()"
+  "reqs": "mercenarys_boots := 165 ttl"
 }

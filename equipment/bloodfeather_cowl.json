@@ -6,9 +6,9 @@
     "shadow_armor": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "bloodfeather_cowl := ()"
+  "reqs": "bloodfeather_cowl := 135 ttl"
 }

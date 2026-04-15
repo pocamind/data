@@ -5,9 +5,9 @@
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "ten_gallon_hat := ()"
+  "reqs": "ten_gallon_hat := 90 ttl"
 }

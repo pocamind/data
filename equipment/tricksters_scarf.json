@@ -1,0 +1,11 @@
+{
+  "name": "Tricksters Scarf",
+  "type": "Torso",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "legendary": 2
+  },
+  "desc": "",
+  "reqs": "tricksters_scarf := 120 ttl"
+}

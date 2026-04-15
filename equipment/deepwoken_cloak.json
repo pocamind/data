@@ -8,10 +8,10 @@
   "talents": [
     "Blade Dancer"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "deepwoken_cloak := ()"
+  "reqs": "deepwoken_cloak := 165 ttl"
 }

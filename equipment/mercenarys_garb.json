@@ -7,10 +7,10 @@
   "talents": [
     "Kick Off"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "mercenarys_garb := ()"
+  "reqs": "mercenarys_garb := 90 ttl"
 }

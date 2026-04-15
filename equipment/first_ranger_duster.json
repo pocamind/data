@@ -6,9 +6,9 @@
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "first_ranger_duster := ()"
+  "reqs": "first_ranger_duster := 165 ttl"
 }

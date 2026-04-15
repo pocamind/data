@@ -1,0 +1,16 @@
+{
+  "name": "Ossified Simple Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [
+    "Simple Buff"
+  ],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "ossified_simple_pauldrons := ()"
+}

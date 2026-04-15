@@ -5,9 +5,9 @@
     "health": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "autumn_pauldrons := ()"
+  "reqs": "autumn_pauldrons := 90 ttl"
 }

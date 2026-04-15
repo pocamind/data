@@ -1,0 +1,9 @@
+{
+  "name": "Kyrsan Necklace",
+  "type": "Torso",
+  "stats": {},
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "kyrsan_necklace := ()"
+}

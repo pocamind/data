@@ -2,10 +2,8 @@
   "name": "Heavy Hands Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "​+30% POS & -10% swing speed on m1"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",

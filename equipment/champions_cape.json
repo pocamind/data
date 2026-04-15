@@ -7,10 +7,10 @@
   "talents": [
     "No Interruptions"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "champions_cape := ()"
+  "reqs": "champions_cape := 315 ttl"
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Maljuror Choker",
+  "type": "Torso",
+  "stats": {
+    "shadow_armor": 2
+  },
+  "talents": [],
+  "pips": {
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "maljuror_choker := 90 ttl"
+}

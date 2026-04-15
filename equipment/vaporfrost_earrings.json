@@ -1,0 +1,14 @@
+{
+  "name": "Vaporfrost Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Drop Dead"
+  ],
+  "pips": {
+    "common": 1,
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "vaporfrost_earrings := ()"
+}

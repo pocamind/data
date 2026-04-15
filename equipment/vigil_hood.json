@@ -1,12 +1,12 @@
 {
-  "name": "Vigils Hood",
+  "name": "Vigil Hood",
   "type": "Head",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "vigils_hood := ()"
+  "reqs": "vigil_hood := 105 ttl, 10 agl"
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Black Cape",
+  "type": "Torso",
+  "stats": {
+    "physical_armor": 3
+  },
+  "talents": [],
+  "pips": {
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "black_cape := 90 ttl"
+}

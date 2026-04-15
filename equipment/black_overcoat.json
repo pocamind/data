@@ -5,10 +5,10 @@
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "black_overcoat := ()"
+  "reqs": "black_overcoat := 90 ttl"
 }

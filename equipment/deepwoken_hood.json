@@ -3,10 +3,10 @@
   "type": "Head",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "deepwoken_hood := ()"
+  "reqs": "deepwoken_hood := 105 ttl, 10 agl"
 }

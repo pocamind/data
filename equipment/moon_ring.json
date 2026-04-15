@@ -2,10 +2,8 @@
   "name": "Moon Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "makes you look young"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "rare": 2
   },
   "desc": "",

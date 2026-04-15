@@ -9,10 +9,10 @@
   "talents": [
     "Kick Off"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "sandrunner_wraps := ()"
+  "reqs": "sandrunner_wraps := 135 ttl"
 }

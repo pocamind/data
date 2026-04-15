@@ -5,9 +5,9 @@
     "health": 8
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "captains_kabuto := ()"
+  "reqs": "captains_kabuto := 90 ttl"
 }

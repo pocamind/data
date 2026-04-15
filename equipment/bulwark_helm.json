@@ -7,10 +7,10 @@
   "talents": [
     "Strong Hold"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "bulwark_helm := ()"
+  "reqs": "bulwark_helm := 135 ttl"
 }

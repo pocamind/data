@@ -8,10 +8,10 @@
   "talents": [
     "Cap Artist"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "tillians_beret := ()"
+  "reqs": "tillians_beret := 165 ttl"
 }

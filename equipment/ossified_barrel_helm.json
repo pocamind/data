@@ -1,0 +1,15 @@
+{
+  "name": "Ossified Barrel Helm",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Tenacity"
+  ],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "ossified_barrel_helm := ()"
+}

@@ -8,9 +8,9 @@
   "talents": [
     "Steady Footing"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "brown_parka := ()"
+  "reqs": "brown_parka := 90 ttl"
 }

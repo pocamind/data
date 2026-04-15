@@ -6,11 +6,11 @@
     "posture": 1
   },
   "talents": [
-    "Conquer your Fears"
+    "Conquer Your Fears"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 3
   },
   "desc": "",
-  "reqs": "divers_light_plate := ()"
+  "reqs": "divers_light_plate := 210 ttl"
 }

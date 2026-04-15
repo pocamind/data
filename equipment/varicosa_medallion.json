@@ -5,10 +5,10 @@
     "shadow_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "varicosa_medallion := ()"
+  "reqs": "varicosa_medallion := 90 ttl"
 }

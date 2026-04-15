@@ -1,0 +1,16 @@
+{
+  "name": "Black Parka",
+  "type": "Arms",
+  "stats": {
+    "health": 2,
+    "posture": 1
+  },
+  "talents": [
+    "Steady Footing"
+  ],
+  "pips": {
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "black_parka := 90 ttl"
+}

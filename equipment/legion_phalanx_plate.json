@@ -8,10 +8,10 @@
   "talents": [
     "Hoplite"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "legion_phalanx_plate := ()"
+  "reqs": "legion_phalanx_plate := 210 ttl"
 }

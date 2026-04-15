@@ -8,9 +8,9 @@
     "Braced Collapse",
     "Kick Off"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 3
   },
   "desc": "",
-  "reqs": "delvers_duster := ()"
+  "reqs": "delvers_duster := 165 ttl"
 }

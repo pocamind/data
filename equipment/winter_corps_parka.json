@@ -10,9 +10,9 @@
   "talents": [
     "Winter's Protection"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "winter_corps_parka := ()"
+  "reqs": "winter_corps_parka := 165 ttl"
 }

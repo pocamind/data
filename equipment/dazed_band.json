@@ -2,12 +2,10 @@
   "name": "Dazed Band",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "flourish has stun chance"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "dazed_band := ()"
+  "reqs": "dazed_band := 60 ttl"
 }

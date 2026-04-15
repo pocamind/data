@@ -5,9 +5,9 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "smiths_gloves := ()"
+  "reqs": "smiths_gloves := 90 ttl"
 }

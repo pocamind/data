@@ -1,0 +1,14 @@
+{
+  "name": "Shivas Pendant Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Skillful Recovery"
+  ],
+  "pips": {
+    "common": 1,
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "shivas_pendant_earrings := ()"
+}

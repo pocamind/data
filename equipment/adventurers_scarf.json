@@ -5,10 +5,10 @@
     "wind_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "adventurers_scarf := ()"
+  "reqs": "adventurers_scarf := 90 ttl"
 }

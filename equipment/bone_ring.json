@@ -1,0 +1,11 @@
+{
+  "name": "Bone Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "bone_ring := 240 ttl"
+}

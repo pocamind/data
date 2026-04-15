@@ -8,9 +8,9 @@
   "talents": [
     "Fatal Strike"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "reinforced_war_helmet := ()"
+  "reqs": "reinforced_war_helmet := 315 ttl"
 }

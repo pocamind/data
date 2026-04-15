@@ -3,9 +3,9 @@
   "type": "Torso",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "seafarer_pendant := ()"
+  "reqs": "seafarer_pendant := 90 ttl"
 }

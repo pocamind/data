@@ -7,10 +7,10 @@
   "talents": [
     "Already Dead"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "deepscorn_casque := ()"
+  "reqs": "deepscorn_casque := 135 ttl"
 }

@@ -5,9 +5,9 @@
     "health": 8
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "guards_kabuto := ()"
+  "reqs": "guards_kabuto := 90 ttl"
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Hardened Enforcer Boots",
+  "type": "Legs",
+  "stats": {},
+  "talents": [
+    "Enforcer's Technique"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "hardened_enforcer_boots := ()"
+}

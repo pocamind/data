@@ -1,5 +1,5 @@
 {
-  "name": "Khan Pauldrons",
+  "name": "Legion Pauldrons",
   "type": "Arms",
   "stats": {
     "health": 3
@@ -7,9 +7,9 @@
   "talents": [
     "Polite Awakening"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "khan_pauldrons := ()"
+  "reqs": "legion_pauldrons := 135 ttl"
 }

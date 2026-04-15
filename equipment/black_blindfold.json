@@ -1,0 +1,13 @@
+{
+  "name": "Black Blindfold",
+  "type": "Face",
+  "stats": {},
+  "talents": [
+    "Blinded"
+  ],
+  "pips": {
+    "common": 1
+  },
+  "desc": "",
+  "reqs": "black_blindfold := ()"
+}

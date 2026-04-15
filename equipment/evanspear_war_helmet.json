@@ -2,12 +2,13 @@
   "name": "Evanspear War Helmet",
   "type": "Head",
   "stats": {
-    "health": 4
+    "health": 4,
+    "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "evanspear_war_helmet := ()"
+  "reqs": "evanspear_war_helmet := 165 ttl"
 }

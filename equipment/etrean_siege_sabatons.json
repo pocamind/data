@@ -5,9 +5,9 @@
     "health": 4
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "etrean_siege_sabatons := ()"
+  "reqs": "etrean_siege_sabatons := 105 ttl"
 }

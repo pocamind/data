@@ -1,0 +1,11 @@
+{
+  "name": "Snakebite Studs",
+  "type": "Face",
+  "stats": {
+    "health": 1
+  },
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "snakebite_studs := ()"
+}

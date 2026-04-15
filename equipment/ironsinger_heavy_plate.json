@@ -8,10 +8,10 @@
   "talents": [
     "Defiant until the End"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 2
   },
   "desc": "",
-  "reqs": "ironsinger_heavy_plate := ()"
+  "reqs": "ironsinger_heavy_plate := 210 ttl"
 }

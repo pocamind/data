@@ -2,10 +2,8 @@
   "name": "Charged Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "crystal & surge proc from 6>5"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
   "reqs": "charged_ring := ()"
 }

@@ -5,9 +5,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "shock_trooper_boots := ()"
+  "reqs": "shock_trooper_boots := 165 ttl"
 }

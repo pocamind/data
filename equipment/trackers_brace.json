@@ -1,0 +1,14 @@
+{
+  "name": "Trackers Brace",
+  "type": "Arms",
+  "stats": {
+    "health": 3,
+    "posture": 1
+  },
+  "talents": [],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "trackers_brace := 135 ttl"
+}

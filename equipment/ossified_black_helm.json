@@ -1,0 +1,16 @@
+{
+  "name": "Ossified Black Helm",
+  "type": "Head",
+  "stats": {
+    "health": 10
+  },
+  "talents": [
+    "Sloped Plate"
+  ],
+  "pips": {
+    "uncommon": 1,
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "ossified_black_helm := 135 ttl"
+}

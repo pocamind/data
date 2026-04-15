@@ -5,10 +5,10 @@
     "fire_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "sandrunner_scarf := ()"
+  "reqs": "sandrunner_scarf := 90 ttl"
 }
