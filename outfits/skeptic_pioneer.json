@@ -7,6 +7,8 @@
   "name": "Skeptic Pioneer",
   "reqs": "skeptic_pioneer := ()",
   "notes": 25,
+  "pants_id": "5738143634",
+  "shirt_id": "5738142147",
   "talent": "Apothecary",
   "category": "Starter",
   "durability": 1200,

@@ -7,6 +7,8 @@
   "name": "Pathfinder Sorcerer",
   "reqs": "pathfinder_sorcerer := 5r INT",
   "notes": 30,
+  "pants_id": "5115783991",
+  "shirt_id": "5115783821",
   "talent": "Now You See Me",
   "category": "Starter",
   "durability": 1000,

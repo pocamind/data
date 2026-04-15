@@ -8,6 +8,8 @@
   "name": "Navaen Nomad Robes",
   "reqs": "navaen_nomad_robes := 90r TTL",
   "notes": 100,
+  "pants_id": "5747461248",
+  "shirt_id": "5747459547",
   "talent": "Fists of Navae (Bugged)",
   "category": "Adept",
   "durability": 1800,

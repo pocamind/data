@@ -8,6 +8,8 @@
   "name": "Cutthroat Light Armor",
   "reqs": "cutthroat_light_armor := 90r TTL",
   "notes": 30,
+  "pants_id": "5115781415",
+  "shirt_id": "5115781293",
   "talent": "Hunter's Reflexes",
   "category": "Adept",
   "durability": 1000,
