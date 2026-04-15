@@ -7,10 +7,10 @@
   "talents": [
     "Precise Swing"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "phalanx_helmet := ()"
+  "reqs": "phalanx_helmet := 135 ttl"
 }

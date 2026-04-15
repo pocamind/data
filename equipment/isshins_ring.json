@@ -2,11 +2,8 @@
   "name": "Isshins Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "​+20% dealt dmg",
-    "+25% taken dmg"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "isshins_ring := ()"
+  "reqs": "isshins_ring := 90 ttl"
 }

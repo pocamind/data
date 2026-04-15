@@ -3,10 +3,10 @@
   "type": "Arms",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "azure_royal_guard := ()"
+  "reqs": "azure_royal_guard := 135 ttl"
 }

@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "steel_pauldrons := ()"
+  "reqs": "steel_pauldrons := 90 ttl"
 }

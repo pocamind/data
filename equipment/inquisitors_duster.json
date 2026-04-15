@@ -1,0 +1,11 @@
+{
+  "name": "Inquisitors Duster",
+  "type": "Arms",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "inquisitors_duster := 135 ttl"
+}

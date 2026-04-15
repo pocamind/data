@@ -5,9 +5,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "grand_boots := ()"
+  "reqs": "grand_boots := 75 ttl"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Yellow Headband",
+  "type": "Face",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "common": 1
+  },
+  "desc": "",
+  "reqs": "yellow_headband := ()"
+}

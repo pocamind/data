@@ -2,13 +2,14 @@
   "name": "Western Outlaw Boots",
   "type": "Legs",
   "stats": {
-    "health": 3
+    "lightning_armor": 3,
+    "wind_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "western_outlaw_boots := ()"
+  "reqs": "western_outlaw_boots := 165 ttl"
 }

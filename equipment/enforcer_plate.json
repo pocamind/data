@@ -5,12 +5,12 @@
     "posture": 1
   },
   "talents": [
-    "Brassneck"
+    "Berserker"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "enforcer_plate := ()"
+  "reqs": "enforcer_plate := 135 ttl"
 }

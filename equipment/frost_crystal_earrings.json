@@ -1,0 +1,13 @@
+{
+  "name": "Frost Crystal Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Instant Nucleation"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "frost_crystal_earrings := 90 ttl"
+}

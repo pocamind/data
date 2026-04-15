@@ -5,9 +5,9 @@
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "bluesteel_boots := ()"
+  "reqs": "bluesteel_boots := 105 ttl"
 }

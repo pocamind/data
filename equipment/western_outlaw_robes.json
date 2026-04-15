@@ -2,13 +2,13 @@
   "name": "Western Outlaw Robes",
   "type": "Arms",
   "stats": {
-    "health": 3
+    "posture": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "western_outlaw_robes := ()"
+  "reqs": "western_outlaw_robes := 165 ttl"
 }

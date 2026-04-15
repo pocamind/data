@@ -5,9 +5,9 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "shock_trooper_plate := ()"
+  "reqs": "shock_trooper_plate := 165 ttl"
 }

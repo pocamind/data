@@ -8,7 +8,7 @@
   "talents": [
     "Whistleguard"
   ],
-  "rarities": {},
+  "pips": {},
   "desc": "",
-  "reqs": "whistling_periapt := ()"
+  "reqs": "whistling_periapt := 135 ttl"
 }

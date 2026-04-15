@@ -3,9 +3,9 @@
   "type": "Legs",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "azure_royal_guard_boots := ()"
+  "reqs": "azure_royal_guard_boots := 75 ttl"
 }

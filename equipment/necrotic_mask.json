@@ -1,0 +1,15 @@
+{
+  "name": "Necrotic Mask",
+  "type": "Face",
+  "stats": {
+    "shadow_armor": 5
+  },
+  "talents": [
+    "Blood Plague"
+  ],
+  "pips": {
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "necrotic_mask := ()"
+}

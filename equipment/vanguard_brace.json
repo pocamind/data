@@ -8,9 +8,9 @@
   "talents": [
     "Replenishing Knockout"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "vanguard_brace := ()"
+  "reqs": "vanguard_brace := 165 ttl"
 }

@@ -7,10 +7,10 @@
   "talents": [
     "Ready or Not"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "royal_pathfinder := ()"
+  "reqs": "royal_pathfinder := 165 ttl"
 }

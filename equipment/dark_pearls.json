@@ -8,7 +8,7 @@
   "talents": [
     "Inky Pearls"
   ],
-  "rarities": {},
+  "pips": {},
   "desc": "",
-  "reqs": "dark_pearls := ()"
+  "reqs": "dark_pearls := 240 ttl, 40 sdw"
 }

@@ -5,10 +5,10 @@
     "dvm": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "pathfinder_elite := ()"
+  "reqs": "pathfinder_elite := 135 ttl"
 }

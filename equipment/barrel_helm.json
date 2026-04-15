@@ -5,8 +5,8 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
-    "common": 1
+  "pips": {
+    "uncommon": 1
   },
   "desc": "",
   "reqs": "barrel_helm := ()"

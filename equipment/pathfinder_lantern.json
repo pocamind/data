@@ -1,0 +1,15 @@
+{
+  "name": "Pathfinder Lantern",
+  "type": "Torso",
+  "stats": {
+    "sanity": 10
+  },
+  "talents": [
+    "Breathing Exercise"
+  ],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "pathfinder_lantern := ()"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Black Strapped Hat",
+  "type": "Head",
+  "stats": {
+    "health": 3
+  },
+  "talents": [
+    "The Exterminator"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "black_strapped_hat := 105 ttl"
+}

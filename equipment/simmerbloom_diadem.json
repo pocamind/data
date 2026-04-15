@@ -7,10 +7,10 @@
   "talents": [
     "Simmerbloom"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "simmerbloom_diadem := ()"
+  "reqs": "simmerbloom_diadem := 165 ttl"
 }

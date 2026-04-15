@@ -1,0 +1,15 @@
+{
+  "name": "Ether Refined Brim",
+  "type": "Head",
+  "stats": {
+    "health": 5
+  },
+  "talents": [
+    "Sorcerer's Skill"
+  ],
+  "pips": {
+    "legendary": 2
+  },
+  "desc": "",
+  "reqs": "ether_refined_brim := 255 ttl"
+}

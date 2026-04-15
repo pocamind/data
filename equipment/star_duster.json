@@ -8,10 +8,10 @@
   "talents": [
     "Star Duster"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "star_duster := ()"
+  "reqs": "star_duster := 165 ttl"
 }

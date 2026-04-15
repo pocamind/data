@@ -7,10 +7,10 @@
   "talents": [
     "Art of the Deal"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "aristocrat_coat := ()"
+  "reqs": "aristocrat_coat := 165 ttl"
 }

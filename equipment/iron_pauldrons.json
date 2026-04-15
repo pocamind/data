@@ -5,9 +5,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "iron_pauldrons := ()"
+  "reqs": "iron_pauldrons := 90 ttl"
 }

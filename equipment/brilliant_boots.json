@@ -3,9 +3,9 @@
   "type": "Legs",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "brilliant_boots := ()"
+  "reqs": "brilliant_boots := 75 ttl"
 }

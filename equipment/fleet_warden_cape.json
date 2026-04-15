@@ -5,10 +5,10 @@
     "elemental_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "fleet_warden_cape := ()"
+  "reqs": "fleet_warden_cape := 135 ttl"
 }

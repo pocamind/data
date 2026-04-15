@@ -7,9 +7,9 @@
   "talents": [
     "Ether Emergency"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "bluestone_pauldrons := ()"
+  "reqs": "bluestone_pauldrons := 90 ttl"
 }

@@ -2,10 +2,8 @@
   "name": "Kongas Clutch Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "reduced slide cooldown"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "kongas_clutch_ring := ()"
+  "reqs": "kongas_clutch_ring := 60 ttl"
 }

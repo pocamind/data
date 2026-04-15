@@ -7,9 +7,9 @@
     "elemental_armor": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "dark_owl_cape := ()"
+  "reqs": "dark_owl_cape := 90 ttl"
 }

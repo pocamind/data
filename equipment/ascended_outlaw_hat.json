@@ -1,11 +1,15 @@
 {
   "name": "Ascended Outlaw Hat",
   "type": "Head",
-  "stats": {},
+  "stats": {
+    "posture": 2
+  },
   "talents": [
-    "Volt Draft"
+    "Mass Effect"
   ],
-  "rarities": {},
+  "pips": {
+    "legendary": 1
+  },
   "desc": "",
-  "reqs": "ascended_outlaw_hat := ()"
+  "reqs": "ascended_outlaw_hat := 315 ttl"
 }

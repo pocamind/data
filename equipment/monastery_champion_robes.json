@@ -8,10 +8,10 @@
   "talents": [
     "Temple Guard"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 2
   },
   "desc": "",
-  "reqs": "monastery_champion_robes := ()"
+  "reqs": "monastery_champion_robes := 210 ttl"
 }

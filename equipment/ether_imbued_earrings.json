@@ -1,0 +1,13 @@
+{
+  "name": "Ether Imbued Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Ether Tension"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "ether_imbued_earrings := ()"
+}

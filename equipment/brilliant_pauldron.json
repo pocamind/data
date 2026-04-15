@@ -5,10 +5,10 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "brilliant_pauldron := ()"
+  "reqs": "brilliant_pauldron := 165 ttl"
 }

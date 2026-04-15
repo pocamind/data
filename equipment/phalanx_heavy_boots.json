@@ -3,10 +3,10 @@
   "type": "Legs",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "phalanx_heavy_boots := ()"
+  "reqs": "phalanx_heavy_boots := 135 ttl"
 }

@@ -1,0 +1,9 @@
+{
+  "name": "Gale Enhanced Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "gale_enhanced_ring := 165 ttl"
+}

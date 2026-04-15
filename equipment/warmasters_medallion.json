@@ -5,9 +5,9 @@
   "talents": [
     "Actions Speak Louder"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "warmasters_medallion := ()"
+  "reqs": "warmasters_medallion := 135 ttl"
 }

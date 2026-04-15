@@ -5,9 +5,9 @@
     "elemental_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "brilliant_cape := ()"
+  "reqs": "brilliant_cape := 90 ttl"
 }

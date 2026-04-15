@@ -5,9 +5,9 @@
   "talents": [
     "Unwavering Resolve"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "adjudicators_coat := ()"
+  "reqs": "adjudicators_coat := 135 ttl"
 }

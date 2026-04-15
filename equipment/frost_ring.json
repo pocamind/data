@@ -1,0 +1,9 @@
+{
+  "name": "Frost Ring",
+  "type": "Rings",
+  "stats": {},
+  "talents": [],
+  "pips": {},
+  "desc": "",
+  "reqs": "frost_ring := ()"
+}

@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "redsteel_pauldrons := ()"
+  "reqs": "redsteel_pauldrons := 135 ttl"
 }

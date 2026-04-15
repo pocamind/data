@@ -2,10 +2,8 @@
   "name": "Finishers Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "​+40% armor PEN on flourish"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "finishers_ring := ()"
+  "reqs": "finishers_ring := 165 ttl"
 }

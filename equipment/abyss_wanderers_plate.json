@@ -8,9 +8,9 @@
     "Braced Collapse",
     "Kick Off"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 3
   },
   "desc": "",
-  "reqs": "abyss_wanderers_plate := ()"
+  "reqs": "abyss_wanderers_plate := 165 ttl"
 }

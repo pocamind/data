@@ -5,9 +5,9 @@
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "western_outlaw_hat := ()"
+  "reqs": "western_outlaw_hat := 165 ttl"
 }

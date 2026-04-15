@@ -1,14 +1,14 @@
 {
-  "name": "Khan Helmet",
+  "name": "Legion Helmet",
   "type": "Head",
   "stats": {
     "health": 10,
     "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "khan_helmet := ()"
+  "reqs": "legion_helmet := 165 ttl"
 }

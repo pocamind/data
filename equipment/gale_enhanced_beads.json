@@ -1,0 +1,15 @@
+{
+  "name": "Gale Enhanced Beads",
+  "type": "Torso",
+  "stats": {
+    "elemental_armor": 3
+  },
+  "talents": [
+    "Focused Strikes"
+  ],
+  "pips": {
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "gale_enhanced_beads := 90 ttl"
+}

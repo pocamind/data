@@ -8,10 +8,10 @@
   "talents": [
     "Force Your Way"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 2
   },
   "desc": "",
-  "reqs": "ignition_gauntlets := ()"
+  "reqs": "ignition_gauntlets := 210 ttl"
 }

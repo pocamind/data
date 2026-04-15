@@ -1,0 +1,11 @@
+{
+  "name": "Maljuror Jougs",
+  "type": "Torso",
+  "stats": {},
+  "talents": [],
+  "pips": {
+    "legendary": 2
+  },
+  "desc": "",
+  "reqs": "maljuror_jougs := 165 ttl"
+}

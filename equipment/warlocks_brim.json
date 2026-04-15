@@ -5,9 +5,9 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 2
   },
   "desc": "",
-  "reqs": "warlocks_brim := ()"
+  "reqs": "warlocks_brim := 255 ttl"
 }

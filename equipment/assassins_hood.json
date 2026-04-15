@@ -7,9 +7,9 @@
   "talents": [
     "Deep Wound"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "assassins_hood := ()"
+  "reqs": "assassins_hood := 105 ttl, 10 agl"
 }

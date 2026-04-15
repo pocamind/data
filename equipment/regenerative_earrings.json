@@ -1,0 +1,15 @@
+{
+  "name": "Regenerative Earrings",
+  "type": "Ears",
+  "stats": {
+    "ether": 5
+  },
+  "talents": [
+    "Blood Convergence"
+  ],
+  "pips": {
+    "rare": 2
+  },
+  "desc": "",
+  "reqs": "regenerative_earrings := ()"
+}

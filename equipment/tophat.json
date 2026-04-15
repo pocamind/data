@@ -7,10 +7,10 @@
   "talents": [
     "Give and Take"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "tophat := ()"
+  "reqs": "tophat := 105 ttl"
 }

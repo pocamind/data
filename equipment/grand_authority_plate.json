@@ -7,11 +7,11 @@
   "talents": [
     "Heavy Haul"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "grand_authority_plate := ()"
+  "reqs": "grand_authority_plate := 165 ttl"
 }

@@ -1,0 +1,18 @@
+{
+  "name": "Jesters Beret",
+  "type": "Head",
+  "stats": {
+    "health": 3,
+    "ether": 10
+  },
+  "talents": [
+    "Cap Artist",
+    "Jester's Ruse"
+  ],
+  "pips": {
+    "rare": 2,
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "jesters_beret := 165 ttl"
+}

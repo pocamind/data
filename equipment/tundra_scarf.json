@@ -5,10 +5,10 @@
     "ice_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "tundra_scarf := ()"
+  "reqs": "tundra_scarf := 90 ttl"
 }

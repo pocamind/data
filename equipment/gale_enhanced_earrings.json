@@ -1,0 +1,14 @@
+{
+  "name": "Gale Enhanced Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Way of the Wind"
+  ],
+  "pips": {
+    "common": 1,
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "gale_enhanced_earrings := 90 ttl"
+}

@@ -2,15 +2,15 @@
   "name": "Ascended Outlaw Robes",
   "type": "Arms",
   "stats": {
-    "health": 3
+    "posture": 3
   },
   "talents": [
     "Ether Pinpoint"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "ascended_outlaw_robes := ()"
+  "reqs": "ascended_outlaw_robes := 315 ttl"
 }

@@ -5,12 +5,11 @@
     "health": 3
   },
   "talents": [
-    "Repeated Blows",
-    "Lasting Trauma"
+    "Repeated Blows"
   ],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "reinforced_war_boots := ()"
+  "reqs": "reinforced_war_boots := 315 ttl"
 }

@@ -5,9 +5,9 @@
   "talents": [
     "Robber Baron"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "grand_pathfinders_backpack := ()"
+  "reqs": "grand_pathfinders_backpack := 135 ttl"
 }

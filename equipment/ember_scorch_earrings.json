@@ -1,0 +1,14 @@
+{
+  "name": "Ember Scorch Earrings",
+  "type": "Ears",
+  "stats": {},
+  "talents": [
+    "Smoldering Touch"
+  ],
+  "pips": {
+    "common": 1,
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "ember_scorch_earrings := ()"
+}

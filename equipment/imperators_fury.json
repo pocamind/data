@@ -5,7 +5,7 @@
   "talents": [
     "Brute Strength"
   ],
-  "rarities": {},
+  "pips": {},
   "desc": "",
-  "reqs": "imperators_fury := ()"
+  "reqs": "imperators_fury := 135 ttl"
 }

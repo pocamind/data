@@ -1,0 +1,16 @@
+{
+  "name": "Ossified Black Pauldrons",
+  "type": "Arms",
+  "stats": {
+    "health": 3,
+    "posture": 1
+  },
+  "talents": [
+    "Laminated Armor"
+  ],
+  "pips": {
+    "rare": 1
+  },
+  "desc": "",
+  "reqs": "ossified_black_pauldrons := 135 ttl"
+}

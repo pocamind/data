@@ -7,10 +7,10 @@
   "talents": [
     "Cauterized Wounds"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "bloodforged_crown := ()"
+  "reqs": "bloodforged_crown := 165 ttl"
 }

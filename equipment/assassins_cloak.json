@@ -1,11 +1,17 @@
 {
   "name": "Assassins Cloak",
   "type": "Arms",
-  "stats": {},
+  "stats": {
+    "health": 6,
+    "stealth": 3
+  },
   "talents": [
     "Lowstride"
   ],
-  "rarities": {},
+  "pips": {
+    "rare": 2,
+    "legendary": 1
+  },
   "desc": "",
-  "reqs": "assassins_cloak := ()"
+  "reqs": "assassins_cloak := 165 ttl"
 }

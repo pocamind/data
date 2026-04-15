@@ -2,10 +2,8 @@
   "name": "Freestylers Band",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "swim faster out of combat"
-  ],
-  "rarities": {},
+  "talents": [],
+  "pips": {},
   "desc": "",
-  "reqs": "freestylers_band := ()"
+  "reqs": "freestylers_band := 60 ttl"
 }

@@ -3,9 +3,9 @@
   "type": "Arms",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "justicar_defender := ()"
+  "reqs": "justicar_defender := 135 ttl"
 }

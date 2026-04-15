@@ -2,10 +2,8 @@
   "name": "Ring of Wisps",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "double charges on attunement wisps"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "uncommon": 1
   },
   "desc": "",

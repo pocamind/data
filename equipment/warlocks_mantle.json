@@ -7,10 +7,10 @@
   "talents": [
     "Overflowing Dam"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 2
   },
   "desc": "",
-  "reqs": "warlocks_mantle := ()"
+  "reqs": "warlocks_mantle := 210 ttl, 5 int"
 }

@@ -7,10 +7,10 @@
   "talents": [
     "Eureka"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "ministry_operative_cloak := ()"
+  "reqs": "ministry_operative_cloak := 135 ttl"
 }

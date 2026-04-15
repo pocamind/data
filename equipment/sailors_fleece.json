@@ -5,9 +5,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "sailors_fleece := ()"
+  "reqs": "sailors_fleece := 45 ttl"
 }

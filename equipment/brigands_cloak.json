@@ -6,9 +6,9 @@
     "stealth": 4
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "brigands_cloak := ()"
+  "reqs": "brigands_cloak := 90 ttl"
 }

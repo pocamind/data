@@ -5,10 +5,10 @@
     "health": 8
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "royal_guards_kabuto := ()"
+  "reqs": "royal_guards_kabuto := 165 ttl"
 }

@@ -5,9 +5,9 @@
     "elemental_armor": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "monastery_beads := ()"
+  "reqs": "monastery_beads := 90 ttl"
 }

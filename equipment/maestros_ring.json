@@ -2,12 +2,10 @@
   "name": "Maestros Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "1.2 AGI scaling"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "maestros_ring := ()"
+  "reqs": "maestros_ring := 105 ttl"
 }

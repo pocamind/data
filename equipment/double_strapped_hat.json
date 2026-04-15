@@ -4,8 +4,10 @@
   "stats": {
     "health": 3
   },
-  "talents": [],
-  "rarities": {
+  "talents": [
+    "The Exterminator"
+  ],
+  "pips": {
     "rare": 2
   },
   "desc": "",

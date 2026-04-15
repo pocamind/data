@@ -1,0 +1,13 @@
+{
+  "name": "Blindseers Ring",
+  "type": "Rings",
+  "stats": {
+    "sanity": 10
+  },
+  "talents": [],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "blindseers_ring := ()"
+}

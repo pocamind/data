@@ -3,10 +3,10 @@
   "type": "Head",
   "stats": {
     "posture": 1,
-    "stealth": 4
+    "stealth": 2
   },
   "talents": [],
-  "rarities": {},
+  "pips": {},
   "desc": "",
   "reqs": "brown_hood := ()"
 }

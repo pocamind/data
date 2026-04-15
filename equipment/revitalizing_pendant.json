@@ -1,0 +1,14 @@
+{
+  "name": "Revitalizing Pendant",
+  "type": "Torso",
+  "stats": {},
+  "talents": [
+    "Praise The Sun"
+  ],
+  "pips": {
+    "rare": 1,
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "revitalizing_pendant := ()"
+}

@@ -3,15 +3,15 @@
   "type": "Arms",
   "stats": {
     "health": 6,
-    "posture": 1
+    "posture": 2
   },
   "talents": [
     "Crippling Impact"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "reinforced_war_plate := ()"
+  "reqs": "reinforced_war_plate := 315 ttl, 25 str"
 }

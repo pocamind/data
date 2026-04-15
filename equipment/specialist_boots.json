@@ -5,12 +5,11 @@
     "posture": 1
   },
   "talents": [
-    "Flashwind",
-    "Shock Trooper Specialist"
+    "Flashwind"
   ],
-  "rarities": {
+  "pips": {
     "uncommon": 1
   },
   "desc": "",
-  "reqs": "specialist_boots := ()"
+  "reqs": "specialist_boots := 315 ttl, 30 wnd, 30 ltn"
 }

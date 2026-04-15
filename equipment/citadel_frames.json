@@ -6,9 +6,9 @@
     "posture": -1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "citadel_frames := ()"
+  "reqs": "citadel_frames := 60 ttl"
 }

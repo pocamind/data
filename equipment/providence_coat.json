@@ -7,10 +7,10 @@
   "talents": [
     "Braced Collapse"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "providence_coat := ()"
+  "reqs": "providence_coat := 165 ttl"
 }

@@ -2,12 +2,10 @@
   "name": "Akiras Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "1.2 WLL scaling"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "akiras_ring := ()"
+  "reqs": "akiras_ring := 105 ttl"
 }

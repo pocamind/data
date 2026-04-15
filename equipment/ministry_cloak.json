@@ -6,10 +6,10 @@
     "health": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "ministry_cloak := ()"
+  "reqs": "ministry_cloak := 135 ttl"
 }

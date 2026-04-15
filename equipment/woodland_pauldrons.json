@@ -7,9 +7,9 @@
   "talents": [
     "Polite Awakening"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "woodland_pauldrons := ()"
+  "reqs": "woodland_pauldrons := 135 ttl"
 }

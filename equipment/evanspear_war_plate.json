@@ -3,13 +3,13 @@
   "type": "Arms",
   "stats": {
     "health": 6,
-    "posture": 1
+    "posture": 2
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "evanspear_war_plate := ()"
+  "reqs": "evanspear_war_plate := 165 ttl"
 }

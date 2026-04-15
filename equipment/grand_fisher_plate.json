@@ -8,9 +8,9 @@
   "talents": [
     "Diver's Resilience"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 3
   },
   "desc": "",
-  "reqs": "grand_fisher_plate := ()"
+  "reqs": "grand_fisher_plate := 210 ttl"
 }

@@ -5,9 +5,9 @@
     "health": 3
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "adventurer_coat := ()"
+  "reqs": "adventurer_coat := 90 ttl"
 }

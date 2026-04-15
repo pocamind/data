@@ -5,10 +5,10 @@
     "lightning_armor": 10
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "tituss_cape := ()"
+  "reqs": "tituss_cape := 240 ttl"
 }

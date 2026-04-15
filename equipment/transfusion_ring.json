@@ -1,0 +1,13 @@
+{
+  "name": "Transfusion Ring",
+  "type": "Rings",
+  "stats": {
+    "health": 20
+  },
+  "talents": [],
+  "pips": {
+    "uncommon": 1
+  },
+  "desc": "",
+  "reqs": "transfusion_ring := ()"
+}

@@ -3,10 +3,10 @@
   "type": "Head",
   "stats": {},
   "talents": [
-    "Potion Quaffer"
+    "Apothecary"
   ],
-  "rarities": {
-    "common": 1
+  "pips": {
+    "uncommon": 1
   },
   "desc": "",
   "reqs": "alchemists_hat := ()"

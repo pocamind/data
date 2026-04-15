@@ -8,9 +8,9 @@
     "Gourmand",
     "Umami"
   ],
-  "rarities": {
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "chefs_toque := ()"
+  "reqs": "chefs_toque := 135 ttl"
 }

@@ -2,10 +2,8 @@
   "name": "Waning Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "makes you look old"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "rare": 2
   },
   "desc": "",

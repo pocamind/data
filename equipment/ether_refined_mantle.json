@@ -1,0 +1,17 @@
+{
+  "name": "Ether Refined Mantle",
+  "type": "Arms",
+  "stats": {
+    "health": 7
+  },
+  "talents": [
+    "Overflowing Dam",
+    "Sorcerer's Surge"
+  ],
+  "pips": {
+    "rare": 1,
+    "legendary": 2
+  },
+  "desc": "",
+  "reqs": "ether_refined_mantle := 210 ttl, 5 int"
+}

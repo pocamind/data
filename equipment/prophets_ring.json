@@ -2,12 +2,10 @@
   "name": "Prophets Ring",
   "type": "Rings",
   "stats": {},
-  "talents": [
-    "1.2 CHA scaling"
-  ],
-  "rarities": {
+  "talents": [],
+  "pips": {
     "legendary": 1
   },
   "desc": "",
-  "reqs": "prophets_ring := ()"
+  "reqs": "prophets_ring := 105 ttl"
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Regenerative Pendant",
+  "type": "Torso",
+  "stats": {
+    "elemental_armor": 3
+  },
+  "talents": [
+    "Blood Pact"
+  ],
+  "pips": {
+    "legendary": 1
+  },
+  "desc": "",
+  "reqs": "regenerative_pendant := 90 ttl"
+}

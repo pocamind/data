@@ -8,11 +8,11 @@
   "talents": [
     "Lowstride"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "uncommon": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "hive_scourge_cuirass := ()"
+  "reqs": "hive_scourge_cuirass := 210 ttl"
 }

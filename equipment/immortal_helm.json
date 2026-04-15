@@ -5,10 +5,10 @@
   "talents": [
     "Immortality"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "immortal_helm := ()"
+  "reqs": "immortal_helm := 90 ttl"
 }

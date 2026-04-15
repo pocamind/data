@@ -3,7 +3,9 @@
   "type": "Face",
   "stats": {},
   "talents": [],
-  "rarities": {},
+  "pips": {
+    "common": 1
+  },
   "desc": "",
   "reqs": "authority_prototype_mask := ()"
 }

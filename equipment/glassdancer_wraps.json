@@ -8,9 +8,9 @@
   "talents": [
     "Lightweight"
   ],
-  "rarities": {
+  "pips": {
     "rare": 1
   },
   "desc": "",
-  "reqs": "glassdancer_wraps := ()"
+  "reqs": "glassdancer_wraps := 135 ttl"
 }

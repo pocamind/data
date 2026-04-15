@@ -5,10 +5,10 @@
   "talents": [
     "Cosmic Connection"
   ],
-  "rarities": {
+  "pips": {
     "rare": 2,
     "legendary": 1
   },
   "desc": "",
-  "reqs": "celestial_boots := ()"
+  "reqs": "celestial_boots := 165 ttl"
 }

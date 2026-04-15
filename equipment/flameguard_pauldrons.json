@@ -6,9 +6,9 @@
     "posture": 1
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "flameguard_pauldrons := ()"
+  "reqs": "flameguard_pauldrons := 135 ttl"
 }

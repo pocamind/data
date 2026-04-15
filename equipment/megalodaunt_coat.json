@@ -5,9 +5,9 @@
     "dvm": 5
   },
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 2
   },
   "desc": "",
-  "reqs": "megalodaunt_coat := ()"
+  "reqs": "megalodaunt_coat := 90 ttl"
 }

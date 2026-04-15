@@ -3,10 +3,10 @@
   "type": "Torso",
   "stats": {},
   "talents": [],
-  "rarities": {
+  "pips": {
     "rare": 1,
     "legendary": 2
   },
   "desc": "",
-  "reqs": "fauld_of_enmity := ()"
+  "reqs": "fauld_of_enmity := 165 ttl"
 }
