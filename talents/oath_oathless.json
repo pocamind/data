@@ -1,17 +1,19 @@
 {
-  "category": "Oathless",
   "desc": "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
+  "name": "Oath: Oathless",
+  "reqs": "oath_oathless := ()",
+  "rarity": "Oath",
+  "innates": {
+    "Health": 10,
+    "Oath Armor": 20,
+    "Monster Armor": 20,
+    "Wildcard Mantra Slot": 3
+  },
+  "vaulted": false,
+  "category": "Oathless",
   "exclusive": [
     ""
   ],
-  "innates": {
-    "Health": 10,
-    "Wildcard Mantra Slot": 2
-  },
-  "name": "Oath: Oathless",
-  "not_counted_towards_total": false,
-  "rarity": "Oath",
-  "reqs": "oath_oathless := ()",
-  "vaulted": false,
-  "extended_desc": ""
+  "extended_desc": "",
+  "not_counted_towards_total": false
 }
