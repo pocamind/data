@@ -5,8 +5,8 @@
     ""
   ],
   "innates": {
-    "Support Mantra": 2,
-    "Wildcard Mantra": 1
+    "Support Mantra Slot": 2,
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Linkstrider",
   "not_counted_towards_total": false,

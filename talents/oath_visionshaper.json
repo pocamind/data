@@ -5,8 +5,8 @@
     ""
   ],
   "innates": {
-    "Combat Mantra": 2,
-    "Support Mantra": 1
+    "Combat Mantra Slot": 2,
+    "Support Mantra Slot": 1
   },
   "name": "Oath: Visionshaper",
   "not_counted_towards_total": false,

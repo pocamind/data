@@ -6,8 +6,8 @@
   ],
   "innates": {
     "Carry Load": 20,
-    "Support Mantra": 1,
-    "Wildcard Mantra": 1
+    "Support Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Saltchemist",
   "not_counted_towards_total": false,

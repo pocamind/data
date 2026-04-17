@@ -5,8 +5,8 @@
     ""
   ],
   "innates": {
-    "Combat Mantra": 1,
-    "Wildcard Mantra": 1
+    "Combat Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Fadetrimmer",
   "not_counted_towards_total": false,

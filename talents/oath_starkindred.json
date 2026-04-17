@@ -5,9 +5,9 @@
     ""
   ],
   "innates": {
-    "Combat Mantra": 2,
+    "Combat Mantra Slot": 2,
     "Health": 8,
-    "Wildcard Mantra": 1
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Starkindred",
   "not_counted_towards_total": false,

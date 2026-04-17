@@ -5,9 +5,9 @@
     ""
   ],
   "innates": {
-    "Mobility Mantra": 1,
+    "Mobility Mantra Slot": 1,
     "Passive Agility": 8,
-    "Wildcard Mantra": 1
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Jetstriker",
   "not_counted_towards_total": false,

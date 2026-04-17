@@ -4,7 +4,7 @@
   "reqs": "oath_bladeharper := 75r MED OR (LHT + MED + HVY = 90r)",
   "rarity": "Oath",
   "innates": {
-    "Combat Mantra": 2
+    "Combat Mantra Slot": 2
   },
   "vaulted": false,
   "category": "Bladeharper",

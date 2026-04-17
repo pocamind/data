@@ -5,8 +5,8 @@
     ""
   ],
   "innates": {
-    "Combat Mantra": 2,
-    "Wildcard Mantra": 1
+    "Combat Mantra Slot": 2,
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Contractor",
   "not_counted_towards_total": false,

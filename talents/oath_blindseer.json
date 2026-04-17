@@ -6,8 +6,8 @@
   ],
   "innates": {
     "Sanity": 10,
-    "Support Mantra": 1,
-    "Wildcard Mantra": 1
+    "Support Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1
   },
   "name": "Oath: Blindseer",
   "not_counted_towards_total": false,
