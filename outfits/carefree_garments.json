@@ -6,6 +6,8 @@
     "Glass Stone": 1
   },
   "name": "Carefree Garments",
+  "pants_id": "122843258666243",
+  "shirt_id": "77587021895074",
   "reqs": "carefree_garments := 105r TTL",
   "notes": 0,
   "talent": "Fleetfoot",
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": ""
 }

@@ -3,6 +3,8 @@
     "Cloth": 1
   },
   "name": "Traveler Jacket",
+  "pants_id": "5115781091",
+  "shirt_id": "5115780873",
   "reqs": "traveler_jacket := ()",
   "notes": 10,
   "talent": null,
@@ -14,5 +16,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "A well-worn jacket suitable for travelling."
 }

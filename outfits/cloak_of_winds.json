@@ -6,6 +6,8 @@
     "Strange Claw": 2
   },
   "name": "Cloak of Winds",
+  "pants_id": "10401292128",
+  "shirt_id": "10401137145",
   "reqs": "cloak_of_winds := 165r TTL",
   "notes": 0,
   "talent": "Paired Soul",
@@ -19,5 +21,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "Powerful Cloak of the Vigils."
 }

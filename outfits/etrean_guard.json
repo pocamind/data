@@ -6,6 +6,8 @@
     "Megalodaunt Hide": 2
   },
   "name": "Etrean Guard",
+  "pants_id": "6891785609",
+  "shirt_id": "6891784537",
   "reqs": "etrean_guard := 165r TTL",
   "notes": 30,
   "talent": "Unbreakable",
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "Serpentine armor of the Kingdom of Etrea. A lightweight piece of plate sits atop padded snakeskin leather."
 }

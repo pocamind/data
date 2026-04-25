@@ -1,0 +1,27 @@
+{
+  "mats": {
+    "Bloodless Gem": 5,
+    "Cloth": 5,
+    "Dark Feather": 3,
+    "Odd Tentacle": 5,
+    "Primadon Pelt": 1,
+    "Sinner's Ash": 5,
+    "Thresher Spine": 3,
+    "Umbral Obsidian": 20,
+    "Vibrant Gem": 20
+  },
+  "name": "Titanslayer's Adornment",
+  "pants_id": "16183341216",
+  "shirt_id": "16183227058",
+  "reqs": "titanslayers_adornment := 50r STR, 240r TTL",
+  "notes": 5000,
+  "talent": "Primal Rage",
+  "category": "Master",
+  "durability": 3300,
+  "resistances": {},
+  "extra_percents": {
+    "Ether Regen": 25,
+    "Extra Stealth": 0
+  },
+  "desc": "Your very own rightful spoils of war, a gilded adornment made of the furs and skins of Primadon, the mighty Titan of the East. Although the beast itself is poorly understood, one thing is certain - its might is overwhelming. This attire is a testament to your victory against it… until the Titan rises again."
+}

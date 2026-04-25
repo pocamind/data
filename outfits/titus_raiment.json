@@ -13,6 +13,8 @@
     "Wrath Gem": 3
   },
   "name": "Titus Raiment",
+  "pants_id": "118300012162670",
+  "shirt_id": "75667759045391",
   "notes": 2500,
   "reqs": "titus_raiment := 30r STR, 240r TTL",
   "resistances": {
@@ -21,5 +23,6 @@
     "Thunder Resistance": 0.1,
     "Wind Resistance": 0.1
   },
-  "talent": "Overwhelming Might"
+  "talent": "Overwhelming Might",
+  "desc": ""
 }

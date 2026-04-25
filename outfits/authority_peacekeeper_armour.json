@@ -5,6 +5,8 @@
     "Fiber": 5
   },
   "name": "Authority Peacekeeper Armour",
+  "pants_id": "6624202760",
+  "shirt_id": "6624178820",
   "reqs": "authority_peacekeeper_armour := 5r FTD, 90r TTL",
   "notes": 30,
   "talent": "Now You See Me",
@@ -19,5 +21,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate."
 }

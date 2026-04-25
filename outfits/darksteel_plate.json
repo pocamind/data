@@ -7,6 +7,8 @@
     "Strange Claw": 1
   },
   "name": "Darksteel Plate",
+  "pants_id": "10424589665",
+  "shirt_id": "10424588094",
   "reqs": "darksteel_plate := 20r FTD, 165r TTL",
   "notes": 300,
   "talent": "Unbreakable",
@@ -19,5 +21,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": ""
 }

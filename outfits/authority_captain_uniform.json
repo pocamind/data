@@ -6,6 +6,8 @@
     "Lionfish Scale": 1
   },
   "name": "Authority Captain Uniform",
+  "pants_id": "10461616070",
+  "shirt_id": "10461611383",
   "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
   "notes": 500,
   "talent": null,
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "The unmistakable banded coat of an Adretian Captain. Despite immediate appearances, the coat is wound with protective fibers that provide unparalleled durability."
 }

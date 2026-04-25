@@ -4,6 +4,8 @@
     "Fiber": 3
   },
   "name": "Eager Tradesman",
+  "pants_id": "2469632377",
+  "shirt_id": "2469628204",
   "reqs": "eager_tradesman := ()",
   "notes": 0,
   "talent": "Knack",
@@ -16,5 +18,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "There’s work to be done. In style."
 }

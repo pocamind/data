@@ -24,5 +24,6 @@
     "Thunder Resistance": 0.05,
     "Wind Resistance": 0.05
   },
-  "talent": "Centurion's Resolve"
+  "talent": "Centurion's Resolve",
+  "desc": "Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata."
 }

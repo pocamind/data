@@ -5,6 +5,8 @@
     "Crystal Lens": 3
   },
   "name": "Diver Apprentice Robes",
+  "pants_id": "6806587281",
+  "shirt_id": "6806586302",
   "reqs": "diver_apprentice_robes := 10r INT, 90r TTL",
   "notes": 50,
   "talent": null,
@@ -17,5 +19,6 @@
   "extra_percents": {
     "Ether Regen": 10,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "Robes of an Apprentice diver. A robe weaved through the power of the Song, grants passable elemental defenses and ether regeneration."
 }

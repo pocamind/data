@@ -5,6 +5,8 @@
     "Eternal Longstone": 1
   },
   "name": "Bounty Hunter",
+  "pants_id": "5707068742",
+  "shirt_id": "5707040824",
   "reqs": "bounty_hunter := 90r TTL",
   "notes": 0,
   "talent": "Lightweight",
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": ""
 }

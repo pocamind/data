@@ -5,6 +5,8 @@
     "Fiber": 5
   },
   "name": "Familiar Knight's Armor",
+  "pants_id": "665014655",
+  "shirt_id": "665014274",
   "reqs": "familiar_knights_armor := 90r TTL",
   "notes": 30,
   "talent": "Hyperbody",
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "You don’t know why, but a certain Murmur is making you very angry."
 }

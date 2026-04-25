@@ -5,6 +5,8 @@
     "Dread Serpent's Tooth": 1
   },
   "name": "Familiar Demon's Armor",
+  "pants_id": "708342460",
+  "shirt_id": "9727632807",
   "reqs": "familiar_demons_armor := 240r TTL",
   "notes": 5000,
   "talent": "Demon Step",
@@ -18,5 +20,6 @@
   "extra_percents": {
     "Ether Regen": 10,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "So ya want to become a bossraid Oni...?"
 }

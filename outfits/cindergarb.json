@@ -1,6 +1,8 @@
 {
   "mats": {},
   "name": "Cindergarb",
+  "pants_id": "13408550924",
+  "shirt_id": "13408549888",
   "reqs": "cindergarb := ()",
   "notes": 0,
   "talent": "Warding Radiance",
@@ -14,5 +16,6 @@
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 0
-  }
+  },
+  "desc": "Forged from fabric tempered in flame. Cindergarb gathers shed embers enhancing your flamecharm ability."
 }

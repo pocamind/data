@@ -5,6 +5,8 @@
     "Emerald": 1
   },
   "name": "Familiar Assassin's Armor",
+  "pants_id": "616382369",
+  "shirt_id": "616382294",
   "reqs": "familiar_assassins_armor := 240r TTL",
   "notes": 15000,
   "talent": "Bane",
@@ -17,5 +19,6 @@
   "extra_percents": {
     "Ether Regen": 20,
     "Extra Stealth": 50
-  }
+  },
+  "desc": "Discard your identity."
 }
