@@ -11,55 +11,69 @@
   "is_pathfinder": true,
   "variants": {
     "birch": {
-      "eye_color": "#C100DA",
-      "hair_color": "#302A25",
-      "skin_color": "#8B816E",
-      "tone_color": "#4B463B",
-      "feature_color": "#ABA294"
+      "colors": {
+        "eye": "#C100DA",
+        "hair": "#302A25",
+        "skin": "#8B816E",
+        "tone": "#4B463B",
+        "feature": "#ABA294"
+      }
     },
     "redwood": {
-      "eye_color": "#DA0041",
-      "hair_color": "#302525",
-      "skin_color": "#8A716B",
-      "tone_color": "#4C3E3B",
-      "feature_color": "#915B5B"
+      "colors": {
+        "eye": "#DA0041",
+        "hair": "#302525",
+        "skin": "#8A716B",
+        "tone": "#4C3E3B",
+        "feature": "#915B5B"
+      }
     },
     "aspen": {
-      "eye_color": "#2168DA",
-      "hair_color": "#4A5354",
-      "skin_color": "#7B8A80",
-      "tone_color": "#4F5E55",
-      "feature_color": "#56888D"
+      "colors": {
+        "eye": "#2168DA",
+        "hair": "#4A5354",
+        "skin": "#7B8A80",
+        "tone": "#4F5E55",
+        "feature": "#56888D"
+      }
     },
     "teak": {
-      "eye_color": "#EE7700",
-      "hair_color": "#312311",
-      "skin_color": "#987167",
-      "tone_color": "#4B3B32",
-      "feature_color": "#6B4E39"
+      "colors": {
+        "eye": "#EE7700",
+        "hair": "#312311",
+        "skin": "#987167",
+        "tone": "#4B3B32",
+        "feature": "#6B4E39"
+      }
     },
     "cedar": {
-      "eye_color": "#DA00AB",
-      "hair_color": "#302D22",
-      "skin_color": "#887862",
-      "tone_color": "#483E36",
-      "feature_color": "#64543B"
+      "colors": {
+        "eye": "#DA00AB",
+        "hair": "#302D22",
+        "skin": "#887862",
+        "tone": "#483E36",
+        "feature": "#64543B"
+      }
     },
     "auroran": {
-      "eye_color": "#FFFFFF",
-      "hair_color": "#FFFFFF",
-      "skin_color": "#FFFFFF",
-      "tone_color": "#FFFFFF",
-      "feature_color": "#FFFFF8",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#FFFFFF",
+        "skin": "#FFFFFF",
+        "tone": "#FFFFFF",
+        "feature": "#FFFFF8"
+      }
     },
     "hallowtide": {
-      "eye_color": "#DA4703",
-      "hair_color": "#302D22",
-      "skin_color": "#7A706D",
-      "tone_color": "#423C3B",
-      "feature_color": "#111111",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#DA4703",
+        "hair": "#302D22",
+        "skin": "#7A706D",
+        "tone": "#423C3B",
+        "feature": "#111111"
+      }
     }
   }
 }

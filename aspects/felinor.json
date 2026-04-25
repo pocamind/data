@@ -11,43 +11,55 @@
   "is_pathfinder": true,
   "variants": {
     "lynx": {
-      "eye_color": "#C2DA24",
-      "hair_color": "#8F8F8F",
-      "skin_color": "#C5C4C3",
-      "tone_color": "#5A5957"
+      "colors": {
+        "eye": "#C2DA24",
+        "hair": "#8F8F8F",
+        "skin": "#C5C4C3",
+        "tone": "#5A5957"
+      }
     },
     "panther": {
-      "eye_color": "#E89C04",
-      "hair_color": "#212126",
-      "skin_color": "#615E6D",
-      "tone_color": "#28282C",
-      "sclera_color": "#E6E7D5"
+      "colors": {
+        "eye": "#E89C04",
+        "hair": "#212126",
+        "skin": "#615E6D",
+        "tone": "#28282C",
+        "sclera": "#E6E7D5"
+      }
     },
     "sphynx": {
-      "eye_color": "#D12A4E",
-      "hair_color": "#F2F2FF",
-      "skin_color": "#FFCCC9",
-      "tone_color": "#6A5757"
+      "colors": {
+        "eye": "#D12A4E",
+        "hair": "#F2F2FF",
+        "skin": "#FFCCC9",
+        "tone": "#6A5757"
+      }
     },
     "par": {
-      "eye_color": "#00FF7F",
-      "hair_color": "#8F8F8F",
-      "skin_color": "#C5C4C3",
-      "tone_color": "#50504F",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#00FF7F",
+        "hair": "#8F8F8F",
+        "skin": "#C5C4C3",
+        "tone": "#50504F"
+      }
     },
     "leopard": {
-      "eye_color": "#DA9D24",
-      "hair_color": "#8F8572",
-      "skin_color": "#BFB5A9",
-      "tone_color": "#4D4842"
+      "colors": {
+        "eye": "#DA9D24",
+        "hair": "#8F8572",
+        "skin": "#BFB5A9",
+        "tone": "#4D4842"
+      }
     },
     "hallowtide": {
-      "eye_color": "#AA0000",
-      "hair_color": "#FF5500",
-      "skin_color": "#DA8541",
-      "tone_color": "#533219",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#AA0000",
+        "hair": "#FF5500",
+        "skin": "#DA8541",
+        "tone": "#533219"
+      }
     }
   }
 }

@@ -11,40 +11,50 @@
   "is_pathfinder": true,
   "variants": {
     "silverback": {
-      "eye_color": "#AA55FF",
-      "hair_color": "#34322C",
-      "skin_color": "#EAA278",
-      "tone_color": "#684838",
-      "feature_color": "#EBC15D"
+      "colors": {
+        "eye": "#AA55FF",
+        "hair": "#34322C",
+        "skin": "#EAA278",
+        "tone": "#684838",
+        "feature": "#EBC15D"
+      }
     },
     "albino": {
-      "eye_color": "#FF3766",
-      "hair_color": "#F7F0E3",
-      "skin_color": "#EFDDB0",
-      "tone_color": "#6B5740",
-      "feature_color": "#6B7076"
+      "colors": {
+        "eye": "#FF3766",
+        "hair": "#F7F0E3",
+        "skin": "#EFDDB0",
+        "tone": "#6B5740",
+        "feature": "#6B7076"
+      }
     },
     "capuchin": {
-      "eye_color": "#00FFFF",
-      "hair_color": "#F7F0E3",
-      "skin_color": "#FFCC99",
-      "tone_color": "#715E4F",
-      "feature_color": "#9FADC0"
+      "colors": {
+        "eye": "#00FFFF",
+        "hair": "#F7F0E3",
+        "skin": "#FFCC99",
+        "tone": "#715E4F",
+        "feature": "#9FADC0"
+      }
     },
     "tamarin": {
-      "eye_color": "#FFD918",
-      "hair_color": "#D89933",
-      "skin_color": "#E2BD88",
-      "tone_color": "#684F35",
-      "feature_color": "#EBC15D"
+      "colors": {
+        "eye": "#FFD918",
+        "hair": "#D89933",
+        "skin": "#E2BD88",
+        "tone": "#684F35",
+        "feature": "#EBC15D"
+      }
     },
     "hallowtide": {
-      "eye_color": "#FF8102",
-      "hair_color": "#7C0000",
-      "skin_color": "#BA815F",
-      "tone_color": "#6C4A37",
-      "feature_color": "#EBC15D",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FF8102",
+        "hair": "#7C0000",
+        "skin": "#BA815F",
+        "tone": "#6C4A37",
+        "feature": "#EBC15D"
+      }
     }
   }
 }

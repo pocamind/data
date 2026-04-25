@@ -11,40 +11,50 @@
   "is_pathfinder": true,
   "variants": {
     "viper": {
-      "eye_color": "#A72409",
-      "hair_color": "#E6D4D4",
-      "skin_color": "#F7EEDE",
-      "tone_color": "#5A4840",
-      "sclera_color": "#F0E1A2"
+      "colors": {
+        "eye": "#A72409",
+        "hair": "#E6D4D4",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#F0E1A2"
+      }
     },
     "mamba": {
-      "eye_color": "#863C58",
-      "hair_color": "#28292D",
-      "skin_color": "#F7EEE3",
-      "tone_color": "#5A4840",
-      "sclera_color": "#F0E1A2"
+      "colors": {
+        "eye": "#863C58",
+        "hair": "#28292D",
+        "skin": "#F7EEE3",
+        "tone": "#5A4840",
+        "sclera": "#F0E1A2"
+      }
     },
     "coral": {
-      "eye_color": "#FED338",
-      "hair_color": "#80B5EA",
-      "skin_color": "#F7EEDE",
-      "tone_color": "#5A4840",
-      "sclera_color": "#F0F0F0"
+      "colors": {
+        "eye": "#FED338",
+        "hair": "#80B5EA",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#F0F0F0"
+      }
     },
     "file": {
-      "eye_color": "#8C0F82",
-      "hair_color": "#E6D4D4",
-      "skin_color": "#F7EEDE",
-      "tone_color": "#5A4840",
-      "sclera_color": "#CBD2FF"
+      "colors": {
+        "eye": "#8C0F82",
+        "hair": "#E6D4D4",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#CBD2FF"
+      }
     },
     "hallowtide": {
-      "eye_color": "#D10000",
-      "hair_color": "#161616",
-      "skin_color": "#F7EEDE",
-      "tone_color": "#5A4840",
-      "sclera_color": "#735959",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#D10000",
+        "hair": "#161616",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#735959"
+      }
     }
   }
 }

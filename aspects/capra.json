@@ -13,46 +13,56 @@
   "is_pathfinder": true,
   "variants": {
     "nemit": {
-      "eye_color": "#D0AE00",
-      "hair_color": "#39352F",
-      "skin_color": "#787063",
-      "tone_color": "#46413A",
-      "feature_color": "#988C78",
-      "sclera_color": "#C7C0A4"
+      "colors": {
+        "eye": "#D0AE00",
+        "hair": "#39352F",
+        "skin": "#787063",
+        "tone": "#46413A",
+        "feature": "#988C78",
+        "sclera": "#C7C0A4"
+      }
     },
     "jurik": {
-      "eye_color": "#D07900",
-      "hair_color": "#39332E",
-      "skin_color": "#77738B",
-      "tone_color": "#4E4B5B",
-      "feature_color": "#9392A3",
-      "sclera_color": "#C7C0A4"
+      "colors": {
+        "eye": "#D07900",
+        "hair": "#39332E",
+        "skin": "#77738B",
+        "tone": "#4E4B5B",
+        "feature": "#9392A3",
+        "sclera": "#C7C0A4"
+      }
     },
     "sudo": {
-      "eye_color": "#FFFFFF",
-      "hair_color": "#323851",
-      "skin_color": "#8B8A8C",
-      "tone_color": "#555556",
-      "feature_color": "#3B3837",
-      "sclera_color": "#454154",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#323851",
+        "skin": "#8B8A8C",
+        "tone": "#555556",
+        "feature": "#3B3837",
+        "sclera": "#454154"
+      }
     },
     "ku": {
-      "eye_color": "#D0AE00",
-      "hair_color": "#39332E",
-      "skin_color": "#957570",
-      "tone_color": "#503F3D",
-      "feature_color": "#A59283",
-      "sclera_color": "#C7C0A4"
+      "colors": {
+        "eye": "#D0AE00",
+        "hair": "#39332E",
+        "skin": "#957570",
+        "tone": "#503F3D",
+        "feature": "#A59283",
+        "sclera": "#C7C0A4"
+      }
     },
     "hallowtide": {
-      "eye_color": "#B03B00",
-      "hair_color": "#212121",
-      "skin_color": "#7E5656",
-      "tone_color": "#3E2B2B",
-      "feature_color": "#512323",
-      "sclera_color": "#454154",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#B03B00",
+        "hair": "#212121",
+        "skin": "#7E5656",
+        "tone": "#3E2B2B",
+        "feature": "#512323",
+        "sclera": "#454154"
+      }
     }
   }
 }

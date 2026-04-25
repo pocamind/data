@@ -11,48 +11,60 @@
   "is_pathfinder": true,
   "variants": {
     "boulder": {
-      "eye_color": "#DAA400",
-      "hair_color": "#52587E",
-      "skin_color": "#ABC4D4",
-      "tone_color": "#5B6566",
-      "marking_color": "#643C3C"
+      "colors": {
+        "eye": "#DAA400",
+        "hair": "#52587E",
+        "skin": "#ABC4D4",
+        "tone": "#5B6566",
+        "marking": "#643C3C"
+      }
     },
     "seeker": {
-      "eye_color": "#DA7B0E",
-      "hair_color": "#474B66",
-      "skin_color": "#9EC7CB",
-      "tone_color": "#647476",
-      "marking_color": "#6C5244"
+      "colors": {
+        "eye": "#DA7B0E",
+        "hair": "#474B66",
+        "skin": "#9EC7CB",
+        "tone": "#647476",
+        "marking": "#6C5244"
+      }
     },
     "salt": {
-      "eye_color": "#D05111",
-      "hair_color": "#352F42",
-      "skin_color": "#7888A7",
-      "tone_color": "#4C4D5E",
-      "marking_color": "#ECDA15"
+      "colors": {
+        "eye": "#D05111",
+        "hair": "#352F42",
+        "skin": "#7888A7",
+        "tone": "#4C4D5E",
+        "marking": "#ECDA15"
+      }
     },
     "greymarch": {
-      "eye_color": "#DA7B0E",
-      "hair_color": "#2E3042",
-      "skin_color": "#B4CAD4",
-      "tone_color": "#42545A",
-      "marking_color": "#272221"
+      "colors": {
+        "eye": "#DA7B0E",
+        "hair": "#2E3042",
+        "skin": "#B4CAD4",
+        "tone": "#42545A",
+        "marking": "#272221"
+      }
     },
     "alder": {
-      "eye_color": "#6331D0",
-      "hair_color": "#2E3042",
-      "skin_color": "#ABC4D4",
-      "tone_color": "#42545A",
-      "marking_color": "#AC78D6"
+      "colors": {
+        "eye": "#6331D0",
+        "hair": "#2E3042",
+        "skin": "#ABC4D4",
+        "tone": "#42545A",
+        "marking": "#AC78D6"
+      }
     },
     "hallowtide": {
-      "eye_color": "#F35100",
-      "hair_color": "#1D1F2A",
-      "skin_color": "#99A3CC",
-      "tone_color": "#44485B",
-      "marking_color": "#CE4500",
-      "sclera_color": "#444444",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#F35100",
+        "hair": "#1D1F2A",
+        "skin": "#99A3CC",
+        "tone": "#44485B",
+        "marking": "#CE4500",
+        "sclera": "#444444"
+      }
     }
   }
 }

@@ -11,72 +11,90 @@
   "desc": "The stars call you back...",
   "variants": {
     "gilgamesh": {
-      "eye_color": "#FF0004",
-      "hair_color": "#EFB838",
-      "skin_color": "#C7AC78",
-      "tone_color": "#684F39",
-      "sclera_color": "#FFFFFF",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FF0004",
+        "hair": "#EFB838",
+        "skin": "#C7AC78",
+        "tone": "#684F39",
+        "sclera": "#FFFFFF"
+      }
     },
     "lewyn": {
-      "eye_color": "#88F498",
-      "hair_color": "#83EEB3",
-      "skin_color": "#C7AC78",
-      "tone_color": "#C7AC78",
-      "sclera_color": "#FFFFFF",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#88F498",
+        "hair": "#83EEB3",
+        "skin": "#C7AC78",
+        "tone": "#C7AC78",
+        "sclera": "#FFFFFF"
+      }
     },
     "moros": {
-      "eye_color": "#FFFFFF",
-      "hair_color": "#2F3035",
-      "skin_color": "#BBB3B2",
-      "tone_color": "#BBB3B2",
-      "sclera_color": "#3B3B3B",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#2F3035",
+        "skin": "#BBB3B2",
+        "tone": "#BBB3B2",
+        "sclera": "#3B3B3B"
+      }
     },
     "horror": {
-      "eye_color": "#D30000",
-      "hair_color": "#FFFFFF",
-      "skin_color": "#D6D3CB",
-      "tone_color": "#817F7A",
-      "sclera_color": "#FFFFFF",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#D30000",
+        "hair": "#FFFFFF",
+        "skin": "#D6D3CB",
+        "tone": "#817F7A",
+        "sclera": "#FFFFFF"
+      }
     },
     "alpha": {
-      "eye_color": "#0AD7FF",
-      "hair_color": "#EFEFEF",
-      "skin_color": "#C7AC78",
-      "tone_color": "#563625",
-      "sclera_color": "#FFFFFF"
+      "colors": {
+        "eye": "#0AD7FF",
+        "hair": "#EFEFEF",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
     },
     "beta": {
-      "eye_color": "#19F43D",
-      "hair_color": "#191300",
-      "skin_color": "#C7AC78",
-      "tone_color": "#563625",
-      "sclera_color": "#FFFFFF"
+      "colors": {
+        "eye": "#19F43D",
+        "hair": "#191300",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
     },
     "gamma": {
-      "eye_color": "#FF7700",
-      "hair_color": "#120E00",
-      "skin_color": "#C7AC78",
-      "tone_color": "#563625",
-      "sclera_color": "#FFFFFF"
+      "colors": {
+        "eye": "#FF7700",
+        "hair": "#120E00",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
     },
     "delta": {
-      "eye_color": "#840AFF",
-      "hair_color": "#191300",
-      "skin_color": "#C7AC78",
-      "tone_color": "#563625",
-      "sclera_color": "#FFFFFF"
+      "colors": {
+        "eye": "#840AFF",
+        "hair": "#191300",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
     },
     "mr_toons": {
-      "eye_color": "#FFFFFF",
-      "hair_color": "#FFFFFF",
-      "skin_color": "#C7AC78",
-      "tone_color": "#7F6D4D",
-      "sclera_color": "#FFFFFF",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#FFFFFF",
+        "skin": "#C7AC78",
+        "tone": "#7F6D4D",
+        "sclera": "#FFFFFF"
+      }
     }
   }
 }

@@ -11,60 +11,72 @@
   "is_pathfinder": true,
   "variants": {
     "titan": {
-      "eye_color": "#FFCD03",
-      "hair_color": "#A5B1B3",
-      "skin_color": "#3D2B25",
-      "tone_color": "#000000",
-      "marking_color": "#FFCD03",
-      "sclera_color": "#FFFFFF",
-      "under_color": "#6C5837"
+      "colors": {
+        "eye": "#FFCD03",
+        "hair": "#A5B1B3",
+        "skin": "#3D2B25",
+        "tone": "#000000",
+        "marking": "#FFCD03",
+        "sclera": "#FFFFFF",
+        "under": "#6C5837"
+      }
     },
     "enceladus": {
-      "eye_color": "#0ACAFF",
-      "hair_color": "#9EA2B1",
-      "skin_color": "#2D2F51",
-      "tone_color": "#10111E",
-      "marking_color": "#0ACAFF",
-      "sclera_color": "#FFFFFF",
-      "under_color": "#307981"
+      "colors": {
+        "eye": "#0ACAFF",
+        "hair": "#9EA2B1",
+        "skin": "#2D2F51",
+        "tone": "#10111E",
+        "marking": "#0ACAFF",
+        "sclera": "#FFFFFF",
+        "under": "#307981"
+      }
     },
     "zithori": {
-      "eye_color": "#38AA00",
-      "hair_color": "#5A6765",
-      "skin_color": "#32382E",
-      "tone_color": "#000000",
-      "marking_color": "#38AA00",
-      "sclera_color": "#FFFFFF",
-      "under_color": "#2F8132",
-      "unlock": "spec"
+      "unlock": "spec",
+      "colors": {
+        "eye": "#38AA00",
+        "hair": "#5A6765",
+        "skin": "#32382E",
+        "tone": "#000000",
+        "marking": "#38AA00",
+        "sclera": "#FFFFFF",
+        "under": "#2F8132"
+      }
     },
     "tethys": {
-      "eye_color": "#11DC9F",
-      "hair_color": "#DFDFDF",
-      "skin_color": "#364C51",
-      "tone_color": "#060809",
-      "marking_color": "#11DC9F",
-      "sclera_color": "#000000",
-      "under_color": "#3A7060"
+      "colors": {
+        "eye": "#11DC9F",
+        "hair": "#DFDFDF",
+        "skin": "#364C51",
+        "tone": "#060809",
+        "marking": "#11DC9F",
+        "sclera": "#000000",
+        "under": "#3A7060"
+      }
     },
     "hyperion": {
-      "eye_color": "#FFFFFF",
-      "hair_color": "#C4CBCC",
-      "skin_color": "#373D46",
-      "tone_color": "#000000",
-      "marking_color": "#FFFFFF",
-      "sclera_color": "#FFFFFF",
-      "under_color": "#707E81"
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#C4CBCC",
+        "skin": "#373D46",
+        "tone": "#000000",
+        "marking": "#FFFFFF",
+        "sclera": "#FFFFFF",
+        "under": "#707E81"
+      }
     },
     "hallowtide": {
-      "eye_color": "#FF61F7",
-      "hair_color": "#60537C",
-      "skin_color": "#392A4F",
-      "tone_color": "#0B0810",
-      "marking_color": "#FF61F7",
-      "sclera_color": "#FFFFFF",
-      "under_color": "#764281",
-      "unlock": "hallowtide"
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FF61F7",
+        "hair": "#60537C",
+        "skin": "#392A4F",
+        "tone": "#0B0810",
+        "marking": "#FF61F7",
+        "sclera": "#FFFFFF",
+        "under": "#764281"
+      }
     }
   }
 }
