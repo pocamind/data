@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "titan": {
+      "name": "Titan",
       "colors": {
         "eye": "#FFCD03",
         "hair": "#A5B1B3",
@@ -22,6 +23,7 @@
       }
     },
     "enceladus": {
+      "name": "Enceladus",
       "colors": {
         "eye": "#0ACAFF",
         "hair": "#9EA2B1",
@@ -33,6 +35,7 @@
       }
     },
     "zithori": {
+      "name": "Zithori",
       "unlock": "spec",
       "colors": {
         "eye": "#38AA00",
@@ -45,6 +48,7 @@
       }
     },
     "tethys": {
+      "name": "Tethys",
       "colors": {
         "eye": "#11DC9F",
         "hair": "#DFDFDF",
@@ -56,6 +60,7 @@
       }
     },
     "hyperion": {
+      "name": "Hyperion",
       "colors": {
         "eye": "#FFFFFF",
         "hair": "#C4CBCC",
@@ -67,6 +72,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#FF61F7",

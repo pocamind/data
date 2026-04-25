@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "boulder": {
+      "name": "Boulder",
       "colors": {
         "eye": "#DAA400",
         "hair": "#52587E",
@@ -20,6 +21,7 @@
       }
     },
     "seeker": {
+      "name": "Seeker",
       "colors": {
         "eye": "#DA7B0E",
         "hair": "#474B66",
@@ -29,6 +31,7 @@
       }
     },
     "salt": {
+      "name": "Salt",
       "colors": {
         "eye": "#D05111",
         "hair": "#352F42",
@@ -38,6 +41,7 @@
       }
     },
     "greymarch": {
+      "name": "Greymarch",
       "colors": {
         "eye": "#DA7B0E",
         "hair": "#2E3042",
@@ -47,6 +51,7 @@
       }
     },
     "alder": {
+      "name": "Alder",
       "colors": {
         "eye": "#6331D0",
         "hair": "#2E3042",
@@ -56,6 +61,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#F35100",

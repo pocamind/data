@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "viper": {
+      "name": "Viper",
       "colors": {
         "eye": "#A72409",
         "hair": "#E6D4D4",
@@ -20,6 +21,7 @@
       }
     },
     "mamba": {
+      "name": "Mamba",
       "colors": {
         "eye": "#863C58",
         "hair": "#28292D",
@@ -29,6 +31,7 @@
       }
     },
     "coral": {
+      "name": "Coral",
       "colors": {
         "eye": "#FED338",
         "hair": "#80B5EA",
@@ -38,6 +41,7 @@
       }
     },
     "file": {
+      "name": "File",
       "colors": {
         "eye": "#8C0F82",
         "hair": "#E6D4D4",
@@ -47,6 +51,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#D10000",

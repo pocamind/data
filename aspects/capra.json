@@ -13,6 +13,7 @@
   "is_pathfinder": true,
   "variants": {
     "nemit": {
+      "name": "Nemit",
       "colors": {
         "eye": "#D0AE00",
         "hair": "#39352F",
@@ -23,6 +24,7 @@
       }
     },
     "jurik": {
+      "name": "Jurik",
       "colors": {
         "eye": "#D07900",
         "hair": "#39332E",
@@ -33,6 +35,7 @@
       }
     },
     "sudo": {
+      "name": "Sudo",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -44,6 +47,7 @@
       }
     },
     "ku": {
+      "name": "Ku",
       "colors": {
         "eye": "#D0AE00",
         "hair": "#39332E",
@@ -54,6 +58,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#B03B00",

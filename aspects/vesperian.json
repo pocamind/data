@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "sabaton": {
+      "name": "Sabaton",
       "colors": {
         "eye": "#FFCD03",
         "hair": "#3A3632",
@@ -22,6 +23,7 @@
       }
     },
     "haske": {
+      "name": "Haske",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -34,6 +36,7 @@
       }
     },
     "besague": {
+      "name": "Besague",
       "colors": {
         "eye": "#FFCD03",
         "hair": "#3A2F21",
@@ -45,6 +48,7 @@
       }
     },
     "nutt": {
+      "name": "Nutt",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -57,6 +61,7 @@
       }
     },
     "plackart": {
+      "name": "Plackart",
       "colors": {
         "eye": "#FFCD03",
         "hair": "#34383A",
@@ -68,6 +73,7 @@
       }
     },
     "nakti": {
+      "name": "Nakti",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -80,6 +86,7 @@
       }
     },
     "monster": {
+      "name": "Monster",
       "unlock": "spec",
       "colors": {
         "eye": "#820000",
@@ -92,6 +99,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#3D00B6",

@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "silverback": {
+      "name": "Silverback",
       "colors": {
         "eye": "#AA55FF",
         "hair": "#34322C",
@@ -20,6 +21,7 @@
       }
     },
     "albino": {
+      "name": "Albino",
       "colors": {
         "eye": "#FF3766",
         "hair": "#F7F0E3",
@@ -29,6 +31,7 @@
       }
     },
     "capuchin": {
+      "name": "Capuchin",
       "colors": {
         "eye": "#00FFFF",
         "hair": "#F7F0E3",
@@ -38,6 +41,7 @@
       }
     },
     "tamarin": {
+      "name": "Tamarin",
       "colors": {
         "eye": "#FFD918",
         "hair": "#D89933",
@@ -47,6 +51,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#FF8102",

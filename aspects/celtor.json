@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "otter": {
+      "name": "Otter",
       "colors": {
         "eye": "#63BA00",
         "hair": "#424134",
@@ -19,6 +20,7 @@
       }
     },
     "badger": {
+      "name": "Badger",
       "colors": {
         "eye": "#31B800",
         "hair": "#282723",
@@ -27,6 +29,7 @@
       }
     },
     "weasel": {
+      "name": "Weasel",
       "colors": {
         "eye": "#69C500",
         "hair": "#464237",
@@ -35,6 +38,7 @@
       }
     },
     "marten": {
+      "name": "Marten",
       "colors": {
         "eye": "#7D9600",
         "hair": "#414A3B",
@@ -43,6 +47,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#550000",

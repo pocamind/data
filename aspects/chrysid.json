@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "seer": {
+      "name": "Seer",
       "colors": {
         "eye": "#473FB9",
         "hair": "#343251",
@@ -20,6 +21,7 @@
       }
     },
     "devout": {
+      "name": "Devout",
       "colors": {
         "eye": "#DD5F85",
         "hair": "#44342F",
@@ -29,6 +31,7 @@
       }
     },
     "adept": {
+      "name": "Adept",
       "colors": {
         "eye": "#9FB844",
         "hair": "#4D4A48",
@@ -38,6 +41,7 @@
       }
     },
     "sage": {
+      "name": "Sage",
       "colors": {
         "eye": "#D87780",
         "hair": "#3E4434",
@@ -47,6 +51,7 @@
       }
     },
     "hierophant": {
+      "name": "Hierophant",
       "colors": {
         "eye": "#663B3F",
         "hair": "#E5DEC7",
@@ -56,6 +61,7 @@
       }
     },
     "augur": {
+      "name": "Augur",
       "colors": {
         "eye": "#FC897E",
         "hair": "#F99B84",
@@ -65,6 +71,7 @@
       }
     },
     "messenger": {
+      "name": "Messenger",
       "colors": {
         "eye": "#3B3A42",
         "hair": "#433320",
@@ -74,6 +81,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#FF5500",

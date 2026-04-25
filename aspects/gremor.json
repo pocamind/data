@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "birch": {
+      "name": "Birch",
       "colors": {
         "eye": "#C100DA",
         "hair": "#302A25",
@@ -20,6 +21,7 @@
       }
     },
     "redwood": {
+      "name": "Redwood",
       "colors": {
         "eye": "#DA0041",
         "hair": "#302525",
@@ -29,6 +31,7 @@
       }
     },
     "aspen": {
+      "name": "Aspen",
       "colors": {
         "eye": "#2168DA",
         "hair": "#4A5354",
@@ -38,6 +41,7 @@
       }
     },
     "teak": {
+      "name": "Teak",
       "colors": {
         "eye": "#EE7700",
         "hair": "#312311",
@@ -47,6 +51,7 @@
       }
     },
     "cedar": {
+      "name": "Cedar",
       "colors": {
         "eye": "#DA00AB",
         "hair": "#302D22",
@@ -56,6 +61,7 @@
       }
     },
     "auroran": {
+      "name": "Auroran",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -66,6 +72,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#DA4703",

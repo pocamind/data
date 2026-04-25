@@ -11,6 +11,7 @@
   "desc": "The stars call you back...",
   "variants": {
     "gilgamesh": {
+      "name": "Gilgamesh",
       "unlock": "spec",
       "colors": {
         "eye": "#FF0004",
@@ -21,6 +22,7 @@
       }
     },
     "lewyn": {
+      "name": "Lewyn",
       "unlock": "spec",
       "colors": {
         "eye": "#88F498",
@@ -31,6 +33,7 @@
       }
     },
     "moros": {
+      "name": "Moros",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
@@ -41,6 +44,7 @@
       }
     },
     "horror": {
+      "name": "Horror",
       "unlock": "spec",
       "colors": {
         "eye": "#D30000",
@@ -51,6 +55,7 @@
       }
     },
     "alpha": {
+      "name": "Alpha",
       "colors": {
         "eye": "#0AD7FF",
         "hair": "#EFEFEF",
@@ -60,6 +65,7 @@
       }
     },
     "beta": {
+      "name": "Beta",
       "colors": {
         "eye": "#19F43D",
         "hair": "#191300",
@@ -69,6 +75,7 @@
       }
     },
     "gamma": {
+      "name": "Gamma",
       "colors": {
         "eye": "#FF7700",
         "hair": "#120E00",
@@ -78,6 +85,7 @@
       }
     },
     "delta": {
+      "name": "Delta",
       "colors": {
         "eye": "#840AFF",
         "hair": "#191300",
@@ -87,6 +95,7 @@
       }
     },
     "mr_toons": {
+      "name": "MrToons",
       "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",

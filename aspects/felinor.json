@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "lynx": {
+      "name": "Lynx",
       "colors": {
         "eye": "#C2DA24",
         "hair": "#8F8F8F",
@@ -19,6 +20,7 @@
       }
     },
     "panther": {
+      "name": "Panther",
       "colors": {
         "eye": "#E89C04",
         "hair": "#212126",
@@ -28,6 +30,7 @@
       }
     },
     "sphynx": {
+      "name": "Sphynx",
       "colors": {
         "eye": "#D12A4E",
         "hair": "#F2F2FF",
@@ -36,6 +39,7 @@
       }
     },
     "par": {
+      "name": "Par",
       "unlock": "spec",
       "colors": {
         "eye": "#00FF7F",
@@ -45,6 +49,7 @@
       }
     },
     "leopard": {
+      "name": "Leopard",
       "colors": {
         "eye": "#DA9D24",
         "hair": "#8F8572",
@@ -53,6 +58,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#AA0000",

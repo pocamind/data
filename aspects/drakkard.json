@@ -11,6 +11,7 @@
   "is_pathfinder": false,
   "variants": {
     "slate": {
+      "name": "Slate",
       "colors": {
         "eye": "#FFFFFF",
         "hair": "#333333",
@@ -21,6 +22,7 @@
       }
     },
     "laguna": {
+      "name": "Laguna",
       "colors": {
         "eye": "#06FFA0",
         "hair": "#234C3E",
@@ -31,6 +33,7 @@
       }
     },
     "sprout": {
+      "name": "Sprout",
       "colors": {
         "eye": "#B7FF1D",
         "hair": "#363E29",
@@ -41,6 +44,7 @@
       }
     },
     "vale": {
+      "name": "Vale",
       "colors": {
         "eye": "#FF4EFF",
         "hair": "#39293E",
@@ -51,6 +55,7 @@
       }
     },
     "ember": {
+      "name": "Ember",
       "colors": {
         "eye": "#FF9500",
         "hair": "#331111",
@@ -61,6 +66,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#FFAE3D",

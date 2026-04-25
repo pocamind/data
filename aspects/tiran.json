@@ -11,6 +11,7 @@
   "is_pathfinder": true,
   "variants": {
     "canary": {
+      "name": "Canary",
       "colors": {
         "eye": "#D60270",
         "hair": "#E6C769",
@@ -20,6 +21,7 @@
       }
     },
     "jay": {
+      "name": "Jay",
       "colors": {
         "eye": "#FF7300",
         "hair": "#3D3B62",
@@ -29,6 +31,7 @@
       }
     },
     "crow": {
+      "name": "Crow",
       "colors": {
         "eye": "#FFCC00",
         "hair": "#27112F",
@@ -38,6 +41,7 @@
       }
     },
     "cardinal": {
+      "name": "Cardinal",
       "colors": {
         "eye": "#FFBF00",
         "hair": "#761D1A",
@@ -47,6 +51,7 @@
       }
     },
     "hallowtide": {
+      "name": "Hallowtide",
       "unlock": "hallowtide",
       "colors": {
         "eye": "#FF0000",
