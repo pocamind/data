@@ -1,5 +1,6 @@
 {
   "name": "Chrysid",
+  "desc": "Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book.",
   "innate": {
     "Agility": 2,
     "Charisma": 3
@@ -7,5 +8,64 @@
   "talent": [
     "Mothwing Dust"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "seer": {
+      "eye_color": "#473FB9",
+      "hair_color": "#343251",
+      "skin_color": "#757CAB",
+      "tone_color": "#2E2F42",
+      "sclera_color": "#FFFFFF"
+    },
+    "devout": {
+      "eye_color": "#DD5F85",
+      "hair_color": "#44342F",
+      "skin_color": "#D096AA",
+      "tone_color": "#6B4252",
+      "sclera_color": "#FFFFFF"
+    },
+    "adept": {
+      "eye_color": "#9FB844",
+      "hair_color": "#4D4A48",
+      "skin_color": "#ADA28A",
+      "tone_color": "#3F3C39",
+      "sclera_color": "#FFFFFF"
+    },
+    "sage": {
+      "eye_color": "#D87780",
+      "hair_color": "#3E4434",
+      "skin_color": "#C6CBAE",
+      "tone_color": "#66754E",
+      "sclera_color": "#FFFFFF"
+    },
+    "hierophant": {
+      "eye_color": "#663B3F",
+      "hair_color": "#E5DEC7",
+      "skin_color": "#FFF7E2",
+      "tone_color": "#6D6355",
+      "sclera_color": "#FFFFFF"
+    },
+    "augur": {
+      "eye_color": "#FC897E",
+      "hair_color": "#F99B84",
+      "skin_color": "#433D3A",
+      "tone_color": "#2D2927",
+      "sclera_color": "#0F0F0F"
+    },
+    "messenger": {
+      "eye_color": "#3B3A42",
+      "hair_color": "#433320",
+      "skin_color": "#BE9253",
+      "tone_color": "#8D5237",
+      "sclera_color": "#0F0F0F"
+    },
+    "hallowtide": {
+      "eye_color": "#FF5500",
+      "hair_color": "#182226",
+      "skin_color": "#918B90",
+      "tone_color": "#3F3D3E",
+      "sclera_color": "#FFFFFF",
+      "unlock": "hallowtide"
+    }
+  }
 }

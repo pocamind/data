@@ -1,5 +1,6 @@
 {
   "name": "Felinor",
+  "desc": "Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom.",
   "innate": {
     "Agility": 2,
     "Charisma": 3
@@ -7,5 +8,46 @@
   "talent": [
     "Nightchild"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "lynx": {
+      "eye_color": "#C2DA24",
+      "hair_color": "#8F8F8F",
+      "skin_color": "#C5C4C3",
+      "tone_color": "#5A5957"
+    },
+    "panther": {
+      "eye_color": "#E89C04",
+      "hair_color": "#212126",
+      "skin_color": "#615E6D",
+      "tone_color": "#28282C",
+      "sclera_color": "#E6E7D5"
+    },
+    "sphynx": {
+      "eye_color": "#D12A4E",
+      "hair_color": "#F2F2FF",
+      "skin_color": "#FFCCC9",
+      "tone_color": "#6A5757"
+    },
+    "par": {
+      "eye_color": "#00FF7F",
+      "hair_color": "#8F8F8F",
+      "skin_color": "#C5C4C3",
+      "tone_color": "#50504F",
+      "unlock": "spec"
+    },
+    "leopard": {
+      "eye_color": "#DA9D24",
+      "hair_color": "#8F8572",
+      "skin_color": "#BFB5A9",
+      "tone_color": "#4D4842"
+    },
+    "hallowtide": {
+      "eye_color": "#AA0000",
+      "hair_color": "#FF5500",
+      "skin_color": "#DA8541",
+      "tone_color": "#533219",
+      "unlock": "hallowtide"
+    }
+  }
 }

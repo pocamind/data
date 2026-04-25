@@ -1,5 +1,6 @@
 {
   "name": "Kiron",
+  "desc": "Once isolated in the subterranean caverns that straddle the Boundary, the bat-like Kirons are perceptive and shrewd spelunkers...",
   "innate": {
     "Agility": 3,
     "Intelligence": 2
@@ -7,5 +8,71 @@
   "talent": [
     "Echolocator"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "megaderma": {
+      "eye_color": "#B3B3FF",
+      "hair_color": "#766F87",
+      "skin_color": "#CCCEDE",
+      "tone_color": "#44434F",
+      "marking_color": "#858691",
+      "sclera_color": "#898599"
+    },
+    "ectophylla": {
+      "eye_color": "#D6B779",
+      "hair_color": "#463C2D",
+      "skin_color": "#BFB59E",
+      "tone_color": "#272520",
+      "marking_color": "#7F7869",
+      "sclera_color": "#4D4B3E"
+    },
+    "macroderma": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#FFFDF6",
+      "skin_color": "#E8E3D4",
+      "tone_color": "#3A3530",
+      "marking_color": "#A29F94",
+      "sclera_color": "#BDBDBD"
+    },
+    "kerivoula": {
+      "eye_color": "#FF8C52",
+      "hair_color": "#4F3D28",
+      "skin_color": "#C1976C",
+      "tone_color": "#583C29",
+      "marking_color": "#8B6C4E",
+      "sclera_color": "#D6CCBD"
+    },
+    "hypsignathus": {
+      "eye_color": "#7446FF",
+      "hair_color": "#322E36",
+      "skin_color": "#70655B",
+      "tone_color": "#282420",
+      "marking_color": "#433C36",
+      "sclera_color": "#54504C"
+    },
+    "lasiurus": {
+      "eye_color": "#D4B0C9",
+      "hair_color": "#7C4545",
+      "skin_color": "#BD7D75",
+      "tone_color": "#4C2D2B",
+      "marking_color": "#7C524D",
+      "sclera_color": "#A17864"
+    },
+    "pipistrelle": {
+      "eye_color": "#D47694",
+      "hair_color": "#786571",
+      "skin_color": "#F9E3DF",
+      "tone_color": "#3A322F",
+      "marking_color": "#A8938F"
+    },
+    "hallowtide": {
+      "eye_color": "#FF442B",
+      "hair_color": "#0D0D0D",
+      "skin_color": "#FAFAF8",
+      "tone_color": "#1B1B18",
+      "marking_color": "#B1B1B0",
+      "sclera_color": "#EEEAD7",
+      "unlock": "hallowtide"
+    }
+  }
 }

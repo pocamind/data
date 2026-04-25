@@ -1,5 +1,6 @@
 {
   "name": "Canor",
+  "desc": "With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people.",
   "innate": {
     "Charisma": 3,
     "Strength": 2
@@ -7,5 +8,56 @@
   "talent": [
     "Loyalty"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "interior": {
+      "eye_color": "#DAD300",
+      "hair_color": "#2B2B24",
+      "skin_color": "#9C9784",
+      "tone_color": "#3D3C39",
+      "marking_color": "#EC0000",
+      "sclera_color": "#F9F2E6"
+    },
+    "river": {
+      "eye_color": "#71DCDD",
+      "hair_color": "#323232",
+      "skin_color": "#FFC592",
+      "tone_color": "#443533",
+      "marking_color": "#397070",
+      "sclera_color": "#F9F2E6"
+    },
+    "lion": {
+      "eye_color": "#EA8B17",
+      "hair_color": "#AD8648",
+      "skin_color": "#DFAC78",
+      "tone_color": "#4B3E3A",
+      "marking_color": "#704831",
+      "sclera_color": "#F9F2E6"
+    },
+    "red": {
+      "eye_color": "#E65C0C",
+      "hair_color": "#9C2E2E",
+      "skin_color": "#D5B186",
+      "tone_color": "#4B3D38",
+      "marking_color": "#BA0000",
+      "sclera_color": "#F9F2E6"
+    },
+    "steppe": {
+      "eye_color": "#DAD300",
+      "hair_color": "#B9570B",
+      "skin_color": "#C19B6C",
+      "tone_color": "#4F3D31",
+      "marking_color": "#E72E00",
+      "sclera_color": "#F9F2E6"
+    },
+    "hallowtide": {
+      "eye_color": "#FF0000",
+      "hair_color": "#212126",
+      "skin_color": "#54506F",
+      "tone_color": "#282832",
+      "marking_color": "#CB0000",
+      "sclera_color": "#FFFFFF",
+      "unlock": "hallowtide"
+    }
+  }
 }

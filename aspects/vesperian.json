@@ -1,5 +1,6 @@
 {
   "name": "Vesperian",
+  "desc": "Never seen without their masks. Poorly understood, but begrudgingly appreciated due to their natural talents.",
   "innate": {
     "Fortitude": 2,
     "Willpower": 3
@@ -7,5 +8,84 @@
   "talent": [
     "Chitin"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "sabaton": {
+      "eye_color": "#FFCD03",
+      "hair_color": "#3A3632",
+      "skin_color": "#4D4947",
+      "tone_color": "#302E2C",
+      "feature_color": "#EBE6D1",
+      "sclera_color": "#1D1503",
+      "design_color": "#3B1111"
+    },
+    "haske": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#706460",
+      "skin_color": "#5A4848",
+      "tone_color": "#392E2E",
+      "feature_color": "#EBE3DB",
+      "sclera_color": "#1D1503",
+      "design_color": "#3B1111",
+      "unlock": "spec"
+    },
+    "besague": {
+      "eye_color": "#FFCD03",
+      "hair_color": "#3A2F21",
+      "skin_color": "#3E392A",
+      "tone_color": "#282419",
+      "feature_color": "#F8F7E7",
+      "sclera_color": "#1D1503",
+      "design_color": "#463304"
+    },
+    "nutt": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#F3F3FA",
+      "skin_color": "#212324",
+      "tone_color": "#26292B",
+      "feature_color": "#EBE3DB",
+      "sclera_color": "#1D1503",
+      "design_color": "#3B1111",
+      "unlock": "spec"
+    },
+    "plackart": {
+      "eye_color": "#FFCD03",
+      "hair_color": "#34383A",
+      "skin_color": "#454D4D",
+      "tone_color": "#323838",
+      "feature_color": "#EBE6D1",
+      "sclera_color": "#1D1503",
+      "design_color": "#0E2F30"
+    },
+    "nakti": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#2B2C29",
+      "skin_color": "#4A4841",
+      "tone_color": "#312F2B",
+      "feature_color": "#343330",
+      "sclera_color": "#1D1503",
+      "design_color": "#C59D6F",
+      "unlock": "spec"
+    },
+    "monster": {
+      "eye_color": "#820000",
+      "hair_color": "#191919",
+      "skin_color": "#191919",
+      "tone_color": "#191919",
+      "feature_color": "#1E1919",
+      "sclera_color": "#1D1503",
+      "design_color": "#7F0000",
+      "unlock": "spec"
+    },
+    "hallowtide": {
+      "eye_color": "#3D00B6",
+      "hair_color": "#3A3632",
+      "skin_color": "#3F4447",
+      "tone_color": "#000000",
+      "feature_color": "#15212A",
+      "sclera_color": "#3A3632",
+      "design_color": "#FF5500",
+      "unlock": "hallowtide"
+    }
+  }
 }

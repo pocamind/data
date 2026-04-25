@@ -1,5 +1,6 @@
 {
   "name": "Tiran",
+  "desc": "Solitary folk seldom seen below the clouds. Sharp and independent, though strongly protective of those who earn their respect.",
   "innate": {
     "Agility": 2,
     "Willpower": 3
@@ -7,5 +8,43 @@
   "talent": [
     "Feathered Glider"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "canary": {
+      "eye_color": "#D60270",
+      "hair_color": "#E6C769",
+      "skin_color": "#EBC191",
+      "tone_color": "#5A452D",
+      "sclera_color": "#F0DDE6"
+    },
+    "jay": {
+      "eye_color": "#FF7300",
+      "hair_color": "#3D3B62",
+      "skin_color": "#CB8F83",
+      "tone_color": "#73453C",
+      "sclera_color": "#F0D7C4"
+    },
+    "crow": {
+      "eye_color": "#FFCC00",
+      "hair_color": "#27112F",
+      "skin_color": "#BDA29C",
+      "tone_color": "#463335",
+      "sclera_color": "#BAAC89"
+    },
+    "cardinal": {
+      "eye_color": "#FFBF00",
+      "hair_color": "#761D1A",
+      "skin_color": "#E2AC77",
+      "tone_color": "#59442F",
+      "sclera_color": "#F0EADE"
+    },
+    "hallowtide": {
+      "eye_color": "#FF0000",
+      "hair_color": "#2B2D2F",
+      "skin_color": "#949AAC",
+      "tone_color": "#35373D",
+      "sclera_color": "#9F7575",
+      "unlock": "hallowtide"
+    }
+  }
 }

@@ -1,5 +1,6 @@
 {
   "name": "Gremor",
+  "desc": "Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid.",
   "innate": {
     "Strength": 2,
     "Fortitude": 3
@@ -7,5 +8,58 @@
   "talent": [
     "Navae's Guidance"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "birch": {
+      "eye_color": "#C100DA",
+      "hair_color": "#302A25",
+      "skin_color": "#8B816E",
+      "tone_color": "#4B463B",
+      "feature_color": "#ABA294"
+    },
+    "redwood": {
+      "eye_color": "#DA0041",
+      "hair_color": "#302525",
+      "skin_color": "#8A716B",
+      "tone_color": "#4C3E3B",
+      "feature_color": "#915B5B"
+    },
+    "aspen": {
+      "eye_color": "#2168DA",
+      "hair_color": "#4A5354",
+      "skin_color": "#7B8A80",
+      "tone_color": "#4F5E55",
+      "feature_color": "#56888D"
+    },
+    "teak": {
+      "eye_color": "#EE7700",
+      "hair_color": "#312311",
+      "skin_color": "#987167",
+      "tone_color": "#4B3B32",
+      "feature_color": "#6B4E39"
+    },
+    "cedar": {
+      "eye_color": "#DA00AB",
+      "hair_color": "#302D22",
+      "skin_color": "#887862",
+      "tone_color": "#483E36",
+      "feature_color": "#64543B"
+    },
+    "auroran": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#FFFFFF",
+      "skin_color": "#FFFFFF",
+      "tone_color": "#FFFFFF",
+      "feature_color": "#FFFFF8",
+      "unlock": "spec"
+    },
+    "hallowtide": {
+      "eye_color": "#DA4703",
+      "hair_color": "#302D22",
+      "skin_color": "#7A706D",
+      "tone_color": "#423C3B",
+      "feature_color": "#111111",
+      "unlock": "hallowtide"
+    }
+  }
 }

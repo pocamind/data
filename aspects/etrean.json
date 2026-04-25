@@ -1,5 +1,6 @@
 {
   "name": "Etrean",
+  "desc": "Defined by their snake-like features and cunning. Isolationists who tend to their own interests.",
   "innate": {
     "Agility": 2,
     "Intelligence": 3
@@ -7,5 +8,43 @@
   "talent": [
     "Molt"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "viper": {
+      "eye_color": "#A72409",
+      "hair_color": "#E6D4D4",
+      "skin_color": "#F7EEDE",
+      "tone_color": "#5A4840",
+      "sclera_color": "#F0E1A2"
+    },
+    "mamba": {
+      "eye_color": "#863C58",
+      "hair_color": "#28292D",
+      "skin_color": "#F7EEE3",
+      "tone_color": "#5A4840",
+      "sclera_color": "#F0E1A2"
+    },
+    "coral": {
+      "eye_color": "#FED338",
+      "hair_color": "#80B5EA",
+      "skin_color": "#F7EEDE",
+      "tone_color": "#5A4840",
+      "sclera_color": "#F0F0F0"
+    },
+    "file": {
+      "eye_color": "#8C0F82",
+      "hair_color": "#E6D4D4",
+      "skin_color": "#F7EEDE",
+      "tone_color": "#5A4840",
+      "sclera_color": "#CBD2FF"
+    },
+    "hallowtide": {
+      "eye_color": "#D10000",
+      "hair_color": "#161616",
+      "skin_color": "#F7EEDE",
+      "tone_color": "#5A4840",
+      "sclera_color": "#735959",
+      "unlock": "hallowtide"
+    }
+  }
 }

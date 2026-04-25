@@ -1,5 +1,6 @@
 {
   "name": "Khan",
+  "desc": "Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over.",
   "innate": {
     "Agility": 2,
     "Strength": 3
@@ -7,5 +8,43 @@
   "talent": [
     "Versatile"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "silverback": {
+      "eye_color": "#AA55FF",
+      "hair_color": "#34322C",
+      "skin_color": "#EAA278",
+      "tone_color": "#684838",
+      "feature_color": "#EBC15D"
+    },
+    "albino": {
+      "eye_color": "#FF3766",
+      "hair_color": "#F7F0E3",
+      "skin_color": "#EFDDB0",
+      "tone_color": "#6B5740",
+      "feature_color": "#6B7076"
+    },
+    "capuchin": {
+      "eye_color": "#00FFFF",
+      "hair_color": "#F7F0E3",
+      "skin_color": "#FFCC99",
+      "tone_color": "#715E4F",
+      "feature_color": "#9FADC0"
+    },
+    "tamarin": {
+      "eye_color": "#FFD918",
+      "hair_color": "#D89933",
+      "skin_color": "#E2BD88",
+      "tone_color": "#684F35",
+      "feature_color": "#EBC15D"
+    },
+    "hallowtide": {
+      "eye_color": "#FF8102",
+      "hair_color": "#7C0000",
+      "skin_color": "#BA815F",
+      "tone_color": "#6C4A37",
+      "feature_color": "#EBC15D",
+      "unlock": "hallowtide"
+    }
+  }
 }

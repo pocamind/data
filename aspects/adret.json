@@ -1,5 +1,6 @@
 {
   "name": "Adret",
+  "desc": "Tattooed when they come of age, their tattoo represents the path of life they seek. Well regarded as bureaucrats and keepers of coin.",
   "innate": {
     "Charisma": 3,
     "Willpower": 2
@@ -7,5 +8,51 @@
   "talent": [
     "Maudet"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "boulder": {
+      "eye_color": "#DAA400",
+      "hair_color": "#52587E",
+      "skin_color": "#ABC4D4",
+      "tone_color": "#5B6566",
+      "marking_color": "#643C3C"
+    },
+    "seeker": {
+      "eye_color": "#DA7B0E",
+      "hair_color": "#474B66",
+      "skin_color": "#9EC7CB",
+      "tone_color": "#647476",
+      "marking_color": "#6C5244"
+    },
+    "salt": {
+      "eye_color": "#D05111",
+      "hair_color": "#352F42",
+      "skin_color": "#7888A7",
+      "tone_color": "#4C4D5E",
+      "marking_color": "#ECDA15"
+    },
+    "greymarch": {
+      "eye_color": "#DA7B0E",
+      "hair_color": "#2E3042",
+      "skin_color": "#B4CAD4",
+      "tone_color": "#42545A",
+      "marking_color": "#272221"
+    },
+    "alder": {
+      "eye_color": "#6331D0",
+      "hair_color": "#2E3042",
+      "skin_color": "#ABC4D4",
+      "tone_color": "#42545A",
+      "marking_color": "#AC78D6"
+    },
+    "hallowtide": {
+      "eye_color": "#F35100",
+      "hair_color": "#1D1F2A",
+      "skin_color": "#99A3CC",
+      "tone_color": "#44485B",
+      "marking_color": "#CE4500",
+      "sclera_color": "#444444",
+      "unlock": "hallowtide"
+    }
+  }
 }

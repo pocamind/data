@@ -1,5 +1,6 @@
 {
   "name": "Drakkard",
+  "desc": "Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict.",
   "innate": {
     "Agility": 2,
     "Fortitude": 3
@@ -7,5 +8,56 @@
   "talent": [
     "Teachings of the Edenkite"
   ],
-  "is_pathfinder": false
+  "is_pathfinder": false,
+  "variants": {
+    "slate": {
+      "eye_color": "#FFFFFF",
+      "hair_color": "#333333",
+      "skin_color": "#8C8C8C",
+      "tone_color": "#4C4C4C",
+      "feature_color": "#8B9894",
+      "sclera_color": "#C7C7C7"
+    },
+    "laguna": {
+      "eye_color": "#06FFA0",
+      "hair_color": "#234C3E",
+      "skin_color": "#69989C",
+      "tone_color": "#345053",
+      "feature_color": "#00987A",
+      "sclera_color": "#72C7B9"
+    },
+    "sprout": {
+      "eye_color": "#B7FF1D",
+      "hair_color": "#363E29",
+      "skin_color": "#849471",
+      "tone_color": "#4B5441",
+      "feature_color": "#799823",
+      "sclera_color": "#A9C768"
+    },
+    "vale": {
+      "eye_color": "#FF4EFF",
+      "hair_color": "#39293E",
+      "skin_color": "#9E5A9D",
+      "tone_color": "#593358",
+      "feature_color": "#845A84",
+      "sclera_color": "#9D90C7"
+    },
+    "ember": {
+      "eye_color": "#FF9500",
+      "hair_color": "#331111",
+      "skin_color": "#9D4E4E",
+      "tone_color": "#4B2222",
+      "feature_color": "#986D00",
+      "sclera_color": "#C7B36B"
+    },
+    "hallowtide": {
+      "eye_color": "#FFAE3D",
+      "hair_color": "#000000",
+      "skin_color": "#877B72",
+      "tone_color": "#38332F",
+      "feature_color": "#988556",
+      "sclera_color": "#B9B9B9",
+      "unlock": "hallowtide"
+    }
+  }
 }

@@ -1,5 +1,6 @@
 {
   "name": "Celtor",
+  "desc": "Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike.",
   "innate": {
     "Charisma": 3,
     "Intelligence": 2
@@ -7,5 +8,39 @@
   "talent": [
     "Seaborne"
   ],
-  "is_pathfinder": true
+  "is_pathfinder": true,
+  "variants": {
+    "otter": {
+      "eye_color": "#63BA00",
+      "hair_color": "#424134",
+      "skin_color": "#BCB8B1",
+      "tone_color": "#5B5651"
+    },
+    "badger": {
+      "eye_color": "#31B800",
+      "hair_color": "#282723",
+      "skin_color": "#E6DAC6",
+      "tone_color": "#544E45"
+    },
+    "weasel": {
+      "eye_color": "#69C500",
+      "hair_color": "#464237",
+      "skin_color": "#938580",
+      "tone_color": "#564E4B"
+    },
+    "marten": {
+      "eye_color": "#7D9600",
+      "hair_color": "#414A3B",
+      "skin_color": "#D9D7AF",
+      "tone_color": "#6C674A"
+    },
+    "hallowtide": {
+      "eye_color": "#550000",
+      "hair_color": "#000000",
+      "skin_color": "#746965",
+      "tone_color": "#48413F",
+      "marking_color": "#550000",
+      "unlock": "hallowtide"
+    }
+  }
 }
