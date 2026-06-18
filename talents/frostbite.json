@@ -1,0 +1,12 @@
+{
+  "name": "Frostbite",
+  "category": "Ice Age",
+  "rarity": "Common",
+  "reqs": "frostdrawer => frostbite := 25s ICE",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more Heal Boost when they are chilled."
+}

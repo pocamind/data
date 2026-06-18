@@ -1,0 +1,12 @@
+{
+  "name": "Both Ends",
+  "category": "Vanguard Arts",
+  "rarity": "Weapon",
+  "reqs": "both_ends := ()",
+  "additional_info": "The followup attack has fast swing speed, but it only deals 45% of your weapon damage.",
+  "count_towards_talent_total": false,
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end."
+}

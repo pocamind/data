@@ -1,0 +1,14 @@
+{
+  "name": "Parrying Dagger",
+  "type": "Parrying Dagger",
+  "rarity": "Uncommon",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "parrying_dagger := ()",
+  "posture_restoration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A dagger that is used more as a pivot for parrying than as a weapon of its own right."
+}

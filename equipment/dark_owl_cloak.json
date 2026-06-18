@@ -1,0 +1,28 @@
+{
+  "name": "Dark Owl Cloak",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Dark Owl",
+  "variants": [],
+  "talents": [
+    "Disbelief"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    },
+    "Shadow Armor": {
+      "value": 8,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "dark_owl_cloak := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

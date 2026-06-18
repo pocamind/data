@@ -1,0 +1,13 @@
+{
+  "name": "Molt",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "molt := ()",
+  "additional_info": "The duration of Chill, Suffocation, and all potion effects is reduced.",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Ailments and blessings alike fade away more quickly."
+}

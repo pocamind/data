@@ -1,0 +1,17 @@
+{
+  "pants_id": "110456474551047",
+  "shirt_id": "81261523859343",
+  "mats": {},
+  "name": "Mod Hoodie",
+  "reqs": "mod_hoodie := ()",
+  "notes": 0,
+  "talent": null,
+  "category": "Spec",
+  "durability": 100,
+  "resistances": {},
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Increases your coolness attribute.\r"
+}

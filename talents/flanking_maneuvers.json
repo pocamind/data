@@ -1,0 +1,12 @@
+{
+  "name": "Flanking Maneuvers",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "flanking_maneuvers := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies you assassinate take more PEN from your squadmates in your party."
+}

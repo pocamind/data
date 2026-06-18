@@ -1,0 +1,13 @@
+{
+  "name": "Frozen Web",
+  "category": "Doomsday Engine",
+  "rarity": "Common",
+  "reqs": "static_link => frozen_web := 40s ICE, 40s LTN",
+  "additional_info": "Applies Chill for 7 seconds and Bottom Freeze. Has a 4 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a critical with a Static Link on your opponent applies Chilled."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stifled Jump",
+  "category": "Aeromancer",
+  "rarity": "Rare",
+  "reqs": "suffocating_impact => stifled_jump := 15s STR, 35s WND",
+  "additional_info": "The daze effect lasts for 1 second.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Suffocating now applies Dazed if enemies jump. Suffocated PvE enemies now also get Sluggish when they are suffocated."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Carnivore",
+  "category": "Apex Predator",
+  "rarity": "Rare",
+  "reqs": "carnivore := 5s STR, 5s WLL",
+  "additional_info": "Cannot be obtained if you have the Vegetarian Flaw.",
+  "count_towards_talent_total": true,
+  "icon": "Teeth",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.",
+  "exclusive": [
+    "Flaw: Vegetarian"
+  ]
+}

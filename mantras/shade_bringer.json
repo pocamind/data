@@ -1,0 +1,20 @@
+{
+  "name": "Shade Bringer",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "shade_bringer := 50r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "desc": "Temporarily summon a shadow greatsword for a large slash."
+}

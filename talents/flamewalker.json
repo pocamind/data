@@ -1,0 +1,15 @@
+{
+  "name": "Flamewalker",
+  "category": "Flame Warden",
+  "rarity": "Common",
+  "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "When Warding Radiance is active you leave trails of flame when you slide."
+}

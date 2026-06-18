@@ -1,0 +1,24 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Aeon Logstone": 1
+  },
+  "name": "Corsair Outlaw",
+  "pants_id": "4854428285",
+  "shirt_id": "4854374607",
+  "reqs": "corsair_outlaw := ()",
+  "notes": 0,
+  "talent": "Lightweight",
+  "category": "Starter",
+  "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Elemental Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

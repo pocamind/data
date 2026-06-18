@@ -1,0 +1,13 @@
+{
+  "name": "Fried Circuits",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "fried_circuits := 60s LTN",
+  "additional_info": "Targets affected by Sapped have the cooldowns of their Mantras increased.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Overloading an enemy applies Sapped for 5s."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Flamekeeper Cestus",
+  "type": "Fist",
+  "rarity": "Uncommon",
+  "damage": 15.5,
+  "posture_damage": 5,
+  "range": 6,
+  "reqs": "flamekeeper_cestus := 65r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.11,
+  "scaling": {
+    "Light Weapon": 9.5
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

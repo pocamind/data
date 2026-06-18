@@ -1,0 +1,23 @@
+{
+  "name": "Wormwarder Lantern",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Carry Load": {
+      "value": 10,
+      "percentage": false
+    },
+    "Sanity": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "wormwarder_lantern := ()",
+  "voi": false,
+  "desc": "A modified version of the lanterns found in sanctuary outposts across the explored Eternal Gale. This one is portable, though only generates enough charge for its user."
+}

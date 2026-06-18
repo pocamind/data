@@ -1,0 +1,16 @@
+{
+  "name": "Amplified Rage",
+  "category": "Jumpstarter",
+  "rarity": "Common",
+  "reqs": "electrify => amplified_rage := 35s LTN",
+  "additional_info": "Increases Amped's damage buff from 10% to 20%.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Amped now grants you an additional +10% weapon damage.",
+  "exclusive": [
+    "Amplified Reflexes"
+  ]
+}

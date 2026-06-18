@@ -1,0 +1,22 @@
+{
+  "name": "Tundra Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Ice Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "tundra_scarf := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

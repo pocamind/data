@@ -1,0 +1,16 @@
+{
+  "name": "Hell's Partisan",
+  "category": "Flame Warden",
+  "rarity": "Common",
+  "reqs": "warding_radiance => hells_partisan := 35s FLM",
+  "additional_info": "Deals 5 Flamecharm damage. Parryable, but not blockable or dodgeable due to hitstun.",
+  "count_towards_talent_total": true,
+  "icon": "Blaze",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 4
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Master Thundercaller",
+  "category": "Thundercaller",
+  "rarity": "Common",
+  "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 3-star Thundercaller mantras."
+}

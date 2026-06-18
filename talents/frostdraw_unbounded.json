@@ -1,0 +1,16 @@
+{
+  "name": "Frostdraw Unbounded",
+  "category": "Frostdraw Master",
+  "rarity": "Common",
+  "reqs": "frostdraw_unbounded := 75s ICE",
+  "additional_info": "Removes the 75 investment cap on the Frostdraw Attribute. This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "stats": {
+    "Health": 10
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your Frostdraw to its fullest."
+}

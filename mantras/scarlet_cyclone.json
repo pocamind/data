@@ -1,0 +1,24 @@
+{
+  "name": "Scarlet Cyclone",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "scarlet_cyclone := 30r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "Create a cyclone of blood."
+}

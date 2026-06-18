@@ -1,0 +1,13 @@
+{
+  "name": "Kickstart",
+  "category": "Kickstarter",
+  "rarity": "Common",
+  "reqs": "kickstart := 40r FTD or 40r CHA, 50s LTN",
+  "additional_info": "Heals the person for 10% of their maximum health if you successfully resurrect them. Kickstart consumes 5% of your Ether on use, and then another 20% if the Kickstart was successful. Kickstart has a 3 second long animation, in which you cannot act. This can be used on players using Cap Artist. Despite the description stating \"allies,\" this can be used on non-allies and humanoid NPCs.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield."
+}

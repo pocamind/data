@@ -1,0 +1,17 @@
+{
+  "name": "Gale Wisp",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "gale_wisp := 30r WND",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "A servant of wind. Reduces fall damage by 20%. With Specter Path, makes your mantras give more Spectral Gauge. With Haunted Gale, increases the duration of your Phantoms by 3s."
+}

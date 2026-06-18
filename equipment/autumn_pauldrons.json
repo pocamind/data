@@ -1,0 +1,16 @@
+{
+  "name": "Autumn Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Autumn",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "autumn_pauldrons := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

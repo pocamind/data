@@ -1,0 +1,13 @@
+{
+  "name": "Haunted Path: Specter",
+  "category": "Specter",
+  "rarity": "Common",
+  "reqs": "haunted_gale => haunted_path_specter := 50s WND",
+  "additional_info": "Turns your Galebreathe white. If Haunted Gale procs on non-Galebreathe Mantras or if you do not have the Apparitions Talent, then Haunted Gale's phantoms will still appear on proc.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies."
+}

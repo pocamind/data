@@ -1,0 +1,13 @@
+{
+  "name": "Stature Break",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "stature_break := ()",
+  "additional_info": "While their posture is paused, your opponent cannot restore posture by parrying, spitting, passive posture restoration, or through Steady Nerves. All other forms of posture restoration ignore this effect entirely.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a backstab of any kind disables posture for 8 seconds."
+}

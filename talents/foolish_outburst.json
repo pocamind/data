@@ -1,0 +1,13 @@
+{
+  "name": "Foolish Outburst",
+  "category": "Tactician",
+  "rarity": "Common",
+  "reqs": "foolish_outburst := 50s INT",
+  "additional_info": "Steals 40% of the Tempo used. Every point in Intelligence below 50 will reduce the Tempo steal by 0.66%, capping at a minimum of 23.33% of the Tempo absorbed with 25 Intelligence.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle."
+}

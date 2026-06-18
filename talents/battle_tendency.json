@@ -1,0 +1,17 @@
+{
+  "name": "Battle Tendency",
+  "category": "Bastion",
+  "rarity": "Common",
+  "reqs": "battle_tendency := 15s FTD, 15s WLL",
+  "additional_info": "This only affects passive posture regeneration.",
+  "count_towards_talent_total": true,
+  "icon": "Lungs",
+  "roll2able": true,
+  "stats": {
+    "Posture": 2,
+    "Sanity": 10
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can breathe more easily with +20% faster posture regen."
+}

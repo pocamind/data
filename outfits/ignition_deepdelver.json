@@ -1,0 +1,30 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Blue Gem": 1,
+    "Vibrant Gem": 5,
+    "Bounder Claw": 1,
+    "Frozen Membrane": 1,
+    "Worn Cog": 1
+  },
+  "name": "Ignition Deepdelver",
+  "reqs": "ignition_deepdelver := 240r TTL",
+  "notes": 1000,
+  "talent": "Force Your Way",
+  "category": "Master",
+  "pants_id": "11698217402",
+  "shirt_id": "11698216419",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.35,
+    "Ice Resistance": 0.15,
+    "Metal Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "desc": "Heavyweight armor devised for deepdelvers into the layers of the Depths."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Blizzard Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "blizzard_ring := 90 ttl",
+  "voi": false,
+  "desc": "Apply a very light slow on your opponent when landing a light attack and suffocate opponents when flourishing them. Gain extra ether when landing Galebreathe or Frostdraw attacks."
+}

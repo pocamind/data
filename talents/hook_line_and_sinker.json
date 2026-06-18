@@ -1,0 +1,13 @@
+{
+  "name": "Hook, Line, and Sinker",
+  "category": "Angler",
+  "rarity": "Quest",
+  "reqs": "hook_line_and_sinker := ()",
+  "additional_info": "Slightly increases margin of failure before losing a fish.",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Once something's caught your line, it's much harder to get loose."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Demon Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "demon_mask := ()",
+  "voi": false,
+  "desc": "..."
+}

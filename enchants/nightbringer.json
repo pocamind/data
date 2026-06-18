@@ -1,0 +1,6 @@
+{
+  "info": "On weapon attack, steal Ether based on damage dealt. The damage dealt to Ether stolen conversion is affected by the opponent's resistances, but is not affected by damage modifiers. Additionally, your weapon attacks can proc certain Shadowcast Talents, such as Twisted Puppets' shadow burn or Sightless Still. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Nightbringer",
+  "category": "Weapon",
+  "obtainable_in": "Pathfinder"
+}

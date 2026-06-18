@@ -1,0 +1,13 @@
+{
+  "name": "Heartwing Beat",
+  "category": "Spoils of Enmity",
+  "rarity": "Equipment",
+  "reqs": "heartwing_beat := ()",
+  "additional_info": "Your aerial attack is replaced with Heartwing Beat, a slashing attack that applies bleed and deals Wither damage. This attack has a base damage of 25.5, copying the scaling stat from your equipped weapon. You cannot proc Air Counter or Relentless Hunt on Heartwing Beat. 6 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your heart beats a new rhythm, as your aerial attack takes on a new manifestation."
+}

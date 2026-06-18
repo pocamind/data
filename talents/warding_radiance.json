@@ -1,0 +1,16 @@
+{
+  "name": "Warding Radiance",
+  "category": "Flame Warden",
+  "rarity": "Rare",
+  "reqs": "flamecharmer => warding_radiance := 20s AGL, 30s FLM",
+  "additional_info": "Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't Fire Forge while you have the halo active. Lasts 60 seconds, but cannot be refreshed.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active."
+}

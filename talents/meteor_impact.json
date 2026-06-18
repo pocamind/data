@@ -1,0 +1,13 @@
+{
+  "name": "Meteor Impact",
+  "category": "Falling Star Guard",
+  "rarity": "Common",
+  "reqs": "meteor_impact := 25s FLM",
+  "additional_info": "Deals 10 flat Flamecharm damage on top of your weapon's scaled damage. Procs by light attacking after using certain Mantras that end with both the user and the victim suspended in the air.",
+  "count_towards_talent_total": true,
+  "icon": "Wings",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Adretian Axe",
+  "type": "Greataxe",
+  "rarity": "Rare",
+  "damage": 24,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "adretian_axe := 35r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A bound axe in the typical Adretian fashion."
+}

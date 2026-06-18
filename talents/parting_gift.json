@@ -1,0 +1,13 @@
+{
+  "name": "Parting Gift",
+  "category": "Gunslinger",
+  "rarity": "Common",
+  "reqs": "parting_gift := 75s LHT",
+  "additional_info": "On proc, all dual gun M1s within the next 5 seconds have projectiles.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Blackleaf Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Concussive Force"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "blackleaf_helm := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

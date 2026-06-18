@@ -1,0 +1,13 @@
+{
+  "name": "Lightning Cloak",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "lightning_cloak := 50r LTN",
+  "voi": false,
+  "desc": "A cloak of lightning itself."
+}

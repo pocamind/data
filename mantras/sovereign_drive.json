@@ -1,0 +1,26 @@
+{
+  "name": "Sovereign Drive",
+  "attributes": [
+    "Oath: Blightsurger"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_blightsurger => sovereign_drive := ()",
+  "scaling": {
+    "Strength": 1.65
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Sovereign State",
+    "Blightpierce"
+  ],
+  "voi": false,
+  "desc": "Dash forward in a blink, knocking down enemies in your path."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Prominence Draw",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "prominence_draw := 50r MED",
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "Close the distance and deliver a fast slash."
+}

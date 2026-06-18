@@ -1,0 +1,30 @@
+{
+  "name": "Red Death",
+  "type": "Spear",
+  "rarity": "Mythical",
+  "damage": 16,
+  "posture_damage": 6,
+  "range": 9.5,
+  "reqs": "red_death := ()",
+  "damage_types": [
+    "Slash",
+    "Bloodrend",
+    "Shadowcast",
+    "Bleed"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.92,
+  "scaling": {
+    "Medium Weapon": 2.5,
+    "Mind": 2,
+    "Bloodrend": 3,
+    "Shadowcast": 3
+  },
+  "bleed_damage": 2.4,
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Tool of the Ministry Heartbleeders, a covert cell under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces."
+}

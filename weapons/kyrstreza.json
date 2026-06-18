@@ -1,0 +1,23 @@
+{
+  "name": "Kyrstreza",
+  "type": "Rapier",
+  "rarity": "Legendary",
+  "damage": 15,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "kyrstreza := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.5,
+  "swing_speed": 1.09,
+  "scaling": {
+    "Light Weapon": 8.5
+  },
+  "penetration": 0.3,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

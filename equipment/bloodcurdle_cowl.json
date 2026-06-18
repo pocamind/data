@@ -1,0 +1,27 @@
+{
+  "name": "Bloodcurdle Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Bloodcurdle",
+  "variants": [],
+  "talents": [
+    "Blood Siphon"
+  ],
+  "innates": {
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "bloodcurdle_cowl := ()",
+  "voi": true,
+  "desc": "..."
+}

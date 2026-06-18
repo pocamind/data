@@ -1,0 +1,16 @@
+{
+  "name": "Rocket Lance",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "rocket_lance := 50r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "Create a lance, impale your opponent, and send them flying."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Frozen Servants",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "frozen_servants := 1r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Tornado Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "A legion of frost."
+}

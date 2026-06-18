@@ -1,0 +1,102 @@
+{
+  "name": "Kiron",
+  "desc": "Once isolated in the subterranean caverns that straddle the Boundary, the bat-like Kirons are perceptive and shrewd spelunkers...",
+  "innate": {
+    "Agility": 3,
+    "Intelligence": 2
+  },
+  "talent": [
+    "Echolocator"
+  ],
+  "is_pathfinder": true,
+  "variants": {
+    "megaderma": {
+      "name": "Megaderma",
+      "colors": {
+        "eye": "#B3B3FF",
+        "hair": "#766F87",
+        "skin": "#CCCEDE",
+        "tone": "#44434F",
+        "marking": "#858691",
+        "sclera": "#898599"
+      }
+    },
+    "ectophylla": {
+      "name": "Ectophylla",
+      "colors": {
+        "eye": "#D6B779",
+        "hair": "#463C2D",
+        "skin": "#BFB59E",
+        "tone": "#272520",
+        "marking": "#7F7869",
+        "sclera": "#4D4B3E"
+      }
+    },
+    "macroderma": {
+      "name": "Macroderma",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#FFFDF6",
+        "skin": "#E8E3D4",
+        "tone": "#3A3530",
+        "marking": "#A29F94",
+        "sclera": "#BDBDBD"
+      }
+    },
+    "kerivoula": {
+      "name": "Kerivoula",
+      "colors": {
+        "eye": "#FF8C52",
+        "hair": "#4F3D28",
+        "skin": "#C1976C",
+        "tone": "#583C29",
+        "marking": "#8B6C4E",
+        "sclera": "#D6CCBD"
+      }
+    },
+    "hypsignathus": {
+      "name": "Hypsignathus",
+      "colors": {
+        "eye": "#7446FF",
+        "hair": "#322E36",
+        "skin": "#70655B",
+        "tone": "#282420",
+        "marking": "#433C36",
+        "sclera": "#54504C"
+      }
+    },
+    "lasiurus": {
+      "name": "Lasiurus",
+      "colors": {
+        "eye": "#D4B0C9",
+        "hair": "#7C4545",
+        "skin": "#BD7D75",
+        "tone": "#4C2D2B",
+        "marking": "#7C524D",
+        "sclera": "#A17864"
+      }
+    },
+    "pipistrelle": {
+      "name": "Pipistrelle",
+      "colors": {
+        "eye": "#D47694",
+        "hair": "#786571",
+        "skin": "#F9E3DF",
+        "tone": "#3A322F",
+        "marking": "#A8938F"
+      }
+    },
+    "hallowtide": {
+      "name": "Hallowtide",
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FF442B",
+        "hair": "#0D0D0D",
+        "skin": "#FAFAF8",
+        "tone": "#1B1B18",
+        "marking": "#B1B1B0",
+        "sclera": "#EEEAD7"
+      }
+    }
+  }
+}

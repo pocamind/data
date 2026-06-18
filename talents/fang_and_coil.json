@@ -1,0 +1,13 @@
+{
+  "name": "Fang and Coil",
+  "category": "Fang and Coil",
+  "rarity": "Quest",
+  "reqs": "fang_and_coil := 20s LHT",
+  "additional_info": "Allows you to use the Fang and Coil fist style.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Adopt the path of the serpent."
+}

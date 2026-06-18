@@ -1,0 +1,13 @@
+{
+  "name": "Denial Repulse",
+  "category": "Undying Ember",
+  "rarity": "Rare",
+  "reqs": "denial_repulse := 40s WLL, 40s FLM",
+  "additional_info": "When Flame of Denial activates, release an explosion around you. This deals 20 Flamecharm damage with 5 Flamecharm scaling, meaning it gains 0.1 damage per Flamecharm investment for a total damage of 30 at 100 Flamecharm. This cannot be parried nor dodged, but can be blocked, dealing 5 posture damage. Has a windup of 0.6s.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You now emit a delayed burst of flames after coming close to death."
+}

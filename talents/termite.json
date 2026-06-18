@@ -1,0 +1,16 @@
+{
+  "name": "Termite",
+  "category": "Survival Instinct",
+  "rarity": "Common",
+  "reqs": "termite := 10s WLL, 20s FTD",
+  "additional_info": "Allows user to eat Sticks, Bamboo, Beeswax, Coral, Spider Eggs, all Lotuses, and every Ore.",
+  "count_towards_talent_total": true,
+  "icon": "Leaf",
+  "roll2able": true,
+  "stats": {
+    "Health": 3
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can eat things most would consider inedible."
+}

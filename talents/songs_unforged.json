@@ -1,0 +1,12 @@
+{
+  "name": "Songs Unforged",
+  "category": "Scrapsinger",
+  "rarity": "Common",
+  "reqs": "gilded_path_scrapsinger => songs_unforged := 50s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your weapon criticals will now activate scrapsinger."
+}

@@ -1,0 +1,7 @@
+{
+  "info": "Inflicts Harrowing on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, hiding how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages. In PvE, your M1s apply Confusion, making your opponent have a 5% chance to hit themselves instead whenever they attack you, applying a brief stun to the enemy and dealing their damage back to themselves in full. These effects last for 12 seconds and are refreshed upon landing another hit. Harrowing also procs on criticals with the M1 tag.",
+  "name": "Harrowing",
+  "category": "Weapon",
+  "in_game_desc": "Obscures your opponent's health, posture, and armor bars. Also causes PvE to get Confusion on successful hits.",
+  "obtainable_in": "Pathfinder"
+}

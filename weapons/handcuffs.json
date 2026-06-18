@@ -1,0 +1,19 @@
+{
+  "name": "Handcuffs",
+  "type": "Fist",
+  "rarity": "Unknown",
+  "damage": 1,
+  "posture_damage": 1,
+  "range": 3,
+  "reqs": "handcuffs := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1.1,
+  "swing_speed": 0.6,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Your trusty weapon."
+}

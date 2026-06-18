@@ -1,0 +1,16 @@
+{
+  "name": "Master Flamecharmer",
+  "category": "Flamecharmer",
+  "rarity": "Common",
+  "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 3-Star Leveled Flamecharmer Mantras."
+}

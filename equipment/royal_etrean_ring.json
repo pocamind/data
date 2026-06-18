@@ -1,0 +1,16 @@
+{
+  "name": "Royal Etrean Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "royal_etrean_ring := ()",
+  "voi": true,
+  "desc": "One handing a sword while wearing this ring turns your Critical Attack into the Twincleave mantra."
+}

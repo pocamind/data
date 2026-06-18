@@ -1,0 +1,12 @@
+{
+  "name": "Scornful Scowl",
+  "category": "Sightless",
+  "rarity": "Memento",
+  "reqs": "scornful_scowl := ()",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your Glare stuns enemies for much longer."
+}

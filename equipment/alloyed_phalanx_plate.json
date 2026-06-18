@@ -1,0 +1,29 @@
+{
+  "name": "Alloyed Phalanx Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Alloyed Phalanx",
+  "variants": [],
+  "talents": [
+    "Hoplite",
+    "Risky Defense"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "alloyed_phalanx_plate := ()",
+  "voi": true,
+  "desc": "..."
+}

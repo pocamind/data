@@ -1,0 +1,19 @@
+{
+  "name": "Alloyed Phalanx Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Alloyed Phalanx",
+  "variants": [],
+  "talents": [
+    "Alloyed Soles"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "alloyed_phalanx_boots := 90r ttl",
+  "voi": true,
+  "desc": "..."
+}

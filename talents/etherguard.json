@@ -1,0 +1,13 @@
+{
+  "name": "Etherguard",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "etherguard := ()",
+  "additional_info": "When landing a Mantra with a Warped Blue Gem equipped, gain the Etherguard status effect, granting you damage reduction to Mantras and elemental resistance in PvE. The damage reduction for Mantras scales on the Ether cost of the Mantra you got hit by.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE."
+}

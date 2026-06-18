@@ -1,0 +1,16 @@
+{
+  "name": "Hell's Judgement",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "hells_judgement := ()",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "voi": true,
+  "desc": "A vicious grasp of flames. Receive a damage buff if you land this attack."
+}

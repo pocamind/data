@@ -1,0 +1,19 @@
+{
+  "name": "Prediction",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "prediction := 50r INT",
+  "related_talents": [
+    "All Knowing",
+    "Successive Prediction",
+    "Twelve Steps Ahead",
+    "Sovereign's Counter"
+  ],
+  "voi": true,
+  "desc": "Predict an opponent's attack and reflect it."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ethiron Curseshield",
+  "type": "Shield",
+  "rarity": "Uncommon",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "ethiron_curseshield := ()",
+  "posture_max": 7,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin."
+}

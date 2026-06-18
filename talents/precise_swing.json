@@ -1,0 +1,16 @@
+{
+  "name": "Precise Swing",
+  "category": "Duelist",
+  "rarity": "Common",
+  "reqs": "precise_swing := 15s AGL, 25s STR",
+  "additional_info": "Procs even if your critical is parried or blocked. The Precise Swing status effect will be lost should your next M1 land or get parried. This is additive with all other sources of Chip Damage.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "After landing a critical your next basic attack will gain 25% chip past your opponent's block."
+}

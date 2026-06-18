@@ -1,0 +1,24 @@
+{
+  "name": "First Light",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 23,
+  "posture_damage": 9,
+  "range": 8.5,
+  "reqs": "first_light := 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.82,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korilfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pierce Through",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "pierce_through := ()",
+  "additional_info": "The default spear critical attack no longer cancels if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Remove the autoparry frames the first hit of your base spear critical has."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ice Fissure",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "ice_fissure := 50r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Round Spark"
+  ],
+  "voi": false,
+  "desc": "Send ice rippling out in a shockwave."
+}

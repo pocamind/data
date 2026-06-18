@@ -1,0 +1,22 @@
+{
+  "pants_id": "11117084212",
+  "shirt_id": "11117080267",
+  "mats": {},
+  "name": "Auroran Gremor",
+  "reqs": "auroran_gremor := 240r TTL",
+  "notes": 0,
+  "talent": "Frozone",
+  "category": "Spec",
+  "durability": 2600,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3,
+    "Thunder Resistance": 0.2,
+    "Shadow Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 100,
+    "Extra Stealth": 0
+  },
+  "desc": "Armor of the Auroran Gremor\r\n"
+}

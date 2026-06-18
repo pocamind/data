@@ -1,0 +1,31 @@
+{
+  "name": "Frost Grab",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "frost_grab := 30r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug",
+    "Throw"
+  ],
+  "voi": false,
+  "desc": "An icy chokehold."
+}

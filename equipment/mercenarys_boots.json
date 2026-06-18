@@ -1,0 +1,24 @@
+{
+  "name": "Mercenary's Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Mercenary",
+  "variants": [],
+  "talents": [
+    "Endurance Runner"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "mercenarys_boots := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

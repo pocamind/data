@@ -1,0 +1,25 @@
+{
+  "name": "Simmerbloom Diadem",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Unique",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Simmerbloom"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "simmerbloom_diadem := 165 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "Another relic of Aska's, this ancient artifact was once in the hands of the elusive pioneer of flame charm. Bestowed by flame worshippers and seldom seen, its precise origins are shrouded in mystery. The flame that flickers within its adorned flower suggests a hidden power, making it a priceless treasure for those who truly understand its significance."
+}

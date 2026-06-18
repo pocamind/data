@@ -1,0 +1,32 @@
+{
+  "name": "Shrouded Cape",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Black",
+    "Midnight",
+    "Red",
+    "White"
+  ],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 5,
+      "percentage": true
+    },
+    "Elemental Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "shrouded_cape := 90r ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

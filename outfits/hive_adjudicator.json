@@ -1,0 +1,24 @@
+{
+  "pants_id": "5115821026",
+  "shirt_id": "5115786091",
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Iron": 1
+  },
+  "name": "Hive Adjudicator",
+  "reqs": "hive_adjudicator := 240r TTL",
+  "notes": 30,
+  "talent": "Lowstride",
+  "category": "Unobtainable",
+  "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

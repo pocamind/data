@@ -1,0 +1,25 @@
+{
+  "name": "Karita Divebomb",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "karita_divebomb := 20r LHT",
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Curved Edge",
+    "Marked Descent"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap."
+}

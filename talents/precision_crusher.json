@@ -1,0 +1,12 @@
+{
+  "name": "Precision Crusher",
+  "category": "Greatarcher",
+  "rarity": "Rare",
+  "reqs": "precision_crusher := ()",
+  "count_towards_talent_total": true,
+  "icon": "Spear",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a charged shot will knock your opponent down instead of back."
+}

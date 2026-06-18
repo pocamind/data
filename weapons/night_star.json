@@ -1,0 +1,29 @@
+{
+  "name": "Night Star",
+  "type": "Club",
+  "rarity": "Uncommon",
+  "damage": 15,
+  "posture_damage": 4,
+  "range": 7.5,
+  "reqs": "night_star := ()",
+  "damage_types": [
+    "Blunt",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.98,
+  "scaling": {
+    "Medium Weapon": 5.5
+  },
+  "bleed_damage": 2.25,
+  "chip_damage": 0.2,
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": true,
+  "desc": "...",
+  "talents": [
+    "Night Night"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pants_id": "107987185452443",
+  "shirt_id": "84773371279406",
+  "mats": {},
+  "name": "White Mod Suit",
+  "reqs": "white_mod_suit := ()",
+  "notes": 0,
+  "talent": null,
+  "category": "Spec",
+  "durability": 100,
+  "resistances": {},
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Fashioned after the Dragon of Dojima.\r\n"
+}

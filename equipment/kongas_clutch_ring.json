@@ -1,0 +1,14 @@
+{
+  "name": "Konga's Clutch Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "kongas_clutch_ring := 60 ttl",
+  "voi": false,
+  "desc": "Konga's Clutch Ring allows the user to slide with little delay."
+}

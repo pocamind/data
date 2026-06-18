@@ -1,0 +1,13 @@
+{
+  "name": "Mythic Stability",
+  "category": "Human Architecture",
+  "rarity": "Rare",
+  "reqs": "mythic_stability := 85s FTD",
+  "count_towards_talent_total": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when Unconscious.",
+  "additional_info": "1 minute cooldown.",
+  "icon": "Fist",
+  "roll2able": false
+}

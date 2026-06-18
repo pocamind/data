@@ -1,0 +1,23 @@
+{
+  "name": "Bloodcurdle Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Bloodfeather",
+  "variants": [],
+  "talents": [
+    "Blood Plague"
+  ],
+  "innates": {
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "bloodcurdle_mask := ()",
+  "voi": true,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Arc Module: Enhance",
+  "category": "Arcwarder",
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_enhance := ()",
+  "additional_info": "Arc Beam's base dmg is increased by 50%, Arc Wave's base damage is increased by 25%.",
+  "count_towards_talent_total": false,
+  "icon": "Arcwarder",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[In Arc Suit] Your Arcwarder Mantras deal increased damage."
+}

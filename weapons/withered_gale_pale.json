@@ -1,0 +1,28 @@
+{
+  "name": "Withered Gale Pale",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 22,
+  "posture_damage": 10,
+  "range": 9,
+  "reqs": "withered_gale_pale := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Heavy Weapon": 4,
+    "Galebreathe": 8
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A legacy tarnished by your hand, but granted fell strength by Leiuna's profane forge. The wind is known to hold voices captive and, held in your hands, you hear an earnest plea; Bury the forge. Kill its memory. Greed is their dagger.",
+  "talents": [
+    "Soar"
+  ]
+}

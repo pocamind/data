@@ -1,0 +1,12 @@
+{
+  "name": "Lasting Sorrow",
+  "category": "Shadowcaster",
+  "rarity": "Common",
+  "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Shadows last longer on your opponent."
+}

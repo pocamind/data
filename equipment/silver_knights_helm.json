@@ -1,0 +1,21 @@
+{
+  "name": "Silver Knight's Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Silver Knight",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "silver_knights_helm := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

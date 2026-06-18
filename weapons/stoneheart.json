@@ -1,0 +1,25 @@
+{
+  "name": "Stoneheart",
+  "type": "Greathammer",
+  "rarity": "Mythical",
+  "damage": 24,
+  "posture_damage": 12,
+  "range": 8.5,
+  "reqs": "stoneheart := 20r STR, 80r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 10
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means."
+}

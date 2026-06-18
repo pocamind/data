@@ -1,0 +1,27 @@
+{
+  "name": "Electro Carve",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "electro_carve := 20r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Produce a highly potent field of electromagnetism, shocking all inside."
+}

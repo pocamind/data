@@ -1,0 +1,24 @@
+{
+  "name": "Bloodforged Crown",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Mythical",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Cauterized Wounds"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "bloodforged_crown := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

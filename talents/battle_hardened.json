@@ -1,0 +1,12 @@
+{
+  "name": "Battle-Hardened",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "battle_hardened := ()",
+  "count_towards_talent_total": false,
+  "icon": "Climb",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Reduce how much damage you take from mantra guardbreaks by 20%."
+}

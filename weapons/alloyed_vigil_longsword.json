@@ -1,0 +1,23 @@
+{
+  "name": "Alloyed Vigil Longsword",
+  "type": "Sword",
+  "rarity": "Legendary",
+  "damage": 20,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "alloyed_vigil_longsword := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 7.5
+  },
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Grand Feast",
+  "category": "Apex Predator",
+  "rarity": "Common",
+  "reqs": "carnivore => grand_feast := ()",
+  "additional_info": "Health gain is disabled in PvP combat. On proc, gain 40% tempo, 55% Ether, 3% blood, and 5% health.",
+  "count_towards_talent_total": true,
+  "icon": "Teeth",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Regain tempo, ether, blood and health when gaining hunger from killing."
+}

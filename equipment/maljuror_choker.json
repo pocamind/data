@@ -1,0 +1,21 @@
+{
+  "name": "Maljuror Choker",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "maljuror_choker := 90 ttl",
+  "voi": false,
+  "desc": "Metal."
+}

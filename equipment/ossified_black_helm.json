@@ -1,0 +1,24 @@
+{
+  "name": "Ossified Black Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Ossified Black",
+  "variants": [],
+  "talents": [
+    "Laminated Armor"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "ossified_black_helm := 135 ttl",
+  "voi": false,
+  "desc": "An imposing helmet made from blackened steel."
+}

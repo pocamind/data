@@ -1,0 +1,23 @@
+{
+  "name": "Alloyed Trident Spear",
+  "type": "Spear",
+  "rarity": "Legendary",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "alloyed_trident_spear := 85r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.92,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A surprisingly effective weapon despite its previous use by fishermen."
+}

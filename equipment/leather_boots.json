@@ -1,0 +1,21 @@
+{
+  "name": "Leather Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Leather",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "leather_boots := ()",
+  "voi": false,
+  "desc": "A pair of worn leather boots. And they're your size!"
+}

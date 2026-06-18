@@ -1,0 +1,25 @@
+{
+  "mats": {
+    "Gold": 2,
+    "Iron": 10,
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "11th Legion Plate",
+  "pants_id": "6022337695",
+  "shirt_id": "6026296387",
+  "reqs": "11th_legion_plate := 10r FTD, 90r TTL",
+  "notes": 100,
+  "talent": null,
+  "category": "Adept",
+  "durability": 1500,
+  "resistances": {
+    "Blunt Resistance": 0.3,
+    "Physical Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Armor of the 11th Scouting Legion. Akilles brought them here some time ago to observe the coming conflict in the East."
+}

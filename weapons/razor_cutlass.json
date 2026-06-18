@@ -1,0 +1,26 @@
+{
+  "name": "Razor Cutlass",
+  "type": "Sword",
+  "rarity": "Uncommon",
+  "damage": 18,
+  "posture_damage": 8,
+  "range": 8,
+  "reqs": "razor_cutlass := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.94,
+  "scaling": {
+    "Medium Weapon": 8
+  },
+  "bleed_damage": 2.6,
+  "chip_damage": 0.1,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A serrated cutlass fashioned after the famously brutal bite of a Lionfish."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blind Spot",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "inquisitors_visor => blind_spot := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Land Critical Attack or Hidden Blade] Apply Blinded for 5 seconds.",
+  "additional_info": "15 second cooldown.",
+  "icon": "Eye",
+  "roll2able": false
+}

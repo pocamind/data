@@ -1,0 +1,22 @@
+{
+  "name": "Rising Shadow",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "rising_shadow := 30r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "desc": "Form a Shockwave of darkness."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Throw",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "throw := 35r STR",
+  "scaling": {
+    "Strength": 3
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Frost Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug"
+  ],
+  "voi": false,
+  "desc": "Grab and throw your enemies."
+}

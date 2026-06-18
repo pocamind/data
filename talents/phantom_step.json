@@ -1,0 +1,13 @@
+{
+  "name": "Phantom Step",
+  "category": "Specter",
+  "rarity": "Common",
+  "reqs": "haunted_path_specter => phantom_step := 55s WND",
+  "additional_info": "Additionally grants a speed boost for the full duration. While active, your Spectral Gauge will be passively drained.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)"
+}

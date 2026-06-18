@@ -1,0 +1,25 @@
+{
+  "name": "Shadow Seekers",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shadow_seekers := 20r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "shared_cooldowns": [
+    "Shadow Meteors"
+  ],
+  "voi": false,
+  "desc": "Call forth the void to track your opponents."
+}

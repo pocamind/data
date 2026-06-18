@@ -1,0 +1,12 @@
+{
+  "name": "Good Luck Charm",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "jadeite_megalodaunt => good_luck_charm := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Makes you feel a little better, probably.",
+  "icon": "Climb",
+  "roll2able": false
+}

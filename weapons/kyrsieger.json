@@ -1,0 +1,26 @@
+{
+  "name": "Kyrsieger",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 24,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "kyrsieger := 50r HVY, 15r CHA",
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not.",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 7,
+    "Charisma": 2
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.15
+}

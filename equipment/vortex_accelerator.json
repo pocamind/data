@@ -1,0 +1,16 @@
+{
+  "name": "Vortex Accelerator",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "vortex_accelerator := ()",
+  "voi": true,
+  "desc": "The less health you have, the lower your mantra cooldowns."
+}

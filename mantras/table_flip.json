@@ -1,0 +1,16 @@
+{
+  "name": "Table Flip",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "table_flip := 40r STR",
+  "scaling": {
+    "Strength": 1.65
+  },
+  "voi": false,
+  "desc": "Toss the ground in front of you."
+}

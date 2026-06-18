@@ -1,0 +1,24 @@
+{
+  "name": "Sing",
+  "attributes": [
+    "Charisma"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "sing := 25r CHA",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "shared_cooldowns": [
+    "Glare"
+  ],
+  "related_talents": [
+    "Encore",
+    "Propagandist"
+  ],
+  "voi": false,
+  "desc": "Charm those around you with your powerful voice."
+}

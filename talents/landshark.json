@@ -1,0 +1,13 @@
+{
+  "name": "Landshark",
+  "category": "Fish",
+  "rarity": "Quest",
+  "reqs": "landshark := ()",
+  "additional_info": "The lifesteal only works in PvE.",
+  "count_towards_talent_total": true,
+  "icon": "Lungs",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Killing a Megalodaunt will grant lifesteal on your attacks for 30 seconds."
+}

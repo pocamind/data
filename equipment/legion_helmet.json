@@ -1,0 +1,25 @@
+{
+  "name": "Legion Helmet",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Legion",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "legion_helmet := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

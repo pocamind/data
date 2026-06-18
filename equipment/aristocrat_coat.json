@@ -1,0 +1,27 @@
+{
+  "name": "Aristocrat Coat",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": "Aristocrat",
+  "variants": [
+    "Burgundy",
+    "Slate",
+    "Beige"
+  ],
+  "talents": [
+    "Art of the Deal"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "aristocrat_coat := 165 ttl",
+  "voi": false,
+  "desc": "Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure."
+}

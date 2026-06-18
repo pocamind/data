@@ -1,0 +1,31 @@
+{
+  "name": "Jolt Grab",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "jolt_grab := 1r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Frost Grab",
+    "Clutching Shadow",
+    "Iron Hug",
+    "Throw"
+  ],
+  "voi": false,
+  "desc": "An electrified chokehold."
+}

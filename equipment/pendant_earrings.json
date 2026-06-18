@@ -1,0 +1,16 @@
+{
+  "name": "Pendant Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "pendant_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

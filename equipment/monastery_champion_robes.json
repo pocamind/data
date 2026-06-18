@@ -1,0 +1,29 @@
+{
+  "name": "Monastery Champion Robes",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": "Monastery Champion",
+  "variants": [],
+  "talents": [
+    "Temple Guard"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "monastery_champion_robes := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

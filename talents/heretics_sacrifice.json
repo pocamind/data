@@ -1,0 +1,13 @@
+{
+  "name": "Heretic's Sacrifice",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "heretics_sacrifice := ()",
+  "additional_info": "Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health. If you are already at 0 Sanity, you will still be healed at no downside.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "A chant that heavily sacrifices your sanity to regain a bit of health."
+}

@@ -1,0 +1,27 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Iron": 2,
+    "Dark Feather": 2,
+    "Vibrant Gem": 3
+  },
+  "name": "Hive Tactician Armor",
+  "reqs": "hive_tactician_armor := 25r AGL, 165r TTL",
+  "notes": 0,
+  "talent": "Brunt",
+  "category": "Expert",
+  "pants_id": "10376886686",
+  "shirt_id": "10376884392",
+  "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.2,
+    "Wind Resistance": 0.1,
+    "Metal Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "A fine coat interwoven with steel using Ironsing."
+}

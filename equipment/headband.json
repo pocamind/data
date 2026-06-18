@@ -1,0 +1,23 @@
+{
+  "name": "Headband",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Yellow",
+    "Red",
+    "White",
+    "Green",
+    "Blue",
+    "Black"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "headband := ()",
+  "voi": false,
+  "desc": "A stylish headband. Capable of hiding even the most dire of hairlines."
+}

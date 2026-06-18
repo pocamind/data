@@ -1,0 +1,13 @@
+{
+  "name": "Belief",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "belief := ()",
+  "additional_info": "All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment and deals physical damage. This deals 0.15 damage per 1 Willpower investment, up to 15 damage at 100 Willpower or 15.45 at 103 Willpower. This has no cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Climb",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your medium weapon mantras now deal extra damage based on how much Willpower you have."
+}

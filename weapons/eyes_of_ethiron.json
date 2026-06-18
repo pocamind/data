@@ -1,0 +1,29 @@
+{
+  "name": "Eyes of Ethiron",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 16.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "eyes_of_ethiron := 40r MED, 40r WND, 40r SDW",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.04,
+  "scaling": {
+    "Medium Weapon": 4,
+    "Shadowcast": 4.5,
+    "Galebreathe": 4.5
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The forge's touch peels back history's layered retellings and scrapes bare the blade's past. Godstorm, the wind that bore a shadow. An eye at the heart of each furling spiral. Long before Drallis tamed it, and before the Tides drew in, it was in contemplation of the devastation it wrought that Mankind cultivated the art that would become Galebreathing. Yet, owing perhaps to its muse, this nascent art would also become the foundation of Shadowcasting. In some senses, it was only in the years where the Godstorm was dormant that the wind and shadow could be considered separate.",
+  "talents": [
+    "Sable Winds"
+  ]
+}

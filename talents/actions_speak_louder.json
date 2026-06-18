@@ -1,0 +1,13 @@
+{
+  "name": "Actions Speak Louder",
+  "category": "Miscellaneous",
+  "rarity": "Equipment",
+  "reqs": "actions_speak_louder := ()",
+  "additional_info": "In 1v1 Chime of Conflict, your critical cooldown is reduced by 10% instead.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead."
+}

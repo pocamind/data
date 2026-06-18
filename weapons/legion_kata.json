@@ -1,0 +1,22 @@
+{
+  "name": "Legion Kata",
+  "type": "Fist",
+  "rarity": "Unknown",
+  "damage": 12,
+  "posture_damage": 3,
+  "range": 6,
+  "reqs": "legion_kata := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.13,
+  "scaling": {
+    "Light Weapon": 7
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The legendary martial arts style of the Legion. Emphasises the sweeping motions of wind."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Null Recovery",
+  "category": "Void Glutton",
+  "rarity": "Memento",
+  "reqs": "null_recovery := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Sacrifice 20% of your hunger bar to recover 10% of your health back."
+}

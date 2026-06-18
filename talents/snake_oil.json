@@ -1,0 +1,13 @@
+{
+  "name": "Snake Oil",
+  "category": "Silvertongue",
+  "rarity": "Common",
+  "reqs": "snake_oil := 30s CHA",
+  "additional_info": "Increases the sell price of items by 40%.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you."
+}

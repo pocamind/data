@@ -1,0 +1,27 @@
+{
+  "name": "Lightning Stream",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_stream := 20r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Static Ace"
+  ],
+  "voi": false,
+  "desc": "A stream of lightning."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Vigil Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "vigil_hood := 105 ttl, 10 agl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Volt Reflex",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "volt_reflex := ()",
+  "additional_info": "Increases the dodge window based on your Thundercall investment. Increases your dodge cooldown (for both dodge types) to 2.4 seconds.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges."
+}

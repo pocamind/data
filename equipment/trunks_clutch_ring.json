@@ -1,0 +1,14 @@
+{
+  "name": "Trunk's Clutch Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "trunks_clutch_ring := ()",
+  "voi": true,
+  "desc": "Gain 75% more damage when at 20% health or lower."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bruiser's Mixup",
+  "category": "Brawler",
+  "rarity": "Common",
+  "reqs": "bruisers_mixup := 1s LHT",
+  "additional_info": "Lasts for 4 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily."
+}

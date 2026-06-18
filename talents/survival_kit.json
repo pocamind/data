@@ -1,0 +1,12 @@
+{
+  "name": "Survival Kit",
+  "category": "Master Survivalist",
+  "rarity": "Common",
+  "reqs": "survival_kit := 20r CHA or 20r INT or 20r WLL",
+  "count_towards_talent_total": true,
+  "icon": "Cube",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses."
+}

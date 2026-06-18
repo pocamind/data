@@ -1,0 +1,13 @@
+{
+  "name": "Moths to a Flame",
+  "category": "Twisted Puppets",
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets => moths_to_a_flame := 40s FLM, 40s SDW",
+  "additional_info": "Puppets will now home in on targets who are burning with either of Twisted Puppets' burn types. When a Puppet gets close to a burning target it speeds up.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You summon a puppet of black flames that homes onto enemies with black flames."
+}

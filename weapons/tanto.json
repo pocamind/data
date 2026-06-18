@@ -1,0 +1,22 @@
+{
+  "name": "Tanto",
+  "type": "Dagger",
+  "rarity": "Uncommon",
+  "damage": 15.5,
+  "posture_damage": 3,
+  "range": 6.5,
+  "reqs": "tanto := 50r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.14,
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Matador",
+  "category": "Weapon Master",
+  "rarity": "Common",
+  "reqs": "matador := 5s AGL, 20s STR",
+  "count_towards_talent_total": true,
+  "icon": "Claw",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal +20% more damage to human enemies with hyperarmor."
+}

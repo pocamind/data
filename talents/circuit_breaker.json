@@ -1,0 +1,13 @@
+{
+  "name": "Circuit Breaker",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "circuit_breaker := ()",
+  "additional_info": "Using this with the Deepscorn Casque will cause you to heal upon using Electrify.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Electrify no longer deals self-damage on use."
+}

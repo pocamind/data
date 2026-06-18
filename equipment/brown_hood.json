@@ -1,0 +1,23 @@
+{
+  "name": "Brown Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 2,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "brown_hood := ()",
+  "voi": false,
+  "desc": "A sleek brown hood."
+}

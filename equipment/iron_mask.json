@@ -1,0 +1,16 @@
+{
+  "name": "Iron Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "iron_mask := ()",
+  "voi": false,
+  "desc": "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority."
+}

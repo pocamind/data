@@ -1,0 +1,16 @@
+{
+  "name": "Amplified Reflexes",
+  "category": "Jumpstarter",
+  "rarity": "Common",
+  "reqs": "electrify => amplified_reflexes := 35s LTN",
+  "additional_info": "Increases the self damage from casting Electrify from 5% of your current health to 15% of your current health. Increases Electrify's cooldown to 2 minutes. While Amped, your walk speed will be increased by 50% and your climb height will be increased by 15%.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.",
+  "exclusive": [
+    "Amplified Rage"
+  ]
+}

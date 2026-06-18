@@ -1,0 +1,18 @@
+{
+  "name": "Wraith Path: Twisted Puppets",
+  "category": "Twisted Puppets",
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets := 40s FLM, 40s SDW",
+  "additional_info": "Your Flamecharm abilities and status effects are now black. Your regular burn is now much weaker, dealing 87.5% less damage, but it now spawns Puppets on a 4 second cooldown. Your Shadowcast abilities can now apply burn that deals 75% less damage than default burn. Both of these burn types drain 6.25 Ether from affected targets per tick. Puppets deal 20 Typeless damage and 10 posture damage. Increases the uptime of your Flame of Denial by 25%.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.",
+  "exclusive": [
+    "Eruption Path: Lava Serpent",
+    "Flashboil",
+    "Azure Flames"
+  ]
+}

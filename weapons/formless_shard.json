@@ -1,0 +1,19 @@
+{
+  "name": "Formless Shard",
+  "type": "Dagger",
+  "rarity": "Common",
+  "damage": 5,
+  "posture_damage": 2,
+  "range": 8,
+  "reqs": "formless_shard := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Once a thing. Now just a shrapnel."
+}

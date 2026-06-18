@@ -1,0 +1,19 @@
+{
+  "name": "Ossified Phalanx Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Alloyed Soles"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "ossified_phalanx_boots := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Storm Return",
+  "category": "Theros Disciple",
+  "rarity": "Memento",
+  "reqs": "storm_return := ()",
+  "additional_info": "Being under the effects of Amped or Lightning Cloak will proc this effect.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with Lightning Cloak)"
+}

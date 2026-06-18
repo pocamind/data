@@ -1,0 +1,28 @@
+{
+  "name": "Dark Owl Chapeau",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Dark Owl",
+  "variants": [],
+  "talents": [
+    "Underdog"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 10,
+      "percentage": true
+    },
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "dark_owl_chapeau := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

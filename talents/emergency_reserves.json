@@ -1,0 +1,13 @@
+{
+  "name": "Emergency Reserves",
+  "category": "Absolute Focus",
+  "rarity": "Common",
+  "reqs": "emergency_reserves := 80s WLL",
+  "additional_info": "3 minute cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you get hit below 20% health, gain 20% tempo immediately."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Face Cutter",
+  "category": "Twinblade",
+  "rarity": "Rare",
+  "reqs": "spine_cutter => face_cutter := 75s MED",
+  "additional_info": "Grants an additional hit to your Spine Cutter that deals 50% of your weapon's scaled damage. Similarly to Spine Cutter, the damage of this attack cannot be buffed and it has no PEN.",
+  "count_towards_talent_total": true,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Spine Cutter now deals an additional hit."
+}

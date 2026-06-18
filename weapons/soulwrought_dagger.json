@@ -1,0 +1,22 @@
+{
+  "name": "Soulwrought Dagger",
+  "type": "Dagger",
+  "rarity": "Unknown",
+  "damage": 19,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "soulwrought_dagger := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.3,
+  "scaling": {
+    "Light Weapon": 9
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A weapon brought out from your soul."
+}

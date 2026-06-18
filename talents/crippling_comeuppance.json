@@ -1,0 +1,16 @@
+{
+  "name": "Crippling Comeuppance",
+  "category": "Trickster",
+  "rarity": "Advanced",
+  "reqs": "crippling_comeuppance := 100s AGL",
+  "additional_info": "30 second cooldown. For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies Sluggish to PvE enemies for 15s."
+}

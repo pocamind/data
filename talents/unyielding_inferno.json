@@ -1,0 +1,13 @@
+{
+  "name": "Unyielding Inferno",
+  "category": "Flamecharmer",
+  "rarity": "Common",
+  "reqs": "flamecharmer => unyielding_inferno := 35s FLM",
+  "additional_info": "Negates the innate 10% damage debuff Flamecharm Mantras, First Light's critical, and Twisted Puppets' Puppets receive during the rain. Prevents your burn from being extinguished by the rain.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your flames burn just as strong even in the fiercest of storms."
+}

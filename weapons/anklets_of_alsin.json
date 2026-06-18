@@ -1,0 +1,24 @@
+{
+  "name": "Anklets of Alsin",
+  "type": "Fist",
+  "rarity": "Rare",
+  "damage": 13.5,
+  "posture_damage": 3,
+  "range": 6.5,
+  "reqs": "anklets_of_alsin := 25r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.14,
+  "scaling": {
+    "Light Weapon": 9
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

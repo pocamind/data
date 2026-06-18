@@ -1,0 +1,12 @@
+{
+  "name": "Devastating Recovery",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "alloyed_zweihander, bloodbane, zweihander => devastating_recovery := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies recover 30% less posture when parrying your Zweihander light attacks.",
+  "icon": "Skeleton",
+  "roll2able": false
+}

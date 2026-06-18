@@ -1,0 +1,13 @@
+{
+  "name": "Blossoming Darkness",
+  "category": "Shadowcaster",
+  "rarity": "Common",
+  "reqs": "blossoming_darkness := 30s SDW",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The more Ether you drain during Shadow Roar, the bigger it gets."
+}

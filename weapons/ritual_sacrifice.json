@@ -1,0 +1,26 @@
+{
+  "name": "Ritual Sacrifice",
+  "type": "Spear",
+  "rarity": "Named",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "ritual_sacrifice := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Is sacrifice not the most potent of all rituals?",
+  "talents": [
+    "Blessing"
+  ]
+}

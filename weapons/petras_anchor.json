@@ -1,0 +1,24 @@
+{
+  "name": "Petra's Anchor",
+  "type": "Greathammer",
+  "rarity": "Mythical",
+  "damage": 26,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "petras_anchor := 10r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The anchor of the vessel \"Petra's Dawn\", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
+}

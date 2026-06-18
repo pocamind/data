@@ -1,0 +1,25 @@
+{
+  "name": "Alloyed Inheritor",
+  "type": "Greatsword",
+  "rarity": "Uncommon",
+  "damage": 24,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "alloyed_inheritor := 10r STR, 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "chip_damage": 0.15,
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself."
+}

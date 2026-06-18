@@ -1,0 +1,19 @@
+{
+  "name": "Solar Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Praise The Sun"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "solar_pendant := ()",
+  "voi": true,
+  "desc": "..."
+}

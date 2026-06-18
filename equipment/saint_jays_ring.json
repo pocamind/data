@@ -1,0 +1,16 @@
+{
+  "name": "Saint Jay's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "saint_jays_ring := ()",
+  "voi": false,
+  "desc": "Uppercuts inflict chill."
+}

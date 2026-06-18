@@ -1,0 +1,13 @@
+{
+  "name": "Reshape and Remold",
+  "category": "Scrapsinger",
+  "rarity": "Advanced",
+  "reqs": "gilded_path_scrapsinger, refine_and_reuse, artisans_blade, songs_unforged, masterwork => reshape_and_remold := 70s MTL",
+  "additional_info": "Increases the armor drain effect of your rods by 25%, from 2% drain to 2.5%.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10."
+}

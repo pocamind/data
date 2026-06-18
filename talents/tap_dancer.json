@@ -1,0 +1,16 @@
+{
+  "name": "Tap Dancer",
+  "category": "Duelist",
+  "rarity": "Rare",
+  "reqs": "tap_dancer := 60s AGL",
+  "additional_info": "Negate the extra half a second cooldown added to the roll following a roll-cancel.",
+  "count_towards_talent_total": true,
+  "icon": "Cloak",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown."
+}

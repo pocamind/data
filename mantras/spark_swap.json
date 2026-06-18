@@ -1,0 +1,25 @@
+{
+  "name": "Spark Swap",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "spark_swap := 50r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Swap places with a selected target."
+}

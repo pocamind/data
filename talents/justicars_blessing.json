@@ -1,0 +1,12 @@
+{
+  "name": "Justicar's Blessing",
+  "category": "Warder Techniques",
+  "rarity": "Faction",
+  "reqs": "justicars_blessing := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Allies you mark with Justicar's Mark gain 15% more healing."
+}

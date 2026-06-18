@@ -1,0 +1,12 @@
+{
+  "name": "Enforcer's Strength",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "enforcers_strength := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your enemies recover 20% less posture on parry."
+}

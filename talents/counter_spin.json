@@ -1,0 +1,12 @@
+{
+  "name": "Counter Spin",
+  "category": "Vanguard Arts",
+  "rarity": "Common",
+  "reqs": "counter_spin := 35s MED",
+  "additional_info": "On proc, swiftly thrust your Staff forwards, dealing 45% of your weapon's damage on hit.",
+  "count_towards_talent_total": true,
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "After blocking an attack, press M2 to counter with your staff."
+}

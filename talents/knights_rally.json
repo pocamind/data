@@ -1,0 +1,15 @@
+{
+  "name": "Knight's Rally",
+  "category": "Shieldmaster",
+  "rarity": "Common",
+  "reqs": "knights_rally := 10s WLL, 30s FTD",
+  "count_towards_talent_total": true,
+  "icon": "Shield",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 4
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When using a shield, you ready your block more quickly after taking a hit."
+}

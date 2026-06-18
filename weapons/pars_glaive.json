@@ -1,0 +1,23 @@
+{
+  "name": "Par's Glaive",
+  "type": "Greataxe",
+  "rarity": "Common",
+  "damage": 10,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "pars_glaive := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "endlag": 0.1,
+  "swing_speed": 1.07,
+  "scaling": {
+    "Charisma": 30
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "..."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Flame Assault",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_assault := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": true,
+  "desc": "Dash forward in a spiral of flames."
+}

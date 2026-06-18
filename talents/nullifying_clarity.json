@@ -1,0 +1,13 @@
+{
+  "name": "Nullifying Clarity",
+  "category": "Elemental Rebound",
+  "rarity": "Common",
+  "reqs": "nullifying_clarity := 5s INT, 15s STR",
+  "additional_info": "Procs on Burn, Chill, Shock, Fear, Winded, and Suffocation. Only works on M1s.",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal 10% more damage to enemies with elemental status effects, but remove the status on hit."
+}

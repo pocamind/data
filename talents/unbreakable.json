@@ -1,0 +1,13 @@
+{
+  "name": "Unbreakable",
+  "category": "Tower Knight",
+  "rarity": "Outfit",
+  "reqs": "unbreakable := 20s FTD",
+  "additional_info": "Reduces the stun duration from being guardbroken from 1.05s to 0.7s.",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have reduced stun duration when block broken."
+}

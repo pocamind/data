@@ -1,0 +1,14 @@
+{
+  "name": "Phoenix Duster",
+  "equippable": false,
+  "type": "Arms",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "phoenix_duster := ()",
+  "voi": false,
+  "desc": "???"
+}

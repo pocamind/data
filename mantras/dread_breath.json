@@ -1,0 +1,13 @@
+{
+  "name": "Dread Breath",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "dread_breath := ()",
+  "voi": false,
+  "desc": "..."
+}

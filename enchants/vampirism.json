@@ -1,0 +1,7 @@
+{
+  "info": "Gain 20% of your weapon's scaled damage as Temporary Health on hit. Additionally restore blood when landing weapon attacks. Vampirism caps at 100 Temporary Health and cannot grant Temp HP past this threshold. This Enchantment is less effective against Chaser and Primadon, and almost entirely nullified against the Scion of Ethiron.",
+  "name": "Vampirism",
+  "category": "Weapon",
+  "in_game_desc": "Your weapon attacks drain health from your foes and replenish your blood.",
+  "obtainable_in": "Pathfinder"
+}

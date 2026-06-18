@@ -1,0 +1,24 @@
+{
+  "name": "Fur Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Fur",
+  "variants": [
+    "Black",
+    "White"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "fur_pauldrons := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

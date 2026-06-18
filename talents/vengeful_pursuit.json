@@ -1,0 +1,13 @@
+{
+  "name": "Vengeful Pursuit",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => vengeful_pursuit := ()",
+  "additional_info": "Base damage and scaling differ depending on weapon type. 8 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you."
+}

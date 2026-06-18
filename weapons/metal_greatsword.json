@@ -1,0 +1,26 @@
+{
+  "name": "Metal Greatsword",
+  "type": "Greatsword",
+  "rarity": "Unknown",
+  "damage": 45,
+  "posture_damage": 8,
+  "range": 12.5,
+  "reqs": "metal_greatsword := ()",
+  "damage_types": [
+    "Slash",
+    "Ironsing"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1,
+  "endlag": 0.2,
+  "swing_speed": 0.8,
+  "chip_damage": 0.2,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A sword you summoned using your opponent's metal rods.",
+  "talents": [
+    "Forced Fulfilment"
+  ]
+}

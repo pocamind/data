@@ -1,0 +1,18 @@
+{
+  "name": "Rending Needle: Jailer",
+  "category": "Rending Needle",
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_jailer := 75s MTL",
+  "additional_info": "Increases the Metal Rod cap from 5 to 10, and you can no longer use Metal Pull unless the target has at least 5 rods. Metal Pull now stuns targets for 1.08s, and an additional 0.104s for every additional rod after the fifth (to a maximum of 1.6s). A stunned target has 30% damage reduction.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.",
+  "exclusive": [
+    "Rending Needle: Augmenter",
+    "Rending Needle: Impaler",
+    "Rending Needle: Conductor"
+  ]
+}

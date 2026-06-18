@@ -1,0 +1,23 @@
+{
+  "name": "Necrotic Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Necrotic",
+  "variants": [],
+  "talents": [
+    "Blood Plague"
+  ],
+  "innates": {
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "necrotic_mask := ()",
+  "voi": false,
+  "desc": "..."
+}

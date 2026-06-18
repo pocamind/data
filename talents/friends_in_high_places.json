@@ -1,0 +1,13 @@
+{
+  "name": "Friends in High Places",
+  "category": "Silvertongue",
+  "rarity": "Common",
+  "reqs": "friends_in_high_places := 20s CHA",
+  "additional_info": "Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!"
+}

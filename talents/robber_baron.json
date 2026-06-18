@@ -1,0 +1,13 @@
+{
+  "name": "Robber Baron",
+  "category": "Escape Artist",
+  "rarity": "Common",
+  "reqs": "robber_baron := ()",
+  "additional_info": "Lose 25% of your non-Soulbound/Enchanted items on death instead of 50%. You no longer lose Notes on death.",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You hold onto more items when defeated."
+}

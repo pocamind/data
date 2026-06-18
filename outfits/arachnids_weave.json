@@ -1,0 +1,30 @@
+{
+  "mats": {
+    "Cloth": 10,
+    "Fiber": 2,
+    "Spider Egg": 5,
+    "Dark Feather": 2,
+    "Bloodless Gem": 1,
+    "Vibrant Gem": 5
+  },
+  "name": "Arachnid's Weave",
+  "reqs": "arachnids_weave := 240r TTL",
+  "notes": 1000,
+  "talent": "Corrosive Touch",
+  "category": "Master",
+  "pants_id": "139797713905949",
+  "shirt_id": "129686480471028",
+  "durability": 2100,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.35,
+    "Thunder Resistance": 0.1,
+    "Metal Resistance": 0.15,
+    "Blood Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 55,
+    "Extra Stealth": 0
+  },
+  "desc": "Spun around the dantiest of spider silks, this silvery coordinate is punctuated by its iconic corset. Perhaps \"laced\" with poison?"
+}

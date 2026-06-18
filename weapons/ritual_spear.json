@@ -1,0 +1,26 @@
+{
+  "name": "Ritual Spear",
+  "type": "Spear",
+  "rarity": "Uncommon",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "ritual_spear := 35r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A spear that was once utilised in Gremor rituals pledged to Navae, but has now been appropriated across the Eastern Luminant",
+  "talents": [
+    "Pierce Through"
+  ]
+}

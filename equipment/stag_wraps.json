@@ -1,0 +1,25 @@
+{
+  "name": "Stag Wraps",
+  "equippable": false,
+  "type": "Arms",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Reinforced Armor"
+  ],
+  "innates": {
+    "Health": {
+      "value": 60,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "stag_wraps := ()",
+  "voi": false,
+  "desc": "..."
+}

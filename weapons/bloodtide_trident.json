@@ -1,0 +1,26 @@
+{
+  "name": "Bloodtide Trident",
+  "type": "Spear",
+  "rarity": "Legendary",
+  "damage": 18,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "bloodtide_trident := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.95,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "bleed_damage": 2.7,
+  "chip_damage": 0.1,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

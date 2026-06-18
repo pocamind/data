@@ -1,0 +1,24 @@
+{
+  "name": "Sailor's Fleece",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Normal",
+    "Dark"
+  ],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "sailors_fleece := 45 ttl",
+  "voi": false,
+  "desc": "A thick woolen fleece, somewhat scratchy in texture, commonly worn by sailors in the East. When the Suncross falls into the voidfog, the seas of Lumen get surprisingly chilly."
+}

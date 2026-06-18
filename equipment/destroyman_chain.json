@@ -1,0 +1,22 @@
+{
+  "name": "Destroyman Chain",
+  "equippable": false,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Physical Armor": {
+      "value": 3.1,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "destroyman_chain := ()",
+  "voi": false,
+  "desc": "A chain for the strongest of pathfinders. Some would say the extra 0.1% physical armor on this makes it a spec. They would be right."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Shiva's Pendant Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": "Shiva",
+  "variants": [],
+  "talents": [
+    "Skillful Recovery"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "shivas_pendant_earrings := ()",
+  "voi": false,
+  "desc": "Donning these fills you with strength and fury."
+}

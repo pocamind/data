@@ -1,0 +1,23 @@
+{
+  "name": "Dark Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "dark_cowl := ()",
+  "voi": false,
+  "desc": "..."
+}

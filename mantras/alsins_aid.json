@@ -1,0 +1,13 @@
+{
+  "name": "Alsin's Aid",
+  "attributes": [
+    "Origin: Justicar"
+  ],
+  "category": "Support",
+  "type": "Origin",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "justicar => alsins_aid := ()",
+  "voi": false,
+  "desc": "Give your ally an aura that grants then more speed, and increases the amount of healing they receive for 10 seconds."
+}

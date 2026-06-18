@@ -1,0 +1,23 @@
+{
+  "name": "Tracker's Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Tracker",
+  "variants": [],
+  "talents": [
+    "Lowstride"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "trackers_boots := ()",
+  "voi": false,
+  "desc": "..."
+}

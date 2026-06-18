@@ -1,0 +1,22 @@
+{
+  "name": "Scimitar",
+  "type": "Sword",
+  "rarity": "Common",
+  "damage": 15,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "scimitar := 20r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.09,
+  "scaling": {
+    "Medium Weapon": 3
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture."
+}

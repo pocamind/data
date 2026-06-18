@@ -1,0 +1,13 @@
+{
+  "name": "Blighted Song",
+  "category": "Darksiphon",
+  "rarity": "Common",
+  "reqs": "blighted_song := 10s FTD",
+  "additional_info": "Grants the user and the chained opponent 20% damage reduction against outside attacks.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied."
+}

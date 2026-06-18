@@ -1,0 +1,22 @@
+{
+  "name": "Unsung Scythern",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 26,
+  "posture_damage": 8,
+  "range": 8,
+  "reqs": "unsung_scythern := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Forged in the tumultuous fires of the Canticlysm, the Unsung Scythern stands as a testament to the resilience of humanity in the face of chaos. Crafted by ancient hands, its blade bears the weight of forgotten histories and lost civilizations. This weapon channels the echoes of a bygone era, whispering tales of survival. With each swing, it carves through the veil of time."
+}

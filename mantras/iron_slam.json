@@ -1,0 +1,20 @@
+{
+  "name": "Iron Slam",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "iron_slam := 50r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "voi": false,
+  "desc": "Conjure a giant rod of metal and slam it down."
+}

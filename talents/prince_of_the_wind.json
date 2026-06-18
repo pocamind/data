@@ -1,0 +1,12 @@
+{
+  "name": "Prince of the Wind",
+  "category": "Inheritor of the Gale",
+  "rarity": "Memento",
+  "reqs": "prince_of_the_wind := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You are the one who the wind bends around. Your galebreathe is enhanced."
+}

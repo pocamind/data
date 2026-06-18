@@ -1,0 +1,15 @@
+{
+  "name": "Fishman",
+  "category": "Fish",
+  "rarity": "Rare",
+  "reqs": "fishman := ()",
+  "count_towards_talent_total": true,
+  "icon": "Lungs",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When your Blood is over 50%, you won't drown when Unconscious in water. Gain additional healing from knocking others Unconscious in water."
+}

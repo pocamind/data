@@ -1,0 +1,13 @@
+{
+  "name": "Winter's Protection",
+  "category": "Survivor",
+  "rarity": "Equipment",
+  "reqs": "winters_protection := ()",
+  "additional_info": "Increases the time it takes for the Second Layer's parasites to kill you. Negates weather-reliant damage buffs such as Frostdraw's increased damage when its snowing or Thundercall's increased damage when it's raining.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale."
+}

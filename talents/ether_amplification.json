@@ -1,0 +1,13 @@
+{
+  "name": "Ether Amplification",
+  "category": "Ether Erudite",
+  "rarity": "Memento",
+  "reqs": "ether_amplification := ()",
+  "additional_info": "Turns Pressure Blast light blue.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "For every Ether Erudite Stack you have, increase the size and damage of your Pressure Blast."
+}

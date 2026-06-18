@@ -1,0 +1,18 @@
+{
+  "name": "Rending Needle: Impaler",
+  "category": "Rending Needle",
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_impaler := 75s MTL",
+  "additional_info": "Increases the Metal Rod cap from 5 to 10. You can no longer use Metal Pull unless the target has at least 5 rods. Your Metal Pull now deals damage, with the damage scaling based on the amount of Rods applied. Impaler Rods individually have a base damage of 4, with 5 Ironsing scaling, gaining 0.02 damage per Ironsing investment. This will deal 5.5 damage per rod at 75 Ironsing and 6 damage per rod at 100 Ironsing.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.",
+  "exclusive": [
+    "Rending Needle: Augmenter",
+    "Rending Needle: Jailer",
+    "Rending Needle: Conductor"
+  ]
+}

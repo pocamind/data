@@ -1,0 +1,24 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Iron": 1
+  },
+  "name": "Pathfinder Thaumaturge",
+  "reqs": "pathfinder_thaumaturge := 10r INT, 90r TTL",
+  "notes": 30,
+  "talent": "Lowstride",
+  "category": "Adept",
+  "pants_id": "12994469874",
+  "shirt_id": "12994454374",
+  "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Elemental Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

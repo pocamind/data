@@ -1,0 +1,23 @@
+{
+  "name": "Regenerative Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": "Regenerative",
+  "variants": [],
+  "talents": [
+    "Blood Convergence"
+  ],
+  "innates": {
+    "Ether": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "regenerative_earrings := ()",
+  "voi": false,
+  "desc": "Wearing these fills you with a newfound sense of vitality."
+}

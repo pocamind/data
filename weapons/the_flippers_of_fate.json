@@ -1,0 +1,24 @@
+{
+  "name": "The Flippers of Fate",
+  "type": "Dagger",
+  "rarity": "Common",
+  "damage": 13,
+  "posture_damage": 3.5,
+  "range": 6.5,
+  "reqs": "the_flippers_of_fate := 30r INT OR 30r WLL OR 30r CHA, 70r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.26,
+  "scaling": {
+    "Light Weapon": 8,
+    "Mind": 5
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "That isn't smoke. It's steam."
+}

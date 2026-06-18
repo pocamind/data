@@ -1,0 +1,21 @@
+{
+  "name": "Shock Trooper Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Shock Trooper",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "shock_trooper_boots := 165 ttl",
+  "voi": false,
+  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed."
+}

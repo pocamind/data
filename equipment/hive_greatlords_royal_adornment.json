@@ -1,0 +1,25 @@
+{
+  "name": "Hive Greatlord's Royal Adornment",
+  "equippable": false,
+  "type": "Head",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Ashes on the Fire"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "hive_greatlords_royal_adornment := ()",
+  "voi": false,
+  "desc": "Lol"
+}

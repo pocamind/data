@@ -1,0 +1,18 @@
+{
+  "name": "Mindsoothe",
+  "attributes": [
+    "Oath: Blindseer"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_blindseer => mindsoothe := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "miscellaneous": "Heals 60 health. Hold block during the windup to heal non-allies.",
+  "voi": false,
+  "desc": "Give comfort to your allies by sharing in their burden."
+}

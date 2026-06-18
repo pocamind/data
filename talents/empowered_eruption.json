@@ -1,0 +1,12 @@
+{
+  "name": "Empowered Eruption",
+  "category": "Lava Serpent",
+  "rarity": "Common",
+  "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown."
+}

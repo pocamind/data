@@ -1,0 +1,22 @@
+{
+  "pants_id": null,
+  "shirt_id": null,
+  "mats": {
+    "Crystal Lens": 3,
+    "Spark Gland": 3
+  },
+  "name": "Etrean Rogue",
+  "reqs": "etrean_rogue := ()",
+  "notes": 0,
+  "talent": "Test",
+  "category": "Unobtainable",
+  "durability": 500,
+  "resistances": {
+    "Slash Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Sturdy leather armor, fashioned for the hunters sent down into Etrea's forest."
+}

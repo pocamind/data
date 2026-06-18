@@ -1,0 +1,19 @@
+{
+  "name": "Ceaseless Slashes",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ceaseless_slashes := 50r LHT",
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "related_talents": [
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together."
+}

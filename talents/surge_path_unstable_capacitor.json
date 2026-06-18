@@ -1,0 +1,13 @@
+{
+  "name": "Surge Path: Unstable Capacitor",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor := 40s LTN",
+  "additional_info": "Turns your Thundercall abilities blurple. Shock is replaced with Surge Rods, a stacking status effect that Overloads upon applying five Rods and then landing an attack that would apply a sixth, consuming all of the Rods. Each Rod has an individual 30 second duration. Surge Overloads deal 2.5 Thundercall damage per Rod with 5 Thundercall scaling to Overloaded target, gaining 0.0125 damage per Thundercall investment, and 2 Thundercall damage per Rod in an AoE that does not hit the Overloaded target.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Crawling Necktie",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "crawling_necktie := ()",
+  "voi": false,
+  "desc": "It's showtime!\n[*Note: Only obtainable through Goodie Bags.]"
+}

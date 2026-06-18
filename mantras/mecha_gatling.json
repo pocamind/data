@@ -1,0 +1,13 @@
+{
+  "name": "Mecha Gatling",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "mecha_gatling := ()",
+  "voi": false,
+  "desc": "..."
+}

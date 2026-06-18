@@ -1,0 +1,20 @@
+{
+  "name": "Aristocrat Eyeglasses",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Aristocrat",
+  "variants": [
+    "Black",
+    "Red",
+    "White"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "aristocrat_eyeglasses := ()",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Duskpole",
+  "type": "Staff",
+  "rarity": "Common",
+  "damage": 17,
+  "posture_damage": 6,
+  "range": 7,
+  "reqs": "duskpole := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

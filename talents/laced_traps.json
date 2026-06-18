@@ -1,0 +1,13 @@
+{
+  "name": "Laced Traps",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "laced_traps := 45s MTL",
+  "additional_info": "Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying Sluggish to PvE enemies for a few seconds."
+}

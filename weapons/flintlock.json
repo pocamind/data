@@ -1,0 +1,21 @@
+{
+  "name": "Flintlock",
+  "type": "Pistol",
+  "rarity": "Uncommon",
+  "damage": 11,
+  "posture_damage": 1,
+  "range": 10,
+  "reqs": "flintlock := 20r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.17,
+  "scaling": {
+    "Light Weapon": 12
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every Luminant."
+}

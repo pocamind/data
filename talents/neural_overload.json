@@ -1,0 +1,12 @@
+{
+  "name": "Neural Overload",
+  "category": "Adept Caster",
+  "rarity": "Advanced",
+  "reqs": "neural_overload := 85s INT",
+  "count_towards_talent_total": true,
+  "icon": "Orb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3."
+}

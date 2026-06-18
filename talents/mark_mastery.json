@@ -1,0 +1,13 @@
+{
+  "name": "Mark Mastery",
+  "category": "Warder Techniques",
+  "rarity": "Faction",
+  "reqs": "mark_mastery := ()",
+  "additional_info": "Reduces the additional damage you take from marking an ally from 20% to 5%.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5%."
+}

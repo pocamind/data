@@ -1,0 +1,13 @@
+{
+  "name": "A World Without Song",
+  "category": "Silencer",
+  "rarity": "Advanced",
+  "reqs": "silencers_blade => a_world_without_song := 75s WND",
+  "additional_info": "The hit count required to proc this Talent is increased to 4 if you have less than 75 Galebreathe, and increased to 5 if you have less than 40 Galebreathe.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Every 3 hits with a Wind Mantra now procs Suffocating."
+}

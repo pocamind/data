@@ -1,0 +1,12 @@
+{
+  "name": "Depths Denizen",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "depths_denizen := ()",
+  "count_towards_talent_total": false,
+  "icon": "Cube",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "The city you once called home is now your only way out of the depths, perhaps you can use this to your advantage. Gain extra leeway when attempting to escape the depths."
+}

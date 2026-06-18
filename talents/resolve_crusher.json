@@ -1,0 +1,13 @@
+{
+  "name": "Resolve Crusher",
+  "category": "Authority Interrogator",
+  "rarity": "Common",
+  "reqs": "thundercaller => resolve_crusher := 65s LTN",
+  "additional_info": "Resolve Crusher's \"Electrified\" effect is only applied after the 5th stack (not the 4th stated by the Talent). Each stack lasts for 5 seconds. Electrified lasts for 5 seconds. Damage debuff only applies against weapon attacks.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Lightning moves now apply stacks of \"Resolve Crusher\". At 4 stacks, you apply \"Electrified\" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you."
+}

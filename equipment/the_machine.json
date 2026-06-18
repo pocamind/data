@@ -1,0 +1,23 @@
+{
+  "name": "THE MACHINE",
+  "equippable": false,
+  "type": "Head",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "fistful of dollar"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "the_machine := ()",
+  "voi": false,
+  "desc": "Go play metal gear rising"
+}

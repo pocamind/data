@@ -1,0 +1,13 @@
+{
+  "name": "Driving Impact",
+  "category": "Lancer",
+  "rarity": "Common",
+  "reqs": "driving_impact := 30s MED",
+  "additional_info": "The first hit of your default spear critical will deal double the posture damage. The second hit of your default spear critical will not deal posture damage.",
+  "count_towards_talent_total": true,
+  "icon": "Spear",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Spears] The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage."
+}

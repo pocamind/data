@@ -1,0 +1,21 @@
+{
+  "name": "Soulwrought Gun",
+  "type": "Pistol",
+  "rarity": "Unknown",
+  "damage": 16,
+  "posture_damage": 3,
+  "range": 12,
+  "reqs": "soulwrought_gun := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.33,
+  "scaling": {
+    "Light Weapon": 16
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A weapon brought out from your soul."
+}

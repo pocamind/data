@@ -1,0 +1,27 @@
+{
+  "name": "Flame Leap",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_leap := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "shared_cooldowns": [
+    "Strong Leap",
+    "Neural Pathway"
+  ],
+  "voi": true,
+  "desc": "Leap up leaving behind a burst of flames."
+}

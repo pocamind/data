@@ -1,0 +1,16 @@
+{
+  "name": "Dirty Boxing",
+  "category": "Scoundrel",
+  "rarity": "Rare",
+  "reqs": "dirty_boxing := 1s LHT, 25s AGL",
+  "additional_info": "8 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Hitting an enemy with a Basic Attack after feinting applies bleed, obscures their vision slightly and makes PvE enemies Sluggish. "
+}

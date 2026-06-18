@@ -1,0 +1,13 @@
+{
+  "name": "Fan the Flames",
+  "category": "Heat Column",
+  "rarity": "Common",
+  "reqs": "inhale => fan_the_flames := 40s FLM",
+  "additional_info": "The benefits of Inhale can now be applied to your Flamecharm Mantras.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your stored Wind mantras can now empower your Fire mantras."
+}

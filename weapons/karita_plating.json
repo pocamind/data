@@ -1,0 +1,27 @@
+{
+  "name": "Karita Plating",
+  "type": "Fist",
+  "rarity": "Legendary",
+  "damage": 14,
+  "posture_damage": 4,
+  "range": 6.5,
+  "reqs": "karita_plating := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.13,
+  "scaling": {
+    "Light Weapon": 8,
+    "Agility": 3
+  },
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Developed by Konga the 2nd, these set of shin platings are suited to aid the user in sliding along tough surfaces much more easily. This strengthens their ability to be able to attack using the infamous Slider Style of the Konga lineage.",
+  "talents": [
+    "Slider Style"
+  ]
+}

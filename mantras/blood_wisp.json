@@ -1,0 +1,18 @@
+{
+  "name": "Blood Wisp",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "blood_wisp := 30r BLD",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Passively regenerates your blood.",
+  "voi": false,
+  "desc": "A servant of blood."
+}

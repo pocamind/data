@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Erisore": 8,
+    "Frigid Prism": 2
+  },
+  "name": "Navaen Nomad Robes",
+  "reqs": "navaen_nomad_robes := 90r TTL",
+  "notes": 100,
+  "pants_id": "5747461248",
+  "shirt_id": "5747459547",
+  "talent": "Fists of Navae",
+  "category": "Adept",
+  "durability": 1800,
+  "resistances": {
+    "Ice Resistance": 0.15,
+    "Blunt Resistance": 0.1,
+    "Shadow Resistance": 0.15,
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 50
+  },
+  "desc": "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold"
+}

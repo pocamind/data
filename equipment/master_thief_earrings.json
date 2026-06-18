@@ -1,0 +1,21 @@
+{
+  "name": "Master Thief Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "master_thief_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

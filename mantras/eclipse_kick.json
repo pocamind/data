@@ -1,0 +1,26 @@
+{
+  "name": "Eclipse Kick",
+  "attributes": [
+    "Shadowcast",
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "eclipse_kick := 15r STR, 50r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Show your foes your strength."
+}

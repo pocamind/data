@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Linkstrider",
+  "category": "Linkstrider",
+  "rarity": "Oath",
+  "reqs": "oath_linkstrider := ()",
+  "count_towards_talent_total": false,
+  "icon": "Linkstrider",
+  "roll2able": false,
+  "stats": {
+    "Wildcard Mantra Slot": 1,
+    "Support Mantra Slot": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength."
+}

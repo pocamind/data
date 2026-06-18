@@ -1,0 +1,24 @@
+{
+  "mats": {
+    "Cloth": 15,
+    "Fiber": 15,
+    "Megalodaunt Hide": 1
+  },
+  "name": "Cerulean Gown",
+  "pants_id": "16826366211",
+  "shirt_id": "16826363331",
+  "reqs": "cerulean_gown := 135r TTL",
+  "notes": 200,
+  "talent": null,
+  "category": "Expert",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "A bodiced sky-blue dress, with various tassels attached for decoration. Despite its initial elegant appearance, the fastened layered skirt, tight-cuffed shirt sleeves, and sturdy boots suggest the outfit is both stylish and functional, fit for both formal and perilous occasions."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Iron Skin",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "iron_skin := 20r MTL",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "related_talents": [
+    "Intuitive Repairs"
+  ],
+  "miscellaneous": "Prevents movement while active and grants 90% damage reduction.",
+  "voi": false,
+  "desc": "Coat your skin with metal to reduce harm."
+}

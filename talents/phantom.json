@@ -1,0 +1,13 @@
+{
+  "name": "Phantom",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "phantom := ()",
+  "additional_info": "Your weapon attacks that bypass block apply shaky block.",
+  "count_towards_talent_total": false,
+  "icon": "Assassin",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "For the next 5 seconds, your next basic attack bypasses block after landing a crit. [45 second CD]"
+}

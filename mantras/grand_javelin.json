@@ -1,0 +1,22 @@
+{
+  "name": "Grand Javelin",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "grand_javelin := 30r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "related_talents": [
+    "Grand Skewer"
+  ],
+  "voi": false,
+  "desc": "A javelin made out of lightning."
+}

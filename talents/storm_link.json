@@ -1,0 +1,13 @@
+{
+  "name": "Storm Link",
+  "category": "Stormcaller",
+  "rarity": "Common",
+  "reqs": "static_link => storm_link := 50s WND, 60s LTN",
+  "additional_info": "Adds a secondary instance of damage to your Galebreathe Mantras if they hit a Static Linked target. This deals 10% of your attack's scaled damage as Thundercall damage.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Saint Jay's Hammer",
+  "type": "Greathammer",
+  "rarity": "Common",
+  "damage": 20,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "saint_jays_hammer := ()",
+  "damage_types": [
+    "Blunt",
+    "Frostdraw"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "...",
+  "talents": [
+    "Bulwark Breaker",
+    "Reverse Necrosis"
+  ]
+}

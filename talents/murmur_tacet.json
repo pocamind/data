@@ -1,0 +1,13 @@
+{
+  "name": "Murmur: Tacet",
+  "category": "Murmur",
+  "rarity": "Murmur",
+  "reqs": "murmur_tacet := ()",
+  "additional_info": "On use, a sphere around your character will be created. To everyone outside of the sphere, you are invisible. The size of the Tacet sphere scales inversely on your level and your stealth stat, becoming smaller the higher your level and the more stealth you have. In PvE you become effectively invisible to enemies at almost any range. Tacet will deactivate if you: stop crouching for 3 seconds, sprint for 1.5 seconds, use any attack, get hit, or use Soulbreaker's Formless ability. Tacet will be disabled during Hell Mode, Diluvian, and Depths Trials.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched."
+}

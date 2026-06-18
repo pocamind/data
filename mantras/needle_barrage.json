@@ -1,0 +1,19 @@
+{
+  "name": "Needle Barrage",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "needle_barrage := 1r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A barrage of metal rods."
+}

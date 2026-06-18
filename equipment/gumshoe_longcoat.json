@@ -1,0 +1,28 @@
+{
+  "name": "Gumshoe Longcoat",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Gumshoe",
+  "variants": [
+    "Dark",
+    "Ochre",
+    "Grey",
+    "White"
+  ],
+  "talents": [
+    "Hard Read"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "gumshoe_longcoat := ()",
+  "voi": false,
+  "desc": "..."
+}

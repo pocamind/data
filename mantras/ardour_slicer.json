@@ -1,0 +1,17 @@
+{
+  "name": "Ardour Slicer",
+  "attributes": [
+    "Oath: Soulbreaker"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_soulbreaker => ardour_slicer := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Close the distance and deliver a fast slash using your Ardour."
+}

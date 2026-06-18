@@ -1,0 +1,12 @@
+{
+  "name": "Mudskipper Gripper",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "coral_cestus => mudskipper_gripper := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When executing an opponent with your critical attack, summon mudskippers to aid you in battle.",
+  "icon": "Fist",
+  "roll2able": false
+}

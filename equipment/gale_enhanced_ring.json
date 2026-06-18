@@ -1,0 +1,14 @@
+{
+  "name": "Gale Enhanced Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "gale_enhanced_ring := 165 ttl",
+  "voi": false,
+  "desc": "Suffocate enemies you flourish for a few seconds."
+}

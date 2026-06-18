@@ -1,0 +1,15 @@
+{
+  "name": "Pumpkin Pitch",
+  "attributes": [
+    "Event Mantra"
+  ],
+  "category": "Combat",
+  "type": "Event",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "pumpkin_pitch := ()",
+  "miscellaneous": "Only unlockable through the Hallowtide Event.",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

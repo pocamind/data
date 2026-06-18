@@ -1,0 +1,12 @@
+{
+  "name": "Tainted Ground",
+  "category": "Septicemia",
+  "rarity": "Common",
+  "reqs": "tainted_ground := 30s BLD",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies who stand in blood pools will not decay blood poison and gain 15% more blood poisoning."
+}

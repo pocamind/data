@@ -1,0 +1,17 @@
+{
+  "name": "Metal Armament",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "metal_armament := 50r MTL",
+  "related_talents": [
+    "Forced Fulfilment"
+  ],
+  "miscellaneous": "Enhances your M1s, striking with a metal sword after each swing.",
+  "voi": false,
+  "desc": "Summon a blade of metal to swing alongside you."
+}

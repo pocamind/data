@@ -1,0 +1,19 @@
+{
+  "name": "Skyshatter Kick",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "skyshatter_kick := 80r STR",
+  "scaling": {
+    "Strength": 1.65
+  },
+  "sparks": [
+    "Round Spark"
+  ],
+  "voi": false,
+  "desc": "Unleash two devastating kicks with your brute strength."
+}

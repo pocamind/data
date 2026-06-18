@@ -1,0 +1,21 @@
+{
+  "name": "Old Blood Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Ether": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "old_blood_earrings := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

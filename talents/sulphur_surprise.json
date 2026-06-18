@@ -1,0 +1,13 @@
+{
+  "name": "Sulphur Surprise",
+  "category": "Saboteur",
+  "rarity": "Common",
+  "reqs": "incendiary_formula => sulphur_surprise := ()",
+  "additional_info": "Reduces the bomb throw cooldown from 5 seconds to 4 seconds. This only applies to the bomb thrown directly after this Talent procs, not on the bomb that procced this Talent. 20 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy."
+}

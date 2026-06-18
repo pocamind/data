@@ -1,0 +1,23 @@
+{
+  "name": "Master's Flourish",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "masters_flourish := 30r MED",
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "A powerful slash that chips through block and slashes through armor."
+}

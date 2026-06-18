@@ -1,0 +1,16 @@
+{
+  "name": "Ministry Hunter Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "ministry_hunter_ring := ()",
+  "voi": true,
+  "desc": "Backstabs now deal 10% more damage."
+}

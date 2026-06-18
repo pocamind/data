@@ -1,0 +1,23 @@
+{
+  "name": "Rockmaller",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 25,
+  "posture_damage": 9.5,
+  "range": 8,
+  "reqs": "rockmaller := 10r STR, 55r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.82,
+  "scaling": {
+    "Heavy Weapon": 7.5
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "It's just a small, quarried chunk of a far more powerful stone. Silent, unremarkable, about as lively as... well, a rock on a stick. But as soon as you grip it, you feel that raw, untamed power humming beneath its rough surface. This isn't about wielding a polished weapon, it's about the sheer, brutal devastation this humble fragment is ready to unleash in your hands."
+}

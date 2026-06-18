@@ -1,0 +1,21 @@
+{
+  "name": "A Lot of Hats",
+  "equippable": false,
+  "type": "Head",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "a_lot_of_hats := ()",
+  "voi": false,
+  "desc": "Go play dark souls 1"
+}

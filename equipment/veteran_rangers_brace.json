@@ -1,0 +1,27 @@
+{
+  "name": "Veteran Ranger's Brace",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Veteran Ranger",
+  "variants": [],
+  "talents": [
+    "Emergency Rations"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "veteran_rangers_brace := ()",
+  "voi": true,
+  "desc": "It's covered in sewn pockets and hidden compartments, filled with cooking and medical supplies."
+}

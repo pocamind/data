@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage from weapon attacks from a humanoid opponent, this has a 20% chance to proc. On proc, recover health, restore your sustenance meters, or gain an agility bonus, each of these effects have an equal chance to proc, meaning each individual effect has a 6.6% chance to be procced when you get hit. Multiplicity has a 5 second cooldown. On health recovery: Restore 1.5% of your maximum health. This is applied after Anti-Heal on the same attack (meaning it could be nullified entirely), but before damage is taken, possibly saving you from being knocked. On sustenance restoration: Restore 20% of your maximum blood and 11% of your maximum hunger & thirst. On agility bonus: Increase your climb height by 15% for 5 seconds.",
+  "name": "Multiplicity",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may grant you a random boon of Recovery, Healing, or Agility. 5s CD.",
+  "obtainable_in": "Pathfinder"
+}

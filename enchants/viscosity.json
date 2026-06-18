@@ -1,0 +1,7 @@
+{
+  "info": "Incoming damage is instead applied as a damage over time effect, over 2.5 seconds. User takes 10% of the initial incoming damage every 0.25s, 10 times. Similarly to Deferred, the damage over time from this Enchantment snapshots all of the relevant resistances and damage modifiers when the attack landed, meaning newly applied resistances/damage modifiers will not be considered and effects that run out will still have their bonuses applied. This enchantment will be disabled if you are using Curse of the No Life King on your weapon or Immortal Helm.",
+  "name": "Viscosity",
+  "category": "Equipment",
+  "in_game_desc": "Incoming damage is converted into damage over time and applied for 2.5s.",
+  "obtainable_in": "Pathfinder"
+}

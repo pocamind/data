@@ -1,0 +1,28 @@
+{
+  "name": "Permafrost Prison",
+  "attributes": [
+    "Frostdraw",
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "permafrost_prison := 30r ICE, 30r SDW",
+  "scaling": {
+    "Frostdraw": 2.75,
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Imprison your enemies with shadows and impale them with pillars."
+}

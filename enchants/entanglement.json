@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage from weapon attacks from a humanoid opponent, this has a 20% chance to proc. On proc, the user will be slowed by 22.5% and will gain 10% damage reduction to all attacks for 5 seconds. Entanglement has no cooldown and can be procced while its active, refreshing its damage reduction duration, but stacking the slow. The damage reduction effect also applies to the attack that procced the Enchant.",
+  "name": "Entanglement",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may proc Entangled Defence, reducing your speed in exchange for 10% damage reduction.",
+  "obtainable_in": "Pathfinder"
+}

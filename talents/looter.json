@@ -1,0 +1,13 @@
+{
+  "name": "Looter",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "looter := ()",
+  "additional_info": "This affects: turning in Artifacts or the Strange Egg at a banker, turning in Sacks to Mercille, handing in pure ore to a Blacksmith, and trading in Explosive Crates to Scope.",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Get extra loot from items you turn in for rewards."
+}

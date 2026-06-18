@@ -1,0 +1,12 @@
+{
+  "name": "Herbivore",
+  "category": "Survival Instinct",
+  "rarity": "Equipment",
+  "reqs": "herbivore := ()",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You gain more nutrition from eating plants."
+}

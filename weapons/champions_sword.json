@@ -1,0 +1,22 @@
+{
+  "name": "Champion's Sword",
+  "type": "Sword",
+  "rarity": "Rare",
+  "damage": 19,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "champions_sword := 40r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.02,
+  "scaling": {
+    "Medium Weapon": 6.5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself."
+}

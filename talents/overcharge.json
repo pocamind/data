@@ -1,0 +1,13 @@
+{
+  "name": "Overcharge",
+  "category": "Thunderblade",
+  "rarity": "Common",
+  "reqs": "overcharge := 45s LTN",
+  "additional_info": "Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your next dash after activating Static Blade is enhanced by lightning."
+}

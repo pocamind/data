@@ -1,0 +1,27 @@
+{
+  "name": "Beginner's Brace",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Beginner",
+  "variants": [],
+  "talents": [
+    "Beginner's Luck"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "beginners_brace := ()",
+  "voi": true,
+  "desc": "..."
+}

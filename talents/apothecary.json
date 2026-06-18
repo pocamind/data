@@ -1,0 +1,13 @@
+{
+  "name": "Apothecary",
+  "category": "Alchemist",
+  "rarity": "Common",
+  "reqs": "apothecary := 10s INT",
+  "additional_info": "Additively increases potion Potency by 125%. Acts similarly to a potion ingredient, remaining active if you no longer have the Talent.",
+  "count_towards_talent_total": true,
+  "icon": "Potion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Rapid Punches",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "rapid_punches := 20r STR",
+  "scaling": {
+    "Strength": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Unleash a barrage of blows against your foes."
+}

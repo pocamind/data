@@ -1,0 +1,12 @@
+{
+  "name": "Skillful Recovery",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "skillful_recovery := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Recover more posture in all situations."
+}

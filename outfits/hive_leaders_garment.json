@@ -1,0 +1,20 @@
+{
+  "pants_id": "3568545537",
+  "shirt_id": "3568543452",
+  "mats": {},
+  "name": "Hive Leader's Garment",
+  "reqs": "hive_leaders_garment := 240r TTL",
+  "notes": 0,
+  "talent": null,
+  "category": "Spec",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "The royal robes of the King of the Hive, layered in protective material and luxurious cloth alike, a one-of-a-kind garb that can only be produced every millenia."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Punishment",
+  "attributes": [
+    "Heavy Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "punishment := 50r HVY",
+  "scaling": {
+    "Agility": 1.65
+  },
+  "related_talents": [
+    "Sovereign Counter",
+    "Rebuke in Stasis"
+  ],
+  "miscellaneous": "Stores a percentage of the stored attack's damage, scaling on Mantra level, and adds that to the damage and posture damage this Mantra deals.",
+  "voi": true,
+  "desc": "Absorb damage then return fury upon your foes."
+}

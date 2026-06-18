@@ -1,0 +1,26 @@
+{
+  "name": "Crystal Knee",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "crystal_knee := 40r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
+  "voi": false,
+  "desc": "Knock your enemy skyward with a kick of crystal."
+}

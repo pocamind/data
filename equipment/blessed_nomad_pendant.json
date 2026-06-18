@@ -1,0 +1,23 @@
+{
+  "name": "Blessed Nomad Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Navae's Connection"
+  ],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "blessed_nomad_pendant := ()",
+  "voi": true,
+  "desc": "..."
+}

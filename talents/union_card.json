@@ -1,0 +1,13 @@
+{
+  "name": "Union Card",
+  "category": "Ignition Delver",
+  "rarity": "Origin",
+  "reqs": "union_card := ()",
+  "additional_info": "Gain increased EXP gain from Jobs and Dungeons, but reduced EXP gain from any other content.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees will slightly reduce your experience gain outside of these."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Battery Sapper",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => battery_sapper := 25s SDW, 60s LTN",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown."
+}

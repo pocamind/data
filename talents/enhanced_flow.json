@@ -1,0 +1,13 @@
+{
+  "name": "Enhanced Flow",
+  "category": "Sanguine Wager",
+  "rarity": "Common",
+  "reqs": "rush_hour => enhanced_flow := 90r MED or 90r HVY or 90r LHT, 90s BLD",
+  "additional_info": "When you land basic attacks during Rush Hour, gain Temporary Health equal to 30% of your weapon's scaled damage. This cannot give more than 50 Temporary Health in a singular instance. Reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick. Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.",
+  "count_towards_talent_total": false,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour."
+}

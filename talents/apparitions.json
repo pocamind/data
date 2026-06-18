@@ -1,0 +1,13 @@
+{
+  "name": "Apparitions",
+  "category": "Specter",
+  "rarity": "Common",
+  "reqs": "apparitions := 50s WND",
+  "additional_info": "Apparitions can only spawn from Haunted Gale being procced on Galebreathe Mantras or by proccing effects that would normally apply Suffocation.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step."
+}

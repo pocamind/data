@@ -1,0 +1,16 @@
+{
+  "name": "Warrior's Eyepatch",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "warriors_eyepatch := ()",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Reveal",
+  "category": "Bladeharper",
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => reveal := ()",
+  "additional_info": "Grants a Talent tool that activates True Strength on use. While active, you will passively accumulate Wither. Reveal will automatically end if your health goes below 10%.",
+  "count_towards_talent_total": false,
+  "icon": "Bladeharper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pour your heart out, and reveal your true strength."
+}

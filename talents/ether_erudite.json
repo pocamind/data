@@ -1,0 +1,12 @@
+{
+  "name": "Ether Erudite",
+  "category": "Ether Erudite",
+  "rarity": "Memento",
+  "reqs": "ether_erudite := ()",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6."
+}

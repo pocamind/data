@@ -1,0 +1,22 @@
+{
+  "name": "Whaling Knife",
+  "type": "Dagger",
+  "rarity": "Rare",
+  "damage": 15,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "whaling_knife := 40r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The knife of one of the infamous Knives of Eylis, mercenaries and assassins feared and reviled the world over. Carries a unique critical that has a higher chance to do Critical Damage if you wield 'Knife's Journey'."
+}

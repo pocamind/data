@@ -1,0 +1,12 @@
+{
+  "name": "Champion's Regalia",
+  "category": "Champion",
+  "rarity": "Rare",
+  "reqs": "champions_regalia := 25s STR",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds."
+}

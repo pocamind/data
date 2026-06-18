@@ -1,0 +1,27 @@
+{
+  "name": "Withered Phantomcleave",
+  "type": "Sword",
+  "rarity": "Legendary",
+  "damage": 17.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "withered_phantomcleave := 100r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality.",
+  "talents": [
+    "Phantom"
+  ]
+}

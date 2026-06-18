@@ -1,0 +1,13 @@
+{
+  "name": "Saint Jay",
+  "category": "Ice Age",
+  "rarity": "Rare",
+  "reqs": "frostbite => saint_jay := 1s ICE",
+  "additional_info": "You can only steal non-passive healing. On Crystal Path, applying a Crystal will proc Saint Jay for 2 seconds. You cannot steal healing that you apply.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE Heal Boost to 10% as well."
+}

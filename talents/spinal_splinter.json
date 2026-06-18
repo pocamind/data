@@ -1,0 +1,13 @@
+{
+  "name": "Spinal Splinter",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "spinal_splinter := ()",
+  "additional_info": "If your critical attack hits your opponent's back, it will gain an secondary damage instance that deals 25 true damage.",
+  "count_towards_talent_total": false,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a backstab with your critical deals 15 extra true damage."
+}

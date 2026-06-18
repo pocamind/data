@@ -1,0 +1,28 @@
+{
+  "name": "Konga's Parka",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Slick",
+    "Steady Footing"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "kongas_parka := ()",
+  "voi": true,
+  "desc": "An essential winter coat to protect you against the cold."
+}

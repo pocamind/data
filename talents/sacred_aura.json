@@ -1,0 +1,12 @@
+{
+  "name": "Sacred Aura",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "sacred_hammer => sacred_aura := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing your Sacred Hammer critical attack applies an aura of protection around you, reducing the damage you take by a flat 2.5, multiplying based on how many combat tags you currently have on you.",
+  "icon": "Shield",
+  "roll2able": false
+}

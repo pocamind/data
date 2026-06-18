@@ -1,0 +1,28 @@
+{
+  "name": "Lightning Clones",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_clones := 20r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Static Flash Clone"
+  ],
+  "miscellaneous": "Damage dealt is based on your build.",
+  "voi": false,
+  "desc": "Replicated forms of yourself conjured from electricity."
+}

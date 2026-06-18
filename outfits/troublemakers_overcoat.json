@@ -1,0 +1,25 @@
+{
+  "mats": {
+    "Iron": 5,
+    "Cloth": 10,
+    "Fiber": 10,
+    "Megalodaunt Hide": 5
+  },
+  "name": "Troublemaker's Overcoat",
+  "reqs": "troublemakers_overcoat := 135r TTL",
+  "notes": 100,
+  "talent": null,
+  "category": "Expert",
+  "pants_id": "16826409661",
+  "shirt_id": "16826407379",
+  "durability": 2500,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "A sturdy closed overcoat covering a wholesale ankle-high frock dress, with leather-reinforced shoulderpads and bracers. Perfect for those days when you're willing to dish out a bruising, but don't want your favourite dress to be ruined in the scrapping."
+}

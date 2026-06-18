@@ -1,0 +1,13 @@
+{
+  "name": "Brute Strength",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "brute_strength := ()",
+  "additional_info": "Deals 35 Blunt damage with 20 Posture damage. This cannot be buffed through damage modifiers. Increases your Vent's windup from 0.25s to 0.5s.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your vent is replaced with a ground slam attack that knocks back enemies."
+}

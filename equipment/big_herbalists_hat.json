@@ -1,0 +1,19 @@
+{
+  "name": "Big Herbalist's Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Herbivore",
+    "Iron Gut"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "big_herbalists_hat := ()",
+  "voi": false,
+  "desc": "..."
+}

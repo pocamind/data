@@ -1,0 +1,13 @@
+{
+  "name": "Relentless Hunt",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => relentless_hunt := ()",
+  "additional_info": "20s CD per weapon type, 6s CD if feinted. Movesets differ depending on weapon type. The Light Weapon variant hits twice if it is enhanced by Flow State.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "M1 while doing an Aerial Attack to initiate a special gap closer attack."
+}

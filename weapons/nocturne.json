@@ -1,0 +1,23 @@
+{
+  "name": "Nocturne",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 19.8,
+  "posture_damage": 5,
+  "range": 7.5,
+  "reqs": "nocturne := 90r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.02,
+  "scaling": {
+    "Medium Weapon": 8
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "These twin blades of Celestial make carry an eerie semblance of consciousness. Along their lengths run glowing tapestries of ethereal moonlight. If one listens closely, you can almost make out whispers, or perhaps cries. The blades are known to grow heavier and more unwieldy when used for unjust purposes, as though they judge the actions of its user. As such, it is thought that only a person of unwavering integrity can hope to wield them to their truest potential."
+}

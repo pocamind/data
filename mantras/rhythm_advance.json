@@ -1,0 +1,18 @@
+{
+  "name": "Rhythm Advance",
+  "attributes": [
+    "Oath: Soulbreaker"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_soulbreaker => rhythm_advance := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "miscellaneous": "Procs Heart Reverb on hit or block.",
+  "voi": false,
+  "desc": "Channel your Rhythm and track down your opponent."
+}

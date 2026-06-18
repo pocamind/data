@@ -1,0 +1,12 @@
+{
+  "name": "Catalytic Strike",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Posture breaking an enemy will Overload their Surge stack."
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kyrswynter",
+  "type": "Spear",
+  "rarity": "Mythical",
+  "damage": 16,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "kyrswynter := ()",
+  "damage_types": [
+    "Slash",
+    "Frostdraw",
+    "Bleed"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 0.97,
+  "scaling": {
+    "Medium Weapon": 5,
+    "Frostdraw": 3
+  },
+  "bleed_damage": 2.4,
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall."
+}

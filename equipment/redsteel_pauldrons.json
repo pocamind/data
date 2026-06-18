@@ -1,0 +1,25 @@
+{
+  "name": "Redsteel Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Redsteel",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "redsteel_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

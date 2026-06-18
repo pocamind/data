@@ -1,0 +1,13 @@
+{
+  "name": "Ichor Imbuement",
+  "category": "Starkindred",
+  "rarity": "Oath",
+  "reqs": "ichor_imbuement := ()",
+  "additional_info": "Buffs any Starkindred Mantra if your wings are not out on cast.",
+  "count_towards_talent_total": false,
+  "icon": "Starkindred",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times."
+}

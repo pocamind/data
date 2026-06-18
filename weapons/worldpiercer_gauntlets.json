@@ -1,0 +1,22 @@
+{
+  "name": "Worldpiercer Gauntlets",
+  "type": "Fist",
+  "rarity": "Unique",
+  "damage": 16.5,
+  "posture_damage": 6,
+  "range": 6,
+  "reqs": "worldpiercer_gauntlets := 30r STR, 85r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.08,
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Brutal gauntlets wielded by those who break through defenses with unforgiving force."
+}

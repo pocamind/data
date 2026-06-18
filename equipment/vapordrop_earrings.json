@@ -1,0 +1,19 @@
+{
+  "name": "Vapordrop Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Drop Dead"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "vapordrop_earrings := ()",
+  "voi": true,
+  "desc": "..."
+}

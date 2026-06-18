@@ -1,0 +1,19 @@
+{
+  "name": "Devouring Eye",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "devouring_eye := 30r SDW",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze."
+}

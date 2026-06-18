@@ -1,0 +1,22 @@
+{
+  "name": "Imperial Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Uncommon",
+  "set": "Imperial",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "imperial_boots := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

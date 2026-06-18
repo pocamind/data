@@ -1,0 +1,7 @@
+{
+  "info": "After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying Flames of Life and Temporary Health to them and other nearby targets. The damage of explosion and amount of Temporary Health given are randomized. Damage: 5.5-33 typeless damage. This cannot be buffed, and the explosions cannot execute. Temporary Health: 0-50. The explosion has 7.56x PvE scaling, the green fire has 6.66x PvE scaling; multiply PvP damage dealt by this amount to get PvE damage. Temporary Health given does not scale in PvE.",
+  "name": "Curse of Ysley's Ember",
+  "category": "Weapon",
+  "in_game_desc": "Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets.",
+  "obtainable_in": "Pathfinder"
+}

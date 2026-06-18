@@ -1,0 +1,12 @@
+{
+  "name": "Golden Age",
+  "category": "Crystalline Gold",
+  "rarity": "Common",
+  "reqs": "gilded_path_scrapsinger, glass_path_crystallization, surge_path_unstable_capacitor => golden_age := ()",
+  "count_towards_talent_total": true,
+  "icon": "Cube",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Iron Pull now detonates Crystals and overloads Surges."
+}

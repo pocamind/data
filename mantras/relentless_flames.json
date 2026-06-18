@@ -1,0 +1,19 @@
+{
+  "name": "Relentless Flames",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "relentless_flames := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Bear down on your foes with repeated fiery slashes."
+}

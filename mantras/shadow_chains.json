@@ -1,0 +1,25 @@
+{
+  "name": "Shadow Chains",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shadow_chains := 20r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Blighted Song"
+  ],
+  "voi": false,
+  "desc": "Chains of shadow."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Armorer's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "armorers_ring := ()",
+  "voi": false,
+  "desc": "Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 25%."
+}

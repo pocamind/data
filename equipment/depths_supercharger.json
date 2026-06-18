@@ -1,0 +1,16 @@
+{
+  "name": "Depth's Supercharger",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "depths_supercharger := ()",
+  "voi": true,
+  "desc": "Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo."
+}

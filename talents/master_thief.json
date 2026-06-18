@@ -1,0 +1,15 @@
+{
+  "name": "Master Thief",
+  "category": "Thief",
+  "rarity": "Common",
+  "reqs": "pickpocket => master_thief := 25s CHA",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain more notes when mugging a player."
+}

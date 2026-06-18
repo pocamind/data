@@ -1,0 +1,16 @@
+{
+  "name": "Lose Your Mind",
+  "category": "Mindbreaker",
+  "rarity": "Rare",
+  "reqs": "lose_your_mind := 30s STR, 30s FTD",
+  "additional_info": "Starting at 70% Sanity, gain a damage buff that scales non-linearly on your current Sanity percentage.",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": false,
+  "stats": {
+    "Sanity": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal more damage the more insane you are. Grants +15% damage at maximum insanity."
+}

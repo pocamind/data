@@ -1,0 +1,22 @@
+{
+  "name": "Arc Beam",
+  "attributes": [
+    "Oath: Arcwarder"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_arcwarder => arc_beam := ()",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Purge Shot"
+  ],
+  "voi": true,
+  "desc": "Fire plasma energy. Deals additional damage in PvE."
+}

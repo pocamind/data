@@ -1,0 +1,12 @@
+{
+  "name": "Flying Swiftkick",
+  "category": "Justicar",
+  "rarity": "Common",
+  "reqs": "swiftkick_prodigy => flying_swiftkick := ()",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost."
+}

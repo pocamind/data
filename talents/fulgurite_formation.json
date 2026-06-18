@@ -1,0 +1,13 @@
+{
+  "name": "Fulgurite Formation",
+  "category": "Frozen Lightning",
+  "rarity": "Common",
+  "reqs": "glass_path_crystallization, surge_path_unstable_capacitor => fulgurite_formation := 50s ICE, 50s LTN",
+  "additional_info": "The lightning strikes deal 5 typeless damage with a 4 second cooldown. The double Crystal application buff does not stack with successive Fulgurite Formation procs. Procs Grounding Bolt.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s."
+}

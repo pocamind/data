@@ -1,0 +1,12 @@
+{
+  "name": "Flamecharmer",
+  "category": "Flamecharmer",
+  "rarity": "Common",
+  "reqs": "flamecharmer := 1 FLM",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Grants you the ability to command Fire as a Flamecharmer."
+}

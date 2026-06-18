@@ -1,0 +1,27 @@
+{
+  "name": "Frost Gauntlets",
+  "type": "Fist",
+  "rarity": "Uncommon",
+  "damage": 14,
+  "posture_damage": 5,
+  "range": 7,
+  "reqs": "frost_gauntlets := ()",
+  "damage_types": [
+    "Blunt",
+    "Frostdraw"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 9
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "Perfect for a Knuckle Sandwich, served cold.",
+  "talents": [
+    "Fortify"
+  ]
+}

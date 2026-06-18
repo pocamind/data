@@ -1,0 +1,20 @@
+{
+  "mats": {},
+  "name": "Whaler Initiate",
+  "reqs": "whaler_initiate := 90r TTL",
+  "notes": 0,
+  "talent": null,
+  "category": "Starter",
+  "pants_id": "5990847137",
+  "shirt_id": "5990796652",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Elemental Resistance": 0.05
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 25
+  },
+  "desc": "Coat and pseudo-uniform of Eylis' gang of assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea."
+}

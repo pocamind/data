@@ -1,0 +1,13 @@
+{
+  "name": "Merciless Blade",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => merciless_blade := ()",
+  "additional_info": "Increases your execution speed by 25%, down to 2.25 seconds from 3 seconds.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now execute enemies much faster."
+}

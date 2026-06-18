@@ -1,0 +1,25 @@
+{
+  "name": "Iron Hug",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "iron_hug := 50r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Frost Grab",
+    "Jolt Grab",
+    "Throw"
+  ],
+  "related_talents": [
+    "Metal Absorption"
+  ],
+  "voi": false,
+  "desc": "Crush your opponents bones with an iron infused grab."
+}

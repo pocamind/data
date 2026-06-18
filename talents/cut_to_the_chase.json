@@ -1,0 +1,16 @@
+{
+  "name": "Cut to the Chase",
+  "category": "Vigil Swordsman",
+  "rarity": "Rare",
+  "reqs": "cut_to_the_chase := 60s AGL",
+  "additional_info": "Adds 10 True damage to your Air Counter. The damage bonus will be lessened if you do not meet the Talent's requirements.",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air."
+}

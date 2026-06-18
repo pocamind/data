@@ -1,0 +1,21 @@
+{
+  "name": "Repeater",
+  "type": "Pistol",
+  "rarity": "Uncommon",
+  "damage": 14,
+  "posture_damage": 3,
+  "range": 12,
+  "reqs": "repeater := 65r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 15
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire."
+}

@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage, this has a 33% chance to proc. On proc, pull the attacker towards you.",
+  "name": "Adhesive",
+  "category": "Equipment",
+  "in_game_desc": "Pulls your attacker towards you.",
+  "obtainable_in": "Pathfinder"
+}

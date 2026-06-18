@@ -1,0 +1,16 @@
+{
+  "name": "Fast Blade",
+  "category": "Nimble Blade",
+  "rarity": "Common",
+  "reqs": "fast_blade := 20s AGL",
+  "additional_info": "Increases the speed boost duration from parrying by 3 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Extend the speed boost you get from successfully parrying an attack."
+}

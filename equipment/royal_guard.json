@@ -1,0 +1,21 @@
+{
+  "name": "Royal Guard",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "royal_guard := ()",
+  "voi": false,
+  "desc": "..."
+}

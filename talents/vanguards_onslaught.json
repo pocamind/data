@@ -1,0 +1,12 @@
+{
+  "name": "Vanguard's Onslaught",
+  "category": "Vanguard Techniques",
+  "rarity": "Faction",
+  "reqs": "vanguards_onslaught := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds."
+}

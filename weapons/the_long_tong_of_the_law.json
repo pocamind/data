@@ -1,0 +1,26 @@
+{
+  "name": "The Long Tong of The Law",
+  "type": "Greatsword",
+  "rarity": "Common",
+  "damage": 20,
+  "posture_damage": 8,
+  "range": 10,
+  "reqs": "the_long_tong_of_the_law := 30r INT OR 30r WLL OR 30r CHA, 70r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.82,
+  "scaling": {
+    "Heavy Weapon": 7,
+    "Mind": 3
+  },
+  "bleed_damage": 3,
+  "chip_damage": 0.4,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Where's the crabbo SAUUUCE?"
+}

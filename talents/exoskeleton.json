@@ -1,0 +1,16 @@
+{
+  "name": "Exoskeleton",
+  "category": "Freak of Nature",
+  "rarity": "Rare",
+  "reqs": "exoskeleton := 40s FTD",
+  "additional_info": "Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude. Chitin's resistances stack multiplicatively with Exoskeleton.",
+  "count_towards_talent_total": false,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active."
+}

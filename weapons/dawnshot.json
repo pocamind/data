@@ -1,0 +1,21 @@
+{
+  "name": "Dawnshot",
+  "type": "Pistol",
+  "rarity": "Rare",
+  "damage": 14,
+  "posture_damage": 1,
+  "range": 10.5,
+  "reqs": "dawnshot := 40r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.17,
+  "scaling": {
+    "Light Weapon": 12
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production"
+}

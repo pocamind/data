@@ -1,0 +1,13 @@
+{
+  "name": "Concussive Flash",
+  "category": "Duelist Flame",
+  "rarity": "Common",
+  "reqs": "concussive_flash := 25s STR, 30s FLM",
+  "additional_info": "People blinded by Flame Blind are Dazed for 2 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your blinding light now concusses foes."
+}

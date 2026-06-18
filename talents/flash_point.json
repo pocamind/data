@@ -1,0 +1,13 @@
+{
+  "name": "Flash Point",
+  "category": "Lava Serpent",
+  "rarity": "Common",
+  "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
+  "additional_info": "45 second cooldown on the Empowered Eruption effect.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. Block breaking an opponent with a Fire Mantra procs Burning."
+}

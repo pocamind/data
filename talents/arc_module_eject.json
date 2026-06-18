@@ -1,0 +1,13 @@
+{
+  "name": "Arc Module: Eject",
+  "category": "Arcwarder",
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_eject := ()",
+  "additional_info": "Your posture will be set to 50% on activation.",
+  "count_towards_talent_total": false,
+  "icon": "Arcwarder",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[In Arc Suit] When blockbroken, eject from your suit."
+}

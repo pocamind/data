@@ -1,0 +1,16 @@
+{
+  "name": "Master Shadowcaster",
+  "category": "Shadowcaster",
+  "rarity": "Common",
+  "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 3-star Leveled Shadowcaster Mantras."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mantle of Enmity",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Heartwing Beat"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "mantle_of_enmity := ()",
+  "voi": false,
+  "wiki": "",
+  "desc": "The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister."
+}

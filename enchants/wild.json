@@ -1,0 +1,7 @@
+{
+  "info": "When landing weapon attacks, deal 85% of your scaled damage in an ~18.25 stud AoE as typeless damage. This does not hit the initial victim. You can only proc this effect once per weapon swing; hitting two targets will only create one AoE. Allies only take 50% of your scaled damage from the Wild procs instead of the full 85%.",
+  "name": "Wild",
+  "category": "Weapon",
+  "in_game_desc": "On hit, deal 85% of your weapon's damage in an AoE. This AoE cannot hit allies or the enemy originally hit. Reduces your damage against allies by 50%.",
+  "obtainable_in": "Pathfinder"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Impairing Blow",
+  "category": "Bruiser",
+  "rarity": "Common",
+  "reqs": "impairing_blow := 30s HVY",
+  "additional_info": "Does not proc on uppercut.",
+  "count_towards_talent_total": true,
+  "icon": "Greatsword",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Greataxes] Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts."
+}

@@ -1,0 +1,6 @@
+{
+  "info": "Landing M1s builds stacks for the critical attack. On critical attack, plunge your weapon into the ground and stop time in an AoE around you. The size of the AoE and the duration of the time stop scale on the amount of stacks you had. 1 hit = +1 second. Upon being guardbroken, negate the guardbreak stun.",
+  "name": "JOE's",
+  "category": "Weapon",
+  "in_game_desc": "It stands for Judicator's Original Enchantment. An enchant that was supposed to be only for the strongest of monster slayers. No one knows what happened to the original Judicator who made this enchant."
+}

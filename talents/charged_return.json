@@ -1,0 +1,13 @@
+{
+  "name": "Charged Return",
+  "category": "Elemental Rebound",
+  "rarity": "Common",
+  "reqs": "charged_return := 15s STR, 20s WLL",
+  "additional_info": "Procs on Burn, Chill, Shock, Fear, Winded, and Suffocation.",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage."
+}

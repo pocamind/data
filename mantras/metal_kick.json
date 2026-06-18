@@ -1,0 +1,19 @@
+{
+  "name": "Metal Kick",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "metal_kick := 20r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "sparks": [
+    "Spring Spark"
+  ],
+  "voi": false,
+  "desc": "A powerful kick laced with metal."
+}

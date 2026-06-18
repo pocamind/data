@@ -1,0 +1,20 @@
+{
+  "name": "Metal Ball",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_ball := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Create a metal ball and rush forward."
+}

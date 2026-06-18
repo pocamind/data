@@ -1,0 +1,13 @@
+{
+  "name": "No Survivors",
+  "category": "Tyrant",
+  "rarity": "Common",
+  "reqs": "no_survivors := 45s STR, 80s CHA",
+  "additional_info": "Reduces grip time by 0.5 seconds (16.67% faster).",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your allies and yourself execute faster when affected by Overcharm."
+}

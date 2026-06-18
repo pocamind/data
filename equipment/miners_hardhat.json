@@ -1,0 +1,24 @@
+{
+  "name": "Miner's Hardhat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Rock Blaster",
+    "Excavator"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "miners_hardhat := ()",
+  "voi": false,
+  "desc": "..."
+}

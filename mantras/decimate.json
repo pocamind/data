@@ -1,0 +1,20 @@
+{
+  "name": "Decimate",
+  "attributes": [
+    "Oath: Bladeharper"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_bladeharper => decimate := ()",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Teleports to nearby targets if in True Strength.",
+  "voi": false,
+  "desc": "Cut through your opponent."
+}

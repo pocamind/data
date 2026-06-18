@@ -1,0 +1,31 @@
+{
+  "name": "Deepwoken Cloak",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Deepwoken",
+  "variants": [
+    "White",
+    "Black"
+  ],
+  "talents": [
+    "Blade Dancer"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "deepwoken_cloak := 165 ttl",
+  "voi": false,
+  "desc": "An ancient cloak of incredible power. Worn by a select few."
+}

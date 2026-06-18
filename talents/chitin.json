@@ -1,0 +1,13 @@
+{
+  "name": "Chitin",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "chitin := ()",
+  "additional_info": "Grants 5% physical damage reduction in the form of Natural Armor. This stacks multiplicatively with Exoskeleton. Increases Exoskeleton's durability by 200.",
+  "count_towards_talent_total": false,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have a layer of Natural Armor that replenishes when you rest"
+}

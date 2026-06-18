@@ -1,0 +1,13 @@
+{
+  "name": "Reality Shift",
+  "category": "Visionshaper",
+  "rarity": "Oath",
+  "reqs": "oath_visionshaper => reality_shift := ()",
+  "additional_info": "Your last used Mantra or critical attack will be stored in your clones when you summon them. Using the Reality Shift Talent tool or hotkey will perform the stored action.",
+  "count_towards_talent_total": false,
+  "icon": "Visionshaper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra."
+}
