@@ -1,0 +1,13 @@
+{
+  "name": "Hemorrhaging Blow",
+  "category": "Bloodrender",
+  "rarity": "Rare",
+  "reqs": "master_bloodrender => hemorrhaging_blow := 95s BLD",
+  "additional_info": "The damage to healing conversion is 1:1, meaning 20 healing = 20 damage. Works on all non-passive healing. 55 second cooldown, starting once the guardbreak occurs.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tailor Made",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "tailor_made := ()",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "These were specifically made for your kind. Etris Flasks now heal you 45% more than usual."
+}

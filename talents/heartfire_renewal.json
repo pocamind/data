@@ -1,0 +1,12 @@
+{
+  "name": "Heartfire Renewal",
+  "category": "Solborn",
+  "rarity": "Memento",
+  "reqs": "heartfire_renewal := ()",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge."
+}

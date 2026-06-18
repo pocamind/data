@@ -1,0 +1,24 @@
+{
+  "name": "Smouldering Hallow",
+  "type": "Greatcannon",
+  "rarity": "Legendary",
+  "damage": 27,
+  "posture_damage": 9,
+  "range": 7.5,
+  "reqs": "smouldering_hallow := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.81,
+  "scaling": {
+    "Heavy Weapon": 8.6
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Imbued with twisted roots of Ardfall, this cannon is unlike any other. Forged by the smiths of the Floating Keep, its festive gourds unleash devastating cheer. You can't help but grin a little inside when you fire it."
+}

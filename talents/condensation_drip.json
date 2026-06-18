@@ -1,0 +1,13 @@
+{
+  "name": "Condensation Drip",
+  "category": "Cryomancer",
+  "rarity": "Common",
+  "reqs": "condensation_drip := 15s ICE, 20s INT",
+  "additional_info": "Reduces the passive thirst drain by 3x.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Passively collect condensation from the air, greatly reducing your thirst."
+}

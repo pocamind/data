@@ -1,0 +1,12 @@
+{
+  "name": "Hammerfall",
+  "category": "Hammer Rage",
+  "rarity": "Common",
+  "reqs": "hammerfall := 35s MED",
+  "count_towards_talent_total": true,
+  "icon": "Wings",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Clubs] Aerial attacks do 25% more posture damage when blocked."
+}

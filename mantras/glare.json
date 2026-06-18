@@ -1,0 +1,43 @@
+{
+  "name": "Glare",
+  "attributes": [
+    "Charisma",
+    "Willpower"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "glare := 5r WLL, 25r CHA",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "shared_cooldowns": [
+    "Sing"
+  ],
+  "related_talents": [
+    "Peripheral Vision",
+    "Scornful Shot"
+  ],
+  "voi": true,
+  "desc": "Opponents facing you are briefly rendered immobile."
+}

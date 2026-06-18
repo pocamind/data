@@ -1,0 +1,16 @@
+{
+  "name": "Brilliant Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Brilliant",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "brilliant_boots := 75 ttl",
+  "voi": false,
+  "desc": "..."
+}

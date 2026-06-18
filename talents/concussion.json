@@ -1,0 +1,12 @@
+{
+  "name": "Concussion",
+  "category": "Duelist",
+  "rarity": "Rare",
+  "reqs": "concussion := 15s FTD, 20s STR",
+  "count_towards_talent_total": true,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get Stagger for a few seconds."
+}

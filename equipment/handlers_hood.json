@@ -1,0 +1,16 @@
+{
+  "name": "Handler's Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "handlers_hood := ()",
+  "voi": false,
+  "desc": "A shroud worn proud by members of the Inquisition."
+}

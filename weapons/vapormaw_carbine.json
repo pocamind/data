@@ -1,0 +1,23 @@
+{
+  "name": "Vapormaw Carbine",
+  "type": "Rifle",
+  "rarity": "Mythical",
+  "damage": 17,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "vapormaw_carbine := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 4,
+    "Flamecharm": 3,
+    "Frostdraw": 3
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "An experimental steam-powered firearm whose pressured steam reservoir delivers exceptional kinetic force, making it capable of remarkably destructive output."
+}

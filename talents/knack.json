@@ -1,0 +1,12 @@
+{
+  "name": "Knack",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "knack := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Trees yield more Wood when felled. Your Repair speed is increased."
+}

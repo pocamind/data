@@ -1,0 +1,15 @@
+{
+  "name": "Lancer's Impale",
+  "category": "Lancer",
+  "rarity": "Common",
+  "reqs": "lancers_impale := 30s MED",
+  "count_towards_talent_total": true,
+  "icon": "Spear",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 4
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Spears] Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead."
+}

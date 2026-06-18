@@ -1,0 +1,24 @@
+{
+  "name": "Light's Final Toll",
+  "type": "Fist",
+  "rarity": "Mythical",
+  "damage": 12,
+  "posture_damage": 5,
+  "range": 6.5,
+  "reqs": "lights_final_toll := 35r LHT, 60r WLL",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 4,
+    "Willpower": 11
+  },
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A reminder that all songs must come to an end."
+}

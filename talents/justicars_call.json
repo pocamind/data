@@ -1,0 +1,13 @@
+{
+  "name": "Justicar's Call",
+  "category": "Justicar",
+  "rarity": "Origin",
+  "reqs": "justicars_call := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Lend your aid to those in need.",
+  "additional_info": "Upon using the provided Talent tool, a UI will pop up that shows a list of all Castaways who have used the Justicar Whistle tool. Upon selecting one, you'll teleport into their server, and you'll be tasked with protecting them against Voidwalkers and assisting them in events. Assisting Castaways with this tool is the main progression method of this Origin.",
+  "icon": "Handshake",
+  "roll2able": false
+}

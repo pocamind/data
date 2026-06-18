@@ -1,0 +1,98 @@
+{
+  "name": "Flame Repulsion",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_repulsion := 1r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 16,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 18.4,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 20.8,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 23.2,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 25.6,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Spring Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 31.4,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 33.56,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 35.72,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 37.88,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 40.04,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Spring Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back."
+}

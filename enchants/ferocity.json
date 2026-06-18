@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage from a humanoid target, this has a 25% chance to proc. On proc, gain the following bonuses: +8% speed boost for 5 seconds. This scales on your current Tempo, granting a +40% speed boost at full Tempo. +0% damage reduction to the hit that procced Ferocity. This scales on your current Tempo, applying 15% damage reduction at maximum Tempo.",
+  "name": "Ferocity",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may proc a speed boost and deal reduced damage. Both the speed boost and damage reduction scale with your current Tempo.",
+  "obtainable_in": "Pathfinder"
+}

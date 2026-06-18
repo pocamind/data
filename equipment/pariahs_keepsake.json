@@ -1,0 +1,14 @@
+{
+  "name": "Pariah's Keepsake",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "pariahs_keepsake := 60 ttl",
+  "voi": false,
+  "desc": "You deal +20% extra damage to factions who hate you."
+}

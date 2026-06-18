@@ -1,0 +1,13 @@
+{
+  "name": "Azure Flames",
+  "category": "Flamecharmer",
+  "rarity": "Common",
+  "reqs": "flamecharmer => azure_flames := 40s WLL, 70s FLM",
+  "additional_info": "Increases burn damage by 12.5%. Increases the radius and posture damage of Eruptions. Increases Flame of Denial's duration by 25%.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Many of your flames turn blue, signifying their increased intensity."
+}

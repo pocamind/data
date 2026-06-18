@@ -1,0 +1,12 @@
+{
+  "name": "Ferryman's Curse",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "ferrymans_curse := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage."
+}

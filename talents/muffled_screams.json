@@ -1,0 +1,16 @@
+{
+  "name": "Muffled Screams",
+  "category": "Cutthroat",
+  "rarity": "Common",
+  "reqs": "muffled_screams := 50s AGL",
+  "additional_info": "NPCs have a shortened aggro range from gripping allies in proximity. Defiant Until The End and Last Second Negotiations affect your grip speed less.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions."
+}

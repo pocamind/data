@@ -1,0 +1,22 @@
+{
+  "name": "Warden Ceremonial Sword",
+  "type": "Sword",
+  "rarity": "Rare",
+  "damage": 17,
+  "posture_damage": 4,
+  "range": 7.5,
+  "reqs": "warden_ceremonial_sword := 50r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies."
+}

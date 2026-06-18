@@ -1,0 +1,47 @@
+{
+  "name": "Glacial Arc",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "glacial_arc := 20r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30,
+          "posture_damage": 20
+        },
+        {
+          "level": "L2",
+          "damage": 32.7,
+          "posture_damage": 20
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "An arc of ice."
+}

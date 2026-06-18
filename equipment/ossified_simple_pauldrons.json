@@ -1,0 +1,27 @@
+{
+  "name": "Ossified Simple Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Simple Buff"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "ossified_simple_pauldrons := ()",
+  "voi": false,
+  "desc": "Either they're of low complexity or someone's in need of a punch."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Moving Fortress",
+  "category": "Bastion",
+  "rarity": "Common",
+  "reqs": "moving_fortress := 5s FTD",
+  "additional_info": "Increases your movement speed while blocking by 5%, from -25% movement speed to -20%.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Posture": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Blocking no longer slows you down as much."
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Ice Lance",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "ice_lance := 30r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25,
+          "posture_damage": 4
+        },
+        {
+          "level": "L2",
+          "damage": 30,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Gale Lunge"
+  ],
+  "voi": true,
+  "desc": "Form an ice spear and lunges forward."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Prototype Railblade",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 22,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "prototype_railblade := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.88,
+  "scaling": {
+    "Heavy Weapon": 8.3
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "A prototype weapon devised by the Ignition Union in the hopes of improving their odds against the denizens of the Deep."
+}

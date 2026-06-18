@@ -1,0 +1,13 @@
+{
+  "name": "Versatile",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "versatile := ()",
+  "additional_info": "Reduces the attribute requirements of all equipment and weapon items by 3. This is applied to each requirement individually, meaning you can save upwards of 12 points.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement."
+}

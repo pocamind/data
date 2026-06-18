@@ -1,0 +1,12 @@
+{
+  "name": "Beginner's Luck",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "beginners_luck := ()",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Slightly increase the amount of loot you find in chests."
+}

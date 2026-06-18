@@ -1,0 +1,27 @@
+{
+  "name": "Boltcrusher",
+  "type": "Greathammer",
+  "rarity": "Mythical",
+  "damage": 25,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "boltcrusher := 20r STR, 55r HVY, 80r LTN",
+  "damage_types": [
+    "Blunt",
+    "Thundercall"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.15,
+  "swing_speed": 0.87,
+  "scaling": {
+    "Heavy Weapon": 4.2,
+    "Thundercall": 7
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble & foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."
+}

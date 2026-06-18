@@ -1,0 +1,13 @@
+{
+  "name": "Dragon's Song",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "dragons_song := ()",
+  "additional_info": "Grants +20 Ether on proc. 2 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using a mantra after an uppercut grants ether."
+}

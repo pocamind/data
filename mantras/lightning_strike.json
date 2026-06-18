@@ -1,0 +1,63 @@
+{
+  "name": "Lightning Strike",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_strike := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35,
+          "posture_damage": 22.05
+        },
+        {
+          "level": "L2",
+          "damage": 42,
+          "posture_damage": 22.05
+        },
+        {
+          "level": "L3",
+          "damage": 49,
+          "posture_damage": 22.05
+        },
+        {
+          "level": "L4",
+          "damage": 56,
+          "posture_damage": 22.05
+        },
+        {
+          "level": "L5",
+          "damage": 63,
+          "posture_damage": 22.05
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "A strike of thunder at your desired location."
+}

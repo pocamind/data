@@ -1,0 +1,23 @@
+{
+  "name": "Providence Coat",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Braced Collapse"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "providence_coat := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

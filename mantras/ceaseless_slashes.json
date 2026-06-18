@@ -1,0 +1,56 @@
+{
+  "name": "Ceaseless Slashes",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ceaseless_slashes := 50r LHT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 230,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 245,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 260,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 275,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 290,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "related_talents": [
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together."
+}

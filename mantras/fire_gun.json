@@ -1,0 +1,61 @@
+{
+  "name": "Fire Gun",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "fire_gun := 1r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 6.5,
+          "posture_damage": 1
+        },
+        {
+          "level": "L2",
+          "damage": 8.5,
+          "posture_damage": 1
+        },
+        {
+          "level": "L3",
+          "damage": 10.5,
+          "posture_damage": 1
+        },
+        {
+          "level": "L4",
+          "damage": 12.5,
+          "posture_damage": 1
+        },
+        {
+          "level": "L5",
+          "damage": 14.5,
+          "posture_damage": 1
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Round Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A bullet of flames shot through each hand."
+}

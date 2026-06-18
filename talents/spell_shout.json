@@ -1,0 +1,13 @@
+{
+  "name": "Spell Shout",
+  "category": "Deepwoken",
+  "rarity": "Quest",
+  "reqs": "spell_shout := ()",
+  "additional_info": "The player will say the name of the Mantra they cast in a chat bubble. e.g. casting Fire Blade will make the player say \"Fire Blade!\" Renaming a Mantra will Spell Shout the new Mantra name.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You will now shout your mantra name upon cast"
+}

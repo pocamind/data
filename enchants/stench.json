@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage, this has a 20% chance to proc. On proc, release a cloud of blockable gas that deals damage to targets who stand in it. This deals 1% of your opponent's maximum health per tick, ticking 3 times for 3% total damage. Stench cannot deal more than 10 damage in a singular tick. This has a 40 second cooldown.",
+  "name": "Stench",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximum health (max. 30 damage) if not blocked.",
+  "obtainable_in": "Pathfinder"
+}

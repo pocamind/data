@@ -1,0 +1,19 @@
+{
+  "name": "Gale Enhanced Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": "Gale Enhanced",
+  "variants": [],
+  "talents": [
+    "Way of the Wind"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "gale_enhanced_earrings := 90 ttl",
+  "voi": false,
+  "desc": "Putting these on, you feel as if you are light as a cloud."
+}

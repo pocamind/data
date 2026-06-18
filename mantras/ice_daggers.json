@@ -1,0 +1,60 @@
+{
+  "name": "Ice Daggers",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_daggers := 20r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 3
+        },
+        {
+          "level": "L2",
+          "damage": 18,
+          "posture_damage": 3
+        },
+        {
+          "level": "L3",
+          "damage": 21,
+          "posture_damage": 3
+        },
+        {
+          "level": "L4",
+          "damage": 24,
+          "posture_damage": 3
+        },
+        {
+          "level": "L5",
+          "damage": 27,
+          "posture_damage": 3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Frozen Pin-Cushion"
+  ],
+  "voi": false,
+  "desc": "Form and toss daggers of ice at your aimed opponent."
+}

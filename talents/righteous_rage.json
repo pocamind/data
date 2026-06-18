@@ -1,0 +1,13 @@
+{
+  "name": "Righteous Rage",
+  "category": "Berserker",
+  "rarity": "Memento",
+  "reqs": "righteous_rage := ()",
+  "additional_info": "Temporary Health does not count for this effect.",
+  "count_towards_talent_total": false,
+  "icon": "Teeth",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "[In Berserk State] You deal increased damage the lower your health is."
+}

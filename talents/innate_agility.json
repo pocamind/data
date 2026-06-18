@@ -1,0 +1,12 @@
+{
+  "name": "Innate Agility",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "innate_agility := ()",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You hinge on your instincts to keep you alive, even in battle. Slightly increase your dodge frames."
+}

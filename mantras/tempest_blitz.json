@@ -1,0 +1,51 @@
+{
+  "name": "Tempest Blitz",
+  "attributes": [
+    "Galebreathe",
+    "Thundercall"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "tempest_blitz := 30r LTN, 30r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 18,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 26,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 34,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 42,
+          "posture_damage": 0
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75,
+    "Thundercall": 2.75
+  },
+  "voi": false,
+  "wiki": "",
+  "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick."
+}

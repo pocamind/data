@@ -1,0 +1,17 @@
+{
+  "name": "Steady Footing",
+  "category": "Acrobat",
+  "rarity": "Common",
+  "reqs": "steady_footing := 10s STR, 10s AGL",
+  "additional_info": "Knockback is reduced by 20%. Ice's slide distance effect is removed.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Carry Load": 5,
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You're much more resistant to being pushed around."
+}

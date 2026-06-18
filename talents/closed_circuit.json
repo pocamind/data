@@ -1,0 +1,13 @@
+{
+  "name": "Closed Circuit",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
+  "additional_info": "Adds 5 Thundercall damage with 5 Thundercall scaling to the Overload, gaining 0.025 damage per Thundercall damage. This is a flat value that does not depend on Rod count.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy."
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Restrain",
+  "attributes": [
+    "Oath: Chainwarden"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_chainwarden => restrain := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 33,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Perpetual Wrath"
+  ],
+  "miscellaneous": "Damage increase is dependent on landing subsequent kicks. (+8 per Perpetual Wrath stack, max 55)",
+  "voi": false,
+  "desc": "Deliver a powerful kick that binds your opponent's soul to yours."
+}

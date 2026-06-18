@@ -1,0 +1,98 @@
+{
+  "name": "Blade of Saints",
+  "attributes": [
+    "Oath: Saintsworn"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_saintsworn => blade_of_saints := ()",
+  "voi": false,
+  "desc": "Perform an Attuned attack. This attack will change depending on your current Saint Stance.",
+  "damage": [
+    {
+      "variant": "Flamecharm Stance",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 29.38,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Frostdraw Stance",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 80.93,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Galebreathe Stance",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 42.12,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Shadowcast Stance",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 62.31,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Thundercall Stance",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 38.23,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens"
+  ]
+}

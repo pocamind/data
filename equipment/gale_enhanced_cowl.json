@@ -1,0 +1,24 @@
+{
+  "name": "Gale Enhanced Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Legendary",
+  "set": "Gale Enhanced",
+  "variants": [],
+  "talents": [
+    "Blade Dancer",
+    "Footwork Mastery"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "gale_enhanced_cowl := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

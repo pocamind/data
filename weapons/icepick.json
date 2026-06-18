@@ -1,0 +1,27 @@
+{
+  "name": "Icepick",
+  "type": "Rapier",
+  "rarity": "Rare",
+  "damage": 13,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "icepick := ()",
+  "damage_types": [
+    "Slash",
+    "Frostdraw"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Light Weapon": 7
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "It's almost as if it grew straight out of the ice, but that couldn't be possible, could it?",
+  "talents": [
+    "Shatter"
+  ]
+}

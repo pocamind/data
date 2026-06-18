@@ -1,0 +1,60 @@
+{
+  "name": "Flare Volley",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flare_volley := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 18,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 21,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 24,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 27,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 30,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Conjure up to 3 fireballs to volley at your enemies."
+}

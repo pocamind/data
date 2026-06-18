@@ -1,0 +1,43 @@
+{
+  "name": "Vicious Descent",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "vicious_descent := 20r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 18.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L2",
+          "damage": 26,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Leap into the air and slam down with vengeance."
+}

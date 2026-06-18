@@ -1,0 +1,36 @@
+{
+  "name": "Fake Strike",
+  "attributes": [
+    "Oath: Jetstriker"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_jetstriker => fake_strike := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "miscellaneous": "Deals 20% more damage if used at max Momentum.",
+  "voi": false,
+  "desc": "Trick your opponent and quickly go behind them."
+}

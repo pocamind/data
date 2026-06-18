@@ -1,0 +1,13 @@
+{
+  "name": "Natural Healing",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "natural_healing := ()",
+  "additional_info": "\"Plants\" refers to any plant-based food item.",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Every time you eat plants, heal 2% of your health."
+}

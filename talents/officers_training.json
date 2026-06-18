@@ -1,0 +1,12 @@
+{
+  "name": "Officer's Training",
+  "category": "Dread Imperium",
+  "rarity": "Faction",
+  "reqs": "officers_training := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While using a Sword or Rapier, take 30% less posture damage from criticals."
+}

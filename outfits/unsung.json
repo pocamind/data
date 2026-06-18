@@ -1,0 +1,21 @@
+{
+  "pants_id": "10483068682",
+  "shirt_id": "10483059536",
+  "mats": {
+    "Cloth": 5
+  },
+  "name": "Unsung",
+  "reqs": "drifter => unsung := ()",
+  "notes": 0,
+  "talent": null,
+  "category": "Unique",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

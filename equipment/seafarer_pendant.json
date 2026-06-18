@@ -1,0 +1,16 @@
+{
+  "name": "Seafarer Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "seafarer_pendant := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

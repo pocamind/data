@@ -1,0 +1,14 @@
+{
+  "name": "Ring of Curses",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "ring_of_curses := 165 ttl",
+  "voi": false,
+  "desc": "You come across mortal encounters more frequently."
+}

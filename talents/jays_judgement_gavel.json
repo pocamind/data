@@ -1,0 +1,13 @@
+{
+  "name": "Jay's Judgement Gavel",
+  "category": "Saint Jay",
+  "rarity": "Memento",
+  "reqs": "jays_judgement_gavel := ()",
+  "additional_info": "Landing your critical on a frozen or bottom frozen enemy will deal extra damage and heal you.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Breaking a frozen enemy free with your Critical saps their lifeforce."
+}

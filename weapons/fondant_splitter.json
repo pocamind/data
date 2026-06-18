@@ -1,0 +1,23 @@
+{
+  "name": "Fondant Splitter",
+  "type": "Sword",
+  "rarity": "Relic",
+  "damage": 15,
+  "posture_damage": 5,
+  "range": 6,
+  "reqs": "fondant_splitter := 65r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 8
+  },
+  "penetration": 0.05,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Is this safe to eat? We'll see..."
+}

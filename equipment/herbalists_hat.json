@@ -1,0 +1,19 @@
+{
+  "name": "Herbalist's Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Herbivore",
+    "Iron Gut"
+  ],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "herbalists_hat := ()",
+  "voi": false,
+  "desc": "..."
+}

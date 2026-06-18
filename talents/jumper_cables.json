@@ -1,0 +1,13 @@
+{
+  "name": "Jumper Cables",
+  "category": "Static Weaver",
+  "rarity": "Common",
+  "reqs": "static_link => jumper_cables := 20s FTD, 40s LTN",
+  "additional_info": "Whenever you would get knocked but have a tether active, steal HP from the target to survive the hit. This has a 4 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Being made Unconscious with an active tether allows you to steal health from a tethered target and not be made Unconscious."
+}

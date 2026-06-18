@@ -1,0 +1,13 @@
+{
+  "name": "Family Recipe",
+  "category": "Saboteur",
+  "rarity": "Quest",
+  "reqs": "family_recipe := ()",
+  "additional_info": "Bombs are crafted with 2 Iron and 1 Coal. Pressing E while holding a bomb will throw it, while pressing M1 while holding a bomb will drop it at your feet. Bombs have a 5 second cooldown on throw. Bombs do not deal self damage. Bomb damage scales on your Intelligence attribute, dealing 10 damage at 0 Intelligence and scaling up to 45.5 damage at 100 Intelligence. Bombs deal typeless damage, ignoring armor.",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now craft bombs at a crafting bench."
+}

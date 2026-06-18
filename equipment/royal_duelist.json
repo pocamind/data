@@ -1,0 +1,23 @@
+{
+  "name": "Royal Duelist",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Dark",
+    "Faded",
+    "Red",
+    "Rose",
+    "Stained",
+    "Purple"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "royal_duelist := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Soulwrought Spear",
+  "type": "Spear",
+  "rarity": "Unknown",
+  "damage": 22.5,
+  "posture_damage": 5,
+  "range": 10,
+  "reqs": "soulwrought_spear := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 9
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A weapon brought out from your soul."
+}

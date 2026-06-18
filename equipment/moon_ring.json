@@ -1,0 +1,16 @@
+{
+  "name": "Moon Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "moon_ring := ()",
+  "voi": false,
+  "desc": "A deceptive ring that conceals one's true age. Greatly sought after by vain misers."
+}

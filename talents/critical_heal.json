@@ -1,0 +1,12 @@
+{
+  "name": "Critical Heal",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "critical_heal := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Every time you heal, you have a chance to proc a Critical Heal, healing you 30 health. [5 second CD]"
+}

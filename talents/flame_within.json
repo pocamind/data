@@ -1,0 +1,13 @@
+{
+  "name": "Flame Within",
+  "category": "Amoran Seeker",
+  "rarity": "Common",
+  "reqs": "flame_within := 25s FLM",
+  "additional_info": "8 second cooldown on cast. The self burn can only be dispelled by using the tool again or through the rain/sea.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage."
+}

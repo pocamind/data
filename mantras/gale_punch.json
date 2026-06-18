@@ -1,0 +1,62 @@
+{
+  "name": "Gale Punch",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "gale_punch := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 37.5,
+          "posture_damage": 19
+        },
+        {
+          "level": "L2",
+          "damage": 41.25,
+          "posture_damage": 19
+        },
+        {
+          "level": "L3",
+          "damage": 45,
+          "posture_damage": 19
+        },
+        {
+          "level": "L4",
+          "damage": 48.75,
+          "posture_damage": 19
+        },
+        {
+          "level": "L5",
+          "damage": 52.5,
+          "posture_damage": 19
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Vacuum Punch"
+  ],
+  "voi": false,
+  "desc": "Form a punch of wind in your fist and release it."
+}

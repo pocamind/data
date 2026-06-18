@@ -1,0 +1,21 @@
+{
+  "name": "Evanspear War Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Evanspear War",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "evanspear_war_boots := 165 ttl",
+  "voi": false,
+  "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash."
+}

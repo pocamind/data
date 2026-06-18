@@ -1,0 +1,97 @@
+{
+  "name": "Lightning Blade",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "lightning_blade := 1r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 26.25,
+          "posture_damage": 11
+        },
+        {
+          "level": "L2",
+          "damage": 30,
+          "posture_damage": 11
+        },
+        {
+          "level": "L3",
+          "damage": 33.75,
+          "posture_damage": 11
+        },
+        {
+          "level": "L4",
+          "damage": 37.5,
+          "posture_damage": 11
+        },
+        {
+          "level": "L5",
+          "damage": 41.25,
+          "posture_damage": 11
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Magnet Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35,
+          "posture_damage": 11
+        },
+        {
+          "level": "L2",
+          "damage": 40,
+          "posture_damage": 11
+        },
+        {
+          "level": "L3",
+          "damage": 45,
+          "posture_damage": 11
+        },
+        {
+          "level": "L4",
+          "damage": 50,
+          "posture_damage": 11
+        },
+        {
+          "level": "L5",
+          "damage": 55,
+          "posture_damage": 11
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "desc": "Arcing blades of electricity."
+}

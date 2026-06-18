@@ -1,0 +1,56 @@
+{
+  "name": "Rising Thunder",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "rising_thunder := 50r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 41.3,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 47.6,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 53.9,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 60.2,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Rise up with your opponent and crash down as a bolt of lightning."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Knuckle Guard",
+  "category": "Bulwark",
+  "rarity": "Common",
+  "reqs": "knuckle_guard := 25s STR, 55s FTD",
+  "additional_info": "Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Hitting Dazed enemies grants you 10% posture resistance for 15s."
+}

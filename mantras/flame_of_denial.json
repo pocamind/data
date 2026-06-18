@@ -1,0 +1,57 @@
+{
+  "name": "Flame of Denial",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_of_denial := 1r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Denial Repulse"
+  ],
+  "miscellaneous": "Grants one instance of knock prevention for 25 seconds. If a knock is prevented, gain healing scaling on Mantra level. Extinguishes burn if at low health.",
+  "voi": false,
+  "desc": "Undying flame."
+}

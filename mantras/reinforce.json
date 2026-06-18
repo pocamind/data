@@ -1,0 +1,58 @@
+{
+  "name": "Reinforce",
+  "attributes": [
+    "Fortitude"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "reinforce := 50r FTD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "shared_cooldowns": [
+    "Iceberg"
+  ],
+  "related_talents": [
+    "Grand Support",
+    "Lord's Tithe"
+  ],
+  "miscellaneous": "The damage buff will be halved if you fail to buff another player. Press block during the Mantra windup to buff non-allies in range.",
+  "voi": false,
+  "desc": "Buff those around you with extra defense and damage."
+}

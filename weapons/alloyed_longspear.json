@@ -1,0 +1,23 @@
+{
+  "name": "Alloyed Longspear",
+  "type": "Spear",
+  "rarity": "Legendary",
+  "damage": 20,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "alloyed_longspear := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 6.5
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Explosive Rounds",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "explosive_rounds := ()",
+  "count_towards_talent_total": false,
+  "icon": "Bullet",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Every bullet that lands now detonates on your opponent."
+}

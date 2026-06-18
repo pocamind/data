@@ -1,0 +1,27 @@
+{
+  "name": "Alloyed Messer",
+  "type": "Sword",
+  "rarity": "Legendary",
+  "damage": 21,
+  "posture_damage": 7,
+  "range": 7.5,
+  "reqs": "alloyed_messer := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "chip_damage": 0.15,
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Considered by many to be an overgrown kitchen knife, the Messer is a favourite of rangers and beast hunters the world over.",
+  "talents": [
+    "Finishing Slay"
+  ]
+}

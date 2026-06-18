@@ -1,0 +1,16 @@
+{
+  "name": "Ring of Wisps",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "ring_of_wisps := ()",
+  "voi": false,
+  "desc": "These essence of the soul gathers around the gemstone of this ring, granting additional strength to bound wisps."
+}

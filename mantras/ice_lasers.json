@@ -1,0 +1,61 @@
+{
+  "name": "Ice Lasers",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "ice_lasers := 40r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 8,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 11,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 14,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 17,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
+  "voi": false,
+  "desc": "Swift bolts of frozen air."
+}

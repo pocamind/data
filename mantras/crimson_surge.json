@@ -1,0 +1,58 @@
+{
+  "name": "Crimson Surge",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "crimson_surge := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 30,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 36,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 42,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Slash upwards and launch slashes of blood."
+}

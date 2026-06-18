@@ -1,0 +1,98 @@
+{
+  "name": "Firing Line",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "firing_line := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 5.2,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 5.85,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 6.5,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 7.15,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 7.8,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 52,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 53.3,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 54.6,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 55.9,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 57.2,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Metal Turret"
+  ],
+  "voi": false,
+  "desc": "Create a firing line of metal to light up your target."
+}

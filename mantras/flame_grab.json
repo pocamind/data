@@ -1,0 +1,64 @@
+{
+  "name": "Flame Grab",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_grab := 1r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 20,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 25,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 30,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 35,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "shared_cooldowns": [
+    "Frost Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug",
+    "Throw"
+  ],
+  "voi": false,
+  "desc": "Jet forwards with flames and slam anyone you catch in your clutches."
+}

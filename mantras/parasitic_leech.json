@@ -1,0 +1,30 @@
+{
+  "name": "Parasitic Leech",
+  "attributes": [
+    "Oath: Linkstrider"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_linkstrider => parasitic_leech := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Activate when linked to an enemy to leech their own health for a short duration."
+}

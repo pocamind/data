@@ -1,0 +1,13 @@
+{
+  "name": "Pressure Detonation",
+  "category": "Cosmic Winds",
+  "rarity": "Common",
+  "reqs": "pressure_detonation := 40s SDW, 60s WND",
+  "additional_info": "If the user has the Apparitions Talent, this can proc apparitions by inflicting suffocation.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo."
+}

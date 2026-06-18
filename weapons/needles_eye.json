@@ -1,0 +1,23 @@
+{
+  "name": "Needle's Eye",
+  "type": "Rapier",
+  "rarity": "Legendary",
+  "damage": 16.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "needles_eye := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1.05,
+  "scaling": {
+    "Light Weapon": 8.5
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after."
+}

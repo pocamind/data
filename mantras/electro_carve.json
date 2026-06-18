@@ -1,0 +1,134 @@
+{
+  "name": "Electro Carve",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "electro_carve := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 56,
+          "posture_damage": 63
+        },
+        {
+          "level": "L2",
+          "damage": 59.5,
+          "posture_damage": 63
+        },
+        {
+          "level": "L3",
+          "damage": 63,
+          "posture_damage": 63
+        },
+        {
+          "level": "L4",
+          "damage": 66.5,
+          "posture_damage": 63
+        },
+        {
+          "level": "L5",
+          "damage": 70,
+          "posture_damage": 63
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 56,
+          "posture_damage": 7
+        },
+        {
+          "level": "L2",
+          "damage": 59.5,
+          "posture_damage": 7
+        },
+        {
+          "level": "L3",
+          "damage": 63,
+          "posture_damage": 7
+        },
+        {
+          "level": "L4",
+          "damage": 66.5,
+          "posture_damage": 7
+        },
+        {
+          "level": "L5",
+          "damage": 70,
+          "posture_damage": 7
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Magnet Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 59,
+          "posture_damage": 63
+        },
+        {
+          "level": "L2",
+          "damage": 62.5,
+          "posture_damage": 63
+        },
+        {
+          "level": "L3",
+          "damage": 66,
+          "posture_damage": 63
+        },
+        {
+          "level": "L4",
+          "damage": 69.5,
+          "posture_damage": 63
+        },
+        {
+          "level": "L5",
+          "damage": 73,
+          "posture_damage": 63
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Produce a highly potent field of electromagnetism, shocking all inside."
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Wind Gun",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "wind_gun := 30r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 36,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 40,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 44,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25.6,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 28.8,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 32,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 35.2,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 38.4,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32.64,
+          "posture_damage": 6.4
+        },
+        {
+          "level": "L2",
+          "damage": 36.72,
+          "posture_damage": 6.4
+        },
+        {
+          "level": "L3",
+          "damage": 40.8,
+          "posture_damage": 6.4
+        },
+        {
+          "level": "L4",
+          "damage": 44.88,
+          "posture_damage": 6.4
+        },
+        {
+          "level": "L5",
+          "damage": 48.96,
+          "posture_damage": 6.4
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast and Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 48.96,
+          "posture_damage": 72
+        },
+        {
+          "level": "L2",
+          "damage": 55.08,
+          "posture_damage": 72
+        },
+        {
+          "level": "L3",
+          "damage": 61.2,
+          "posture_damage": 72
+        },
+        {
+          "level": "L4",
+          "damage": 67.32,
+          "posture_damage": 72
+        },
+        {
+          "level": "L5",
+          "damage": 73.44,
+          "posture_damage": 72
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A powerful wind blast."
+}

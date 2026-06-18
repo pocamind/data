@@ -1,0 +1,30 @@
+{
+  "name": "Glorious Charge",
+  "attributes": [
+    "Origin: Authority Ensign"
+  ],
+  "category": "Support",
+  "type": "Origin",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "glorious_charge := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mayhem",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => mayhem := ()",
+  "additional_info": "16s CD per weapon type, 6s CD if feinted. Movesets and damage differ depending on weapon type. Gains the ability to autogrip if it is enhanced by Flow State.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Initiate a special dash attack by pressing M1 during the start of your dodge."
+}

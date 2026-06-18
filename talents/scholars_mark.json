@@ -1,0 +1,13 @@
+{
+  "name": "Scholar's Mark",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "scholars_mark := ()",
+  "additional_info": "You can now use Capra Marks to buff yourself.",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with the effect as well."
+}

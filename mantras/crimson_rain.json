@@ -1,0 +1,61 @@
+{
+  "name": "Crimson Rain",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "crimson_rain := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 14.25,
+          "posture_damage": 12
+        },
+        {
+          "level": "L2",
+          "damage": 16.5,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 18.75,
+          "posture_damage": 12
+        },
+        {
+          "level": "L4",
+          "damage": 21,
+          "posture_damage": 12
+        },
+        {
+          "level": "L5",
+          "damage": 46.5,
+          "posture_damage": 24
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Release blood daggers. Recast to call them."
+}

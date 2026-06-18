@@ -1,0 +1,25 @@
+{
+  "name": "Dark Pearls",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Inky Pearls"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": -2,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "dark_pearls := 240 ttl, 40 sdw",
+  "voi": false,
+  "desc": "A daring statement to the upper class, these earrings contain pearls taken from the clutches of enormous, vicious clams native to the southern seas before the Submergence. Their rarity has only deepened with time; not only were they perilously difficult to obtain, but the very creatures that produced them are now all but extinct."
+}

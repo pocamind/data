@@ -1,0 +1,57 @@
+{
+  "name": "Updraft",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "updraft := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32.4,
+          "posture_damage": 21
+        },
+        {
+          "level": "L2",
+          "damage": 35.3,
+          "posture_damage": 21
+        },
+        {
+          "level": "L3",
+          "damage": 38.3,
+          "posture_damage": 21
+        },
+        {
+          "level": "L4",
+          "damage": 41.2,
+          "posture_damage": 21
+        },
+        {
+          "level": "L5",
+          "damage": 44.2,
+          "posture_damage": 21
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "A lifting torrent of wind."
+}

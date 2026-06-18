@@ -1,0 +1,61 @@
+{
+  "name": "Rapid Slashes",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "rapid_slashes := 30r LHT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 16,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 18.67,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 21.33,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 24,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 26.67,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "related_talents": [
+    "Assassin's Strike",
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Rush down your opponent cutting them apart."
+}

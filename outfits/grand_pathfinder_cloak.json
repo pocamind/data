@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Gold": 5,
+    "Iron": 6,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Erisore": 5,
+    "Irithine": 5,
+    "Dark Feather": 2
+  },
+  "name": "Grand Pathfinder Cloak",
+  "reqs": "grand_pathfinder_cloak := 165r TTL",
+  "notes": 150,
+  "talent": "Legendary",
+  "category": "Expert",
+  "pants_id": "9639386496",
+  "shirt_id": "9639320443",
+  "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 40
+  },
+  "desc": "A long coat hiding reptilian-like armored scales beneath. A pathfinder's pride."
+}

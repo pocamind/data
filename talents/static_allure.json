@@ -1,0 +1,13 @@
+{
+  "name": "Static Allure",
+  "category": "Static Weaver",
+  "rarity": "Common",
+  "reqs": "static_link => static_allure := 15s INT, 50s LTN",
+  "additional_info": "Instantly procs when you create a new Static Link. The extra Link duration only applies to the Static Link that procced the magnetization effect.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds."
+}

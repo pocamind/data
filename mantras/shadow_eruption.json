@@ -1,0 +1,60 @@
+{
+  "name": "Shadow Eruption",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shadow_eruption := 20r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 21.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 23,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 24.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 26,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "related_talents": [
+    "Overwhelming Drain"
+  ],
+  "voi": false,
+  "desc": "Form a shockwave of darkness."
+}

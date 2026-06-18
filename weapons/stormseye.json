@@ -1,0 +1,22 @@
+{
+  "name": "Stormseye",
+  "type": "Rifle",
+  "rarity": "Mythical",
+  "damage": 19.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "stormseye := 40r MED, 75r LTN",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 3,
+    "Thundercall": 6
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval."
+}

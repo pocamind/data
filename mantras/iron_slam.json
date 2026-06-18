@@ -1,0 +1,57 @@
+{
+  "name": "Iron Slam",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "iron_slam := 50r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32.5,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 37.05,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 41.6,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 46.15,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 50.7,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 5,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "voi": false,
+  "desc": "Conjure a giant rod of metal and slam it down."
+}

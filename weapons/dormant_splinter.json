@@ -1,0 +1,23 @@
+{
+  "name": "Dormant Splinter",
+  "type": "Sword",
+  "rarity": "Relic",
+  "damage": 5,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "dormant_splinter := 5r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "This Umbrite blade is unlike anything you've encountered. Marked and damaged by years, it remains both fluid and rigid in a way that defies understanding. When exposed to the other weapons in your collection, tiny fibers latch onto the surface, quivering before returning to their original state, as if the blade itself were tasting, searching for a worthy match."
+}

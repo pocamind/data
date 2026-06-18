@@ -1,0 +1,13 @@
+{
+  "name": "Gruesome Harvest",
+  "category": "Septicemia",
+  "rarity": "Advanced",
+  "reqs": "gruesome_harvest := 85s BLD",
+  "additional_info": "Grants 15 flat temporary health on proc. Has a 2 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health."
+}

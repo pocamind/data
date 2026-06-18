@@ -1,0 +1,16 @@
+{
+  "name": "Observation",
+  "category": "Leaf in the Wind",
+  "rarity": "Rare",
+  "reqs": "observation := 20s AGL",
+  "additional_info": "Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "Dodge frames are larger if you cancel your roll immediately."
+}

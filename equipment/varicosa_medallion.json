@@ -1,0 +1,22 @@
+{
+  "name": "Varicosa Medallion",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "varicosa_medallion := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

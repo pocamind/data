@@ -1,0 +1,13 @@
+{
+  "name": "Analyze",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "analyze := ()",
+  "additional_info": "45 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Marking enemies with your Callout analyzes them, making them take 20% more damage from all sources for 10 seconds."
+}

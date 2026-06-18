@@ -1,0 +1,12 @@
+{
+  "name": "Captain Etrea",
+  "category": "Navaen Nomad",
+  "rarity": "Common",
+  "reqs": "moving_fortress => captain_etrea := 20s FTD, 30s STR",
+  "count_towards_talent_total": true,
+  "icon": "Shield",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Fists Moving while blocking with a shield no longer slows you down."
+}

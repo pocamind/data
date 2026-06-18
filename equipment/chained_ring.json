@@ -1,0 +1,16 @@
+{
+  "name": "Chained Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "chained_ring := 60 ttl",
+  "voi": false,
+  "desc": "Reduces incoming knockback but removes your ability to Air Dash. Landing an uppercut with Chained Ring now disables your opponents' air dashes for 5 seconds and briefly makes them unable to roll."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Everchanging Aegis",
+  "category": "Adept Caster",
+  "rarity": "Rare",
+  "reqs": "everchanging_aegis := 25s INT",
+  "additional_info": "Your Aegis type can swap on block, dodge, and parry.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element."
+}

@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Iron": 8,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Blue Gem": 1,
+    "Vibrant Gem": 5,
+    "Frigid Prism": 5
+  },
+  "name": "Icebringer's Vestments",
+  "reqs": "icebringers_vestments := 45r ICE, 240r TTL",
+  "notes": 1000,
+  "talent": "Refreeze, Orbital Ice",
+  "category": "Unique",
+  "pants_id": "16826351109",
+  "shirt_id": "16826348060",
+  "durability": 2600,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.3,
+    "Ice Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "desc": "An elegant outfit favoured by expert Frostdrawers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture."
+}

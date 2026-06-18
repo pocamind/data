@@ -1,0 +1,12 @@
+{
+  "name": "Momentum",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "blademaster => momentum := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.",
+  "icon": "Sword",
+  "roll2able": false
+}

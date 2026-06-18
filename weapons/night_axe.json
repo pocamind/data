@@ -1,0 +1,25 @@
+{
+  "name": "Night Axe",
+  "type": "Greataxe",
+  "rarity": "Legendary",
+  "damage": 23,
+  "posture_damage": 10,
+  "range": 8.5,
+  "reqs": "night_axe := 80r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1,
+  "endlag": 0.1,
+  "swing_speed": 0.77,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "chip_damage": 0.8,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The Night Axe, a weapon of little contemporary renown, was forged by the ancient folk of Minityrsa and wielded by Ekrim of the Rouhlx Dyad, who came to be known as the Third's Eclipse. Paired with its luminous counterpart, Daybreak, the Night Axe cast long shadows of fear across the old settlements. Its history is whispered in tales of unstoppable might and the haunting interplay of night and day. Shaky accounts speak of the pair meeting a grim fate at the hands of a power they once worshipped, sealing their legend in shade."
+}

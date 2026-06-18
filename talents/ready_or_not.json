@@ -1,0 +1,12 @@
+{
+  "name": "Ready or Not",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "ready_or_not := 20s FTD",
+  "count_towards_talent_total": true,
+  "icon": "Shield",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The first attack to hit you while out of combat has its damage cut in half."
+}

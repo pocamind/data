@@ -1,0 +1,13 @@
+{
+  "name": "Frozen Pin-Cushion",
+  "category": "Ice Age",
+  "rarity": "Rare",
+  "reqs": "frozen_pin_cushion := 60s ICE",
+  "additional_info": "Instantly detonates crystals if you have Crystallization Path.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Ice Daggers now freeze opponents."
+}

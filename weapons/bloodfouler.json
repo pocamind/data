@@ -1,0 +1,28 @@
+{
+  "name": "Bloodfouler",
+  "type": "Greatsword",
+  "rarity": "Unique",
+  "damage": 19,
+  "posture_damage": 8.5,
+  "range": 9.5,
+  "reqs": "bloodfouler := ()",
+  "damage_types": [
+    "Slash",
+    "Bloodrend",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.86,
+  "scaling": {
+    "Heavy Weapon": 5,
+    "Bloodrend": 4
+  },
+  "bleed_damage": 2.85,
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A deep crimson odachi, commissioned and forged for a prophet-in-training, then relinquished in later years. Marked by its maker's seal, a sinister vow seeps through its scarlet fibers. Its jagged edge cleaves through foes with unsettling ease, drinking deep of their blood to empower its wielder's divine purpose. When your fingers graze its serrated edge, horrors unlike any you've known flicker through your mind, small glimpses of something vast and unknowable. The visions vanish before you can grasp their meaning, leaving only the question.. are they echoes of the past, or omens of what's to come?"
+}

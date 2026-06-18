@@ -1,0 +1,13 @@
+{
+  "name": "Pleeksty's Will",
+  "category": "Miscellaneous",
+  "rarity": "Quest",
+  "reqs": "pleekstys_will := 20s FLM",
+  "additional_info": "Consuming Gale Stones, Heartstars, Dying Embers, Spark Glands, and Frigid Prisms gives significantly more Ether.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You gain significantly more ether from consuming elemental ingredients."
+}

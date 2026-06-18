@@ -1,0 +1,21 @@
+{
+  "name": "Death's-Head Necktie",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "deaths_head_necktie := ()",
+  "voi": false,
+  "desc": "You may think this world is a dream come true... but you're wrong.\n[*Note: Only obtainable through Goodie Bags.]"
+}

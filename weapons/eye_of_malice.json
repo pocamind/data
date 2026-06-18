@@ -1,0 +1,24 @@
+{
+  "name": "Eye of Malice",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 20,
+  "posture_damage": 4,
+  "range": 9,
+  "reqs": "eye_of_malice := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.95,
+  "scaling": {
+    "Medium Weapon": 7.7
+  },
+  "chip_damage": 0.15,
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Fashioned from the remnants of Caeranthil’s Doom, the blade undulates like a living thing, lurching and clawing at your foes from afar. The Submergence of the Southern Luminant was not solely perpetrated by the Horror that plunged Celtor into the Depths below, but by countless other smaller tragedies drowned out by the vastness of calamity. Of these, the leviathan known as the Doom of Caeranthil, is named for the land it too dragged below. In many respects, knowledge of Caeranthil only persists within the lens of nightmares that consumed it. The culture, the food, the laughter, the in-jokes, the petty disputes, the fashions they styled themselves after… How can we experience these things if there’s no one left to remember them?"
+}

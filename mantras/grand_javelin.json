@@ -1,0 +1,94 @@
+{
+  "name": "Grand Javelin",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "grand_javelin := 30r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10.2,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 18.7,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 27.2,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 35.7,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 44.2,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10.2,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 18.7,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 27.2,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 35.7,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 44.2,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "related_talents": [
+    "Grand Skewer"
+  ],
+  "voi": false,
+  "desc": "A javelin made out of lightning."
+}

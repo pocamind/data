@@ -1,0 +1,63 @@
+{
+  "name": "Flame Ballista",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "flame_ballista := 50r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 82,
+          "posture_damage": 14
+        },
+        {
+          "level": "L2",
+          "damage": 85.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L3",
+          "damage": 89,
+          "posture_damage": 14
+        },
+        {
+          "level": "L4",
+          "damage": 92.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L5",
+          "damage": 96,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "voi": false,
+  "desc": "Conjure a flaming arrow and fire it at your target."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Etrean Siege Cuirass",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Etrean Siege",
+  "variants": [],
+  "talents": [
+    "Battle Tendency"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "etrean_siege_cuirass := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

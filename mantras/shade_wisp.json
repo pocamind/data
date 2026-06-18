@@ -1,0 +1,55 @@
+{
+  "name": "Shade Wisp",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shade_wisp := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Obscures your character and restores Tempo on proc.",
+  "voi": false,
+  "desc": "Summon a servant of Shade"
+}

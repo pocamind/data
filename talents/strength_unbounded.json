@@ -1,0 +1,13 @@
+{
+  "name": "Strength Unbounded",
+  "category": "One Eyed King",
+  "rarity": "Common",
+  "reqs": "strength_unbounded := 75s STR",
+  "additional_info": "Removes the 75 investment cap on the Strength Attribute. The stat requirements to obtain this Talent will be increased to 77 or 78 if your Aspect has increased Strength on spawn, though this limitation will be removed if you have the Multifaceted Echo Unlock. The quest requirement for this Talent will be removed if you've obtained it previously on your account.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your Strength to its fullest."
+}

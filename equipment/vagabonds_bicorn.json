@@ -1,0 +1,21 @@
+{
+  "name": "Vagabond's Bicorn",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "vagabonds_bicorn := ()",
+  "voi": false,
+  "desc": "..."
+}

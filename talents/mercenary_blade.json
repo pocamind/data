@@ -1,0 +1,12 @@
+{
+  "name": "Mercenary Blade",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "mercenarys_hood => mercenary_blade := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "For every 10% stealth you have, deal 1 extra damage on all sources of damage.",
+  "icon": "Sword",
+  "roll2able": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Chemistry Kit",
+  "category": "Alchemist",
+  "rarity": "Common",
+  "reqs": "chemistry_kit := 25s INT",
+  "count_towards_talent_total": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You no longer drop potions on death. You have a 25% chance to brew an extra potion.",
+  "icon": "Potion",
+  "roll2able": true
+}

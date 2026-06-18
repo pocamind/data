@@ -1,0 +1,14 @@
+{
+  "name": "Ring of Pestilence",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "ring_of_pestilence := ()",
+  "voi": false,
+  "desc": "Your weapon applies 50% anti-heal for 5s."
+}

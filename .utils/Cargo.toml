@@ -1,0 +1,3 @@
+[workspace]
+members = ["validate", "transform"]
+resolver = "3"

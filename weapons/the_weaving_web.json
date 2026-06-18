@@ -1,0 +1,23 @@
+{
+  "name": "The Weaving Web",
+  "type": "Spear",
+  "rarity": "Legendary",
+  "damage": 20,
+  "posture_damage": 7,
+  "range": 8.5,
+  "reqs": "the_weaving_web := 40r CHA, 60r MED",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 5.5,
+    "Charisma": 1
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Aww, look at the little guy though!..."
+}

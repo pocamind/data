@@ -1,0 +1,13 @@
+{
+  "name": "Art of the Deal",
+  "category": "Merchant",
+  "rarity": "Equipment",
+  "reqs": "art_of_the_deal := ()",
+  "additional_info": "Reduces the purchase price of items by 10%.",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your rapport with merchants gives you lower prices!"
+}

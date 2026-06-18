@@ -1,0 +1,12 @@
+{
+  "name": "Smoldering Touch",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "smoldering_touch := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Guardbreaking your opponent sets them on fire."
+}

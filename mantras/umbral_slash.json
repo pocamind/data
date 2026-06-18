@@ -1,0 +1,53 @@
+{
+  "name": "Umbral Slash",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "umbral_slash := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 9
+        },
+        {
+          "level": "L2",
+          "damage": 24,
+          "posture_damage": 9
+        },
+        {
+          "level": "L3",
+          "damage": 28,
+          "posture_damage": 9
+        },
+        {
+          "level": "L4",
+          "damage": 32,
+          "posture_damage": 9
+        },
+        {
+          "level": "L5",
+          "damage": 36,
+          "posture_damage": 9
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "voi": false,
+  "desc": "A swift slash channelled with foul energy."
+}

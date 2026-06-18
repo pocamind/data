@@ -1,0 +1,53 @@
+{
+  "name": "Metal Gatling",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "metal_gatling := 50r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 38.5,
+          "posture_damage": 10.5
+        },
+        {
+          "level": "L2",
+          "damage": 45.5,
+          "posture_damage": 10.5
+        },
+        {
+          "level": "L3",
+          "damage": 52.5,
+          "posture_damage": 10.5
+        },
+        {
+          "level": "L4",
+          "damage": 59.5,
+          "posture_damage": 10.5
+        },
+        {
+          "level": "L5",
+          "damage": 66.5,
+          "posture_damage": 10.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "A deadly rush of several metallic rods."
+}

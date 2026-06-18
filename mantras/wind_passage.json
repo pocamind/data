@@ -1,0 +1,60 @@
+{
+  "name": "Wind Passage",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "wind_passage := 50r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 18.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 27.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 36.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 45.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 54.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rush of wind"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Burning Puppets",
+  "category": "Twisted Puppets",
+  "rarity": "Common",
+  "reqs": "wraith_path_twisted_puppets => burning_puppets := 40s FLM, 40s SDW",
+  "additional_info": "Grants your Puppets 5 Flameharm scaling, increasing their damage by 0.1 per Flamecharm investment. Your Puppets now apply 'Puppet Burn', allowing you to create more Puppets. Despite what the Talent description states, your Puppets don't proc any Flamecharm Talents.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your puppets can now inflict burn and fire-based Talents when they explode."
+}

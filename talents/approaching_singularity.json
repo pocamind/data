@@ -1,0 +1,13 @@
+{
+  "name": "Approaching Singularity",
+  "category": "All-Knowing",
+  "rarity": "Common",
+  "reqs": "approaching_singularity := 80s INT",
+  "additional_info": "Gives 0.1% Mantra PEN per point in Intelligence.",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You now gain +1% Mantra PEN for every 10 point of Intelligence."
+}

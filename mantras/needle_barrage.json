@@ -1,0 +1,56 @@
+{
+  "name": "Needle Barrage",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "needle_barrage := 1r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 26,
+          "posture_damage": 9
+        },
+        {
+          "level": "L2",
+          "damage": 29,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 32,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 35,
+          "posture_damage": 18
+        },
+        {
+          "level": "L5",
+          "damage": 38,
+          "posture_damage": 21
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A barrage of metal rods."
+}

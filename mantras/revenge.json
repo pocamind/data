@@ -1,0 +1,78 @@
+{
+  "name": "Revenge",
+  "attributes": [
+    "Agility"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "revenge := 5r AGL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15.6,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 16.9,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 18.25,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 19.5,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 20.8,
+          "posture_damage": 5
+        },
+        {
+          "level": "L6",
+          "damage": 28.475,
+          "posture_damage": 0
+        },
+        {
+          "level": "L7",
+          "damage": 30.15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L8",
+          "damage": 31.825,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Agility": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "related_talents": [
+    "Crippling Comeuppance",
+    "Pursuit",
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Deals increased damage if you are below 50% health, scaling with the amount of health lost. Caps at 50 damage.",
+  "voi": false,
+  "desc": "A vengeful rush. Deals additional damage the lower your health is below 50%."
+}

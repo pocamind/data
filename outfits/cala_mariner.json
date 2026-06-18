@@ -1,0 +1,29 @@
+{
+  "mats": {
+    "Cloth": 3,
+    "Fiber": 4,
+    "Odd Tentacle": 5,
+    "Nautilodaunt Beak": 1,
+    "Blue Gem": 1,
+    "Vibrant Gem": 10
+  },
+  "name": "Cala-Mariner",
+  "reqs": "cala_mariner := 5r WLL, 240r TTL",
+  "notes": 1000,
+  "talent": "Tidal Shock",
+  "category": "Master",
+  "pants_id": "73865346210922",
+  "shirt_id": "111462203380466",
+  "durability": 2200,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.35,
+    "Ice Resistance": 0.3,
+    "Blood Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 45,
+    "Extra Stealth": 0
+  },
+  "desc": "The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way."
+}

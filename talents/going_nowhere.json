@@ -1,0 +1,15 @@
+{
+  "name": "Going Nowhere",
+  "category": "Pursuer",
+  "rarity": "Rare",
+  "reqs": "going_nowhere := 25s STR, 25s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Teeth",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 6
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting."
+}

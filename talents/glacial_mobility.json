@@ -1,0 +1,13 @@
+{
+  "name": "Glacial Mobility",
+  "category": "Frost Forger",
+  "rarity": "Common",
+  "reqs": "glacial_mobility := 20s AGL, 20s ICE",
+  "additional_info": "The Talent activates after you've slide jumped, and not during the slide jump, contrary to the Talent description.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Cast while slide-jumping to perform a running attack with your ice sabers."
+}

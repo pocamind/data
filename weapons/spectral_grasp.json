@@ -1,0 +1,23 @@
+{
+  "name": "Spectral Grasp",
+  "type": "Dagger",
+  "rarity": "Legendary",
+  "damage": 16,
+  "posture_damage": 4,
+  "range": 6.5,
+  "reqs": "spectral_grasp := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.2,
+  "scaling": {
+    "Light Weapon": 7
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

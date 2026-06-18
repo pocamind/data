@@ -1,0 +1,13 @@
+{
+  "name": "Gathering Electricity",
+  "category": "Thunderblade",
+  "rarity": "Common",
+  "reqs": "static_blade => gathering_electricity := 25r AGL or 25r STR, 65s LTN",
+  "additional_info": "Clears all Static Blade stacks on proc. You can still gain Static Blade stacks while Gathering Electricity is active. For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown."
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Soul Beam",
+  "attributes": [
+    "Oath: Oathless"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "related_talents": [
+    "Chorus of Souls"
+  ],
+  "miscellaneous": "You cannot use this Mantra if Chorus of Souls is not active.",
+  "voi": false,
+  "desc": "Harness your Chorus of Wisps to unleash a devastating blast."
+}

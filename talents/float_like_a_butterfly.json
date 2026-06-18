@@ -1,0 +1,13 @@
+{
+  "name": "Float Like a Butterfly",
+  "category": "Bladeharper",
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
+  "additional_info": "5s CD. Only accessible if True Strength is active. Deals 24 Oath + Slash damage (4 hits that deal 7 damage each).",
+  "count_towards_talent_total": false,
+  "icon": "Bladeharper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While having True Strength active, cancel your air dash to enter a frenzy of slashes."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tied Tie",
+  "equippable": false,
+  "type": "Torso",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "tied_tie := ()",
+  "voi": false,
+  "desc": "Go play celeste"
+}

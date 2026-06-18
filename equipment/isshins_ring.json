@@ -1,0 +1,14 @@
+{
+  "name": "Isshin's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "isshins_ring := 90 ttl",
+  "voi": false,
+  "desc": "Ring of A wandering Swordsman. Take 1.2x damage and deal 1.15x damage when in close-quarters combat."
+}

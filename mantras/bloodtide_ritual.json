@@ -1,0 +1,58 @@
+{
+  "name": "Bloodtide Ritual",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "bloodtide_ritual := 50r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 42,
+          "posture_damage": 22
+        },
+        {
+          "level": "L2",
+          "damage": 47,
+          "posture_damage": 22
+        },
+        {
+          "level": "L3",
+          "damage": 52,
+          "posture_damage": 22
+        },
+        {
+          "level": "L4",
+          "damage": 57,
+          "posture_damage": 31
+        },
+        {
+          "level": "L5",
+          "damage": 62,
+          "posture_damage": 31
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Summon the Bloodtide and perform a sacrificial judgement."
+}

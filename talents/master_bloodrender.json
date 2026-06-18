@@ -1,0 +1,16 @@
+{
+  "name": "Master Bloodrender",
+  "category": "Bloodrender",
+  "rarity": "Common",
+  "reqs": "expert_bloodrender => master_bloodrender := 50s BLD",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Blood",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace."
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Frozen Servants",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "frozen_servants := 1r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 16,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 20,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 24,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 28,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 20
+        },
+        {
+          "level": "L2",
+          "damage": 48,
+          "posture_damage": 20
+        },
+        {
+          "level": "L3",
+          "damage": 56,
+          "posture_damage": 20
+        },
+        {
+          "level": "L4",
+          "damage": 64,
+          "posture_damage": 20
+        },
+        {
+          "level": "L5",
+          "damage": 72,
+          "posture_damage": 20
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Tornado Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "A legion of frost."
+}

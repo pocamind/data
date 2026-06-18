@@ -1,0 +1,54 @@
+{
+  "name": "Metal Armament",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "metal_armament := 50r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 4
+        },
+        {
+          "level": "L2",
+          "damage": 20,
+          "posture_damage": 4
+        },
+        {
+          "level": "L3",
+          "damage": 20,
+          "posture_damage": 4
+        },
+        {
+          "level": "L4",
+          "damage": 20,
+          "posture_damage": 4
+        },
+        {
+          "level": "L5",
+          "damage": 20,
+          "posture_damage": 4
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "related_talents": [
+    "Forced Fulfilment"
+  ],
+  "miscellaneous": "Enhances your M1s, striking with a metal sword after each swing.",
+  "voi": false,
+  "desc": "Summon a blade of metal to swing alongside you."
+}

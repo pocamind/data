@@ -1,0 +1,13 @@
+{
+  "name": "Sorcerer's Skill",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "sorcerers_skill := ()",
+  "additional_info": "This restores 5 Tempo after using your Vent instead of decreasing the Vent cost.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Decrease the amount of tempo it takes to vent by 5."
+}

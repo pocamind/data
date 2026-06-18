@@ -1,0 +1,13 @@
+{
+  "name": "Temple Guard",
+  "category": "Miscellaneous",
+  "rarity": "Equipment",
+  "reqs": "temple_guard := ()",
+  "additional_info": "You will only gain the damage reduction if your critical attack gets interrupted.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup."
+}

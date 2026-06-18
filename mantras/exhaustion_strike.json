@@ -1,0 +1,54 @@
+{
+  "name": "Exhaustion Strike",
+  "attributes": [
+    "Willpower"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "exhaustion_strike := 40r WLL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "L2",
+          "damage": 22,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "L3",
+          "damage": 24,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "L4",
+          "damage": 26,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "L5",
+          "damage": 28,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Willpower": 1.65
+  },
+  "miscellaneous": "Transfers a percentage of your current posture to your opponent on hit, scaling on Mantra level.",
+  "voi": false,
+  "desc": "A melee strike that removes your posture's damage on hit."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Krulian Knife",
+  "type": "Dagger",
+  "rarity": "Legendary",
+  "damage": 12.5,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "krulian_knife := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 10.5
+  },
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding.",
+  "talents": [
+    "Cruel Counter"
+  ]
+}

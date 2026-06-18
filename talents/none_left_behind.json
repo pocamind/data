@@ -1,0 +1,15 @@
+{
+  "name": "None Left Behind",
+  "category": "Swiftshade",
+  "rarity": "Common",
+  "reqs": "dustlunge => none_left_behind := 100s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now shadestep to pick up Unconscious humanoids far away from you."
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Soulflare Siphon",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "soulflare_siphon := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 18.75,
+          "posture_damage": 11
+        },
+        {
+          "level": "L2",
+          "damage": 25,
+          "posture_damage": 11
+        },
+        {
+          "level": "L3",
+          "damage": 31.25,
+          "posture_damage": 11
+        },
+        {
+          "level": "L4",
+          "damage": 37.5,
+          "posture_damage": 11
+        },
+        {
+          "level": "L5",
+          "damage": 43.75,
+          "posture_damage": 11
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Grab and siphon blood out of your victim."
+}

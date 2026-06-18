@@ -1,0 +1,13 @@
+{
+  "name": "Ethiron's Gaze",
+  "category": "Drowned Secret",
+  "rarity": "Quest",
+  "reqs": "ethirons_gaze := ()",
+  "additional_info": "The snow in the Second Layer no longer affects your ability to see. Also reduces the visual clutter of snow in the overworld.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now."
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Warp Kick",
+  "attributes": [
+    "Oath: Blightsurger"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_blightsurger => warp_kick := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Sovereign State",
+    "Blightpierce"
+  ],
+  "voi": false,
+  "desc": "Perform a kick, then warp to your enemies for a second followup kick."
+}

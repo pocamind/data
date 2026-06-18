@@ -1,0 +1,21 @@
+{
+  "pants_id": "5115781091",
+  "shirt_id": "5115780873",
+  "mats": {
+    "Cloth": 1
+  },
+  "name": "Traveller's Jacket",
+  "reqs": "travellers_jacket := ()",
+  "notes": 10,
+  "talent": null,
+  "category": "Starter",
+  "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "A well-worn jacket suitable for travelling."
+}

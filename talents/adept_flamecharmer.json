@@ -1,0 +1,13 @@
+{
+  "name": "Adept Flamecharmer",
+  "category": "Flamecharmer",
+  "rarity": "Common",
+  "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 1-Star Leveled Flamecharmer Mantras."
+}

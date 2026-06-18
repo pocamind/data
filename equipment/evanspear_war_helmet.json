@@ -1,0 +1,25 @@
+{
+  "name": "Evanspear War Helmet",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Evanspear War",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "evanspear_war_helmet := 165 ttl",
+  "voi": false,
+  "desc": "Hell hath no fury like an Evanspear."
+}

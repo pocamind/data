@@ -1,0 +1,21 @@
+{
+  "name": "Sovereign Bangle",
+  "type": "Fist",
+  "rarity": "Common",
+  "damage": 30,
+  "posture_damage": 8,
+  "range": 6,
+  "reqs": "sovereign_bangle := ()",
+  "damage_types": [
+    "Blunt",
+    "Wither"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.98,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion."
+}

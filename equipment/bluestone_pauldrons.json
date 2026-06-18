@@ -1,0 +1,23 @@
+{
+  "name": "Bluestone Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Bluestone",
+  "variants": [],
+  "talents": [
+    "Ether Emergency"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "bluestone_pauldrons := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

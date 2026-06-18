@@ -1,0 +1,23 @@
+{
+  "name": "Trueblood Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": "Trueblood",
+  "variants": [],
+  "talents": [
+    "Blood Convergence"
+  ],
+  "innates": {
+    "Ether": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "trueblood_earrings := 90r ttl",
+  "voi": true,
+  "desc": "Wearing these fills you with a newfound sense of vitality."
+}

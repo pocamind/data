@@ -1,0 +1,7 @@
+{
+  "info": "On M1, inflict Tethered, causing a pink string connecting the weapon and your target to appear, pulling the target towards you. Tethered PvE enemies will deal reduced damage to you, scaling on how far away from you they are. Also procs on criticals with the M1 tag.",
+  "name": "Elastic",
+  "category": "Weapon",
+  "in_game_desc": "Opponents are pulled towards you on hit.",
+  "obtainable_in": "Pathfinder"
+}

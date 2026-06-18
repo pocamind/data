@@ -1,0 +1,25 @@
+{
+  "name": "Deepspindle",
+  "type": "Rapier",
+  "rarity": "Mythical",
+  "damage": 14,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "deepspindle := 50r LHT, 75r SDW",
+  "damage_types": [
+    "Slash",
+    "Shadowcast"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.5,
+  "swing_speed": 1.09,
+  "scaling": {
+    "Light Weapon": 4,
+    "Shadowcast": 9
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle."
+}

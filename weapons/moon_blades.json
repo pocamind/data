@@ -1,0 +1,25 @@
+{
+  "name": "Moon Blades",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 13,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "moon_blades := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 8,
+    "Intelligence": 2
+  },
+  "bleed_damage": 1.95,
+  "penetration": 0.3,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison."
+}

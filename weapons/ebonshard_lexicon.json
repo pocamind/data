@@ -1,0 +1,23 @@
+{
+  "name": "Ebonshard Lexicon",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 30,
+  "posture_damage": 14,
+  "range": 11,
+  "reqs": "ebonshard_lexicon := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Heavy Weapon": 6,
+    "Strength": 10
+  },
+  "chip_damage": 0.6,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Hmmm hmm hmm..."
+}

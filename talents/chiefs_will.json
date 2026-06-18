@@ -1,0 +1,13 @@
+{
+  "name": "Chief's Will",
+  "category": "Navaen War Chief",
+  "rarity": "Outfit",
+  "reqs": "chiefs_will := ()",
+  "additional_info": "Gives M1 attacks and criticals with the M1 tag +10% PEN if you are using the Way of Navae fist style.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Way of Navae light attacks have 10% additional penetration."
+}

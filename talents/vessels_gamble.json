@@ -1,0 +1,13 @@
+{
+  "name": "Vessel's Gamble",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "vessels_gamble := ()",
+  "additional_info": "Though this Talent is actively detrimental to the user, the Corrupted Vessel's Boots +20 Posture offsets the downside.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When you get guardbroken you take 3 times the damage of the attack."
+}

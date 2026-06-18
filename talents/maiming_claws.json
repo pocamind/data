@@ -1,0 +1,16 @@
+{
+  "name": "Maiming Claws",
+  "category": "Trickster",
+  "rarity": "Common",
+  "reqs": "down_comes_the_claw => maiming_claws := 100s AGL",
+  "additional_info": "While their posture is paused, your opponent cannot restore posture by parrying, spitting, passive posture restoration, or through Steady Nerves. All other forms of posture restoration ignore this effect entirely. Maiming Claws' duration will be shortened if you do not meet its requirements. Maiming Claws cannot be refreshed if Down Comes the Claw is currently active.",
+  "count_towards_talent_total": true,
+  "icon": "Claw",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc."
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Strong Left",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "strong_left := 20r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 22
+        },
+        {
+          "level": "L2",
+          "damage": 22.5,
+          "posture_damage": 24
+        },
+        {
+          "level": "L3",
+          "damage": 30,
+          "posture_damage": 26
+        },
+        {
+          "level": "L4",
+          "damage": 37.5,
+          "posture_damage": 28
+        },
+        {
+          "level": "L5",
+          "damage": 45,
+          "posture_damage": 30
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "related_talents": [
+    "Overwhelming Might"
+  ],
+  "voi": false,
+  "desc": "Show your foes your strength."
+}

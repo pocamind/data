@@ -1,0 +1,58 @@
+{
+  "name": "Lightning Assault",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "lightning_assault := 30r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 17.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 22.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 25,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rush of lightning."
+}

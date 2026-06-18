@@ -1,0 +1,12 @@
+{
+  "name": "Hungry Flames",
+  "category": "Pyromancer",
+  "rarity": "Common",
+  "reqs": "flamecharmer => hungry_flames := 15s FTD, 30s FLM",
+  "count_towards_talent_total": false,
+  "icon": "Teeth",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra [15 second CD]."
+}

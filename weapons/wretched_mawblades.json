@@ -1,0 +1,24 @@
+{
+  "name": "Wretched Mawblades",
+  "type": "Greatsword",
+  "rarity": "Legendary",
+  "damage": 27,
+  "posture_damage": 8,
+  "range": 8,
+  "reqs": "wretched_mawblades := 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.84,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "chip_damage": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Born from a twisted experiment by the enigmatic lightborn smiths of the floating keep, the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction."
+}

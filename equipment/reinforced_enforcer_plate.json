@@ -1,0 +1,20 @@
+{
+  "name": "Reinforced Enforcer Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": "Reinforced Enforcer",
+  "variants": [],
+  "talents": [
+    "Berserker",
+    "Enforcer's Strength"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "reinforced_enforcer_plate := 135r ttl",
+  "voi": true,
+  "desc": "..."
+}

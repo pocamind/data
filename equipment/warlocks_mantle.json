@@ -1,0 +1,30 @@
+{
+  "name": "Warlock's Mantle",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Unique",
+  "set": "Warlock",
+  "variants": [
+    "Lilac",
+    "Navy",
+    "Sky",
+    "Verdant"
+  ],
+  "talents": [
+    "Overflowing Dam"
+  ],
+  "innates": {
+    "Health": {
+      "value": 7,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "warlocks_mantle := 210 ttl, 5 int",
+  "voi": false,
+  "wiki": "",
+  "desc": "A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle."
+}

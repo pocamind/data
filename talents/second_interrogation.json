@@ -1,0 +1,13 @@
+{
+  "name": "Second Interrogation",
+  "category": "Authority Interrogator",
+  "rarity": "Common",
+  "reqs": "first_interrogation => second_interrogation := 65s LTN",
+  "additional_info": "Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect. Only applies against weapon attacks.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Electrified attacks do 50% less damage and posture damage to you."
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Prominence Draw",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "prominence_draw := 50r MED",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 9,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 17,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 25,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 33,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 41,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "Close the distance and deliver a fast slash."
+}

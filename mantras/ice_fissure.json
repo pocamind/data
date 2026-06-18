@@ -1,0 +1,63 @@
+{
+  "name": "Ice Fissure",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "ice_fissure := 50r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 11.48,
+          "posture_damage": 0.75
+        },
+        {
+          "level": "L2",
+          "damage": 13.01,
+          "posture_damage": 0.75
+        },
+        {
+          "level": "L3",
+          "damage": 14.54,
+          "posture_damage": 0.75
+        },
+        {
+          "level": "L4",
+          "damage": 16.07,
+          "posture_damage": 0.75
+        },
+        {
+          "level": "L5",
+          "damage": 17.6,
+          "posture_damage": 0.75
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Round Spark"
+  ],
+  "voi": false,
+  "desc": "Send ice rippling out in a shockwave."
+}

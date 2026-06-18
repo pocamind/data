@@ -1,0 +1,13 @@
+{
+  "name": "Mass Effect",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "mass_effect := ()",
+  "additional_info": "Increases the posture damage bonus of Might Gems by 2.25% additively, for every Might Gem you have equipped on your Mantras.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power."
+}

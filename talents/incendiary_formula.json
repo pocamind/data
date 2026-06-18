@@ -1,0 +1,13 @@
+{
+  "name": "Incendiary Formula",
+  "category": "Saboteur",
+  "rarity": "Common",
+  "reqs": "family_recipe => incendiary_formula := ()",
+  "additional_info": "Bombs apply burn on hit. Bombs will deal 20% more damage to burning targets, regardless of where the burn came from.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies."
+}

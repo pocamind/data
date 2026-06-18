@@ -1,0 +1,14 @@
+{
+  "name": "Kite Shield",
+  "type": "Shield",
+  "rarity": "Common",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "kite_shield := ()",
+  "posture_max": 4.5,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A fine shield to hold back the horrors of the world."
+}

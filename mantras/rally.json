@@ -1,0 +1,57 @@
+{
+  "name": "Rally",
+  "attributes": [
+    "Fortitude"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "rally := 10r FTD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "miscellaneous": "Restores posture on cast, scaling on Mantra level. All buffed allies have their posture damage taken shared with the caster and vice versa.",
+  "voi": false,
+  "desc": "Absorb incoming posture damage for allies around you for a set duration. When you parry, you restore the posture of your allies. Restores some posture on cast."
+}

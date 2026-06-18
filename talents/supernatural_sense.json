@@ -1,0 +1,15 @@
+{
+  "name": "Supernatural Sense",
+  "category": "Quest",
+  "rarity": "Quest",
+  "reqs": "supernatural_sense := ()",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "stats": {
+    "Sanity": 10
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "After dealing with literal ghosts, you feel emboldened."
+}

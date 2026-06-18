@@ -1,0 +1,13 @@
+{
+  "name": "Dread Fighter",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => dread_fighter := ()",
+  "additional_info": "Each stack of Dread Fighter grants 5% Mantra damage reduction, capping at 5 stacks for 25% Mantra damage reduction.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kyrscleave",
+  "type": "Greatsword",
+  "rarity": "Legendary",
+  "damage": 23,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "kyrscleave := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.81,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

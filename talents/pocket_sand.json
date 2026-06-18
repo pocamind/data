@@ -1,0 +1,13 @@
+{
+  "name": "Pocket Sand",
+  "category": "Scoundrel",
+  "rarity": "Common",
+  "reqs": "pocket_sand := 20s STR, 35s LHT",
+  "additional_info": "30 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Fist] Feinting into an uppercut blinds, applies Stagger to PvE enemies and also applies Dazed briefly. We're even now, right? 30s cooldown"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tacet Drop Kick",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "jus_karita => tacet_drop_kick := 5r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 18,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 21,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 24,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 27,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "miscellaneous": "If you have any Attunement, this Mantra will have its Strength requirement increased to 20.",
+  "voi": false,
+  "desc": "Disguise yourself in tacet and drop kick your enemies."
+}

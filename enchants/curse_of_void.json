@@ -1,0 +1,7 @@
+{
+  "info": "On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 30 seconds. For the duration of the status effect, the target is under a 40% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to The Depths. Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to the Depths. Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons. In PvE, your weapon attacks apply Ether Sunder for 10 seconds, granting 30% elemental damage reduction against their attacks. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Curse of Void",
+  "category": "Weapon",
+  "in_game_desc": "Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing. It also applies 10 seconds of Ether Sunder to PvE enemies.",
+  "obtainable_in": "Pathfinder"
+}

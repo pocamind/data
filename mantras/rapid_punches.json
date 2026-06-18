@@ -1,0 +1,58 @@
+{
+  "name": "Rapid Punches",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "rapid_punches := 20r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 80,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 82.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 85,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 87.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 90,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Unleash a barrage of blows against your foes."
+}

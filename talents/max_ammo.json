@@ -1,0 +1,12 @@
+{
+  "name": "Max Ammo",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "summer_hullwrecker => max_ammo := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing the cannonball of your critical attack removes your critical attack's cooldown.",
+  "icon": "Bullet",
+  "roll2able": false
+}

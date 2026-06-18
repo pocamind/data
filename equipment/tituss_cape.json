@@ -1,0 +1,22 @@
+{
+  "name": "Titus's Cape",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Unique",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Lightning Armor": {
+      "value": 10,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "tituss_cape := 240 ttl",
+  "voi": false,
+  "desc": "The fabled cape of Titus Fulminus Destellus. Even for its size, it's heavier than it looks."
+}

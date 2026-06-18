@@ -1,0 +1,25 @@
+{
+  "name": "Apprentice Rapier",
+  "type": "Rapier",
+  "rarity": "Uncommon",
+  "damage": 13,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "apprentice_rapier := 25r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Light Weapon": 6.5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey.",
+  "talents": [
+    "Careful Stance"
+  ]
+}

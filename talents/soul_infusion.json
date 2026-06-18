@@ -1,0 +1,13 @@
+{
+  "name": "Soul Infusion",
+  "category": "Soulbreaker",
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => soul_infusion := ()",
+  "additional_info": "Increases your execution speed by 40%, down to 1.8 seconds from 3 seconds. Upon successfully performing an execution, use Ardour Scream for free. Your Ardour Scream range is buffed, sfx is changed, and minimum Ether cost required to cast Ardour Scream is reduced from 100% Ether to 40%.",
+  "count_towards_talent_total": false,
+  "icon": "Soulbreaker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further."
+}

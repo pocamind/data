@@ -1,0 +1,12 @@
+{
+  "name": "Righteous Crash",
+  "category": "Vanguard Techniques",
+  "rarity": "Faction",
+  "reqs": "righteous_crash := ()",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were."
+}

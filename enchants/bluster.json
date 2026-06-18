@@ -1,0 +1,7 @@
+{
+  "info": "After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Landing weapon attacks during the countdown will reduce the countdown's duration by 1 second. This explosion has a base damage of 27.5, gaining 0.25 damage per 1 weapon investment, up to 52.5 at 100 weapon. This deals typeless damage. This explosion is parriable and blockable, dealing 10 posture damage on block.",
+  "name": "Bluster",
+  "category": "Weapon",
+  "in_game_desc": "After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment.",
+  "obtainable_in": "Pathfinder"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Inquisitor's Thorn",
+  "type": "Rapier",
+  "rarity": "Rare",
+  "damage": 14,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "inquisitors_thorn := 40r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.5,
+  "swing_speed": 1.08,
+  "scaling": {
+    "Light Weapon": 7
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'.",
+  "talents": [
+    "Expeditionary Evasiveness"
+  ]
+}

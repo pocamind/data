@@ -1,0 +1,62 @@
+{
+  "name": "Shadow Meteors",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shadow_meteors := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 23,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 26,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 29,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 32,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "shared_cooldowns": [
+    "Shadow Seekers"
+  ],
+  "voi": false,
+  "desc": "Hail down meteors of darkness."
+}

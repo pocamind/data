@@ -1,0 +1,27 @@
+{
+  "name": "Ignition Deepcrusher",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 18,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "ignition_deepcrusher := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed",
+    "Ironsing"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 3,
+    "Ironsing": 4
+  },
+  "bleed_damage": 2.7,
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

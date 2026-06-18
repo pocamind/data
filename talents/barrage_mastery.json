@@ -1,0 +1,13 @@
+{
+  "name": "Barrage Mastery",
+  "category": "Ether Erudite",
+  "rarity": "Memento",
+  "reqs": "barrage_mastery := ()",
+  "additional_info": "Increases the projectile count of Ether Barrage based on how many stacks of Ether Erudite you have.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "For every Ether Erudite stack you have, gain one extra orb whenever you fire your Ether Barrage."
+}

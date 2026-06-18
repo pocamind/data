@@ -1,0 +1,30 @@
+{
+  "name": "Judgement",
+  "attributes": [
+    "Oath: Contractor"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_contractor => judgement := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 58.66,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation."
+}

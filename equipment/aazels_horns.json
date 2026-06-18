@@ -1,0 +1,25 @@
+{
+  "name": "Aazel's Horns",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    },
+    "Fire Armor": {
+      "value": 8,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "aazels_horns := ()",
+  "voi": false,
+  "desc": "An otherworldly set of faux horns. Faint scratches on the back spell something like 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch."
+}

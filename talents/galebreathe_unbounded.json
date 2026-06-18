@@ -1,0 +1,16 @@
+{
+  "name": "Galebreathe Unbounded",
+  "category": "Galebreathe Master",
+  "rarity": "Common",
+  "reqs": "galebreathe_unbounded := 75s WND",
+  "additional_info": "Removes the 75 investment cap on the Galebreathe Attribute.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "stats": {
+    "Health": 10
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your Galebreathe to its fullest."
+}

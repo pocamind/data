@@ -1,0 +1,15 @@
+{
+  "name": "Endurance Runner",
+  "category": "Alley Cat",
+  "rarity": "Common",
+  "reqs": "endurance_runner := 25s FTD, 25s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your speed is decreased less by low health."
+}

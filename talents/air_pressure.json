@@ -1,0 +1,15 @@
+{
+  "name": "Air Pressure",
+  "category": "Legion Shock Trooper",
+  "rarity": "Common",
+  "reqs": "galebreather => air_pressure := 20s AGL, 50s WND",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack."
+}

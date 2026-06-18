@@ -1,0 +1,12 @@
+{
+  "name": "Fatal Backstab",
+  "category": "Rogue Assassin",
+  "rarity": "Memento",
+  "reqs": "fatal_backstab := ()",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Weapon backstabs deal an extra 5 true damage on your opponent (20 extra damage if done to PvE)."
+}

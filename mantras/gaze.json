@@ -1,0 +1,42 @@
+{
+  "name": "Gaze",
+  "attributes": [
+    "Willpower"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "gaze := 30r WLL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 3,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Gaze into your opponent's souls."
+}

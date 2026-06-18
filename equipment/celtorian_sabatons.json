@@ -1,0 +1,21 @@
+{
+  "name": "Celtorian Sabatons",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Celtor Commander",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "celtorian_sabatons := ()",
+  "voi": false,
+  "desc": "..."
+}

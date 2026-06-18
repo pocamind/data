@@ -1,0 +1,63 @@
+{
+  "name": "Bolt Piercer",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "bolt_piercer := 30r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 3
+        },
+        {
+          "level": "L2",
+          "damage": 16,
+          "posture_damage": 3
+        },
+        {
+          "level": "L3",
+          "damage": 17,
+          "posture_damage": 3
+        },
+        {
+          "level": "L4",
+          "damage": 18,
+          "posture_damage": 3
+        },
+        {
+          "level": "L5",
+          "damage": 19,
+          "posture_damage": 3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "An arrow of lightning."
+}

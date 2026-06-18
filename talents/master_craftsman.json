@@ -1,0 +1,16 @@
+{
+  "name": "Master Craftsman",
+  "category": "Artisan",
+  "rarity": "Common",
+  "reqs": "master_craftsman := 45s INT",
+  "additional_info": "You can craft items that normally require a Crafting Station from your inventory.",
+  "count_towards_talent_total": true,
+  "icon": "Cube",
+  "roll2able": true,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your skills alone substitute the need for a Craft Station."
+}

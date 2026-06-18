@@ -1,0 +1,22 @@
+{
+  "pants_id": "5990852155",
+  "shirt_id": "5990799958",
+  "mats": {},
+  "name": "Mr Toon",
+  "reqs": "mr_toon := ()",
+  "notes": 0,
+  "talent": "Vow of Mastery",
+  "category": "Spec",
+  "durability": 2600,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3,
+    "Thunder Resistance": 0.2,
+    "Shadow Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 100,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

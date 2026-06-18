@@ -1,0 +1,54 @@
+name: Bundle and release
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - "LICENSE"
+      - ".**"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # pull full git history and tags
+          fetch-depth: 0
+          fetch-tags: true
+
+      # bundle every top-level data directory into one JSON each,
+      # then merge those into a mega json
+      - name: Bundle data
+        run: python .utils/bundle.py
+
+      - name: Generate version tag
+        # have id so we can ref outputs
+        id: tag
+        run: |
+          #  date-based tag like "v2026.02.16"
+          date_tag="v$(date -u +'%Y.%m.%d')"
+
+          # if theres already a release on the same day, postfix it with an incremented suffix
+          existing=$(git tag -l "${date_tag}*" | wc -l)
+
+          if [ "$existing" -gt 0 ]; then
+            echo "tag=${date_tag}.$((existing + 1))" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=${date_tag}.1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          #  read the "tag" output from the step with id "tag"
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: "Bundle ${{ steps.tag.outputs.tag }}"
+          # upload as release yay
+          files: .dist/*.json

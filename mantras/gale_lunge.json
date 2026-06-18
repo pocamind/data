@@ -1,0 +1,62 @@
+{
+  "name": "Gale Lunge",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "gale_lunge := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12.5,
+          "posture_damage": 4
+        },
+        {
+          "level": "L2",
+          "damage": 13.75,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 15,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 16.25,
+          "posture_damage": 7
+        },
+        {
+          "level": "L5",
+          "damage": 17.5,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "shared_cooldowns": [
+    "Ice Lance"
+  ],
+  "voi": false,
+  "desc": "A rush of piercing wind."
+}

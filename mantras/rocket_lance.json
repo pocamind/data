@@ -1,0 +1,53 @@
+{
+  "name": "Rocket Lance",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "rocket_lance := 50r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 19.5,
+          "posture_damage": 9
+        },
+        {
+          "level": "L2",
+          "damage": 26,
+          "posture_damage": 9
+        },
+        {
+          "level": "L3",
+          "damage": 32.5,
+          "posture_damage": 9
+        },
+        {
+          "level": "L4",
+          "damage": 39,
+          "posture_damage": 9
+        },
+        {
+          "level": "L5",
+          "damage": 45.5,
+          "posture_damage": 9
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "Create a lance, impale your opponent, and send them flying."
+}

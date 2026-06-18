@@ -1,0 +1,12 @@
+{
+  "name": "Union Hook",
+  "category": "Ignition Union",
+  "rarity": "Quest",
+  "reqs": "union_hook := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now make use of the Ignition Union hooks to ascend or descend."
+}

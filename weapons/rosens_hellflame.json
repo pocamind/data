@@ -1,0 +1,23 @@
+{
+  "name": "Rosen's Hellflame",
+  "type": "Rifle",
+  "rarity": "Mythical",
+  "damage": 19,
+  "posture_damage": 3,
+  "range": 7,
+  "reqs": "rosens_hellflame := 40r MED, 75r FLM",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 3,
+    "Flamecharm": 4
+  },
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional."
+}

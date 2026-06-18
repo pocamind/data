@@ -1,0 +1,96 @@
+{
+  "name": "Ice Blade",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_blade := 20r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 28.7,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 37.4,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 46.1,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 54.8,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 63.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Glacial Mobility",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 26,
+          "posture_damage": 8
+        },
+        {
+          "level": "L3",
+          "damage": 28,
+          "posture_damage": 8
+        },
+        {
+          "level": "L4",
+          "damage": 30,
+          "posture_damage": 8
+        },
+        {
+          "level": "L5",
+          "damage": 32,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Glacial Mobility"
+  ],
+  "voi": false,
+  "desc": "A barrage of freezing blades."
+}

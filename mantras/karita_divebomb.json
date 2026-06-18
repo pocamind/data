@@ -1,0 +1,62 @@
+{
+  "name": "Karita Divebomb",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "karita_divebomb := 20r LHT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 27.75,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 30.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 33.25,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 36,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Curved Edge",
+    "Marked Descent"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap."
+}

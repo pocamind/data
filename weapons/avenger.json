@@ -1,0 +1,24 @@
+{
+  "name": "Avenger",
+  "type": "Greatsword",
+  "rarity": "Common",
+  "damage": 21,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "avenger := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 6.5
+  },
+  "penetration": 0,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A greatsword passed down by your ancestors."
+}

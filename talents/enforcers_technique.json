@@ -1,0 +1,12 @@
+{
+  "name": "Enforcer's Technique",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "enforcers_technique := ()",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your flourishes deal 35% more damage."
+}

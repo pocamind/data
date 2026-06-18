@@ -1,0 +1,24 @@
+{
+  "name": "Pale Morning",
+  "type": "Greathammer",
+  "rarity": "Rare",
+  "damage": 24,
+  "posture_damage": 10,
+  "range": 9,
+  "reqs": "pale_morning := 10r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World."
+}

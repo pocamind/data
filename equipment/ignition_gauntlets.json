@@ -1,0 +1,29 @@
+{
+  "name": "Ignition Gauntlets",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Force Your Way"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "ignition_gauntlets := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Lethal Depressant",
+  "category": "Rogue Assassin",
+  "rarity": "Memento",
+  "reqs": "lethal_depressant := ()",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds."
+}

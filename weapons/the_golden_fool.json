@@ -1,0 +1,23 @@
+{
+  "name": "The Golden Fool",
+  "type": "Dagger",
+  "rarity": "Unknown",
+  "damage": 12.5,
+  "posture_damage": 5,
+  "range": 5.8,
+  "reqs": "the_golden_fool := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.24,
+  "scaling": {
+    "Light Weapon": 12
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "Warriors bold with straps of gold, that dazzle like the sun!"
+}

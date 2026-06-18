@@ -1,0 +1,25 @@
+{
+  "name": "Pernach",
+  "type": "Club",
+  "rarity": "Rare",
+  "damage": 19,
+  "posture_damage": 7,
+  "range": 8,
+  "reqs": "pernach := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.98,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "bleed_damage": 2.75,
+  "chip_damage": 0.05,
+  "penetration": 0.3,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grand Support",
+  "category": "Comrade",
+  "rarity": "Rare",
+  "reqs": "grand_support := 40s FTD",
+  "additional_info": "Heals you for 2% of your maximum health, increased by 1% for every player buffed. Heals affected players by 3% of their maximum health.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others."
+}

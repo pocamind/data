@@ -1,0 +1,12 @@
+{
+  "name": "Safety First",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "safety_first := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "At the start of fights, gain 25% damage resistance for 30 seconds."
+}

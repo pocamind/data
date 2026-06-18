@@ -1,0 +1,16 @@
+{
+  "name": "Cap Artist",
+  "category": "Thief",
+  "rarity": "Common",
+  "reqs": "cap_artist := 5s CHA, 25s AGL",
+  "additional_info": "This can be deactivated by using the keybind again.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pressing [,] while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well."
+}

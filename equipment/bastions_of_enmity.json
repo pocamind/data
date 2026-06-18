@@ -1,0 +1,26 @@
+{
+  "name": "Bastions of Enmity",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Unique",
+  "set": "Enmity",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 3
+  },
+  "reqs": "bastions_of_enmity := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "Holy Mackerel! That was a tough fight!"
+}

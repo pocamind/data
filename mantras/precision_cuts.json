@@ -1,0 +1,30 @@
+{
+  "name": "Precision Cuts",
+  "attributes": [
+    "Oath: Fadetrimmer"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_fadetrimmer => precision_cuts := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 27
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Snip forward 3 times with your scissors!"
+}

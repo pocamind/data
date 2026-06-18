@@ -1,0 +1,22 @@
+{
+  "name": "Falchion",
+  "type": "Sword",
+  "rarity": "Uncommon",
+  "damage": 16,
+  "posture_damage": 4,
+  "range": 7.5,
+  "reqs": "falchion := 20r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production."
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Wind Carve",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "wind_carve := 30r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "L2",
+          "damage": 26.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 32.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "L4",
+          "damage": 38.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "L5",
+          "damage": 44.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "A quick swirl of sharp winds."
+}

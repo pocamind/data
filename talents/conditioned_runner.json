@@ -1,0 +1,16 @@
+{
+  "name": "Conditioned Runner",
+  "category": "Alley Cat",
+  "rarity": "Advanced",
+  "reqs": "scaredy_cat, endurance_runner => conditioned_runner := 25s AGL",
+  "additional_info": "After 3 seconds of sprinting without taking damage, gain increased health regeneration.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat."
+}

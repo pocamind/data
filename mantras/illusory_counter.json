@@ -1,0 +1,41 @@
+{
+  "name": "Illusory Counter",
+  "attributes": [
+    "Oath: Visionshaper"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_visionshaper => illusory_counter := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "related_talents": [
+    "Reality Shift",
+    "Shaper Mimicry"
+  ],
+  "miscellaneous": "Summons a clone of the user on successful counter. Damage is dependent on user's build.",
+  "voi": false,
+  "desc": "Fool others into striking and retaliate."
+}

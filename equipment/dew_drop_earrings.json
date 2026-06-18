@@ -1,0 +1,17 @@
+{
+  "name": "Dew Drop Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "dew_drop_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

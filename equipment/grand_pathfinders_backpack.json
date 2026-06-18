@@ -1,0 +1,24 @@
+{
+  "name": "Grand Pathfinder's Backpack",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Robber Baron"
+  ],
+  "innates": {
+    "Carry Load": {
+      "value": 50,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "grand_pathfinders_backpack := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels."
+}

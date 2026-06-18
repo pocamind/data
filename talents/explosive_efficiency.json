@@ -1,0 +1,12 @@
+{
+  "name": "Explosive Efficiency",
+  "category": "Saboteur",
+  "rarity": "Common",
+  "reqs": "hot_potato => explosive_efficiency := ()",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Crafting a bomb will yield two bombs. Chance to make three."
+}

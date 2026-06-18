@@ -1,0 +1,19 @@
+{
+  "name": "Rending Needle: Augmenter",
+  "category": "Rending Needle",
+  "rarity": "Rare",
+  "reqs": "master_ironsinger => rending_needle_augmenter := 90s MTL, 90r HVY OR 90r MED OR 90r LHT",
+  "additional_info": "Replaces your current weapon with the Metal Greatsword for 10 seconds when you Pull an enemy who has 5 Metal Rods on them. While Metal Greatsword is equipped, your Metal Armament damage is increased by 50%.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped.",
+  "exclusive": [
+    "Rending Needle: Conductor",
+    "Rending Needle: Jailer",
+    "Rending Needle: Impaler",
+    "Gilded Path: Scrapsinger"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Azure Sentinel Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Azure Sentinel",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "azure_sentinel_pauldrons := ()",
+  "voi": false,
+  "desc": "..."
+}

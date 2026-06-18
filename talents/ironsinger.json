@@ -1,0 +1,13 @@
+{
+  "name": "Ironsinger",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "ironsinger := 1 MTL",
+  "additional_info": "Ironsing mantras apply stacks of Metal Rods on targets. Pressing [X] will pull affected towards you, with the strength of the pull depending on the amount of Metal Rods present. You cannot apply more than 5 Metal Rods to one target, unless you have one of the Rending Needle Talents.",
+  "count_towards_talent_total": false,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods."
+}

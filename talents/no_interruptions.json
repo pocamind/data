@@ -1,0 +1,13 @@
+{
+  "name": "No Interruptions",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "no_interruptions := ()",
+  "additional_info": "Grants extremely high damage reduction and true hyperarmor against attacks that are coming from opponents from far away. This requires you to be combat tagged by at least two people. Self-combat tags do not count, but NPC combat tags do (you will still need to be combat tagged by at least one player for this to activate).",
+  "count_towards_talent_total": false,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When combat tagged by 2 or more players, render any ranged attack a lot less effective."
+}

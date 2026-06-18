@@ -1,0 +1,16 @@
+{
+  "name": "Orbital Ice",
+  "category": "Frostthorn",
+  "rarity": "Common",
+  "reqs": "orbital_ice := 65s ICE",
+  "additional_info": "90 second cooldown. Durability of Orbital Ice is equal to \"Frostdraw investment +10\".",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)",
+  "exclusive": [
+    "Fists of Fortitude"
+  ]
+}

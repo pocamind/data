@@ -1,0 +1,26 @@
+{
+  "name": "Eternal Restraints",
+  "equippable": false,
+  "type": "Arms",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Chains of Eternity",
+    "Cognito Hazard"
+  ],
+  "innates": {
+    "Health": {
+      "value": 20,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "eternal_restraints := ()",
+  "voi": false,
+  "desc": "The world will never forgive you of your sins, Haske. And you will never be freed from them."
+}

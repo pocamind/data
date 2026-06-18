@@ -1,0 +1,17 @@
+{
+  "name": "Oath: Starkindred",
+  "category": "Starkindred",
+  "rarity": "Oath",
+  "reqs": "oath_starkindred := 40s STR",
+  "count_towards_talent_total": false,
+  "icon": "Starkindred",
+  "roll2able": false,
+  "stats": {
+    "Health": 8,
+    "Combat Mantra Slot": 2,
+    "Wildcard Mantra Slot": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you."
+}

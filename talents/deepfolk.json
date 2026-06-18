@@ -1,0 +1,13 @@
+{
+  "name": "Deepfolk",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "deepfolk := ()",
+  "additional_info": "Increases Sanity gain by 1.2x. Deep Shrine Knowledge cost is reduced by 1 (this cannot go below 1).",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges."
+}

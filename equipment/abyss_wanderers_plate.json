@@ -1,0 +1,24 @@
+{
+  "name": "Abyss Wanderer's Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Mythical",
+  "set": "Abyss Wanderer",
+  "variants": [],
+  "talents": [
+    "Braced Collapse",
+    "Kick Off"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 3
+  },
+  "reqs": "abyss_wanderers_plate := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

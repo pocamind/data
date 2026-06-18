@@ -1,0 +1,13 @@
+{
+  "name": "Chain Reaction",
+  "category": "Alchemist",
+  "rarity": "Common",
+  "reqs": "chain_reaction := 80s INT",
+  "additional_info": "Procs when a thrown potion replaces a different potion's effect, increasing your potion's effect by 40% multiplicatively.",
+  "count_towards_talent_total": true,
+  "icon": "Potion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them."
+}

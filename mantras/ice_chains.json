@@ -1,0 +1,55 @@
+{
+  "name": "Ice Chains",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_chains := 20r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 3
+        },
+        {
+          "level": "L3",
+          "damage": 25,
+          "posture_damage": 3
+        },
+        {
+          "level": "L4",
+          "damage": 27.5,
+          "posture_damage": 3
+        },
+        {
+          "level": "L5",
+          "damage": 30,
+          "posture_damage": 3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Chains of ice."
+}

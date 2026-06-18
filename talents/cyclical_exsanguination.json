@@ -1,0 +1,13 @@
+{
+  "name": "Cyclical Exsanguination",
+  "category": "Transitory Vitality",
+  "rarity": "Common",
+  "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
+  "additional_info": "8 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds."
+}

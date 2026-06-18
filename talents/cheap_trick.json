@@ -1,0 +1,13 @@
+{
+  "name": "Cheap Trick",
+  "category": "Visionshaper",
+  "rarity": "Oath",
+  "reqs": "oath_visionshaper => cheap_trick := ()",
+  "additional_info": "Being hit while under half HP grants I-frames and turns you invisible for a very short duration. 60s CD. Knocking an opponent turns you invisible for 2.5 seconds with no I-frames.",
+  "count_towards_talent_total": false,
+  "icon": "Visionshaper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy."
+}

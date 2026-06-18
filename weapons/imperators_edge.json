@@ -1,0 +1,25 @@
+{
+  "name": "Imperator's Edge",
+  "type": "Spear",
+  "rarity": "Mythical",
+  "damage": 20,
+  "posture_damage": 7,
+  "range": 11,
+  "reqs": "imperators_edge := 80r STR, 80r FTD, 80r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 2,
+    "Strength": 3,
+    "Fortitude": 4
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory."
+}

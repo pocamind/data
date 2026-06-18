@@ -1,0 +1,28 @@
+{
+  "name": "Master Hawk's Handaxe",
+  "type": "Greataxe",
+  "rarity": "Rare",
+  "damage": 24,
+  "posture_damage": 10,
+  "range": 8.5,
+  "reqs": "master_hawks_handaxe := 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 10
+  },
+  "chip_damage": 0.25,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "...",
+  "talents": [
+    "Battle Frenzy"
+  ]
+}

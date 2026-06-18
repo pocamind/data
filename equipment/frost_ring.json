@@ -1,0 +1,14 @@
+{
+  "name": "Frost Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "frost_ring := ()",
+  "voi": false,
+  "desc": "Apply a very light slow on your opponent when landing a light attack. This effect stacks."
+}

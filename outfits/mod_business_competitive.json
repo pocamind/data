@@ -1,0 +1,17 @@
+{
+  "pants_id": "15502133202",
+  "shirt_id": "123654213990549",
+  "mats": {},
+  "name": "Mod Business Competitive",
+  "reqs": "mod_business_competitive := ()",
+  "notes": 0,
+  "talent": null,
+  "category": "Spec",
+  "durability": 100,
+  "resistances": {},
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "The ticket grind never stops.\r"
+}

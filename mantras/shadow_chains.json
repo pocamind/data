@@ -1,0 +1,62 @@
+{
+  "name": "Shadow Chains",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shadow_chains := 20r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 31.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 34.44,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 37.38,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 40.32,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 43.26,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Blighted Song"
+  ],
+  "voi": false,
+  "desc": "Chains of shadow."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Castaway",
+  "desc": "Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea.",
+  "outfit": "Stranded",
+  "spawns": [
+    "Etris",
+    "Vigil"
+  ],
+  "talents": []
+}

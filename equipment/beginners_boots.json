@@ -1,0 +1,23 @@
+{
+  "name": "Beginner's Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Beginner",
+  "variants": [],
+  "talents": [
+    "Safety First"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "beginners_boots := ()",
+  "voi": true,
+  "desc": "They've just been broken in."
+}

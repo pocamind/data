@@ -1,0 +1,26 @@
+{
+  "name": "Wartreads of Enmity",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Unique",
+  "set": "Emnity",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "wartreads_of_enmity := 240 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "Titanic boots, once forged to crush enemies into their graves, now anchor you firmly to the ground below."
+}

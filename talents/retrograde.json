@@ -1,0 +1,13 @@
+{
+  "name": "Retrograde",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "retrograde := ()",
+  "additional_info": "Gain a Talent tool that records your location, health, Ether, and posture on use. Upon using the tool again or waiting 5 seconds, you will be transferred back to your original location, restoring you back to the state and location you were at when this tool was initially used.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your existence is... questionable. No one understands where you have come from. Your ability reflects this, activate to start your Retrograde timer. Activating the ability again will reverse your actions, with the cooldown scaling with the time."
+}

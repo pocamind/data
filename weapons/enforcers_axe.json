@@ -1,0 +1,24 @@
+{
+  "name": "Enforcer's Axe",
+  "type": "Greataxe",
+  "rarity": "Legendary",
+  "damage": 26,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "enforcers_axe := 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1,
+  "endlag": 0.1,
+  "swing_speed": 0.76,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation."
+}

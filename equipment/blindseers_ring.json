@@ -1,0 +1,21 @@
+{
+  "name": "Blindseer's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Sanity": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "blindseers_ring := ()",
+  "voi": false,
+  "desc": "Increase all healing you receive by 33%. Reduce all damage you deal by 15%."
+}

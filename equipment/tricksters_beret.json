@@ -1,0 +1,29 @@
+{
+  "name": "Trickster's Beret",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Unique",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Jester's Ruse",
+    "Cap Artist"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Ether": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "tricksters_beret := 165r ttl",
+  "voi": true,
+  "desc": "A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price."
+}

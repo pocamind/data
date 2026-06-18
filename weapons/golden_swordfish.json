@@ -1,0 +1,23 @@
+{
+  "name": "Golden Swordfish",
+  "type": "Rapier",
+  "rarity": "Legendary",
+  "damage": 15,
+  "posture_damage": 5,
+  "range": 8.1,
+  "reqs": "golden_swordfish := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The fabled catch of an angler without parallel. The sea trembles in your wake."
+}

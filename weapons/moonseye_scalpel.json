@@ -1,0 +1,23 @@
+{
+  "name": "Moonseye Scalpel",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 18.5,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "moonseye_scalpel := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 0.96,
+  "scaling": {
+    "Intelligence": 13
+  },
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Congratulations! You've won the Rifle Spear lottery."
+}

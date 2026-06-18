@@ -1,0 +1,13 @@
+{
+  "name": "Rebuke in Stasis",
+  "category": "Saint Jay",
+  "rarity": "Memento",
+  "reqs": "rebuke_in_stasis := ()",
+  "additional_info": "Your Punishment will apply bottom freeze to mobs if you land the counter hit.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Bottom freeze enemies nearby when countering with Punishment, freezes mobs affected when re-casted."
+}

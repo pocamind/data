@@ -1,0 +1,59 @@
+{
+  "name": "Warden Blades",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "warden_blades := 1r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 51,
+          "posture_damage": 19
+        },
+        {
+          "level": "L2",
+          "damage": 56.5,
+          "posture_damage": 19
+        },
+        {
+          "level": "L3",
+          "damage": 62,
+          "posture_damage": 19
+        },
+        {
+          "level": "L4",
+          "damage": 67.5,
+          "posture_damage": 19
+        },
+        {
+          "level": "L5",
+          "damage": 73,
+          "posture_damage": 19
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "desc": ""
+}

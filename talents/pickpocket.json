@@ -1,0 +1,13 @@
+{
+  "name": "Pickpocket",
+  "category": "Thief",
+  "rarity": "Common",
+  "reqs": "pickpocket := 5s AGL, 10s CHA",
+  "additional_info": "You can only pickpocket Unconscious targets. Gain +0.0002% PvE damage for every 1 Note you have; grants +3% damage at 15,000 Notes.",
+  "count_towards_talent_total": true,
+  "icon": "Claw",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain the ability to pickpocket by pressing N. Deal a little more damage the more notes you have against PvE opponents as well."
+}

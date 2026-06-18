@@ -1,0 +1,16 @@
+{
+  "name": "Blade's Edge",
+  "category": "Lancer",
+  "rarity": "Common",
+  "reqs": "blades_edge := 30s MED",
+  "additional_info": "The \"tip of the spear\" is the end of your weapon's range.",
+  "count_towards_talent_total": true,
+  "icon": "Spear",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sky Warrior Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Sky Aid"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "sky_warrior_helm := ()",
+  "voi": true,
+  "desc": "..."
+}

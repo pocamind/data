@@ -1,0 +1,13 @@
+{
+  "name": "Bloodwarden's Sense",
+  "category": "Bloodhound",
+  "rarity": "Common",
+  "reqs": "bloodwardens_sense := 30s BLD",
+  "additional_info": "Adds a red highlight to the player.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning."
+}

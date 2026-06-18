@@ -1,0 +1,98 @@
+{
+  "name": "Eclipse Kick",
+  "attributes": [
+    "Shadowcast",
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "eclipse_kick := 15r STR, 50r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 65,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 77.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 90,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 102.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 115,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 57,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 68,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 79,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 90,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 101,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Show your foes your strength."
+}

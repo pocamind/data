@@ -1,0 +1,24 @@
+{
+  "name": "Summer Scarf",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Unique",
+  "set": null,
+  "variants": [
+    "Summer",
+    "Threadwork"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "summer_scarf := 90 ttl",
+  "voi": false,
+  "desc": "A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder..."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "The Rock",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 102,
+  "posture_damage": 30,
+  "range": 8,
+  "reqs": "the_rock := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "swing_speed": 0.25,
+  "scaling": {
+    "Heavy Weapon": 12
+  },
+  "penetration": 0.25,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": ""
+}

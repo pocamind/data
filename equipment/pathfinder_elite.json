@@ -1,0 +1,27 @@
+{
+  "name": "Pathfinder Elite",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [
+    "Ash",
+    "Black",
+    "Crimson",
+    "Sage"
+  ],
+  "talents": [],
+  "innates": {
+    "Damage vs. Monsters": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "pathfinder_elite := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

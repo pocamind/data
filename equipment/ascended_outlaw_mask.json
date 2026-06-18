@@ -1,0 +1,18 @@
+{
+  "name": "Ascended Outlaw Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Common",
+  "set": "Ascended Outlaw",
+  "variants": [],
+  "talents": [
+    "Destructive Yell"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "ascended_outlaw_mask := ()",
+  "voi": false,
+  "desc": "A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength."
+}

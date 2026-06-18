@@ -1,0 +1,25 @@
+{
+  "name": "Kanabo",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 25,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "kanabo := 40r STR, 100r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 6,
+    "Strength": 3
+  },
+  "chip_damage": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Once a staple weapon in Etrea's Arsenal, renowned for its scale and brute force, it was wielded by the heavy infantry of the King's Guard. These ironclad warriors used kanabos to enforce the King's will and maintain order across the Etrean Luminant. Today, its use has become significantly less common, with Etrea favouring the development of its blades instead."
+}

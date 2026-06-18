@@ -1,0 +1,58 @@
+{
+  "name": "Rising Wind",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "rising_wind := 30r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 34.5,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 39,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 43.5,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 5
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them"
+}

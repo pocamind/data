@@ -1,0 +1,16 @@
+{
+  "name": "Evengardes Keepsake",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "evengardes_keepsake := ()",
+  "voi": true,
+  "desc": "Gain 'chain of perfection'"
+}

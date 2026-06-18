@@ -1,0 +1,15 @@
+{
+  "name": "Conditioned Swimmer",
+  "category": "Waterbone",
+  "rarity": "Common",
+  "reqs": "conditioned_swimmer := ()",
+  "count_towards_talent_total": true,
+  "icon": "Lungs",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You lose less hunger and thirst while swimming."
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Shade Step",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shade_step := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 13
+        },
+        {
+          "level": "L2",
+          "damage": 21.5,
+          "posture_damage": 13
+        },
+        {
+          "level": "L3",
+          "damage": 23,
+          "posture_damage": 13
+        },
+        {
+          "level": "L4",
+          "damage": 24.5,
+          "posture_damage": 13
+        },
+        {
+          "level": "L5",
+          "damage": 26,
+          "posture_damage": 13
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "shared_cooldowns": [
+    "Sanguine Dive",
+    "Beast Burrow"
+  ],
+  "voi": false,
+  "desc": "Submerge into your shadow. Click to launch an attack at any point while submerged."
+}

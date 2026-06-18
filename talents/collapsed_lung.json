@@ -1,0 +1,13 @@
+{
+  "name": "Collapsed Lung",
+  "category": "Annihilator",
+  "rarity": "Advanced",
+  "reqs": "collapsed_lung := 100s STR",
+  "additional_info": "This effect lasts 8 seconds and loses 0.04s for every investment point below 100 Strength. The Collapsed status effect reduces the posture damage affected enemies deal to you by 40%.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get Collapsed."
+}

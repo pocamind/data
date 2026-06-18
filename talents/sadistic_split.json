@@ -1,0 +1,12 @@
+{
+  "name": "Sadistic Split",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "sadistic_split := ()",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has."
+}

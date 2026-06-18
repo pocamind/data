@@ -1,0 +1,13 @@
+{
+  "name": "Human Battery",
+  "category": "Unstable Capacitor",
+  "rarity": "Common",
+  "reqs": "surge_path_unstable_capacitor => human_battery := 60s LTN",
+  "additional_info": "Each Rod equates to 10 Ether. Works on Rods that weren't applied by you, but does not work on Rods applied to you.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras."
+}

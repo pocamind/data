@@ -1,0 +1,13 @@
+{
+  "name": "First Interrogation",
+  "category": "Authority Interrogator",
+  "rarity": "Common",
+  "reqs": "resolve_crusher => first_interrogation := 65s LTN",
+  "additional_info": "Only procs on weapon attacks from Electrified opponents. Ether given is half of their scaled damage.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Attacks from opponents who are Electrified will give you ether proportional to their initial damage."
+}

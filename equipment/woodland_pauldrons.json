@@ -1,0 +1,23 @@
+{
+  "name": "Woodland Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Woodland",
+  "variants": [],
+  "talents": [
+    "Polite Awakening"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "woodland_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

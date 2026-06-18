@@ -1,0 +1,13 @@
+{
+  "name": "Vow of Mastery",
+  "category": "Vow of Mastery",
+  "rarity": "Common",
+  "reqs": "vow_of_mastery := 20s CHA",
+  "additional_info": "Players who take the vow are considered allies with their master and others who take the vow. Commands Given: \"Sleep\", \"Drop\", \"Run\", \"Eat\", \"Say (Text)\", \"Use\", \"Locate\", and \"Leech\" at base. \"Fight\" and \"Sacrifice\" at 50 Charisma, \"Return\" at 60 Charisma, and \"Explode\" at 75 Charisma.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. \"wanna make a vow of mastery?\""
+}

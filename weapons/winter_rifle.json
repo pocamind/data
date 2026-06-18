@@ -1,0 +1,25 @@
+{
+  "name": "Winter Rifle",
+  "type": "Rifle",
+  "rarity": "Uncommon",
+  "damage": 16,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "winter_rifle := 40r MED",
+  "damage_types": [
+    "Slash",
+    "Frostdraw"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius.",
+  "talents": [
+    "Subzero"
+  ]
+}

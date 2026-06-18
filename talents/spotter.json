@@ -1,0 +1,13 @@
+{
+  "name": "Spotter",
+  "category": "Leader",
+  "rarity": "Common",
+  "reqs": "murmur_rhythm, callout => spotter := 40s CHA",
+  "additional_info": "Using Callout while in Rhythm will showcase the health value of the target to your allies.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Marking enemies while in Rhythm will now indicate their health status to your allies."
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Brace",
+  "attributes": [
+    "Fortitude"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "brace := 75r FTD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "miscellaneous": "The hyperarmor will end early if you cast any Mantra.",
+  "voi": true,
+  "desc": "Brace yourself against attacks and gain hyperarmour."
+}

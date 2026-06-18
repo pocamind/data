@@ -1,0 +1,59 @@
+{
+  "name": "Tornado Kick",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "tornado_kick := 1r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 72,
+          "posture_damage": 30
+        },
+        {
+          "level": "L2",
+          "damage": 82,
+          "posture_damage": 30
+        },
+        {
+          "level": "L3",
+          "damage": 92,
+          "posture_damage": 30
+        },
+        {
+          "level": "L4",
+          "damage": 102,
+          "posture_damage": 30
+        },
+        {
+          "level": "L5",
+          "damage": 112,
+          "posture_damage": 30
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more."
+}

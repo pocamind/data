@@ -1,0 +1,13 @@
+{
+  "name": "Rain of Static",
+  "category": "Thunder Caster",
+  "rarity": "Common",
+  "reqs": "rain_of_static := 30s LTN",
+  "additional_info": "When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast."
+}

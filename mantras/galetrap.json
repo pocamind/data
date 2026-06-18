@@ -1,0 +1,62 @@
+{
+  "name": "Galetrap",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "galetrap := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 31.5,
+          "posture_damage": 19
+        },
+        {
+          "level": "L2",
+          "damage": 32.38,
+          "posture_damage": 19
+        },
+        {
+          "level": "L3",
+          "damage": 33.25,
+          "posture_damage": 19
+        },
+        {
+          "level": "L4",
+          "damage": 34.13,
+          "posture_damage": 19
+        },
+        {
+          "level": "L5",
+          "damage": 35,
+          "posture_damage": 19
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Aeronade"
+  ],
+  "voi": false,
+  "desc": "Toss a wind landmine."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Command: Live",
+  "category": "Vow of Mastery",
+  "rarity": "Common",
+  "reqs": "vow_of_mastery => command_live := 75s CHA",
+  "additional_info": "Fully heals your Servant if they are below 40% health. The cooldown of this Command scales on your Charisma investment.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Once per hour, command a servant to defy all odds and obey your command - live."
+}

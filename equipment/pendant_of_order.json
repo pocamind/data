@@ -1,0 +1,23 @@
+{
+  "name": "Pendant of Order",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Physical Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "pendant_of_order := 135 ttl",
+  "voi": false,
+  "wiki": "This item is only obtainable through Shrine of Order on characters that used the shrine before the September 6th, 2025 update, or Blacksmiths if you have the Ordergeddon '25 Medal.",
+  "desc": "My build got gutted and all I got was this lousy necklace?"
+}

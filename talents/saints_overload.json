@@ -1,0 +1,13 @@
+{
+  "name": "Saint's Overload",
+  "category": "Saintsworn",
+  "rarity": "Oath",
+  "reqs": "oath_saintsworn => saints_overload := ()",
+  "additional_info": "Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after performing a full rotation of Saint stances. You'll need to fully cycle through all of the Stances before you can proc this effect again.",
+  "count_towards_talent_total": false,
+  "icon": "Saintsworn",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%."
+}

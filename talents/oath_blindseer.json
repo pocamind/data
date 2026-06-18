@@ -1,0 +1,19 @@
+{
+  "name": "Oath: Blindseer",
+  "category": "Blindseer",
+  "rarity": "Oath",
+  "reqs": "oath_blindseer := 40s WLL",
+  "additional_info": "You can now see while blinded, but the world gains a blue hue.",
+  "count_towards_talent_total": false,
+  "icon": "Blindseer",
+  "roll2able": false,
+  "stats": {
+    "Sanity": 10,
+    "Support Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1,
+    "Combat Mantra Slot": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mark of Nemit",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "mark_of_nemit := ()",
+  "additional_info": "Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the affected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Also buffs non allies. Can only be used while you are resting on a campfire.",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing."
+}

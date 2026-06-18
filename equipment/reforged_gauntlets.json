@@ -1,0 +1,30 @@
+{
+  "name": "Reforged Gauntlets",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Force Your Way",
+    "Steel Grip"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "reforged_gauntlets := 195r ttl",
+  "voi": true,
+  "wiki": "",
+  "desc": "..."
+}

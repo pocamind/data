@@ -1,0 +1,24 @@
+{
+  "name": "Mercenary's Garb",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Mercenary",
+  "variants": [],
+  "talents": [
+    "Kick Off"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "mercenarys_garb := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

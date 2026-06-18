@@ -1,0 +1,61 @@
+{
+  "name": "Bloodcurdle",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "bloodcurdle := 50r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 17.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "L2",
+          "damage": 23.8,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 31.2,
+          "posture_damage": 12
+        },
+        {
+          "level": "L4",
+          "damage": 39.6,
+          "posture_damage": 12
+        },
+        {
+          "level": "L5",
+          "damage": 49,
+          "posture_damage": 12
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Manipulate the blood within your target's body."
+}

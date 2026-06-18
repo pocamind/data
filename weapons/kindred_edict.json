@@ -1,0 +1,27 @@
+{
+  "name": "Kindred Edict",
+  "type": "Sword",
+  "rarity": "Rare",
+  "damage": 17,
+  "posture_damage": 4.5,
+  "range": 7.5,
+  "reqs": "kindred_edict := 30r STR OR 30r FTD OR 30r AGL, 50r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.05,
+  "scaling": {
+    "Medium Weapon": 7,
+    "Body": 2.5
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade forged from pale metal recovered from Celestial crash-sites by Starkindred artisans. Nearly weightless, this type of blade is a staple in the West amongst adherents of the faith. Once one has spilt enough of their own blood in service of the Church, they are bestowed a weapon thrice-bathed in the sacred ichor of a Celestial.",
+  "talents": [
+    "Blitz"
+  ]
+}

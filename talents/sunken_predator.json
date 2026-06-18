@@ -1,0 +1,15 @@
+{
+  "name": "Sunken Predator",
+  "category": "Apex Predator",
+  "rarity": "Common",
+  "reqs": "sunken_predator := ()",
+  "count_towards_talent_total": true,
+  "icon": "Teeth",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed."
+}

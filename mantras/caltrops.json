@@ -1,0 +1,62 @@
+{
+  "name": "Caltrops",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "caltrops := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32,
+          "posture_damage": 3
+        },
+        {
+          "level": "L2",
+          "damage": 29.9,
+          "posture_damage": 4
+        },
+        {
+          "level": "L3",
+          "damage": 33.8,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 37.7,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 41.6,
+          "posture_damage": 7
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Laced Traps"
+  ],
+  "voi": false,
+  "desc": "Sharp metal traps."
+}

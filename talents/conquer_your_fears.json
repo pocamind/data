@@ -1,0 +1,16 @@
+{
+  "name": "Conquer your Fears",
+  "category": "Mental Fortress",
+  "rarity": "Common",
+  "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
+  "additional_info": "Recover Sanity when killing monsters in the Depths, with the Sanity restored depending on how strong the monster is. Gain Sanity whenever a nearby ally executes a humanoid target.",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 3
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity."
+}

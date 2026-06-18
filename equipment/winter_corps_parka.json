@@ -1,0 +1,35 @@
+{
+  "name": "Winter Corps Parka",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Winter Corps",
+  "variants": [],
+  "talents": [
+    "Winter's Protection"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    },
+    "Ice Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Wind Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "winter_corps_parka := 165 ttl",
+  "voi": false,
+  "desc": "An essential part of the Authority Winter Corps' kit. Devised to be resilient against the often thorny passages of the drakethistle in the Northern Luminant."
+}

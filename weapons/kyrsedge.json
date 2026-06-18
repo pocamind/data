@@ -1,0 +1,23 @@
+{
+  "name": "Kyrsedge",
+  "type": "Dagger",
+  "rarity": "Legendary",
+  "damage": 13,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "kyrsedge := 75r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "scaling": {
+    "Light Weapon": 8.5
+  },
+  "chip_damage": 0.15,
+  "penetration": 0.3,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

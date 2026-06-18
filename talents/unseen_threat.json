@@ -1,0 +1,12 @@
+{
+  "name": "Unseen Threat",
+  "category": "Assassin",
+  "rarity": "Common",
+  "reqs": "deep_wound => unseen_threat := 60s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Assassin",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s."
+}

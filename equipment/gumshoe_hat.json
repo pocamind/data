@@ -1,0 +1,21 @@
+{
+  "name": "Gumshoe Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Gumshoe",
+  "variants": [
+    "Dark",
+    "Ochre",
+    "Grey",
+    "White"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "gumshoe_hat := ()",
+  "voi": false,
+  "desc": "..."
+}

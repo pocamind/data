@@ -1,0 +1,13 @@
+{
+  "name": "After Cut",
+  "category": "Galeforce",
+  "rarity": "Common",
+  "reqs": "after_cut := 40s WND",
+  "additional_info": "The damage After Cut deals is based on the attack's modified damage.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead."
+}

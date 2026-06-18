@@ -1,0 +1,16 @@
+{
+  "name": "Audacity",
+  "category": "Tyrant",
+  "rarity": "Advanced",
+  "reqs": "audacity := 50s STR, 100s CHA",
+  "additional_info": "Applies true stun to nearby enemies when you start a manual execution on a humanoid target. 25 second cooldown. The buff duration will be reduced by 0.1 seconds for every point of Charisma and Strength you are below Audacity's requirements, capping at a minimum 35 second duration with 75 Charisma and 25 Strength.",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "stats": {
+    "Posture": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s)."
+}

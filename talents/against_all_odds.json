@@ -1,0 +1,12 @@
+{
+  "name": "Against All Odds",
+  "category": "Absolute Focus",
+  "rarity": "Common",
+  "reqs": "against_all_odds := 65s WLL",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "For each combat tag you have on your character, increase your damage by 2% (max of 14%)."
+}

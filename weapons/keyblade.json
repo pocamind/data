@@ -1,0 +1,14 @@
+{
+  "name": "Keyblade",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "keyblade := ()",
+  "endlag": null,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "???"
+}

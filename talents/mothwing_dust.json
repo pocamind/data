@@ -1,0 +1,13 @@
+{
+  "name": "Mothwing Dust",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "mothwing_dust := ()",
+  "additional_info": "Upon being hit at the start of combat, cover your opponent in Mothwing Dust, applying a red highlight on your opponent for 10 seconds. This highlight can be seen through walls.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed."
+}

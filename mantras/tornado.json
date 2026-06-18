@@ -1,0 +1,59 @@
+{
+  "name": "Tornado",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "tornado := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 126,
+          "posture_damage": 14.4
+        },
+        {
+          "level": "L2",
+          "damage": 141.12,
+          "posture_damage": 14.4
+        },
+        {
+          "level": "L3",
+          "damage": 156.24,
+          "posture_damage": 14.4
+        },
+        {
+          "level": "L4",
+          "damage": 171.36,
+          "posture_damage": 14.4
+        },
+        {
+          "level": "L5",
+          "damage": 186.48,
+          "posture_damage": 14.4
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "A rushing current of wind."
+}

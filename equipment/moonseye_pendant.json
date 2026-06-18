@@ -1,0 +1,21 @@
+{
+  "name": "Moonseye Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "moonseye_pendant := 90r TTL",
+  "voi": false,
+  "desc": "A simple silver pendant in the likeness of the Moonseye. Wearing such a pendant is a sign of mourning in many cultures, a holdover from the Old World."
+}

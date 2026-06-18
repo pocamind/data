@@ -1,0 +1,13 @@
+{
+  "name": "Alloy of the Heavens",
+  "category": "Ironsinger",
+  "rarity": "Memento",
+  "reqs": "alloy_of_the_heavens := ()",
+  "additional_info": "Reduces posture damage taken from mobs by 50%.",
+  "count_towards_talent_total": false,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Posture attack from mobs reduced by 50%"
+}

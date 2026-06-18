@@ -1,0 +1,26 @@
+{
+  "name": "Umbrite Witherblade",
+  "type": "Sword",
+  "rarity": "Relic",
+  "damage": 13,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "umbrite_witherblade := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed",
+    "Wither"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.02,
+  "scaling": {
+    "Medium Weapon": 12
+  },
+  "bleed_damage": 1.95,
+  "chip_damage": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone."
+}

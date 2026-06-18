@@ -1,0 +1,13 @@
+{
+  "name": "Extended Trauma",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "extended_trauma := ()",
+  "additional_info": "Deals 3 posture damage to non-blocking opponents on M1, and 10 posture damage on critical. This cannot posture break, and this does not benefit from posture damage modifiers.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successful light attacks and criticals on your opponent now also gives them a bit of posture."
+}

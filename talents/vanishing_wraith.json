@@ -1,0 +1,12 @@
+{
+  "name": "Vanishing Wraith",
+  "category": "Specter",
+  "rarity": "Rare",
+  "reqs": "phantom_step => vanishing_wraith := 60s WND",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target."
+}

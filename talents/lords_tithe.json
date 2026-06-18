@@ -1,0 +1,13 @@
+{
+  "name": "Lord's Tithe",
+  "category": "Comrade",
+  "rarity": "Rare",
+  "reqs": "lords_tithe := 40s FTD, 40s SDW",
+  "additional_info": "Steals Ether (or health in PvE) in pulses.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast. Drain health from PvE opponents as well."
+}

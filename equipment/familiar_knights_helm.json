@@ -1,0 +1,22 @@
+{
+  "name": "Familiar Knight's Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "familiar_knights_helm := 135 ttl",
+  "voi": false,
+  "desc": "A familiar helm said to have been passed down by a wayward line of a distant land.\n[*Note; Only obtainable through the Hallowtide Event or the Hallowtide '22 Medal.]"
+}

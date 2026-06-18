@@ -1,0 +1,16 @@
+{
+  "name": "Cheap Shot",
+  "category": "Trickster",
+  "rarity": "Rare",
+  "reqs": "cheap_shot := 65s AGL",
+  "additional_info": "Multiplies your PEN by 1.1x at 65+ Agility. Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 6
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your attacks gain 10% PEN multiplicatively when you have an active speed boost."
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Metal Fakeout",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_fakeout := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20.8,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 27.95,
+          "posture_damage": 9
+        },
+        {
+          "level": "L3",
+          "damage": 35.1,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 42.25,
+          "posture_damage": 11
+        },
+        {
+          "level": "L5",
+          "damage": 49.4,
+          "posture_damage": 12
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "Create a metal clone and appear behind your target."
+}

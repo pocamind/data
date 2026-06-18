@@ -1,0 +1,13 @@
+{
+  "name": "Drifting Cloud",
+  "category": "Drifter",
+  "rarity": "Memento",
+  "reqs": "drifting_cloud := ()",
+  "additional_info": "Proccing Cutting Pace now unsheathes your Purple Cloud, giving it new animations and changing the damage type to Slash.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Cutting Pace now unsheathes the full potential of your Purple Cloud."
+}

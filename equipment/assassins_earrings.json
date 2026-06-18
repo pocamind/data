@@ -1,0 +1,23 @@
+{
+  "name": "Assassin's Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Sharpened Dagger"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "assassins_earrings := ()",
+  "voi": true,
+  "desc": "..."
+}

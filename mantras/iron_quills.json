@@ -1,0 +1,54 @@
+{
+  "name": "Iron Quills",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "iron_quills := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 26,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L2",
+          "damage": 28.6,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L3",
+          "damage": 31.2,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L4",
+          "damage": 33.8,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L5",
+          "damage": 36.4,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Conjure metal from within, impaling surrounding entities."
+}

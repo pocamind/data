@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage, this has a chance to proc. On proc, create a rain cloud above your head. 45 second cooldown. This rain cloud functions as normal rain, debuffing Flamecharm abilities by 10%, increasing Thundercall (if you have the Stratoshock Talent) and Storm Enchantment's damage, and increasing the damage of your Frostdraw abilities if it's Winter. If you have the Chilling Enchantment on your weapon, or if it's Winter, create snow instead. If you have Stench on another equipment piece, or if you are in Upper Erisia, create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the Survivalist Boon. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Rain",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may summon rain clouds above you.",
+  "obtainable_in": "Pathfinder"
+}

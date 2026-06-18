@@ -1,0 +1,28 @@
+{
+  "name": "Acheron's Warspear",
+  "type": "Spear",
+  "rarity": "Rare",
+  "damage": 18,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "acherons_warspear := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "bleed_damage": 2.7,
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "...",
+  "talents": [
+    "Vital Wound"
+  ]
+}

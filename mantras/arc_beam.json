@@ -1,0 +1,54 @@
+{
+  "name": "Arc Beam",
+  "attributes": [
+    "Oath: Arcwarder"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_arcwarder => arc_beam := ()",
+  "damage": [
+    {
+      "variant": "Grounded",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24.5,
+          "posture_damage": 8
+        }
+      ]
+    },
+    {
+      "variant": "Aerial",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20.08,
+          "posture_damage": 20
+        }
+      ]
+    },
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Purge Shot"
+  ],
+  "voi": true,
+  "desc": "Fire plasma energy. Deals additional damage in PvE."
+}

@@ -1,0 +1,7 @@
+{
+  "info": "After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply Winded to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment. This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest. Windswept has a minimum of 0.5s duration and a maximum of 8 seconds, gaining 0.08s duration per weapon stat investment. When between 0 and 6 weapon investment, the duration will always be 0.5s, as the Enchant has a starting value of 0s, but the minimum duration this Enchant actually can be active is always 0.5s. In the case of Wyrmtooth, your Medium investment will take priority over your Heavy investment. Windswept's stacks do not decay over time. Criticals with the M1 tag can build up stacks for Windswept.",
+  "name": "Windswept",
+  "category": "Weapon",
+  "in_game_desc": "After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment.",
+  "obtainable_in": "Pathfinder"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Etrean",
+  "desc": "Defined by their snake-like features and cunning. Isolationists who tend to their own interests.",
+  "innate": {
+    "Agility": 2,
+    "Intelligence": 3
+  },
+  "talent": [
+    "Molt"
+  ],
+  "is_pathfinder": true,
+  "variants": {
+    "viper": {
+      "name": "Viper",
+      "colors": {
+        "eye": "#A72409",
+        "hair": "#E6D4D4",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#F0E1A2"
+      }
+    },
+    "mamba": {
+      "name": "Mamba",
+      "colors": {
+        "eye": "#863C58",
+        "hair": "#28292D",
+        "skin": "#F7EEE3",
+        "tone": "#5A4840",
+        "sclera": "#F0E1A2"
+      }
+    },
+    "coral": {
+      "name": "Coral",
+      "colors": {
+        "eye": "#FED338",
+        "hair": "#80B5EA",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#F0F0F0"
+      }
+    },
+    "file": {
+      "name": "File",
+      "colors": {
+        "eye": "#8C0F82",
+        "hair": "#E6D4D4",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#CBD2FF"
+      }
+    },
+    "hallowtide": {
+      "name": "Hallowtide",
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#D10000",
+        "hair": "#161616",
+        "skin": "#F7EEDE",
+        "tone": "#5A4840",
+        "sclera": "#735959"
+      }
+    }
+  }
+}

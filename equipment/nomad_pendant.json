@@ -1,0 +1,21 @@
+{
+  "name": "Nomad Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "nomad_pendant := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

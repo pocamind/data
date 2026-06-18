@@ -1,0 +1,12 @@
+{
+  "name": "Static Flash Clone",
+  "category": "Thundercaller",
+  "rarity": "Common",
+  "reqs": "static_flash_clone := 30s AGL, 35s LTN",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When using lightning clones you instead disappear leaving behind a static clone for a short duration."
+}

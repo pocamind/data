@@ -1,0 +1,30 @@
+{
+  "name": "Abyssal Tendrils",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "abyssal_tendrils := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 60,
+          "posture_damage": 19
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Create tentacles and pierce multiple opponents at once."
+}

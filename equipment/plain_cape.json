@@ -1,0 +1,30 @@
+{
+  "name": "Plain Cape",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "White",
+    "Golden",
+    "Blue",
+    "Red",
+    "Green",
+    "Authority",
+    "Black",
+    "Grey"
+  ],
+  "talents": [],
+  "innates": {
+    "Physical Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "plain_cape := 90r TTL",
+  "voi": false,
+  "desc": "..."
+}

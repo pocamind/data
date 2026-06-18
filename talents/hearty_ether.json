@@ -1,0 +1,12 @@
+{
+  "name": "Hearty Ether",
+  "category": "Void Glutton",
+  "rarity": "Memento",
+  "reqs": "hearty_ether := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Devouring Eye steal procs now heal you based on the amount of ether stolen."
+}

@@ -1,0 +1,25 @@
+{
+  "mats": {
+    "Cloth": 7,
+    "Fiber": 5,
+    "Vibrant Gem": 10
+  },
+  "name": "Trickster's Habit",
+  "reqs": "tricksters_habit := 195r TTL",
+  "notes": 400,
+  "talent": "Mocking Favor, Not a Scratch",
+  "category": "Unique",
+  "pants_id": "120890524359701",
+  "shirt_id": "138376084824969",
+  "durability": 2500,
+  "resistances": {
+    "Blunt Resistance": 0.15,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.35
+  },
+  "extra_percents": {
+    "Ether Regen": 50,
+    "Extra Stealth": 0
+  },
+  "desc": "Threaded with detailed embroidery and carefully pleated ruffles, this technically impressive garment is sure to turn heads. Frustratingly, the ladder-laced details are especially hard to keep neat-fashion before function."
+}

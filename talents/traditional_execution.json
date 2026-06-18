@@ -1,0 +1,12 @@
+{
+  "name": "Traditional Execution",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "etrean_sashimono => traditional_execution := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flourishing an opponent turns your next critical attack into the Katana critical attack. Also extends Dancing Steps Of War's effects by 0.5 seconds.",
+  "icon": "Boots",
+  "roll2able": false
+}

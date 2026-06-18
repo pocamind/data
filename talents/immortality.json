@@ -1,0 +1,13 @@
+{
+  "name": "Immortality",
+  "category": "Miscellaneous",
+  "rarity": "Equipment",
+  "reqs": "immortality := ()",
+  "additional_info": "Grants one instance of knock prevention. Having this Talent disables the Viscosity Enchantment.",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The remnants of the helmet's Mind Veil stir into life when you would be made Unconscious soaking all damage for a brief duration. 30s CD. Viscosity is rejected."
+}

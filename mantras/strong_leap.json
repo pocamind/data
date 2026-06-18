@@ -1,0 +1,39 @@
+{
+  "name": "Strong Leap",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "strong_leap := 50r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "shared_cooldowns": [
+    "Flame Leap",
+    "Neural Pathway"
+  ],
+  "voi": true,
+  "desc": "Kick off of the ground with your strength, sending you into the air."
+}

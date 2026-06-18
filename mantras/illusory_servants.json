@@ -1,0 +1,42 @@
+{
+  "name": "Illusory Servants",
+  "attributes": [
+    "Oath: Visionshaper"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_visionshaper => illusory_servants := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Reality Shift",
+    "Shaper Mimicry"
+  ],
+  "miscellaneous": "Summons a clone of the user. Damage is dependent on user's build.",
+  "voi": false,
+  "desc": "Illusory servants to await your commands"
+}

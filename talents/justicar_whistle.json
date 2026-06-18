@@ -1,0 +1,13 @@
+{
+  "name": "Justicar Whistle",
+  "category": "Castaway",
+  "rarity": "Origin",
+  "reqs": "castaway => justicar_whistle := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Request aid from a Justicar.",
+  "additional_info": "Upon using the provided Talent tool, a Justicar may respond to your call for aid, teleporting to your server to assist you with events and protect you in combat.",
+  "icon": "Handshake",
+  "roll2able": false
+}

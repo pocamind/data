@@ -1,0 +1,26 @@
+{
+  "name": "Wraithclaw",
+  "type": "Fist",
+  "rarity": "Mythical",
+  "damage": 15.5,
+  "posture_damage": 5,
+  "range": 6.5,
+  "reqs": "wraithclaw := 40r LHT, 75r WND",
+  "damage_types": [
+    "Slash",
+    "Galebreathe"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 4,
+    "Galebreathe": 5.5
+  },
+  "chip_damage": 0.25,
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen."
+}

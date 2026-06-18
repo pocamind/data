@@ -1,0 +1,16 @@
+{
+  "name": "Cook's Kit",
+  "category": "Survival Kit",
+  "rarity": "Common",
+  "reqs": "cooks_kit := 5r INT OR 5r WLL OR 5r CHA, 5s FTD",
+  "count_towards_talent_total": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Each food item's max quantity is increased by 5. Your kit comes with a lighter.",
+  "additional_info": "You can light Campfires without a Flint.",
+  "icon": "Leaf",
+  "roll2able": true,
+  "stats": {
+    "carry_load": 10
+  }
+}

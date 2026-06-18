@@ -1,0 +1,13 @@
+{
+  "name": "Emergency Mark",
+  "category": "Warder Techniques",
+  "rarity": "Faction",
+  "reqs": "emergency_mark := ()",
+  "additional_info": "Applying a Justicar's Mark on an ally who has 20% or less current health health them for 10% of their maximum health.",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Applying a mark on someone who has less than 20% health heals them for 10% of their health."
+}

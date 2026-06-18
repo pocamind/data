@@ -1,0 +1,13 @@
+{
+  "name": "Laminated Armor",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "laminated_armor := ()",
+  "additional_info": "Reduces damage taken and dealt by a flat 2 (3 in Vow of Iron). This is applied after regular resistances, allowing you to potentially fully nullify damage taken.",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Reduces all incoming damage by 2/3 (applied after damage multipliers)."
+}

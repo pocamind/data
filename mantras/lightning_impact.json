@@ -1,0 +1,96 @@
+{
+  "name": "Lightning Impact",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_impact := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 23,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 24.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 26,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 27.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 29,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 5,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Rain of Static",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 43,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 46,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 49,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 52,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 55,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 5,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Rain of Static"
+  ],
+  "voi": false,
+  "desc": "Slam those under you with a lightning empowered kick."
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Fire Eruption",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "fire_eruption := 20r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 48,
+          "posture_damage": 40
+        },
+        {
+          "level": "L2",
+          "damage": 53,
+          "posture_damage": 40
+        },
+        {
+          "level": "L3",
+          "damage": 58,
+          "posture_damage": 40
+        },
+        {
+          "level": "L4",
+          "damage": 63,
+          "posture_damage": 40
+        },
+        {
+          "level": "L5",
+          "damage": 68,
+          "posture_damage": 40
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "A pyroclastic eruption."
+}
