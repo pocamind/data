@@ -1,0 +1,14 @@
+{
+  "name": "Adretian Aegis",
+  "type": "Shield",
+  "rarity": "Uncommon",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "adretian_aegis := ()",
+  "posture_max": 6.5,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A sturdy shield, traditionally crafted to suit the rank of it's holder."
+}

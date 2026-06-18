@@ -1,0 +1,23 @@
+{
+  "name": "Crescendo",
+  "type": "Twinblade",
+  "rarity": "Legendary",
+  "damage": 22,
+  "posture_damage": 6,
+  "range": 7.5,
+  "reqs": "crescendo := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.92,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

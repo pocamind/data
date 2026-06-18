@@ -1,0 +1,95 @@
+{
+  "name": "Chrysid",
+  "desc": "Deeply spiritual folk who have an uncanny knack for deciphering the emotions of others while keeping their own a closed book.",
+  "innate": {
+    "Agility": 2,
+    "Charisma": 3
+  },
+  "talent": [
+    "Mothwing Dust"
+  ],
+  "is_pathfinder": true,
+  "variants": {
+    "seer": {
+      "name": "Seer",
+      "colors": {
+        "eye": "#473FB9",
+        "hair": "#343251",
+        "skin": "#757CAB",
+        "tone": "#2E2F42",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "devout": {
+      "name": "Devout",
+      "colors": {
+        "eye": "#DD5F85",
+        "hair": "#44342F",
+        "skin": "#D096AA",
+        "tone": "#6B4252",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "adept": {
+      "name": "Adept",
+      "colors": {
+        "eye": "#9FB844",
+        "hair": "#4D4A48",
+        "skin": "#ADA28A",
+        "tone": "#3F3C39",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "sage": {
+      "name": "Sage",
+      "colors": {
+        "eye": "#D87780",
+        "hair": "#3E4434",
+        "skin": "#C6CBAE",
+        "tone": "#66754E",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "hierophant": {
+      "name": "Hierophant",
+      "colors": {
+        "eye": "#663B3F",
+        "hair": "#E5DEC7",
+        "skin": "#FFF7E2",
+        "tone": "#6D6355",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "augur": {
+      "name": "Augur",
+      "colors": {
+        "eye": "#FC897E",
+        "hair": "#F99B84",
+        "skin": "#433D3A",
+        "tone": "#2D2927",
+        "sclera": "#0F0F0F"
+      }
+    },
+    "messenger": {
+      "name": "Messenger",
+      "colors": {
+        "eye": "#3B3A42",
+        "hair": "#433320",
+        "skin": "#BE9253",
+        "tone": "#8D5237",
+        "sclera": "#0F0F0F"
+      }
+    },
+    "hallowtide": {
+      "name": "Hallowtide",
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FF5500",
+        "hair": "#182226",
+        "skin": "#918B90",
+        "tone": "#3F3D3E",
+        "sclera": "#FFFFFF"
+      }
+    }
+  }
+}

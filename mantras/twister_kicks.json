@@ -1,0 +1,59 @@
+{
+  "name": "Twister Kicks",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "twister_kicks := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 28,
+          "posture_damage": 16
+        },
+        {
+          "level": "L2",
+          "damage": 33.2,
+          "posture_damage": 16
+        },
+        {
+          "level": "L3",
+          "damage": 38.4,
+          "posture_damage": 16
+        },
+        {
+          "level": "L4",
+          "damage": 43.6,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 48.8,
+          "posture_damage": 16
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Go forth with spinning kicks infused with the wind"
+}

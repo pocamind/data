@@ -1,0 +1,58 @@
+{
+  "name": "Rising Flame",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "rising_flame := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 23,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 26,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 29,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 32,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rising tornado of flames."
+}

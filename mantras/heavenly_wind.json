@@ -1,0 +1,61 @@
+{
+  "name": "Heavenly Wind",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "heavenly_wind := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 22,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 29,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 36,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 43,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "A strike from the heavens."
+}

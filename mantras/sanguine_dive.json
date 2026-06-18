@@ -1,0 +1,57 @@
+{
+  "name": "Sanguine Dive",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "sanguine_dive := 20r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 28,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 32,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 36,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 40,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "shared_cooldowns": [
+    "Beast Burrow",
+    "Shade Step"
+  ],
+  "voi": false,
+  "desc": "Create or jump into a pool of blood."
+}

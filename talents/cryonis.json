@@ -1,0 +1,13 @@
+{
+  "name": "Cryonis",
+  "category": "Ice Age",
+  "rarity": "Common",
+  "reqs": "frostdrawer => cryonis := 40s ICE",
+  "additional_info": "Reduces the Ether cost of Frostdraw Mantras by 40% when standing on ice.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "All ice spells casted on top of ice cost less Ether."
+}

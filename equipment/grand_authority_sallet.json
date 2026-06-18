@@ -1,0 +1,27 @@
+{
+  "name": "Grand Authority Sallet",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Grand Authority",
+  "variants": [
+    "Bulwark",
+    "Juggernaut"
+  ],
+  "talents": [
+    "Strong Hold"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "grand_authority_sallet := 135r TTL",
+  "voi": false,
+  "desc": "..."
+}

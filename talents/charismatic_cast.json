@@ -1,0 +1,13 @@
+{
+  "name": "Charismatic Cast",
+  "category": "Charm Caster",
+  "rarity": "Common",
+  "reqs": "charismatic_cast := 25s CHA",
+  "additional_info": "Charismatic Cast's Charm lasts 10 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a hit with a mantra on an enemy applies Charmed. Allies recover from being knocked twice as quickly when Charmed by you."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Leather Gloves",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Leather",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "leather_gloves := ()",
+  "voi": false,
+  "desc": "A pair of leather gloves. One size fits all, I guess?"
+}

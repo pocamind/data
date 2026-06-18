@@ -1,0 +1,13 @@
+{
+  "name": "Berserk",
+  "category": "Berserker",
+  "rarity": "Common",
+  "reqs": "berserk := 80s STR",
+  "additional_info": "Grants a Talent tool that nullifies your armor and natural armor on use. While active, your M1s nullify your opponent's armor, and your criticals gain +10% PEN. This procs effects that only activate if you or your opponent had no armor durability. Lasts 20 seconds, halved to 10 if you do not meet the Talent requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Anger",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "One with nothing to lose has everything to gain. Succumb to burning rage within and enter Berserk State."
+}

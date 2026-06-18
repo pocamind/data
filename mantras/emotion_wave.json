@@ -1,0 +1,60 @@
+{
+  "name": "Emotion Wave",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "emotion_wave := 50r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35.15,
+          "posture_damage": 23.5
+        },
+        {
+          "level": "L2",
+          "damage": 39.95,
+          "posture_damage": 23.5
+        },
+        {
+          "level": "L3",
+          "damage": 44.65,
+          "posture_damage": 23.5
+        },
+        {
+          "level": "L4",
+          "damage": 49.35,
+          "posture_damage": 23.5
+        },
+        {
+          "level": "L5",
+          "damage": 34.05,
+          "posture_damage": 23.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Conjure up surging waves of lightning that travel along the ground."
+}

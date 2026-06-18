@@ -1,0 +1,13 @@
+{
+  "name": "Piercing Metal",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "piercing_metal := 60s MTL",
+  "additional_info": "Each rod increases armor damage dealt through weapon attacks and Mantras by 5%. This does not affect armor drain effects such as the Metal enchantment.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal additional armor damage to enemies per metal rod affecting them."
+}

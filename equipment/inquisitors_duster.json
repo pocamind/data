@@ -1,0 +1,22 @@
+{
+  "name": "Inquisitor's Duster",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Brown",
+    "Dark",
+    "Navy",
+    "Smoke",
+    "Titan"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "inquisitors_duster := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

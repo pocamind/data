@@ -1,0 +1,60 @@
+{
+  "name": "Ether Barrage",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ether_barrage := 30r INT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 36,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 39,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 42,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 45,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Intelligence": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Conjure concentrated orbs of Ether to launch at your enemy."
+}

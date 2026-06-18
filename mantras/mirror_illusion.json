@@ -1,0 +1,41 @@
+{
+  "name": "Mirror Illusion",
+  "attributes": [
+    "Oath: Visionshaper"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_visionshaper => mirror_illusion := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Reality Shift",
+    "Shaper Mimicry"
+  ],
+  "miscellaneous": "Summons a clone of the opponent. Damage is dependent on target's build.",
+  "voi": false,
+  "desc": "Mirror your opponents and use their arsenal to your advantage."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shared Mimicry",
+  "category": "Visionshaper",
+  "rarity": "Oath",
+  "reqs": "shared_mimicry := ()",
+  "additional_info": "Your clones will also Vent when you Vent. This can trigger even if you do not have Tempo or if you press G while in an animation.",
+  "count_towards_talent_total": false,
+  "icon": "Visionshaper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump."
+}

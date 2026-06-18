@@ -1,0 +1,22 @@
+{
+  "name": "Canorian Axe",
+  "type": "Greataxe",
+  "rarity": "Uncommon",
+  "damage": 24,
+  "posture_damage": 6,
+  "range": 8,
+  "reqs": "canorian_axe := 35r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire."
+}

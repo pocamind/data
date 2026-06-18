@@ -1,0 +1,12 @@
+{
+  "name": "Bulldozer",
+  "category": "Raging Bull",
+  "rarity": "Rare",
+  "reqs": "bulldozer := 25s STR",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact."
+}

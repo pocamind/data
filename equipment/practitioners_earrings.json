@@ -1,0 +1,16 @@
+{
+  "name": "Practitioner's Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "practitioners_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

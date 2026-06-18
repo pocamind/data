@@ -1,0 +1,12 @@
+{
+  "name": "Alloyed Soles",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "alloyed_soles := ()",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Reduces the duration of Knockdown applied to you."
+}

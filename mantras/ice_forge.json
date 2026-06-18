@@ -1,0 +1,167 @@
+{
+  "name": "Ice Forge",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_forge := 20r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 18,
+          "posture_damage": 8.4
+        },
+        {
+          "level": "L2",
+          "damage": 23.8,
+          "posture_damage": 9.8
+        },
+        {
+          "level": "L3",
+          "damage": 30.4,
+          "posture_damage": 11.2
+        },
+        {
+          "level": "L4",
+          "damage": 37.8,
+          "posture_damage": 12.6
+        },
+        {
+          "level": "L5",
+          "damage": 46,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12,
+          "posture_damage": 11.4
+        },
+        {
+          "level": "L2",
+          "damage": 16.3,
+          "posture_damage": 12.8
+        },
+        {
+          "level": "L3",
+          "damage": 21.4,
+          "posture_damage": 14.2
+        },
+        {
+          "level": "L4",
+          "damage": 27.3,
+          "posture_damage": 15.6
+        },
+        {
+          "level": "L5",
+          "damage": 34,
+          "posture_damage": 17
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Magnet Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 21,
+          "posture_damage": 8.4
+        },
+        {
+          "level": "L2",
+          "damage": 27.2,
+          "posture_damage": 9.8
+        },
+        {
+          "level": "L3",
+          "damage": 30.4,
+          "posture_damage": 11.2
+        },
+        {
+          "level": "L4",
+          "damage": 37.8,
+          "posture_damage": 12.6
+        },
+        {
+          "level": "L5",
+          "damage": 46,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Magnet and Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10.5,
+          "posture_damage": 11.4
+        },
+        {
+          "level": "L2",
+          "damage": 15.2,
+          "posture_damage": 12.8
+        },
+        {
+          "level": "L3",
+          "damage": 18.4,
+          "posture_damage": 14.2
+        },
+        {
+          "level": "L4",
+          "damage": 24.3,
+          "posture_damage": 15.6
+        },
+        {
+          "level": "L5",
+          "damage": 31,
+          "posture_damage": 17
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Conjure and throw weapons of ice."
+}

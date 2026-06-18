@@ -1,0 +1,12 @@
+{
+  "name": "Navae's Technique",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "navaes_technique := ()",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 30%."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kyrsglaive",
+  "type": "Spear",
+  "rarity": "Legendary",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "kyrsglaive := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 0.96,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "bleed_damage": 2.85,
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An ancient spear of kyrsan craftsmanship, its presence beyond the second layer is a miracle. few have ever been found by humanity. unlike their usual weapons, this spear was forged to control the raw, untamed power of their kin. made from the remains of the primal, cartilage wielding creatures they once shared the world with, this arsenal was an attempt to harness the strength of their wild precursors that had been forsaken in favor of the cold precision of their spears of frost."
+}

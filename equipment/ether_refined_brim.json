@@ -1,0 +1,23 @@
+{
+  "name": "Ether Refined Brim",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Unique",
+  "set": "Ether Refined",
+  "variants": [],
+  "talents": [
+    "Sorcerer's Skill"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "ether_refined_brim := 255 ttl",
+  "voi": false,
+  "desc": "A finely crafted hat worn by master wizards of the Northern Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle."
+}

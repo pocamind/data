@@ -1,0 +1,12 @@
+{
+  "name": "Volcanic Glass",
+  "category": "Pyroclast",
+  "rarity": "Advanced",
+  "reqs": "glass_path_crystallization, eruption_path_lava_serpent => volcanic_glass := ()",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Detonating crystals causes an eruption soon after."
+}

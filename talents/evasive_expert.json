@@ -1,0 +1,12 @@
+{
+  "name": "Evasive Expert",
+  "category": "Butterfly",
+  "rarity": "Rare",
+  "reqs": "swift_rebound => evasive_expert := 15s AGL",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your speed boost granted from dodging is increased."
+}

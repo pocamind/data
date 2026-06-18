@@ -1,0 +1,7 @@
+{
+  "info": "Your weapon's base damage is tied to your current Notes. Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes. Upon taking damage from a player, lose 100 Notes. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Curse of Captain Greene",
+  "category": "Weapon",
+  "in_game_desc": "Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captrain [sic] Greene himself, you lose notes whenever you get hit. A strange curse indeed...",
+  "obtainable_in": "Pathfinder"
+}

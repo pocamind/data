@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Fiber": 5,
+    "Might Gem": 1,
+    "Spark Gland": 5,
+    "Vibrant Gem": 5
+  },
+  "name": "Shock Corps Light",
+  "reqs": "shock_corps_light := 240r TTL",
+  "notes": 0,
+  "talent": "Battle-Hardened",
+  "category": "Unique",
+  "pants_id": "106517259194191",
+  "shirt_id": "127010889576907",
+  "durability": 3500,
+  "resistances": {
+    "Ice Resistance": 0.1,
+    "Flame Resistance": 0.1,
+    "Thunder Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 15,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

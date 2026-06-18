@@ -1,0 +1,13 @@
+{
+  "name": "Chaotic Charm",
+  "category": "Charm Caster",
+  "rarity": "Common",
+  "reqs": "charismatic_cast => chaotic_charm := 55s CHA",
+  "additional_info": "Applies Chaotic Charm for 15 seconds, granting an additional source of damage reduction. Chaotic Charm gains 0.15% damage reduction for every point in Charisma you have.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you."
+}

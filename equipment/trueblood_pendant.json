@@ -1,0 +1,23 @@
+{
+  "name": "Trueblood Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": "Trueblood",
+  "variants": [],
+  "talents": [
+    "Blood Pact"
+  ],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "trueblood_pendant := ()",
+  "voi": true,
+  "desc": "..."
+}

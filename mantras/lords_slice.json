@@ -1,0 +1,37 @@
+{
+  "name": "Lord's Slice",
+  "attributes": [
+    "Oath: Contractor"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_contractor => lords_slice := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "related_talents": [
+    "Hidden Tendril"
+  ],
+  "voi": false,
+  "desc": "The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Silver Sabatons",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Silver Knight",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "silver_sabatons := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

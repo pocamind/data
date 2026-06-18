@@ -1,0 +1,16 @@
+{
+  "name": "Hivelord Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "hivelord_mask := ()",
+  "voi": false,
+  "desc": "An ancient mask of a lost Hivelord, now a relic."
+}

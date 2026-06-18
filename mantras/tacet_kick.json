@@ -1,0 +1,30 @@
+{
+  "name": "Tacet Kick",
+  "attributes": [
+    "Oath: Soulbreaker"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_soulbreaker => tacet_kick := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25.1,
+          "posture_damage": 12
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Slip out of perception and deliver a brutal kick."
+}

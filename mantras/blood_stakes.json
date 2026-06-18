@@ -1,0 +1,59 @@
+{
+  "name": "Blood Stakes",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "blood_stakes := 20r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 36,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 49,
+          "posture_damage": 14
+        },
+        {
+          "level": "L4",
+          "damage": 64,
+          "posture_damage": 16
+        },
+        {
+          "level": "L5",
+          "damage": 81,
+          "posture_damage": 18
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "miscellaneous": "All nearby blood pools spawn an additional stake.",
+  "voi": false,
+  "desc": "Create stakes of blood."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Terrapod Tracer",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "terraplate_pauldrons => terrapod_tracer := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal 0.5% of your opponent's health to opponents who heal off of you.",
+  "additional_info": "This only works while your opponent has Anti-Heal.",
+  "icon": "Eye",
+  "roll2able": false
+}

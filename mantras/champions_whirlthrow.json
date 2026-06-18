@@ -1,0 +1,58 @@
+{
+  "name": "Champion's Whirlthrow",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "champions_whirlthrow := 30r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 41,
+          "posture_damage": 20
+        },
+        {
+          "level": "L2",
+          "damage": 46,
+          "posture_damage": 22
+        },
+        {
+          "level": "L3",
+          "damage": 51,
+          "posture_damage": 24
+        },
+        {
+          "level": "L4",
+          "damage": 56,
+          "posture_damage": 26
+        },
+        {
+          "level": "L5",
+          "damage": 61,
+          "posture_damage": 28
+        },
+        {
+          "level": "GB",
+          "damage": 5,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Grab your opponent and toss them with the power of gale. Pressing F will toss your opponent straight down."
+}

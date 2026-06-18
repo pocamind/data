@@ -1,0 +1,13 @@
+{
+  "name": "Hunting Trap",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "hunting_trap := ()",
+  "additional_info": "Grants a Talent tool that places a bear trap on use. 60 second cooldown. Walking onto a bear trap deals high damage and renders you immobile for a few seconds. The bear trap cannot trigger again once it has been triggered. You can trigger your own bear trap.",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Place down a trap that upon being stepped on will render your opponent unable to move for a bit."
+}

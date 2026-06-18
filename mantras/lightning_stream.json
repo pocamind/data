@@ -1,0 +1,99 @@
+{
+  "name": "Lightning Stream",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_stream := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 4
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 4
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 4
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 4
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 4
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 17,
+          "posture_damage": 4
+        },
+        {
+          "level": "L2",
+          "damage": 18.6,
+          "posture_damage": 4
+        },
+        {
+          "level": "L3",
+          "damage": 20.2,
+          "posture_damage": 4
+        },
+        {
+          "level": "L4",
+          "damage": 21.8,
+          "posture_damage": 4
+        },
+        {
+          "level": "L5",
+          "damage": 23.4,
+          "posture_damage": 4
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Static Ace"
+  ],
+  "voi": false,
+  "desc": "A stream of lightning."
+}

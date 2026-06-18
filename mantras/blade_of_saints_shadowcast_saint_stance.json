@@ -1,0 +1,30 @@
+{
+  "name": "Blade of Saints: Shadowcast Saint Stance",
+  "attributes": [
+    "Oath: Saintsworn"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "blade_of_saints_shadowcast_saint_stance := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 62.31,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path."
+}

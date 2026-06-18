@@ -1,0 +1,13 @@
+{
+  "name": "Knife's Journey",
+  "category": "Critical Specialist",
+  "rarity": "Rare",
+  "reqs": "knifes_journey := 30s LHT",
+  "additional_info": "In PvE, your Dagger attacks have a 15% chance to critically hit, dealing 5x damage. This does not proc \"on critical attack\" effects, and cannot proc on Moppet's critical attack.",
+  "count_towards_talent_total": true,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Dagger] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage"
+}

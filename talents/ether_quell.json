@@ -1,0 +1,12 @@
+{
+  "name": "Ether Quell",
+  "category": "Ether Erudite",
+  "rarity": "Memento",
+  "reqs": "ether_quell := ()",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Landing a Critical Attack or Guardbreaking an opponent gives you 1 Ether Erudite Stack."
+}

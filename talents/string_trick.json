@@ -1,0 +1,13 @@
+{
+  "name": "String Trick",
+  "category": "Contractor",
+  "rarity": "Oath",
+  "reqs": "oath_contractor, hidden_tendril => string_trick := ()",
+  "additional_info": "Does not proc on non-humanoids. Deals a small amount of damage on proc.",
+  "count_towards_talent_total": false,
+  "icon": "Contractor",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pulls together any two opponents you've attached Hidden Tendril to."
+}

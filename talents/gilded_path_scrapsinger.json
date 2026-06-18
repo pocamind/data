@@ -1,0 +1,16 @@
+{
+  "name": "Gilded Path: Scrapsinger",
+  "category": "Scrapsinger",
+  "rarity": "Common",
+  "reqs": "gilded_path_scrapsinger := 35s MTL",
+  "additional_info": "Your Ironsing abilities and status effects are now yellow.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.",
+  "exclusive": [
+    "Rending Needle: Augmenter"
+  ]
+}

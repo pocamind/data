@@ -1,0 +1,13 @@
+{
+  "name": "Deepbound",
+  "desc": "Your training is almost complete. Though you were raised in these halls, you must now venture out into the Wastes to prove your worth.",
+  "outfit": "Diver Apprentice Robes",
+  "spawns": [
+    "CastleLight",
+    "DiluvianMechanism"
+  ],
+  "talents": [
+    "Deepbound Contract",
+    "Call of the Deep"
+  ]
+}

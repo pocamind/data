@@ -1,0 +1,16 @@
+{
+  "name": "Eyeglasses",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "eyeglasses := ()",
+  "voi": false,
+  "desc": "..."
+}

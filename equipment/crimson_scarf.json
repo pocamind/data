@@ -1,0 +1,22 @@
+{
+  "name": "Crimson Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Fire Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "crimson_scarf := 90r ttl",
+  "voi": false,
+  "desc": "..."
+}

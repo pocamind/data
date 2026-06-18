@@ -1,0 +1,27 @@
+{
+  "name": "Darksteel Cleaver",
+  "type": "Greatsword",
+  "rarity": "Uncommon",
+  "damage": 28.5,
+  "posture_damage": 12,
+  "range": 13,
+  "reqs": "darksteel_cleaver := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1.2,
+  "endlag": 0.3,
+  "swing_speed": 0.75,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "chip_damage": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "When faced with insurmountable odds, sometimes all you need is a Big Sword",
+  "talents": [
+    "Monster Slayer"
+  ]
+}

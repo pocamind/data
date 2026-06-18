@@ -1,0 +1,23 @@
+{
+  "name": "Monastery Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Legendary",
+  "set": "Monastery Champion",
+  "variants": [],
+  "talents": [
+    "Blade Dancer"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "monastery_cowl := ()",
+  "voi": false,
+  "desc": "..."
+}

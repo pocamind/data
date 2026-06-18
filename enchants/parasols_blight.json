@@ -1,0 +1,7 @@
+{
+  "info": "On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 60 seconds. This status effect will have its duration refreshed when landing subsequent hits. If a player who is affected by Parasol's Blight dies, their corpse will explode and an allied monster will spawn. Monsters you kill have a small chance of proccing Parasol's Blight and summoning allied monsters. The monster can be a Mudskipper Broodlord, Alpha Megalodaunt, Void Thresher, Nautilodaunt, or a Prime Megalodaunt. These monsters can be Corrupted if used in The Depths. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Parasol's Blight",
+  "category": "Weapon",
+  "in_game_desc": "Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions. This also has a chance of proccing on PvE enemies you kill.",
+  "obtainable_in": "Pathfinder"
+}

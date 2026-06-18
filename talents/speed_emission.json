@@ -1,0 +1,12 @@
+{
+  "name": "Speed Emission",
+  "category": "Nimble Blade",
+  "rarity": "Common",
+  "reqs": "speed_emission := 25s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain a slight speed boost after landing a vent"
+}

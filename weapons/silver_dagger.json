@@ -1,0 +1,25 @@
+{
+  "name": "Silver Dagger",
+  "type": "Dagger",
+  "rarity": "Common",
+  "damage": 12,
+  "posture_damage": 2,
+  "range": 6,
+  "reqs": "silver_dagger := 35r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 6
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable.",
+  "talents": [
+    "Assassin's Strike"
+  ]
+}

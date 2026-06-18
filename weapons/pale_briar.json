@@ -1,0 +1,25 @@
+{
+  "name": "Pale Briar",
+  "type": "Greataxe",
+  "rarity": "Mythical",
+  "damage": 23,
+  "posture_damage": 7,
+  "range": 10,
+  "reqs": "pale_briar := 85r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1,
+  "endlag": 0.15,
+  "swing_speed": 0.81,
+  "scaling": {
+    "Heavy Weapon": 8.5
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church."
+}

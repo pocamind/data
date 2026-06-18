@@ -1,0 +1,13 @@
+{
+  "name": "Breakthrough Drive",
+  "category": "Dread Imperium",
+  "rarity": "Faction",
+  "reqs": "breakthrough_drive := ()",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": false,
+  "stats": {},
+  "vaulted": false,
+  "voi": false,
+  "desc": "Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. [90 second CD]"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Featherfall",
+  "category": "Miscellaneous",
+  "rarity": "Equipment",
+  "reqs": "featherfall := ()",
+  "additional_info": "Nullifies fall damage. Once 255 fall damage has been nullified, this will go on a 2 minute cooldown, disabling its benefits.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge."
+}

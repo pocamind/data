@@ -1,0 +1,13 @@
+{
+  "name": "Trained Legs",
+  "category": "The Path, Unveiled",
+  "rarity": "Faction",
+  "reqs": "trained_legs := ()",
+  "additional_info": "Increases your maximum climb height.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Slightly increase your climb strength."
+}

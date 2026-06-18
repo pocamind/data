@@ -1,0 +1,60 @@
+{
+  "name": "Metal Eruption",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "metal_eruption := 1r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L2",
+          "damage": 32.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L3",
+          "damage": 32.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L4",
+          "damage": 32.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L5",
+          "damage": 32.5,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A flurry of metal spikes."
+}

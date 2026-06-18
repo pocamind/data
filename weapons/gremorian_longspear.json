@@ -1,0 +1,22 @@
+{
+  "name": "Gremorian Longspear",
+  "type": "Spear",
+  "rarity": "Uncommon",
+  "damage": 18,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "gremorian_longspear := 20r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 4
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness."
+}

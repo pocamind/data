@@ -1,0 +1,23 @@
+{
+  "name": "Confessor's Charm",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Physical Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "confessors_charm := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "An intricately bejewelled pendant, traditionally worn by academics and prestigious of the Lullaby Isles. Though you'll never really know its real symbolism, one can only assume it was some form of sacred item, something to be revered. It's surprisingly heavy, must've been annoyingly impractical. Who knows how it got into your hands."
+}

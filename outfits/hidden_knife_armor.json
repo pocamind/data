@@ -1,0 +1,23 @@
+{
+  "pants_id": null,
+  "shirt_id": null,
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5
+  },
+  "name": "Hidden Knife Armor",
+  "reqs": "rogue_assassin => hidden_knife_armor := ()",
+  "notes": 0,
+  "talent": "Bane",
+  "category": "Unique",
+  "durability": 2000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 50
+  },
+  "desc": "Discard your identity."
+}

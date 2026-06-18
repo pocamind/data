@@ -1,0 +1,13 @@
+{
+  "name": "Assassin's Strike",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "assassins_strike := ()",
+  "additional_info": "Doubles the base damage of Rapid Slashes.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Rapid Slashes now deals twice the amount of damage."
+}

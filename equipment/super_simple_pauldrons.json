@@ -1,0 +1,27 @@
+{
+  "name": "Super Simple Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Simple Buff"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "super_simple_pauldrons := ()",
+  "voi": true,
+  "desc": "Either they're of low complexity or someone needs a punch."
+}

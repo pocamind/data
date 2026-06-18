@@ -1,0 +1,13 @@
+{
+  "name": "Hip Shooter",
+  "category": "Gunslinger",
+  "rarity": "Rare",
+  "reqs": "hip_shooter := 50r HVY or 50r MED, 25s LHT",
+  "additional_info": "5 second cooldown. Requires ammunition in your inventory to be used.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Maljuror Jougs",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "maljuror_jougs := 165 ttl",
+  "voi": false,
+  "desc": "Heavy Metal."
+}

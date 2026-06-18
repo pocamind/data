@@ -1,0 +1,15 @@
+{
+  "name": "Stay of Execution",
+  "category": "Liberator",
+  "rarity": "Common",
+  "reqs": "stay_of_execution := 25r CHA OR 25r WLL",
+  "count_towards_talent_total": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Increases the time taken to execute you by 20%. Saving others from being executed grants you both 10 TempHP (20s CD)",
+  "icon": "Eye",
+  "roll2able": false,
+  "stats": {
+    "sanity": 6
+  }
+}

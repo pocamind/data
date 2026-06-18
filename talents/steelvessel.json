@@ -1,0 +1,13 @@
+{
+  "name": "Steelvessel",
+  "category": "Steel Vessel",
+  "rarity": "Memento",
+  "reqs": "steelvessel := ()",
+  "additional_info": "Take posture damage instead of health damage. Upon being guardbroken, take a large amount of damage to your healthbar. Your healing and posture restoration from parrying attacks is reduced.",
+  "count_towards_talent_total": false,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced."
+}

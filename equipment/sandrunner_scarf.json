@@ -1,0 +1,17 @@
+{
+  "name": "Sandrunner Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": "Sandrunner",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "sandrunner_scarf := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

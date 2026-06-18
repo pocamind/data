@@ -1,0 +1,24 @@
+{
+  "name": "Soulthorn",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 17,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "soulthorn := 40r INT, 80r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.02,
+  "scaling": {
+    "Medium Weapon": 7,
+    "Intelligence": 3.5
+  },
+  "chip_damage": 0.3,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned."
+}

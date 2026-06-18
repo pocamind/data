@@ -1,0 +1,23 @@
+{
+  "name": "Delver Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Surestep"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "delver_boots := ()",
+  "voi": false,
+  "desc": "A pair of boots with special metal grips attached. The grips are capable of deploying and retracting when desired, making them any delver's lifeline."
+}

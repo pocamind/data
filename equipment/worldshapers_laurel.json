@@ -1,0 +1,14 @@
+{
+  "name": "Worldshaper's Laurel",
+  "equippable": false,
+  "type": "Head",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "worldshapers_laurel := ()",
+  "voi": false,
+  "desc": "..."
+}

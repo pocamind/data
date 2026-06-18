@@ -1,0 +1,12 @@
+{
+  "name": "Oath: Bladeharper",
+  "category": "Bladeharper",
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper := 75r MED OR (LHT + MED + HVY = 90r)",
+  "count_towards_talent_total": false,
+  "icon": "Bladeharper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. "
+}

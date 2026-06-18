@@ -1,0 +1,33 @@
+{
+  "name": "Assassin's Cloak",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Assassin",
+  "variants": [
+    "Crimson",
+    "Gold",
+    "Mist",
+    "Pale"
+  ],
+  "talents": [
+    "Lowstride"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    },
+    "Stealth": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "assassins_cloak := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

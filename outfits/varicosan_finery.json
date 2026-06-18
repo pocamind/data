@@ -1,0 +1,26 @@
+{
+  "mats": {
+    "Cloth": 7,
+    "Fiber": 5,
+    "Irithine": 5,
+    "Vibrant Gem": 10,
+    "Alestrian Coral": 3
+  },
+  "name": "Varicosan Finery",
+  "reqs": "varicosan_finery := 165r TTL",
+  "notes": 100,
+  "talent": "Benefactor",
+  "category": "Expert",
+  "pants_id": "16831806008",
+  "shirt_id": "16826381363",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "A gorgeously fitted remnant of high Celtorian society. Fashion speaks louder than words - what more is there to say?"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Ash Slam",
+  "attributes": [
+    "Flamecharm",
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "ash_slam := 20r STR, 50r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 16,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 22.4,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 28.8,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 35.2,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 41.6,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Strike the ground, turning it to ash."
+}

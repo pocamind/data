@@ -1,0 +1,57 @@
+{
+  "name": "Crucifixion",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "crucifixion := 1r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 16,
+          "posture_damage": 13
+        },
+        {
+          "level": "L2",
+          "damage": 22,
+          "posture_damage": 13
+        },
+        {
+          "level": "L3",
+          "damage": 28,
+          "posture_damage": 13
+        },
+        {
+          "level": "L4",
+          "damage": 34,
+          "posture_damage": 13
+        },
+        {
+          "level": "L5",
+          "damage": 40,
+          "posture_damage": 13
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Conjure a bloody cross."
+}

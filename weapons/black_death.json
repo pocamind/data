@@ -1,0 +1,30 @@
+{
+  "name": "Black Death",
+  "type": "Spear",
+  "rarity": "Mythical",
+  "damage": 16.5,
+  "posture_damage": 6,
+  "range": 9.5,
+  "reqs": "black_death := ()",
+  "damage_types": [
+    "Slash",
+    "Shadowcast",
+    "Bleed"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 2.5,
+    "Mind": 2,
+    "Shadowcast": 3
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Tool of the Ministry. Unlike its counterpart this pike cares not for the mess it intends to leave behind.",
+  "talents": [
+    "Corporeal Dissolution"
+  ]
+}

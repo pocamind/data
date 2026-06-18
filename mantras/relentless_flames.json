@@ -1,0 +1,41 @@
+{
+  "name": "Relentless Flames",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "relentless_flames := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 74,
+          "posture_damage": 35
+        },
+        {
+          "level": "L2",
+          "damage": 81.4,
+          "posture_damage": 49
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Bear down on your foes with repeated fiery slashes."
+}

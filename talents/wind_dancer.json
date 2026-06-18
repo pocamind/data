@@ -1,0 +1,13 @@
+{
+  "name": "Wind Dancer",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "windrunner_robes => wind_dancer := ()",
+  "additional_info": "Grants a 10% speed boost for 8 seconds. 10 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit."
+}

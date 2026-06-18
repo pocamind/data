@@ -1,0 +1,57 @@
+{
+  "name": "Grand Warden's Axe",
+  "attributes": [
+    "Origin: Authority Ensign"
+  ],
+  "category": "Combat",
+  "type": "Origin",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "grand_wardens_axe := ()",
+  "damage": [
+    {
+      "variant": "Normal",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 27,
+          "posture_damage": 25
+        }
+      ]
+    },
+    {
+      "variant": "M1",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 31,
+          "posture_damage": 25
+        }
+      ]
+    },
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "desc": "Create a lightning axe!"
+}

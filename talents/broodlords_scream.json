@@ -1,0 +1,12 @@
+{
+  "name": "Broodlord's Scream",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "broodplate_helmet => broodlords_scream := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using Sing, Taunt, or Ardour Scream applies anti heal for the duration of the move.",
+  "additional_info": "Applies 100% Anti-Heal. These abilities will also gain the Broodlord Scream sound effect.",
+  "roll2able": false
+}

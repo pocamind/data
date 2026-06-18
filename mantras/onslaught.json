@@ -1,0 +1,42 @@
+{
+  "name": "Onslaught",
+  "attributes": [
+    "Heavy Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "onslaught := 50r HVY",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 60,
+          "posture_damage": 28
+        },
+        {
+          "level": "L2",
+          "damage": 64,
+          "posture_damage": 30
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Heavy Weapon": 1.65
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": true,
+  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits."
+}

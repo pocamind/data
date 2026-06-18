@@ -1,0 +1,16 @@
+{
+  "name": "Cryptwaker's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "cryptwakers_ring := 240 ttl",
+  "voi": false,
+  "desc": "Infuse your Parasol's Blight with the essence of bone. Buff the health of any mobs you spawn with Parasol's Blight. Bonekeepers also potentially spawn from your Parasol's Blight proc."
+}

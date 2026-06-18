@@ -1,0 +1,7 @@
+{
+  "info": "After landing 5 M1s, Ether Surge gives the user infinite ether for 10 seconds. Landing additional hits while this is active will extend the duration.",
+  "name": "Ether Surge",
+  "category": "Weapon",
+  "in_game_desc": "Landing enough light attacks gives you infinite ether for some time.",
+  "obtainable_in": "VOI"
+}

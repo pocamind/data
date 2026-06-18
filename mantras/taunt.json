@@ -1,0 +1,35 @@
+{
+  "name": "Taunt",
+  "attributes": [
+    "Charisma"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "taunt := 25r CHA",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": true,
+  "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage."
+}

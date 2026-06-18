@@ -1,0 +1,28 @@
+{
+  "name": "Karita Swap",
+  "attributes": [
+    "Origin: Justicar"
+  ],
+  "category": "Support",
+  "type": "Origin",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "justicar => karita_swap := ()",
+  "voi": false,
+  "desc": "Grab your ally and swap places in them while moving in with a swift kick to save them.",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "1",
+          "damage": 0,
+          "posture_damage": 0
+        }
+      ]
+    }
+  ],
+  "related_talents": [
+    "Righteous Violence"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Black Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "black_hood := ()",
+  "voi": false,
+  "desc": "A sleek black hood."
+}

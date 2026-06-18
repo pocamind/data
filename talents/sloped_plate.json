@@ -1,0 +1,12 @@
+{
+  "name": "Sloped Plate",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "sloped_plate := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Reduces the amount of damage you take when guardbroken by 10."
+}

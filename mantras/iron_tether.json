@@ -1,0 +1,63 @@
+{
+  "name": "Iron Tether",
+  "attributes": [
+    "Ironsing",
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "iron_tether := 30r LTN, 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12.16,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 13.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 14.44,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 15.58,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 16.72,
+          "posture_damage": 0
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75,
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies."
+}

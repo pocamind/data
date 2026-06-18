@@ -1,0 +1,34 @@
+{
+  "name": "Beast Burrow",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Mobility",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "beast_burrow := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "shared_cooldowns": [
+    "Shade Step",
+    "Sanguine Dive"
+  ],
+  "voi": false,
+  "desc": "..."
+}

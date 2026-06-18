@@ -1,0 +1,25 @@
+{
+  "name": "Mercenary's Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Merc Blade"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    },
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    }
+  },
+  "pips": {},
+  "reqs": "mercenarys_hood := ()",
+  "voi": true,
+  "desc": "A sleek black hood."
+}

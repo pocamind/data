@@ -1,0 +1,57 @@
+{
+  "name": "Pillars of Erisia",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "pillars_of_erisia := 50r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 35,
+          "posture_damage": 7
+        },
+        {
+          "level": "L2",
+          "damage": 38,
+          "posture_damage": 7
+        },
+        {
+          "level": "L3",
+          "damage": 41,
+          "posture_damage": 7
+        },
+        {
+          "level": "L4",
+          "damage": 44,
+          "posture_damage": 7
+        },
+        {
+          "level": "L5",
+          "damage": 47,
+          "posture_damage": 7
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."
+}

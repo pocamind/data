@@ -1,0 +1,12 @@
+{
+  "name": "Chemist's Bag",
+  "category": "Alchemist",
+  "rarity": "Common",
+  "reqs": "chemists_bag := 80s INT",
+  "count_towards_talent_total": true,
+  "icon": "Potion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You no longer drop Potions on death."
+}

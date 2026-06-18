@@ -1,0 +1,57 @@
+{
+  "name": "Metal Ball",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_ball := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24.39,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 26,
+          "posture_damage": 7
+        },
+        {
+          "level": "L3",
+          "damage": 27.64,
+          "posture_damage": 8
+        },
+        {
+          "level": "L4",
+          "damage": 29.25,
+          "posture_damage": 9
+        },
+        {
+          "level": "L5",
+          "damage": 30.89,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Create a metal ball and rush forward."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Serpent's Edge",
+  "type": "Sword",
+  "rarity": "Rare",
+  "damage": 22,
+  "posture_damage": 6,
+  "range": 8.5,
+  "reqs": "serpents_edge := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.97,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however."
+}

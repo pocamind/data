@@ -1,0 +1,57 @@
+{
+  "name": "Oxidizing Rush",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "oxidizing_rush := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 26,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 42.4,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 58.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 74.9,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 91,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Conjure metal swords and rush forward with them."
+}

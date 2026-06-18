@@ -1,0 +1,26 @@
+{
+  "name": "Gran Sudaruska",
+  "type": "Greataxe",
+  "rarity": "Mythical",
+  "damage": 24,
+  "posture_damage": 6,
+  "range": 8.5,
+  "reqs": "gran_sudaruska := 40r HVY, 75r ICE",
+  "damage_types": [
+    "Slash",
+    "Frostdraw"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 4,
+    "Frostdraw": 6
+  },
+  "chip_damage": 0.05,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska."
+}

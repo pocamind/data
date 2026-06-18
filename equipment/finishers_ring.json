@@ -1,0 +1,14 @@
+{
+  "name": "Finisher's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "finishers_ring := 165 ttl",
+  "voi": false,
+  "desc": "Extra PEN on attacks that flourish opponents."
+}

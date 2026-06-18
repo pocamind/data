@@ -1,0 +1,49 @@
+{
+  "name": "Flame Leap",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_leap := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 10,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "shared_cooldowns": [
+    "Strong Leap",
+    "Neural Pathway"
+  ],
+  "voi": true,
+  "desc": "Leap up leaving behind a burst of flames."
+}

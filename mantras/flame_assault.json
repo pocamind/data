@@ -1,0 +1,48 @@
+{
+  "name": "Flame Assault",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_assault := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 8,
+          "posture_damage": 1.5
+        },
+        {
+          "level": "L2",
+          "damage": 16,
+          "posture_damage": 3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": true,
+  "desc": "Dash forward in a spiral of flames."
+}

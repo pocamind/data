@@ -1,0 +1,25 @@
+{
+  "name": "Wyrmtooth",
+  "type": "Sword / Greatsword",
+  "rarity": "Mythical",
+  "damage": 20,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "wyrmtooth := 40r HVY, 60r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 6.2,
+    "Heavy Weapon": 4.2
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity."
+}

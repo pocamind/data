@@ -1,0 +1,23 @@
+{
+  "name": "Jus Karita",
+  "type": "Fist",
+  "rarity": "Unknown",
+  "damage": 14,
+  "posture_damage": 3,
+  "range": 6.5,
+  "reqs": "jus_karita := 40r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.14,
+  "scaling": {
+    "Light Weapon": 9
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The traditional martial arts style of the Justicars."
+}

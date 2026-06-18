@@ -1,0 +1,12 @@
+{
+  "name": "Thornmail",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "thornmail := 45s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Getting flourished applies a metal rod on your attacker."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Iron Gut",
+  "category": "Survival Instinct",
+  "rarity": "Common",
+  "reqs": "iron_gut := 20s FTD or 20s WLL",
+  "additional_info": "Heavily reduces the chance that you vomit upon eating bad food. This does not work on Pufferfish.",
+  "count_towards_talent_total": true,
+  "icon": "Leaf",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have resistance against being poisoned by foods."
+}

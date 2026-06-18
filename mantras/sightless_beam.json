@@ -1,0 +1,34 @@
+{
+  "name": "Sightless Beam",
+  "attributes": [
+    "Oath: Blindseer"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_blindseer => sightless_beam := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 150.23,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": true,
+  "desc": "Turn insanity against your enemies, incredibly strong against depths creatures."
+}

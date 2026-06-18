@@ -1,0 +1,32 @@
+{
+  "name": "Sandrunner Wraps",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Sandrunner",
+  "variants": [],
+  "talents": [
+    "Kick Off"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    },
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    },
+    "Fire Armor": {
+      "value": 8,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "sandrunner_wraps := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

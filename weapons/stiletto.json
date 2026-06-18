@@ -1,0 +1,22 @@
+{
+  "name": "Stiletto",
+  "type": "Dagger",
+  "rarity": "Common",
+  "damage": 11,
+  "posture_damage": 2,
+  "range": 6,
+  "reqs": "stiletto := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 3
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A remarkably thin blade often likened to (and used as) a toothpick."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Suffocating Impact",
+  "category": "Aeromancer",
+  "rarity": "Common",
+  "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration."
+}

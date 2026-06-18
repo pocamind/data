@@ -1,0 +1,26 @@
+{
+  "pants_id": "6624202760",
+  "shirt_id": "6624178820",
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Iron": 1
+  },
+  "name": "Authority Peacekeeper Armor",
+  "reqs": "authority_ensign => authority_peacekeeper_armor := ()",
+  "notes": 30,
+  "talent": "Lowstride",
+  "category": "Adept",
+  "durability": 1600,
+  "resistances": {
+    "Physical Resistance": 0.15,
+    "Slash Resistance": 0.1,
+    "Elemental Resistance": 0.1,
+    "Flame Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate."
+}

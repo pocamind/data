@@ -1,0 +1,13 @@
+{
+  "name": "Torture Mastery",
+  "category": "Sanguine Wager",
+  "rarity": "Common",
+  "reqs": "torture_mastery := 100r MED or 100r LHT or 100r HVY, 100s BLD",
+  "additional_info": "On proc, all chip damage you deal will be converted into healing. The conversion rate is 1:1.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on."
+}

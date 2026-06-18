@@ -1,0 +1,16 @@
+{
+  "name": "Azure Royal Guard Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Azure Royal Guard",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "azure_royal_guard_boots := 75 ttl",
+  "voi": false,
+  "desc": "..."
+}

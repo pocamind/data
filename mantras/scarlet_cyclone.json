@@ -1,0 +1,96 @@
+{
+  "name": "Scarlet Cyclone",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "scarlet_cyclone := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 70,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 85,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 100,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 115,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 130,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 84,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 102,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 120,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 138,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 156,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "Create a cyclone of blood."
+}

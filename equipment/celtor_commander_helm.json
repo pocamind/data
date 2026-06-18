@@ -1,0 +1,24 @@
+{
+  "name": "Celtor Commander Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Celtor Commander",
+  "variants": [],
+  "talents": [
+    "Grasp on Reality"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "celtor_commander_helm := ()",
+  "voi": false,
+  "desc": "..."
+}

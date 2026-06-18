@@ -1,0 +1,15 @@
+{
+  "name": "Dancer's Impale",
+  "category": "Spear Dancer",
+  "rarity": "Memento",
+  "reqs": "dancers_impale := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 4
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead."
+}

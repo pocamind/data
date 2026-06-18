@@ -1,0 +1,13 @@
+{
+  "name": "Expeditious Combo",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "expeditious_combo := ()",
+  "additional_info": "Passively increases the speed of your Onslaught. After landing a basic attack uppercut, gain the Expeditious Combo status effect for 15 seconds, displayed on the cooldown indicator. Casting Onslaught while you have this status effect will massively increase its speed, consuming the status effect in the process. This has no cooldown, but must be manually refreshed every time you use it.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing an uppercut will grant a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it."
+}

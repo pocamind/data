@@ -1,0 +1,61 @@
+{
+  "name": "Chain Pull",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "chain_pull := 20r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 22,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 24,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 26,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 28,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "Manifest chains to brutally pull enemies towards you."
+}

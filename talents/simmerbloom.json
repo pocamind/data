@@ -1,0 +1,13 @@
+{
+  "name": "Simmerbloom",
+  "category": "Inferno",
+  "rarity": "Equipment",
+  "reqs": "simmerbloom := 85s FLM",
+  "additional_info": "Basic attacks with Pleeksty's Inferno now apply burn with no cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Discovery of Fire",
+  "category": "Thundercaller",
+  "rarity": "Common",
+  "reqs": "discovery_of_fire := 50s LTN",
+  "additional_info": "Grants the Discovery of Fire Talent tool that consumes 20 Ether to cause a lightning strike after a 1 second delay. On hit, this deals 3 Thundercall damage and lights all nearby entities and campfires on fire.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flints and Flamecharm are for simpletons."
+}

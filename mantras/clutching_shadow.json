@@ -1,0 +1,60 @@
+{
+  "name": "Clutching Shadow",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "clutching_shadow := 1r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 28.2,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 32.4,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 36.6,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 40.8,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Frost Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug Throw"
+  ],
+  "voi": false,
+  "desc": "A shadowy hand."
+}

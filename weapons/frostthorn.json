@@ -1,0 +1,24 @@
+{
+  "name": "Frostthorn",
+  "type": "Dagger",
+  "rarity": "Legendary",
+  "damage": 14.5,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "frostthorn := 90r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 8,
+    "Frostdraw": 1
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The elaborate spring-powered mechanism contained within this weapon allows its layered blades to fan out in multitude. The metal emanates a constant chill, ringing lime crystals upon contact with any surface. Doubtless, an unusual weapon for any Kyrsan to wield, given where you found it. Perhaps it is a trophy of war, retooled anew for its purpose?..."
+}

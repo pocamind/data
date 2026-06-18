@@ -1,0 +1,13 @@
+{
+  "name": "Piercing Shot",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "piercing_shot := ()",
+  "additional_info": "Grants a Talent tool, that on use, enhances your next critical attack used with any Rifle or Pistol. Enhanced critical attacks gain 100% chip damage and apply the Pierced Armor status effect to your opponent, increasing incoming PEN for a few seconds.",
+  "count_towards_talent_total": false,
+  "icon": "Bullet",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Activate to make your next critical attack with any gun have 100% chip and shatter your opponent's armor for a few seconds, making them take increased PEN from all sources."
+}

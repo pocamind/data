@@ -1,0 +1,27 @@
+{
+  "name": "Necrotic Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Necrotic",
+  "variants": [],
+  "talents": [
+    "Blood Siphon"
+  ],
+  "innates": {
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "necrotic_cowl := ()",
+  "voi": false,
+  "desc": "..."
+}

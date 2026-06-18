@@ -1,0 +1,43 @@
+{
+  "name": "Bloodedge",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "bloodedge := 20r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 16,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 20,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Conjure a scythe of blood and swing."
+}

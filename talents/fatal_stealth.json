@@ -1,0 +1,13 @@
+{
+  "name": "Fatal Stealth",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "fatal_stealth := ()",
+  "additional_info": "Grants a 0.2% damage buff to attacks that hit your opponent's back for every 1% stealth you have. This only works on stealth gained from Equipment or Outfit sources. Felinor's innate stealth multiplier has no effect on this. This does not work on assassinations.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You deal increased backstab damage to opponents based on how high your stealth stat currently is."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Toon's Goggles",
+  "equippable": false,
+  "type": "Face",
+  "rarity": "Spec",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Ghost"
+  ],
+  "innates": {
+    "Health": {
+      "value": 50,
+      "percentage": false
+    },
+    "Ether": {
+      "value": 25,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "toons_goggles := ()",
+  "voi": false,
+  "desc": "..."
+}

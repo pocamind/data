@@ -1,0 +1,25 @@
+{
+  "name": "Tracker's Brace",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Tracker",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "trackers_brace := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

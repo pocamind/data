@@ -1,0 +1,12 @@
+{
+  "name": "Sweeping Edge",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "alloyed_vigil_longsword, vigil_longsword => sweeping_edge := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Master's Flourish is larger and can now proc flourish talents.",
+  "icon": "Sword",
+  "roll2able": false
+}

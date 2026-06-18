@@ -1,0 +1,65 @@
+{
+  "name": "Twinstrikes",
+  "attributes": [
+    "Strength",
+    "Agility"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "twinstrikes := 40r AGL, 60r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 22
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 22
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 22
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 22
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 22
+        },
+        {
+          "level": "L7",
+          "damage": 89.25,
+          "posture_damage": 22
+        },
+        {
+          "level": "L8",
+          "damage": 96.34,
+          "posture_damage": 22
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "related_talents": [
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Only levels off Agility. Does not have investment scaling.",
+  "voi": false,
+  "desc": "Launch quick and devastating kicks."
+}

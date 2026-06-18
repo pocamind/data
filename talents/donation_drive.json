@@ -1,0 +1,13 @@
+{
+  "name": "Donation Drive",
+  "category": "Scarlet Donor",
+  "rarity": "Common",
+  "reqs": "donation_drive := 50s BLD, 55s CHA",
+  "additional_info": "Donation Drive's cooldown scales on your Charisma investment, having an 8 second cooldown at 60 Charisma and gaining 0.1s for every point in Charisma below 60. Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra."
+}

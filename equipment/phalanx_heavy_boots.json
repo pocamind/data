@@ -1,0 +1,17 @@
+{
+  "name": "Phalanx Heavy Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Legion Phalanx",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "phalanx_heavy_boots := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

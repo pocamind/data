@@ -1,0 +1,12 @@
+{
+  "name": "Soaring Swiftkick",
+  "category": "Vanguard Techniques",
+  "rarity": "Faction",
+  "reqs": "soaring_swiftkick := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flying Swiftkick no longer consumes your speed boost and instead gives you more speed."
+}

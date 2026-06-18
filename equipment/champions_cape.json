@@ -1,0 +1,24 @@
+{
+  "name": "Champion's Cape",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Unique",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "No Interruptions"
+  ],
+  "innates": {
+    "Lightning Armor": {
+      "value": 10,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "champions_cape := 315 ttl",
+  "voi": false,
+  "desc": "Time to write your own legends."
+}

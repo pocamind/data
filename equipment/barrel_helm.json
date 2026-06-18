@@ -1,0 +1,14 @@
+{
+  "name": "Barrel Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "barrel_helm := ()",
+  "voi": false,
+  "desc": "A sturdy helmet shaped like a barrel."
+}

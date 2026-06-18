@@ -1,0 +1,24 @@
+{
+  "name": "Guiding Star",
+  "type": "Bow",
+  "rarity": "Mythical",
+  "damage": 14,
+  "posture_damage": 5,
+  "range": 12,
+  "reqs": "guiding_star := 25r INT OR 25r WLL OR 25r CHA, 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 10,
+    "Mind": 3
+  },
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A bow of sacred reverence for the Children of Navae, the Guiding Star is wielded during the Festival of Lights by aspirants who seek to prove themselves in its trials. During these trials, competitors must hunt a wolf blindfolded, using only their other senses to track and remain hidden. Should the wolf sink its fangs into the competitor, or leave any mark upon them, they are disqualified. The bow itself is also somewhat of a curiosity, as its arrows are conjured from the Ether of its wielder and guided by their own will. Many of the previous winners of the trials speak of the Guiding Star speaking to them in a soothing voice, pushing them in the right direction."
+}

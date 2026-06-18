@@ -1,0 +1,19 @@
+{
+  "name": "Sworn Angel Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Angel's Guise"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "sworn_angel_mask := 165 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

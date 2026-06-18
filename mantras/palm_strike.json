@@ -1,0 +1,37 @@
+{
+  "name": "Palm Strike",
+  "attributes": [
+    "Oath: Bladeharper"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_bladeharper => palm_strike := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 31,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Hits twice and uppercuts if in True Strength.",
+  "voi": false,
+  "desc": "Slice your opponent with your palm."
+}

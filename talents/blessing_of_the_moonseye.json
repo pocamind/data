@@ -1,0 +1,13 @@
+{
+  "name": "Blessing of the Moonseye",
+  "category": "Chaotic Moon",
+  "rarity": "Memento",
+  "reqs": "blessing_of_the_moonseye := ()",
+  "additional_info": "Upon obtaining this Talent, you will lose all of your Sanity permanently. Defeating the three main progression bosses while having this Talent will unlock the Prince of the Moon Memento.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins."
+}

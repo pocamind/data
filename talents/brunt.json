@@ -1,0 +1,13 @@
+{
+  "name": "Brunt",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "brunt := ()",
+  "additional_info": "Reduce posture damage taken by 10% while 2 handing a weapon.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While 2-handing, you take less posture damage."
+}

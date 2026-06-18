@@ -1,0 +1,12 @@
+{
+  "name": "Overflow",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "heretics_memento => overflow := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Double the amount of tempo you receive when landing light attacks.",
+  "icon": "Brain",
+  "roll2able": false
+}

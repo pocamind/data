@@ -1,0 +1,20 @@
+{
+  "pants_id": "16721597613",
+  "shirt_id": "16721596275",
+  "mats": {},
+  "name": "Barbarian",
+  "reqs": "beserker => barbarian := ()",
+  "notes": 0,
+  "talent": null,
+  "category": "Unique",
+  "durability": 1200,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.2
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

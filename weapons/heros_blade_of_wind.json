@@ -1,0 +1,23 @@
+{
+  "name": "Hero's Blade of Wind",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "heros_blade_of_wind := 100r WND",
+  "damage_types": [
+    "Slash",
+    "Galebreathe"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Galebreathe": 5.5
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane."
+}

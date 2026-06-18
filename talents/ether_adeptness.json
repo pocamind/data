@@ -1,0 +1,13 @@
+{
+  "name": "Ether Adeptness",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "ether_adeptness := ()",
+  "additional_info": "Grants 5% chip damage.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your mantras now deal extra chip."
+}

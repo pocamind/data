@@ -1,0 +1,18 @@
+{
+  "name": "Caster Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Ether Adeptness"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "caster_earrings := ()",
+  "voi": true,
+  "desc": "A perfect conduit to help channel your energy into force."
+}

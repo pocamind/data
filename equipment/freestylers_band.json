@@ -1,0 +1,14 @@
+{
+  "name": "Freestyler's Band",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "freestylers_band := 60 ttl",
+  "voi": false,
+  "desc": "Swim like some famous swimmer. Just like Mikhael Felps."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kabuto",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Captain's",
+    "Guard's",
+    "Royal Guard's"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "kabuto := ()",
+  "voi": false,
+  "desc": "..."
+}

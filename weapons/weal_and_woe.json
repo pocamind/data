@@ -1,0 +1,26 @@
+{
+  "name": "Weal and Woe",
+  "type": "Spear",
+  "rarity": "Mythical",
+  "damage": 17.5,
+  "posture_damage": 7.5,
+  "range": 9,
+  "reqs": "weal_and_woe := 65r SDW, 80r MED",
+  "damage_types": [
+    "Slash",
+    "Shadowcast"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.92,
+  "scaling": {
+    "Medium Weapon": 5,
+    "Shadowcast": 6.5
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Twin spears hewn from a single massive shard of umbral obsidian by twin Shadowcasters. Twins are thought to have a unique compatibility with Vows, their souls' murmurs being compliments of one another. Through identical Vows taken by twins, a form of entanglement and pairing can be granted to objects. The wielder of one of these objects can always sense the whereabouts of its counterpart. These spears are no exception with their entanglement allowing its wielder to utilize techniques of both spears in harmony."
+}

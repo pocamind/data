@@ -1,0 +1,13 @@
+{
+  "name": "Mindspark",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "mindspark := ()",
+  "additional_info": "Your burn damage is increased based on how low your Sanity is.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "The damage of your flames scale with how insane you are."
+}

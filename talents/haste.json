@@ -1,0 +1,13 @@
+{
+  "name": "Haste",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "haste := ()",
+  "additional_info": "Increases your movement speed by +3 studs per second. This does not count as a speed boost for Talent procs.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Gain a permanent +3 speed buff at all times."
+}

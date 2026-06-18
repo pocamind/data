@@ -1,0 +1,12 @@
+{
+  "name": "Slick",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "slick := ()",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Coat of the infamous thief Emiya Konga. Improves the user's sliding abilities. This effect stacks with Konga's Clutch Ring."
+}

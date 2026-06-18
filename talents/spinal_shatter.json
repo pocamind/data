@@ -1,0 +1,12 @@
+{
+  "name": "Spinal Shatter",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "alloyed_crescent_cleaver, crescent_cleaver => spinal_shatter := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing the Crescent Cleaver critical attack causes your opponent to be unable to sprint for 8 seconds. [10 second CD]",
+  "icon": "Skeleton",
+  "roll2able": false
+}

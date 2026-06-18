@@ -1,0 +1,15 @@
+{
+  "name": "Scaredy Cat",
+  "category": "Alley Cat",
+  "rarity": "Common",
+  "reqs": "scaredy_cat := 5s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When enemies initiate a fight first, gain a speed boost."
+}

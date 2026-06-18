@@ -1,0 +1,12 @@
+{
+  "name": "Centurion's Resolve",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "centurions_resolve := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Legion Kata/Imperium Kata attacks deal 4% more damage."
+}

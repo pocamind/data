@@ -1,0 +1,13 @@
+{
+  "name": "Medium Weapons Unbounded",
+  "category": "Saint of Blades",
+  "rarity": "Common",
+  "reqs": "medium_weapons_unbounded := 75s MED",
+  "additional_info": "Removes the 75 Attribute cap on Medium Weapons.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest."
+}

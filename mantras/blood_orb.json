@@ -1,0 +1,96 @@
+{
+  "name": "Blood Orb",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "blood_orb := 1r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 14.5,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 19,
+          "posture_damage": 8
+        },
+        {
+          "level": "L3",
+          "damage": 23.5,
+          "posture_damage": 8
+        },
+        {
+          "level": "L4",
+          "damage": 28,
+          "posture_damage": 8
+        },
+        {
+          "level": "L5",
+          "damage": 32.5,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20.5,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 25,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 29.5,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 34,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 38.5,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "desc": "Release an amalgamation of your blood."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Canticlysm Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "canticlysm_pendant := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

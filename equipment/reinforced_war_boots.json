@@ -1,0 +1,23 @@
+{
+  "name": "Reinforced War Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Reinforced War",
+  "variants": [],
+  "talents": [
+    "Repeated Blows"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "reinforced_war_boots := 315 ttl",
+  "voi": false,
+  "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash."
+}

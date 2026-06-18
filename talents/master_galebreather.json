@@ -1,0 +1,16 @@
+{
+  "name": "Master Galebreather",
+  "category": "Galebreather",
+  "rarity": "Common",
+  "reqs": "expert_galebreather => master_galebreather := 50s WND",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 3-Star Leveled Galebreathe mantras."
+}

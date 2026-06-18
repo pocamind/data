@@ -1,0 +1,13 @@
+{
+  "name": "Inhale",
+  "category": "Galeforce",
+  "rarity": "Common",
+  "reqs": "inhale := 60s WND",
+  "additional_info": "Inhaling adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra cast. Grants a speed boost for 3 seconds. Additionally grants the Maestro's Blade status effect, allowing your basic attacks to proc After Cut.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Feinting a Wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant modifications and upgrades from the inhaled wind mantras are applied to the empowered mantra."
+}

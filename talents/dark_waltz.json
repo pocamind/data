@@ -1,0 +1,12 @@
+{
+  "name": "Dark Waltz",
+  "category": "Darksiphon",
+  "rarity": "Common",
+  "reqs": "dark_waltz := 90r LHT or 90r MED or 90r HVY, 90s SDW",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply Ether Sunder to PvE enemies."
+}

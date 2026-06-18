@@ -1,0 +1,13 @@
+{
+  "name": "Mirage Clone",
+  "category": "The Emperor's Blade",
+  "rarity": "Rare",
+  "reqs": "flamecharmer => mirage_clone := 65s FLM",
+  "additional_info": "20 second cooldown. Causes an Eruption instead if you have Eruption path.",
+  "count_towards_talent_total": true,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire."
+}

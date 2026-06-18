@@ -1,0 +1,13 @@
+{
+  "name": "Expeditionary Evasiveness",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "expeditionary_evasiveness := ()",
+  "additional_info": "Your Agility Mantras gain 3 Mantra levels, bypassing the level 5 cap. This is not displayed on the Mantra tooltip. Jetstriker Mantras are unaffected by this.",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap."
+}

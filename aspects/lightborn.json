@@ -1,0 +1,109 @@
+{
+  "innate": {
+    "Agility": 2,
+    "Fortitude": 2,
+    "Intelligence": 2,
+    "Strength": 2,
+    "Willpower": 2
+  },
+  "is_pathfinder": false,
+  "name": "Lightborn",
+  "desc": "The stars call you back...",
+  "variants": {
+    "gilgamesh": {
+      "name": "Gilgamesh",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FF0004",
+        "hair": "#EFB838",
+        "skin": "#C7AC78",
+        "tone": "#684F39",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "lewyn": {
+      "name": "Lewyn",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#88F498",
+        "hair": "#83EEB3",
+        "skin": "#C7AC78",
+        "tone": "#C7AC78",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "moros": {
+      "name": "Moros",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#2F3035",
+        "skin": "#BBB3B2",
+        "tone": "#BBB3B2",
+        "sclera": "#3B3B3B"
+      }
+    },
+    "horror": {
+      "name": "Horror",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#D30000",
+        "hair": "#FFFFFF",
+        "skin": "#D6D3CB",
+        "tone": "#817F7A",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "alpha": {
+      "name": "Alpha",
+      "colors": {
+        "eye": "#0AD7FF",
+        "hair": "#EFEFEF",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "beta": {
+      "name": "Beta",
+      "colors": {
+        "eye": "#19F43D",
+        "hair": "#191300",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "gamma": {
+      "name": "Gamma",
+      "colors": {
+        "eye": "#FF7700",
+        "hair": "#120E00",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "delta": {
+      "name": "Delta",
+      "colors": {
+        "eye": "#840AFF",
+        "hair": "#191300",
+        "skin": "#C7AC78",
+        "tone": "#563625",
+        "sclera": "#FFFFFF"
+      }
+    },
+    "mr_toons": {
+      "name": "MrToons",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#FFFFFF",
+        "skin": "#C7AC78",
+        "tone": "#7F6D4D",
+        "sclera": "#FFFFFF"
+      }
+    }
+  }
+}

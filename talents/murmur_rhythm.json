@@ -1,0 +1,13 @@
+{
+  "name": "Murmur: Rhythm",
+  "category": "Murmur",
+  "rarity": "Murmur",
+  "reqs": "murmur_rhythm := ()",
+  "additional_info": "Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen. Red = Low Health, Yellow = Moderate Health, Grey = Healthy.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."
+}

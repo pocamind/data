@@ -1,0 +1,29 @@
+{
+  "name": "Western Outlaw Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Western Outlaw",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Lightning Armor": {
+      "value": 3,
+      "percentage": true
+    },
+    "Wind Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "western_outlaw_boots := 165 ttl",
+  "voi": false,
+  "desc": "Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband."
+}

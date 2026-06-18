@@ -1,0 +1,98 @@
+{
+  "name": "Shadow Assault",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shadow_assault := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 8,
+          "posture_damage": 1.5
+        },
+        {
+          "level": "L2",
+          "damage": 12,
+          "posture_damage": 2.5
+        },
+        {
+          "level": "L3",
+          "damage": 24,
+          "posture_damage": 4.5
+        },
+        {
+          "level": "L4",
+          "damage": 36,
+          "posture_damage": 6.5
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 8.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10.4,
+          "posture_damage": 1.5
+        },
+        {
+          "level": "L2",
+          "damage": 15.7,
+          "posture_damage": 2.5
+        },
+        {
+          "level": "L3",
+          "damage": 31.3,
+          "posture_damage": 4.5
+        },
+        {
+          "level": "L4",
+          "damage": 47,
+          "posture_damage": 6.5
+        },
+        {
+          "level": "L5",
+          "damage": 62.7,
+          "posture_damage": 8.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A rush of darkness."
+}

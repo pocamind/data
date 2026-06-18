@@ -1,0 +1,58 @@
+{
+  "name": "Astral Wind",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "astral_wind := 50r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 21.25,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L2",
+          "damage": 26.75,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L3",
+          "damage": 32.25,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L4",
+          "damage": 37.75,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "L5",
+          "damage": 43.25,
+          "posture_damage": 12.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rapid delivery of consecutive attacks."
+}

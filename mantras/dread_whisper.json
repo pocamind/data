@@ -1,0 +1,58 @@
+{
+  "name": "Dread Whisper",
+  "attributes": [
+    "Charisma"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "dread_whisper := 50r CHA",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 12,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 14,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 16,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 18,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Charisma": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "miscellaneous": "Deals 50% more damage if landed within 10 seconds of the last Dead Whisper hit. Applies Charm for 7.5 seconds.",
+  "voi": false,
+  "desc": "Grab your opponent and whisper a terrible truth in their ear. Further truths are unbearable. Deals increased damage to the insane."
+}

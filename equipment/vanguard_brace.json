@@ -1,0 +1,27 @@
+{
+  "name": "Vanguard Brace",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Vanguard",
+  "variants": [],
+  "talents": [
+    "Replenishing Knockout"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "vanguard_brace := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Icarus Sun Shield",
+  "type": "Shield",
+  "rarity": "Uncommon",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "icarus_sun_shield := ()",
+  "posture_max": 10,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire."
+}

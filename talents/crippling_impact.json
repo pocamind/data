@@ -1,0 +1,13 @@
+{
+  "name": "Crippling Impact",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "crippling_impact := ()",
+  "additional_info": "The duration of this effect scales on your Strength investment, being 2 seconds + 0.015 seconds per point of Strength. This lasts for 3.5 seconds at 100 Strength.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a critical with someone while Wrath Gem is active disables their vent for a few seconds."
+}

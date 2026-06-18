@@ -1,0 +1,16 @@
+{
+  "name": "Divine Cast Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "divine_cast_ring := ()",
+  "voi": true,
+  "desc": "Your mantras always cost your entire ether bar but do 3x damage."
+}

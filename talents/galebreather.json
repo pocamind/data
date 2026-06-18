@@ -1,0 +1,12 @@
+{
+  "name": "Galebreather",
+  "category": "Galebreather",
+  "rarity": "Common",
+  "reqs": "galebreather := 1 WND",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Grants you the ability to command wind as a Galebreather."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alloyblood",
+  "category": "Ironsinger",
+  "rarity": "Advanced",
+  "reqs": "alloyblood := 100s MTL",
+  "additional_info": "The effects of Alloyblood scale linearly with Ironsing investment, losing 0.3% bleed damage reduction and 0.75% blood loss damage reduction for every point in Ironsing below 100. Blood loss reduction is less effective if you are using the Curse of the No Life King Enchantment and stacks multiplicatively with Cauterized Wounds. The blood loss reduction does not affect blood drain effects like casting or being hit by Bloodrend Mantras, blood drain potions, and the blood loss Corrupt Resonance downside.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%."
+}

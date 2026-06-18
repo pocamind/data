@@ -1,0 +1,18 @@
+{
+  "name": "Flashboil",
+  "category": "Vaporbone",
+  "rarity": "Common",
+  "reqs": "flashboil := 30s ICE, 30s FLM",
+  "additional_info": "Steam deals 2 typeless damage per tick, at 6 ticks per second. Steam cannot be blocked nor parried.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.",
+  "exclusive": [
+    "Eruption Path: Lava Serpent",
+    "Glass Path: Crystallization",
+    "Wraith Path: Twisted Puppets"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Metal Wisp",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_wisp := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Passively restores your armor durability. Applies 1 Metal Rod on flourish.",
+  "voi": false,
+  "desc": "A servant of metal."
+}

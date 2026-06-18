@@ -1,0 +1,13 @@
+{
+  "name": "Arc Module: Guard",
+  "category": "Arcwarder",
+  "rarity": "Oath",
+  "reqs": "oath_arcwarder => arc_module_guard := ()",
+  "additional_info": "Prevents \"backhit\" Talents from proccing and grants 360 block against all attacks.",
+  "count_towards_talent_total": false,
+  "icon": "Arcwarder",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[In Arc Suit] You can block attacks from any direction and cannot be backstabbed."
+}

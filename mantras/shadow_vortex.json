@@ -1,0 +1,57 @@
+{
+  "name": "Shadow Vortex",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "shadow_vortex := 50r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 2,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 3.6,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 5.2,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 6.8,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 8.4,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Create a shadow vortex that pulls in everything in its surrounding."
+}

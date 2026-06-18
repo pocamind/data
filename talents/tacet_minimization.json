@@ -1,0 +1,13 @@
+{
+  "name": "Tacet Minimization",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "murmur_tacet => tacet_minimization := ()",
+  "additional_info": "Grants a Talent tool that massively reduces the size of your Tacet bubble on use.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lithe Step",
+  "category": "Bladeharper",
+  "rarity": "Oath",
+  "reqs": "oath_bladeharper => lithe_step := ()",
+  "additional_info": "Provides a brief speed boost on proc. 3s CD, reduced to 1s if in True Strength.",
+  "count_towards_talent_total": false,
+  "icon": "Bladeharper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed."
+}

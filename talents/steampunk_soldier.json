@@ -1,0 +1,12 @@
+{
+  "name": "Steampunk Soldier",
+  "category": "Steampunk Soldier",
+  "rarity": "Memento",
+  "reqs": "steampunk_soldier := ()",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": " Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced."
+}

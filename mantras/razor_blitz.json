@@ -1,0 +1,58 @@
+{
+  "name": "Razor Blitz",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "razor_blitz := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 22.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 30,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 37.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 45,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 52.5,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Create weapons on your arms and dash through."
+}

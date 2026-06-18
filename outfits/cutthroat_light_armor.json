@@ -1,0 +1,25 @@
+{
+  "mats": {
+    "Iron": 5,
+    "Cloth": 4,
+    "Fiber": 4,
+    "Crystal Lens": 1
+  },
+  "name": "Cutthroat Light Armor",
+  "reqs": "cutthroat_light_armor := 90r TTL",
+  "notes": 30,
+  "pants_id": "5115781415",
+  "shirt_id": "5115781293",
+  "talent": "Hunter's Reflexes",
+  "category": "Adept",
+  "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.1,
+    "Elemental Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Sturdy leather armor, fashioned for the hunters sent into the driftlands to deal with rival factions."
+}

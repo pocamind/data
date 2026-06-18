@@ -1,0 +1,12 @@
+{
+  "name": "Flaming Flourish",
+  "category": "The Demon Blade",
+  "rarity": "Common",
+  "reqs": "flamecharmer => flaming_flourish := 30s FLM",
+  "count_towards_talent_total": true,
+  "icon": "Blaze",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Set enemies on fire when you flourish or uppercut them."
+}

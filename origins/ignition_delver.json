@@ -1,0 +1,14 @@
+{
+  "name": "Ignition Delver",
+  "desc": "Just another day on the job. The riches below ain't gonna extract themselves now, are they?",
+  "outfit": "Union Initiate",
+  "spawns": [
+    "Miner",
+    "ChariotsSpire"
+  ],
+  "talents": [
+    "Union Card",
+    "Union Hook",
+    "Union Pager"
+  ]
+}

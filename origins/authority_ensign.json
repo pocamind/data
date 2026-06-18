@@ -1,0 +1,13 @@
+{
+  "name": "Authority Ensign",
+  "desc": "A bright-eyed recruit deployed to the Eastern Front. Three cheers for the cause!",
+  "outfit": "Authority Peacekeeper Armor",
+  "spawns": [
+    "Merit"
+  ],
+  "talents": [
+    "Authority Ensign",
+    "Horn of Authority"
+  ],
+  "faction": "Authority"
+}

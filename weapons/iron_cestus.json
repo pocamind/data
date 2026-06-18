@@ -1,0 +1,22 @@
+{
+  "name": "Iron Cestus",
+  "type": "Fist",
+  "rarity": "Uncommon",
+  "damage": 13.5,
+  "posture_damage": 5,
+  "range": 6,
+  "reqs": "iron_cestus := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.11,
+  "scaling": {
+    "Light Weapon": 7.5
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

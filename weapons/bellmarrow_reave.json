@@ -1,0 +1,23 @@
+{
+  "name": "Bellmarrow Reave",
+  "type": "Twinblade",
+  "rarity": "Mythical",
+  "damage": 21,
+  "posture_damage": 6,
+  "range": 8.4,
+  "reqs": "bellmarrow_reave := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.94,
+  "scaling": {
+    "Medium Weapon": 5.3
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Wrought from the hardened inner husks of Simforea's native Arkasids and bound with fragments of local flora, this twinblade bears the unmistakable mark of the resident Anansi Knell. Its paired edges are etched with frantic scrimshaw intricate patterns that seem to depict colliding oscillations, as if capturing sound itself in the act of tearing against its own reflection."
+}

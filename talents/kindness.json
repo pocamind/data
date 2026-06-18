@@ -1,0 +1,12 @@
+{
+  "name": "Kindness",
+  "category": "Warder Techniques",
+  "rarity": "Faction",
+  "reqs": "kindness := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Whenever you heal another player, heal 5 health yourself. [3 second cooldown]"
+}

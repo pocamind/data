@@ -1,0 +1,24 @@
+{
+  "name": "Hivelord's Hubris",
+  "type": "Greathammer",
+  "rarity": "Mythical",
+  "damage": 28,
+  "posture_damage": 9,
+  "range": 10,
+  "reqs": "hivelords_hubris := 60r STR, 100r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1.2,
+  "endlag": 0.15,
+  "swing_speed": 0.62,
+  "scaling": {
+    "Heavy Weapon": 10
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "...This isn't very efficient."
+}

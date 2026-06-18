@@ -1,0 +1,28 @@
+{
+  "name": "Ferractine",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 22,
+  "posture_damage": 6,
+  "range": 8,
+  "reqs": "ferractine := ()",
+  "damage_types": [
+    "Slash",
+    "Ironsing"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.97,
+  "scaling": {
+    "Ironsing": 7
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "...",
+  "talents": [
+    "Blade Threading"
+  ]
+}

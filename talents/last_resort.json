@@ -1,0 +1,15 @@
+{
+  "name": "Last Resort",
+  "category": "Limitbreaker",
+  "rarity": "Common",
+  "reqs": "last_resort := 35s WLL",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 10
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal +5% more damage when your health is below 25%."
+}

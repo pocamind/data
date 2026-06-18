@@ -1,0 +1,13 @@
+{
+  "name": "Ad Astra",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "ad_astra := ()",
+  "additional_info": "Grants a Talent tool that allows you to travel to and from The Floating Keep.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Return Home"
+}

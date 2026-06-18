@@ -1,0 +1,27 @@
+{
+  "name": "Windmill Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Ice Armor": {
+      "value": 2,
+      "percentage": true
+    },
+    "Wind Armor": {
+      "value": 2,
+      "percentage": true
+    },
+    "Elemental Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {},
+  "reqs": "windmill_ring := 60 ttl",
+  "voi": false,
+  "desc": "Taking damage from ice or wind will cause you to regenerate ether."
+}

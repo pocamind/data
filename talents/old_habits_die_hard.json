@@ -1,0 +1,15 @@
+{
+  "name": "Old Habits Die Hard",
+  "category": "Marauder",
+  "rarity": "Common",
+  "reqs": "old_habits_die_hard := 20s WLL",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage."
+}

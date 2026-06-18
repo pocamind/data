@@ -1,0 +1,55 @@
+{
+  "name": "Rupture",
+  "attributes": [
+    "Oath: Chainwarden"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_chainwarden => rupture := ()",
+  "damage": [
+    {
+      "variant": "No Chain",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24.4,
+          "posture_damage": 30
+        }
+      ]
+    },
+    {
+      "variant": "Chain",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 45,
+          "posture_damage": 30
+        }
+      ]
+    },
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "miscellaneous": "(Enchained variant: 37)",
+  "voi": false,
+  "desc": "Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage."
+}

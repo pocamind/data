@@ -1,0 +1,59 @@
+{
+  "name": "Air Force",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "air_force := 1r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 22,
+          "posture_damage": 5.5
+        },
+        {
+          "level": "L2",
+          "damage": 24.4,
+          "posture_damage": 5.7
+        },
+        {
+          "level": "L3",
+          "damage": 26.8,
+          "posture_damage": 5.9
+        },
+        {
+          "level": "L4",
+          "damage": 29.2,
+          "posture_damage": 6.1
+        },
+        {
+          "level": "L5",
+          "damage": 31.6,
+          "posture_damage": 6.3
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Shoots out an air blast."
+}

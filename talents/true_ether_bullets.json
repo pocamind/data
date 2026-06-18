@@ -1,0 +1,13 @@
+{
+  "name": "True Ether Bullets",
+  "category": "Gunslinger",
+  "rarity": "Rare",
+  "reqs": "true_ether_bullets := 20r LHT or 20r MED, 30s INT",
+  "additional_info": "Landing 2 shots will make the 3rd shot deal elemental damage and apply the status effect correlating to your highest attunement. This Talent will not do anything if you do not have an attunement.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using Ether Bullets applies elemental damage of your highest investment."
+}

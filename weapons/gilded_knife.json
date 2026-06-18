@@ -1,0 +1,22 @@
+{
+  "name": "Gilded Knife",
+  "type": "Dagger",
+  "rarity": "Uncommon",
+  "damage": 13,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "gilded_knife := 25r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.23,
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A knife of fine craftsmanship, bearing an equally fine sharpness."
+}

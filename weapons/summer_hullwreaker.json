@@ -1,0 +1,25 @@
+{
+  "name": "Summer Hullwreaker",
+  "type": "Greatcannon",
+  "rarity": "Common",
+  "damage": 24.5,
+  "posture_damage": 9,
+  "range": 8.5,
+  "reqs": "summer_hullwreaker := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.81,
+  "scaling": {
+    "Heavy Weapon": 8.2
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An antique creation from the Summer Company, built to place battleship-level firepower in the palms of your hands. Once hailed a masterpiece, it was soon overshadowed by the lighter rifles, yet in the hands of someone strong enough to wield it, it can still unleash devastation unmatched by newer models."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ignition Rite",
+  "category": "Solborn",
+  "rarity": "Memento",
+  "reqs": "ignition_rite := ()",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Landing fire attacks with the phoenix summoned regenerates Heartfire."
+}

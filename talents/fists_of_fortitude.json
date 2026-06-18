@@ -1,0 +1,16 @@
+{
+  "name": "Fists of Fortitude",
+  "category": "Navaen Nomad",
+  "rarity": "Rare",
+  "reqs": "fists_of_fortitude := 20s FTD, 20s LHT",
+  "additional_info": "Lasts 10 seconds then goes on cooldown once the buff ends. You can only gain stacks from M1s or criticals with the M1 tag.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD",
+  "exclusive": [
+    "Orbital Ice"
+  ]
+}

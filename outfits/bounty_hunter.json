@@ -1,0 +1,24 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Eternal Logstone": 1
+  },
+  "name": "Bounty Hunter",
+  "pants_id": "5707068742",
+  "shirt_id": "5707040824",
+  "reqs": "bounty_hunter := 90r TTL",
+  "notes": 0,
+  "talent": "Lightweight",
+  "category": "Adept",
+  "durability": 1500,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.1
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Armor suited for hunting monsters."
+}

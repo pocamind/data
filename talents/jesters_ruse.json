@@ -1,0 +1,13 @@
+{
+  "name": "Jester's Ruse",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "jesters_ruse := ()",
+  "additional_info": "Visionshaper's Cheap Trick visual effect plays on proc. This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.",
+  "count_towards_talent_total": false,
+  "icon": "Visionshaper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified."
+}

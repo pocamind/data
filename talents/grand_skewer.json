@@ -1,0 +1,13 @@
+{
+  "name": "Grand Skewer",
+  "category": "Javelin Lord",
+  "rarity": "Rare",
+  "reqs": "grand_skewer := 60s LTN",
+  "additional_info": "Press [F] during Grand Javelin's windup to activate this effect. This does not work in Layer 1.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Grand Javelin now carries opponents through the air."
+}

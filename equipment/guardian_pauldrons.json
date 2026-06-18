@@ -1,0 +1,23 @@
+{
+  "name": "Guardian Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": "Guardian",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "guardian_pauldrons := ()",
+  "voi": false,
+  "desc": "Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized."
+}

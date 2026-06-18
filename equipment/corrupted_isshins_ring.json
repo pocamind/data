@@ -1,0 +1,14 @@
+{
+  "name": "Corrupted Isshin's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "corrupted_isshins_ring := 90r ttl",
+  "voi": true,
+  "desc": "Dropped from a wandering swordsman who went insane. Take 2x damage and deal 2x damage when in close-quarters combat."
+}

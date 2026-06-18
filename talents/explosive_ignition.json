@@ -1,0 +1,13 @@
+{
+  "name": "Explosive Ignition",
+  "category": "Steampunk Soldier",
+  "rarity": "Memento",
+  "reqs": "explosive_ignition := ()",
+  "additional_info": "Grants a Talent tool, that when used while standing inside of a steam cloud causes a very large explosion after a delay, dealing high damage and consuming the Steam cloud.",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Ignite nearby steam, causing a large explosion."
+}

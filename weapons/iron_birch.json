@@ -1,0 +1,26 @@
+{
+  "name": "Iron Birch",
+  "type": "Greataxe",
+  "rarity": "Uncommon",
+  "damage": 26,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "iron_birch := 50r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 6
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes.",
+  "talents": [
+    "Expeditions Combo"
+  ]
+}

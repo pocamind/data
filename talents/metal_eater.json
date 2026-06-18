@@ -1,0 +1,13 @@
+{
+  "name": "Metal Eater",
+  "category": "Metallurgist",
+  "rarity": "Common",
+  "reqs": "metal_eater := 50s MTL",
+  "additional_info": "Consumes 30% of your maximum armor on proc, regardless of the Ether cost of the Mantra.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you have no ether, consume Armor durability to cast your Ironsing mantras."
+}

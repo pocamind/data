@@ -1,0 +1,43 @@
+{
+  "name": "Veinbreaker",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "veinbreaker := 30r BLD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 90,
+          "posture_damage": 25
+        },
+        {
+          "level": "L2",
+          "damage": 95,
+          "posture_damage": 25
+        },
+        {
+          "level": "GB",
+          "damage": 1,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Charge up a strong punch infused with your blood."
+}

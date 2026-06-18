@@ -1,0 +1,30 @@
+{
+  "name": "Dread Breath",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "dread_breath := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "..."
+}

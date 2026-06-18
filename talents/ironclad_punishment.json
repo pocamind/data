@@ -1,0 +1,13 @@
+{
+  "name": "Ironclad Punishment",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "ironclad_punishment := 45s MTL",
+  "additional_info": "Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent has, capping at +15% if your opponent is at maximum armor.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Ironsing mantras deal more posture damage to enemies the more armor durability they have."
+}

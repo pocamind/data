@@ -1,0 +1,26 @@
+{
+  "name": "Whistling Periapt",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Whistleguard"
+  ],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    },
+    "Wind Armor": {
+      "value": 8,
+      "percentage": true
+    }
+  },
+  "pips": {},
+  "reqs": "whistling_periapt := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "The favor of the winds is yours; landing three hits (five for light weapons) on an opponent without taking damage envelops you in a shield of wind"
+}

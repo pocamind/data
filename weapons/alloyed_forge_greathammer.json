@@ -1,0 +1,23 @@
+{
+  "name": "Alloyed Forge Greathammer",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 25.5,
+  "posture_damage": 9.5,
+  "range": 9,
+  "reqs": "alloyed_forge_greathammer := 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.81,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill."
+}

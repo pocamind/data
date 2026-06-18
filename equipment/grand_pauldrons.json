@@ -1,0 +1,16 @@
+{
+  "name": "Grand Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Grand",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "grand_pauldrons := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gunpowder Blast",
+  "category": "Gunslinger",
+  "rarity": "Common",
+  "reqs": "gunpowder_blast := 45s LHT",
+  "additional_info": "Pistol blast shots deal 2 more posture damage if you have no bullets in your inventory.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pistol shots without bullets do 2 extra posture. [Dual Guns]"
+}

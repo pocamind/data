@@ -1,0 +1,29 @@
+{
+  "name": "Legion Phalanx Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Legion Phalanx",
+  "variants": [],
+  "talents": [
+    "Hoplite"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "legion_phalanx_plate := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

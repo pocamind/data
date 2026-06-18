@@ -1,0 +1,12 @@
+{
+  "name": "Lock n Load",
+  "category": "Outlaw",
+  "rarity": "Common",
+  "reqs": "lock_n_load := 60s LHT",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%."
+}

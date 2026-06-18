@@ -1,0 +1,16 @@
+{
+  "name": "Hot Potato",
+  "category": "Saboteur",
+  "rarity": "Common",
+  "reqs": "family_recipe => hot_potato := ()",
+  "additional_info": "This speed boost lasts 2 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 6
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice."
+}

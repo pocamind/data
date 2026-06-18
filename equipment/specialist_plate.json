@@ -1,0 +1,23 @@
+{
+  "name": "Specialist Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Specialist",
+  "variants": [],
+  "talents": [
+    "Stormcall"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "specialist_plate := 315 ttl, 30 wnd, 30 ltn",
+  "voi": false,
+  "desc": "Armorers in the Hundred Legion dedicate their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lumensplitter",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 24,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "lumensplitter := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A vile, jagged blade fashioned in mimicry of the jaws that claimed the isle of Caeranthil, Celtor's resplendent gate. Much like the frenzy that follows when a body hits the water, the South's submergence was a cascade of calamities one after another."
+}

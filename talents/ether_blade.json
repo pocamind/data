@@ -1,0 +1,12 @@
+{
+  "name": "Ether Blade",
+  "category": "Ether Conduit",
+  "rarity": "Common",
+  "reqs": "ether_blade := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras."
+}

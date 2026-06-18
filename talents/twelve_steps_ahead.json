@@ -1,0 +1,13 @@
+{
+  "name": "Twelve Steps Ahead",
+  "category": "Omniscient",
+  "rarity": "Common",
+  "reqs": "twelve_steps_ahead := 80s INT",
+  "additional_info": "This effect requires your opponent to be within 90 studs of you. For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.13 seconds with 55 Intelligence.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds."
+}

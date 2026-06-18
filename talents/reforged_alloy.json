@@ -1,0 +1,12 @@
+{
+  "name": "Reforged Alloy",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "reforged_alloy := ()",
+  "count_towards_talent_total": false,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed."
+}

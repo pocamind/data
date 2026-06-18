@@ -1,0 +1,12 @@
+{
+  "name": "Shocking Finish",
+  "category": "Thundercaller",
+  "rarity": "Common",
+  "reqs": "shocking_finish := 30s LTN",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Following a flourish up with a lightning beam causes it to be casted instantly."
+}

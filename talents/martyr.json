@@ -1,0 +1,13 @@
+{
+  "name": "Martyr",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "martyr := ()",
+  "additional_info": "Martyrdom grants a +20% damage and damage reduction buff to your allies. Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you're knocked Unconscious, enemies gain less health and posture, and allies around you are granted Martyrdom for 20s"
+}

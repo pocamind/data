@@ -1,0 +1,13 @@
+{
+  "name": "Shadow Overflow",
+  "category": "Darksiphon",
+  "rarity": "Common",
+  "reqs": "dark_god => shadow_overflow := 55s SDW",
+  "additional_info": "Has a 4 second cooldown. Deals 5 Shadowcast damage on proc.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby."
+}

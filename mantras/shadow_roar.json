@@ -1,0 +1,61 @@
+{
+  "name": "Shadow Roar",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shadow_roar := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 24
+        },
+        {
+          "level": "L2",
+          "damage": 48,
+          "posture_damage": 24
+        },
+        {
+          "level": "L3",
+          "damage": 56,
+          "posture_damage": 24
+        },
+        {
+          "level": "L4",
+          "damage": 64,
+          "posture_damage": 24
+        },
+        {
+          "level": "L5",
+          "damage": 72,
+          "posture_damage": 24
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Blossoming Darkness"
+  ],
+  "voi": false,
+  "desc": "Roar a wave of shadows."
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Adrenaline Surge",
+  "attributes": [
+    "Agility"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "adrenaline_surge := 20r AGL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L6",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L7",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L8",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Action Surge",
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Grants a speed boost while active.",
+  "voi": false,
+  "desc": "An adrenaline rush of mobility."
+}

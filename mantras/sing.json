@@ -1,0 +1,61 @@
+{
+  "name": "Sing",
+  "attributes": [
+    "Charisma"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "sing := 25r CHA",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 1,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "shared_cooldowns": [
+    "Glare"
+  ],
+  "related_talents": [
+    "Encore",
+    "Propagandist"
+  ],
+  "voi": false,
+  "desc": "Charm those around you with your powerful voice."
+}

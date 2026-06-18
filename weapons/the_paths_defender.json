@@ -1,0 +1,14 @@
+{
+  "name": "The Path's Defender",
+  "type": "Shield",
+  "rarity": "Rare",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "the_paths_defender := ()",
+  "posture_max": 10,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A venerated shield, donned only by those who have walked their own Path as they see fit."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Metal Shackles",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "metal_shackles := 15s STR, 40s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be Sluggish for 12 seconds."
+}

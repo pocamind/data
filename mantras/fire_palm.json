@@ -1,0 +1,43 @@
+{
+  "name": "Fire Palm",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "fire_palm := 20r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 26,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 27.5,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame."
+}

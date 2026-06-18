@@ -1,0 +1,103 @@
+{
+  "name": "Frost Grab",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "frost_grab := 30r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 14.4,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 16.8,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 19.2,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 21.6,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 9,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 10.8,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 12.6,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 14.4,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 16.2,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug",
+    "Throw"
+  ],
+  "voi": false,
+  "desc": "An icy chokehold."
+}

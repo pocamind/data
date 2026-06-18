@@ -1,0 +1,40 @@
+{
+  "name": "Arc Wave",
+  "attributes": [
+    "Oath: Arcwarder"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_arcwarder => arc_wave := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30.8,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Arc Module: Enhance"
+  ],
+  "miscellaneous": "Clears 50% of your current posture if used in Arc Suit.",
+  "voi": false,
+  "desc": "Stomp the ground releasing a wave of Arc energy."
+}

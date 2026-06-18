@@ -1,0 +1,60 @@
+{
+  "name": "Master's Flourish",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "masters_flourish := 30r MED",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 8.4,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 16.8,
+          "posture_damage": 10
+        },
+        {
+          "level": "L3",
+          "damage": 25.2,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 33.6,
+          "posture_damage": 10
+        },
+        {
+          "level": "L5",
+          "damage": 42,
+          "posture_damage": 10
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "A powerful slash that chips through block and slashes through armor."
+}

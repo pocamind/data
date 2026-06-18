@@ -1,0 +1,22 @@
+{
+  "name": "Blindfold",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "White",
+    "Black",
+    "Crimson"
+  ],
+  "talents": [
+    "Blinded"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "blindfold := ()",
+  "voi": false,
+  "desc": "A tightly wound blindfold to hide the horrors of the world from your waking eyes."
+}

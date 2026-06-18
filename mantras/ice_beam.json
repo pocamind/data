@@ -1,0 +1,51 @@
+{
+  "name": "Ice Beam",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ice_beam := 1r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 28,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 29.2,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "shared_cooldowns": [
+    "Lightning Beam"
+  ],
+  "related_talents": [
+    "Preceding Chill"
+  ],
+  "voi": true,
+  "desc": "Fire a beam of ice."
+}

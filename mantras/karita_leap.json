@@ -1,0 +1,60 @@
+{
+  "name": "Karita Leap",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "karita_leap := 20r LHT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 33,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 36,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 39,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 42,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Launch yourself into a flying kick, backflipping into the air if you hit a wall."
+}

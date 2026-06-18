@@ -1,0 +1,12 @@
+{
+  "name": "Ether Reflux",
+  "category": "Ether Erudite",
+  "rarity": "Memento",
+  "reqs": "ether_reflux := ()",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Successfully countering an opponent with Prediction gives you 2 Ether Erudite stacks."
+}

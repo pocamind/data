@@ -1,0 +1,98 @@
+{
+  "name": "Crystal Impale",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "crystal_impale := 40r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 23.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 28.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 33.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 38.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 43.3,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Airborne",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 12.75,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 17.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 19.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
+  "voi": false,
+  "desc": "Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee."
+}

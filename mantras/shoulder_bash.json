@@ -1,0 +1,46 @@
+{
+  "name": "Shoulder Bash",
+  "attributes": [
+    "Fortitude"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "shoulder_bash := 35r FTD",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 9.9,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 13.05,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Fortitude": 1.65
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": true,
+  "desc": "Rush at your enemies with your full physical force."
+}

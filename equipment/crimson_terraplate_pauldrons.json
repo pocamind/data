@@ -1,0 +1,19 @@
+{
+  "name": "Crimson Terraplate Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Cruentare"
+  ],
+  "innates": {},
+  "pips": {
+    "Legendary": 1,
+    "Rare": 2
+  },
+  "reqs": "crimson_terraplate_pauldrons := ()",
+  "voi": false,
+  "desc": "..."
+}

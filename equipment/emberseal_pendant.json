@@ -1,0 +1,16 @@
+{
+  "name": "Emberseal Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Pyreborne"
+  ],
+  "innates": {},
+  "pips": {},
+  "reqs": "emberseal_pendant := ()",
+  "voi": true,
+  "desc": "..."
+}

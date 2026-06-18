@@ -1,0 +1,24 @@
+{
+  "name": "Ascended Outlaw Robes",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Ascended Outlaw",
+  "variants": [],
+  "talents": [
+    "Ether Pinpoint"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "ascended_outlaw_robes := 315 ttl",
+  "voi": false,
+  "desc": "In the Hundred Legion's territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers."
+}

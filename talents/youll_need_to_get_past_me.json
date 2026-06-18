@@ -1,0 +1,13 @@
+{
+  "name": "You'll Need To Get Past Me",
+  "category": "Public Figure",
+  "rarity": "Common",
+  "reqs": "youll_need_to_get_past_me := 75s CHA",
+  "additional_info": "Spawns in an allied NPC to attack whoever hits you. This Talent can only proc if you are not in combat. The cooldown of this Talent scales on your Charisma investment, having a base cooldown of 69.286 seconds with each investment point into Charisma decreasing this by 0.143 seconds. At requirements, this Talent will have a 59 second cooldown, has a maximum cooldown of 62 seconds at 50 Charisma, and a minimum cooldown of 55 seconds at 100 Charisma.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you're attacked, one of your many allies will leap into action to protect their boss."
+}

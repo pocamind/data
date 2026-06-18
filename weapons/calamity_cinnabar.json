@@ -1,0 +1,23 @@
+{
+  "name": "Calamity Cinnabar",
+  "type": "Greatsword",
+  "rarity": "Exclusive",
+  "damage": 22,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "calamity_cinnabar := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "attack_duration": 0.9,
+  "endlag": 0.15,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 4,
+    "Shadowcast": 9
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
+}

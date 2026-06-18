@@ -1,0 +1,56 @@
+{
+  "name": "Slice 'n' Dice",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "slice_n_dice := 60r MED",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 19.1,
+          "posture_damage": 32
+        },
+        {
+          "level": "L2",
+          "damage": 24.2,
+          "posture_damage": 32
+        },
+        {
+          "level": "L3",
+          "damage": 29.3,
+          "posture_damage": 32
+        },
+        {
+          "level": "L4",
+          "damage": 34.4,
+          "posture_damage": 32
+        },
+        {
+          "level": "L5",
+          "damage": 39.5,
+          "posture_damage": 32
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "Step forward and slice through your enemies. Ability can be activated again on a successful hit."
+}

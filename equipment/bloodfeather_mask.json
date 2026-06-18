@@ -1,0 +1,21 @@
+{
+  "name": "Bloodfeather Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Bloodfeather",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "bloodfeather_mask := ()",
+  "voi": false,
+  "desc": "..."
+}

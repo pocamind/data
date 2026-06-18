@@ -1,0 +1,12 @@
+{
+  "name": "Orb Discharge",
+  "category": "Flashing Thunder",
+  "rarity": "Memento",
+  "reqs": "orb_discharge := ()",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "If an extra orb is available, you can consume it to vent if you don't have enough tempo."
+}

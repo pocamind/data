@@ -1,0 +1,65 @@
+{
+  "name": "Metal Turret",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_turret := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10,
+          "posture_damage": 5
+        },
+        {
+          "level": "L2",
+          "damage": 12,
+          "posture_damage": 5
+        },
+        {
+          "level": "L3",
+          "damage": 14,
+          "posture_damage": 5
+        },
+        {
+          "level": "L4",
+          "damage": 16,
+          "posture_damage": 5
+        },
+        {
+          "level": "L5",
+          "damage": 18,
+          "posture_damage": 5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "shared_cooldowns": [
+    "Firing Line"
+  ],
+  "voi": false,
+  "desc": "An automated turret that fires at targets that that cross its sight."
+}

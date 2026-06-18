@@ -1,0 +1,13 @@
+{
+  "name": "Full Reset",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "full_reset := ()",
+  "additional_info": "Also works on non-humanoid monsters, resetting your Resonance cooldown after they die.",
+  "count_towards_talent_total": true,
+  "icon": "Bell",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown."
+}

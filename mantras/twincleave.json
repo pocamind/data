@@ -1,0 +1,56 @@
+{
+  "name": "Twincleave",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "twincleave := 50r MED",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 27.75,
+          "posture_damage": 13.5
+        },
+        {
+          "level": "L2",
+          "damage": 31.45,
+          "posture_damage": 13.5
+        },
+        {
+          "level": "L3",
+          "damage": 35.15,
+          "posture_damage": 13.5
+        },
+        {
+          "level": "L4",
+          "damage": 38.85,
+          "posture_damage": 13.5
+        },
+        {
+          "level": "L5",
+          "damage": 42.55,
+          "posture_damage": 13.5
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "Dart around the battlefield with devastating cleaves delivered in quick succession."
+}

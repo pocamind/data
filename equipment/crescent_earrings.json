@@ -1,0 +1,21 @@
+{
+  "name": "Crescent Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Ether": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "crescent_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

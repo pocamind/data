@@ -1,0 +1,12 @@
+{
+  "name": "Oh The Irony",
+  "category": "Ironsinger",
+  "rarity": "Common",
+  "reqs": "oh_the_irony := 40s CHA, 60s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration."
+}

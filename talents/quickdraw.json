@@ -1,0 +1,13 @@
+{
+  "name": "Quickdraw",
+  "category": "Gunslinger",
+  "rarity": "Common",
+  "reqs": "quickdraw := 55s LHT",
+  "additional_info": "Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]"
+}

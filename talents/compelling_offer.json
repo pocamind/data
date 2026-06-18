@@ -1,0 +1,13 @@
+{
+  "name": "Compelling Offer",
+  "category": "Toxic Personality",
+  "rarity": "Memento",
+  "reqs": "compelling_offer := ()",
+  "additional_info": "Madness from this Talent procs when attacking charmed enemies who are below 50% health. Using Taunt as a counter displays Prediction's visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second. Taunt counter does not deal damage, but instead stacks Taunt's damage buff effect.",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. [Madness] Your taunt also now functions as a counter that stacks damage multipliers with every successful taunt."
+}

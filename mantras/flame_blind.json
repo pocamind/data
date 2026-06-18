@@ -1,0 +1,62 @@
+{
+  "name": "Flame Blind",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_blind := 1r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Concussive Flash"
+  ],
+  "voi": false,
+  "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it."
+}

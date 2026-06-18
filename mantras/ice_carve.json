@@ -1,0 +1,91 @@
+{
+  "name": "Ice Carve",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "ice_carve := 30r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 45,
+          "posture_damage": 9
+        },
+        {
+          "level": "L2",
+          "damage": 49.5,
+          "posture_damage": 9
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Round Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 60,
+          "posture_damage": 20
+        },
+        {
+          "level": "L2",
+          "damage": 70,
+          "posture_damage": 20
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Spring Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 60,
+          "posture_damage": 20
+        },
+        {
+          "level": "L2",
+          "damage": 70,
+          "posture_damage": 20
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Round Spark",
+    "Spring Spark"
+  ],
+  "voi": true,
+  "desc": "A sharp disk of ice."
+}

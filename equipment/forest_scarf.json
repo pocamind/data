@@ -1,0 +1,22 @@
+{
+  "name": "Forest Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Lightning Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "forest_scarf := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Fire Forge",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "fire_forge := 20r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25,
+          "posture_damage": 12
+        },
+        {
+          "level": "L2",
+          "damage": 28,
+          "posture_damage": 12
+        },
+        {
+          "level": "L3",
+          "damage": 31,
+          "posture_damage": 12
+        },
+        {
+          "level": "L4",
+          "damage": 34,
+          "posture_damage": 12
+        },
+        {
+          "level": "L5",
+          "damage": 37,
+          "posture_damage": 12
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Tornado Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 41.7,
+          "posture_damage": 13
+        },
+        {
+          "level": "L2",
+          "damage": 46.7,
+          "posture_damage": 13
+        },
+        {
+          "level": "L3",
+          "damage": 51.7,
+          "posture_damage": 13
+        },
+        {
+          "level": "L4",
+          "damage": 56.7,
+          "posture_damage": 13
+        },
+        {
+          "level": "L5",
+          "damage": 61.7,
+          "posture_damage": 13
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Tornado Spark"
+  ],
+  "related_talents": [
+    "Hell's Partisan"
+  ],
+  "voi": false,
+  "desc": "Toss a nimble dagger."
+}

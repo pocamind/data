@@ -1,0 +1,21 @@
+{
+  "name": "Suncross Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "suncross_pendant := 90r TTL",
+  "voi": false,
+  "desc": "A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial."
+}

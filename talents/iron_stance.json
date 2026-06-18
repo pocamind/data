@@ -1,0 +1,13 @@
+{
+  "name": "Iron Stance",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "iron_stance := ()",
+  "additional_info": "Grants immunity to one instance of ragdoll. If this procs, it will go on a 20 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Be able to shrug off being ragdolled every so often."
+}

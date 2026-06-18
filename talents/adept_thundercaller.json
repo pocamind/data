@@ -1,0 +1,13 @@
+{
+  "name": "Adept Thundercaller",
+  "category": "Thundercaller",
+  "rarity": "Common",
+  "reqs": "thundercaller => adept_thundercaller := 20s LTN",
+  "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now obtain 1-star Thundercaller mantras."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Echolocator",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "echolocator := ()",
+  "additional_info": "Pings the location of nearby players who unsheathe their weapons (even through Tacet and Lowstride) and event spawns.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats."
+}

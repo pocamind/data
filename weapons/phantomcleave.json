@@ -1,0 +1,24 @@
+{
+  "name": "Phantomcleave",
+  "type": "Sword",
+  "rarity": "Uncommon",
+  "damage": 20,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "phantomcleave := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": true,
+  "desc": "A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master."
+}

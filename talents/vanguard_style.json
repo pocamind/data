@@ -1,0 +1,14 @@
+{
+  "name": "Vanguard Style",
+  "category": "Vanguard Techniques",
+  "rarity": "Faction",
+  "reqs": "vanguard_style := ()",
+  "additional_info": "This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "stats": {},
+  "vaulted": false,
+  "voi": false,
+  "desc": "When using the Jus Karita critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical."
+}

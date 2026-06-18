@@ -1,0 +1,24 @@
+{
+  "name": "Tiran Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Featherfall"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "tiran_pendant := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "Worn by Tiran spiritual leaders, the wielder is safeguarded against the numerous sheer drops and falls of the Tiran homelands. Thought to have originated from a particularly gruesome succession crisis where a leader was shoved unceremoniously off a cliff following a sermon."
+}

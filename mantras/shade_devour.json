@@ -1,0 +1,134 @@
+{
+  "name": "Shade Devour",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shade_devour := 20r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 7,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 8.65,
+          "posture_damage": 8
+        },
+        {
+          "level": "L3",
+          "damage": 10.3,
+          "posture_damage": 8
+        },
+        {
+          "level": "L4",
+          "damage": 11.95,
+          "posture_damage": 8
+        },
+        {
+          "level": "L5",
+          "damage": 13.6,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 21,
+          "posture_damage": 24
+        },
+        {
+          "level": "L2",
+          "damage": 25.95,
+          "posture_damage": 24
+        },
+        {
+          "level": "L3",
+          "damage": 30.9,
+          "posture_damage": 24
+        },
+        {
+          "level": "L4",
+          "damage": 35.85,
+          "posture_damage": 24
+        },
+        {
+          "level": "L5",
+          "damage": 40.8,
+          "posture_damage": 24
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Blast Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 14,
+          "posture_damage": 8
+        },
+        {
+          "level": "L2",
+          "damage": 15.65,
+          "posture_damage": 8
+        },
+        {
+          "level": "L3",
+          "damage": 17.3,
+          "posture_damage": 8
+        },
+        {
+          "level": "L4",
+          "damage": 18.95,
+          "posture_damage": 8
+        },
+        {
+          "level": "L5",
+          "damage": 20.6,
+          "posture_damage": 8
+        },
+        {
+          "level": "GB",
+          "damage": 1,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Gorge on your own health for raw strength"
+}

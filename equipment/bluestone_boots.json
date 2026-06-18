@@ -1,0 +1,23 @@
+{
+  "name": "Bluestone Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Bluestone",
+  "variants": [],
+  "talents": [
+    "I'm Blue"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "bluestone_boots := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

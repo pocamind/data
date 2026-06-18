@@ -1,0 +1,12 @@
+{
+  "name": "Masterwork",
+  "category": "Scrapsinger",
+  "rarity": "Rare",
+  "reqs": "artisans_blade => masterwork := 60s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage."
+}

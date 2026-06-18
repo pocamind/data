@@ -1,0 +1,16 @@
+{
+  "name": "Ferryman's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "ferrymans_ring := ()",
+  "voi": false,
+  "desc": "A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%."
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Iceberg",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "iceberg := 50r ICE",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 17.5,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Frostdraw": 5
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Reinforce"
+  ],
+  "miscellaneous": "Heals you in pulses and grants an autoparry frame. Restricts movement while active.",
+  "voi": true,
+  "desc": "Enter a state of cryostasis."
+}

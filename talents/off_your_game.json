@@ -1,0 +1,12 @@
+{
+  "name": "Off Your Game",
+  "category": "Empath",
+  "rarity": "Common",
+  "reqs": "off_your_game := 90s CHA",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You now slow Taunted enemies when you hit them."
+}

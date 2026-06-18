@@ -1,0 +1,56 @@
+{
+  "name": "Metal Kick",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "metal_kick := 20r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 7.2,
+          "posture_damage": 14
+        },
+        {
+          "level": "L2",
+          "damage": 13.2,
+          "posture_damage": 14
+        },
+        {
+          "level": "L3",
+          "damage": 19.2,
+          "posture_damage": 14
+        },
+        {
+          "level": "L4",
+          "damage": 25.2,
+          "posture_damage": 14
+        },
+        {
+          "level": "L5",
+          "damage": 31.2,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "sparks": [
+    "Spring Spark"
+  ],
+  "voi": false,
+  "desc": "A powerful kick laced with metal."
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Searing Snare",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "searing_snare := 20r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 18
+        },
+        {
+          "level": "L2",
+          "damage": 25,
+          "posture_damage": 20
+        },
+        {
+          "level": "L3",
+          "damage": 30,
+          "posture_damage": 22
+        },
+        {
+          "level": "L4",
+          "damage": 35,
+          "posture_damage": 24
+        },
+        {
+          "level": "L5",
+          "damage": 40,
+          "posture_damage": 26
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "voi": false,
+  "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched."
+}

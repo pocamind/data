@@ -1,0 +1,24 @@
+{
+  "name": "Investigator's Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Diplomat"
+  ],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "investigators_hat := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

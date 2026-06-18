@@ -1,0 +1,98 @@
+{
+  "name": "Dark Blade",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "dark_blade := 1r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 34.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 39,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 43.5,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 48,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Tornado Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 46,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 52,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 58,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 64,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Tornado Spark"
+  ],
+  "voi": false,
+  "desc": "Slicing blades of dark energy."
+}

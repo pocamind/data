@@ -1,0 +1,13 @@
+{
+  "name": "Sable Winds",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "sable_winds := ()",
+  "additional_info": "Inhale bonuses now apply to Shadowcast Mantras as well.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Soar",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "soar := ()",
+  "additional_info": "This allows you to retain your full momentum during your weapon critical. This Talent will be disabled if you equip a Motif onto the Withered Gale Pale.",
+  "count_towards_talent_total": false,
+  "icon": "Wings",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Retain full walkspeed while using your crit."
+}

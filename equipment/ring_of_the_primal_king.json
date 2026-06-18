@@ -1,0 +1,14 @@
+{
+  "name": "Ring of the Primal King",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "ring_of_the_primal_king := ()",
+  "voi": true,
+  "desc": "All attacks that apply knockback automatically apply daze. All Roar/Yell moves cause damage to dazed targets."
+}

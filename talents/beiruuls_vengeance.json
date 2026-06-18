@@ -1,0 +1,12 @@
+{
+  "name": "Beiruul's Vengeance",
+  "category": "Quest",
+  "rarity": "Quest",
+  "reqs": "beiruuls_vengeance := ()",
+  "count_towards_talent_total": false,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal 5% more damage to factions that despise you. Serves them right."
+}

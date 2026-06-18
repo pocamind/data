@@ -1,0 +1,22 @@
+{
+  "name": "Iron Spear",
+  "type": "Spear",
+  "rarity": "Common",
+  "damage": 17,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "iron_spear := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 2.5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A spear perfect for poking at a safe distance"
+}

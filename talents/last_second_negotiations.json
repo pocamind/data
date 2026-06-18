@@ -1,0 +1,12 @@
+{
+  "name": "Last Second Negotiations",
+  "category": "The Negotiator",
+  "rarity": "Common",
+  "reqs": "last_second_negotiations := 55s CHA",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Most enemies will hesitate a moment longer to execute you."
+}

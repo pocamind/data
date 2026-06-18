@@ -1,0 +1,26 @@
+{
+  "name": "Warmonger",
+  "type": "Greathammer",
+  "rarity": "Named",
+  "damage": 22,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "warmonger := 30r STR, 60r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "enchantable": false,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Warmonger hate. Warmonger destroy. Warmonger kill.",
+  "talents": [
+    "Pugnacious"
+  ]
+}

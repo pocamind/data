@@ -1,0 +1,65 @@
+{
+  "name": "Lightning Clones",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_clones := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 12,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 18,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 21,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 24,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Static Flash Clone"
+  ],
+  "miscellaneous": "Damage dealt is based on your build.",
+  "voi": false,
+  "desc": "Replicated forms of yourself conjured from electricity."
+}

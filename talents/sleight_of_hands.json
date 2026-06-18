@@ -1,0 +1,12 @@
+{
+  "name": "Sleight of Hands",
+  "category": "Outlaw",
+  "rarity": "Common",
+  "reqs": "sleight_of_hands := 50s LHT",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[1H Guns] When you flourish an opponent you instantly load a bullet."
+}

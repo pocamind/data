@@ -1,0 +1,28 @@
+{
+  "name": "Broodplate Helmet",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Broodplate",
+  "variants": [],
+  "talents": [
+    "Broodlord's Scream"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "broodlords_scream => broodplate_helmet := 165r TTL",
+  "voi": false,
+  "desc": "..."
+}

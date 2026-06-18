@@ -1,0 +1,56 @@
+{
+  "name": "Devouring Eye",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "devouring_eye := 30r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 75,
+          "posture_damage": 6
+        },
+        {
+          "level": "L2",
+          "damage": 82.5,
+          "posture_damage": 6
+        },
+        {
+          "level": "L3",
+          "damage": 90,
+          "posture_damage": 6
+        },
+        {
+          "level": "L4",
+          "damage": 97.5,
+          "posture_damage": 6
+        },
+        {
+          "level": "L5",
+          "damage": 105,
+          "posture_damage": 6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze."
+}

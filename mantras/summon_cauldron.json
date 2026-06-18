@@ -1,0 +1,50 @@
+{
+  "name": "Summon Cauldron",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "summon_cauldron := 20r INT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "Make a cauldron appear from your memories."
+}

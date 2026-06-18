@@ -1,0 +1,16 @@
+{
+  "name": "Ten-Gallon Bandana",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Ten-Gallon",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "ten_gallon_bandana := ()",
+  "voi": false,
+  "desc": "..."
+}

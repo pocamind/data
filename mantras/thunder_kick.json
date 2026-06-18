@@ -1,0 +1,58 @@
+{
+  "name": "Thunder Kick",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "thunder_kick := 20r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 25,
+          "posture_damage": 10
+        },
+        {
+          "level": "L2",
+          "damage": 28,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 31,
+          "posture_damage": 20
+        },
+        {
+          "level": "L4",
+          "damage": 34,
+          "posture_damage": 25
+        },
+        {
+          "level": "L5",
+          "damage": 37,
+          "posture_damage": 30
+        },
+        {
+          "level": "GB",
+          "damage": 5,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "An unrelenting kick like a clap of thunder."
+}

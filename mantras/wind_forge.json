@@ -1,0 +1,92 @@
+{
+  "name": "Wind Forge",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "wind_forge := 20r WND",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 21
+        },
+        {
+          "level": "L2",
+          "damage": 24,
+          "posture_damage": 21
+        },
+        {
+          "level": "L3",
+          "damage": 28,
+          "posture_damage": 21
+        },
+        {
+          "level": "L4",
+          "damage": 32,
+          "posture_damage": 21
+        },
+        {
+          "level": "L5",
+          "damage": 36,
+          "posture_damage": 21
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Multiplying Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 15,
+          "posture_damage": 15
+        },
+        {
+          "level": "L2",
+          "damage": 18,
+          "posture_damage": 15
+        },
+        {
+          "level": "L3",
+          "damage": 21,
+          "posture_damage": 15
+        },
+        {
+          "level": "L4",
+          "damage": 24,
+          "posture_damage": 15
+        },
+        {
+          "level": "L5",
+          "damage": 27,
+          "posture_damage": 15
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Encircle your foes with blades of wind that halt their escape until they respond."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Saintsblade",
+  "type": "Sword",
+  "rarity": "Unknown",
+  "damage": 28,
+  "posture_damage": 7,
+  "range": 8,
+  "reqs": "saintsblade := ()",
+  "damage_types": [
+    "Slash",
+    "Attunement"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.04,
+  "penetration": 0.1,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

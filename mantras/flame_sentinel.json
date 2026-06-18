@@ -1,0 +1,61 @@
+{
+  "name": "Flame Sentinel",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_sentinel := 30r FLM",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 5,
+          "posture_damage": 14
+        },
+        {
+          "level": "L2",
+          "damage": 6,
+          "posture_damage": 14
+        },
+        {
+          "level": "L3",
+          "damage": 7,
+          "posture_damage": 14
+        },
+        {
+          "level": "L4",
+          "damage": 8,
+          "posture_damage": 14
+        },
+        {
+          "level": "L5",
+          "damage": 9,
+          "posture_damage": 14
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "desc": "Conjure a turret of flames."
+}

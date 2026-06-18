@@ -1,0 +1,13 @@
+{
+  "name": "Umami",
+  "category": "Tavernkeep",
+  "rarity": "Equipment",
+  "reqs": "umami := ()",
+  "additional_info": "Has a 35% chance to proc with a 3 cooldown per proc attempt, going on cooldown even if it fails to proc. The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt. Procs on: The Long Tong of The Law, The Flippers of Fate, The Pastry Paster, and Fondant Splitter.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger."
+}

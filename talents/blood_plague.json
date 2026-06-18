@@ -1,0 +1,13 @@
+{
+  "name": "Blood Plague",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "blood_plague := ()",
+  "additional_info": "M1s apply stacks of Blood Plague. On critical, all Blood Plague stacks will be consumed to grant Temporary Health if your critical attack lands, with the amount of Temporary Health given scaling on the stacks of Blood Plague. The stacks of Blood Plague will be consumed regardless of if your critical attack lands, however.",
+  "count_towards_talent_total": false,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them."
+}

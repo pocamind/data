@@ -1,0 +1,25 @@
+{
+  "name": "Evanspear Greataxe",
+  "type": "Greataxe",
+  "rarity": "Rare",
+  "damage": 24,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "evanspear_greataxe := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1,
+  "endlag": 0.1,
+  "swing_speed": 0.73,
+  "scaling": {
+    "Heavy Weapon": 9.5
+  },
+  "bleed_damage": 3.6,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

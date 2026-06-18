@@ -1,0 +1,28 @@
+{
+  "name": "Fur Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Fur",
+  "variants": [
+    "Black",
+    "White"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Elemental Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "fur_boots := ()",
+  "voi": false,
+  "desc": "..."
+}

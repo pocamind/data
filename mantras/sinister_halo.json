@@ -1,0 +1,36 @@
+{
+  "name": "Sinister Halo",
+  "attributes": [
+    "Oath: Starkindred"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_starkindred => sinister_halo := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 32,
+          "posture_damage": 5.6
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "related_talents": [
+    "Ichor Imbuement"
+  ],
+  "voi": false,
+  "desc": "Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake."
+}

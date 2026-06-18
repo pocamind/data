@@ -1,0 +1,13 @@
+{
+  "name": "Scorchblood",
+  "category": "Bloodsong",
+  "rarity": "Common",
+  "reqs": "scorchblood := 40s FLM, 40s BLD",
+  "additional_info": "Deals 16.5 damage in an AoE on proc.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood."
+}

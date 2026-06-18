@@ -1,0 +1,7 @@
+{
+  "info": "Adds 0.25 true damage to your weapon attacks that guardbreak for every 1 weapon investment you have. Wyrmtooth will prioritize its heavy investment over its medium investment.",
+  "name": "Stone",
+  "category": "Weapon",
+  "in_game_desc": "Do extra true damage whenever you guardbreak an opponent with a light attack or critical.",
+  "obtainable_in": "Pathfinder"
+}

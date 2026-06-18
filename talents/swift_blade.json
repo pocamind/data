@@ -1,0 +1,12 @@
+{
+  "name": "Swift Blade",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "blademasters_robe => swift_blade := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Proccing Wind Gem now gives you 10% more light attack posture during its duration. Extend the duration of Wind Gems by 2 seconds.",
+  "icon": "Boots",
+  "roll2able": false
+}

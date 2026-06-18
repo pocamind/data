@@ -1,0 +1,91 @@
+{
+  "name": "Skyshatter Kick",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "skyshatter_kick := 80r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 40,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 60,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 80,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 100,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 120,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    },
+    {
+      "variant": "Round Spark",
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 17.6
+        },
+        {
+          "level": "L2",
+          "damage": 30,
+          "posture_damage": 19.2
+        },
+        {
+          "level": "L3",
+          "damage": 40,
+          "posture_damage": 20.8
+        },
+        {
+          "level": "L4",
+          "damage": 50,
+          "posture_damage": 22.4
+        },
+        {
+          "level": "L5",
+          "damage": 60,
+          "posture_damage": 24
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 1.65
+  },
+  "sparks": [
+    "Round Spark"
+  ],
+  "voi": false,
+  "desc": "Unleash two devastating kicks with your brute strength."
+}

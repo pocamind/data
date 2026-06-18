@@ -1,0 +1,19 @@
+{
+  "name": "Redsteel Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Redsteel",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "redsteel_boots := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Etrean Sashimono",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Traditional Execution"
+  ],
+  "innates": {
+    "Wind Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "etrean_sashimono := 90r TTL",
+  "voi": false,
+  "desc": "Once traditionally carried to battle by Etrean warriors, the sashimono style of banner is now little more than a historic artefact or curiosity. Ever since the Lord Regent's ascension to the throne, such battle standards have fallen out of fashion. Curiously, although various designs have survived to this day, no written records of them appear to remain, contemporary or otherwise. The significance of these once-important symbols is all but lost on the modern day observer - with the sole exception of the recognisable standard of the Kingdom of Etrea."
+}

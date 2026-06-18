@@ -1,0 +1,53 @@
+{
+  "name": "Encircle",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "encircle := 20r SDW",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 10,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 15,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 25,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 30,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "voi": false,
+  "desc": "Conjure shadows around your enemy before warp-striking to them."
+}

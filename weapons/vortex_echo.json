@@ -1,0 +1,23 @@
+{
+  "name": "Vortex Echo",
+  "type": "Fist",
+  "rarity": "Relic",
+  "damage": 13.5,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "vortex_echo := 65r CHA, 65r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.12,
+  "scaling": {
+    "Light Weapon": 8,
+    "Charisma": 3.5
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow just a bit older."
+}

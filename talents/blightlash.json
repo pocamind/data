@@ -1,0 +1,12 @@
+{
+  "name": "Blightlash",
+  "category": "Blightsurger",
+  "rarity": "Oath",
+  "reqs": "blightlash := ()",
+  "additional_info": "Increases the range of the Sovereign Bangle from 6 to 7.",
+  "count_towards_talent_total": false,
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your swing range is enhanced during Sovereign State."
+}

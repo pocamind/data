@@ -1,0 +1,13 @@
+{
+  "name": "Shadow Travel",
+  "category": "Shadowcaster",
+  "rarity": "Rare",
+  "reqs": "dark_god => shadow_travel := 75s SDW",
+  "additional_info": "Deals 0.25 self damage per stud teleported. This can kill you if you don't have enough health to survive the teleport. If your teleport distance is less than 300 studs, you will not take self damage. Drains 100 Ether on use, with each stud travelled increasing this Ether cost by 0.2. The maximum distance you can travel is based on your Ether.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user."
+}

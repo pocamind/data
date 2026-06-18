@@ -1,0 +1,13 @@
+{
+  "name": "Finishing Touch",
+  "category": "Critical Specialist",
+  "rarity": "Common",
+  "reqs": "finishing_touch := 40s LHT, 50s AGL",
+  "additional_info": "Your critical must knock the opponent for this Talent to proc.",
+  "count_towards_talent_total": true,
+  "icon": "Daggers",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Dagger] Instantly execute enemies finished with the critical attack of your dagger."
+}

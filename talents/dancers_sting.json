@@ -1,0 +1,12 @@
+{
+  "name": "Dancer's Sting",
+  "category": "Spear Dancer",
+  "rarity": "Memento",
+  "reqs": "dancers_sting := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Striking with the tip of your weapon applies +25% PEN and +25% Chip Damage."
+}

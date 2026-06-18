@@ -1,0 +1,13 @@
+{
+  "name": "Behind You",
+  "category": "Ether Endeavours",
+  "rarity": "Common",
+  "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
+  "additional_info": "This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left."
+}

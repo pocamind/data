@@ -1,0 +1,65 @@
+{
+  "name": "Throw",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "throw := 35r STR",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 20,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 22,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 24,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 26,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 28,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Strength": 3
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "shared_cooldowns": [
+    "Flame Grab",
+    "Frost Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug"
+  ],
+  "voi": false,
+  "desc": "Grab and throw your enemies."
+}

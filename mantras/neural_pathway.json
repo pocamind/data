@@ -1,0 +1,54 @@
+{
+  "name": "Neural Pathway",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "neural_pathway := 35r INT",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L2",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L3",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L4",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "L5",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "shared_cooldowns": [
+    "Flame Leap"
+  ],
+  "miscellaneous": "Travels further if used while moving. Has omni-directional movement.",
+  "voi": false,
+  "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you."
+}

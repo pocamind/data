@@ -1,0 +1,13 @@
+{
+  "name": "Saint's Synergy",
+  "category": "Saintsworn",
+  "rarity": "Oath",
+  "reqs": "oath_saintsworn => saints_synergy := ()",
+  "additional_info": "15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.",
+  "count_towards_talent_total": false,
+  "icon": "Saintsworn",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "15% of your highest element scaling is applied to other elemental damage."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Freezing Wight",
+  "category": "Cold Phantom",
+  "rarity": "Common",
+  "reqs": "haunted_gale => freezing_wight := 40s ICE",
+  "additional_info": "Applies Chill for 7 seconds or 1 Crystal on proc. Additionally, this changes the damage type of your Haunted Gale Ghosts and Specter Apparitions to Galebreathe + Frostdraw.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Haunted Gale now procs Chilled."
+}

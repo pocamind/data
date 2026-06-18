@@ -1,0 +1,26 @@
+{
+  "name": "Inquisitor's Greatsword",
+  "type": "Greatsword",
+  "rarity": "Rare",
+  "damage": 23.5,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "inquisitors_greatsword := 40r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.84,
+  "scaling": {
+    "Heavy Weapon": 8.3
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "...",
+  "talents": [
+    "Sovereign's Counter"
+  ]
+}

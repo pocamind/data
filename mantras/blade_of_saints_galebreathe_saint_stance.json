@@ -1,0 +1,30 @@
+{
+  "name": "Blade of Saints: Galebreathe Saint Stance",
+  "attributes": [
+    "Oath: Saintsworn"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "blade_of_saints_galebreathe_saint_stance := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 42.12,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "voi": false,
+  "desc": "You propel yourself forwards with the winds, uppercutting anyone in your wake."
+}

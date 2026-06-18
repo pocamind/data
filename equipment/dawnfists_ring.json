@@ -1,0 +1,16 @@
+{
+  "name": "Dawnfist's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "dawnfists_ring := 105 ttl",
+  "voi": false,
+  "desc": "Gives every weapon 1.2 strength scaling when equipped."
+}

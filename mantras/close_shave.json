@@ -1,0 +1,34 @@
+{
+  "name": "Close Shave",
+  "attributes": [
+    "Oath: Fadetrimmer"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_fadetrimmer => close_shave := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 50,
+          "posture_damage": 18
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Close the distance and deliver a fast slash."
+}

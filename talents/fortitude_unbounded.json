@@ -1,0 +1,13 @@
+{
+  "name": "Fortitude Unbounded",
+  "category": "Great Wall",
+  "rarity": "Common",
+  "reqs": "fortitude_unbounded := 75s FTD",
+  "additional_info": "Removes the 75 investment cap on the Fortitude Attribute. The stat requirements to obtain this Talent will be increased to 77 or 78 if your Aspect has increased Fortitude on spawn, though this limitation will be removed if you have the Multifaceted Echo Unlock. The quest requirement for this Talent will be removed if you've obtained it previously on your account.",
+  "count_towards_talent_total": false,
+  "icon": "Potion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest."
+}

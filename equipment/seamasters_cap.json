@@ -1,0 +1,23 @@
+{
+  "name": "Seamaster's Cap",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Seamaster's Guile"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "seamasters_cap := ()",
+  "voi": false,
+  "desc": "Ten thousand thundering typhoons!"
+}

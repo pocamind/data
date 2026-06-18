@@ -1,0 +1,13 @@
+{
+  "name": "True Vantage",
+  "category": "Silentheart",
+  "rarity": "Oath",
+  "reqs": "oath_silentheart => true_vantage := ()",
+  "additional_info": "Changes your Vent color to match the color of your Silentheart Tattoos.",
+  "count_towards_talent_total": false,
+  "icon": "Silentheart",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost."
+}

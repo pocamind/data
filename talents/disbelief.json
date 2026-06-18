@@ -1,0 +1,16 @@
+{
+  "name": "Disbelief",
+  "category": "Mental Fortress",
+  "rarity": "Common",
+  "reqs": "disbelief := 25s WLL",
+  "additional_info": "Halves the duration of the Charmed status effect. Additionally halves the duration of Illusory Servants if they are casted on you.",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks."
+}

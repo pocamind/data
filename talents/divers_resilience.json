@@ -1,0 +1,13 @@
+{
+  "name": "Diver's Resilience",
+  "category": "Miscellaneous",
+  "rarity": "Equipment",
+  "reqs": "divers_resilience := ()",
+  "additional_info": "You can now parry certain NPC attacks that are normally unparryable. 10 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed."
+}

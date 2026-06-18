@@ -1,0 +1,42 @@
+{
+  "name": "Pressure Blast",
+  "attributes": [
+    "Heavy Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "pressure_blast := 30r HVY",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 24,
+          "posture_damage": 36
+        },
+        {
+          "level": "L2",
+          "damage": 31.5,
+          "posture_damage": 36
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Heavy Weapon": 1.65
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": true,
+  "desc": "Unleash a powerful pressure blast from the weight of your weapon."
+}

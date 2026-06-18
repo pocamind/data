@@ -1,0 +1,44 @@
+{
+  "name": "Arc Suit",
+  "attributes": [
+    "Oath: Arcwarder"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_arcwarder => arc_suit := ()",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 0,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Arc Module: Dash",
+    "Arc Module: Eject",
+    "Arc Module: Enhance",
+    "Arc Module: Leap",
+    "Arc Module: Null"
+  ],
+  "voi": false,
+  "desc": "Conjure and equip your Arcwarder suit."
+}

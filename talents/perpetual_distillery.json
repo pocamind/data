@@ -1,0 +1,13 @@
+{
+  "name": "Perpetual Distillery",
+  "category": "Saltchemist",
+  "rarity": "Oath",
+  "reqs": "oath_saltchemist => perpetual_distillery := ()",
+  "additional_info": "Upon using the Distillery's Talent tool, you're given three empty spaces where you input your potions. You're able to switch the mode from \"Throw\" to \"Drink\", and vice versa. Each potion in the Distillery will be given as a Talent tool, using the potion on use. Potions in the Distillery go on cooldown when used. Drink potions place other drink slots on a cooldown if they share buffs.",
+  "count_towards_talent_total": false,
+  "icon": "Saltchemist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice."
+}

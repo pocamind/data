@@ -1,0 +1,13 @@
+{
+  "name": "Angel's Guise",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "angels_guise := ()",
+  "additional_info": "Grants immunity to the Watcher's Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of Hollow Angel(s). Additionally grants unique dialogue with the Watchers.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You resemble one of the Sworn Angels."
+}

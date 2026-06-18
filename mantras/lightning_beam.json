@@ -1,0 +1,65 @@
+{
+  "name": "Lightning Beam",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "lightning_beam := 1r LTN",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 30,
+          "posture_damage": 7
+        },
+        {
+          "level": "L2",
+          "damage": 31.5,
+          "posture_damage": 8.5
+        },
+        {
+          "level": "L3",
+          "damage": 33,
+          "posture_damage": 10
+        },
+        {
+          "level": "L4",
+          "damage": 34.5,
+          "posture_damage": 11.5
+        },
+        {
+          "level": "L5",
+          "damage": 36,
+          "posture_damage": 13
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "shared_cooldowns": [
+    "Ice Beam"
+  ],
+  "related_talents": [
+    "Shocking Finish"
+  ],
+  "voi": false,
+  "desc": "Fire a beam of lightning."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Iron Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Iron",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "iron_pauldrons := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

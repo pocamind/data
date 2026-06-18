@@ -1,0 +1,16 @@
+{
+  "name": "Perseverance",
+  "category": "Bastion",
+  "rarity": "Common",
+  "reqs": "perseverance := 30s FTD, 30s WLL",
+  "additional_info": "This can stack with other Talents to reduce knock time even further. (Ex. Defiance)",
+  "count_towards_talent_total": false,
+  "icon": "Climb",
+  "roll2able": false,
+  "stats": {
+    "Sanity": 5
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "Reduces the duration you're Ragdolled and Unconscious for by 25%."
+}

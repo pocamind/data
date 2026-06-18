@@ -1,0 +1,13 @@
+{
+  "name": "Absolute Pitch",
+  "category": "Songmaster",
+  "rarity": "Advanced",
+  "reqs": "absolute_pitch := 100s INT",
+  "additional_info": "If you have less than 100 Intelligence, this will instead halve the required Ritual Keys (rounded up).",
+  "count_towards_talent_total": true,
+  "icon": "Orb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can cast Ritual Mantras instantly."
+}

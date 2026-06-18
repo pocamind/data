@@ -1,0 +1,29 @@
+{
+  "name": "Ironsinger Heavy Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Defiant until the End"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    },
+    "Ironsing Armor": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "ironsinger_heavy_plate := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

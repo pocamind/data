@@ -1,0 +1,12 @@
+{
+  "name": "Gale Boots",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "gale_boots := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Reduce the amount of fall damage you take by 50%."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sanguine Siphon",
+  "category": "Bloodrender",
+  "rarity": "Common",
+  "reqs": "sanguine_siphon := 40s BLD",
+  "additional_info": "Grants a 20% damage buff to the next Mantra cast.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra."
+}

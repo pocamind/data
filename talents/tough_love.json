@@ -1,0 +1,16 @@
+{
+  "name": "Tough Love",
+  "category": "Charm Caster",
+  "rarity": "Common",
+  "reqs": "charismatic_cast => tough_love := 25s CHA",
+  "additional_info": "Charms for 2 seconds with a 1 second cooldown. Tough Love's damage buff affects all sources of Charm, not just Tough Love's. Tough Love's damage buff is affected by the damage modifier cap.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Deal 10% more damage to enemies Charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies Charmed briefly.",
+  "exclusive": [
+    "Narcissist"
+  ]
+}

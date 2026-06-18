@@ -1,0 +1,12 @@
+{
+  "name": "Focused Hematoma",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "focused_hematoma := ()",
+  "count_towards_talent_total": false,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%."
+}

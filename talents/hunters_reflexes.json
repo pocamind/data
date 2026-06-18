@@ -1,0 +1,13 @@
+{
+  "name": "Hunter's Reflexes",
+  "category": "Forest Hunter",
+  "rarity": "Outfit",
+  "reqs": "hunters_reflexes := ()",
+  "additional_info": "Increases the dodge window by 0.05s.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have a slightly larger dodge window."
+}

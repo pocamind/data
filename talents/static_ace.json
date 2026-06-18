@@ -1,0 +1,13 @@
+{
+  "name": "Static Ace",
+  "category": "Static Weaver",
+  "rarity": "Common",
+  "reqs": "static_link => static_ace := 15s INT, 70s LTN",
+  "additional_info": "Heavily reduces the windup of Lightning Stream.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using Lightning Stream with an active tether link targets your closest active link."
+}

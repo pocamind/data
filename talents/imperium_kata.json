@@ -1,0 +1,16 @@
+{
+  "name": "Imperium Kata",
+  "category": "Gale Kata",
+  "rarity": "Quest",
+  "reqs": "imperium_kata := ()",
+  "additional_info": "Allows you to use the Imperium Kata fist style.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Wield an advanced form of the Legion's martial arts"
+}

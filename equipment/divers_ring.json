@@ -1,0 +1,16 @@
+{
+  "name": "Diver's Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "divers_ring := ()",
+  "voi": false,
+  "desc": "Deal +5% damage to Monsters in the Depths."
+}

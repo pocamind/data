@@ -1,0 +1,59 @@
+{
+  "name": "Metal Rain",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_rain := 30r MTL",
+  "damage": [
+    {
+      "variant": null,
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 1.04,
+          "posture_damage": 2
+        },
+        {
+          "level": "L2",
+          "damage": 2.34,
+          "posture_damage": 2
+        },
+        {
+          "level": "L3",
+          "damage": 3.64,
+          "posture_damage": 2
+        },
+        {
+          "level": "L4",
+          "damage": 4.94,
+          "posture_damage": 2
+        },
+        {
+          "level": "L5",
+          "damage": 6.24,
+          "posture_damage": 2
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ]
+    }
+  ],
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Unleash a rain of metal rods down below."
+}

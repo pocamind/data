@@ -1,0 +1,23 @@
+{
+  "name": "Iron Twinblade",
+  "type": "Twinblade",
+  "rarity": "Uncommon",
+  "damage": 15,
+  "posture_damage": 4,
+  "range": 7,
+  "reqs": "iron_twinblade := 15r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 4
+  },
+  "chip_damage": 0.3,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Frenzied Dance",
+  "category": "Needle",
+  "rarity": "Common",
+  "reqs": "frenzied_dance := 50s LHT",
+  "count_towards_talent_total": true,
+  "icon": "Daggers",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Rapier] The more posture you currently have, the more chip and posture damage you deal."
+}

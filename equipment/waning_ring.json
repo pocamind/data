@@ -1,0 +1,16 @@
+{
+  "name": "Waning Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "waning_ring := ()",
+  "voi": false,
+  "desc": "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike."
+}

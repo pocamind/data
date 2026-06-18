@@ -1,0 +1,13 @@
+{
+  "name": "Ghost",
+  "category": "Butterfly",
+  "rarity": "Advanced",
+  "reqs": "swift_rebound, evasive_expert, risky_moves => ghost := 40s AGL",
+  "additional_info": "The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility. Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.866 seconds at 15 Agility. 20 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Cloak",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Dodging a move will briefly make you invisible, ending early if you attack."
+}

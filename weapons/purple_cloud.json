@@ -1,0 +1,23 @@
+{
+  "name": "Purple Cloud",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 16.5,
+  "posture_damage": 5,
+  "range": 6.5,
+  "reqs": "purple_cloud := 85r MED",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Medium Weapon": 9
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily."
+}
