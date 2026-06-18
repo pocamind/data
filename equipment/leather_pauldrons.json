@@ -1,0 +1,19 @@
+{
+  "name": "Leather Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Leather",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "leather_pauldrons := ()",
+  "voi": false,
+  "desc": "..."
+}

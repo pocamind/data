@@ -1,0 +1,13 @@
+{
+  "name": "Intuitive Repairs",
+  "category": "Metallurgist",
+  "rarity": "Common",
+  "reqs": "intuitive_repairs := 25s MTL",
+  "additional_info": "Iron Skin regenerates your armor and Natural Armor while its active.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your 'Iron Skin' repairs armor while it's active."
+}

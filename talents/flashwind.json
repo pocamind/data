@@ -1,0 +1,13 @@
+{
+  "name": "Flashwind",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "flashwind := ()",
+  "additional_info": "After using a Gale or Lightning dash, gain the Flashwind status effect for 3 seconds, allowing you to perform Flashwind dashes.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds."
+}

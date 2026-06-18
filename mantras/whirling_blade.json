@@ -1,0 +1,19 @@
+{
+  "name": "Whirling Blade",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "whirling_blade := ()",
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "A chitinous scythe to cut through your foes in a whirl."
+}

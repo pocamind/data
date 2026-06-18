@@ -1,0 +1,23 @@
+{
+  "name": "Battleaxe",
+  "type": "Greataxe",
+  "rarity": "Common",
+  "damage": 20,
+  "posture_damage": 6,
+  "range": 8,
+  "reqs": "battleaxe := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A sturdy axe perfect for splitting bone."
+}

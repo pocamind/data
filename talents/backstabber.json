@@ -1,0 +1,13 @@
+{
+  "name": "Backstabber",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "backstabber := 30s AGL",
+  "additional_info": "Has no range limit. Also procs on criticals with the M1 tag and Silentheart abilities. Applies daze and ragdolls.",
+  "count_towards_talent_total": false,
+  "icon": "Climb",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage."
+}

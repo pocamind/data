@@ -1,0 +1,13 @@
+{
+  "name": "Unwavering Focus",
+  "category": "Ether Endeavours",
+  "rarity": "Common",
+  "reqs": "unwavering_focus := 10s STR, 60s INT",
+  "additional_info": "Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When your mantras are parried, receive less posture (scales with intelligence)."
+}

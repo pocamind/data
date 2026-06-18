@@ -1,0 +1,23 @@
+{
+  "name": "Cerulean Thread",
+  "type": "Dagger",
+  "rarity": "Mythical",
+  "damage": 14.5,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "cerulean_thread := 85r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.2,
+  "scaling": {
+    "Light Weapon": 7.5
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection."
+}

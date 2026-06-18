@@ -1,0 +1,20 @@
+{
+  "name": "Sanguine Dive",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "sanguine_dive := 20r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "shared_cooldowns": [
+    "Beast Burrow",
+    "Shade Step"
+  ],
+  "voi": false,
+  "desc": "Create or jump into a pool of blood."
+}

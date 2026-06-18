@@ -1,0 +1,12 @@
+{
+  "name": "Rage Amp",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "broodalloy_cestus => rage_amp := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "At 2 or more combat tags, your critical now applies anti-heal while also increases the size and damage of your critical. This scales with the amount of combat tags you have.",
+  "icon": "Fist",
+  "roll2able": false
+}

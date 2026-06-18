@@ -1,0 +1,30 @@
+{
+  "name": "Browline Citadel Frames",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Black",
+    "Amber",
+    "Azure"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": -1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "browline_citadel_frames := ()",
+  "voi": false,
+  "wiki": "",
+  "desc": "Designed for the scholars of the Citadel, these frames are renowned for their simple yet striking style, and are traded and sought after across all Luminants. Unfortunately, they are not your prescription..."
+}

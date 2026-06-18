@@ -1,0 +1,12 @@
+{
+  "name": "Static Fakeout",
+  "category": "Thundercaller",
+  "rarity": "Rare",
+  "reqs": "static_fakeout := 30s AGL, 35s LTN",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent."
+}

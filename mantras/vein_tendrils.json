@@ -1,0 +1,20 @@
+{
+  "name": "Vein Tendrils",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "vein_tendrils := 30r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Create tendrils of blood."
+}

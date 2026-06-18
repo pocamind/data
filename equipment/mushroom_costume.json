@@ -1,0 +1,20 @@
+{
+  "name": "Mushroom Costume",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [
+    "Mushroom",
+    "Glowshroom",
+    "Metalshroom",
+    "Charmshroom",
+    "Zapshroom"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "mushroom_costume := ()",
+  "voi": false,
+  "desc": "A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula.\n[*Note; Only obtainable through the Hallowtide Event, or with the Hallowtide '23 Medal.]"
+}

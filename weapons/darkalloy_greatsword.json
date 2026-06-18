@@ -1,0 +1,24 @@
+{
+  "name": "Darkalloy Greatsword",
+  "type": "Greatsword",
+  "rarity": "Uncommon",
+  "damage": 26,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "darkalloy_greatsword := 10r STR, 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep."
+}

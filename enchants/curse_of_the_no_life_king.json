@@ -1,0 +1,7 @@
+{
+  "info": "While held, gain increased passive health regen that scales on your weapon investment. This healing will lose effectiveness based on how much maximum health you have. Landing weapon attacks deals 2% of your opponent's maximum Sanity as Sanity damage. Your healthbar is permanently stained while your weapon is equipped, making any death send you to the Depths. Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons. While your weapon is unsheathed in the Depths, lose 2 Sanity per second. Additionally, reaching 0 Sanity while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death). Viscosity and Conditioned Runner is disabled, the effectiveness of Cauterized Wounds, Alloyblood, and healing potions is reduced, and you take 2x blood damage from all sources while you have this enchantment equipped. This enchantment does not work in the Chime of Conflict.",
+  "name": "Curse of the No Life King",
+  "category": "Weapon",
+  "in_game_desc": "Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested.",
+  "obtainable_in": "Pathfinder"
+}

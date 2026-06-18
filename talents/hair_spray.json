@@ -1,0 +1,13 @@
+{
+  "name": "Hair Spray",
+  "category": "Fadetrimmer",
+  "rarity": "Oath",
+  "reqs": "oath_fadetrimmer => hair_spray := ()",
+  "additional_info": "Flammable applies Burn or causes an Eruption; parryable and blockable. Charming applies Charm for 15 seconds; parryable and blockable. Revitalizing heals 10% of the affected entity's health; unparryable and unblockable. 10 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Fadetrimmer",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Apply your Hair Products."
+}

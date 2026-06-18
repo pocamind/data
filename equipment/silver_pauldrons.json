@@ -1,0 +1,21 @@
+{
+  "name": "Silver Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Silver Knight",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "silver_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

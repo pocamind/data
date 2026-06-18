@@ -1,0 +1,17 @@
+{
+  "name": "Beast Burrow",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Mobility",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "beast_burrow := ()",
+  "shared_cooldowns": [
+    "Shade Step",
+    "Sanguine Dive"
+  ],
+  "voi": false,
+  "desc": "..."
+}

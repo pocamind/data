@@ -1,0 +1,23 @@
+{
+  "name": "Hallowed Monastery Beads",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Legendary",
+  "set": "Hallowed Monastery Champion",
+  "variants": [],
+  "talents": [
+    "Focused Strikes"
+  ],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "hallowed_monastery_beads := ()",
+  "voi": true,
+  "desc": "..."
+}

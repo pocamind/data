@@ -1,0 +1,22 @@
+{
+  "name": "Scoundrel's Saber",
+  "type": "Sword",
+  "rarity": "Legendary",
+  "damage": 22,
+  "posture_damage": 5.5,
+  "range": 8,
+  "reqs": "scoundrels_saber := 55r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 4.8
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade."
+}

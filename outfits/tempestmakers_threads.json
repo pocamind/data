@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Iron": 8,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Wind Gem": 1,
+    "Gale Stone": 5,
+    "Vibrant Gem": 5
+  },
+  "name": "Tempestmaker's Threads",
+  "reqs": "tempestmakers_threads := 45r WND, 240r TTL",
+  "notes": 1000,
+  "talent": "Tempest Evolution, Aerogliding",
+  "category": "Unique",
+  "pants_id": "16826397099",
+  "shirt_id": "16826394452",
+  "durability": 2600,
+  "resistances": {
+    "Wind Resistance": 0.25,
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "desc": "An elegant outfit favoured by expert Galebreathers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which is to imbue elemental resistances into the very fabrics they manufacture."
+}

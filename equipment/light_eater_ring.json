@@ -1,0 +1,27 @@
+{
+  "name": "Light Eater Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Fire Armor": {
+      "value": 2,
+      "percentage": true
+    },
+    "Lightning Armor": {
+      "value": 2,
+      "percentage": true
+    },
+    "Elemental Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {},
+  "reqs": "light_eater_ring := 60 ttl",
+  "voi": false,
+  "desc": "Taking damage from fire or lightning will cause you to regenerate ether."
+}

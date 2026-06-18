@@ -1,0 +1,12 @@
+{
+  "name": "Enforcer's Pull",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "enforcers_pull := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your Enforcer's Pull is improved. Land a flourish to make it even stronger."
+}

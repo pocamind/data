@@ -1,0 +1,26 @@
+{
+  "name": "Revenge",
+  "attributes": [
+    "Agility"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "revenge := 5r AGL",
+  "scaling": {
+    "Agility": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "related_talents": [
+    "Crippling Comeuppance",
+    "Pursuit",
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Deals increased damage if you are below 50% health, scaling with the amount of health lost. Caps at 50 damage.",
+  "voi": false,
+  "desc": "A vengeful rush. Deals additional damage the lower your health is below 50%."
+}

@@ -1,0 +1,7 @@
+{
+  "info": "On weapon hit, Storm deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies Shock or 1 Surge Rod. This effect has a 5 second cooldown. The damage this deals is based off your weapon's damage after resistances, and it cannot be enhanced with damage modifiers. Because Storm deals a percentage of your attack's damage after resistances, it can be double resisted.",
+  "name": "Storm",
+  "category": "Weapon",
+  "in_game_desc": "Shock your foes on hit every 5s. Rain will upgrade this shock into a lightning bolt called down from above.",
+  "obtainable_in": "Pathfinder"
+}

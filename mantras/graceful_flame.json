@@ -1,0 +1,26 @@
+{
+  "name": "Graceful Flame",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "graceful_flame := 20r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Undying Flame"
+  ],
+  "voi": false,
+  "desc": "Conjure an undying flame for the caster and their comrades to rest by."
+}

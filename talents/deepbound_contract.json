@@ -1,0 +1,13 @@
+{
+  "name": "Deepbound Contract",
+  "category": "Deepbound Contract",
+  "rarity": "Origin",
+  "reqs": "deepbound_contract := ()",
+  "additional_info": "You can always enter Castle Light, even if you've drowned. Your Depths trial will always be an Enforcer or harder.",
+  "count_towards_talent_total": false,
+  "icon": "Eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial."
+}

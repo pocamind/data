@@ -1,0 +1,24 @@
+{
+  "name": "Alloyed Shotel",
+  "type": "Sword",
+  "rarity": "Legendary",
+  "damage": 2,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "alloyed_shotel := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.97,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "chip_damage": 0.3,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes."
+}

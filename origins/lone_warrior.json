@@ -1,0 +1,9 @@
+{
+  "name": "Lone Warrior",
+  "desc": "You awake to find yourself in a hall of ivory white, your memories of all other than combat are hazy.",
+  "outfit": "Stranded",
+  "spawns": [
+    "Minityrsa"
+  ],
+  "talents": []
+}

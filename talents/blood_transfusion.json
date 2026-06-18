@@ -1,0 +1,13 @@
+{
+  "name": "Blood Transfusion",
+  "category": "Quark Doctor",
+  "rarity": "Rare",
+  "reqs": "blood_transfusion := 60s BLD",
+  "additional_info": "20 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar."
+}

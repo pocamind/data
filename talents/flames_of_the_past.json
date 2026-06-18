@@ -1,0 +1,13 @@
+{
+  "name": "Flames of the Past",
+  "category": "Flame Inheritor",
+  "rarity": "Memento",
+  "reqs": "flames_of_the_past := ()",
+  "additional_info": "Your Flamecharm Mantras now spawn Twisted Puppets' Puppets on hit.",
+  "count_towards_talent_total": false,
+  "icon": "Explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your flamecharm mantras now call forth fiery homing spirits."
+}

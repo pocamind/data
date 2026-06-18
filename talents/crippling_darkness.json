@@ -1,0 +1,13 @@
+{
+  "name": "Crippling Darkness",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "crippling_darkness := ()",
+  "additional_info": "Grants +20% PEN to any non-weapon attack. This not only affects Mantras, but things like Bleed or Burn too.",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your non-Basic Attacks have 20% PEN."
+}

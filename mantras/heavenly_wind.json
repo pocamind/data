@@ -1,0 +1,24 @@
+{
+  "name": "Heavenly Wind",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "heavenly_wind := 20r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "A strike from the heavens."
+}

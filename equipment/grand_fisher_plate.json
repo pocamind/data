@@ -1,0 +1,28 @@
+{
+  "name": "Grand Fisher Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Mythical",
+  "set": "Grand Fisher",
+  "variants": [],
+  "talents": [
+    "Diver's Resilience"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 3
+  },
+  "reqs": "grand_fisher_plate := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

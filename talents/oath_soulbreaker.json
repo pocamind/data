@@ -1,0 +1,17 @@
+{
+  "name": "Oath: Soulbreaker",
+  "category": "Soulbreaker",
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker := ()",
+  "additional_info": "Your Ardour gains a new visual effect.",
+  "count_towards_talent_total": false,
+  "icon": "Soulbreaker",
+  "roll2able": false,
+  "stats": {
+    "Combat Mantra Slot": 2,
+    "Wildcard Mantra Slot": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you."
+}

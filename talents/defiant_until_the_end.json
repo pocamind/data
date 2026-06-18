@@ -1,0 +1,15 @@
+{
+  "name": "Defiant until the End",
+  "category": "Limitbreaker",
+  "rarity": "Common",
+  "reqs": "defiant_until_the_end := 20s WLL",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 6
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Slow the enemy trying to execute you down with one last shout of your determination. "
+}

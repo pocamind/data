@@ -1,0 +1,26 @@
+{
+  "name": "Aegis of Enmity",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Unique",
+  "set": "Enmity",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "aegis_of_enmity := 240 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "The Voice of Enmity's helm, few have lived to know it well. Now donned by you, the new self proclaimed arbiter of judgement..."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Thrall of Enmity",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Unique",
+  "set": "Emnity",
+  "variants": [],
+  "talents": [
+    "Lose Your Mind"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "thrall_of_enmity := ()",
+  "voi": false,
+  "wiki": "",
+  "desc": "The mask of the fabled Angels of Enmity, infamous for barring the unworthy from the trial, instills dread in the hearts of the drowned."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "The Pastry Paster",
+  "type": "Club",
+  "rarity": "Common",
+  "damage": 18,
+  "posture_damage": 7,
+  "range": 7.5,
+  "reqs": "the_pastry_paster := 30r INT OR 30r WLL OR 30r CHA, 70r MED",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 5,
+    "Mind": 3
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Anyone can cook, but only the fearless can be great."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Royal Charge",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "royal_charge := ()",
+  "additional_info": "Running attacks with Club weapons grant Temporary Health. 20 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When landing a running attack while using a club to gain a bit of temp health."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grasp on Reality",
+  "category": "Sturdy Resolve",
+  "rarity": "Common",
+  "reqs": "grasp_on_reality := 5s WLL, 25s FTD",
+  "additional_info": "Reduces damage taken from Scratching.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Damage taken from insanity is reduced."
+}

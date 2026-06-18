@@ -1,0 +1,22 @@
+{
+  "name": "Ash Slam",
+  "attributes": [
+    "Flamecharm",
+    "Strength"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "ash_slam := 20r STR, 50r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Strike the ground, turning it to ash."
+}

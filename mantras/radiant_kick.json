@@ -1,0 +1,16 @@
+{
+  "name": "Radiant Kick",
+  "attributes": [
+    "Oath: Dawnwalker"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_dawnwalker => radiant_kick := ()",
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Kick your foes at the speed of light."
+}

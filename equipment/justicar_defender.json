@@ -1,0 +1,23 @@
+{
+  "name": "Justicar Defender",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Jet Black",
+    "Black",
+    "Faded",
+    "Orange",
+    "Purple",
+    "Red"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 4
+  },
+  "reqs": "justicar_defender := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

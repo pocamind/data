@@ -1,0 +1,22 @@
+{
+  "name": "Aspirant Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Carmine",
+    "Saphire",
+    "Emerald",
+    "Gold"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "aspirant_mask := ()",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Star Duster",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": "Star",
+  "variants": [],
+  "talents": [
+    "Star Duster"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "star_duster := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

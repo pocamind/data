@@ -1,0 +1,21 @@
+{
+  "name": "Golden Cape",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Physical Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "golden_cape := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

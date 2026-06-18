@@ -1,0 +1,19 @@
+{
+  "name": "Flare Drop Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Flare Drop"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "flare_drop_earrings := ()",
+  "voi": true,
+  "desc": "..."
+}

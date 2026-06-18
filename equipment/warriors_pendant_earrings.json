@@ -1,0 +1,19 @@
+{
+  "name": "Warrior's Pendant Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Skillful Recovery"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "warriors_pendant_earrings := ()",
+  "voi": true,
+  "desc": "Donning these fills you with strength and fury."
+}

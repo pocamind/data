@@ -1,0 +1,22 @@
+{
+  "name": "Rosen's Roscoe",
+  "type": "Pistol",
+  "rarity": "Rare",
+  "damage": 16,
+  "posture_damage": 4,
+  "range": 11,
+  "reqs": "rosens_roscoe := 75r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.2,
+  "scaling": {
+    "Light Weapon": 11
+  },
+  "chip_damage": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's First generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation"
+}

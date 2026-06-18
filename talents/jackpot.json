@@ -1,0 +1,12 @@
+{
+  "name": "Jackpot",
+  "category": "Toxic Personality",
+  "rarity": "Common",
+  "reqs": "jackpot := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Charmed enemies now have a chance to be hit critically, multiplying the damage."
+}

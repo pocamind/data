@@ -1,0 +1,24 @@
+{
+  "name": "Celtor Commander Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Celtor Commander",
+  "variants": [],
+  "talents": [
+    "Breathing Exercise"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "celtor_commander_plate := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

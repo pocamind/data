@@ -1,0 +1,21 @@
+{
+  "name": "Ten-Gallon Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Ten-Gallon",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "ten_gallon_hat := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

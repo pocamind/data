@@ -1,0 +1,27 @@
+{
+  "name": "Ossified Black Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Ossified Blood",
+  "variants": [],
+  "talents": [
+    "Laminated Armor"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "ossified_black_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

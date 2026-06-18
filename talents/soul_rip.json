@@ -1,0 +1,13 @@
+{
+  "name": "Soul Rip",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "soul_rip := ()",
+  "additional_info": "Grants a 50% weapon damage buff, ?% defense, infinite Ether, and a speed boost for the buff duration. Once the buff wears off, one of your legs will break, removing your ability to sprint for 30 seconds.",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite ether for 25 seconds. Beware its strenuous downside."
+}

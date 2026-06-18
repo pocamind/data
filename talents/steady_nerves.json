@@ -1,0 +1,16 @@
+{
+  "name": "Steady Nerves",
+  "category": "Duelist",
+  "rarity": "Common",
+  "reqs": "steady_nerves := 15s STR, 45s AGL",
+  "additional_info": "Restore 2 flat posture on a successful dodge.",
+  "count_towards_talent_total": true,
+  "icon": "Cloak",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You dance from toe to toe - successful dodges restore posture."
+}

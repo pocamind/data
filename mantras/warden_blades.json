@@ -1,0 +1,22 @@
+{
+  "name": "Warden Blades",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "warden_blades := 1r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "desc": ""
+}

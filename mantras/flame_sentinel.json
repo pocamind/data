@@ -1,0 +1,24 @@
+{
+  "name": "Flame Sentinel",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flame_sentinel := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "desc": "Conjure a turret of flames."
+}

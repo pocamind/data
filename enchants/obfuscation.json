@@ -1,0 +1,7 @@
+{
+  "info": "Gain (LHT: 15%, MED: 20%, HVY: 25%) chip damage. This is additive to other sources of Chip damage. Wyrmtooth counts as a medium weapon, only gaining 20% chip.",
+  "name": "Obfuscation",
+  "category": "Weapon",
+  "in_game_desc": "You gain some chip damage on m1 and crit.",
+  "obtainable_in": "Pathfinder"
+}

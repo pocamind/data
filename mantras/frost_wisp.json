@@ -1,0 +1,18 @@
+{
+  "name": "Frost Wisp",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "frost_wisp := 30r ICE",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Creates ice patches periodically, on flourish, and on Vent.",
+  "voi": false,
+  "desc": "A servant of ice."
+}

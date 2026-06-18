@@ -1,0 +1,28 @@
+{
+  "name": "Plain Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Hood Up",
+    "Hood Down",
+    "Hood Up (brown)",
+    "Hood Down (brown)"
+  ],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "plain_hood := ()",
+  "voi": false,
+  "desc": "A sleek hood."
+}

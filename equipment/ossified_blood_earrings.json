@@ -1,0 +1,23 @@
+{
+  "name": "Ossified Blood Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Sharpened Dagger"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "ossified_blood_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

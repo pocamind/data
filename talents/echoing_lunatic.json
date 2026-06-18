@@ -1,0 +1,12 @@
+{
+  "name": "Echoing Lunatic",
+  "category": "Mindbreaker",
+  "rarity": "Common",
+  "reqs": "ardour_scream => echoing_lunatic := 55s WLL",
+  "count_towards_talent_total": true,
+  "icon": "Eye",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Ardour Scream now applies a bit of insanity."
+}

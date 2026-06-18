@@ -1,0 +1,26 @@
+{
+  "name": "Shadow Assault",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shadow_assault := 30r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "A rush of darkness."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Fire Forge",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "fire_forge := 20r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Tornado Spark"
+  ],
+  "related_talents": [
+    "Hell's Partisan"
+  ],
+  "voi": false,
+  "desc": "Toss a nimble dagger."
+}

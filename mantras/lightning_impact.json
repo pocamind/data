@@ -1,0 +1,24 @@
+{
+  "name": "Lightning Impact",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "lightning_impact := 20r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Rain of Static"
+  ],
+  "voi": false,
+  "desc": "Slam those under you with a lightning empowered kick."
+}

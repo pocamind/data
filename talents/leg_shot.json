@@ -1,0 +1,12 @@
+{
+  "name": "Leg Shot",
+  "category": "Marksman",
+  "rarity": "Rare",
+  "reqs": "leg_shot := 80s MED",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Rifles] Landing your critical slows your enemy for a bit while making PvE enemies Sluggish, and also disables any speed boosts they get for the next 10 seconds."
+}

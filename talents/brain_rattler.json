@@ -1,0 +1,12 @@
+{
+  "name": "Brain Rattler",
+  "category": "Hammer Rage",
+  "rarity": "Common",
+  "reqs": "brain_rattler := 50s MED",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Clubs] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies Stagger to PvE enemies and blurs their vision."
+}

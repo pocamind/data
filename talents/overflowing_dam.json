@@ -1,0 +1,13 @@
+{
+  "name": "Overflowing Dam",
+  "category": "Adept Caster",
+  "rarity": "Rare",
+  "reqs": "overflowing_dam := 40s INT",
+  "additional_info": "For every point of Intelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage."
+}

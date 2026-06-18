@@ -1,0 +1,25 @@
+{
+  "name": "Railblade",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 22,
+  "posture_damage": 8,
+  "range": 8.5,
+  "reqs": "railblade := 80r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.88,
+  "scaling": {
+    "Heavy Weapon": 8.3
+  },
+  "chip_damage": 0.2,
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale."
+}

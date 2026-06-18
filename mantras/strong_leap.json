@@ -1,0 +1,17 @@
+{
+  "name": "Strong Leap",
+  "attributes": [
+    "Strength"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "strong_leap := 50r STR",
+  "shared_cooldowns": [
+    "Flame Leap",
+    "Neural Pathway"
+  ],
+  "voi": true,
+  "desc": "Kick off of the ground with your strength, sending you into the air."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "The Barrel",
+  "type": "Greatcannon",
+  "rarity": "Common",
+  "damage": 25.5,
+  "posture_damage": 9.5,
+  "range": 8,
+  "reqs": "the_barrel := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.82,
+  "scaling": {
+    "Heavy Weapon": 8.5
+  },
+  "chip_damage": 0.15,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and adapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement."
+}

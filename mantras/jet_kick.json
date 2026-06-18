@@ -1,0 +1,19 @@
+{
+  "name": "Jet Kick",
+  "attributes": [
+    "Oath: Jetstriker"
+  ],
+  "category": "Mobility",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_jetstriker => jet_kick := ()",
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "miscellaneous": "Deals 20% more damage if used at max Momentum.",
+  "voi": false,
+  "desc": "Rush forward with a jet kick. Requires a target if you're in combat."
+}

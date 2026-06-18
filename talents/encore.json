@@ -1,0 +1,13 @@
+{
+  "name": "Encore",
+  "category": "Vocalist",
+  "rarity": "Rare",
+  "reqs": "encore := 40s CHA",
+  "additional_info": "Applies 0.4s of true stun. Doesn't affect allies.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Sing will stun opponents who are already charmed."
+}

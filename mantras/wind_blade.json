@@ -1,0 +1,25 @@
+{
+  "name": "Wind Blade",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "wind_blade := 1r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Tempest Evolution"
+  ],
+  "voi": false,
+  "desc": "Slicing blades of wind."
+}

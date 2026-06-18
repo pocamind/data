@@ -1,0 +1,13 @@
+{
+  "name": "Luminous Flash",
+  "category": "Dawnwalker",
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => luminous_flash := ()",
+  "additional_info": "During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, applying the damage modifier hardcap as a damage buff.",
+  "count_towards_talent_total": false,
+  "icon": "Dawnwalker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light."
+}

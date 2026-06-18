@@ -1,0 +1,26 @@
+{
+  "name": "Ysley's Pyre Keeper",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 21,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "ysleys_pyre_keeper := 10r LHT, 25r HVY, 75r FLM",
+  "damage_types": [
+    "Slash",
+    "Flamecharm"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Heavy Weapon": 5,
+    "Flamecharm": 4
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. Attacks with its dagger offhand scale with LHT."
+}

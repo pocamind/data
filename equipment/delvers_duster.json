@@ -1,0 +1,24 @@
+{
+  "name": "Delver's Duster",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Mythical",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Braced Collapse",
+    "Kick Off"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 3
+  },
+  "reqs": "delvers_duster := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

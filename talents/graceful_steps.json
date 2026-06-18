@@ -1,0 +1,13 @@
+{
+  "name": "Graceful Steps",
+  "category": "Flame Dancer",
+  "rarity": "Rare",
+  "reqs": "dancing_steps => graceful_steps := 80s FLM",
+  "additional_info": "The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect. 5 second cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your dancing steps now gives a faster speed boost."
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ring of Casters",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "ring_of_casters := 165 ttl",
+  "voi": false,
+  "desc": "Mantra damage increased by 5% but reduces melee damage by 5%."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Shadow Gun",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "shadow_gun := 1r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "An awful blast of dark energy."
+}

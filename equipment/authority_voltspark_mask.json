@@ -1,0 +1,23 @@
+{
+  "name": "Authority Voltspark Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Volt Reflex"
+  ],
+  "innates": {
+    "Lightning Armor": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "authority_voltspark_mask := ()",
+  "voi": false,
+  "desc": "Originally a dangerous prototype that turned soldiers into lightning-fast lunatics. You think you managed to work out the kinks. Maybe."
+}

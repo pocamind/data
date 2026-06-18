@@ -1,0 +1,13 @@
+{
+  "name": "Wisp Convergence",
+  "category": "Sage of Wisps",
+  "rarity": "Rare",
+  "reqs": "oath_oathless, chorus_of_souls => wisp_convergence := 30s ICE, 30s FLM, 30s LTN, 30s WND, 30s SDW, 30s MTL, 30s BLD",
+  "additional_info": "While Chorus of Souls is active, your weapon attacks will apply Burn, Chill, Shock, Winded, Shadow, Metal Rods, and Blood Poison. This Talent will not activate unless you have every Attunement's Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp. This Talent will not work if you no longer have the Oathless Oath.",
+  "count_towards_talent_total": true,
+  "icon": "Orb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes."
+}

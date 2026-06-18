@@ -1,0 +1,7 @@
+{
+  "info": "Grants +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor to the equipment's stats.",
+  "name": "Drowned",
+  "category": "Equipment",
+  "in_game_desc": "Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor. Only one drowned item can be equipped.",
+  "obtainable_in": "Pathfinder"
+}

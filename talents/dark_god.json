@@ -1,0 +1,12 @@
+{
+  "name": "Dark God",
+  "category": "Darksiphon",
+  "rarity": "Common",
+  "reqs": "shadowcaster => dark_god := 20s SDW",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo."
+}

@@ -1,0 +1,7 @@
+{
+  "info": "Upon taking damage from a humanoid opponent, this has a 30% chance to proc. On proc, gain a speed boost for 4 seconds and clear all stuns from your character.",
+  "name": "Displacement",
+  "category": "Equipment",
+  "in_game_desc": "Incoming hits may proc Displacement, granting a speed boost and clearing all stuns present.",
+  "obtainable_in": "Pathfinder"
+}

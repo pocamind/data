@@ -1,0 +1,13 @@
+{
+  "name": "The Path, Unveiled",
+  "category": "Jus Karita",
+  "rarity": "Outfit",
+  "reqs": "the_path_unveiled := ()",
+  "additional_info": "Increases Jus Karita damage by 10%, despite what the Talent description states.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Jus Karita attacks deal 15% more damage."
+}

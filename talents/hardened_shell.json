@@ -1,0 +1,13 @@
+{
+  "name": "Hardened Shell",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "hardened_shell := ()",
+  "additional_info": "Increases your Natural Armor durability.",
+  "count_towards_talent_total": false,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Your Natural Armor grows sturdier, being able to take more hits before breaking."
+}

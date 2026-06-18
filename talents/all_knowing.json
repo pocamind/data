@@ -1,0 +1,12 @@
+{
+  "name": "All Knowing",
+  "category": "Omniscient",
+  "rarity": "Rare",
+  "reqs": "all_knowing := 60s INT",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your prediction now ignores the range requirement to reflect attacks."
+}

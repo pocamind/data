@@ -1,0 +1,17 @@
+{
+  "name": "Iron Quills",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "iron_quills := 30r MTL",
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Conjure metal from within, impaling surrounding entities."
+}

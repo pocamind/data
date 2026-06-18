@@ -1,0 +1,13 @@
+{
+  "name": "Summon Cauldron",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "summon_cauldron := 20r INT",
+  "voi": false,
+  "desc": "Make a cauldron appear from your memories."
+}

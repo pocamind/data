@@ -1,0 +1,21 @@
+{
+  "name": "Grand Authority Sabatons",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Grand Authority",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "grand_authority_sabatons := 105 ttl",
+  "voi": false,
+  "desc": "..."
+}

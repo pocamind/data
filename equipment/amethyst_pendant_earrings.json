@@ -1,0 +1,17 @@
+{
+  "name": "Amethyst Pendant Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "amethyst_pendant_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

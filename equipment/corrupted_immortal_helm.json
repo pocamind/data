@@ -1,0 +1,19 @@
+{
+  "name": "Corrupted Immortal Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Cursed Immortality"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "corrupted_immortal_helm := 90r ttl",
+  "voi": true,
+  "desc": "Helm of an Immortal Guardian. The product of Ministry experimentation, it's thought that these helmets enthrall their wielders by means of a Mind Veil, causing immediate death should they ever be removed. It seems that in prying this helmet off that this functionality has been disabled. You hope."
+}

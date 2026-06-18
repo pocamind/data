@@ -1,0 +1,12 @@
+{
+  "name": "Sovereign State",
+  "category": "Blightsurger",
+  "rarity": "Oath",
+  "reqs": "oath_blightsurger => sovereign_state := ()",
+  "additional_info": "Landing Galebreathe Mantras, Thundercall Mantras, weapon attacks, and Blightsurger Mantras gives Blight Meter. Press [X] while having at least 30% Blight Meter to enter the Sovereign State. Your weapon is replaced with Sovereign Bangle and the Wither applied on Blightsurger Mantras is increased while in Sovereign State.",
+  "count_towards_talent_total": false,
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities."
+}

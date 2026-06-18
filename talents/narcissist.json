@@ -1,0 +1,16 @@
+{
+  "name": "Narcissist",
+  "category": "Toxic Personality",
+  "rarity": "Common",
+  "reqs": "charismatic_cast => narcissist := 60s CHA",
+  "additional_info": "Overcharms yourself for 4 seconds. Charms yourself for 8 seconds, halved to 4 seconds if you have Disbelief.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.\r",
+  "exclusive": [
+    "Tough Love"
+  ]
+}

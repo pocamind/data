@@ -1,0 +1,18 @@
+{
+  "name": "Thunder Wisp",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Wisp",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "thunder_wisp := 30r LTN",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "miscellaneous": "Applies Sapped on uppercut and flourish.",
+  "voi": false,
+  "desc": "A servant of lightning."
+}

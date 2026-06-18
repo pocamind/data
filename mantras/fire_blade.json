@@ -1,0 +1,22 @@
+{
+  "name": "Fire Blade",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "fire_blade := 1r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "voi": true,
+  "desc": "Slicing blades of flame."
+}

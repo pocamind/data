@@ -1,0 +1,22 @@
+{
+  "name": "Iron Blunderbuss",
+  "type": "Rifle",
+  "rarity": "Rare",
+  "damage": 20,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "iron_blunderbuss := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 0.97,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments."
+}

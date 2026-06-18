@@ -1,0 +1,13 @@
+{
+  "name": "Bane",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "bane := ()",
+  "additional_info": "Grants a Talent tool that on use allows you to teleport to your opponent when you M1 for 20 seconds. The teleportation has a range limit of 25 studs. Additionally grants a speed boost for the full duration. 100 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Activate to make your light attacks teleport to the closest enemy nearby."
+}

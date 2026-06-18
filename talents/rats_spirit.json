@@ -1,0 +1,13 @@
+{
+  "name": "Rat's Spirit",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "rats_spirit := ()",
+  "additional_info": "Being combat tagged by 2 or more players will cause your critical attack to deal an additional 10 true damage per hit. This scales on how many combat tags you have, gaining +10 damage per.",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people."
+}

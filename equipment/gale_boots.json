@@ -1,0 +1,24 @@
+{
+  "name": "Gale Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Wind Step",
+    "Gale Boots"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "gale_boots := ()",
+  "voi": true,
+  "desc": "A pair of worn leather boots. And they're your size!"
+}

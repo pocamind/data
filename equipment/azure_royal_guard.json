@@ -1,0 +1,17 @@
+{
+  "name": "Azure Royal Guard",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Azure Royal Guard",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "azure_royal_guard := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

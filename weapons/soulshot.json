@@ -1,0 +1,23 @@
+{
+  "name": "Soulshot",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 30,
+  "posture_damage": 7,
+  "range": 12.5,
+  "reqs": "soulshot := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.3,
+  "scaling": {
+    "Light Weapon": 12
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.5,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "How heavy is this thing when fully loaded?"
+}

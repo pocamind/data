@@ -1,0 +1,22 @@
+{
+  "name": "Tornado",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "tornado := 20r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "A rushing current of wind."
+}

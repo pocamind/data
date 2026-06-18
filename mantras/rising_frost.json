@@ -1,0 +1,21 @@
+{
+  "name": "Rising Frost",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "rising_frost := 30r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Conjure a glaive of frost to launch your opponents skywards."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Withering Soul",
+  "category": "Ministry Prophet",
+  "rarity": "Outfit",
+  "reqs": "withering_soul := ()",
+  "additional_info": "The Wither applied is based off your weapon's scaled damage.",
+  "count_towards_talent_total": false,
+  "icon": "Shadows",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle or Umbrite Witherblade will double the amount to 25%."
+}

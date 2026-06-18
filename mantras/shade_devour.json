@@ -1,0 +1,27 @@
+{
+  "name": "Shade Devour",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shade_devour := 20r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Multiplying Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Gorge on your own health for raw strength"
+}

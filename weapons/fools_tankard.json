@@ -1,0 +1,22 @@
+{
+  "name": "Fool's Tankard",
+  "type": "Dagger",
+  "rarity": "Common",
+  "damage": 10,
+  "posture_damage": 4.5,
+  "range": 5.8,
+  "reqs": "fools_tankard := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.24,
+  "scaling": {
+    "Light Weapon": 12
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "You've truly lost it."
+}

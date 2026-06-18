@@ -1,0 +1,13 @@
+{
+  "name": "Light Weapons Unbounded",
+  "category": "Saint of Blades",
+  "rarity": "Common",
+  "reqs": "light_weapons_unbounded := 75s LHT",
+  "additional_info": "Removes the 75 Attribute cap on Light Weapons.",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest."
+}

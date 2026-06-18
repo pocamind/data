@@ -1,0 +1,24 @@
+{
+  "name": "Hallowed Monastery Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Legendary",
+  "set": "Hallowed Monastery Champion",
+  "variants": [],
+  "talents": [
+    "Blade Dancer",
+    "Footwork Mastery"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "hallowed_monastery_cowl := 105r ttl",
+  "voi": true,
+  "desc": "..."
+}

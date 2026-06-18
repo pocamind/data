@@ -1,0 +1,22 @@
+{
+  "name": "Metal Rampart",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "metal_rampart := 1r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Summon a large metal pillar."
+}

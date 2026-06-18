@@ -1,0 +1,7 @@
+{
+  "info": "After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, dealing an additional 10 typeless damage in an AoE. You cannot increase the damage of the explosions through damage modifiers. Does not deal knockback. Regardless of the hit count, all critical attacks only apply 1 stack of detonation total. You cannot gain stacks from hitting knocked players. Explosions can execute.",
+  "name": "Detonation",
+  "category": "Weapon",
+  "in_game_desc": "Once enough stacks have been applied, an explosion is detonated.",
+  "obtainable_in": "Pathfinder"
+}

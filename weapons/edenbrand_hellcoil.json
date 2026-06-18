@@ -1,0 +1,24 @@
+{
+  "name": "Edenbrand Hellcoil",
+  "type": "Greatcannon",
+  "rarity": "Unique",
+  "damage": 27,
+  "posture_damage": 10,
+  "range": 8.5,
+  "reqs": "edenbrand_hellcoil := 30r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 8.3
+  },
+  "chip_damage": 0.2,
+  "enchantable": false,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Imbued with the breath of a true Edenkite, this cannon holds the fading remnants of one slain by a Northern Tiran hunting party of considerable renown. Trapping the beast in a ravine, the band brought it low with an onslaught of cannonfire from the cliffs above. However, as fate would have it, their return journey was cut short by a storm that had their vessel veer off into the Voidsea, taking them and their prize off the map. Now, its bitterly cold soulfire has found its way into your hands."
+}

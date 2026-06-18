@@ -1,0 +1,13 @@
+{
+  "name": "Solborn",
+  "category": "Solborn",
+  "rarity": "Memento",
+  "reqs": "solborn := ()",
+  "additional_info": "Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level. This Phoenix can be used like a campfire to rest and heal yourself.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Harness your Heartfire to command the Phoenix bound to your soul."
+}

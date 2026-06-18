@@ -1,0 +1,21 @@
+{
+  "name": "Duelist's Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "duelists_mask := ()",
+  "voi": false,
+  "desc": "..."
+}

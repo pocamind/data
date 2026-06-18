@@ -1,0 +1,25 @@
+{
+  "name": "Great Maul",
+  "type": "Greathammer",
+  "rarity": "Rare",
+  "damage": 25,
+  "posture_damage": 10,
+  "range": 9,
+  "reqs": "great_maul := 30r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 8.3
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "..."
+}

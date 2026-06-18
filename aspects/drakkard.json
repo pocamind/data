@@ -1,0 +1,81 @@
+{
+  "name": "Drakkard",
+  "desc": "Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict.",
+  "innate": {
+    "Agility": 2,
+    "Fortitude": 3
+  },
+  "talent": [
+    "Teachings of the Edenkite"
+  ],
+  "is_pathfinder": false,
+  "variants": {
+    "slate": {
+      "name": "Slate",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#333333",
+        "skin": "#8C8C8C",
+        "tone": "#4C4C4C",
+        "feature": "#8B9894",
+        "sclera": "#C7C7C7"
+      }
+    },
+    "laguna": {
+      "name": "Laguna",
+      "colors": {
+        "eye": "#06FFA0",
+        "hair": "#234C3E",
+        "skin": "#69989C",
+        "tone": "#345053",
+        "feature": "#00987A",
+        "sclera": "#72C7B9"
+      }
+    },
+    "sprout": {
+      "name": "Sprout",
+      "colors": {
+        "eye": "#B7FF1D",
+        "hair": "#363E29",
+        "skin": "#849471",
+        "tone": "#4B5441",
+        "feature": "#799823",
+        "sclera": "#A9C768"
+      }
+    },
+    "vale": {
+      "name": "Vale",
+      "colors": {
+        "eye": "#FF4EFF",
+        "hair": "#39293E",
+        "skin": "#9E5A9D",
+        "tone": "#593358",
+        "feature": "#845A84",
+        "sclera": "#9D90C7"
+      }
+    },
+    "ember": {
+      "name": "Ember",
+      "colors": {
+        "eye": "#FF9500",
+        "hair": "#331111",
+        "skin": "#9D4E4E",
+        "tone": "#4B2222",
+        "feature": "#986D00",
+        "sclera": "#C7B36B"
+      }
+    },
+    "hallowtide": {
+      "name": "Hallowtide",
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FFAE3D",
+        "hair": "#000000",
+        "skin": "#877B72",
+        "tone": "#38332F",
+        "feature": "#988556",
+        "sclera": "#B9B9B9"
+      }
+    }
+  }
+}

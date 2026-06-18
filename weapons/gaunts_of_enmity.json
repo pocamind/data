@@ -1,0 +1,23 @@
+{
+  "name": "Gaunts of Enmity",
+  "type": "Fist",
+  "rarity": "Unique",
+  "damage": 15,
+  "posture_damage": 6,
+  "range": 6,
+  "reqs": "gaunts_of_enmity := 10r FTD, 75r LHT",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.11,
+  "scaling": {
+    "Light Weapon": 9.5
+  },
+  "chip_damage": 0.2,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Gauntlets of great strength, forged long ago to fortify the wielder and shatter the souls of the weak."
+}

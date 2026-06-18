@@ -1,0 +1,20 @@
+{
+  "pants_id": null,
+  "shirt_id": null,
+  "mats": {},
+  "name": "Wishmaker",
+  "reqs": "wishmaker := ()",
+  "notes": 0,
+  "talent": "Crippling Darkness",
+  "category": "Spec",
+  "durability": 4000,
+  "resistances": {
+    "Elemental Resistance": 0.25,
+    "Shadow Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 100,
+    "Extra Stealth": 0
+  },
+  "desc": "The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aerogliding",
+  "category": "Aeromancer",
+  "rarity": "Rare",
+  "reqs": "aerogliding := 30s AGL, 35s WND",
+  "additional_info": "When active, create an aura that reduces fall speed and stops fall damage. Automatically ends after 5 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": false,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "When falling from a high place, hold spacebar to generate wind currents until you hit the floor."
+}

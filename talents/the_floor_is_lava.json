@@ -1,0 +1,13 @@
+{
+  "name": "The Floor is Lava",
+  "category": "Lava Serpent",
+  "rarity": "Advanced",
+  "reqs": "eruption_path_lava_serpent => the_floor_is_lava := 100s FLM",
+  "additional_info": "The duration and damage of the lava pools scale on your Flamecharm investment.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Eruptions leave lethal pools of lava beneath them. Don't fall in."
+}

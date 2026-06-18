@@ -1,0 +1,23 @@
+{
+  "name": "Legate Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "legate_helm := ()",
+  "voi": false,
+  "desc": "..."
+}

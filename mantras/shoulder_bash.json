@@ -1,0 +1,24 @@
+{
+  "name": "Shoulder Bash",
+  "attributes": [
+    "Fortitude"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "shoulder_bash := 35r FTD",
+  "scaling": {
+    "Fortitude": 1.65
+  },
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "voi": true,
+  "desc": "Rush at your enemies with your full physical force."
+}

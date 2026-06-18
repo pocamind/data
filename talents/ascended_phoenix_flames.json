@@ -1,0 +1,12 @@
+{
+  "name": "Ascended Phoenix Flames",
+  "category": "Immolator",
+  "rarity": "Memento",
+  "reqs": "ascended_phoenix_flames := ()",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Once per fight, when an attack would down you immediately revive with 30% HP."
+}

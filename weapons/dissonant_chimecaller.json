@@ -1,0 +1,27 @@
+{
+  "name": "Dissonant Chimecaller",
+  "type": "Greathammer",
+  "rarity": "Mythical",
+  "damage": 26,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "dissonant_chimecaller := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.82,
+  "scaling": {
+    "Heavy Weapon": 8.4
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An unexpectedly sophisticated staff with an antique design. In contrast to Knell's current state, it seems to originate from a time when he might have still been himself.",
+  "talents": [
+    "Ancient Metalwork"
+  ]
+}

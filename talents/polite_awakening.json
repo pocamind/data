@@ -1,0 +1,15 @@
+{
+  "name": "Polite Awakening",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "polite_awakening := ()",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP)"
+}

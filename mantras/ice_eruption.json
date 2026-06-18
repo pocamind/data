@@ -1,0 +1,22 @@
+{
+  "name": "Ice Eruption",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_eruption := 20r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "A flurry of ice spikes."
+}

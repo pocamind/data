@@ -1,0 +1,13 @@
+{
+  "name": "Feathered Glider",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "feathered_glider := ()",
+  "additional_info": "Provides a Glider with infinite durability. The color of this Glider is dependent on your aspect variant, but it can be dyed.",
+  "count_towards_talent_total": false,
+  "icon": "Wings",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage."
+}

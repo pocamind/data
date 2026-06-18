@@ -1,0 +1,25 @@
+{
+  "name": "Inquisitor's Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Brown",
+    "Dark",
+    "Navy",
+    "Relentless",
+    "Shadow",
+    "Smoke",
+    "Titan",
+    "Vermillion"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "inquisitors_hood := 90r TTL",
+  "voi": false,
+  "desc": "A shroud worn proud by the members of the Inquisition."
+}

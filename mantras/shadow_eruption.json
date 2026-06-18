@@ -1,0 +1,23 @@
+{
+  "name": "Shadow Eruption",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "shadow_eruption := 20r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "related_talents": [
+    "Overwhelming Drain"
+  ],
+  "voi": false,
+  "desc": "Form a shockwave of darkness."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Duskguard Axe",
+  "type": "Greataxe",
+  "rarity": "Mythical",
+  "damage": 26,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "duskguard_axe := 10r STR, 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A mighty axe, held by the most esteemed of the Authority. Its weight and striking force deliver utterly brutal blows through the teeth of its foes."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Phalanx Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Legion Phalanx",
+  "variants": [],
+  "talents": [
+    "Precise Swing"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "phalanx_helm := 135r ttl",
+  "voi": false,
+  "desc": "..."
+}

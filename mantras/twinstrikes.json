@@ -1,0 +1,18 @@
+{
+  "name": "Twinstrikes",
+  "attributes": [
+    "Strength",
+    "Agility"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "twinstrikes := 40r AGL, 60r STR",
+  "related_talents": [
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Only levels off Agility. Does not have investment scaling.",
+  "voi": false,
+  "desc": "Launch quick and devastating kicks."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "All-Seeing Eye",
+  "category": "Blindseer",
+  "rarity": "Oath",
+  "reqs": "oath_blindseer => all_seeing_eye := ()",
+  "additional_info": "Invisible players, including yourself, and monsters are revealed by a Blindseer Eye icon showcasing their current position.",
+  "count_towards_talent_total": false,
+  "icon": "Blindseer",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted."
+}

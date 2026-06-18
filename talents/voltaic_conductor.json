@@ -1,0 +1,12 @@
+{
+  "name": "Voltaic Conductor",
+  "category": "Super Conductor",
+  "rarity": "Common",
+  "reqs": "voltaic_conductor := 40s LTN, 75s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods."
+}

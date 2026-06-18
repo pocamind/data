@@ -1,0 +1,16 @@
+{
+  "name": "Lightweight",
+  "category": "Natural Armor",
+  "rarity": "Common",
+  "reqs": "lightweight := ()",
+  "additional_info": "Grants a +25% movement speed buff. This is not a speed boost, meaning it won't proc any speed boost-reliant Talents.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 3
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Move faster when your armor runs out of durability."
+}

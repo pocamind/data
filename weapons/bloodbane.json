@@ -1,0 +1,26 @@
+{
+  "name": "Bloodbane",
+  "type": "Greatsword",
+  "rarity": "Named",
+  "damage": 20,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "bloodbane := 30r STR, 60r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 5
+  },
+  "enchantable": false,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "An heirloom of the Canor Borderwatchers, this bloodsoaked zweihander has been passed down by its leaders for generations. At times, you swear you can feel a heartbeat resounding from within.",
+  "talents": [
+    "Blood Drinker"
+  ]
+}

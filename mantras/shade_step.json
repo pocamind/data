@@ -1,0 +1,20 @@
+{
+  "name": "Shade Step",
+  "attributes": [
+    "Shadowcast"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "shade_step := 30r SDW",
+  "scaling": {
+    "Shadowcast": 2.75
+  },
+  "shared_cooldowns": [
+    "Sanguine Dive",
+    "Beast Burrow"
+  ],
+  "voi": false,
+  "desc": "Submerge into your shadow. Click to launch an attack at any point while submerged."
+}

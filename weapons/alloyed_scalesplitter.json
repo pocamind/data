@@ -1,0 +1,23 @@
+{
+  "name": "Alloyed Scalesplitter",
+  "type": "Twinblade",
+  "rarity": "Legendary",
+  "damage": 20,
+  "posture_damage": 6,
+  "range": 8,
+  "reqs": "alloyed_scalesplitter := 65r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftsmanship and modern innovation, ready to carve its name into history again with you."
+}

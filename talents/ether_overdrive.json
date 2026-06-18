@@ -1,0 +1,19 @@
+{
+  "name": "Ether Overdrive",
+  "category": "Songmaster",
+  "rarity": "Advanced",
+  "reqs": "ether_overdrive := (20r FLM or 20r ICE or 20r SDW or 20r LTN or 20r WND or 20r MTL or 20r BLD), 90s INT",
+  "additional_info": "Removes both the melee and Mantra PEN cap.",
+  "count_towards_talent_total": true,
+  "icon": "Orb",
+  "roll2able": true,
+  "stats": {
+    "Pen": 0.05
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
+  "exclusive": [
+    "Million Ton Piercer"
+  ]
+}

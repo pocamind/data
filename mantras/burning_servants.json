@@ -1,0 +1,26 @@
+{
+  "name": "Burning Servants",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "burning_servants := 1r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Vibrant Gem"
+  ],
+  "sparks": [
+    "Reversal Spark"
+  ],
+  "voi": true,
+  "desc": "Summon a legion of flaming spearmen that lunge inwards."
+}

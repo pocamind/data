@@ -1,0 +1,23 @@
+{
+  "name": "Impel",
+  "attributes": [
+    "Oath: Chainwarden"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_chainwarden => impel := ()",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Chainlash"
+  ],
+  "miscellaneous": "Enchains if the target is at least 15 studs away.",
+  "voi": false,
+  "desc": "Blast through your opponent's guard and pull them towards you."
+}

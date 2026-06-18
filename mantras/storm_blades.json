@@ -1,0 +1,23 @@
+{
+  "name": "Storm Blades",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "storm_blades := 30r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "sparks": [
+    "Tornado Spark"
+  ],
+  "voi": false,
+  "desc": "Conjure weapons of thunder with your ether."
+}

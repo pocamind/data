@@ -1,0 +1,22 @@
+{
+  "name": "Soulwrought Longsword",
+  "type": "Sword",
+  "rarity": "Unknown",
+  "damage": 25,
+  "posture_damage": 5.5,
+  "range": 8.5,
+  "reqs": "soulwrought_longsword := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.06,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A weapon brought out from your soul."
+}

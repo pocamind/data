@@ -1,0 +1,26 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Vibrant Gem": 5,
+    "Umbral Obsidian": 10,
+    "Void Feather": 1,
+    "King Thresher Spine": 1
+  },
+  "name": "Royal Etrean Guard",
+  "reqs": "royal_etrean_guard := 315r TTL",
+  "notes": 1000,
+  "talent": "Paired Soul",
+  "category": "Master",
+  "pants_id": "4872573617",
+  "shirt_id": "4872573068",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "desc": "The armor of the Royal Etrean Guard."
+}

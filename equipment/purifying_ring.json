@@ -1,0 +1,16 @@
+{
+  "name": "Purifying Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "purifying_ring := ()",
+  "voi": false,
+  "desc": "A silver ring that eradicates the murk in the water surrounding it."
+}

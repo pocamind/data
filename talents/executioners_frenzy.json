@@ -1,0 +1,13 @@
+{
+  "name": "Executioner's Frenzy",
+  "category": "Inquisitive Lethality",
+  "rarity": "Faction",
+  "reqs": "executioners_frenzy := ()",
+  "additional_info": "This works on Paused Posture caused from Stature Break or Maiming Claws.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds."
+}

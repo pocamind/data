@@ -1,0 +1,25 @@
+{
+  "name": "Gale Punch",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "gale_punch := 20r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Vacuum Punch"
+  ],
+  "voi": false,
+  "desc": "Form a punch of wind in your fist and release it."
+}

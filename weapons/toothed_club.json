@@ -1,0 +1,26 @@
+{
+  "name": "Toothed Club",
+  "type": "Club",
+  "rarity": "Uncommon",
+  "damage": 16,
+  "posture_damage": 6,
+  "range": 7.5,
+  "reqs": "toothed_club := ()",
+  "damage_types": [
+    "Blunt",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 0.98,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "bleed_damage": 2.4,
+  "chip_damage": 0.05,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Silversix",
+  "type": "Pistol",
+  "rarity": "Common",
+  "damage": 10,
+  "posture_damage": 1,
+  "range": 10,
+  "reqs": "silversix := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1.17,
+  "scaling": {
+    "Light Weapon": 13
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A pistol passed down by your ancestors."
+}

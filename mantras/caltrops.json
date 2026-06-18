@@ -1,0 +1,25 @@
+{
+  "name": "Caltrops",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "caltrops := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Laced Traps"
+  ],
+  "voi": false,
+  "desc": "Sharp metal traps."
+}

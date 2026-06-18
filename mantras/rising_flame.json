@@ -1,0 +1,21 @@
+{
+  "name": "Rising Flame",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "rising_flame := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rising tornado of flames."
+}

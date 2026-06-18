@@ -1,0 +1,23 @@
+{
+  "name": "Mace",
+  "type": "Club",
+  "rarity": "Common",
+  "damage": 20,
+  "posture_damage": 6,
+  "range": 7.5,
+  "reqs": "mace := 10r MED",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A simple blunt weapon effective at breaking guards."
+}

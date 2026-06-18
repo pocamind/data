@@ -1,0 +1,26 @@
+{
+  "name": "Canor Fang",
+  "type": "Dagger",
+  "rarity": "Rare",
+  "damage": 11,
+  "posture_damage": 5,
+  "range": 6,
+  "reqs": "canor_fang := 40r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 10
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "...",
+  "talents": [
+    "Clutch Recovery"
+  ]
+}

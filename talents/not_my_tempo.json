@@ -1,0 +1,12 @@
+{
+  "name": "Not My Tempo",
+  "category": "Spear Dancer",
+  "rarity": "Memento",
+  "reqs": "not_my_tempo := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Dancer's Beat grants Hyperarmor."
+}

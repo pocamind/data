@@ -1,0 +1,12 @@
+{
+  "name": "Excavator",
+  "category": "Prospector",
+  "rarity": "Quest",
+  "reqs": "excavator := ()",
+  "count_towards_talent_total": false,
+  "icon": "Leaf",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Chance to receive two sets of ore when mining, mine ores a lot faster."
+}

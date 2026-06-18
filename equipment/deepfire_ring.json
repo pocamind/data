@@ -1,0 +1,14 @@
+{
+  "name": "Deepfire Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "deepfire_ring := 90 ttl",
+  "voi": false,
+  "desc": "Ring of Korilfiend. Burn status burns faster."
+}

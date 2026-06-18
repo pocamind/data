@@ -1,0 +1,13 @@
+{
+  "name": "Ether Emergency",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "ether_emergency := ()",
+  "additional_info": "On proc, restore health equal to 15% of your maximum Ether. 5 minute cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Brain",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras."
+}

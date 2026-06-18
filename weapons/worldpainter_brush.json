@@ -1,0 +1,22 @@
+{
+  "name": "Worldpainter Brush",
+  "type": "Exclusive",
+  "rarity": "Exclusive",
+  "damage": 23,
+  "posture_damage": 7,
+  "range": 8.5,
+  "reqs": "worldpainter_brush := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 0.91,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A mighty brush, bestowed upon Lumen's most gifted artisans."
+}

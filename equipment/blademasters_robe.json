@@ -1,0 +1,23 @@
+{
+  "name": "Blademaster's Robe",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": "Blademaster",
+  "variants": [],
+  "talents": [
+    "Swift Blade"
+  ],
+  "innates": {
+    "Health": {
+      "value": 6,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 3
+  },
+  "reqs": "blademasters_robe := ()",
+  "voi": false,
+  "desc": "Often worn by those who seek to perfect their martial skill with the blade, these robes trace their origins to ancient Etrean tradition, offering their wearer both comfort and mobility. Fragmented historical records suggest that this style of robe was highly preferred by Etrean nobility. It is also said that the old Maestros - leaders of the Vigil of Winds, - would wear similar robes during ceremonial occasions, and displays of their martial mastery."
+}

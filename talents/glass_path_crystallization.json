@@ -1,0 +1,17 @@
+{
+  "name": "Glass Path: Crystallization",
+  "category": "Glassdancer",
+  "rarity": "Common",
+  "reqs": "frostdrawer => glass_path_crystallization := 40s ICE",
+  "additional_info": "Turns your Frostdraw pink. Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode. Each crystal has 3 base damage with 5 Frostdraw scaling, increasing by 0.015 damage per Frostdraw investment for a maximum damage of 4.5 each at 100 Frostdraw. 1 second cooldown on explosion proc.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.",
+  "exclusive": [
+    "Unyielding Frost",
+    "Flashboil"
+  ]
+}

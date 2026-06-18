@@ -1,0 +1,13 @@
+{
+  "name": "Overdrive",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "overdrive := ()",
+  "additional_info": "Grants a Talent tool that doubles the damage of your Mantras for 10 seconds. 3 minute cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Saintsworn",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Go beyond your limits. All mantras you cast deal twice as much damage for 10 seconds."
+}

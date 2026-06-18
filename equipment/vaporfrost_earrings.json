@@ -1,0 +1,19 @@
+{
+  "name": "Vaporfrost Earrings",
+  "equippable": false,
+  "type": "Earrings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Drop Dead"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1,
+    "Rare": 1
+  },
+  "reqs": "vaporfrost_earrings := ()",
+  "voi": false,
+  "desc": "..."
+}

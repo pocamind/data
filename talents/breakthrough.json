@@ -1,0 +1,13 @@
+{
+  "name": "Breakthrough",
+  "category": "Breaker",
+  "rarity": "Memento",
+  "reqs": "breakthrough := ()",
+  "additional_info": "Increases the posture damage of M1s by 10%.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Posture damage on light attacks are increased by 10%."
+}

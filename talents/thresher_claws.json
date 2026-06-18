@@ -1,0 +1,12 @@
+{
+  "name": "Thresher Claws",
+  "category": "Marauder",
+  "rarity": "Rare",
+  "reqs": "thresher_claws := ()",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Slice 'n' Dice",
+  "attributes": [
+    "Medium Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "slice_n_dice := 60r MED",
+  "scaling": {
+    "Medium Weapon": 1.65
+  },
+  "related_talents": [
+    "Belief"
+  ],
+  "voi": false,
+  "desc": "Step forward and slice through your enemies. Ability can be activated again on a successful hit."
+}

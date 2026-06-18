@@ -1,0 +1,23 @@
+{
+  "name": "Rifle Spear",
+  "type": "Spear / Rifle",
+  "rarity": "Rare",
+  "damage": 21,
+  "posture_damage": 5,
+  "range": 9,
+  "reqs": "rifle_spear := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his origins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets."
+}

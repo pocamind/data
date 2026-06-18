@@ -1,0 +1,13 @@
+{
+  "name": "Shock Trooper Specialist",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "shock_trooper_specialist := ()",
+  "additional_info": "Upon meeting a damage threshold, create a Stormcall Strike. The Storm Strikes deal 40 Thundercall damage and can proc Grounding Bolt. Additionally, your Electro Carve, Grand Javelin, and Thunder Kick become green, and your Astral Wind, Champion's Whirlthrow, and Gale Lunge become yellow. All of the aforementioned Mantras have their base damage increased by 15%.",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras."
+}

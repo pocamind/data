@@ -1,0 +1,13 @@
+{
+  "name": "Formless",
+  "category": "Soulbreaker",
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => formless := ()",
+  "additional_info": "Grants a Talent tool that costs 50 Ether with a 5 second cooldown. This tool allows you to teleport to your cursor's location, but you cannot teleport outside of the Tacet bubble. On teleport, Tacet will end early. The speed boost gained from using Tacet lasts 2.5 seconds.",
+  "count_towards_talent_total": false,
+  "icon": "Soulbreaker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet."
+}

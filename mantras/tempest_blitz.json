@@ -1,0 +1,19 @@
+{
+  "name": "Tempest Blitz",
+  "attributes": [
+    "Galebreathe",
+    "Thundercall"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "tempest_blitz := 30r LTN, 30r WND",
+  "scaling": {
+    "Galebreathe": 2.75,
+    "Thundercall": 2.75
+  },
+  "voi": false,
+  "wiki": "",
+  "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gale Enhanced Beads",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Legendary",
+  "set": "Gale Enhanced",
+  "variants": [],
+  "talents": [
+    "Focused Strikes"
+  ],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "gale_enhanced_beads := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Bloodedge",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "bloodedge := 20r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Conjure a scythe of blood and swing."
+}

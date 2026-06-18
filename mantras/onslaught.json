@@ -1,0 +1,20 @@
+{
+  "name": "Onslaught",
+  "attributes": [
+    "Heavy Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "onslaught := 50r HVY",
+  "scaling": {
+    "Heavy Weapon": 1.65
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": true,
+  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits."
+}

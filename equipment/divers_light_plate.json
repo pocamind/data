@@ -1,0 +1,28 @@
+{
+  "name": "Diver's Light Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Mythical",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Conquer your Fears"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 3
+  },
+  "reqs": "divers_light_plate := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

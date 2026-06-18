@@ -1,0 +1,25 @@
+{
+  "name": "Adrenaline Surge",
+  "attributes": [
+    "Agility"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "adrenaline_surge := 20r AGL",
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "related_talents": [
+    "Action Surge",
+    "Expeditionary Evasiveness"
+  ],
+  "miscellaneous": "Grants a speed boost while active.",
+  "voi": false,
+  "desc": "An adrenaline rush of mobility."
+}

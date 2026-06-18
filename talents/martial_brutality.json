@@ -1,0 +1,13 @@
+{
+  "name": "Martial Brutality",
+  "category": "Operator's Technique",
+  "rarity": "Faction",
+  "reqs": "martial_brutality := ()",
+  "additional_info": "Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The less health your opponent has, the more posture you deal to them."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Oath: Oathless",
+  "category": "Oathless",
+  "rarity": "Oath",
+  "reqs": "oath_oathless := ()",
+  "additional_info": "Notably, the Oath Armor given by this Talent is affected by PEN and will be nullified if you run out of armor durability. Additionally, due to how resistances work, Oath attacks that have dual damage typings will ignore your Oath armor.",
+  "count_towards_talent_total": false,
+  "icon": "Oathless",
+  "roll2able": false,
+  "stats": {
+    "Wildcard Mantra Slot": 3,
+    "Health": 10,
+    "Oath Armor": 0.2,
+    "Monster Armor": 0.2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"
+}

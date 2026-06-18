@@ -1,0 +1,20 @@
+{
+  "name": "Tranquil Circle",
+  "attributes": [
+    "Oath: Blindseer"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_blindseer => tranquil_circle := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "sparks": [
+    "Magnet Spark"
+  ],
+  "voi": false,
+  "desc": "All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters."
+}

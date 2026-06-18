@@ -1,0 +1,28 @@
+{
+  "name": "Metal Turret",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_turret := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "sparks": [
+    "Multiplying Spark"
+  ],
+  "shared_cooldowns": [
+    "Firing Line"
+  ],
+  "voi": false,
+  "desc": "An automated turret that fires at targets that that cross its sight."
+}

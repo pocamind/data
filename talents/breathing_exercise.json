@@ -1,0 +1,16 @@
+{
+  "name": "Breathing Exercise",
+  "category": "Mental Fortress",
+  "rarity": "Common",
+  "reqs": "breathing_exercise := 5s WLL",
+  "additional_info": "Your passive sanity regen is increased by 50%.",
+  "count_towards_talent_total": true,
+  "icon": "Lungs",
+  "roll2able": true,
+  "stats": {
+    "Health": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your sanity recovers more quickly once out of terrifying situations."
+}

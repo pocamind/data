@@ -1,0 +1,23 @@
+{
+  "name": "Vanguard Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Vanguard",
+  "variants": [],
+  "talents": [
+    "Ready or Not"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "vanguard_boots := ()",
+  "voi": false,
+  "desc": "..."
+}

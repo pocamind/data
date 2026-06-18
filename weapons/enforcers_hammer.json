@@ -1,0 +1,25 @@
+{
+  "name": "Enforcer's Hammer",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 25,
+  "posture_damage": 12,
+  "range": 8.5,
+  "reqs": "enforcers_hammer := 25r STR, 80r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "chip_damage": 0.2,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fang and Coil",
+  "type": "Fist",
+  "rarity": "Unknown",
+  "damage": 12,
+  "posture_damage": 3,
+  "range": 6,
+  "reqs": "fang_and_coil := ()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.13,
+  "scaling": {
+    "Light Weapon": 7
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The serpentine martial arts of Etrea."
+}

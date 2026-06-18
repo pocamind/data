@@ -1,0 +1,16 @@
+{
+  "name": "Flameguard Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": "Flameguard",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "flameguard_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

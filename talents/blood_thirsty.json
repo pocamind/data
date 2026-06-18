@@ -1,0 +1,15 @@
+{
+  "name": "Blood Thirsty",
+  "category": "Cutthroat",
+  "rarity": "Common",
+  "reqs": "blood_thirsty := 45s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain a speed boost after causing an opponent heavy blood loss."
+}

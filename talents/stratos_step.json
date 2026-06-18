@@ -1,0 +1,17 @@
+{
+  "name": "Stratos Step",
+  "category": "Jetstriker",
+  "rarity": "Oath",
+  "reqs": "oath_jetstriker => stratos_step := ()",
+  "additional_info": "Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.",
+  "count_towards_talent_total": false,
+  "icon": "Jetstriker",
+  "roll2able": false,
+  "stats": {
+    "Health": 5,
+    "Passive Agility": 3
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Holding space while climbing will now let your perform Stratos Steps to get even higher."
+}

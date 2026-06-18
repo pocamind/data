@@ -1,0 +1,25 @@
+{
+  "name": "Royal Commander Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Royal Charge",
+    "Grasp on Reality"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "royal_commander_helm := ()",
+  "voi": true,
+  "desc": "..."
+}

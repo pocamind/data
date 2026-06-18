@@ -1,0 +1,23 @@
+{
+  "name": "Wind Passage",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "wind_passage := 50r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rush of wind"
+}

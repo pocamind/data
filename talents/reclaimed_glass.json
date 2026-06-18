@@ -1,0 +1,13 @@
+{
+  "name": "Reclaimed Glass",
+  "category": "Glassdancer",
+  "rarity": "Common",
+  "reqs": "crystal_shrapnel => reclaimed_glass := 65s ICE",
+  "additional_info": "The duration of this effect is refreshable by reproccing it.",
+  "count_towards_talent_total": true,
+  "icon": "Snowflake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds."
+}

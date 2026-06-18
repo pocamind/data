@@ -1,0 +1,21 @@
+{
+  "name": "Smith's Bandana",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Smith",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "smiths_bandana := ()",
+  "voi": false,
+  "desc": "..."
+}

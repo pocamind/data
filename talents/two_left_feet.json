@@ -1,0 +1,13 @@
+{
+  "name": "Two Left Feet",
+  "category": "Spear Dancer",
+  "rarity": "Memento",
+  "reqs": "two_left_feet := ()",
+  "additional_info": "14 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Posture breaking an opponent grants you +50% PEN for 3 seconds."
+}

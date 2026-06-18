@@ -1,0 +1,19 @@
+{
+  "name": "Revitalizing Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Praise The Sun"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "revitalizing_pendant := ()",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gold Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "gold_ring := ()",
+  "voi": false,
+  "desc": "A simple gold ring."
+}

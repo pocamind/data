@@ -1,0 +1,25 @@
+{
+  "name": "Crypt Blade",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 22,
+  "posture_damage": 8.5,
+  "range": 9,
+  "reqs": "crypt_blade := 40r HVY, 75r SDW",
+  "damage_types": [
+    "Slash",
+    "Shadowcast"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 4,
+    "Shadowcast": 9
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
+}

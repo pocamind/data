@@ -1,0 +1,12 @@
+{
+  "name": "Phantom Edge",
+  "category": "Adaptive Arsenal",
+  "rarity": "Rare",
+  "reqs": "phantom_edge := 75s MTL",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your weapon Basic Attacks have +0.25 range."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Simple Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "simple_pauldrons := ()",
+  "voi": false,
+  "desc": "Either they're of low complexity or someone needs a punch."
+}

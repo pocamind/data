@@ -1,0 +1,13 @@
+{
+  "name": "Osseous Surge",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "osseous_surge := ()",
+  "additional_info": "Press right click within a 10 second window after landing a flourish to stomp and send a wave of bones in the direction you're facing. This deals high damage and sends your opponent upwards.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this."
+}

@@ -1,0 +1,27 @@
+{
+  "pants_id": "10401292128",
+  "shirt_id": "10401137145",
+  "mats": {
+    "Cloth": 5,
+    "Erisore": 10,
+    "Strange Claw": 2,
+    "Vibrant Gem": 1,
+    "Wind Gem": 1
+  },
+  "name": "Stratos' Cloak",
+  "reqs": "stratos_cloak := ()",
+  "notes": 0,
+  "talent": "Breeze",
+  "category": "Unique",
+  "durability": 2200,
+  "resistances": {
+    "Physical Resistance": 0.2,
+    "Elemental Resistance": 0.3,
+    "Shadow Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "An honorable gift given in recognition of your heroism. Donning these robes represents the highest anointment granted within the Blade Temple."
+}

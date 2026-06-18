@@ -1,0 +1,20 @@
+{
+  "name": "Enforcer Pull",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Support",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "enforcer_pull := ()",
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Enforcer Pull"
+  ],
+  "voi": false,
+  "desc": "A powerful gravitational pull."
+}

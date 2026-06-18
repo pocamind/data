@@ -1,0 +1,13 @@
+{
+  "name": "Absolute Radiance",
+  "category": "Dawnwalker",
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => absolute_radiance := ()",
+  "additional_info": "All elemental status effects cannot be applied to you during Absolute Radiance.",
+  "count_towards_talent_total": false,
+  "icon": "Dawnwalker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period."
+}

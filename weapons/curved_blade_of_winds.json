@@ -1,0 +1,25 @@
+{
+  "name": "Curved Blade of Winds",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 17.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "curved_blade_of_winds := 40r MED, 75r WND",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.04,
+  "scaling": {
+    "Medium Weapon": 5,
+    "Galebreathe": 5
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A prized blade supposedly forged during the Canticlysm by the first Galebreathers."
+}

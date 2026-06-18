@@ -1,0 +1,23 @@
+{
+  "name": "Hunting Bow",
+  "type": "Bow",
+  "rarity": "Common",
+  "damage": 14,
+  "posture_damage": 4,
+  "range": 12,
+  "reqs": "hunting_bow := 20r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Rabbit or duck, it doesn't really matter the season."
+}

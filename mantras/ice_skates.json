@@ -1,0 +1,13 @@
+{
+  "name": "Ice Skates",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "ice_skates := 50r ICE",
+  "voi": false,
+  "desc": ""
+}

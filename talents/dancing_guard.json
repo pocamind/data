@@ -1,0 +1,13 @@
+{
+  "name": "Dancing Guard",
+  "category": "Bulwark",
+  "rarity": "Common",
+  "reqs": "dancing_guard := 55s FTD",
+  "additional_info": "Dancing Guard's duration will be reduced by 0.086s for every point in Fortitude below its requirements, having a minimum duration of 4.86s at 30 Fortitude.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s."
+}

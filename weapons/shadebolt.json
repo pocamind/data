@@ -1,0 +1,24 @@
+{
+  "name": "Shadebolt",
+  "type": "Bow",
+  "rarity": "Mythical",
+  "damage": 16,
+  "posture_damage": 4.5,
+  "range": 12,
+  "reqs": "shadebolt := 30r SDW, 45r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Lunge",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 8,
+    "Shadowcast": 2
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Bow of an ancient deep dwelling Ganymede nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman. Most never learned a name."
+}

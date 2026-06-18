@@ -1,0 +1,24 @@
+{
+  "name": "Ice Blade",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "ice_blade := 20r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "related_talents": [
+    "Glacial Mobility"
+  ],
+  "voi": false,
+  "desc": "A barrage of freezing blades."
+}

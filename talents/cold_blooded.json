@@ -1,0 +1,13 @@
+{
+  "name": "Cold Blooded",
+  "category": "Bloodsong",
+  "rarity": "Common",
+  "reqs": "cold_blooded := 40s ICE, 40s BLD",
+  "additional_info": "Applies 12.5% blood poisoning over the duration of the chill or 25% blood poisoning on crystal explosion. Only crystal explosions applied through maximizing crystal stacks will proc this Talent.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Precision Cuts",
+  "attributes": [
+    "Oath: Fadetrimmer"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_fadetrimmer => precision_cuts := ()",
+  "voi": false,
+  "desc": "Snip forward 3 times with your scissors!"
+}

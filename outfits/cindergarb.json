@@ -1,0 +1,27 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Dying Ember": 5,
+    "Blessed Gem": 2
+  },
+  "name": "Cindergarb",
+  "pants_id": "13408550924",
+  "shirt_id": "13408549888",
+  "reqs": "cindergarb := ()",
+  "notes": 1000,
+  "talent": "Warding Radiance, Repeated Propulsion",
+  "category": "Unique",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.3,
+    "Flame Resistance": 0.2,
+    "Metal Resistance": 0.15
+  },
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "desc": "Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability."
+}

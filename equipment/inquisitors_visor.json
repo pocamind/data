@@ -1,0 +1,31 @@
+{
+  "name": "Inquisitor's Visor",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Darksteel",
+    "Gold",
+    "Steel"
+  ],
+  "talents": [
+    "Blind Spot"
+  ],
+  "innates": {
+    "Health": {
+      "value": -5,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "inquisitors_visor := 90r TTL",
+  "voi": false,
+  "desc": "A metal visor favoured by the Inquisitors of the Central Authority. The perfect facewear to steel your visage of the world around you - hide your identity and emotions while retaining a look that commands authority on the field."
+}

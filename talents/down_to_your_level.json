@@ -1,0 +1,13 @@
+{
+  "name": "Down to your Level",
+  "category": "Bulwark",
+  "rarity": "Common",
+  "reqs": "down_to_your_level := 60s FTD",
+  "additional_info": "Down to your Level's duration will be reduced by 0.05s for every point in Fortitude below 60, capping at a minimum of 3.75s with 35 Fortitude. The slow only procs on M1s or critical attacks with the M1 tag. Procs from Entanglement, Daze, Chill and most other things that slow you down.",
+  "count_towards_talent_total": true,
+  "icon": "Boots",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for 5s."
+}

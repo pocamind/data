@@ -1,0 +1,24 @@
+{
+  "name": "Authority Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Strong Hold"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "authority_helm := 165 ttl, 10 ftd",
+  "voi": false,
+  "desc": "The standard-issue helmet of the Central Authority. The bearer's identity is stripped away, leaving only a faceless soldier in service of the world's salvation under the guiding hand of Sovereign Drallis Ehr, Overseer of Epochs. None have ever seen the true face of Lumen's Savior, and so too are his proxy's faces shrouded. Truly, the world is only illuminated by the will and grace of the Sovereign of Ages. Within this dark a blazing light."
+}

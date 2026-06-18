@@ -1,0 +1,30 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Irithine": 5,
+    "Wind Gem": 1,
+    "Gale Stone": 5,
+    "Vibrant Gem": 5
+  },
+  "name": "Vigil Sentinel",
+  "reqs": "vigil_sentinel := 5r WLL, 165r TTL",
+  "notes": 1000,
+  "talent": "Vigil's Grace, Action Surge",
+  "category": "Unique",
+  "pants_id": "16205109829",
+  "shirt_id": "17008436872",
+  "durability": 2500,
+  "resistances": {
+    "Wind Resistance": 0.25,
+    "Flame Resistance": 0.1,
+    "Shadow Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 25,
+    "Extra Stealth": 0
+  },
+  "desc": "..."
+}

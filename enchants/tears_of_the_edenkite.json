@@ -1,0 +1,7 @@
+{
+  "info": "On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and applying hitstun. This effect has a 20 second cooldown. The bubbles' damage scales with your weapon investment, dealing 11 damage at 100 weapon. Additionally they have 7.55x PvE scaling. The bubbles deal typeless damage, bypassing armor resistances. The bubbles are parryable, blockable, and dodgeable.",
+  "name": "Tears of the Edenkite",
+  "category": "Weapon",
+  "in_game_desc": "On critical attacks and flourishes, produce homing bubble projectiles. 20s CD",
+  "obtainable_in": "Pathfinder"
+}

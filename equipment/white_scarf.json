@@ -1,0 +1,22 @@
+{
+  "name": "White Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "white_scarf := 90r ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Flame Repulsion",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_repulsion := 1r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Spring Spark",
+    "Blast Spark"
+  ],
+  "voi": false,
+  "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Iron Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Iron",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "iron_boots := 75 ttl",
+  "voi": false,
+  "desc": "..."
+}

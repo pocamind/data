@@ -1,0 +1,29 @@
+{
+  "name": "Fleet Warden Cape",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Shade",
+    "Rose",
+    "Scarlet",
+    "Emerald",
+    "Silver",
+    "Onyx"
+  ],
+  "talents": [],
+  "innates": {
+    "Elemental Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "fleet_warden_cape := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

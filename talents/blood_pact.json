@@ -1,0 +1,12 @@
+{
+  "name": "Blood Pact",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "blood_pact := ()",
+  "count_towards_talent_total": false,
+  "icon": "Blood",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Gain 50 bonus temporary health whenever you knock/kill an enemy."
+}

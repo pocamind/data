@@ -1,0 +1,13 @@
+{
+  "name": "Protagonist Syndrome",
+  "category": "Dawnwalker",
+  "rarity": "Oath",
+  "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
+  "additional_info": "Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage. This cannot be self procced by using Shade Devour.",
+  "count_towards_talent_total": false,
+  "icon": "Dawnwalker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Justicar's Preference",
+  "category": "The Path, Unveiled",
+  "rarity": "Faction",
+  "reqs": "justicars_preference := ()",
+  "additional_info": "The Jus Karita critical will adopt your equipped weapon's scaling stat.\n\nHaving the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the default Jus Karita one.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Replace your critical with the Jus Karita critical attack."
+}

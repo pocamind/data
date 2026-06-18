@@ -1,0 +1,13 @@
+{
+  "name": "Target Switch",
+  "category": "Tactician",
+  "rarity": "Common",
+  "reqs": "target_switch := 20s INT",
+  "additional_info": "This effect is signalled by a yellow halo. Has a 4 second activation window with a 10 second duration.",
+  "count_towards_talent_total": true,
+  "icon": "Brain",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Parrying an opponent then hitting someone else makes your next mantra free."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pathfinder Lantern",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Breathing Exercise"
+  ],
+  "innates": {
+    "Sanity": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "pathfinder_lantern := ()",
+  "voi": false,
+  "desc": "A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost."
+}

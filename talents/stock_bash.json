@@ -1,0 +1,13 @@
+{
+  "name": "Stock Bash",
+  "category": "Marksman",
+  "rarity": "Common",
+  "reqs": "stock_bash := 25s STR, 55s MED",
+  "additional_info": "Applies daze for one second.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Rifles] Your running attacks now apply a brief amount of daze and Stagger PvE enemies."
+}

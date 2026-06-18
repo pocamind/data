@@ -1,0 +1,23 @@
+{
+  "name": "Enforcer Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Enforcer",
+  "variants": [],
+  "talents": [
+    "Conquer your Fears"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "enforcer_boots := 75 ttl",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Metal Gatling",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "metal_gatling := 50r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "A deadly rush of several metallic rods."
+}

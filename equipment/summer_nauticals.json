@@ -1,0 +1,20 @@
+{
+  "name": "Summer Nauticals",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Classic",
+    "Dusk",
+    "Seaglass"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "summer_nauticals := ()",
+  "voi": false,
+  "desc": "Timeless eyewear produced by the Summer Company. In this world, It's drip or drown. You have no way of knowing if these are genuine."
+}

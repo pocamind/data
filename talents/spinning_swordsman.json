@@ -1,0 +1,15 @@
+{
+  "name": "Spinning Swordsman",
+  "category": "Vigil Swordsman",
+  "rarity": "Common",
+  "reqs": "spinning_swordsman := 20s AGL",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Running attacks do +15% extra damage when you have a speed boost."
+}

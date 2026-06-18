@@ -1,0 +1,16 @@
+{
+  "name": "Azure Sentinel Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Azure Sentinel",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "azure_sentinel_boots := ()",
+  "voi": false,
+  "desc": "..."
+}

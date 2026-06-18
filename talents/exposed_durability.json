@@ -1,0 +1,13 @@
+{
+  "name": "Exposed Durability",
+  "category": "Adaptive Arsenal",
+  "rarity": "Common",
+  "reqs": "exposed_durability := 60s MTL",
+  "additional_info": "Procs against Berserk users and while Berserk is active.",
+  "count_towards_talent_total": false,
+  "icon": "Ferrofluid",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Deal 10% more damage to opponents with no armor durability left."
+}

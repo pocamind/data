@@ -1,0 +1,20 @@
+{
+  "name": "Gaze",
+  "attributes": [
+    "Willpower"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "gaze := 30r WLL",
+  "modifiers": [
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": true,
+  "desc": "Gaze into your opponent's souls."
+}

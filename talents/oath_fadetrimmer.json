@@ -1,0 +1,16 @@
+{
+  "name": "Oath: Fadetrimmer",
+  "category": "Fadetrimmer",
+  "rarity": "Oath",
+  "reqs": "oath_fadetrimmer := ()",
+  "count_towards_talent_total": false,
+  "icon": "Fadetrimmer",
+  "roll2able": false,
+  "stats": {
+    "Wildcard Mantra Slot": 1,
+    "Combat Mantra Slot": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again."
+}

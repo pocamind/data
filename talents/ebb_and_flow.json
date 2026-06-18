@@ -1,0 +1,12 @@
+{
+  "name": "Ebb and Flow",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "wyrmtooth => ebb_and_flow := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a medium mantra increases your heavy mantra's level by 1 and vice versa. This is stackable and can increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.",
+  "icon": "Sword",
+  "roll2able": false
+}

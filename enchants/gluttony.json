@@ -1,0 +1,7 @@
+{
+  "info": "On hit, steal hunger and thirst from the target based on damage dealt. Gluttony's sustenance steal is not affected by Glutton Flaw or damage modifiers, but it is affected by your opponent's damage resistances.",
+  "name": "Gluttony",
+  "category": "Weapon",
+  "in_game_desc": "Steals Water and Stomach from those you hit.",
+  "obtainable_in": "Pathfinder"
+}

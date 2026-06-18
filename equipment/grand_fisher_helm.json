@@ -1,0 +1,33 @@
+{
+  "name": "Grand Fisher Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Mythical",
+  "set": "Grand Fisher",
+  "variants": [],
+  "talents": [
+    "Coldseep Reactor"
+  ],
+  "innates": {
+    "Ice Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Lightning Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "grand_fisher_helm := 210 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

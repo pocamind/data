@@ -1,0 +1,19 @@
+{
+  "name": "Lifeweaver's Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Natural Healing",
+    "Iron Gut"
+  ],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "lifeweavers_hat := ()",
+  "voi": true,
+  "desc": "..."
+}

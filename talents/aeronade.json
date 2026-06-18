@@ -1,0 +1,16 @@
+{
+  "name": "Aeronade",
+  "category": "Aeromancer",
+  "rarity": "Common",
+  "reqs": "aeronade := 40s WND",
+  "additional_info": "Galetrap normally waits for contact with a target to begin its tornado, Galetrap now detonates once the trap stops moving.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "stats": {
+    "Passive Agility": 2
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Galetrap automatically detonates on contact with an object."
+}

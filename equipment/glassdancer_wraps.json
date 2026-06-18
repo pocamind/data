@@ -1,0 +1,27 @@
+{
+  "name": "Glassdancer Wraps",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Lightweight"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "glassdancer_wraps := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

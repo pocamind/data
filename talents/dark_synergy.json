@@ -1,0 +1,13 @@
+{
+  "name": "Dark Synergy",
+  "category": "Darksiphon",
+  "rarity": "Common",
+  "reqs": "dark_god => dark_synergy := 45s SDW",
+  "additional_info": "Deals 5 Shadowcast damage on proc.",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Engulf your enemy in shadows when flourishing them."
+}

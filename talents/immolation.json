@@ -1,0 +1,16 @@
+{
+  "name": "Immolation",
+  "category": "Immolator",
+  "rarity": "Common",
+  "reqs": "agitating_spark => immolation := 40s FLM",
+  "additional_info": "\"Self-Inflicted flames\" include Flame Within, Agitating Spark you spread and environmental burns created by you. \"Apply fire damage\" applies the burn status effect instead of adding Flamecharm damage. This applies burn regardless of Flamecharm path. Instead, all instances of Physical damage, and all attacks that have the slash (blood particle) fx on hit will proc Immolation, applying burn.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "stats": {
+    "Sanity": 8
+  },
+  "vaulted": false,
+  "voi": true,
+  "desc": "Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames."
+}

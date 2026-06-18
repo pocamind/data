@@ -1,0 +1,13 @@
+{
+  "name": "Vasculitis",
+  "category": "Septicemia",
+  "rarity": "Common",
+  "reqs": "vasculitis := 35s INT, 40s BLD",
+  "additional_info": "On proc, your opponent will be unable to use their Deep Gems for 8 seconds. Gem Enhancement increases the effectiveness of your Deep Gems in PvE.",
+  "count_towards_talent_total": true,
+  "icon": "Blood",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you Gem Enhancement against PvE temporarily."
+}

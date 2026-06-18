@@ -1,0 +1,24 @@
+{
+  "name": "Depths Wanderer's Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Iron Stance"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "depths_wanderers_boots := ()",
+  "voi": true,
+  "desc": "..."
+}

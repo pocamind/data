@@ -1,0 +1,21 @@
+{
+  "name": "Goldleaf Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "goldleaf_helm := ()",
+  "voi": false,
+  "desc": "..."
+}

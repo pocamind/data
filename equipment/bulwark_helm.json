@@ -1,0 +1,24 @@
+{
+  "name": "Bulwark Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Strong Hold"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "bulwark_helm := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

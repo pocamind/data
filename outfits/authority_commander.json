@@ -1,0 +1,30 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Blessed Gem": 1,
+    "Vibrant Gem": 5,
+    "Bounder Claw": 1,
+    "Dark Feather": 1,
+    "Thresher Spine": 1
+  },
+  "name": "Authority Commander",
+  "reqs": "authority_commander := 240r TTL",
+  "notes": 1000,
+  "pants_id": "11679644318",
+  "shirt_id": "11679642015",
+  "talent": "Riot Breaker",
+  "category": "Unique",
+  "durability": 2800,
+  "resistances": {
+    "Blunt Resistance": 0.1,
+    "Flame Resistance": 0.1,
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3
+  },
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "desc": "The armored robes of an Authority Commander."
+}

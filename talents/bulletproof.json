@@ -1,0 +1,13 @@
+{
+  "name": "Bulletproof",
+  "category": "Gunslinger",
+  "rarity": "Common",
+  "reqs": "bulletproof := 20r MED or 20r LHT or 20r FTD",
+  "additional_info": "This has no effect on your natural armor or incoming PEN.",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources."
+}

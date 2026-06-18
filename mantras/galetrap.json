@@ -1,0 +1,25 @@
+{
+  "name": "Galetrap",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "galetrap := 20r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Aeronade"
+  ],
+  "voi": false,
+  "desc": "Toss a wind landmine."
+}

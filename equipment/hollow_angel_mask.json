@@ -1,0 +1,19 @@
+{
+  "name": "Hollow Angel Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Angel's Guise"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "hollow_angel_mask := 165 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "..."
+}

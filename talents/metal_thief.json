@@ -1,0 +1,13 @@
+{
+  "name": "Metal Thief",
+  "category": "Metallurgist",
+  "rarity": "Common",
+  "reqs": "metal_thief := 50s MTL",
+  "additional_info": "Steals 2% of your opponent's current armor durability per rod.",
+  "count_towards_talent_total": true,
+  "icon": "Ferrofluid",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Pulling an opponent absorbs a portion of their current Armor durability."
+}

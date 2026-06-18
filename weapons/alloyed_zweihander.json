@@ -1,0 +1,24 @@
+{
+  "name": "Alloyed Zweihander",
+  "type": "Greatsword",
+  "rarity": "Legendary",
+  "damage": 23,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "alloyed_zweihander := 10r STR, 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.83,
+  "scaling": {
+    "Heavy Weapon": 10
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ether Barrage",
+  "attributes": [
+    "Intelligence"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ether_barrage := 30r INT",
+  "scaling": {
+    "Intelligence": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Conjure concentrated orbs of Ether to launch at your enemy."
+}

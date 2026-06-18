@@ -1,0 +1,21 @@
+{
+  "name": "Thunder Kick",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "thunder_kick := 20r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "An unrelenting kick like a clap of thunder."
+}

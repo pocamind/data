@@ -1,0 +1,26 @@
+{
+  "name": "Nemit's Sickle",
+  "type": "Dagger",
+  "rarity": "Legendary",
+  "damage": 11,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "nemits_sickle := 60r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.25,
+  "scaling": {
+    "Light Weapon": 13
+  },
+  "penetration": 0.3,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "...",
+  "talents": [
+    "Curved Edge"
+  ]
+}

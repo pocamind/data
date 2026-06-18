@@ -1,0 +1,21 @@
+{
+  "name": "Razor Blitz",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "razor_blitz := 30r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Create weapons on your arms and dash through."
+}

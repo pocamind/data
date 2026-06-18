@@ -1,0 +1,13 @@
+{
+  "name": "Mocking Favor",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "mocking_favor := ()",
+  "additional_info": "Grants a random buff or affliction from a set list whenever you spit or use an emote.",
+  "count_towards_talent_total": false,
+  "icon": "Visionshaper",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)"
+}

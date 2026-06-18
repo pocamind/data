@@ -1,0 +1,16 @@
+{
+  "name": "Chronostasis",
+  "category": "Warrior",
+  "rarity": "Rare",
+  "reqs": "chronostasis := ()",
+  "additional_info": "On hit, apply a 13 second Resonance cooldown. This cannot proc if their Resonance is already on cooldown.",
+  "count_towards_talent_total": true,
+  "icon": "Bell",
+  "roll2able": false,
+  "stats": {
+    "Posture": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a Basic Attack or Critical puts the target's Resonance on cooldown for a short duration, while also applying Ether Sunder to PvE opponents. "
+}

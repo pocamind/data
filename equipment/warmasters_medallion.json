@@ -1,0 +1,19 @@
+{
+  "name": "Warmaster's Medallion",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Actions Speak Louder"
+  ],
+  "innates": {},
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "warmasters_medallion := 135 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for hampering the amplitude of one's Resonance."
+}

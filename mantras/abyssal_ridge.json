@@ -1,0 +1,19 @@
+{
+  "name": "Abyssal Ridge",
+  "attributes": [
+    "Monster Mantra"
+  ],
+  "category": "Combat",
+  "type": "Monster",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "abyssal_ridge := ()",
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "voi": false,
+  "desc": "Send a cascading eruption towards your foes, forcing them to react."
+}

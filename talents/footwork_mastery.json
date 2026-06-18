@@ -1,0 +1,13 @@
+{
+  "name": "Footwork Mastery",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "footwork_mastery := ()",
+  "additional_info": "The speed boost lasts 15 seconds despite what the description states. 45 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Landing a critical gives you an immense speed boost for 10 seconds."
+}

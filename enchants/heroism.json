@@ -1,0 +1,7 @@
+{
+  "info": "When above 75% HP: gain +4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP) When below 25% HP: gain +4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP) In PVE the damage buff is 0.25x the damage buff in PVP (4% -> 1%, 20% -> 5%). Landing weapon attacks will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental Status Effects (Burn, Chill, Suffocation, Winded, Shock, and Fear), Antiheal, and Taunt. Note: This does not clear the status effect from yourself. Additionally, the reflected status effects are applied as if they were your own (e.g. Burn scales on your Flamecharm investment, not your opponents).",
+  "name": "Heroism",
+  "category": "Weapon",
+  "in_game_desc": "When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent.",
+  "obtainable_in": "Pathfinder"
+}

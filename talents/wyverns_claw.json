@@ -1,0 +1,13 @@
+{
+  "name": "Wyvern's Claw",
+  "category": "Aerial Dancer",
+  "rarity": "Rare",
+  "reqs": "wyverns_claw := 15s STR, (25r LHT or 25r MED or 25r HVY)",
+  "additional_info": "Activates after not being in contact with a grounded surface for ~0.75 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Claw",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead."
+}

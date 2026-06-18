@@ -1,0 +1,16 @@
+{
+  "name": "Will o' Wisp",
+  "category": "Sage of Wisps",
+  "rarity": "Advanced",
+  "reqs": "will_o_wisp := 25r ICE or 25r FLM or 25r WND or 25r SDW or 25r LTN or 25r MTL or 25r BLD",
+  "additional_info": "Allows the player to have multiple Wisp Mantras active at once.",
+  "count_towards_talent_total": true,
+  "icon": "Orb",
+  "roll2able": true,
+  "stats": {
+    "Wisp Mantra Slot": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time."
+}

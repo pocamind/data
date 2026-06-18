@@ -1,0 +1,13 @@
+{
+  "name": "Discharge",
+  "category": "Thunder Brawler",
+  "rarity": "Common",
+  "reqs": "discharge := 15s LTN, 20s LHT",
+  "additional_info": "Deals 5 Thundercall damage with 5 Thundercall scaling, gaining 0.025 damage per point in Thundercall. Applies Shock or 1 Surge Rod on proc.",
+  "count_towards_talent_total": true,
+  "icon": "Shock",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Light Weapons] On 5th successful attack you will discharge static dealing lightning damage to those nearby."
+}

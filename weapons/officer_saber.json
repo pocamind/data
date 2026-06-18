@@ -1,0 +1,22 @@
+{
+  "name": "Officer Saber",
+  "type": "Sword",
+  "rarity": "Uncommon",
+  "damage": 22,
+  "posture_damage": 6,
+  "range": 8,
+  "reqs": "officer_saber := 30r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 4.5
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories."
+}

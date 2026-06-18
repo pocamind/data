@@ -1,0 +1,24 @@
+{
+  "name": "Chain Pull",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Support",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "chain_pull := 20r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Reversal Spark"
+  ],
+  "voi": false,
+  "desc": "Manifest chains to brutally pull enemies towards you."
+}

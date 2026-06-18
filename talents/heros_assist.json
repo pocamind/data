@@ -1,0 +1,13 @@
+{
+  "name": "Hero's Assist",
+  "category": "Saintsworn",
+  "rarity": "Oath",
+  "reqs": "oath_saintsworn => heros_assist := ()",
+  "additional_info": "Each Saint has a specific spawn requirement and ability when spawned. You can spawn heroes independent of your current Saint Stance. This passive ability works once per Saint Stance, requiring you to cycle to the next one to reactivate.",
+  "count_towards_talent_total": false,
+  "icon": "Saintsworn",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Heroes come to your aid based on your current stance."
+}

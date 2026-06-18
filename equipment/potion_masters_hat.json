@@ -1,0 +1,19 @@
+{
+  "name": "Potion Master's Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Apothecary",
+    "Flask Amplifier"
+  ],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "potion_masters_hat := ()",
+  "voi": true,
+  "desc": "..."
+}

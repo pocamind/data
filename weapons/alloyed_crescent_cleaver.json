@@ -1,0 +1,26 @@
+{
+  "name": "Alloyed Crescent Cleaver",
+  "type": "Greatsword",
+  "rarity": "Legendary",
+  "damage": 22,
+  "posture_damage": 9,
+  "range": 9,
+  "reqs": "alloyed_crescent_cleaver := ()",
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.8,
+  "scaling": {
+    "Heavy Weapon": 10
+  },
+  "bleed_damage": 3.3,
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood."
+}

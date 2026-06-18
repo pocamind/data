@@ -1,0 +1,25 @@
+{
+  "name": "Sovereign's Punishment",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 26,
+  "posture_damage": 13,
+  "range": 9,
+  "reqs": "sovereigns_punishment := 20r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1.1,
+  "endlag": 0.15,
+  "swing_speed": 0.73,
+  "scaling": {
+    "Heavy Weapon": 9
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up."
+}

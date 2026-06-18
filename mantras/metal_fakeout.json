@@ -1,0 +1,16 @@
+{
+  "name": "Metal Fakeout",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "metal_fakeout := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "voi": false,
+  "desc": "Create a metal clone and appear behind your target."
+}

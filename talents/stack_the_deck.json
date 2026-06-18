@@ -1,0 +1,12 @@
+{
+  "name": "Stack the Deck",
+  "category": "Merchant",
+  "rarity": "Memento",
+  "reqs": "stack_the_deck := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Charmed enemies will grant you even more damage multipliers on your Taunt counter."
+}

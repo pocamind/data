@@ -1,0 +1,13 @@
+{
+  "name": "Frozen Anchor",
+  "category": "Ice Age",
+  "rarity": "Common",
+  "reqs": "frozen_anchor := 100r HVY or 100r LHT or 100r MED, 100s ICE",
+  "additional_info": "Bottom Freeze will be removed if the target takes damage from any source. This makes this Talent extremely ineffective on multihit criticals. The Chill applied from this Talent lasts 12 seconds. 10 second cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit."
+}

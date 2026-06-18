@@ -1,0 +1,14 @@
+{
+  "name": "Void Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "void_ring := ()",
+  "voi": true,
+  "desc": "Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer."
+}

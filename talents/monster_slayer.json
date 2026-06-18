@@ -1,0 +1,12 @@
+{
+  "name": "Monster Slayer",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "monster_slayer := ()",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Deal 25% more damage to giant enemies."
+}

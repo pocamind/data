@@ -1,0 +1,26 @@
+{
+  "name": "Firing Line",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "firing_line := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "sparks": [
+    "Blast Spark"
+  ],
+  "shared_cooldowns": [
+    "Metal Turret"
+  ],
+  "voi": false,
+  "desc": "Create a firing line of metal to light up your target."
+}

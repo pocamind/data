@@ -1,0 +1,19 @@
+{
+  "name": "Rising Thunder",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "rising_thunder := 50r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Rise up with your opponent and crash down as a bolt of lightning."
+}

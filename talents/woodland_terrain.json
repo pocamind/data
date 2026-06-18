@@ -1,0 +1,12 @@
+{
+  "name": "Woodland Terrain",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "woodland_terrain := ()",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You move slightly faster on grass."
+}

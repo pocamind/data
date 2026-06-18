@@ -1,0 +1,12 @@
+{
+  "name": "Justicar's Gift",
+  "category": "Warder Techniques",
+  "rarity": "Outfit",
+  "reqs": "justicars_gift := ()",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your Justicar support mantras now heal your allies for 10 health instead of 5. Increase the duration of your Karita Aid to 15 seconds."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Frostdrawer",
+  "category": "Frostdrawer",
+  "rarity": "Common",
+  "reqs": "frostdrawer := 1 ICE",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Grants you the ability to command Ice as a Frostdrawer."
+}

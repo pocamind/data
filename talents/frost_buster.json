@@ -1,0 +1,13 @@
+{
+  "name": "Frost Buster",
+  "category": "Ice Age",
+  "rarity": "Common",
+  "reqs": "cryonis => frost_buster := 15s HVY, 45s ICE",
+  "additional_info": "On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds. Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve."
+}

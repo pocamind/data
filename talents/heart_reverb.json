@@ -1,0 +1,13 @@
+{
+  "name": "Heart Reverb",
+  "category": "Soulbreaker",
+  "rarity": "Oath",
+  "reqs": "oath_soulbreaker => heart_reverb := ()",
+  "additional_info": "If someone performs an action within Rhythm's range, they will be highlighted red, even through walls. Rhythm will now stay active after uncrouching, only deactivating if done so manually or if you take damage. If an enemy dodges your attack, their health and posture percentages will be displayed in text next to their character briefly.",
+  "count_towards_talent_total": false,
+  "icon": "Soulbreaker",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing."
+}

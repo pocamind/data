@@ -1,0 +1,13 @@
+{
+  "name": "Golden Tongue",
+  "category": "Silvertongue",
+  "rarity": "Rare",
+  "reqs": "golden_tongue := 40s CHA",
+  "additional_info": "This can either restore 33% of your maximum Ether or grant 10% damage reduction with a visual effect similar to Reinforce. The buff given to each player is rolled independently. Golden Tongue's cooldown is dependent on your Charisma investment, gaining or losing 0.25 seconds for every point in Charisma below or above 40 respectively. Minimum cooldown of 45 seconds at 100 Charisma, maximum cooldown of 66 seconds at 15 Charisma.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)"
+}

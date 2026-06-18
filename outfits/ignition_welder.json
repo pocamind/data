@@ -1,0 +1,25 @@
+{
+  "mats": {
+    "Iron": 5,
+    "Cloth": 5,
+    "Fiber": 5,
+    "Erisore": 5
+  },
+  "name": "Ignition Welder",
+  "reqs": "ignition_welder := 10r FTD, 165r TTL",
+  "notes": 300,
+  "talent": "Master Craftsman",
+  "category": "Expert",
+  "pants_id": "112355463907464",
+  "shirt_id": "80584303714847",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 0.25,
+    "Elemental Resistance": 0.25
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Sturdy workwear designed for heavy duty labour. Just remember - personal protective equipment doesn't make you invincible!"
+}

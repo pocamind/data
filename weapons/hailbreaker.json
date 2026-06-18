@@ -1,0 +1,26 @@
+{
+  "name": "Hailbreaker",
+  "type": "Greatsword",
+  "rarity": "Mythical",
+  "damage": 22,
+  "posture_damage": 7.5,
+  "range": 8.5,
+  "reqs": "hailbreaker := 55r ICE, 65r HVY",
+  "damage_types": [
+    "Slash",
+    "Frostdraw"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 7.5,
+    "Frostdraw": 4
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "With the development of the Railblade, the Union had gained an edge over the Divers in their disputes over delving sites. In defiance of this, the mechanists of the Citadel changed their approach to equipment production and worked closely with Authority Weaponsmiths to design a cold-hearted blade capable of piercing through monster hide and freezing their innards solid. The end result was a weapon that not only excelled in missions, but also a in skirmishes against the more territorial squads of Union expeditioners. Sometimes spite works as the greatest motivator of change."
+}

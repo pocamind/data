@@ -1,0 +1,13 @@
+{
+  "name": "Rule Through Fear",
+  "category": "Tyrant",
+  "rarity": "Rare",
+  "reqs": "rule_through_fear := 50s STR, 85s CHA",
+  "additional_info": "Overcharms for 10 seconds.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Executing an enemy applies Overcharm to nearby allies and yourself."
+}

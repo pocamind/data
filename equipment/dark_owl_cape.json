@@ -1,0 +1,29 @@
+{
+  "name": "Dark Owl Cape",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": "Dark Owl",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Stealth": {
+      "value": 2,
+      "percentage": false
+    },
+    "Shadow Armor": {
+      "value": 5,
+      "percentage": true
+    },
+    "Elemental Armor": {
+      "value": 2,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "dark_owl_cape := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

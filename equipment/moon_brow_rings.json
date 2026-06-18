@@ -1,0 +1,23 @@
+{
+  "name": "Moon Brow Rings",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Brow",
+    "Dermal",
+    "Lip & Septum"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "moon_brow_rings := ()",
+  "voi": false,
+  "desc": "FEAR. IRONSINGERS."
+}

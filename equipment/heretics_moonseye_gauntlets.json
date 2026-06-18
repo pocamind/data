@@ -1,0 +1,29 @@
+{
+  "name": "Heretic's Moonseye Gauntlets",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Heretic's Sacrifice"
+  ],
+  "innates": {
+    "Health": {
+      "value": 7,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "heretics_moonseye_gauntlets := 195r ttl",
+  "voi": true,
+  "wiki": "",
+  "desc": "Gauntlets fashioned with a Moonseye motif. The watchful eye of gloamdark sky, the Moonseye has long been associated with life, death, and rebirth. In the Southern Luminant, the Moonseye was thought of as a lens through which one's dearly departed ancestors might view them from the afterlife. Moonseye charms were often woven into clothing to remember the fallen. Some organised gangs in the City of Celtor would refrain from committing crimes in the view of the Moonseye, on the premise that their ancestors were watching. Of course, dark alleyways and warehouses are often free from its gaze."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Symbiotic Sustain",
+  "attributes": [
+    "Oath: Linkstrider"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_linkstrider => symbiotic_sustain := ()",
+  "related_talents": [
+    "Symbiotic Link"
+  ],
+  "voi": false,
+  "desc": "Activate when linked to an ally to sacrifice your own health to them."
+}

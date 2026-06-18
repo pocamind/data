@@ -1,0 +1,12 @@
+{
+  "name": "Dancing Steps Of War",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "geta => dancing_steps_of_war := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.",
+  "icon": "Boots",
+  "roll2able": false
+}

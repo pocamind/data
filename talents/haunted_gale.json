@@ -1,0 +1,13 @@
+{
+  "name": "Haunted Gale",
+  "category": "Whisper",
+  "rarity": "Common",
+  "reqs": "haunted_gale := 40s WND",
+  "additional_info": "On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Having Gale Wisp active increases the duration of Haunted by 3 seconds. If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead while non-Galebreathe Mantras will summon Haunted Gale's Ghosts like normal.",
+  "count_towards_talent_total": true,
+  "icon": "Wind",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating."
+}

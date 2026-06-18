@@ -1,0 +1,24 @@
+{
+  "name": "Rapid Slashes",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "rapid_slashes := 30r LHT",
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "related_talents": [
+    "Assassin's Strike",
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Rush down your opponent cutting them apart."
+}

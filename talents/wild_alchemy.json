@@ -1,0 +1,13 @@
+{
+  "name": "Wild Alchemy",
+  "category": "Alchemist",
+  "rarity": "Common",
+  "reqs": "wild_alchemy := 25s INT",
+  "additional_info": "Has a 25% chance to proc.",
+  "count_towards_talent_total": true,
+  "icon": "Potion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have a chance to brew 2 potions instead of 1."
+}

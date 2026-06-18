@@ -1,0 +1,12 @@
+{
+  "name": "Worshipper's Tolerance",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "worshippers_shield => worshippers_tolerance := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire [45 second CD].",
+  "icon": "Shield",
+  "roll2able": false
+}

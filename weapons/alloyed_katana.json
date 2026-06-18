@@ -1,0 +1,24 @@
+{
+  "name": "Alloyed Katana",
+  "type": "Sword",
+  "rarity": "Uncommon",
+  "damage": 20,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "alloyed_katana := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "chip_damage": 0.1,
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."
+}

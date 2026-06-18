@@ -1,0 +1,29 @@
+{
+  "category": "Master",
+  "durability": 3000,
+  "extra_percents": {
+    "Ether Regen": 20,
+    "Extra Stealth": 0
+  },
+  "mats": {
+    "Blue Gem": 1,
+    "Cloth": 5,
+    "Dark Feather": 1,
+    "Fiber": 5,
+    "Gale Stone": 5,
+    "Thresher Spine": 1
+  },
+  "name": "Legion Centurion",
+  "notes": 1000,
+  "pants_id": "7787129741",
+  "shirt_id": "7787127693",
+  "reqs": "legion_centurion := 10r FTD, 240r TTL",
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Elemental Resistance": 0.3,
+    "Wind Resistance": 0.05,
+    "Shadow Resistance": 0.05
+  },
+  "talent": "Centurion's Resolve",
+  "desc": "Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata."
+}

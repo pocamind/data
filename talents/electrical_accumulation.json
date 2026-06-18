@@ -1,0 +1,13 @@
+{
+  "name": "Electrical Accumulation",
+  "category": "Flashing Thunder",
+  "rarity": "Memento",
+  "reqs": "electrical_accumulation := ()",
+  "additional_info": "Passively gain 4 stacks of Static Blade if you have 4 or more orbs.",
+  "count_towards_talent_total": false,
+  "icon": "Shock",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "While having 4 or more orbs, automatically gain 4 charges of Static Blade whilst you have 4 orbs."
+}

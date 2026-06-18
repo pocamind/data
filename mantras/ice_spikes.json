@@ -1,0 +1,25 @@
+{
+  "name": "Ice Spikes",
+  "attributes": [
+    "Frostdraw"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "ice_spikes := 1r ICE",
+  "scaling": {
+    "Frostdraw": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "related_talents": [
+    "Spike Traps"
+  ],
+  "voi": false,
+  "desc": "Piercing spikes of ice."
+}

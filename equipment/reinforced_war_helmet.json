@@ -1,0 +1,27 @@
+{
+  "name": "Reinforced War Helmet",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Reinforced War",
+  "variants": [],
+  "talents": [
+    "Fatal Strike"
+  ],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "reinforced_war_helmet := 315 ttl",
+  "voi": false,
+  "desc": "Hell hath no fury like an Evanspear."
+}

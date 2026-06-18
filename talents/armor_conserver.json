@@ -1,0 +1,13 @@
+{
+  "name": "Armor Conserver",
+  "category": "Natural Armor",
+  "rarity": "Common",
+  "reqs": "armor_conserver := ()",
+  "additional_info": "Does not affect Natural Armor from Exoskeleton and Chitin.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You lose 15% less armor when hit."
+}

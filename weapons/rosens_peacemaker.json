@@ -1,0 +1,24 @@
+{
+  "name": "Rosen's Peacemaker",
+  "type": "Rifle",
+  "rarity": "Rare",
+  "damage": 18,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "rosens_peacemaker := 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 4
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value on the market, due to both the historical importance of this firearm, as well as it's effectiveness.",
+  "talents": [
+    "Rosen's Technique"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Lethal Injection",
+  "attributes": [
+    "Oath: Saltchemist"
+  ],
+  "category": "Support",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_saltchemist => lethal_injection := ()",
+  "related_talents": [
+    "Perpetual Distillery"
+  ],
+  "miscellaneous": "Applies all potion effects from off-cooldown potions in the Distillery. Puts all Distillery potions on cooldown.",
+  "voi": false,
+  "desc": "Lunge forward and inject the targeted person with all of your auto-brew potions."
+}

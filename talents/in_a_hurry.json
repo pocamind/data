@@ -1,0 +1,13 @@
+{
+  "name": "In a Hurry",
+  "category": "Cutthroat",
+  "rarity": "Common",
+  "reqs": "in_a_hurry := 30s AGL",
+  "additional_info": "Reduces grip time by 0.5 seconds (16.67% faster).",
+  "count_towards_talent_total": true,
+  "icon": "Assassin",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You grip faster with a movement speed boost."
+}

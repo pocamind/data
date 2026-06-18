@@ -1,0 +1,17 @@
+{
+  "name": "Close Shave",
+  "attributes": [
+    "Oath: Fadetrimmer"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_fadetrimmer => close_shave := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Close the distance and deliver a fast slash."
+}

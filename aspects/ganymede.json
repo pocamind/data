@@ -1,0 +1,89 @@
+{
+  "name": "Ganymede",
+  "desc": "Peculiar folk often known for their wisdom and intelligence. Though a rare folk, Ganymede science still drives humanity forward.",
+  "innate": {
+    "Willpower": 3,
+    "Intelligence": 2
+  },
+  "talent": [
+    "Deepfolk"
+  ],
+  "is_pathfinder": true,
+  "exclude_cosmetics": ["brows", "marking", "mouth"],
+  "variants": {
+    "titan": {
+      "name": "Titan",
+      "colors": {
+        "eye": "#FFCD03",
+        "hair": "#A5B1B3",
+        "skin": "#3D2B25",
+        "tone": "#000000",
+        "marking": "#FFCD03",
+        "sclera": "#FFFFFF",
+        "under": "#6C5837"
+      }
+    },
+    "enceladus": {
+      "name": "Enceladus",
+      "colors": {
+        "eye": "#0ACAFF",
+        "hair": "#9EA2B1",
+        "skin": "#2D2F51",
+        "tone": "#10111E",
+        "marking": "#0ACAFF",
+        "sclera": "#FFFFFF",
+        "under": "#307981"
+      }
+    },
+    "zithori": {
+      "name": "Zithori",
+      "unlock": "spec",
+      "colors": {
+        "eye": "#38AA00",
+        "hair": "#5A6765",
+        "skin": "#32382E",
+        "tone": "#000000",
+        "marking": "#38AA00",
+        "sclera": "#FFFFFF",
+        "under": "#2F8132"
+      }
+    },
+    "tethys": {
+      "name": "Tethys",
+      "colors": {
+        "eye": "#11DC9F",
+        "hair": "#DFDFDF",
+        "skin": "#364C51",
+        "tone": "#060809",
+        "marking": "#11DC9F",
+        "sclera": "#000000",
+        "under": "#3A7060"
+      }
+    },
+    "hyperion": {
+      "name": "Hyperion",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#C4CBCC",
+        "skin": "#373D46",
+        "tone": "#000000",
+        "marking": "#FFFFFF",
+        "sclera": "#FFFFFF",
+        "under": "#707E81"
+      }
+    },
+    "hallowtide": {
+      "name": "Hallowtide",
+      "unlock": "hallowtide",
+      "colors": {
+        "eye": "#FF61F7",
+        "hair": "#60537C",
+        "skin": "#392A4F",
+        "tone": "#0B0810",
+        "marking": "#FF61F7",
+        "sclera": "#FFFFFF",
+        "under": "#764281"
+      }
+    }
+  }
+}

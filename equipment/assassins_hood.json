@@ -1,0 +1,28 @@
+{
+  "name": "Assassin's Hood",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Assassin",
+  "variants": [
+    "Gold",
+    "Pale",
+    "Mist",
+    "Crimson"
+  ],
+  "talents": [
+    "Deep Wound"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 5,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "assassins_hood := 105 ttl, 10 agl",
+  "voi": false,
+  "desc": "..."
+}

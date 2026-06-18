@@ -1,0 +1,13 @@
+{
+  "name": "Pleeksty's Faith",
+  "category": "Inferno",
+  "rarity": "Common",
+  "reqs": "pleekstys_faith := 15s WLL, 15s CHA, 25s FLM",
+  "additional_info": "Does not proc with flames produced by the user with Flame Within or Agitating Spark.",
+  "count_towards_talent_total": false,
+  "icon": "Blaze",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "When on fire, automatically quench flames at the cost of some ether."
+}

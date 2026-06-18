@@ -1,0 +1,21 @@
+{
+  "name": "Lightning Assault",
+  "attributes": [
+    "Thundercall"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "lightning_assault := 30r LTN",
+  "scaling": {
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "A rush of lightning."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sightless Still",
+  "category": "Shadowcaster",
+  "rarity": "Common",
+  "reqs": "sightless_still := 30s SDW",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "The more a person is affected by your Shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision even more and applies Ether Sunder to PvE",
+  "exclusive": [
+    "Singularity"
+  ]
+}

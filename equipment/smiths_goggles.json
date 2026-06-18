@@ -1,0 +1,16 @@
+{
+  "name": "Smith's Goggles",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": "Smith",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "smiths_goggles := ()",
+  "voi": false,
+  "desc": "..."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gale Lunge",
+  "attributes": [
+    "Galebreathe"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 1,
+  "vaulted": false,
+  "reqs": "gale_lunge := 20r WND",
+  "scaling": {
+    "Galebreathe": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone"
+  ],
+  "shared_cooldowns": [
+    "Ice Lance"
+  ],
+  "voi": false,
+  "desc": "A rush of piercing wind."
+}

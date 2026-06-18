@@ -1,0 +1,19 @@
+{
+  "name": "Terraplate Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Terrapod Tracer"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "terraplate_pauldrons := 165r TTL",
+  "voi": false,
+  "desc": "..."
+}

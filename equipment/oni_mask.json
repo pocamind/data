@@ -1,0 +1,18 @@
+{
+  "name": "Oni Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Hellion Shift"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "oni_mask := ()",
+  "voi": true,
+  "desc": "The demonic visage fills you with a mix of dread and glee."
+}

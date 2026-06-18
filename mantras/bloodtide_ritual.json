@@ -1,0 +1,21 @@
+{
+  "name": "Bloodtide Ritual",
+  "attributes": [
+    "Bloodrend"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 3,
+  "vaulted": false,
+  "reqs": "bloodtide_ritual := 50r BLD",
+  "scaling": {
+    "Bloodrend": 2.75
+  },
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone",
+    "Vibrant Gem"
+  ],
+  "voi": false,
+  "desc": "Summon the Bloodtide and perform a sacrificial judgement."
+}

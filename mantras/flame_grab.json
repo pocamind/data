@@ -1,0 +1,27 @@
+{
+  "name": "Flame Grab",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "flame_grab := 1r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "shared_cooldowns": [
+    "Frost Grab",
+    "Jolt Grab",
+    "Clutching Shadow",
+    "Iron Hug",
+    "Throw"
+  ],
+  "voi": false,
+  "desc": "Jet forwards with flames and slam anyone you catch in your clutches."
+}

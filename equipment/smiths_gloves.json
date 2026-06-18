@@ -1,0 +1,21 @@
+{
+  "name": "Smith's Gloves",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Smith",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "smiths_gloves := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

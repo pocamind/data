@@ -1,0 +1,23 @@
+{
+  "name": "Hero's Blade of Flame",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 19,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "heros_blade_of_flame := 100r FLM",
+  "damage_types": [
+    "Slash",
+    "Flamecharm"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1,
+  "scaling": {
+    "Flamecharm": 5.5
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade said to be enruned with a passage of the Song, it evokes the overwhelming heat of geothermal vents"
+}

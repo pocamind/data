@@ -1,0 +1,23 @@
+{
+  "name": "Pathfinder's Backpack",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Robber Baron"
+  ],
+  "innates": {
+    "Carry Load": {
+      "value": 35,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "pathfinders_backpack := ()",
+  "voi": false,
+  "desc": "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels."
+}

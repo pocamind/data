@@ -1,0 +1,16 @@
+{
+  "name": "Ardour Scream",
+  "category": "Murmur",
+  "rarity": "Common",
+  "reqs": "murmur_ardour => ardour_scream := 15s STR, 40s WLL",
+  "additional_info": "Consumes 100% of your Ether on use. Ardour Scream requires you to have a minimum of 100% Ether to be casted. Having the Soul Infusion Talent will reduce this to a minimum of 40% Ether.  Combat tags opponents hit. Notably, its damage and posture damage buffs are applied on-hit to incoming attacks rather than being a debuff that increases damage/posture damage taken, meaning Ardour Scream is affected by the damage and posture damage modifier caps. Also has a 95-Stud range (245 if Soulbreaker),",
+  "count_towards_talent_total": true,
+  "icon": "Sword",
+  "roll2able": true,
+  "stats": {
+    "Sanity": 9
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s."
+}

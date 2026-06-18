@@ -1,0 +1,12 @@
+{
+  "name": "Blade Scholar",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "alloyed_inheritor, markors_inheritor => blade_scholar := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.",
+  "icon": "Fist",
+  "roll2able": false
+}

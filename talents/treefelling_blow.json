@@ -1,0 +1,13 @@
+{
+  "name": "Treefelling Blow",
+  "category": "Miscellaneous",
+  "rarity": "Quest",
+  "reqs": "treefelling_blow := ()",
+  "additional_info": "Allows you to gain Wood when you destroy trees with Strong Left.",
+  "count_towards_talent_total": false,
+  "icon": "Fist",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can collect lumber from the trees you fell with your fists. It's only natural."
+}

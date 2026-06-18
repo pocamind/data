@@ -1,0 +1,19 @@
+{
+  "name": "Armored Sensor Mask",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Callout",
+    "Analyze"
+  ],
+  "innates": {},
+  "pips": {
+    "Common": 1
+  },
+  "reqs": "armored_sensor_mask := ()",
+  "voi": true,
+  "desc": "..."
+}

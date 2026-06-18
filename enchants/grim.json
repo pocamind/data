@@ -1,0 +1,7 @@
+{
+  "info": "After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, Grim will be applied for 6 seconds. This status effect applies a +25% damage and +50% posture damage modifier to all incoming attacks. Grim is affected by the damage modifier cap. Grim stacks can also be gained from critical attacks that have the M1 tag.",
+  "name": "Grim",
+  "category": "Weapon",
+  "in_game_desc": "Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%.",
+  "obtainable_in": "Pathfinder"
+}

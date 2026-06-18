@@ -1,0 +1,27 @@
+{
+  "name": "Alloyed Steel Maul",
+  "type": "Greathammer",
+  "rarity": "Legendary",
+  "damage": 24,
+  "posture_damage": 7,
+  "range": 9,
+  "reqs": "alloyed_steel_maul := 10r STR, 75r HVY",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.85,
+  "scaling": {
+    "Heavy Weapon": 8
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A sturdy maul perfect for knocking walls and people down alike.",
+  "talents": [
+    "Bulwark Breaker"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Thresher Thrasher",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "thresher_charm => thresher_thrasher := ()",
+  "count_towards_talent_total": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Adapt to the ways of the thresher, increasing how long you are able to stay underground with Beast Burrow by 30%, and reducing its cooldown by 25%.",
+  "icon": "Eye",
+  "roll2able": false
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Iron Tether",
+  "attributes": [
+    "Ironsing",
+    "Thundercall"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "iron_tether := 30r LTN, 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75,
+    "Thundercall": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Aeon Logstone",
+    "Eternal Logstone",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Magnet Spark",
+    "Multiplying Spark"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Seaborne",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "seaborne := ()",
+  "additional_info": "Ship purchase price is reduced by 20%, ships turn 20% faster, and have 10% more health. Repairing a ship with a Repair Hammer takes less time.",
+  "count_towards_talent_total": false,
+  "icon": "Cube",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You have a keen understanding of ships and their maintenance."
+}

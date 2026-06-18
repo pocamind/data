@@ -1,0 +1,23 @@
+{
+  "name": "Karita Leap",
+  "attributes": [
+    "Light Weapon"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "karita_leap := 20r LHT",
+  "scaling": {
+    "Light Weapon": 1.65
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "related_talents": [
+    "Curved Edge"
+  ],
+  "voi": false,
+  "desc": "Launch yourself into a flying kick, backflipping into the air if you hit a wall."
+}

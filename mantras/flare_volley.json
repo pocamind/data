@@ -1,0 +1,23 @@
+{
+  "name": "Flare Volley",
+  "attributes": [
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "flare_volley := 30r FLM",
+  "scaling": {
+    "Flamecharm": 2.75
+  },
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard"
+  ],
+  "voi": false,
+  "wiki": "",
+  "desc": "Conjure up to 3 fireballs to volley at your enemies."
+}

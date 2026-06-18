@@ -1,0 +1,30 @@
+{
+  "name": "Rimebreakers",
+  "type": "Fist",
+  "rarity": "Legendary",
+  "damage": 16.5,
+  "posture_damage": 5,
+  "range": 6,
+  "reqs": "rimebreakers := 50r LHT, 50r ICE, 50r WND",
+  "damage_types": [
+    "Blunt",
+    "Frostdraw",
+    "Galebreathe"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 5,
+    "Frostdraw": 3.5,
+    "Galebreathe": 3.5
+  },
+  "penetration": 0.05,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Immersed within the Ethironal storm and infused with Kyrsan frost, these knucklebone fistwraps are a poignant reflection of the current state of the Kyrsgarde. Once a proud and mighty people, the Kyrsans now find themselves buffeted, suffocating beneath an oppressive force - with little hope for salvation. Perhaps a similar fate awaits your foes, should they face these implements in combat.",
+  "talents": [
+    "Fortify"
+  ]
+}

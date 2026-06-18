@@ -1,0 +1,15 @@
+{
+  "name": "Singularity",
+  "category": "Shadowcaster",
+  "rarity": "Common",
+  "reqs": "shadowcaster => singularity := 40s SDW",
+  "count_towards_talent_total": true,
+  "icon": "Shadows",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Enemies will briefly hang in place when hit by a shadow move.",
+  "exclusive": [
+    "Sightless Still"
+  ]
+}

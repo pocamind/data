@@ -1,0 +1,20 @@
+{
+  "name": "Oxidizing Rush",
+  "attributes": [
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 2,
+  "vaulted": false,
+  "reqs": "oxidizing_rush := 30r MTL",
+  "scaling": {
+    "Ironsing": 2.75
+  },
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "voi": false,
+  "desc": "Conjure metal swords and rush forward with them."
+}

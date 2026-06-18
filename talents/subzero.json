@@ -1,0 +1,12 @@
+{
+  "name": "Subzero",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "subzero := ()",
+  "count_towards_talent_total": false,
+  "icon": "Snowflake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well."
+}

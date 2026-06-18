@@ -1,0 +1,13 @@
+{
+  "name": "Loyalty",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "loyalty := ()",
+  "additional_info": "Allies take 35% less damage from you and deal 35% less damage to you. This stacks multiplicatively with Give and Take.",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your bond with your allies is strong enough to reduce damage between you."
+}

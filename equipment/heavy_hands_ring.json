@@ -1,0 +1,16 @@
+{
+  "name": "Heavy Hands Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "heavy_hands_ring := ()",
+  "voi": false,
+  "desc": "Makes your \"M1\" attack 10% slower but do 30% more posture damage."
+}

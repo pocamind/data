@@ -1,0 +1,25 @@
+{
+  "name": "Sanguine Transfuser",
+  "type": "Dagger",
+  "rarity": "Relic",
+  "damage": 16.5,
+  "posture_damage": 4.5,
+  "range": 6.5,
+  "reqs": "sanguine_transfuser := 50r LHT, 75r BLD",
+  "damage_types": [
+    "Slash",
+    "Bloodrend"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.22,
+  "scaling": {
+    "Light Weapon": 6.5,
+    "Bloodrend": 4
+  },
+  "penetration": 0.2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "You watch the once solid splinter animate within the cold forge; the fragmented blade freely imbibing its now biotic form. The corroded dagger falls away, leaving the splinter and blood to dance through the helical mold. As they reach the now-fused Hemobloom, the splinter diverges, rejected by the crystallizing blood now solidly cast into its progenitor's form. Though the relic was destroyed and your experiment failed, what remains may be worth what was lost."
+}

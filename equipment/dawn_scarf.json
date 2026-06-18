@@ -1,0 +1,22 @@
+{
+  "name": "Dawn Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Shadow Armor": {
+      "value": 3,
+      "percentage": true
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "dawn_scarf := 90r ttl",
+  "voi": false,
+  "desc": "..."
+}

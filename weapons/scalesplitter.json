@@ -1,0 +1,23 @@
+{
+  "name": "Scalesplitter",
+  "type": "Twinblade",
+  "rarity": "Uncommon",
+  "damage": 17.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "scalesplitter := 40r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.9,
+  "scaling": {
+    "Medium Weapon": 5
+  },
+  "penetration": 0.1,
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles."
+}

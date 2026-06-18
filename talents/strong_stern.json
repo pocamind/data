@@ -1,0 +1,15 @@
+{
+  "name": "Strong Stern",
+  "category": "Duelist",
+  "rarity": "Rare",
+  "reqs": "strong_stern := 15s STR, 25s FTD",
+  "count_towards_talent_total": true,
+  "icon": "Skeleton",
+  "roll2able": false,
+  "stats": {
+    "Carry Load": 5
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well."
+}

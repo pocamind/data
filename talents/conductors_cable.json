@@ -1,0 +1,13 @@
+{
+  "name": "Conductor's Cable",
+  "category": "Rending Needle",
+  "rarity": "Common",
+  "reqs": "rending_needle_conductor => conductors_cable := ()",
+  "additional_info": "Creating a Conductor Rod drains 10% of your opponent's maximum armor.",
+  "count_towards_talent_total": true,
+  "icon": "Skull",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Applying Conductor rods on opponents steals some of their armor to you."
+}

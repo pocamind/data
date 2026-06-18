@@ -1,0 +1,13 @@
+{
+  "name": "Merchant's Accord",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "merchants_accord := ()",
+  "additional_info": "This Talent does NOT allow you to use the Antiquarian in the First Layer if you are not Deepbound or Ignition Delver.",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Merchants and Antiquarians will do business with you no matter how poor your reputation is."
+}

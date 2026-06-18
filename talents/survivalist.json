@@ -1,0 +1,13 @@
+{
+  "name": "Survivalist",
+  "category": "Pathfinder",
+  "rarity": "Equipment",
+  "reqs": "survivalist := ()",
+  "additional_info": "Take less damage from Acid Rain.",
+  "count_towards_talent_total": false,
+  "icon": "Lungs",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Resist the effects of Weather Effects."
+}

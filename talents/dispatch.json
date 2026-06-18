@@ -1,0 +1,12 @@
+{
+  "name": "Dispatch",
+  "category": "Hammer Rage",
+  "rarity": "Common",
+  "reqs": "bear_trap => dispatch := 55s MED",
+  "count_towards_talent_total": true,
+  "icon": "Bullet",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "[Clubs] Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack."
+}

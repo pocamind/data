@@ -1,0 +1,26 @@
+{
+  "name": "Big Brother",
+  "type": "Dagger",
+  "rarity": "Mythical",
+  "damage": 15,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "big_brother := 80r LHT",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.2,
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "penetration": 0.15,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A gift from High Inquisitor Merey. Far from a weapon of war, this dagger is a perfect tool for the stealthy wetwork missions of the Inquisition. Eyes and ears may watch and listen, but must never make a sound.",
+  "talents": [
+    "Swift Strike"
+  ]
+}

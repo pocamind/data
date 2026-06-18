@@ -1,0 +1,13 @@
+{
+  "name": "Drift",
+  "category": "Drifter",
+  "rarity": "Memento",
+  "reqs": "drift := ()",
+  "additional_info": "Your parry is replaced with a low distance dodge if you successfully parry an attack.",
+  "count_towards_talent_total": false,
+  "icon": "Boots",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "You're no longer slow enough to have to rely on parries. Dodge instead."
+}

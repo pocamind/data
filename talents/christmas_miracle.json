@@ -1,0 +1,11 @@
+{
+  "name": "Christmas Miracle",
+  "category": "Christmas Miracle",
+  "rarity": "Spec",
+  "reqs": "christmas_miracle := ()",
+  "count_towards_talent_total": false,
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Christmas Mod Shop reward. Regens hunger and thirst. \"Thank you so much K1!\" Heh, no problem guys. All in a day's work."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Glide Mastery",
+  "category": "Innate",
+  "rarity": "Innate",
+  "reqs": "glide_mastery := ()",
+  "count_towards_talent_total": false,
+  "icon": "Wind",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "Experience using the glider you crafted results in you being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage."
+}

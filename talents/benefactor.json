@@ -1,0 +1,13 @@
+{
+  "name": "Benefactor",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "benefactor := ()",
+  "additional_info": "Grants faction reputation upon selling items to their respective Antiquarian.",
+  "count_towards_talent_total": false,
+  "icon": "Handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Gain reputation for selling goods to Antiquarians within faction territories."
+}

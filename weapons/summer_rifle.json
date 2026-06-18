@@ -1,0 +1,21 @@
+{
+  "name": "Summer Rifle",
+  "type": "Rifle",
+  "rarity": "Uncommon",
+  "damage": 17,
+  "posture_damage": 4,
+  "range": 8,
+  "reqs": "summer_rifle := ()",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "swing_speed": 1,
+  "scaling": {
+    "Medium Weapon": 6
+  },
+  "enchantable": true,
+  "equip_motifs": true,
+  "voi": false,
+  "desc": "A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models."
+}

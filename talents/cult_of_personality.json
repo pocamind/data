@@ -1,0 +1,13 @@
+{
+  "name": "Cult of Personality",
+  "category": "Politician",
+  "rarity": "Common",
+  "reqs": "cult_of_personality := 90s CHA",
+  "additional_info": "The PEN gain per target will be reduced if you do not meet Cult of Personality's Charisma requirement.",
+  "count_towards_talent_total": true,
+  "icon": "Handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You gain +3% PEN for each person Charmed, capping at +15% PEN."
+}

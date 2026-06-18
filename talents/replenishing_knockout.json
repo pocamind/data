@@ -1,0 +1,13 @@
+{
+  "name": "Replenishing Knockout",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "replenishing_knockout := ()",
+  "additional_info": "Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).",
+  "count_towards_talent_total": true,
+  "icon": "Climb",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You gain more health and posture from downing enemies."
+}

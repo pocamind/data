@@ -1,0 +1,23 @@
+{
+  "name": "Rite of Authority",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 19.5,
+  "posture_damage": 8,
+  "range": 8,
+  "reqs": "rite_of_authority := 40r LTN, 75r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.05,
+  "scaling": {
+    "Medium Weapon": 7
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "An incredibly well crafted saber, if you could even call it that. It's superb at channeling thundercall through it, arcs jumping between the rivets that coat its length."
+}

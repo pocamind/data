@@ -1,0 +1,13 @@
+{
+  "name": "Grasp of Eylis",
+  "category": "The Knives of Eylis",
+  "rarity": "Origin",
+  "reqs": "grasp_of_eylis := ()",
+  "additional_info": "Grants a Talent tool that can only be used in the Voidheart, teleporting you to your Bounty target. Choosing Stealth causes teleports you near, but far away from your target, hiding the bounty target. Choosing Ferocity teleports you close to your target, highlighting them through walls briefly. If Ferocity is chosen, your character will be enveloped in shadows, signifying that you have a bounty.",
+  "count_towards_talent_total": false,
+  "icon": "Daggers",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized."
+}

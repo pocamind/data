@@ -1,0 +1,13 @@
+{
+  "name": "Boiling Point",
+  "category": "Vaporbone",
+  "rarity": "Common",
+  "reqs": "flashboil => boiling_point := 30s ICE, 30s FLM",
+  "additional_info": "Deals 10 typeless damage. This cannot be parried nor blocked. Procs when you hit the Steam cloud with your Flamecharm Mantra, meaning your opponent can parry your Mantra and this will still proc.",
+  "count_towards_talent_total": true,
+  "icon": "Explosion",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Using a fire mantra near your own steam cloud detonates it."
+}

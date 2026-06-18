@@ -1,0 +1,17 @@
+{
+  "name": "Equalizer",
+  "attributes": [
+    "Oath: Contractor"
+  ],
+  "category": "Combat",
+  "type": "Oath",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "oath_contractor => equalizer := ()",
+  "modifiers": [
+    "Glass Stone",
+    "Magnifying Stone"
+  ],
+  "voi": false,
+  "desc": "Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura."
+}

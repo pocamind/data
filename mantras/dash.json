@@ -1,0 +1,23 @@
+{
+  "name": "Dash",
+  "attributes": [
+    "Agility"
+  ],
+  "category": "Mobility",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "dash := 40r AGL",
+  "modifiers": [
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "sparks": [
+    "Spring Spark"
+  ],
+  "related_talents": [
+    "Expeditionary Evasiveness"
+  ],
+  "voi": false,
+  "desc": "An agile dash."
+}

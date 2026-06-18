@@ -1,0 +1,13 @@
+{
+  "name": "Hyperbody",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "hyperbody := ()",
+  "additional_info": "Provides 35.5% damage reduction, scaling up with the amount of players buffed. Provides a 7.5 studs/s movement speed bonus, scaling down with the amount of players buffed. Hyperbody has a 30 second duration, but this duration will be reduced by 3s for every player buffed (including yourself). 2 minute cooldown.",
+  "count_towards_talent_total": false,
+  "icon": "Shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it."
+}

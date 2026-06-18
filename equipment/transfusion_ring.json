@@ -1,0 +1,21 @@
+{
+  "name": "Transfusion Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 20,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "transfusion_ring := ()",
+  "voi": false,
+  "desc": "Gain extra vitality at the cost of your ability to heal (receive 50% less healing)."
+}

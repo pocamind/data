@@ -1,0 +1,21 @@
+{
+  "mats": {},
+  "name": "Blacksteel Attire",
+  "pants_id": "4907680538",
+  "shirt_id": "4907667581",
+  "reqs": "blacksteel_attire := 90r TTL",
+  "notes": 0,
+  "talent": null,
+  "category": "Unique",
+  "durability": 1000,
+  "resistances": {
+    "Physical Resistance": 0.3,
+    "Slash Resistance": 0.1,
+    "Flame Resistance": 0.35
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "Attire wrought from forged blacksteel. Its weight hardens the wearer's stance."
+}

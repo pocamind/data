@@ -1,0 +1,21 @@
+{
+  "name": "Trickster's Scarf",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Mythical",
+  "set": null,
+  "variants": [
+    "Amber",
+    "Black",
+    "Lavendar",
+    "White"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Legendary": 2
+  },
+  "reqs": "tricksters_scarf := 120 ttl",
+  "voi": false,
+  "desc": "Merriment, gaiety and fun!"
+}

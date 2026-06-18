@@ -1,0 +1,24 @@
+{
+  "name": "Skyreap Blade",
+  "type": "Greataxe",
+  "rarity": "Legendary",
+  "damage": 23,
+  "posture_damage": 7.5,
+  "range": 8.5,
+  "reqs": "skyreap_blade := 75r HVY",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.8,
+  "endlag": 0.1,
+  "swing_speed": 0.91,
+  "scaling": {
+    "Heavy Weapon": 7
+  },
+  "chip_damage": 0.25,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves."
+}

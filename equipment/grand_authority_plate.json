@@ -1,0 +1,25 @@
+{
+  "name": "Grand Authority Plate",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Grand Authority",
+  "variants": [],
+  "talents": [
+    "Heavy Haul"
+  ],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "grand_authority_plate := 165 ttl",
+  "voi": false,
+  "desc": "..."
+}

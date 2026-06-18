@@ -1,0 +1,25 @@
+{
+  "name": "Threadwork Kilt",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    },
+    "Carry Load": {
+      "value": 20,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "threadwork_kilt := 90 ttl",
+  "voi": false,
+  "desc": "..."
+}

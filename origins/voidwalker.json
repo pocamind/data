@@ -1,0 +1,13 @@
+{
+  "name": "Voidwalker",
+  "desc": "The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you.",
+  "outfit": "Whaler Initiate",
+  "spawns": [
+    "Voidheart"
+  ],
+  "talents": [
+    "Voidwalker Contract",
+    "Voideye",
+    "Grasp of Eylis"
+  ]
+}

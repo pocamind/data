@@ -1,0 +1,19 @@
+{
+  "name": "Celestial Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Cosmic Connection"
+  ],
+  "innates": {},
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "celestial_boots := 165 ttl",
+  "voi": false,
+  "desc": "Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world."
+}

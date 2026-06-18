@@ -1,0 +1,17 @@
+{
+  "name": "Gourmand",
+  "category": "Miscellaneous",
+  "rarity": "Common",
+  "reqs": "gourmand := ()",
+  "additional_info": "Increases hunger and thirst gain by 20%.",
+  "count_towards_talent_total": true,
+  "icon": "Leaf",
+  "roll2able": true,
+  "stats": {
+    "Carry Load": 5,
+    "Posture": 1
+  },
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your hunger and thirst gain from eating is increased."
+}

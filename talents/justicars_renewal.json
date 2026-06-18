@@ -1,0 +1,13 @@
+{
+  "name": "Justicar's Renewal",
+  "category": "Justicar",
+  "rarity": "Common",
+  "reqs": "jus_karita => justicars_renewal := ()",
+  "additional_info": "Landing Jus Karita's critical attack will reset its cooldown. This has a 10 second cooldown. Also procs if Jus Karita's critical is blocked or parried.",
+  "count_towards_talent_total": true,
+  "icon": "Fist",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds)."
+}

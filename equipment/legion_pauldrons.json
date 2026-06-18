@@ -1,0 +1,23 @@
+{
+  "name": "Legion Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Legion",
+  "variants": [],
+  "talents": [
+    "Polite Awakening"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "legion_pauldrons := 135 ttl",
+  "voi": false,
+  "desc": "..."
+}

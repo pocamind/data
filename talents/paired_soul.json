@@ -1,0 +1,13 @@
+{
+  "name": "Paired Soul",
+  "category": "Miscellaneous",
+  "rarity": "Outfit",
+  "reqs": "paired_soul := ()",
+  "additional_info": "Katana deals 25% more damage. Alloyed Katana, Shattered Katana, and Purple Cloud deal 5% more damage. This is a damage modifier.",
+  "count_towards_talent_total": false,
+  "icon": "Sword",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Wielding a katana with this outfit grants extra damage."
+}

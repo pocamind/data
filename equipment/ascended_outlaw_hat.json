@@ -1,0 +1,27 @@
+{
+  "name": "Ascended Outlaw Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Ascended Outlaw",
+  "variants": [
+    "Western",
+    "Ascended"
+  ],
+  "talents": [
+    "Mass Effect"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "ascended_outlaw_hat := 315 ttl",
+  "voi": false,
+  "wiki": "",
+  "desc": "Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity."
+}
