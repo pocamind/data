@@ -2,7 +2,7 @@
   "name": "Brick Wall",
   "category": "Human Architecture",
   "rarity": "Advanced",
-  "reqs": "perseverance => brick_wall := 100s FTD, 100s WLL",
+  "reqs": "perseverance => brick_wall := 100s WLL, 100s FTD",
   "additional_info": "Grants full immunity to ragdoll. The knockdown duration reduction scales on your combined Fortitude and Willpower investment, being fully negated if you have 100 points invested into each attribute.",
   "count_towards_talent_total": true,
   "icon": "Climb",

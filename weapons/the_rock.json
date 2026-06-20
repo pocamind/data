@@ -5,7 +5,7 @@
   "damage": 102,
   "posture_damage": 30,
   "range": 8,
-  "reqs": "the_rock := ()",
+  "reqs": "the_rock := 200r HVY",
   "damage_types": [
     "Blunt"
   ],

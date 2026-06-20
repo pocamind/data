@@ -2,7 +2,7 @@
   "name": "Lone Wolf",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "lone_wolf := ()",
+  "reqs": "canor => lone_wolf := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

@@ -4,7 +4,7 @@
     "Odd Tentacle": 1
   },
   "name": "Martial Artist",
-  "reqs": "martial_artist := 15r STR, 165r TTL",
+  "reqs": "martial_artist := 165r TTL, 15r STR",
   "notes": 100,
   "talent": "Bruiser's Mixup",
   "category": "Expert",

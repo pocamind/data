@@ -2,7 +2,7 @@
   "name": "Frozen Legs",
   "category": "Frozen Warrior",
   "rarity": "Rare",
-  "reqs": "frostdrawer => frozen_legs := 60s ICE",
+  "reqs": "saint_jay => frozen_legs := 315s TTL",
   "additional_info": "Only procs from Chill procs on Mantras. Lasts for 0.75 seconds.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "bloodedge := 20r BLD",
+  "reqs": "berserker => bloodedge := 165r TTL",
   "damage": [
     {
       "variant": null,

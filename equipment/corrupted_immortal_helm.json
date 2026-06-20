@@ -13,7 +13,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "corrupted_immortal_helm := 90r ttl",
+  "reqs": "corrupted_immortal_helm := 90r TTL",
   "voi": true,
   "desc": "Helm of an Immortal Guardian. The product of Ministry experimentation, it's thought that these helmets enthrall their wielders by means of a Mind Veil, causing immediate death should they ever be removed. It seems that in prying this helmet off that this functionality has been disabled. You hope."
 }

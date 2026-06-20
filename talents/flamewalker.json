@@ -2,7 +2,7 @@
   "name": "Flamewalker",
   "category": "Flame Warden",
   "rarity": "Common",
-  "reqs": "warding_radiance => flamewalker := 25s AGL, 40s FLM",
+  "reqs": "flame_worshipper => flamewalker := 90s TTL",
   "count_towards_talent_total": false,
   "icon": "Blaze",
   "roll2able": false,

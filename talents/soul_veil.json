@@ -2,7 +2,7 @@
   "name": "Soul Veil",
   "category": "Prince of the Moon",
   "rarity": "Memento",
-  "reqs": "soul_veil := ()",
+  "reqs": "prince_of_the_moon => soul_veil := ()",
   "additional_info": "Each successful attack with the Soulthorn builds up stacks of Soul Veil, increasing your weapon damage by 7.5%. This caps at a 30% damage buff. If you take damage while Soul Veil is active, the opponent who hit you will steal your Soul Veil stacks until you hit them back. This can prove fatal.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

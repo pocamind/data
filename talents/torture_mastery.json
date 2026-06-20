@@ -2,7 +2,7 @@
   "name": "Torture Mastery",
   "category": "Sanguine Wager",
   "rarity": "Common",
-  "reqs": "torture_mastery := 100r MED or 100r LHT or 100r HVY, 100s BLD",
+  "reqs": "torture_mastery := 100s BLD, 100r LHT OR 100r MED OR 100r HVY",
   "additional_info": "On proc, all chip damage you deal will be converted into healing. The conversion rate is 1:1.",
   "count_towards_talent_total": true,
   "icon": "Blood",

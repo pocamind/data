@@ -22,7 +22,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "reinforced_war_plate := 315 ttl, 25 str",
+  "reqs": "reinforced_war_plate := 315r TTL, 25r STR",
   "voi": false,
   "desc": "Made light to protect only the essentials, Evanspear Centurions put all their strength into a single blow, believing the best defense is a brutal offense."
 }

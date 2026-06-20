@@ -5,7 +5,7 @@
   "damage": 16.5,
   "posture_damage": 6,
   "range": 6,
-  "reqs": "worldpiercer_gauntlets := 30r STR, 85r LHT",
+  "reqs": "worldpiercer_gauntlets := 85r LHT, 30r STR",
   "damage_types": [
     "Blunt"
   ],

@@ -2,7 +2,7 @@
   "name": "Unbreakable",
   "category": "Tower Knight",
   "rarity": "Outfit",
-  "reqs": "unbreakable := 20s FTD",
+  "reqs": "darksteel_plate, etrean_guard => unbreakable := ()",
   "additional_info": "Reduces the stun duration from being guardbroken from 1.05s to 0.7s.",
   "count_towards_talent_total": false,
   "icon": "Shield",

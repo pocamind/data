@@ -2,7 +2,7 @@
   "name": "Expeditionary Evasiveness",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "expeditionary_evasiveness := ()",
+  "reqs": "inquisitors_thorn => expeditionary_evasiveness := ()",
   "additional_info": "Your Agility Mantras gain 3 Mantra levels, bypassing the level 5 cap. This is not displayed on the Mantra tooltip. Jetstriker Mantras are unaffected by this.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

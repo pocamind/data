@@ -2,7 +2,7 @@
   "name": "Ga Dearg",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "ga_dearg := ()",
+  "reqs": "spear_dancer => ga_dearg := ()",
   "additional_info": "Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.",
   "count_towards_talent_total": false,
   "icon": "Sword",

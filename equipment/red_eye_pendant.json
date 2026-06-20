@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "red_eye_pendant := 90 ttl",
+  "reqs": "red_eye_pendant := 90r TTL",
   "voi": false,
   "desc": "..."
 }

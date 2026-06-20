@@ -2,7 +2,7 @@
   "name": "Bloodrender",
   "category": "Bloodrender",
   "rarity": "Common",
-  "reqs": "bloodrender := 1 BLD",
+  "reqs": "bloodrender := 1s BLD",
   "count_towards_talent_total": true,
   "icon": "Blood",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Vigil's Grace",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "vigils_grace := ()",
+  "reqs": "vigil_sentinel => vigils_grace := ()",
   "additional_info": "Stacks additively with Action Surge. Both this and Action Surge are applied before Lightning Cloak's swing speed multiplier.",
   "count_towards_talent_total": false,
   "icon": "Boots",

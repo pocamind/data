@@ -2,7 +2,7 @@
   "name": "Riot Shield",
   "category": "Battle Readiness",
   "rarity": "Faction",
-  "reqs": "riot_shield := ()",
+  "reqs": "authority_ensign => riot_shield := ()",
   "additional_info": "Grants 40% damage reduction to chip damage, does not reduce your opponent's chip % by 40.",
   "count_towards_talent_total": false,
   "icon": "Shield",

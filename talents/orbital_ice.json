@@ -2,7 +2,7 @@
   "name": "Orbital Ice",
   "category": "Frostthorn",
   "rarity": "Common",
-  "reqs": "orbital_ice := 65s ICE",
+  "reqs": "saint_jay => orbital_ice := 240s TTL",
   "additional_info": "90 second cooldown. Durability of Orbital Ice is equal to \"Frostdraw investment +10\".",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

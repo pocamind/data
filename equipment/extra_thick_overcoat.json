@@ -18,7 +18,7 @@
     "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "extra_thick_overcoat := 90r ttl",
+  "reqs": "extra_thick_overcoat := 90r TTL",
   "voi": true,
   "desc": "An essential winter coat to protect you against the cold."
 }

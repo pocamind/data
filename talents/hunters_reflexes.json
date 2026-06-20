@@ -2,7 +2,7 @@
   "name": "Hunter's Reflexes",
   "category": "Forest Hunter",
   "rarity": "Outfit",
-  "reqs": "hunters_reflexes := ()",
+  "reqs": "cutthroat_light_armor => hunters_reflexes := ()",
   "additional_info": "Increases the dodge window by 0.05s.",
   "count_towards_talent_total": false,
   "icon": "Boots",

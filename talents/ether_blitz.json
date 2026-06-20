@@ -2,7 +2,7 @@
   "name": "Ether Blitz",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_blitz := ()",
+  "reqs": "ether_erudite => ether_blitz := ()",
   "additional_info": "Turns Master's Flourish light blue.",
   "count_towards_talent_total": false,
   "icon": "Brain",

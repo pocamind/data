@@ -18,7 +18,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "summer_scarf := 90 ttl",
+  "reqs": "summer_scarf := 90r TTL",
   "voi": false,
   "desc": "A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder..."
 }

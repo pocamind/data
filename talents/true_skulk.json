@@ -2,7 +2,7 @@
   "name": "True Skulk",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "true_skulk := ()",
+  "reqs": "rogue_assassin => true_skulk := ()",
   "count_towards_talent_total": false,
   "icon": "Daggers",
   "roll2able": false,

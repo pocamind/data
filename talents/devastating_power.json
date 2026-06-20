@@ -2,7 +2,7 @@
   "name": "Devastating Power",
   "category": "Archsorcerer",
   "rarity": "Outfit",
-  "reqs": "devastating_power := 40s INT",
+  "reqs": "pathfinder_arch_sorcerer => devastating_power := ()",
   "additional_info": "Gain 10 maximum Ether for every Mantra you have equipped.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

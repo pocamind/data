@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 5,
   "range": 12,
-  "reqs": "guiding_star := 25r INT OR 25r WLL OR 25r CHA, 75r MED",
+  "reqs": "guiding_star := 75r MED, 25r INT OR 25r WLL OR 25r CHA",
   "damage_types": [
     "Slash"
   ],

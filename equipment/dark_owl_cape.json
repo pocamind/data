@@ -23,7 +23,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "dark_owl_cape := 90 ttl",
+  "reqs": "dark_owl_cape := 90r TTL",
   "voi": false,
   "desc": "..."
 }

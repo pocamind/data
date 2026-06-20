@@ -2,7 +2,7 @@
   "name": "Blood and Iron",
   "category": "Bloodsong",
   "rarity": "Common",
-  "reqs": "blood_and_iron := 40s MTL, 40s BLD",
+  "reqs": "blood_and_iron := 40s BLD, 40s MTL",
   "count_towards_talent_total": true,
   "icon": "Blood",
   "roll2able": true,

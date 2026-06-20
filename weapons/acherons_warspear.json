@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "acherons_warspear := ()",
+  "reqs": "acherons_warspear := 40r MED",
   "damage_types": [
     "Slash",
     "Bleed"

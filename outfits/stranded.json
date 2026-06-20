@@ -1,7 +1,7 @@
 {
   "mats": {},
   "name": "Stranded",
-  "reqs": "stranded := ()",
+  "reqs": "castaway, lone_warrior => stranded := ()",
   "notes": 0,
   "talent": null,
   "category": "Starter",

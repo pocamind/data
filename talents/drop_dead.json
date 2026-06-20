@@ -2,7 +2,7 @@
   "name": "Drop Dead",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "drop_dead := ()",
+  "reqs": "vapordrop_earrings => drop_dead := ()",
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

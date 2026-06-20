@@ -2,7 +2,7 @@
   "name": "Phantom",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "phantom := ()",
+  "reqs": "withered_phantomcleave => phantom := ()",
   "additional_info": "Your weapon attacks that bypass block apply shaky block.",
   "count_towards_talent_total": false,
   "icon": "Assassin",

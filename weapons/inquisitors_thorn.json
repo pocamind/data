@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "inquisitors_thorn := 40r LHT",
+  "reqs": "authority_ensign => inquisitors_thorn := 40r LHT",
   "damage_types": [
     "Slash"
   ],

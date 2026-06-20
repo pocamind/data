@@ -2,7 +2,7 @@
   "name": "Blood Drinker",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "blood_drinker := ()",
+  "reqs": "bloodbane => blood_drinker := ()",
   "additional_info": "Restores 4% of the user's maximum health upon landing M1 attacks. The \"bleed\" is a unique damage over time status effect that is not bleed. This deals 6 damage per tick and ticks 5 times over 5 seconds. This can proc on Motif-given critical attacks. If you are knocked during the duration of this \"bleed\" effect, you will be instantly gripped.",
   "count_towards_talent_total": false,
   "icon": "Blood",

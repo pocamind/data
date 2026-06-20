@@ -2,7 +2,7 @@
   "name": "Bloodless Overdrive",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "bloodless_overdrive := ()",
+  "reqs": "bloodcurdle => bloodless_overdrive := ()",
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,

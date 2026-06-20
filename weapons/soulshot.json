@@ -5,7 +5,7 @@
   "damage": 30,
   "posture_damage": 7,
   "range": 12.5,
-  "reqs": "soulshot := ()",
+  "reqs": "soulshot := 150r LHT",
   "damage_types": [
     "Slash"
   ],

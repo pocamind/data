@@ -2,7 +2,7 @@
   "name": "Ether Efficiency",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ether_efficiency := ()",
+  "reqs": "caster_fur_boots => ether_efficiency := ()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Blackhole",
   "category": "Death Speaker",
   "rarity": "Common",
-  "reqs": "singularity => blackhole := 60s SDW",
+  "reqs": "singularity => blackhole := 210s TTL, 60s SDW",
   "additional_info": "Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

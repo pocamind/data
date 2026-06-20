@@ -2,7 +2,7 @@
   "name": "Beginner's Luck",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "beginners_luck := ()",
+  "reqs": "beginners_brace => beginners_luck := ()",
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

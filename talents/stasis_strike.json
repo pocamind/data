@@ -2,7 +2,7 @@
   "name": "Stasis Strike",
   "category": "Ice Age",
   "rarity": "Common",
-  "reqs": "glass_path_crystallization => stasis_strike := 90r LHT or 90r MED or 90r HVY, 90s ICE",
+  "reqs": "glass_path_crystallization => stasis_strike := 90r LHT OR 90r MED OR 90r HVY, 90s ICE",
   "additional_info": "Stasis Strike increases the damage of your crystal explosions by 1.67x when your opponent is bottom frozen.",
   "count_towards_talent_total": true,
   "roll2able": false,

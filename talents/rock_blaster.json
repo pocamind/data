@@ -2,7 +2,7 @@
   "name": "Rock Blaster",
   "category": "Prospector",
   "rarity": "Equipment",
-  "reqs": "rock_blaster := ()",
+  "reqs": "miners_hardhat => rock_blaster := ()",
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

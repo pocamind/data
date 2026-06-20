@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 12,
   "range": 8.5,
-  "reqs": "stoneheart := 20r STR, 80r HVY",
+  "reqs": "stoneheart := 80r HVY, 20r STR",
   "damage_types": [
     "Blunt"
   ],

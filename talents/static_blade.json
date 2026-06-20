@@ -2,7 +2,7 @@
   "name": "Static Blade",
   "category": "Thunderblade",
   "rarity": "Common",
-  "reqs": "thundercaller => static_blade := 20s MED, 40s LTN",
+  "reqs": "static_blade := 20s MED, 40s LTN",
   "additional_info": "Grants stacks when you '''get parried''', not when you parry attacks. Also grants stacks when you hit blocks or block attacks. Each stack lasts for 15 seconds and refresh upon gaining another, including when you're at max stacks. Each stack grants an ~2.35% speed boost, totaling to ~11.75% speed at max stacks.",
   "count_towards_talent_total": true,
   "icon": "Shock",

@@ -2,7 +2,7 @@
   "name": "Brazen Blow",
   "category": "Bruiser",
   "rarity": "Common",
-  "reqs": "impairing_blow => brazen_blow := 30s HVY",
+  "reqs": "brazen_blow := 30s HVY",
   "additional_info": "Only procs on weapon attacks. Does not proc on uppercut. 20 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Greatsword",

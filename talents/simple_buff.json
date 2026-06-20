@@ -2,7 +2,7 @@
   "name": "Simple Buff",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "simple_buff := ()",
+  "reqs": "super_simple_pauldrons => simple_buff := ()",
   "additional_info": "Grants a 7.5% (15% in Vow of Iron) damage buff to M1s.",
   "count_towards_talent_total": false,
   "icon": "Sword",

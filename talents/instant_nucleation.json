@@ -2,7 +2,7 @@
   "name": "Instant Nucleation",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "instant_nucleation := ()",
+  "reqs": "hardened_crystal_earrings => instant_nucleation := ()",
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "ash_slam := 20r STR, 50r FLM",
+  "reqs": "ash_slam := 50r FLM, 20r STR",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "From The Ashes",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "from_the_ashes := ()",
+  "reqs": "heliodar => from_the_ashes := ()",
   "count_towards_talent_total": false,
   "icon": "Blaze",
   "roll2able": false,

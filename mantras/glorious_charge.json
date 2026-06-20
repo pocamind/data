@@ -7,7 +7,7 @@
   "type": "Origin",
   "stars": 0,
   "vaulted": false,
-  "reqs": "glorious_charge := ()",
+  "reqs": "authority_ensign => glorious_charge := ()",
   "damage": [
     {
       "variant": null,

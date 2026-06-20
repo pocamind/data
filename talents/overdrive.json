@@ -2,7 +2,7 @@
   "name": "Overdrive",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "overdrive := ()",
+  "reqs": "caster_fur => overdrive := ()",
   "additional_info": "Grants a Talent tool that doubles the damage of your Mantras for 10 seconds. 3 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Saintsworn",

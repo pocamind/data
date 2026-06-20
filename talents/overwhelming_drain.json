@@ -2,7 +2,7 @@
   "name": "Overwhelming Drain",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "overwhelming_drain := 20s SDW",
+  "reqs": "shadow_eruption => overwhelming_drain := 1s SDW",
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

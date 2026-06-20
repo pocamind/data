@@ -2,7 +2,7 @@
   "name": "Destructive Yell",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "destructive_yell := ()",
+  "reqs": "ascended_outlaw_mask => destructive_yell := ()",
   "additional_info": "Your Ardour Scream destroys all campfires within its range.",
   "count_towards_talent_total": false,
   "icon": "Fist",

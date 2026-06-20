@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "fang_and_coil := ()",
+  "reqs": "fang_and_coil => fang_and_coil := ()",
   "damage_types": [
     "Blunt"
   ],
@@ -18,5 +18,5 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The serpentine martial arts of Etrea."
+  "desc": "The serpentine martial arts ofÂ Etrea."
 }

@@ -2,7 +2,7 @@
   "name": "Night Night",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "night_night := ()",
+  "reqs": "night_star => night_night := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

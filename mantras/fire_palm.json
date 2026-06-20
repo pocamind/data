@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "fire_palm := 20r FLM",
+  "reqs": "flame_worshipper => fire_palm := ()",
   "damage": [
     {
       "variant": null,

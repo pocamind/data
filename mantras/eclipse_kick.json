@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "eclipse_kick := 15r STR, 50r SDW",
+  "reqs": "eclipse_kick := 50r SDW, 15r STR",
   "damage": [
     {
       "variant": null,

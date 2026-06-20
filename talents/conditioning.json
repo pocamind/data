@@ -2,7 +2,7 @@
   "name": "Conditioning",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "conditioning := ()",
+  "reqs": "veteran_rangers_boots => conditioning := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

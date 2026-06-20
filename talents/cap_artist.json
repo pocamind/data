@@ -2,7 +2,7 @@
   "name": "Cap Artist",
   "category": "Thief",
   "rarity": "Common",
-  "reqs": "cap_artist := 5s CHA, 25s AGL",
+  "reqs": "cap_artist := 25s AGL, 5s CHA",
   "additional_info": "This can be deactivated by using the keybind again.",
   "count_towards_talent_total": true,
   "icon": "Brain",

@@ -22,7 +22,7 @@
     "Rare": 1,
     "Legendary": 2
   },
-  "reqs": "monastery_champion_robes := 210 ttl",
+  "reqs": "monastery_champion_robes := 195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

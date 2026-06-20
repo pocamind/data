@@ -2,7 +2,7 @@
   "name": "Temperature Shock",
   "category": "Flashfreeze",
   "rarity": "Common",
-  "reqs": "glass_path_crystallization => temperature_shock := 40s ICE, 40s FLM",
+  "reqs": "glass_path_crystallization => temperature_shock := 40s FLM, 40s ICE",
   "additional_info": "This has a 4 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

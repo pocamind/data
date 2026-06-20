@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "seafarer_pendant := 90 ttl",
+  "reqs": "seafarer_pendant := 90r TTL",
   "voi": false,
   "desc": "..."
 }

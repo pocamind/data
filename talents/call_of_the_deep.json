@@ -2,7 +2,7 @@
   "name": "Call of the Deep",
   "category": "Deepbound Contract",
   "rarity": "Origin",
-  "reqs": "call_of_the_deep := ()",
+  "reqs": "deepbound => call_of_the_deep := ()",
   "additional_info": "When used in the overworld, play an animation and sink into the first layer. This does not count as a drown. When used in the Depths, teleport to Castle Light with a 20 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Eye",

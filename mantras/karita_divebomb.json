@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "karita_divebomb := 20r LHT",
+  "reqs": "jus_karita => karita_divebomb := 20r LHT",
   "damage": [
     {
       "variant": null,

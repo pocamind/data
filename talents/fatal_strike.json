@@ -2,7 +2,7 @@
   "name": "Fatal Strike",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "fatal_strike := ()",
+  "reqs": "reinforced_war_helmet => fatal_strike := ()",
   "additional_info": "Adds a +20% damage modifier to your Strength Mantras on guard break if they have a Wrath Gem equipped. Applies a 50% slow for 5.5 seconds. 10 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

@@ -2,7 +2,7 @@
   "name": "Pyreborne",
   "category": "Solborn",
   "rarity": "Equipment",
-  "reqs": "pyreborne := ()",
+  "reqs": "emberseal_pendant => pyreborne := ()",
   "additional_info": "Increases the base damage of all Flamecharm Mantras by 30%.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

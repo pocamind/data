@@ -7,7 +7,7 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_arcwarder => arc_beam := ()",
+  "reqs": "sightless => arc_beam := ()",
   "damage": [
     {
       "variant": "Grounded",

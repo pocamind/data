@@ -2,7 +2,7 @@
   "name": "Focused Perception",
   "category": "Sightless",
   "rarity": "Memento",
-  "reqs": "focused_perception := ()",
+  "reqs": "sightless => focused_perception := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Ether Overdrive",
   "category": "Songmaster",
   "rarity": "Advanced",
-  "reqs": "ether_overdrive := (20r FLM or 20r ICE or 20r SDW or 20r LTN or 20r WND or 20r MTL or 20r BLD), 90s INT",
+  "reqs": "ether_overdrive := 90s INT, 20r ICE OR 20r FLM OR 20r WND OR 20r SDW OR 20r LTN OR 20r MTL OR 20r BLD",
   "additional_info": "Removes both the melee and Mantra PEN cap.",
   "count_towards_talent_total": true,
   "icon": "Orb",

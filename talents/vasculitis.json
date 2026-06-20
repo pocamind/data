@@ -2,7 +2,7 @@
   "name": "Vasculitis",
   "category": "Septicemia",
   "rarity": "Common",
-  "reqs": "vasculitis := 35s INT, 40s BLD",
+  "reqs": "vasculitis := 40s BLD, 35s INT",
   "additional_info": "On proc, your opponent will be unable to use their Deep Gems for 8 seconds. Gem Enhancement increases the effectiveness of your Deep Gems in PvE.",
   "count_towards_talent_total": true,
   "icon": "Blood",

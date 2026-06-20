@@ -13,7 +13,7 @@
   "name": "Titanslayer's Adornment",
   "pants_id": "16183341216",
   "shirt_id": "16183227058",
-  "reqs": "titanslayers_adornment := 50r STR, 240r TTL",
+  "reqs": "titanslayers_adornment := 240r TTL, 50r STR",
   "notes": 5000,
   "talent": "Primal Rage",
   "category": "Master",

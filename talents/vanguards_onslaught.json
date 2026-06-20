@@ -2,7 +2,7 @@
   "name": "Vanguard's Onslaught",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "vanguards_onslaught := ()",
+  "reqs": "justicar => vanguards_onslaught := ()",
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

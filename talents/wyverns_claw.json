@@ -2,7 +2,7 @@
   "name": "Wyvern's Claw",
   "category": "Aerial Dancer",
   "rarity": "Rare",
-  "reqs": "wyverns_claw := 15s STR, (25r LHT or 25r MED or 25r HVY)",
+  "reqs": "wyverns_claw := 25r LHT OR 25r MED OR 25r HVY, 15s STR",
   "additional_info": "Activates after not being in contact with a grounded surface for ~0.75 seconds.",
   "count_towards_talent_total": true,
   "icon": "Claw",

@@ -16,7 +16,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "abyss_wanderers_boots := 165 ttl",
+  "reqs": "abyss_wanderers_boots := 165r TTL",
   "voi": false,
   "desc": "..."
 }

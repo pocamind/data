@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "rising_frost := 30r ICE",
+  "reqs": "saint_jay => rising_frost := 90r TTL",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Steel Tread",
   "category": "Battle Readiness",
   "rarity": "Faction",
-  "reqs": "steel_tread := ()",
+  "reqs": "authority_ensign => steel_tread := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

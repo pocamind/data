@@ -2,7 +2,7 @@
   "name": "Breakthrough",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "breakthrough := ()",
+  "reqs": "breaker => breakthrough := 90s TTL",
   "additional_info": "Increases the posture damage of M1s by 10%.",
   "count_towards_talent_total": false,
   "icon": "Fist",

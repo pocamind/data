@@ -2,7 +2,7 @@
   "name": "Sadistic Split",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "sadistic_split := ()",
+  "reqs": "depthsplitter => sadistic_split := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

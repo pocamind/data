@@ -3,7 +3,7 @@
   "name": "Blacksteel Attire",
   "pants_id": "4907680538",
   "shirt_id": "4907667581",
-  "reqs": "blacksteel_attire := 90r TTL",
+  "reqs": "iron_vessel => blacksteel_attire := ()",
   "notes": 0,
   "talent": null,
   "category": "Unique",

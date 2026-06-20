@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "crystal_impale := 40r ICE",
+  "reqs": "glass_path_crystallization => crystal_impale := 30r ICE",
   "damage": [
     {
       "variant": null,

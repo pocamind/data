@@ -2,7 +2,7 @@
   "name": "Lethal Depressant",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "lethal_depressant := ()",
+  "reqs": "rogue_assassin => lethal_depressant := ()",
   "count_towards_talent_total": false,
   "icon": "Daggers",
   "roll2able": false,

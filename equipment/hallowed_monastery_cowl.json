@@ -18,7 +18,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "hallowed_monastery_cowl := 105r ttl",
+  "reqs": "hallowed_monastery_cowl := 105r TTL",
   "voi": true,
   "desc": "..."
 }

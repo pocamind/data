@@ -2,7 +2,7 @@
   "name": "Maudet",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "maudet := ()",
+  "reqs": "adret => maudet := ()",
   "additional_info": "Gain 3 free investment points to invest every time you level up. This stacks with Autodidact. Your starting reputation with all factions is higher.",
   "count_towards_talent_total": false,
   "icon": "Brain",

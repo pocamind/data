@@ -2,7 +2,7 @@
   "name": "All Knowing",
   "category": "Omniscient",
   "rarity": "Rare",
-  "reqs": "all_knowing := 60s INT",
+  "reqs": "prediction => all_knowing := 60s INT",
   "count_towards_talent_total": true,
   "icon": "Brain",
   "roll2able": false,

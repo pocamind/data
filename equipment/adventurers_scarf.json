@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "adventurers_scarf := 90 ttl",
+  "reqs": "adventurers_scarf := 90r TTL",
   "voi": false,
   "desc": "..."
 }

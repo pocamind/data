@@ -2,7 +2,7 @@
   "name": "Blend In",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blend_in := ()",
+  "reqs": "enforcer_helm => blend_in := ()",
   "additional_info": "Most monsters in the Depths will be neutral you while you have this equipment on.",
   "count_towards_talent_total": false,
   "icon": "Eye",

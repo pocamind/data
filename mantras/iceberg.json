@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "iceberg := 50r ICE",
+  "reqs": "saint_jay => iceberg := ()",
   "damage": [
     {
       "variant": null,

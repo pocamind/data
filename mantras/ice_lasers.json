@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "ice_lasers := 40r ICE",
+  "reqs": "glass_path_crystallization => ice_lasers := 30r ICE",
   "damage": [
     {
       "variant": null,

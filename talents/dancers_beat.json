@@ -2,7 +2,7 @@
   "name": "Dancer's Beat",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "dancers_beat := ()",
+  "reqs": "spear_dancer => dancers_beat := ()",
   "additional_info": "Your Vent can no longer be used defensively, unless it is used to escape an otherwise inescapable move, but does not cost Tempo to use. You need to have at least 20 Tempo to use Dancer's Beat. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed. If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. 2.5 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Sword",

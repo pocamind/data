@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "relentless_flames := 30r FLM",
+  "reqs": "flame_worshipper => relentless_flames := 165r TTL",
   "damage": [
     {
       "variant": null,

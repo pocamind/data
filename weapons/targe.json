@@ -5,7 +5,7 @@
   "damage": null,
   "posture_damage": null,
   "range": null,
-  "reqs": "targe := ()",
+  "reqs": "targe := 10r FTD",
   "posture_max": 4,
   "enchantable": false,
   "equip_motifs": false,

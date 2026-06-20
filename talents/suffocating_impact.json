@@ -2,7 +2,7 @@
   "name": "Suffocating Impact",
   "category": "Aeromancer",
   "rarity": "Common",
-  "reqs": "galebreather => suffocating_impact := 15s STR, 35s WND",
+  "reqs": "suffocating_impact := 15s STR, 35s WND",
   "count_towards_talent_total": true,
   "icon": "Wind",
   "roll2able": true,

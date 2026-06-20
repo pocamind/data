@@ -2,7 +2,7 @@
   "name": "Behind You",
   "category": "Ether Endeavours",
   "rarity": "Common",
-  "reqs": "keen_recovery => behind_you := 40s AGL, 70s INT",
+  "reqs": "keen_recovery => behind_you := 70s INT, 40s AGL",
   "additional_info": "This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.",
   "count_towards_talent_total": true,
   "icon": "Brain",

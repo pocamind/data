@@ -2,7 +2,7 @@
   "name": "Sweeten the Deal",
   "category": "Toxic Personality",
   "rarity": "Memento",
-  "reqs": "sweeten_the_deal := ()",
+  "reqs": "strange_merchant => sweeten_the_deal := 165s TTL",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

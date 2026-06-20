@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "strapped_hat := 105r ttl",
+  "reqs": "strapped_hat := 105r TTL",
   "voi": false,
   "wiki": "",
   "desc": "A hat typically worn by those from the Central Luminant."

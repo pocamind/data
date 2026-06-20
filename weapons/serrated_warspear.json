@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "serrated_warspear := ()",
+  "reqs": "serrated_warspear := 65r MED",
   "damage_types": [
     "Slash",
     "Bleed"

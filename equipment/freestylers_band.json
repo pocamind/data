@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "freestylers_band := 60 ttl",
+  "reqs": "freestylers_band := ()",
   "voi": false,
   "desc": "Swim like some famous swimmer. Just like Mikhael Felps."
 }

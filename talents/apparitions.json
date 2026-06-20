@@ -2,7 +2,7 @@
   "name": "Apparitions",
   "category": "Specter",
   "rarity": "Common",
-  "reqs": "apparitions := 50s WND",
+  "reqs": "haunted_path_specter => apparitions := 50s WND",
   "additional_info": "Apparitions can only spawn from Haunted Gale being procced on Galebreathe Mantras or by proccing effects that would normally apply Suffocation.",
   "count_towards_talent_total": true,
   "icon": "Wind",

@@ -5,7 +5,7 @@
   "damage": 28,
   "posture_damage": 7,
   "range": 8,
-  "reqs": "saintsblade := ()",
+  "reqs": "oath_saintsworn => saintsblade := ()",
   "damage_types": [
     "Slash",
     "Attunement"
