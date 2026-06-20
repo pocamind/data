@@ -2,7 +2,7 @@
   "name": "Shared Mimicry",
   "category": "Visionshaper",
   "rarity": "Oath",
-  "reqs": "shared_mimicry := ()",
+  "reqs": "oath_visionshaper => shared_mimicry := ()",
   "additional_info": "Your clones will also Vent when you Vent. This can trigger even if you do not have Tempo or if you press G while in an animation.",
   "count_towards_talent_total": false,
   "icon": "Visionshaper",
