@@ -2,7 +2,7 @@
   "name": "Hair Product",
   "category": "Fadetrimmer",
   "rarity": "Oath",
-  "reqs": "hair_product := ()",
+  "reqs": "oath_fadetrimmer => hair_product := ()",
   "additional_info": "Gives a Talent tool that shows a popup menu and allows you to select either Flammable, Charming, or Revitalizing Hair Sprays. Your Hair Spray will change to the chosen effect.",
   "count_towards_talent_total": false,
   "icon": "Fadetrimmer",
