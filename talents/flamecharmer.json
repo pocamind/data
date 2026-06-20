@@ -2,7 +2,7 @@
   "name": "Flamecharmer",
   "category": "Flamecharmer",
   "rarity": "Common",
-  "reqs": "flamecharmer := 1 FLM",
+  "reqs": "flamecharmer := 1s FLM",
   "count_towards_talent_total": false,
   "icon": "Blaze",
   "roll2able": false,

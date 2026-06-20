@@ -2,7 +2,7 @@
   "name": "Fear the Dark",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "shadowcaster => fear_the_dark := 50s SDW",
+  "reqs": "fear_the_dark := 50s SDW",
   "additional_info": "After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

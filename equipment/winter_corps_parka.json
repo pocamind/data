@@ -29,7 +29,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "winter_corps_parka := 165 ttl",
+  "reqs": "winter_corps_parka := 165r TTL",
   "voi": false,
   "desc": "An essential part of the Authority Winter Corps' kit. Devised to be resilient against the often thorny passages of the drakethistle in the Northern Luminant."
 }

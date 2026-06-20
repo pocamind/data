@@ -2,7 +2,7 @@
   "name": "Cool Head",
   "category": "Cryomancer",
   "rarity": "Common",
-  "reqs": "frostdrawer => cool_head := 30s ICE",
+  "reqs": "saint_jay => cool_head := ()",
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

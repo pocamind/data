@@ -2,7 +2,7 @@
   "name": "Concussion",
   "category": "Duelist",
   "rarity": "Rare",
-  "reqs": "concussion := 15s FTD, 20s STR",
+  "reqs": "concussion := 20s STR, 15s FTD",
   "count_towards_talent_total": true,
   "icon": "Skeleton",
   "roll2able": false,

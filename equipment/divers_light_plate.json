@@ -21,7 +21,7 @@
   "pips": {
     "Legendary": 3
   },
-  "reqs": "divers_light_plate := 210 ttl",
+  "reqs": "divers_light_plate := 195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

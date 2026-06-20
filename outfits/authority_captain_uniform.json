@@ -8,7 +8,7 @@
   "name": "Authority Captain Uniform",
   "pants_id": "10461616070",
   "shirt_id": "10461611383",
-  "reqs": "authority_captain_uniform := 25r STR, 165r TTL",
+  "reqs": "authority_ensign => authority_captain_uniform := ()",
   "notes": 500,
   "talent": null,
   "category": "Expert",

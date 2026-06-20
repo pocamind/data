@@ -2,7 +2,7 @@
   "name": "Scholar's Intuition",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "scholars_intuition := ()",
+  "reqs": "scholar => scholars_intuition := ()",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

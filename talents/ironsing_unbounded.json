@@ -2,7 +2,7 @@
   "name": "Ironsing Unbounded",
   "category": "Ironsing Master",
   "rarity": "Common",
-  "reqs": "ironsing_unbounded := 75s MTL",
+  "reqs": "master_ironsinger => ironsing_unbounded := 75s MTL",
   "additional_info": "Removes the 75 investment cap on the Ironsing Attribute. This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",

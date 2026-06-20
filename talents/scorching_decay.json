@@ -2,7 +2,7 @@
   "name": "Scorching Decay",
   "category": "Withered Flame",
   "rarity": "Common",
-  "reqs": "scorching_decay := 100s FLM, (100r LHT or 100r MED or 100r HVY)",
+  "reqs": "emperor_flame => scorching_decay := 100r LHT OR 100r MED OR 100r HVY, 100s FLM",
   "additional_info": "Increases the Wither applied from Emperor Flame from 25 to 75.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

@@ -2,7 +2,7 @@
   "name": "Clutch",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "clutch := ()",
+  "reqs": "reinforced_authority_plate => clutch := ()",
   "count_towards_talent_total": false,
   "icon": "Skeleton",
   "roll2able": false,

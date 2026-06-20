@@ -2,7 +2,7 @@
   "name": "Absolute Force",
   "category": "Operator's Technique",
   "rarity": "Faction",
-  "reqs": "oppressive_force => absolute_force := ()",
+  "reqs": "berserker => absolute_force := 165s TTL",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

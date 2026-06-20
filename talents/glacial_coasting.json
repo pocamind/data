@@ -2,7 +2,7 @@
   "name": "Glacial Coasting",
   "category": "Frostthorn",
   "rarity": "Common",
-  "reqs": "orbital_ice => glacial_coasting := 25s AGL, 50s ICE",
+  "reqs": "saint_jay => glacial_coasting := 315s TTL",
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

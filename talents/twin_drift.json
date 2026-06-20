@@ -2,7 +2,7 @@
   "name": "Twin Drift",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "twin_drift := ()",
+  "reqs": "drifter => twin_drift := ()",
   "additional_info": "Performing a basic attack after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.",
   "count_towards_talent_total": false,
   "icon": "Boots",

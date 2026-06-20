@@ -2,7 +2,7 @@
   "name": "Art of the Deal",
   "category": "Merchant",
   "rarity": "Equipment",
-  "reqs": "art_of_the_deal := ()",
+  "reqs": "aristocrat_coat => art_of_the_deal := ()",
   "additional_info": "Reduces the purchase price of items by 10%.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

@@ -2,7 +2,7 @@
   "name": "Martyr",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "martyr := ()",
+  "reqs": "martyr := 60s TTL",
   "additional_info": "Martyrdom grants a +20% damage and damage reduction buff to your allies. Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).",
   "count_towards_talent_total": true,
   "icon": "Climb",

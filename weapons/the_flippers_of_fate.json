@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 3.5,
   "range": 6.5,
-  "reqs": "the_flippers_of_fate := 30r INT OR 30r WLL OR 30r CHA, 70r LHT",
+  "reqs": "the_flippers_of_fate := 70r LHT, 30r INT OR 30r WLL OR 30r CHA",
   "damage_types": [
     "Slash"
   ],

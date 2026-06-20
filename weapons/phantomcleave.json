@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "phantomcleave := ()",
+  "reqs": "phantomcleave := 75r MED",
   "damage_types": [
     "Slash"
   ],

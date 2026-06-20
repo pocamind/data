@@ -5,7 +5,7 @@
   "damage": 45,
   "posture_damage": 8,
   "range": 12.5,
-  "reqs": "metal_greatsword := ()",
+  "reqs": "rending_needle_augmenter => metal_greatsword := ()",
   "damage_types": [
     "Slash",
     "Ironsing"

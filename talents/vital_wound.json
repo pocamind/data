@@ -2,7 +2,7 @@
   "name": "Vital Wound",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "vital_wound := ()",
+  "reqs": "acherons_warspear => vital_wound := ()",
   "additional_info": "Uppercutting your opponent applies the Vital Wound status effect, reducing their passive posture recovery by 40% for 30 seconds. This has no cooldown, but it cannot be refreshed or reapplied while it's active.",
   "count_towards_talent_total": false,
   "icon": "Claw",

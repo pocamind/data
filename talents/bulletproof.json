@@ -2,7 +2,7 @@
   "name": "Bulletproof",
   "category": "Gunslinger",
   "rarity": "Common",
-  "reqs": "bulletproof := 20r MED or 20r LHT or 20r FTD",
+  "reqs": "bulletproof := 20r MED OR 20r LHT OR 20r FTD",
   "additional_info": "This has no effect on your natural armor or incoming PEN.",
   "count_towards_talent_total": true,
   "icon": "Bullet",

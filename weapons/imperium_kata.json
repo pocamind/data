@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "imperium_kata := ()",
+  "reqs": "imperium_kata => imperium_kata := ()",
   "damage_types": [
     "Blunt"
   ],
@@ -18,5 +18,5 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The legendary martial arts style of the Legion. Emphasises the sweeping motions of wind."
+  "desc": "The legendary martial arts style of theÂ Legion. Emphasises the sweeping motions of wind."
 }

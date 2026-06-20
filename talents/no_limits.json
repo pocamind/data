@@ -2,7 +2,7 @@
   "name": "No Limits",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "no_limits := ()",
+  "reqs": "infused_bloodforged_crown => no_limits := ()",
   "additional_info": "Increases the cap for Bloodless Gem healing to 30. You will need a scaled damage value of 100 to hit the 30 healing cap.",
   "count_towards_talent_total": false,
   "icon": "Blood",

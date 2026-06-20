@@ -2,7 +2,7 @@
   "name": "Offensive Recovery",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "offensive_recovery := ()",
+  "reqs": "ascended_outlaw => offensive_recovery := ()",
   "additional_info": "If all of your equipped Mantras have a Might Gem equipped, hitting your opponent's block with Mantras will restore your posture.",
   "count_towards_talent_total": false,
   "icon": "Fist",

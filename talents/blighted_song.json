@@ -2,7 +2,7 @@
   "name": "Blighted Song",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "blighted_song := 10s FTD",
+  "reqs": "shadow_chains => blighted_song := 10s FTD, 1s SDW",
   "additional_info": "Grants the user and the chained opponent 20% damage reduction against outside attacks.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

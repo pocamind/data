@@ -2,7 +2,7 @@
   "name": "Punishing Riposte",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "punishing_riposte := ()",
+  "reqs": "crucible_rapier => punishing_riposte := ()",
   "additional_info": "After parrying a guard break, gain the Punishing Riposte status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.",
   "count_towards_talent_total": false,
   "icon": "Sword",

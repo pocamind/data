@@ -2,7 +2,7 @@
   "name": "Static Allure",
   "category": "Static Weaver",
   "rarity": "Common",
-  "reqs": "static_link => static_allure := 15s INT, 50s LTN",
+  "reqs": "static_link => static_allure := 50s LTN, 15s INT",
   "additional_info": "Instantly procs when you create a new Static Link. The extra Link duration only applies to the Static Link that procced the magnetization effect.",
   "count_towards_talent_total": true,
   "icon": "Shock",

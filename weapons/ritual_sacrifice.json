@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "ritual_sacrifice := ()",
+  "reqs": "ritual_sacrifice := 35r MED",
   "damage_types": [
     "Slash"
   ],

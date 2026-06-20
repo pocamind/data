@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 10,
   "range": 10,
-  "reqs": "chorus_of_agonies := 20r STR, 100r HVY",
+  "reqs": "chorus_of_agonies := 100r HVY, 20r STR",
   "damage_types": [
     "Slash"
   ],

@@ -2,7 +2,7 @@
   "name": "True Mirage Clone",
   "category": "The Emperor's Blade",
   "rarity": "Rare",
-  "reqs": "true_mirage_clone := ()",
+  "reqs": "flame_worshipper => true_mirage_clone := ()",
   "additional_info": "20 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

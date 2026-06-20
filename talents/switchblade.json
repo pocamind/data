@@ -2,7 +2,7 @@
   "name": "Switchblade",
   "category": "Weapon Master",
   "rarity": "Advanced",
-  "reqs": "switchblade := 50s LHT, (50r MED or 50r HVY)",
+  "reqs": "switchblade := 50s LHT, 50r MED OR 50r HVY",
   "additional_info": "This also allows other light weapons to use Dagger Talents.",
   "count_towards_talent_total": true,
   "icon": "Dagger",

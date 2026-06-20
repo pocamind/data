@@ -2,7 +2,7 @@
   "name": "Know When To Run",
   "category": "Merchant",
   "rarity": "Memento",
-  "reqs": "know_when_to_run := ()",
+  "reqs": "strange_merchant => know_when_to_run := ()",
   "additional_info": "Increases the price of using the Magic Coffin by 50% in exchange for adding the entire Depths lootpool to it.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

@@ -5,7 +5,7 @@
   "damage": null,
   "posture_damage": null,
   "range": null,
-  "reqs": "bronze_aspis := ()",
+  "reqs": "authority_ensign => bronze_aspis := 15r FTD",
   "posture_max": 4.2,
   "enchantable": false,
   "equip_motifs": false,

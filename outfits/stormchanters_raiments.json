@@ -8,7 +8,7 @@
     "Insignia Gem": 1
   },
   "name": "Stormchanter's Raiments",
-  "reqs": "stormchanters_raiments := 45r LTN, 240r TTL",
+  "reqs": "stormchanters_raiments := 240r TTL, 45r LTN",
   "notes": 1000,
   "talent": "Circuit Breaker, Kickstart",
   "category": "Unique",

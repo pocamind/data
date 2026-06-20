@@ -2,7 +2,7 @@
   "name": "Overcharge",
   "category": "Thunderblade",
   "rarity": "Common",
-  "reqs": "overcharge := 45s LTN",
+  "reqs": "gathering_electricity => overcharge := ()",
   "additional_info": "Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.",
   "count_towards_talent_total": true,
   "icon": "Shock",

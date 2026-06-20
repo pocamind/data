@@ -19,7 +19,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "corrupted_pathfinder_elite := 135r ttl",
+  "reqs": "corrupted_pathfinder_elite := 135r TTL",
   "voi": true,
   "desc": "..."
 }

@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 4,
   "range": 6.5,
-  "reqs": "karita_plating := ()",
+  "reqs": "trained_kicks => karita_plating := 80r AGL, 80r LHT",
   "damage_types": [
     "Blunt"
   ],

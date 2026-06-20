@@ -2,7 +2,7 @@
   "name": "Legion Kata",
   "category": "Gale Kata",
   "rarity": "Quest",
-  "reqs": "legion_kata := 25s LHT",
+  "reqs": "legion_kata := ()",
   "additional_info": "Allows you to use the Legion Kata fist style.",
   "count_towards_talent_total": false,
   "icon": "Fist",

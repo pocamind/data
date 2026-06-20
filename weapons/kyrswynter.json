@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "kyrswynter := ()",
+  "reqs": "kyrswynter := 50r MED, 75r ICE",
   "damage_types": [
     "Slash",
     "Frostdraw",

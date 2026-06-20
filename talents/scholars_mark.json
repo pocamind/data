@@ -2,7 +2,7 @@
   "name": "Scholar's Mark",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "scholars_mark := ()",
+  "reqs": "capra => scholars_mark := ()",
   "additional_info": "You can now use Capra Marks to buff yourself.",
   "count_towards_talent_total": false,
   "icon": "Claw",

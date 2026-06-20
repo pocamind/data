@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "rangers_brace := 135 ttl",
+  "reqs": "rangers_brace := 135r TTL",
   "voi": false,
   "desc": "..."
 }

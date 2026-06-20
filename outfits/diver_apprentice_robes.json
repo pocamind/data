@@ -7,7 +7,7 @@
   "name": "Diver Apprentice Robes",
   "pants_id": "6806587281",
   "shirt_id": "6806586302",
-  "reqs": "diver_apprentice_robes := 10r INT, 90r TTL",
+  "reqs": "deepbound => diver_apprentice_robes := ()",
   "notes": 50,
   "talent": null,
   "category": "Adept",

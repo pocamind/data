@@ -2,7 +2,7 @@
   "name": "Tempo Sap",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "tempo_sap := ()",
+  "reqs": "prophets_operative_cloak => tempo_sap := ()",
   "additional_info": "1 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

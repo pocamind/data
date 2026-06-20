@@ -2,7 +2,7 @@
   "name": "Double Jump",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "double_jump := ()",
+  "reqs": "rogue_assassin => double_jump := ()",
   "additional_info": "Reduces Wind Step's cooldown to 5 seconds and lowers the Ether cost. You will need to equip Gale Boots to gain the Wind Step Talent.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

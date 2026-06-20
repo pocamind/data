@@ -2,7 +2,7 @@
   "name": "Steady Mind",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "steady_mind := ()",
+  "reqs": "ganymede => steady_mind := ()",
   "additional_info": "You can spend more time in the Depths before gaining Afflictions.",
   "count_towards_talent_total": false,
   "icon": "Eye",

@@ -2,7 +2,7 @@
   "name": "Taste The Rainbow",
   "category": "Gunslinger",
   "rarity": "Common",
-  "reqs": "taste_the_rainbow := 50 LHT",
+  "reqs": "taste_the_rainbow := 50s LHT",
   "count_towards_talent_total": true,
   "icon": "Bullet",
   "roll2able": true,

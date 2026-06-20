@@ -2,7 +2,7 @@
   "name": "Hellion Shift",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "hellion_shift := ()",
+  "reqs": "oni_mask => hellion_shift := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

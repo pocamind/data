@@ -2,7 +2,7 @@
   "name": "Termite",
   "category": "Survival Instinct",
   "rarity": "Common",
-  "reqs": "termite := 10s WLL, 20s FTD",
+  "reqs": "termite := 20s FTD, 10s WLL",
   "additional_info": "Allows user to eat Sticks, Bamboo, Beeswax, Coral, Spider Eggs, all Lotuses, and every Ore.",
   "count_towards_talent_total": true,
   "icon": "Leaf",

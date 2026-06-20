@@ -2,7 +2,7 @@
   "name": "Precision Hitter",
   "category": "Unique",
   "rarity": "Memento",
-  "reqs": "precision_hitter := ()",
+  "reqs": "saint_jay => precision_hitter := 90s TTL",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

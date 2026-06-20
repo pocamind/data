@@ -2,7 +2,7 @@
   "name": "Jus Karita",
   "category": "Justicar",
   "rarity": "Quest",
-  "reqs": "jus_karita := 25s LHT",
+  "reqs": "justicar => jus_karita := ()",
   "additional_info": "Allows you to use the Jus Karita fist style.",
   "count_towards_talent_total": false,
   "icon": "Fist",

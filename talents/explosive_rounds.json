@@ -2,7 +2,7 @@
   "name": "Explosive Rounds",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "explosive_rounds := ()",
+  "reqs": "bounty_hunter => explosive_rounds := ()",
   "count_towards_talent_total": false,
   "icon": "Bullet",
   "roll2able": false,

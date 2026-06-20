@@ -26,7 +26,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "grand_fisher_helm := 210 ttl",
+  "reqs": "grand_fisher_helm := 165r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

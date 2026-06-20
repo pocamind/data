@@ -2,7 +2,7 @@
   "name": "Circuit Breaker",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "circuit_breaker := ()",
+  "reqs": "stormchanters_raiments => circuit_breaker := ()",
   "additional_info": "Using this with the Deepscorn Casque will cause you to heal upon using Electrify.",
   "count_towards_talent_total": false,
   "icon": "Shock",

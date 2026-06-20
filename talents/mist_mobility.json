@@ -2,7 +2,7 @@
   "name": "Mist Mobility",
   "category": "Steampunk Soldier",
   "rarity": "Memento",
-  "reqs": "mist_mobility := ()",
+  "reqs": "steampunk_soldier => mist_mobility := ()",
   "additional_info": "Despite what the description states, this actually procs when you activate Flashboil, and not Boiling Point.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

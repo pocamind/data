@@ -2,7 +2,7 @@
   "name": "Ether Blade",
   "category": "Ether Conduit",
   "rarity": "Common",
-  "reqs": "ether_blade := ()",
+  "reqs": "strange_merchant => ether_blade := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Oath: Blindseer",
   "category": "Blindseer",
   "rarity": "Oath",
-  "reqs": "oath_blindseer := 40s WLL",
+  "reqs": "breathing_exercise, conquer_your_fears, disbelief => oath_blindseer := 40s WLL",
   "additional_info": "You can now see while blinded, but the world gains a blue hue.",
   "count_towards_talent_total": false,
   "icon": "Blindseer",

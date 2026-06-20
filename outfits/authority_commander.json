@@ -9,7 +9,7 @@
     "Thresher Spine": 1
   },
   "name": "Authority Commander",
-  "reqs": "authority_commander := 240r TTL",
+  "reqs": "authority_ensign => authority_commander := 240r TTL",
   "notes": 1000,
   "pants_id": "11679644318",
   "shirt_id": "11679642015",

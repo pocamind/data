@@ -2,7 +2,7 @@
   "name": "Stifled Jump",
   "category": "Aeromancer",
   "rarity": "Rare",
-  "reqs": "suffocating_impact => stifled_jump := 15s STR, 35s WND",
+  "reqs": "suffocating_impact => stifled_jump := ()",
   "additional_info": "The daze effect lasts for 1 second.",
   "count_towards_talent_total": true,
   "icon": "Wind",

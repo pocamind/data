@@ -2,7 +2,7 @@
   "name": "Intrepid Flame",
   "category": "Flamecharmer",
   "rarity": "Outfit",
-  "reqs": "intrepid_flame := ()",
+  "reqs": "flame_worshipper_armor => intrepid_flame := ()",
   "additional_info": "Halves the maximum burn duration.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

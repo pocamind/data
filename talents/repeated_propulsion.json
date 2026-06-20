@@ -2,7 +2,7 @@
   "name": "Repeated Propulsion",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "repeated_propulsion := ()",
+  "reqs": "cindergarb => repeated_propulsion := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

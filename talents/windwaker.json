@@ -2,7 +2,7 @@
   "name": "Windwaker",
   "category": "Scholar of the Cloud",
   "rarity": "Quest",
-  "reqs": "windwaker := 50s WND",
+  "reqs": "windwaker := 20s WND",
   "additional_info": "Grants a Talent tool that can only be used while on a boat and out of combat. On use, the boat will gain a very large amount of additional speed for a short duration.",
   "count_towards_talent_total": false,
   "icon": "Wind",

@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "grand_pauldrons := 90 ttl",
+  "reqs": "grand_pauldrons := ()",
   "voi": false,
   "desc": "..."
 }

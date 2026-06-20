@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "iron_boots := 75 ttl",
+  "reqs": "iron_boots := ()",
   "voi": false,
   "desc": "..."
 }

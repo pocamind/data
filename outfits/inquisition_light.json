@@ -7,7 +7,7 @@
     "Void Feather": 3
   },
   "name": "Inquisition Light",
-  "reqs": "inquisition_light := 240r TTL",
+  "reqs": "authority_ensign => inquisition_light := 240r TTL",
   "notes": 0,
   "talent": "Lethal Dose",
   "category": "Unique",

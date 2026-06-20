@@ -21,7 +21,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "pathfinder_elite := 135 ttl",
+  "reqs": "pathfinder_elite := 135r TTL",
   "voi": false,
   "desc": "..."
 }

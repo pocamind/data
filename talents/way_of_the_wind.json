@@ -2,7 +2,7 @@
   "name": "Way of the Wind",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "way_of_the_wind := ()",
+  "reqs": "gale_masters_earrings => way_of_the_wind := ()",
   "additional_info": "On proc, a wind of gale will erupt from your legs, signifying that the effect is active.",
   "count_towards_talent_total": false,
   "icon": "Wind",

@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "flareblood_kamas := ()",
+  "reqs": "flareblood_kamas := 60r LHT, 30r INT",
   "damage_types": [
     "Slash"
   ],

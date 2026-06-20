@@ -2,7 +2,7 @@
   "name": "Oath: Bladeharper",
   "category": "Bladeharper",
   "rarity": "Oath",
-  "reqs": "oath_bladeharper := 75r MED OR (LHT + MED + HVY = 90r)",
+  "reqs": "oath_bladeharper := LHT + MED + HVY = 90r OR 75r MED, 25r AGL OR 25r STR",
   "count_towards_talent_total": false,
   "icon": "Bladeharper",
   "roll2able": false,

@@ -3,7 +3,7 @@
   "name": "Union Initiate",
   "pants_id": "7009098395",
   "shirt_id": "7009096659",
-  "reqs": "union_initiate := 105r TTL",
+  "reqs": "ignition_delver => union_initiate := ()",
   "notes": 0,
   "talent": null,
   "category": "Starter",

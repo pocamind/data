@@ -2,7 +2,7 @@
   "name": "Energy Siphon",
   "category": "Death Speaker",
   "rarity": "Common",
-  "reqs": "blackhole => energy_siphon := 60s SDW",
+  "reqs": "black_hole, singularity => energy_siphon := 60s SDW",
   "additional_info": "Takes 15 Ether from the affected opponent on proc.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

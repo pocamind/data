@@ -2,7 +2,7 @@
   "name": "Cosmic Connection",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "cosmic_connection := ()",
+  "reqs": "celestial_boots => cosmic_connection := ()",
   "additional_info": "Increases Astral's damage buff in PvE from +20% to +25%.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

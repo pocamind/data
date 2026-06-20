@@ -2,7 +2,7 @@
   "name": "Murmur: Ardour",
   "category": "Murmur",
   "rarity": "Murmur",
-  "reqs": "murmur_ardour := ()",
+  "reqs": "oath_soulbreaker => murmur_ardour := ()",
   "additional_info": "Drains Ether while active, with the Ether drain scaling inversely with your level and being entirely negated at Power 20. Ardour automatically deactivates if you run out of Ether. Increases the posture damage of M1s and critical attacks with the M1 tag by 20%. Reduces incoming posture damage by 15%. Additionally applies a +15% damage buff to M1s and critical with the M1 tag that guard break.",
   "count_towards_talent_total": false,
   "icon": "Sword",

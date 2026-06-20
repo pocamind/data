@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "ignition_deepcrusher := ()",
+  "reqs": "ignition_deepcrusher := 40r MED, 75r MTL",
   "damage_types": [
     "Slash",
     "Bleed",

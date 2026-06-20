@@ -2,7 +2,7 @@
   "name": "Jackpot",
   "category": "Toxic Personality",
   "rarity": "Common",
-  "reqs": "jackpot := ()",
+  "reqs": "strange_merchant => jackpot := 315s TTL",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

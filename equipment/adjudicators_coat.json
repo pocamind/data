@@ -12,7 +12,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "adjudicators_coat := 135 ttl",
+  "reqs": "adjudicators_coat := 135r TTL",
   "voi": false,
   "desc": "..."
 }

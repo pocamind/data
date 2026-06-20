@@ -2,7 +2,7 @@
   "name": "Pleetsky's Wrath",
   "category": "Flame Warden",
   "rarity": "Common",
-  "reqs": "pleetskys_wrath := ()",
+  "reqs": "flame_worshipper => pleetskys_wrath := ()",
   "additional_info": "Spawns swords from the sky, similarly to First Light's critical attack.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

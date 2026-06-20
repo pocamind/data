@@ -23,7 +23,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "western_outlaw_boots := 165 ttl",
+  "reqs": "western_outlaw_boots := 165r TTL",
   "voi": false,
   "desc": "Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband."
 }

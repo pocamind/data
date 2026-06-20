@@ -2,7 +2,7 @@
   "name": "Dustlunge",
   "category": "Swiftshade",
   "rarity": "Advanced",
-  "reqs": "lowstride, lights_out, deep_wound, unseen_threat => dustlunge := 90s AGL",
+  "reqs": "deep_wound, lights_out, lowstride, unseen_threat => dustlunge := 90s AGL",
   "count_towards_talent_total": true,
   "icon": "Climb",
   "roll2able": true,

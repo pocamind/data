@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 3,
   "range": 12,
-  "reqs": "soulwrought_gun := ()",
+  "reqs": "crazy_slots => soulwrought_gun := ()",
   "damage_types": [
     "Blunt"
   ],

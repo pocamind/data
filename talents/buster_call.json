@@ -2,7 +2,7 @@
   "name": "Buster Call",
   "category": "Dread Imperium",
   "rarity": "Faction",
-  "reqs": "buster_call := ()",
+  "reqs": "authority_ensign => buster_call := ()",
   "additional_info": "Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage. Cannot directly knock players. Applies burn on hit. 24 hour cooldown.",
   "count_towards_talent_total": false,
   "icon": "Bullet",

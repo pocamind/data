@@ -22,7 +22,7 @@
     "Rare": 1,
     "Legendary": 2
   },
-  "reqs": "ironsinger_heavy_plate := 210 ttl",
+  "reqs": "ironsinger_heavy_plate := 195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

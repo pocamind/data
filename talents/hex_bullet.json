@@ -2,7 +2,7 @@
   "name": "Hex Bullet",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "hex_bullet := ()",
+  "reqs": "duskshot => hex_bullet := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

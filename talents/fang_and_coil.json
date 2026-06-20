@@ -2,7 +2,7 @@
   "name": "Fang and Coil",
   "category": "Fang and Coil",
   "rarity": "Quest",
-  "reqs": "fang_and_coil := 20s LHT",
+  "reqs": "fang_and_coil := 20r LHT",
   "additional_info": "Allows you to use the Fang and Coil fist style.",
   "count_towards_talent_total": false,
   "icon": "Fist",

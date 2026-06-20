@@ -5,7 +5,7 @@
   "damage": 23,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "alloyed_zweihander := 10r STR, 75r HVY",
+  "reqs": "alloyed_zweihander := 75r HVY, 10r STR",
   "damage_types": [
     "Slash"
   ],

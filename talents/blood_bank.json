@@ -2,7 +2,7 @@
   "name": "Blood Bank",
   "category": "Scarlet Donor",
   "rarity": "Common",
-  "reqs": "manipulator => blood_bank := 40s CHA, 80s BLD",
+  "reqs": "manipulator => blood_bank := 80s BLD, 40s CHA",
   "additional_info": "Grants 25 Temporary Health on proc. This Talent only procs via Donation Drive and Manipulator. Has an indirect 10 second cooldown due to it relying on Manipulator.",
   "count_towards_talent_total": true,
   "icon": "Blood",

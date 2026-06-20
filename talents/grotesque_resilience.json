@@ -2,7 +2,7 @@
   "name": "Grotesque Resilience",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "grotesque_resilience := ()",
+  "reqs": "parasol_planter => grotesque_resilience := ()",
   "additional_info": "Reduces burn damage by 50%. Reduces Flame Within's burn and bleed damage by 25%.",
   "count_towards_talent_total": false,
   "icon": "Skull",

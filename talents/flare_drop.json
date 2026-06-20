@@ -2,7 +2,7 @@
   "name": "Flare Drop",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "flare_drop := ()",
+  "reqs": "flare_drop_earrings => flare_drop := ()",
   "additional_info": "Applies burn when you land a Mantra with a 5 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

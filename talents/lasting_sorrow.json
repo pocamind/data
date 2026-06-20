@@ -2,7 +2,7 @@
   "name": "Lasting Sorrow",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "shadowcaster => lasting_sorrow := 50s SDW",
+  "reqs": "lasting_sorrow := 50s SDW",
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

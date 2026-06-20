@@ -2,7 +2,7 @@
   "name": "Swift Strike",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "swift_strike := ()",
+  "reqs": "big_brother => swift_strike := ()",
   "additional_info": "On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical. The teleport has a range limit. 20 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

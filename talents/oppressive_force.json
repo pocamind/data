@@ -2,7 +2,7 @@
   "name": "Oppressive Force",
   "category": "Battle Readiness",
   "rarity": "Faction",
-  "reqs": "oppressive_force := ()",
+  "reqs": "authority_ensign => oppressive_force := ()",
   "additional_info": "The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage. The damage and posture damage of the second hit cannot be buffed. The second hit does not count as a weapon attack, and therefore it does not benefit from any of your weapon's stats and cannot proc Talent effects.",
   "count_towards_talent_total": false,
   "icon": "Fist",

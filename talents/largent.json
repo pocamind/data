@@ -2,7 +2,7 @@
   "name": "Largent",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "largent := ()",
+  "reqs": "adret => largent := ()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,
