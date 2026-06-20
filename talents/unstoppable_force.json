@@ -2,7 +2,7 @@
   "name": "Unstoppable Force",
   "category": "Colossus",
   "rarity": "Rare",
-  "reqs": "unwavering_resolve => unstoppable_force := 25s STR, 40s HVY",
+  "reqs": "saint_jay => unstoppable_force := ()",
   "count_towards_talent_total": false,
   "icon": "Greatsword",
   "roll2able": false,

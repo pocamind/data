@@ -2,7 +2,7 @@
   "name": "Comeback Kid",
   "category": "Limitbreaker",
   "rarity": "Common",
-  "reqs": "comeback_kid := ()",
+  "reqs": "comeback_kid := 135s TTL",
   "additional_info": "2 minute cooldown.",
   "count_towards_talent_total": true,
   "icon": "Fist",

@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 4.5,
   "range": 12,
-  "reqs": "shadebolt := 30r SDW, 45r MED",
+  "reqs": "shadebolt := 45r MED, 30r SDW",
   "damage_types": [
     "Slash"
   ],

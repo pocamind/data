@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 4,
   "range": 7.5,
-  "reqs": "warden_ceremonial_sword := 50r MED",
+  "reqs": "authority_ensign => warden_ceremonial_sword := 50r MED",
   "damage_types": [
     "Slash"
   ],

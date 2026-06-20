@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "markors_inheritor := 10r STR, 30r HVY",
+  "reqs": "authority_ensign => markors_inheritor := ()",
   "damage_types": [
     "Slash"
   ],

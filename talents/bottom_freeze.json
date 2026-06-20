@@ -2,7 +2,7 @@
   "name": "Bottom Freeze",
   "category": "Ice Age",
   "rarity": "Common",
-  "reqs": "bottom_freeze := 25s ICE",
+  "reqs": "ice_daggers => bottom_freeze := 25s ICE",
   "additional_info": "Prevents you from rotating your character and moving around overall. Taking damage from any source will end Bottom Freeze early.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

@@ -16,7 +16,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "inquisitors_duster := 135 ttl",
+  "reqs": "inquisitors_duster := 90r TTL",
   "voi": false,
   "desc": "..."
 }

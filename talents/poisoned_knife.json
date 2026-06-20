@@ -2,7 +2,7 @@
   "name": "Poisoned Knife",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "poisoned_knife := ()",
+  "reqs": "rogue_assassins_hood => poisoned_knife := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

@@ -25,7 +25,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "deepwoken_cloak := 165 ttl",
+  "reqs": "deepwoken_cloak := 165r TTL",
   "voi": false,
   "desc": "An ancient cloak of incredible power. Worn by a select few."
 }

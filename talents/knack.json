@@ -2,7 +2,7 @@
   "name": "Knack",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "knack := ()",
+  "reqs": "eager_tradesman => knack := ()",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

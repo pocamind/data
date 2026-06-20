@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 7.5,
   "range": 8.5,
-  "reqs": "hailbreaker := 55r ICE, 65r HVY",
+  "reqs": "hailbreaker := 65r HVY, 55r ICE",
   "damage_types": [
     "Slash",
     "Frostdraw"

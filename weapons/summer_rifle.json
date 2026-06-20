@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "summer_rifle := ()",
+  "reqs": "summer_rifle := 40r MED",
   "damage_types": [
     "Slash"
   ],

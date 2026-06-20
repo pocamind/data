@@ -1,7 +1,7 @@
 {
   "mats": {},
   "name": "Whaler Initiate",
-  "reqs": "whaler_initiate := 90r TTL",
+  "reqs": "voidwalker => whaler_initiate := ()",
   "notes": 0,
   "talent": null,
   "category": "Starter",

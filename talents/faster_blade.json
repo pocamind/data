@@ -2,7 +2,7 @@
   "name": "Faster Blade",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "faster_blade := ()",
+  "reqs": "drifter => faster_blade := ()",
   "additional_info": "Procs when \"parrying\" an attack.",
   "count_towards_talent_total": false,
   "icon": "Boots",

@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "umbrite_witherblade := ()",
+  "reqs": "umbrite_witherblade := 65r MED, 10r WLL",
   "damage_types": [
     "Slash",
     "Bleed",

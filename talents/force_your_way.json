@@ -2,7 +2,7 @@
   "name": "Force Your Way",
   "category": "Ignition Union",
   "rarity": "Equipment",
-  "reqs": "force_your_way := ()",
+  "reqs": "reforged_gauntlets => force_your_way := ()",
   "additional_info": "You can now parry certain NPC attacks that are normally unparryable. On proc, your armor will be drained, with the amount of armor lost being based on the damage the attack would normally deal. This Talent does not work if you have no armor durability.",
   "count_towards_talent_total": false,
   "icon": "Fist",

@@ -2,7 +2,7 @@
   "name": "Swiftkick Master",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "swiftkick_master := ()",
+  "reqs": "justicar, swiftkick_prodigy => swiftkick_master := ()",
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

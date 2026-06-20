@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 5.5,
   "range": 6.5,
-  "reqs": "withered_deaths_knell := ()",
+  "reqs": "withered_deaths_knell := 70r LHT, 40r BLD",
   "damage_types": [
     "Blunt",
     "Bloodrend"

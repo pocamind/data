@@ -2,7 +2,7 @@
   "name": "Fortify",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "fortify := ()",
+  "reqs": "frost_gauntlets => fortify := ()",
   "additional_info": "Grants a Talent tool that grants 15% damage reduction at the cost of reducing your movement speed by 36%.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "tricksters_scarf := 120 ttl",
+  "reqs": "tricksters_scarf := 120r TTL",
   "voi": false,
   "desc": "Merriment, gaiety and fun!"
 }

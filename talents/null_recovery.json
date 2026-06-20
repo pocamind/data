@@ -2,7 +2,7 @@
   "name": "Null Recovery",
   "category": "Void Glutton",
   "rarity": "Memento",
-  "reqs": "null_recovery := ()",
+  "reqs": "void_glutton => null_recovery := ()",
   "count_towards_talent_total": false,
   "icon": "Shadows",
   "roll2able": false,

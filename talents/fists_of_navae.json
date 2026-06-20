@@ -2,7 +2,7 @@
   "name": "Fists of Navae",
   "category": "Nomadic Way",
   "rarity": "Outfit",
-  "reqs": "fists_of_navae := ()",
+  "reqs": "navaen_nomad_robes => fists_of_navae := ()",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

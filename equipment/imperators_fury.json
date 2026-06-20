@@ -10,7 +10,7 @@
   ],
   "innates": {},
   "pips": {},
-  "reqs": "imperators_fury := 135 ttl",
+  "reqs": "imperators_fury := 135r TTL",
   "voi": false,
   "desc": "Certain legions among the Hundred, such as the Imperators of the 77th, include members who implant physiologically altering stakes into their bodies as a part of a sacred vow to enhance their physical abilities. By embedding such a stake, they willingly sacrifice a part of themselves in exchange for heightened strength and abilities. Though this concept isn't unilaterally accepted amongst the legions as an appropriate way to acquire strength."
 }

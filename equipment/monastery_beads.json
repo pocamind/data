@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "monastery_beads := 90 ttl",
+  "reqs": "monastery_beads := 90r TTL",
   "voi": false,
   "desc": "..."
 }

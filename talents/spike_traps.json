@@ -2,7 +2,7 @@
   "name": "Spike Traps",
   "category": "Cryomancer",
   "rarity": "Common",
-  "reqs": "frostdrawer => spike_traps := 30s ICE",
+  "reqs": "ice_spikes => spike_traps := 30s ICE",
   "additional_info": "Spikes activate upon being stepped on.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

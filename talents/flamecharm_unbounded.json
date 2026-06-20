@@ -2,7 +2,7 @@
   "name": "Flamecharm Unbounded",
   "category": "Flamecharm Master",
   "rarity": "Common",
-  "reqs": "flamecharm_unbounded := 75s FLM",
+  "reqs": "master_flamecharmer => flamecharm_unbounded := 75s FLM",
   "additional_info": "Removes the 75 investment cap on the Flamecharm Attribute. This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

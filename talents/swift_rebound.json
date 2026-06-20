@@ -2,7 +2,7 @@
   "name": "Swift Rebound",
   "category": "Butterfly",
   "rarity": "Common",
-  "reqs": "swift_rebound := 15s AGL",
+  "reqs": "flame_worshipper => swift_rebound := ()",
   "count_towards_talent_total": false,
   "icon": "Cloak",
   "roll2able": false,

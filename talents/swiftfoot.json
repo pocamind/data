@@ -2,7 +2,7 @@
   "name": "Swiftfoot",
   "category": "The Path, Unveiled",
   "rarity": "Faction",
-  "reqs": "swiftfoot := ()",
+  "reqs": "justicar => swiftfoot := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

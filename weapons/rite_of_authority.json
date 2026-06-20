@@ -5,7 +5,7 @@
   "damage": 19.5,
   "posture_damage": 8,
   "range": 8,
-  "reqs": "rite_of_authority := 40r LTN, 75r MED",
+  "reqs": "rite_of_authority := 75r MED, 40r LTN",
   "damage_types": [
     "Slash"
   ],

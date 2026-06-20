@@ -2,7 +2,7 @@
   "name": "Training Wheels",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "training_wheels := ()",
+  "reqs": "beginner => training_wheels := ()",
   "count_towards_talent_total": false,
   "icon": "Climb",
   "roll2able": false,

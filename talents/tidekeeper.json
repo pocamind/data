@@ -2,7 +2,7 @@
   "name": "Tidekeeper",
   "category": "Tidekeeper",
   "rarity": "Outfit",
-  "reqs": "tidekeeper := ()",
+  "reqs": "celtorian_tideknight => tidekeeper := ()",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Fisher's Lure",
   "category": "Angler",
   "rarity": "Quest",
-  "reqs": "fishers_lure := ()",
+  "reqs": "fish_50_times => fishers_lure := ()",
   "additional_info": "Slightly increases the chance of hooking something while fishing.",
   "count_towards_talent_total": false,
   "icon": "Claw",

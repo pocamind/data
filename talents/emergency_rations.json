@@ -2,7 +2,7 @@
   "name": "Emergency Rations",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "emergency_rations := ()",
+  "reqs": "veteran_rangers_brace => emergency_rations := ()",
   "additional_info": "Grants a Talent tool with 3 charges. Using the Talent tool consumes one of the charges to heal you for 20 flat health. This has a 15 second cooldown. Resting at a campfire, while not in combat, restores all charges",
   "count_towards_talent_total": false,
   "icon": "Shield",

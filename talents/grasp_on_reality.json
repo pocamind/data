@@ -2,7 +2,7 @@
   "name": "Grasp on Reality",
   "category": "Sturdy Resolve",
   "rarity": "Common",
-  "reqs": "grasp_on_reality := 5s WLL, 25s FTD",
+  "reqs": "grasp_on_reality := 25s FTD, 5s WLL",
   "additional_info": "Reduces damage taken from Scratching.",
   "count_towards_talent_total": true,
   "icon": "Fist",

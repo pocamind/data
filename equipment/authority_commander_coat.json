@@ -24,7 +24,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "authority_commander_coat := 210 ttl",
+  "reqs": "authority_commander_coat := 195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

@@ -2,7 +2,7 @@
   "name": "Ether Upgrade",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ether_upgrade := ()",
+  "reqs": "caster_fur_pauldrons => ether_upgrade := ()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

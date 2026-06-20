@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "curseblood_pendant := 90 ttl",
+  "reqs": "curseblood_pendant := 90r TTL",
   "voi": false,
   "desc": "..."
 }

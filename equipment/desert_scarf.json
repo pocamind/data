@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "desert_scarf := 90r ttl",
+  "reqs": "desert_scarf := 90r TTL",
   "voi": false,
   "desc": "..."
 }

@@ -2,7 +2,7 @@
   "name": "Horn of Authority",
   "category": "Authority Ensign",
   "rarity": "Origin",
-  "reqs": "horn_of_authority := ()",
+  "reqs": "authority_ensign => horn_of_authority := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

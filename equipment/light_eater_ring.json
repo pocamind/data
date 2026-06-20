@@ -21,7 +21,7 @@
     }
   },
   "pips": {},
-  "reqs": "light_eater_ring := 60 ttl",
+  "reqs": "light_eater_ring := ()",
   "voi": false,
   "desc": "Taking damage from fire or lightning will cause you to regenerate ether."
 }

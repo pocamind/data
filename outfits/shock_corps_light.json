@@ -6,7 +6,7 @@
     "Vibrant Gem": 5
   },
   "name": "Shock Corps Light",
-  "reqs": "shock_corps_light := 240r TTL",
+  "reqs": "authority_ensign => shock_corps_light := 240r TTL",
   "notes": 0,
   "talent": "Battle-Hardened",
   "category": "Unique",

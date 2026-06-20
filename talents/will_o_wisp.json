@@ -2,7 +2,7 @@
   "name": "Will o' Wisp",
   "category": "Sage of Wisps",
   "rarity": "Advanced",
-  "reqs": "will_o_wisp := 25r ICE or 25r FLM or 25r WND or 25r SDW or 25r LTN or 25r MTL or 25r BLD",
+  "reqs": "will_o_wisp := 25r ICE OR 25r FLM OR 25r WND OR 25r SDW OR 25r LTN OR 25r MTL OR 25r BLD",
   "additional_info": "Allows the player to have multiple Wisp Mantras active at once.",
   "count_towards_talent_total": true,
   "icon": "Orb",

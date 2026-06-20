@@ -17,7 +17,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "specialist_helmet := 315 ttl, 30 wnd, 30 ltn",
+  "reqs": "specialist_helmet := 315r TTL, 30r LTN, 30r WND",
   "voi": false,
   "desc": "The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story."
 }

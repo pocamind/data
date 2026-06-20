@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "gladiator_pauldrons := 90 ttl",
+  "reqs": "gladiator_pauldrons := 90r TTL",
   "voi": false,
   "desc": "..."
 }

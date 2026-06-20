@@ -2,7 +2,7 @@
   "name": "Metal Absorption",
   "category": "Metallurgist",
   "rarity": "Common",
-  "reqs": "metal_absorption := 30s MTL",
+  "reqs": "iron_hug => metal_absorption := 30s MTL",
   "additional_info": "Iron Hug will steal 10% of your opponent's current armor durability and siphon it back to yourself.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

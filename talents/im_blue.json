@@ -2,7 +2,7 @@
   "name": "I'm Blue",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "im_blue := ()",
+  "reqs": "bluestone_boots => im_blue := ()",
   "additional_info": "Increases the effectiveness of Blue Gems by 40% additively.",
   "count_towards_talent_total": false,
   "icon": "Brain",

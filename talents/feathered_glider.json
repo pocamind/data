@@ -2,7 +2,7 @@
   "name": "Feathered Glider",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "feathered_glider := ()",
+  "reqs": "tiran => feathered_glider := ()",
   "additional_info": "Provides a Glider with infinite durability. The color of this Glider is dependent on your aspect variant, but it can be dyed.",
   "count_towards_talent_total": false,
   "icon": "Wings",

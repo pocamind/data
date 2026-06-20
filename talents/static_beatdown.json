@@ -2,7 +2,7 @@
   "name": "Static Beatdown",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "static_beatdown := ()",
+  "reqs": "legion_cestus => static_beatdown := ()",
   "additional_info": "Shaky block duration scales on your Thundercall investment, increasing by +0.004s for every point in Thundercall.",
   "count_towards_talent_total": false,
   "icon": "Shock",

@@ -2,7 +2,7 @@
   "name": "Crippling Comeuppance",
   "category": "Trickster",
   "rarity": "Advanced",
-  "reqs": "crippling_comeuppance := 100s AGL",
+  "reqs": "revenge => crippling_comeuppance := 100s AGL",
   "additional_info": "30 second cooldown. For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.",
   "count_towards_talent_total": true,
   "icon": "Sword",

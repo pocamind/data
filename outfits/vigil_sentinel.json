@@ -8,7 +8,7 @@
     "Vibrant Gem": 5
   },
   "name": "Vigil Sentinel",
-  "reqs": "vigil_sentinel := 5r WLL, 165r TTL",
+  "reqs": "vigil_sentinel := 165r TTL, 5r WLL",
   "notes": 1000,
   "talent": "Vigil's Grace, Action Surge",
   "category": "Unique",

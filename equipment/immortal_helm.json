@@ -12,7 +12,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "immortal_helm := 90 ttl",
+  "reqs": "immortal_helm := 90r TTL",
   "voi": false,
   "desc": "Helm of an Immortal Guardian. The product of Ministry experimentation, it's thought that these helmets enthrall their wielders by means of a Mind Veil, causing immediate death should they ever be removed. It seems that in prying this helmet off that this functionality has been disabled. You hope."
 }

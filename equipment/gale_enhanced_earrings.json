@@ -13,7 +13,7 @@
     "Common": 1,
     "Rare": 1
   },
-  "reqs": "gale_enhanced_earrings := 90 ttl",
+  "reqs": "gale_enhanced_earrings := 90r TTL",
   "voi": false,
   "desc": "Putting these on, you feel as if you are light as a cloud."
 }

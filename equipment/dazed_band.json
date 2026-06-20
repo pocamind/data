@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "dazed_band := 60 ttl",
+  "reqs": "dazed_band := ()",
   "voi": false,
   "desc": "Flourishing an opponent has a chance to stun them automatically."
 }

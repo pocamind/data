@@ -2,7 +2,7 @@
   "name": "Peripheral Vision",
   "category": "Hunter",
   "rarity": "Rare",
-  "reqs": "peripheral_vision := 40s WLL",
+  "reqs": "glare => peripheral_vision := 40s WLL",
   "count_towards_talent_total": true,
   "icon": "Eye",
   "roll2able": false,

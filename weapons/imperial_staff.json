@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "imperial_staff := 40r STR, 40r MED",
+  "reqs": "imperial_staff := 40r MED, 40r STR",
   "damage_types": [
     "Blunt"
   ],

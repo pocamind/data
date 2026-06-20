@@ -2,7 +2,7 @@
   "name": "Decisive Blow",
   "category": "Critical Specialist",
   "rarity": "Common",
-  "reqs": "knifes_journey => decisive_blow := 30s LHT",
+  "reqs": "knifes_journey => decisive_blow := ()",
   "count_towards_talent_total": true,
   "icon": "Daggers",
   "roll2able": true,

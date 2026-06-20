@@ -2,7 +2,7 @@
   "name": "Sunken Predator",
   "category": "Apex Predator",
   "rarity": "Common",
-  "reqs": "sunken_predator := ()",
+  "reqs": "sunken_predator := 180s TTL",
   "count_towards_talent_total": true,
   "icon": "Teeth",
   "roll2able": true,

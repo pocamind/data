@@ -2,7 +2,7 @@
   "name": "Mindspark",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "mindspark := ()",
+  "reqs": "flame_demon_horns => mindspark := ()",
   "additional_info": "Your burn damage is increased based on how low your Sanity is.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

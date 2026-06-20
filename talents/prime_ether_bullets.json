@@ -2,7 +2,7 @@
   "name": "Prime Ether Bullets",
   "category": "Gunslinger",
   "rarity": "Advanced",
-  "reqs": "prime_ether_bullets := 60s INT, 90s LHT",
+  "reqs": "true_ether_bullets => prime_ether_bullets := 90s LHT, 60s INT",
   "additional_info": "True Ether Bullets now procs in 2 hits instead of 3. Adds 1.2 Intelligence scaling to your Pistols.",
   "count_towards_talent_total": true,
   "icon": "Brain",

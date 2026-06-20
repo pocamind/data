@@ -2,7 +2,7 @@
   "name": "Oath: Contractor",
   "category": "Contractor",
   "rarity": "Oath",
-  "reqs": "oath_contractor := ()",
+  "reqs": "oath_contractor => oath_contractor := ()",
   "count_towards_talent_total": false,
   "icon": "Contractor",
   "roll2able": false,

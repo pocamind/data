@@ -2,7 +2,7 @@
   "name": "Off Your Game",
   "category": "Empath",
   "rarity": "Common",
-  "reqs": "off_your_game := 90s CHA",
+  "reqs": "taunt => off_your_game := 90s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

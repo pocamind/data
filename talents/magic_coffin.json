@@ -2,7 +2,7 @@
   "name": "Magic Coffin",
   "category": "Strange Merchant",
   "rarity": "Memento",
-  "reqs": "magic_coffin := ()",
+  "reqs": "strange_merchant => magic_coffin := ()",
   "additional_info": "Activating your Coffin takes 50 Notes. This Note cost will increase by 50 per Power, costing 1,000 Notes at Power 20. When used, the Coffin acts like a loot box, randomly rolling an item to give you. There is a 1% chance to grant the Skull, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20. There is a 5-10% chance to roll a blank, doubling the chest of the next box. This can stack. Coffin activation uses your Resonance keybind. You can use any weapon or equipment item without meeting their attribute requirements.",
   "count_towards_talent_total": false,
   "icon": "Eye",

@@ -2,7 +2,7 @@
   "name": "Crossguard",
   "category": "Battle Readiness",
   "rarity": "Faction",
-  "reqs": "crossguard := 1s MED",
+  "reqs": "authority_ensign => crossguard := ()",
   "additional_info": "This is additive to weapon chip damage.",
   "count_towards_talent_total": false,
   "icon": "Sword",

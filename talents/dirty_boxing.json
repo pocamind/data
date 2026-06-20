@@ -2,7 +2,7 @@
   "name": "Dirty Boxing",
   "category": "Scoundrel",
   "rarity": "Rare",
-  "reqs": "dirty_boxing := 1s LHT, 25s AGL",
+  "reqs": "dirty_boxing := 25s AGL",
   "additional_info": "8 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Fist",

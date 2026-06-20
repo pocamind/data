@@ -2,7 +2,7 @@
   "name": "Deal Maker",
   "category": "Merchant",
   "rarity": "Memento",
-  "reqs": "deal_maker := ()",
+  "reqs": "strange_merchant => deal_maker := ()",
   "additional_info": "This is unaffected by Snake Oil.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

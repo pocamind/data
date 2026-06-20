@@ -2,7 +2,7 @@
   "name": "Blight Pierce",
   "category": "Blightsurger",
   "rarity": "Oath",
-  "reqs": "blight_pierce := ()",
+  "reqs": "oath_blightsurger => blight_pierce := ()",
   "additional_info": "Blightshock now works similar to regular Shock, canceling hyperarmor.",
   "count_towards_talent_total": false,
   "roll2able": false,

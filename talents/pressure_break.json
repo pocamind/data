@@ -2,7 +2,7 @@
   "name": "Pressure Break",
   "category": "Legion Shock Trooper",
   "rarity": "Common",
-  "reqs": "air_pressure => pressure_break := 30r AGL or 30r STR, 65s WND",
+  "reqs": "air_pressure => pressure_break := 65s WND, 30r AGL OR 30r STR",
   "count_towards_talent_total": true,
   "icon": "Wind",
   "roll2able": true,

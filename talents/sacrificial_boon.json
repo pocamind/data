@@ -2,7 +2,7 @@
   "name": "Sacrificial Boon",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "sacrificial_boon := ()",
+  "reqs": "ritual_sacrifice => sacrificial_boon := ()",
   "additional_info": "Grants a Talent tool that consumes 5 KnowledgeSprite on use to grant the user a random buff within a set pool. This has a 0.5 second cooldown, potentially allowing you to stack the buffs. Potential buffs are: 20% damage buff, hyperarmor for 10 seconds, instantly heal 50 health, thirst restoration, stomach restoration, or a speed boost for 10 seconds.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

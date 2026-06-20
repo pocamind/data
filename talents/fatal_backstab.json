@@ -2,7 +2,7 @@
   "name": "Fatal Backstab",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "fatal_backstab := ()",
+  "reqs": "rogue_assassin => fatal_backstab := ()",
   "count_towards_talent_total": false,
   "icon": "Daggers",
   "roll2able": false,

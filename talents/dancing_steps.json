@@ -2,7 +2,7 @@
   "name": "Dancing Steps",
   "category": "Flame Dancer",
   "rarity": "Common",
-  "reqs": "dancing_steps := 35s FLM",
+  "reqs": "dancing_steps := 135s TTL, 35s FLM",
   "additional_info": "Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted. 5 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

@@ -2,7 +2,7 @@
   "name": "Herbivore",
   "category": "Survival Instinct",
   "rarity": "Equipment",
-  "reqs": "herbivore := ()",
+  "reqs": "big_herbalists_hat, herbalists_hat => herbivore := ()",
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

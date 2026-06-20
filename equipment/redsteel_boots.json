@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "redsteel_boots := 105 ttl",
+  "reqs": "redsteel_boots := 90r TTL",
   "voi": false,
   "desc": "..."
 }

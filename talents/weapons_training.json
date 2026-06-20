@@ -2,7 +2,7 @@
   "name": "Weapon's Training",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "weapons_training := ()",
+  "reqs": "khan => weapons_training := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

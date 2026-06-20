@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 7,
   "range": 7.5,
-  "reqs": "the_pastry_paster := 30r INT OR 30r WLL OR 30r CHA, 70r MED",
+  "reqs": "the_pastry_paster := 70r MED, 30r INT OR 30r WLL OR 30r CHA",
   "damage_types": [
     "Blunt"
   ],

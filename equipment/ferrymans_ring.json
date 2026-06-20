@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "ferrymans_ring := ()",
+  "reqs": "ferrymans_ring := 105r TTL",
   "voi": false,
   "desc": "A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%."
 }

@@ -2,7 +2,7 @@
   "name": "Scorched Peak",
   "category": "Lichtenberg",
   "rarity": "Common",
-  "reqs": "scorched_peak := 25s FLM, 50s LTN",
+  "reqs": "scorched_peak := 50s LTN, 25s FLM",
   "additional_info": "Deals 10 Thundercall damage on hit. \"On fire\" refers to the Burn status effect. This can proc Grounding Bolt.",
   "count_towards_talent_total": true,
   "icon": "Shock",

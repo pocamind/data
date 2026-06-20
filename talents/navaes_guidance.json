@@ -2,7 +2,7 @@
   "name": "Navae's Guidance",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "navaes_guidance := ()",
+  "reqs": "gremor => navaes_guidance := ()",
   "additional_info": "Receive a compass, displayed at the top of your screen, which points East. Right clicking on the map will place a waypoint or change the location of a pre-existing one. Waymarkers can be seen both in the physical world and on the map. The passive hunger loss is reduced.",
   "count_towards_talent_total": false,
   "icon": "Eye",

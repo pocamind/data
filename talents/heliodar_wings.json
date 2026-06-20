@@ -2,7 +2,7 @@
   "name": "Heliodar Wings",
   "category": "Heliodar",
   "rarity": "Memento",
-  "reqs": "heliodar_wings := ()",
+  "reqs": "solborn => heliodar_wings := ()",
   "additional_info": "Pressing H will sprout your Heliodar Wings. Hold Space while flying to ascend, Q to speed up, or CTRL to descend. Flying consumes Heartfire Gauge. If you run out of Heartfire Gauge while flying, you will be set on fire, ending the flight early. Taking damage from any source will cause your flight to end early.",
   "count_towards_talent_total": false,
   "icon": "Wings",

@@ -2,7 +2,7 @@
   "name": "Union Hook",
   "category": "Ignition Union",
   "rarity": "Quest",
-  "reqs": "union_hook := ()",
+  "reqs": "\"save_epsi_in_the_entrance_of_firfire_then_speak_to_alpha, ignition_delver => union_hook := ()",
   "count_towards_talent_total": false,
   "icon": "Shock",
   "roll2able": false,

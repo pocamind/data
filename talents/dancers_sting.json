@@ -2,7 +2,7 @@
   "name": "Dancer's Sting",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "dancers_sting := ()",
+  "reqs": "spear_dancer => dancers_sting := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

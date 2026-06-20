@@ -16,7 +16,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "imperial_boots := 165 ttl",
+  "reqs": "imperial_boots := 165r TTL",
   "voi": false,
   "desc": "..."
 }

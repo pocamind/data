@@ -2,7 +2,7 @@
   "name": "Dormant Strength",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "dormant_strength := ()",
+  "reqs": "breaker => dormant_strength := ()",
   "additional_info": "Increases your Strong Left's damage and posture damage if you are at max Calamity Punch stacks.",
   "count_towards_talent_total": false,
   "icon": "Fist",

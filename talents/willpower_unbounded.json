@@ -2,7 +2,7 @@
   "name": "Willpower Unbounded",
   "category": "Iron Will",
   "rarity": "Common",
-  "reqs": "willpower_unbounded := 75s WLL",
+  "reqs": "speak_to_akira_in_the_depths_then_speak_to_him_again_after_he_moves_to_castle_light => willpower_unbounded := 75s WLL",
   "additional_info": "Removes the 75 investment cap on the Willpower Attribute. The stat requirements to obtain this Talent will be increased to 77 or 78 if your Aspect has increased Willpower on spawn, though this limitation will be removed if you have the Multifaceted Echo Unlock. The quest requirement for this Talent will be removed if you've obtained it previously on your account.",
   "count_towards_talent_total": false,
   "icon": "Eye",

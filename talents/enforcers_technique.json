@@ -2,7 +2,7 @@
   "name": "Enforcer's Technique",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "enforcers_technique := ()",
+  "reqs": "reinforced_enforcer_boots => enforcers_technique := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

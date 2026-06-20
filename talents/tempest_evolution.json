@@ -2,7 +2,7 @@
   "name": "Tempest Evolution",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "tempest_evolution := ()",
+  "reqs": "tempestmakers_threads => tempest_evolution := ()",
   "additional_info": "Increases the slide jump variant of Wind Blade's damage by 20%. Additionally grants a 20% damage buff while you are airborne after landing the slide jump Wind Blade.",
   "count_towards_talent_total": false,
   "icon": "Wind",

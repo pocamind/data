@@ -23,7 +23,7 @@
     "Rare": 1,
     "Legendary": 2
   },
-  "reqs": "reforged_gauntlets := 195r ttl",
+  "reqs": "reforged_gauntlets := 195r TTL",
   "voi": true,
   "wiki": "",
   "desc": "..."

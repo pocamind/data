@@ -2,7 +2,7 @@
   "name": "Rush",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "rush := ()",
+  "reqs": "trackstar => rush := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

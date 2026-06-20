@@ -2,7 +2,7 @@
   "name": "Life Leech",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "life_leech := ()",
+  "reqs": "familiar_occultists_armor => life_leech := ()",
   "additional_info": "The healing gained is based on summon damage dealt. This works on the following summons: monsters from the Parasol's Blight enchantment, The Weaving Web's critical attack, Illusory Servants, Illusory Counter, Lightning Clones, and Flame Sentinel.",
   "count_towards_talent_total": false,
   "icon": "Blood",

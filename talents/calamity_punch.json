@@ -2,7 +2,7 @@
   "name": "Calamity Punch",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "calamity_punch := ()",
+  "reqs": "breaker => calamity_punch := ()",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

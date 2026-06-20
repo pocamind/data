@@ -2,7 +2,7 @@
   "name": "Cornered Fool",
   "category": "Empath",
   "rarity": "Common",
-  "reqs": "cornered_fool := 85s CHA",
+  "reqs": "taunt => cornered_fool := 85s CHA",
   "additional_info": "Despite what the description states, this applies Taunt for 6 seconds. Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma. The Taunt damage buff is also applied to the attack that guard broke. 15 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Claw",

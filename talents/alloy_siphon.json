@@ -2,7 +2,7 @@
   "name": "Alloy Siphon",
   "category": "Steel Vessel",
   "rarity": "Memento",
-  "reqs": "alloy_siphon := ()",
+  "reqs": "iron_vessel => alloy_siphon := ()",
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",
   "roll2able": false,

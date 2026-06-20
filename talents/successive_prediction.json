@@ -2,7 +2,7 @@
   "name": "Successive Prediction",
   "category": "Omniscient",
   "rarity": "Common",
-  "reqs": "successive_prediction := 50s INT",
+  "reqs": "prediction => successive_prediction := 50s INT",
   "additional_info": "Allows you to reflect the entirety of multi-hit moves.",
   "count_towards_talent_total": true,
   "icon": "Brain",

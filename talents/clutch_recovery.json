@@ -2,7 +2,7 @@
   "name": "Clutch Recovery",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "clutch_recovery := ()",
+  "reqs": "canor_fang => clutch_recovery := ()",
   "additional_info": "If you are at or below 30% of your maximum health, heal 1% of your maximum health upon landing any weapon attack.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

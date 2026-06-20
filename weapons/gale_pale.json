@@ -5,7 +5,7 @@
   "damage": 23,
   "posture_damage": 10,
   "range": 9,
-  "reqs": "gale_pale := ()",
+  "reqs": "gale_pale := 75r HVY",
   "damage_types": [
     "Blunt"
   ],

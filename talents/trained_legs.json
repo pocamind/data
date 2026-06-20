@@ -2,7 +2,7 @@
   "name": "Trained Legs",
   "category": "The Path, Unveiled",
   "rarity": "Faction",
-  "reqs": "trained_legs := ()",
+  "reqs": "justicar => trained_legs := ()",
   "additional_info": "Increases your maximum climb height.",
   "count_towards_talent_total": false,
   "icon": "Boots",

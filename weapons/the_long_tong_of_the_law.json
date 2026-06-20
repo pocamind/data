@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 8,
   "range": 10,
-  "reqs": "the_long_tong_of_the_law := 30r INT OR 30r WLL OR 30r CHA, 70r HVY",
+  "reqs": "the_long_tong_of_the_law := 70r HVY, 30r INT OR 30r WLL OR 30r CHA",
   "damage_types": [
     "Slash"
   ],

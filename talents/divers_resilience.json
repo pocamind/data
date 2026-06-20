@@ -2,7 +2,7 @@
   "name": "Diver's Resilience",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "divers_resilience := ()",
+  "reqs": "grand_fisher_plate => divers_resilience := ()",
   "additional_info": "You can now parry certain NPC attacks that are normally unparryable. 10 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

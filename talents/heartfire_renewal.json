@@ -2,7 +2,7 @@
   "name": "Heartfire Renewal",
   "category": "Solborn",
   "rarity": "Memento",
-  "reqs": "heartfire_renewal := ()",
+  "reqs": "solborn => heartfire_renewal := ()",
   "count_towards_talent_total": false,
   "icon": "Blaze",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Supernatural Sense",
   "category": "Quest",
   "rarity": "Quest",
-  "reqs": "supernatural_sense := ()",
+  "reqs": "ghost_hunting => supernatural_sense := ()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,
