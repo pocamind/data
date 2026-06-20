@@ -2,7 +2,7 @@
   "name": "Ruinous Recovery",
   "category": "Berserker",
   "rarity": "Memento",
-  "reqs": "ruinous_recovery := ()",
+  "reqs": "berserker => ruinous_recovery := ()",
   "count_towards_talent_total": false,
   "icon": "Teeth",
   "roll2able": false,

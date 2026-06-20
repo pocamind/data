@@ -2,7 +2,7 @@
   "name": "Storm Return",
   "category": "Theros Disciple",
   "rarity": "Memento",
-  "reqs": "storm_return := ()",
+  "reqs": "theros_disciple => storm_return := ()",
   "additional_info": "Being under the effects of Amped or Lightning Cloak will proc this effect.",
   "count_towards_talent_total": false,
   "icon": "Shock",

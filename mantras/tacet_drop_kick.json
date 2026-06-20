@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "jus_karita => tacet_drop_kick := 5r STR",
+  "reqs": "jus_karita, murmur_tacet => tacet_drop_kick := 5r STR",
   "damage": [
     {
       "variant": null,

@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "regenerative_earrings := ()",
+  "reqs": "regenerative_earrings := 135r TTL",
   "voi": false,
   "desc": "Wearing these fills you with a newfound sense of vitality."
 }

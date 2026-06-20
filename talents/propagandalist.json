@@ -2,7 +2,7 @@
   "name": "Propagandalist",
   "category": "Vocalist",
   "rarity": "Common",
-  "reqs": "propagandalist := 75s CHA",
+  "reqs": "sing => propagandalist := 75s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

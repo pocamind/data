@@ -2,7 +2,7 @@
   "name": "Pace",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "pace := ()",
+  "reqs": "trackstar_pauldrons => pace := ()",
   "additional_info": "Grants damage reduction based on the combined potency on all speed boosts you have. Landing attacks grants a speed boost.",
   "count_towards_talent_total": false,
   "icon": "Boots",

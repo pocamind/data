@@ -2,7 +2,7 @@
   "name": "Hardened Shell",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "hardened_shell := ()",
+  "reqs": "vesperian => hardened_shell := ()",
   "additional_info": "Increases your Natural Armor durability.",
   "count_towards_talent_total": false,
   "icon": "Skeleton",

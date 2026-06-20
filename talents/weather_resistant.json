@@ -2,7 +2,7 @@
   "name": "Weather Resistant",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "weather_resistant := ()",
+  "reqs": "extra_thick_overcoat => weather_resistant := ()",
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

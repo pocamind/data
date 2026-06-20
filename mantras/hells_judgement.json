@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "hells_judgement := ()",
+  "reqs": "flame_worshipper => hells_judgement := 240r TTL",
   "damage": [
     {
       "variant": null,

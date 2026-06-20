@@ -2,7 +2,7 @@
   "name": "Strong Hold",
   "category": "Duelist",
   "rarity": "Common",
-  "reqs": "strong_hold := 30s STR, 30s MED",
+  "reqs": "strong_hold := 30s MED, 30s STR",
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": true,

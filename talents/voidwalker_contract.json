@@ -2,7 +2,7 @@
   "name": "Voidwalker Contract",
   "category": "The Knives of Eylis",
   "rarity": "Origin",
-  "reqs": "voidwalker_contract := ()",
+  "reqs": "voidwalker => voidwalker_contract := ()",
   "additional_info": "Gain increased EXP from bounties of all kinds, but gain reduced EXP from all other sources.",
   "count_towards_talent_total": false,
   "icon": "Eye",

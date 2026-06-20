@@ -2,7 +2,7 @@
   "name": "Execution",
   "category": "Gunslinger",
   "rarity": "Rare",
-  "reqs": "execution := 90 LHT, 90r MED or 90r HVY",
+  "reqs": "execution := 90s LHT, 90r MED OR 90r HVY",
   "additional_info": "Deals true damage. Only works if you do not have bullets in your inventory. Also procs on the offhand shots of Dual Gun attacks, but it deals 5 true damage instead if used on Dual Guns.",
   "count_towards_talent_total": true,
   "icon": "Bullet",

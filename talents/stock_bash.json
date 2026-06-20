@@ -2,7 +2,7 @@
   "name": "Stock Bash",
   "category": "Marksman",
   "rarity": "Common",
-  "reqs": "stock_bash := 25s STR, 55s MED",
+  "reqs": "stock_bash := 55s MED, 25s STR",
   "additional_info": "Applies daze for one second.",
   "count_towards_talent_total": true,
   "icon": "Bullet",

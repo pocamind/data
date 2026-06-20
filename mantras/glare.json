@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "glare := 5r WLL, 25r CHA",
+  "reqs": "sightless => glare := 90r TTL",
   "damage": [
     {
       "variant": null,

@@ -5,7 +5,7 @@
   "damage": null,
   "posture_damage": null,
   "range": null,
-  "reqs": "old_world_greatshield := ()",
+  "reqs": "old_world_greatshield := 30r FTD",
   "posture_max": 5,
   "enchantable": false,
   "equip_motifs": false,

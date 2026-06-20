@@ -2,7 +2,7 @@
   "name": "Cruel Counter",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "cruel_counter := ()",
+  "reqs": "krulian_knife => cruel_counter := ()",
   "additional_info": "If you interrupt someone's attack with the shock from your Krulian Charge critical, apply the Cruel Counter status effect to your opponent, increasing all damage taken by critical attacks for 20 seconds. This grants a 40% damage buff to all critical attacks (including those that aren't Krulian Knife's), bypassing the damage modifier caps.",
   "count_towards_talent_total": false,
   "icon": "Shock",

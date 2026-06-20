@@ -2,7 +2,7 @@
   "name": "Safety First",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "safety_first := ()",
+  "reqs": "beginners_boots => safety_first := ()",
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "prediction := 50r INT",
+  "reqs": "sightless => prediction := 240r TTL",
   "damage": [
     {
       "variant": null,

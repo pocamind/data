@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "soulthorn := 40r INT, 80r MED",
+  "reqs": "soulthorn := 80r MED, 40r INT",
   "damage_types": [
     "Slash"
   ],

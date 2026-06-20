@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "blacksteel_pauldrons := 135 ttl",
+  "reqs": "blacksteel_pauldrons := ()",
   "voi": false,
   "desc": "..."
 }

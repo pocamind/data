@@ -2,7 +2,7 @@
   "name": "Landshark",
   "category": "Fish",
   "rarity": "Quest",
-  "reqs": "landshark := ()",
+  "reqs": "megalodaunt_slayer => landshark := ()",
   "additional_info": "The lifesteal only works in PvE.",
   "count_towards_talent_total": true,
   "icon": "Lungs",

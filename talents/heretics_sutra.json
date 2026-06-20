@@ -2,7 +2,7 @@
   "name": "Heretic's Sutra",
   "category": "Heretic",
   "rarity": "Quest",
-  "reqs": "heretics_sutra := 80s WLL",
+  "reqs": "have_had_tier_1_insanity_shivering_and_talk_to_kasen_located_in_layer_2_floor_1. => heretics_sutra := 80s WLL",
   "additional_info": "Grants a Talent tool that drains the user's sanity on proc. If your sanity is above 80%, it will be set to 65% on use. If your sanity is below 80%, it will be reduced by 15% on use. Passively procs Shared Misery and Piercing Will for 15 seconds. The cooldown and windup of Heretic's Sutra scale on your Willpower investment, but the scaling is largely negligible.",
   "count_towards_talent_total": false,
   "icon": "Eye",

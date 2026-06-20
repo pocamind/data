@@ -18,7 +18,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "chefs_toque := 135 ttl",
+  "reqs": "chefs_toque := ()",
   "voi": false,
   "desc": "It's not raw, you are."
 }

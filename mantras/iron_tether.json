@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "iron_tether := 30r LTN, 30r MTL",
+  "reqs": "iron_tether := 30r MTL, 30r LTN",
   "damage": [
     {
       "variant": null,

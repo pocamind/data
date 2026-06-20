@@ -7,7 +7,7 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_blindseer => sightless_beam := ()",
+  "reqs": "sightless => sightless_beam := 165r TTL",
   "damage": [
     {
       "variant": null,

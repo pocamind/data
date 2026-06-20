@@ -16,7 +16,7 @@
     "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "blacksteel_helm := 135 ttl",
+  "reqs": "blacksteel_helm := 135r TTL",
   "voi": false,
   "desc": "An imposing helmet made from blackened steel."
 }

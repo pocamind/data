@@ -2,7 +2,7 @@
   "name": "Brassneck",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "brassneck := 30s STR, 35s FTD",
+  "reqs": "berserker => brassneck := ()",
   "additional_info": "Works on non-humanoid monsters, applying the damage reduction after they die.",
   "count_towards_talent_total": false,
   "icon": "Boots",

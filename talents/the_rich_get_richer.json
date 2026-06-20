@@ -2,7 +2,7 @@
   "name": "The Rich Get Richer",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "the_rich_get_richer := ()",
+  "reqs": "prosperous_gumshoe_longcoat => the_rich_get_richer := ()",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

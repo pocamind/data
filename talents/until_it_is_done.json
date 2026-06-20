@@ -2,7 +2,7 @@
   "name": "Until It Is Done",
   "category": "Berserker",
   "rarity": "Memento",
-  "reqs": "until_it_is_done := ()",
+  "reqs": "berserker => until_it_is_done := ()",
   "additional_info": "Your Berserk has an indefinite duration, ending only when you use the tool again.",
   "count_towards_talent_total": false,
   "icon": "Teeth",

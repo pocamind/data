@@ -2,7 +2,7 @@
   "name": "Focused Hematoma",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "focused_hematoma := ()",
+  "reqs": "sanguine_finery => focused_hematoma := ()",
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,

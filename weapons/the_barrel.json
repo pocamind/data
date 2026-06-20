@@ -5,7 +5,7 @@
   "damage": 25.5,
   "posture_damage": 9.5,
   "range": 8,
-  "reqs": "the_barrel := ()",
+  "reqs": "the_barrel := 75r HVY, 30r STR",
   "damage_types": [
     "Blunt"
   ],

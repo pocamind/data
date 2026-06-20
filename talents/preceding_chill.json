@@ -2,7 +2,7 @@
   "name": "Preceding Chill",
   "category": "Cryomancer",
   "rarity": "Rare",
-  "reqs": "preceding_chill := 60s ICE",
+  "reqs": "saint_jay => preceding_chill := ()",
   "additional_info": "If the user has Crystallization, this Talent no longer freezes but instead causes crystals to explode.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

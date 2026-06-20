@@ -2,7 +2,7 @@
   "name": "Footwork Mastery",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "footwork_mastery := ()",
+  "reqs": "hallowed_monastery_cowl => footwork_mastery := ()",
   "additional_info": "The speed boost lasts 15 seconds despite what the description states. 45 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Boots",

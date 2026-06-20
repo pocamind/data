@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "zweihander := 10r STR, 20r HVY",
+  "reqs": "zweihander := 20r HVY, 10r STR",
   "damage_types": [
     "Slash"
   ],

@@ -11,7 +11,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "sandrunner_scarf := 90 ttl",
+  "reqs": "sandrunner_scarf := 90r TTL",
   "voi": false,
   "desc": "..."
 }

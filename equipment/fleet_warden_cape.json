@@ -23,7 +23,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "fleet_warden_cape := 135 ttl",
+  "reqs": "fleet_warden_cape := 135r TTL",
   "voi": false,
   "desc": "..."
 }

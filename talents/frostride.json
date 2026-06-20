@@ -2,7 +2,7 @@
   "name": "Frostride",
   "category": "Saint Jay",
   "rarity": "Memento",
-  "reqs": "frostride := ()",
+  "reqs": "saint_jay => frostride := 165s TTL",
   "additional_info": "You can now walk on water by creating ice below your feet. This has no cooldown and does not cost Ether.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

@@ -2,7 +2,7 @@
   "name": "Threefold Impact",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "threefold_impact := ()",
+  "reqs": "breaker => threefold_impact := ()",
   "additional_info": "Grants buffs to your Strong Left based on how many Calamity Punch stacks you have. At one stack, your Strong Left cooldown will be reduced. At two stacks, your Strong Left will additionally deal typeless damage. At three stacks, your Strong Left will also guard break and deal more damage.",
   "count_towards_talent_total": false,
   "icon": "Fist",

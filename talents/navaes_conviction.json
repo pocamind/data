@@ -2,7 +2,7 @@
   "name": "Navae's Conviction",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "navaes_conviction := ()",
+  "reqs": "blessed_nomad_pendant => navaes_conviction := ()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

@@ -5,7 +5,7 @@
   "damage": 22.5,
   "posture_damage": 5,
   "range": 10,
-  "reqs": "soulwrought_spear := ()",
+  "reqs": "crazy_slots => soulwrought_spear := ()",
   "damage_types": [
     "Slash"
   ],

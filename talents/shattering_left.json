@@ -2,7 +2,7 @@
   "name": "Shattering Left",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "shattering_left := ()",
+  "reqs": "breaker => shattering_left := ()",
   "additional_info": "Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.",
   "count_towards_talent_total": false,
   "roll2able": false,

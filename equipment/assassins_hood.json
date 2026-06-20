@@ -22,7 +22,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "assassins_hood := 105 ttl, 10 agl",
+  "reqs": "assassins_hood := 105r TTL, 10r AGL",
   "voi": false,
   "desc": "..."
 }

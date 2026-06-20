@@ -2,7 +2,7 @@
   "name": "Orb Discharge",
   "category": "Flashing Thunder",
   "rarity": "Memento",
-  "reqs": "orb_discharge := ()",
+  "reqs": "flashing_thunder => orb_discharge := ()",
   "count_towards_talent_total": false,
   "icon": "Shock",
   "roll2able": false,

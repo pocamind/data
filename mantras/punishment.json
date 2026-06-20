@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "punishment := 50r HVY",
+  "reqs": "berserker, saint_jay => punishment := ()",
   "damage": [
     {
       "variant": null,

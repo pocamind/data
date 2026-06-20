@@ -2,7 +2,7 @@
   "name": "Dazing Finisher",
   "category": "Charm Caster",
   "rarity": "Advanced",
-  "reqs": "charismatic_cast, tough_love, chaotic_charm, lasting_charisma => dazing_finisher := 55s CHA",
+  "reqs": "chaotic_charm, charismatic_cast, lasting_charisma, tough_love => dazing_finisher := 55s CHA",
   "additional_info": "The duration of this Daze scales on your Charisma investment.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

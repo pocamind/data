@@ -5,7 +5,7 @@
   "damage": 25.5,
   "posture_damage": 9.5,
   "range": 9,
-  "reqs": "alloyed_forge_greathammer := 75r HVY",
+  "reqs": "alloyed_forge_greathammer := 75r HVY, 10r STR",
   "damage_types": [
     "Blunt"
   ],

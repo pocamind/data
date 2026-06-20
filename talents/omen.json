@@ -2,7 +2,7 @@
   "name": "Omen",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "omen := ()",
+  "reqs": "corrupted_pathfinder_elite => omen := ()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

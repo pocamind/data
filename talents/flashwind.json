@@ -2,7 +2,7 @@
   "name": "Flashwind",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "flashwind := ()",
+  "reqs": "specialist_boots => flashwind := ()",
   "additional_info": "After using a Gale or Lightning dash, gain the Flashwind status effect for 3 seconds, allowing you to perform Flashwind dashes.",
   "count_towards_talent_total": false,
   "icon": "Shock",

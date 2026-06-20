@@ -18,7 +18,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "royal_pathfinder := 165 ttl",
+  "reqs": "royal_pathfinder := 165r TTL",
   "voi": false,
   "desc": "..."
 }

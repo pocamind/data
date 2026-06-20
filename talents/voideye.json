@@ -2,7 +2,7 @@
   "name": "Voideye",
   "category": "The Knives of Eylis",
   "rarity": "Origin",
-  "reqs": "voideye := ()",
+  "reqs": "voidwalker => voideye := ()",
   "additional_info": "Grants a Talent tool that teleports you back to the Voidheart on use. 1 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

@@ -2,7 +2,7 @@
   "name": "Verses of Harmony",
   "category": "Saintsworn",
   "rarity": "Memento",
-  "reqs": "verses_of_harmony := ()",
+  "reqs": "saintsworn => verses_of_harmony := ()",
   "additional_info": "Gain access to the following Talents while in the respective Saint Stance. Upon swapping out of the Saint Stance, all granted Talents will be lost. Some of these Talents have an additional level requirement.\nFlamecharm: Dancing Steps, Immolation, Agitating Spark\nFrostdraw: Condensation Drip, Saint Jay, Frozen Legs, Fragile Freeze, Chilling Flourish\nGalebreathe: Pressure Break, Wind Step, Air Pressure, Cyclone Blade, Inhale, A World Without Song\nShadowcast: Dark Rift, Lasting Sorrow, Dark God, Dark Hours, Shadow Overflow, Singularity\nThundercall: Static Fakeout, Stratoshock, Resolve Crusher, Static Blade, Gathering Electricity",
   "count_towards_talent_total": false,
   "icon": "Saintsworn",

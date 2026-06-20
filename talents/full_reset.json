@@ -2,7 +2,7 @@
   "name": "Full Reset",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "full_reset := ()",
+  "reqs": "full_reset := 255s TTL",
   "additional_info": "Also works on non-humanoid monsters, resetting your Resonance cooldown after they die.",
   "count_towards_talent_total": true,
   "icon": "Bell",

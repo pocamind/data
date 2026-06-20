@@ -11,7 +11,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "vigil_hood := 105 ttl, 10 agl",
+  "reqs": "vigil_hood := 105r TTL, 10r AGL",
   "voi": false,
   "desc": "..."
 }

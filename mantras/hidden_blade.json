@@ -7,7 +7,7 @@
   "type": "Origin",
   "stars": 0,
   "vaulted": false,
-  "reqs": "hidden_blade := ()",
+  "reqs": "authority_ensign => hidden_blade := ()",
   "damage": [
     {
       "variant": null,

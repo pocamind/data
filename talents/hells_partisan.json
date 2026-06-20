@@ -2,7 +2,7 @@
   "name": "Hell's Partisan",
   "category": "Flame Warden",
   "rarity": "Common",
-  "reqs": "warding_radiance => hells_partisan := 35s FLM",
+  "reqs": "fire_forge, warding_radiance => hells_partisan := 35s FLM",
   "additional_info": "Deals 5 Flamecharm damage. Parryable, but not blockable or dodgeable due to hitstun.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

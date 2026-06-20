@@ -17,7 +17,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "legion_pauldrons := 135 ttl",
+  "reqs": "legion_pauldrons := ()",
   "voi": false,
   "desc": "..."
 }

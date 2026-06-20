@@ -2,7 +2,7 @@
   "name": "Depths Denizen",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "depths_denizen := ()",
+  "reqs": "celtor => depths_denizen := ()",
   "count_towards_talent_total": false,
   "icon": "Cube",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "The Path, Unveiled",
   "category": "Jus Karita",
   "rarity": "Outfit",
-  "reqs": "the_path_unveiled := ()",
+  "reqs": "justicar, mod_suit => the_path_unveiled := ()",
   "additional_info": "Increases Jus Karita damage by 10%, despite what the Talent description states.",
   "count_towards_talent_total": false,
   "icon": "Fist",

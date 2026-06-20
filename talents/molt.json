@@ -2,7 +2,7 @@
   "name": "Molt",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "molt := ()",
+  "reqs": "etrean => molt := ()",
   "additional_info": "The duration of Chill, Suffocation, and all potion effects is reduced.",
   "count_towards_talent_total": false,
   "icon": "Leaf",

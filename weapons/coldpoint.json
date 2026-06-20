@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "coldpoint := 25r ICE, 70r LHT",
+  "reqs": "coldpoint := 70r LHT, 25r ICE",
   "damage_types": [
     "Slash",
     "Frostdraw"

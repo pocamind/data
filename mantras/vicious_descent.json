@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "vicious_descent := 20r BLD",
+  "reqs": "berserker => vicious_descent := ()",
   "damage": [
     {
       "variant": null,

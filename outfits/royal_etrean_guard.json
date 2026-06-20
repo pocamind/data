@@ -7,7 +7,7 @@
     "King Thresher Spine": 1
   },
   "name": "Royal Etrean Guard",
-  "reqs": "royal_etrean_guard := 315r TTL",
+  "reqs": "royal_etrean_guard := 240r TTL",
   "notes": 1000,
   "talent": "Paired Soul",
   "category": "Master",

@@ -2,7 +2,7 @@
   "name": "Blood Necrosis",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blood_necrosis := ()",
+  "reqs": "the_no_life_kings_crown => blood_necrosis := ()",
   "additional_info": "You will now need a scaled damage of 75 to hit the regular Bloodless Gem heal cap of 15.",
   "count_towards_talent_total": false,
   "icon": "Blood",

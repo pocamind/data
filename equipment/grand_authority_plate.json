@@ -19,7 +19,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "grand_authority_plate := 165 ttl",
+  "reqs": "grand_authority_plate := 165r TTL",
   "voi": false,
   "desc": "..."
 }

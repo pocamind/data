@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "finishers_ring := 165 ttl",
+  "reqs": "finishers_ring := 165r TTL",
   "voi": false,
   "desc": "Extra PEN on attacks that flourish opponents."
 }

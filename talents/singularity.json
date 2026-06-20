@@ -2,7 +2,7 @@
   "name": "Singularity",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "shadowcaster => singularity := 40s SDW",
+  "reqs": "singularity := 40s SDW",
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

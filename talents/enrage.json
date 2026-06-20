@@ -2,7 +2,7 @@
   "name": "Enrage",
   "category": "Instigator",
   "rarity": "Common",
-  "reqs": "enrage := 65s CHA",
+  "reqs": "encore => enrage := 65s CHA",
   "count_towards_talent_total": true,
   "icon": "Anger",
   "roll2able": true,

@@ -15,7 +15,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "winter_corps_boots := 105 ttl",
+  "reqs": "winter_corps_boots := 90r TTL",
   "voi": false,
   "desc": "..."
 }

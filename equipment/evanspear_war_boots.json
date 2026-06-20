@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "evanspear_war_boots := 165 ttl",
+  "reqs": "evanspear_war_boots := 165r TTL",
   "voi": false,
   "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash."
 }

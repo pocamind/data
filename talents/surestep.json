@@ -2,7 +2,7 @@
   "name": "Surestep",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "surestep := ()",
+  "reqs": "delver_boots => surestep := ()",
   "additional_info": "Makes you immune to the ragdoll and movement speed debuff of the Wind from the Second Layer and Moon's Eyrie.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

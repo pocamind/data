@@ -2,7 +2,7 @@
   "name": "Frozen Pin-Cushion",
   "category": "Ice Age",
   "rarity": "Rare",
-  "reqs": "frozen_pin_cushion := 60s ICE",
+  "reqs": "ice_daggers => frozen_pin_cushion := 60s ICE",
   "additional_info": "Instantly detonates crystals if you have Crystallization Path.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

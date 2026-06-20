@@ -2,7 +2,7 @@
   "name": "Audacity",
   "category": "Tyrant",
   "rarity": "Advanced",
-  "reqs": "audacity := 50s STR, 100s CHA",
+  "reqs": "audacity := 100s CHA, 50s STR",
   "additional_info": "Applies true stun to nearby enemies when you start a manual execution on a humanoid target. 25 second cooldown. The buff duration will be reduced by 0.1 seconds for every point of Charisma and Strength you are below Audacity's requirements, capping at a minimum 35 second duration with 75 Charisma and 25 Strength.",
   "count_towards_talent_total": true,
   "icon": "Climb",

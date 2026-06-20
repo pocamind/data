@@ -2,7 +2,7 @@
   "name": "Enforcer's Pull",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "enforcers_pull := ()",
+  "reqs": "reinforced_enforcer => enforcers_pull := ()",
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

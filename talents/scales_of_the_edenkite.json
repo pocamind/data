@@ -2,7 +2,7 @@
   "name": "Scales of the Edenkite",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "scales_of_the_edenkite := ()",
+  "reqs": "drakkard => scales_of_the_edenkite := ()",
   "additional_info": "Grants a Talent tool that lasts 5 seconds with a 3 minute cooldown. The deaggro effect only works in PvE, and is extremely ineffective, as most enemies will immediately reaggro. The deaggro effect does not work against bosses or in Depths Trials.",
   "count_towards_talent_total": false,
   "icon": "Shield",

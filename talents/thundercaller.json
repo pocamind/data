@@ -2,7 +2,7 @@
   "name": "Thundercaller",
   "category": "Thundercaller",
   "rarity": "Common",
-  "reqs": "thundercaller := 1 LTN",
+  "reqs": "thundercaller := 1s LTN",
   "count_towards_talent_total": false,
   "icon": "Shock",
   "roll2able": false,

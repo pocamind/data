@@ -2,7 +2,7 @@
   "name": "Justicar's Technique",
   "category": "The Path, Unveiled",
   "rarity": "Faction",
-  "reqs": "justicars_technique := ()",
+  "reqs": "justicar => justicars_technique := ()",
   "additional_info": "Replaces your weapon's running attack animation with the Jus Karita one, and adds 0.5 range to your running attacks.",
   "count_towards_talent_total": false,
   "icon": "Boots",

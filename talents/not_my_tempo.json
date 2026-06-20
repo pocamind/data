@@ -2,7 +2,7 @@
   "name": "Not My Tempo",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "not_my_tempo := ()",
+  "reqs": "spear_dancer => not_my_tempo := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

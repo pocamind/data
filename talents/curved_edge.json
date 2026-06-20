@@ -2,7 +2,7 @@
   "name": "Curved Edge",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "curved_edge := ()",
+  "reqs": "nemits_sickle => curved_edge := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

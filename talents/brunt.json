@@ -2,7 +2,7 @@
   "name": "Brunt",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "brunt := ()",
+  "reqs": "hive_tactician_armor => brunt := ()",
   "additional_info": "Reduce posture damage taken by 10% while 2 handing a weapon.",
   "count_towards_talent_total": false,
   "icon": "Fist",

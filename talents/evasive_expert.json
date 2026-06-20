@@ -2,7 +2,7 @@
   "name": "Evasive Expert",
   "category": "Butterfly",
   "rarity": "Rare",
-  "reqs": "swift_rebound => evasive_expert := 15s AGL",
+  "reqs": "flame_worshipper => evasive_expert := 90s TTL",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

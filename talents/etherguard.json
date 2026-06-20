@@ -2,7 +2,7 @@
   "name": "Etherguard",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "etherguard := ()",
+  "reqs": "bluestone => etherguard := ()",
   "additional_info": "When landing a Mantra with a Warped Blue Gem equipped, gain the Etherguard status effect, granting you damage reduction to Mantras and elemental resistance in PvE. The damage reduction for Mantras scales on the Ether cost of the Mantra you got hit by.",
   "count_towards_talent_total": false,
   "icon": "Brain",

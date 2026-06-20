@@ -2,7 +2,7 @@
   "name": "Metal Shackles",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "metal_shackles := 15s STR, 40s MTL",
+  "reqs": "metal_shackles := 40s MTL, 15s STR",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": true,

@@ -2,7 +2,7 @@
   "name": "Thundercall Unbounded",
   "category": "Thundercall Master",
   "rarity": "Common",
-  "reqs": "thundercall_unbounded := 75s LTN",
+  "reqs": "master_thundercaller => thundercall_unbounded := 75s LTN",
   "additional_info": "Removes the 75 investment cap on the Thundercall Attribute. This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "icon": "Shock",

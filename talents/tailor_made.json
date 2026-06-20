@@ -2,7 +2,7 @@
   "name": "Tailor Made",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "tailor_made := ()",
+  "reqs": "etrean => tailor_made := ()",
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

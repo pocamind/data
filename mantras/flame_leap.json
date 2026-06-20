@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "flame_leap := 30r FLM",
+  "reqs": "flame_worshipper => flame_leap := 90r TTL",
   "damage": [
     {
       "variant": null,

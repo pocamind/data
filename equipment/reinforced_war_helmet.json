@@ -21,7 +21,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "reinforced_war_helmet := 315 ttl",
+  "reqs": "reinforced_war_helmet := 315r TTL",
   "voi": false,
   "desc": "Hell hath no fury like an Evanspear."
 }

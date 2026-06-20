@@ -2,7 +2,7 @@
   "name": "Precision Crusher",
   "category": "Greatarcher",
   "rarity": "Rare",
-  "reqs": "precision_crusher := ()",
+  "reqs": "hard_stop => precision_crusher := 75s STR",
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": false,

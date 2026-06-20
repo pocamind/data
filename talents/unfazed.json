@@ -2,7 +2,7 @@
   "name": "Unfazed",
   "category": "Sturdy Resolve",
   "rarity": "Common",
-  "reqs": "grasp_on_reality => unfazed := 50s FTD, 50s WLL",
+  "reqs": "grasp_on_reality => unfazed := 50s WLL, 50s FTD",
   "additional_info": "You now shiver at tier 2 Insanity instead of Tier 1. You now scratch yourself at tier 3 Insanity instead of tier 2. You can no longer Panic.",
   "count_towards_talent_total": true,
   "icon": "Fist",

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "ice_carve := 30r ICE",
+  "reqs": "saint_jay => ice_carve := 315r TTL",
   "damage": [
     {
       "variant": null,

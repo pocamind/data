@@ -2,7 +2,7 @@
   "name": "Potion Quaffer",
   "category": "Alchemist",
   "rarity": "Rare",
-  "reqs": "potion_quaffer_wil := 15r WLL or 15r FTD, 30s INT",
+  "reqs": "potion_quaffer := 30s INT, 15r FTD OR 15r WLL",
   "additional_info": "Drink potions 30% faster. Increases the effectiveness of Health Regeneration potions by 15%, Sanity Restoration and Ether Regeneration potions by 30%, and removes the -25% effectiveness Instant Health potions have.",
   "count_towards_talent_total": true,
   "icon": "Potion",

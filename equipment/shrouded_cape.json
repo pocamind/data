@@ -25,7 +25,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "shrouded_cape := 90r ttl",
+  "reqs": "shrouded_cape := 90r TTL",
   "voi": false,
   "wiki": "",
   "desc": "..."

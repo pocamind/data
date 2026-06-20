@@ -5,7 +5,7 @@
   "damage": 25,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "kanabo := 40r STR, 100r HVY",
+  "reqs": "kanabo := 100r HVY, 40r STR",
   "damage_types": [
     "Blunt"
   ],

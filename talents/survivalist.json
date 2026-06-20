@@ -2,7 +2,7 @@
   "name": "Survivalist",
   "category": "Pathfinder",
   "rarity": "Equipment",
-  "reqs": "survivalist := ()",
+  "reqs": "pathfinder_cloak, rangers_boots => survivalist := ()",
   "additional_info": "Take less damage from Acid Rain.",
   "count_towards_talent_total": false,
   "icon": "Lungs",

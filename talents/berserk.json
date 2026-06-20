@@ -2,7 +2,7 @@
   "name": "Berserk",
   "category": "Berserker",
   "rarity": "Common",
-  "reqs": "berserk := 80s STR",
+  "reqs": "berserker => berserk := ()",
   "additional_info": "Grants a Talent tool that nullifies your armor and natural armor on use. While active, your M1s nullify your opponent's armor, and your criticals gain +10% PEN. This procs effects that only activate if you or your opponent had no armor durability. Lasts 20 seconds, halved to 10 if you do not meet the Talent requirements.",
   "count_towards_talent_total": false,
   "icon": "Anger",

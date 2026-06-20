@@ -27,7 +27,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "assassins_cloak := 165 ttl",
+  "reqs": "assassins_cloak := 165r TTL",
   "voi": false,
   "desc": "..."
 }

@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "kabuto := ()",
+  "reqs": "kabuto := 90r TTL",
   "voi": false,
   "desc": "..."
 }

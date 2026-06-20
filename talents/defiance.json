@@ -2,7 +2,7 @@
   "name": "Defiance",
   "category": "Champion",
   "rarity": "Rare",
-  "reqs": "defiance := 70s WLL",
+  "reqs": "berserker => defiance := ()",
   "additional_info": "The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement. Works on: Burn damage, the duration of Chill, Winded, Suffocation, time knocked, Ring of Pestilence, and Sightless Still, Crystal and Surge Rod gain, Blood Poisoning gain and Wither gain.",
   "count_towards_talent_total": false,
   "icon": "Climb",

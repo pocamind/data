@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "crystal_knee := 40r ICE",
+  "reqs": "glass_path_crystallization => crystal_knee := 30r ICE",
   "damage": [
     {
       "variant": null,

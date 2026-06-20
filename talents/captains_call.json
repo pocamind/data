@@ -2,7 +2,7 @@
   "name": "Captain's Call",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "captains_call := ()",
+  "reqs": "blackalloy => captains_call := ()",
   "additional_info": "On use, this summons two allied Blacksteel Pirates to assist you. 5 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

@@ -2,7 +2,7 @@
   "name": "Authority Intimidation",
   "category": "Authority Interrogator",
   "rarity": "Common",
-  "reqs": "thundercaller => authority_intimidation := 60s LTN",
+  "reqs": "authority_intimidation := 165s TTL, 60s LTN",
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

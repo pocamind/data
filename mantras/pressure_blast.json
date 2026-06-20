@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "pressure_blast := 30r HVY",
+  "reqs": "berserker, saint_jay => pressure_blast := ()",
   "damage": [
     {
       "variant": null,

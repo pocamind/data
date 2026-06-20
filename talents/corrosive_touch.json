@@ -2,7 +2,7 @@
   "name": "Corrosive Touch",
   "category": "Bruiser",
   "rarity": "Outfit",
-  "reqs": "corrosive_touch := ()",
+  "reqs": "arachnids_weave => corrosive_touch := ()",
   "additional_info": "On proc, drain 5% of your opponent's armor. This has a 10 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

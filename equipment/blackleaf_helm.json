@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "blackleaf_helm := 165 ttl",
+  "reqs": "blackleaf_helm := 165r TTL",
   "voi": false,
   "desc": "..."
 }

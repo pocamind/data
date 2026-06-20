@@ -2,7 +2,7 @@
   "name": "Spark of Theros",
   "category": "Theros Disciple",
   "rarity": "Memento",
-  "reqs": "spark_of_theros := ()",
+  "reqs": "theros_disciple => spark_of_theros := ()",
   "additional_info": "Turns your Thundercall white and changes your Shock to Blightshock, applying Wither to affected targets.",
   "count_towards_talent_total": false,
   "icon": "Shock",

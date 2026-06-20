@@ -2,7 +2,7 @@
   "name": "Hard Stop",
   "category": "Greatarcher",
   "rarity": "Rare",
-  "reqs": "hard_stop := 55s STR",
+  "reqs": "bodkin_arrow => hard_stop := ()",
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": false,

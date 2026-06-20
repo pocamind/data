@@ -17,7 +17,7 @@
     }
   },
   "pips": {},
-  "reqs": "guardian_helmet := 10 ftd",
+  "reqs": "guardian_helmet := ()",
   "voi": false,
   "desc": "The imposing helm of a guardian."
 }

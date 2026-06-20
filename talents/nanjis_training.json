@@ -2,7 +2,7 @@
   "name": "Nanji's Training",
   "category": "Quest",
   "rarity": "Quest",
-  "reqs": "nanjis_training := ()",
+  "reqs": "travelling_blade => nanjis_training := ()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

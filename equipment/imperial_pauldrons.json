@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "imperial_pauldrons := 135 ttl",
+  "reqs": "imperial_pauldrons := 135r TTL",
   "voi": false,
   "desc": "..."
 }

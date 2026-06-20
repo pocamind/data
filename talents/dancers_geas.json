@@ -2,7 +2,7 @@
   "name": "Dancer's Geas",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "dancers_geas := ()",
+  "reqs": "spear_dancer => dancers_geas := ()",
   "additional_info": "Also procs on weapon criticals. When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff. When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.",
   "count_towards_talent_total": false,
   "icon": "Sword",

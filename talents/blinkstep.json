@@ -2,7 +2,7 @@
   "name": "Blinkstep",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "blinkstep := ()",
+  "reqs": "drifter => blinkstep := ()",
   "additional_info": "If you have 90% or more Ether, your regular dash will be replaced with a Blinkstep. This has much more distance than a regular dash. Consumes Ether on use.",
   "count_towards_talent_total": false,
   "icon": "Boots",
