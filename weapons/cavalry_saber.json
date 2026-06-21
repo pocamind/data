@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "authority_ensign => cavalry_saber := 40r MED",
+  "reqs": "cavalry_saber := 40r MED",
   "damage_types": [
     "Slash"
   ],

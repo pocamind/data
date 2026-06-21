@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 7,
   "range": 8,
-  "reqs": "authority_ensign => alloyed_adretian_axe := 75r HVY",
+  "reqs": "alloyed_adretian_axe := 75r HVY",
   "damage_types": [
     "Slash"
   ],
