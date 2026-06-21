@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "authority_ensign => rifle_spear := 75r MED",
+  "reqs": "rifle_spear := 75r MED",
   "damage_types": [
     "Slash"
   ],
@@ -19,5 +19,5 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protÃ©gÃ© of Rosen. It's said that Hierka hid his origins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets."
+  "desc": "A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protÃƒÂ©gÃƒÂ© of Rosen. It's said that Hierka hid his origins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets."
 }
