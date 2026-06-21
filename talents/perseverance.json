@@ -2,7 +2,7 @@
   "name": "Perseverance",
   "category": "Bastion",
   "rarity": "Common",
-  "reqs": "berserker => perseverance := ()",
+  "reqs": "perseverance := 30s FTD, 30s WLL",
   "additional_info": "This can stack with other Talents to reduce knock time even further. (Ex. Defiance)",
   "count_towards_talent_total": false,
   "icon": "Climb",

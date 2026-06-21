@@ -2,7 +2,7 @@
   "name": "Crippling Darkness",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "moonseye, prophets_cloak, saint_jay => crippling_darkness := ()",
+  "reqs": "prophets_cloak => crippling_darkness := ()",
   "additional_info": "Grants +20% PEN to any non-weapon attack. This not only affects Mantras, but things like Bleed or Burn too.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

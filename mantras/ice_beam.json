@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "saint_jay => ice_beam := ()",
+  "reqs": "ice_beam := 1r ICE",
   "damage": [
     {
       "variant": null,

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "flame_worshipper => fire_blade := 90r TTL",
+  "reqs": "fire_blade := 1r FLM",
   "damage": [
     {
       "variant": null,

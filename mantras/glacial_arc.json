@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "saint_jay => glacial_arc := ()",
+  "reqs": "glacial_arc := 20r ICE",
   "damage": [
     {
       "variant": null,

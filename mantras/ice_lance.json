@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "saint_jay => ice_lance := ()",
+  "reqs": "ice_lance := 30r ICE",
   "damage": [
     {
       "variant": null,

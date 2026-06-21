@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "berserker => brace := ()",
+  "reqs": "brace := 75r FTD",
   "damage": [
     {
       "variant": null,

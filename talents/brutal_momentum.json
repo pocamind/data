@@ -2,7 +2,7 @@
   "name": "Brutal Momentum",
   "category": "Weapon Master",
   "rarity": "Common",
-  "reqs": "saint_jay => brutal_momentum := 90s TTL",
+  "reqs": "brutal_momentum := 50s HVY",
   "count_towards_talent_total": false,
   "icon": "Greatsword",
   "roll2able": false,

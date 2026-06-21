@@ -2,7 +2,7 @@
   "name": "Explosive Finish",
   "category": "The Demon Blade",
   "rarity": "Common",
-  "reqs": "flame_worshipper => explosive_finish := 165s TTL",
+  "reqs": "explosive_finish := 45s FLM",
   "additional_info": "Deals 5 Flamecharm damage. Upon proccing Emperor Flame, this Talent will be put on a 3s cd.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

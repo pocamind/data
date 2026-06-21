@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "berserker => flashdraw_strike := 165r TTL",
+  "reqs": "flashdraw_strike := 60r MED, 25r AGL",
   "damage": [
     {
       "variant": null,

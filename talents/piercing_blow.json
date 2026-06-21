@@ -2,7 +2,7 @@
   "name": "Piercing Blow",
   "category": "Raging Bull",
   "rarity": "Advanced",
-  "reqs": "berserker => piercing_blow := 165s TTL",
+  "reqs": "piercing_blow := 100s STR",
   "additional_info": "If you do not have 100 Strength, this Talent will instead halve your opponent's armor resistances multiplicatively, before PEN on proc.",
   "count_towards_talent_total": false,
   "icon": "Fist",

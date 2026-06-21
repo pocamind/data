@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "saint_jay => ice_smash := 240r TTL",
+  "reqs": "ice_smash := 20r ICE",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Vengeful Pursuit",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "berserker => vengeful_pursuit := 240s TTL",
+  "reqs": "oath_silentheart => vengeful_pursuit := ()",
   "additional_info": "Base damage and scaling differ depending on weapon type. 8 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

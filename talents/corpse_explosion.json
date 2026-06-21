@@ -2,7 +2,7 @@
   "name": "Corpse Explosion",
   "category": "Inferno",
   "rarity": "Common",
-  "reqs": "flame_worshipper => corpse_explosion := ()",
+  "reqs": "agitating_spark => corpse_explosion := 60s FLM",
   "additional_info": "Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7. The explosion does not work.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

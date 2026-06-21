@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "berserker => onslaught := 240r TTL",
+  "reqs": "onslaught := 50r HVY",
   "damage": [
     {
       "variant": null,
