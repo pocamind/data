@@ -2,7 +2,7 @@
   "name": "Punishing Blow",
   "category": "Tactician",
   "rarity": "Rare",
-  "reqs": "saint_jay => punishing_blow := ()",
+  "reqs": "punishing_blow := 20s HVY",
   "additional_info": "If you M1 your opponent during their M1 animation, they will be dazed for 1 second. Also procs if you land a critical with the M1 tag during their M1 animation.",
   "count_towards_talent_total": false,
   "icon": "Greatsword",

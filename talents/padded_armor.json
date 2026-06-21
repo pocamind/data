@@ -2,7 +2,7 @@
   "name": "Padded Armor",
   "category": "Natural Armor",
   "rarity": "Common",
-  "reqs": "berserker => padded_armor := ()",
+  "reqs": "padded_armor := 135s TTL",
   "additional_info": "The 3% Blunt Armor is multiplicative with other sources of Blunt resistance.",
   "count_towards_talent_total": false,
   "icon": "Shield",

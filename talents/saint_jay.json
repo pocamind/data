@@ -2,7 +2,7 @@
   "name": "Saint Jay",
   "category": "Ice Age",
   "rarity": "Rare",
-  "reqs": "saint_jay => saint_jay := ()",
+  "reqs": "frostbite => saint_jay := ()",
   "additional_info": "You can only steal non-passive healing. On Crystal Path, applying a Crystal will proc Saint Jay for 2 seconds. You cannot steal healing that you apply.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

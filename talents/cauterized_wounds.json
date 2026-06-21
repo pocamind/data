@@ -2,7 +2,7 @@
   "name": "Cauterized Wounds",
   "category": "Flame Warden",
   "rarity": "Common",
-  "reqs": "flame_worshipper => cauterized_wounds := 90s TTL",
+  "reqs": "cauterized_wounds := 40s FLM, 5s FTD",
   "additional_info": "Does not reduce the blood damage of 'blood drain' effects, such as casting or being hit by Bloodrend Mantras, blood drain potions, and the blood loss Corrupt Resonance downside. Stacks multiplicatively with Alloyblood. The effectiveness of this Talent is reduced if you are using the Curse of the No Life King enchantment.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

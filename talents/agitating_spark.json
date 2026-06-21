@@ -2,7 +2,7 @@
   "name": "Agitating Spark",
   "category": "Immolator",
   "rarity": "Common",
-  "reqs": "flame_worshipper => agitating_spark := ()",
+  "reqs": "agitating_spark := 40s FLM",
   "additional_info": "On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire and granting Emperor Flame stacks. Agitating Spark bypasses block and parry. Agitating Spark procs from self damage do not apply burn. 1 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

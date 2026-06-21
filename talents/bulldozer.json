@@ -2,7 +2,7 @@
   "name": "Bulldozer",
   "category": "Raging Bull",
   "rarity": "Rare",
-  "reqs": "berserker => bulldozer := ()",
+  "reqs": "bulldozer := 25s STR",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

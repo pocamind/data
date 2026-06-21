@@ -2,7 +2,7 @@
   "name": "Safety Dance",
   "category": "Leaf in the Wind",
   "rarity": "Rare",
-  "reqs": "flame_worshipper => safety_dance := 90s TTL",
+  "reqs": "safety_dance := 20s AGL",
   "additional_info": "Dodge IFrames increased from 0.3s to 0.35s.",
   "count_towards_talent_total": false,
   "icon": "Boots",

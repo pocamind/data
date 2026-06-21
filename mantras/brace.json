@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "berserker => brace := ()",
+  "reqs": "brace := 75r FTD",
   "miscellaneous": "The hyperarmor will end early if you cast any Mantra.",
   "voi": true,
   "desc": "Brace yourself against attacks and gain hyperarmour."

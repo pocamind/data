@@ -2,7 +2,7 @@
   "name": "Cold Front",
   "category": "Frostdrawer",
   "rarity": "Common",
-  "reqs": "saint_jay => cold_front := 165s TTL",
+  "reqs": "cold_front := 25s ICE",
   "additional_info": "Venting creates an ice patch on the floor and applies Chill to any enemy hit by it. Increases your Vent damage by 40% and changes its damage type to Frostdraw.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

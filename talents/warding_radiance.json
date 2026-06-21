@@ -2,7 +2,7 @@
   "name": "Warding Radiance",
   "category": "Flame Warden",
   "rarity": "Rare",
-  "reqs": "flame_worshipper => warding_radiance := 165s TTL",
+  "reqs": "warding_radiance := 30s FLM, 20s AGL",
   "additional_info": "Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't Fire Forge while you have the halo active. Lasts 60 seconds, but cannot be refreshed.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

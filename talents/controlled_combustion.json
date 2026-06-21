@@ -2,7 +2,7 @@
   "name": "Controlled Combustion",
   "category": "Tamed Flame",
   "rarity": "Common",
-  "reqs": "flame_worshipper => controlled_combustion := ()",
+  "reqs": "agitating_spark => controlled_combustion := 40s CHA",
   "additional_info": "Your Agitating Spark cannot spread to you either.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

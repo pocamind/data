@@ -2,7 +2,7 @@
   "name": "Shield Breaker",
   "category": "Rampaging Brute",
   "rarity": "Common",
-  "reqs": "saint_jay => shield_breaker := 240s TTL",
+  "reqs": "unwavering_resolve => shield_breaker := 60s STR",
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,
