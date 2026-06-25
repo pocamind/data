@@ -8,7 +8,7 @@
   "icon": "Orb",
   "roll2able": true,
   "stats": {
-    "Pen": 0.05
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,
