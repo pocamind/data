@@ -8,7 +8,7 @@
   "icon": "Shield",
   "roll2able": false,
   "stats": {
-    "Blunt Armor": 0.03
+    "Blunt Armor": 3
   },
   "vaulted": false,
   "voi": true,
