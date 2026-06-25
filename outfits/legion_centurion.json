@@ -19,10 +19,10 @@
   "shirt_id": "7787127693",
   "reqs": "legion_centurion := 240r TTL, 10r FTD",
   "resistances": {
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.3,
-    "Wind Resistance": 0.05,
-    "Shadow Resistance": 0.05
+    "Physical Resistance": 30,
+    "Elemental Resistance": 30,
+    "Wind Resistance": 5,
+    "Shadow Resistance": 5
   },
   "talent": "Centurion's Resolve",
   "desc": "Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata."

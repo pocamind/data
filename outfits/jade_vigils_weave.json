@@ -16,10 +16,10 @@
   "shirt_id": "16220418770",
   "durability": 2800,
   "resistances": {
-    "Wind Resistance": 0.15,
-    "Blood Resistance": 0.25,
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.25
+    "Wind Resistance": 15,
+    "Blood Resistance": 25,
+    "Physical Resistance": 30,
+    "Elemental Resistance": 25
   },
   "extra_percents": {
     "Ether Regen": 25,

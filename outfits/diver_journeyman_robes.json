@@ -14,9 +14,9 @@
   "category": "Expert",
   "durability": 1000,
   "resistances": {
-    "Physical Resistance": 0.3,
-    "Blunt Resistance": 0.1,
-    "Elemental Resistance": 0.2
+    "Physical Resistance": 30,
+    "Blunt Resistance": 10,
+    "Elemental Resistance": 20
   },
   "extra_percents": {
     "Ether Regen": 0,

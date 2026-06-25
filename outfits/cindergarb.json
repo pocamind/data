@@ -14,10 +14,10 @@
   "category": "Unique",
   "durability": 3000,
   "resistances": {
-    "Physical Resistance": 0.25,
-    "Elemental Resistance": 0.3,
-    "Flame Resistance": 0.2,
-    "Metal Resistance": 0.15
+    "Physical Resistance": 25,
+    "Elemental Resistance": 30,
+    "Flame Resistance": 20,
+    "Metal Resistance": 15
   },
   "extra_percents": {
     "Ether Regen": 75,

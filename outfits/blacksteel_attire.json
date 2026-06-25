@@ -9,9 +9,9 @@
   "category": "Unique",
   "durability": 1000,
   "resistances": {
-    "Physical Resistance": 0.3,
-    "Slash Resistance": 0.1,
-    "Flame Resistance": 0.35
+    "Physical Resistance": 30,
+    "Slash Resistance": 10,
+    "Flame Resistance": 35
   },
   "extra_percents": {
     "Ether Regen": 0,

@@ -9,10 +9,10 @@
   "category": "Spec",
   "durability": 2600,
   "resistances": {
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.3,
-    "Thunder Resistance": 0.2,
-    "Shadow Resistance": 0.2
+    "Physical Resistance": 30,
+    "Elemental Resistance": 30,
+    "Thunder Resistance": 20,
+    "Shadow Resistance": 20
   },
   "extra_percents": {
     "Ether Regen": 100,

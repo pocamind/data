@@ -11,6 +11,6 @@
   "icon": "Leaf",
   "roll2able": true,
   "stats": {
-    "carry_load": 10
+    "Carry Load": 10
   }
 }

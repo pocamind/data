@@ -10,7 +10,7 @@
     "Omen"
   ],
   "innates": {
-    "Damage Vs Monsters": {
+    "Damage vs. Monsters": {
       "value": 5,
       "percentage": true
     }

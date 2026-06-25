@@ -20,11 +20,11 @@
   "notes": 1000,
   "reqs": "celtorian_tideknight := 240r TTL",
   "resistances": {
-    "Blunt Resistance": 0.05,
-    "Elemental Resistance": 0.25,
-    "Ice Resistance": 0.05,
-    "Physical Resistance": 0.3,
-    "Shadow Resistance": 0.1
+    "Blunt Resistance": 5,
+    "Elemental Resistance": 25,
+    "Ice Resistance": 5,
+    "Physical Resistance": 30,
+    "Shadow Resistance": 10
   },
   "talent": "Tidekeeper",
   "desc": "..."

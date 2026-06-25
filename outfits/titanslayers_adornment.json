@@ -19,8 +19,8 @@
   "category": "Master",
   "durability": 3300,
   "resistances": {
-    "Physical Resistance": 0.25,
-    "Elemental Resistance": 0.4
+    "Physical Resistance": 25,
+    "Elemental Resistance": 40
   },
   "extra_percents": {
     "Ether Regen": 25,

@@ -12,7 +12,7 @@
   "category": "Unobtainable",
   "durability": 500,
   "resistances": {
-    "Slash Resistance": 0.2
+    "Slash Resistance": 20
   },
   "extra_percents": {
     "Ether Regen": 0,
