@@ -17,10 +17,10 @@
   "category": "Starter",
   "durability": 2400,
   "resistances": {
-    "Physical Resistance": 0.25,
-    "Elemental Resistance": 0.3,
-    "Shadow Resistance": 0.2,
-    "Metal Resistance": 0.25
+    "Physical Resistance": 25,
+    "Elemental Resistance": 30,
+    "Shadow Resistance": 20,
+    "Metal Resistance": 25
   },
   "extra_percents": {
     "Ether Regen": 50,

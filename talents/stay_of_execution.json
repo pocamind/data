@@ -10,6 +10,6 @@
   "icon": "Eye",
   "roll2able": false,
   "stats": {
-    "sanity": 6
+    "Sanity": 6
   }
 }

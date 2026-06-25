@@ -14,11 +14,11 @@
   "shirt_id": "127010889576907",
   "durability": 3500,
   "resistances": {
-    "Ice Resistance": 0.1,
-    "Flame Resistance": 0.1,
-    "Thunder Resistance": 0.1,
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.3
+    "Ice Resistance": 10,
+    "Flame Resistance": 10,
+    "Thunder Resistance": 10,
+    "Physical Resistance": 30,
+    "Elemental Resistance": 30
   },
   "extra_percents": {
     "Ether Regen": 15,

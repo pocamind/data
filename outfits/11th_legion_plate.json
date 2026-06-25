@@ -14,8 +14,8 @@
   "category": "Adept",
   "durability": 1500,
   "resistances": {
-    "Blunt Resistance": 0.3,
-    "Physical Resistance": 0.1
+    "Blunt Resistance": 30,
+    "Physical Resistance": 10
   },
   "extra_percents": {
     "Ether Regen": 0,

@@ -9,8 +9,8 @@
   "category": "Unique",
   "durability": 9999,
   "resistances": {
-    "Physical Resistance": 0.1,
-    "Elemental Resistance": 0.1
+    "Physical Resistance": 10,
+    "Elemental Resistance": 10
   },
   "extra_percents": {
     "Ether Regen": 0,

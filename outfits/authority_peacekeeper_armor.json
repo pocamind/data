@@ -13,10 +13,10 @@
   "category": "Adept",
   "durability": 1600,
   "resistances": {
-    "Physical Resistance": 0.15,
-    "Slash Resistance": 0.1,
-    "Elemental Resistance": 0.1,
-    "Flame Resistance": 0.15
+    "Physical Resistance": 15,
+    "Slash Resistance": 10,
+    "Elemental Resistance": 10,
+    "Flame Resistance": 15
   },
   "extra_percents": {
     "Ether Regen": 0,

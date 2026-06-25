@@ -13,8 +13,8 @@
   "category": "Starter",
   "durability": 1200,
   "resistances": {
-    "Physical Resistance": 0.12,
-    "Elemental Resistance": 0.12
+    "Physical Resistance": 12,
+    "Elemental Resistance": 12
   },
   "extra_percents": {
     "Ether Regen": 0,

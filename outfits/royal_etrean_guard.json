@@ -15,8 +15,8 @@
   "shirt_id": "4872573068",
   "durability": 3000,
   "resistances": {
-    "Physical Resistance": 0.3,
-    "Elemental Resistance": 0.3
+    "Physical Resistance": 30,
+    "Elemental Resistance": 30
   },
   "extra_percents": {
     "Ether Regen": 20,
