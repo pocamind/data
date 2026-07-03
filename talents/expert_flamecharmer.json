@@ -5,6 +5,7 @@
   "reqs": "adept_flamecharmer => expert_flamecharmer := 30s FLM",
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Blaze",
   "roll2able": false,
   "vaulted": false,

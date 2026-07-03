@@ -5,6 +5,7 @@
   "reqs": "expert_ironsinger => master_ironsinger := 50s MTL",
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Ferrofluid",
   "roll2able": false,
   "stats": {
