@@ -2,9 +2,10 @@
   "name": "Bloodrend Unbounded",
   "category": "Bloodrend Master",
   "rarity": "Common",
-  "reqs": "master_bloodrender => bloodrend_unbounded := 75s BLD",
+  "reqs": "master_bloodrender => bloodrend_unbounded := 75r BLD",
   "additional_info": "Removes the 75 investment cap on the Bloodrend Attribute. This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Blood",
   "roll2able": false,
   "stats": {
