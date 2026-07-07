@@ -22,5 +22,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "A garb commonly worn by shadowy thieves and assassins, excellent for sneaking up on enemies."
+  "desc": "A garb commonly worn by shadowy thieves and assassins, excellent for sneaking up on enemies.",
+  "voi_only": false
 }

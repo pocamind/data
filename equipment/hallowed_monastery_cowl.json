@@ -20,5 +20,6 @@
   },
   "reqs": "hallowed_monastery_cowl := 105r TTL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed."
+  "desc": "After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.",
+  "voi_only": false
 }

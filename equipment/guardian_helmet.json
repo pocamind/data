@@ -19,5 +19,6 @@
   "pips": {},
   "reqs": "guardian_helmet := ()",
   "voi": false,
-  "desc": "The imposing helm of a guardian."
+  "desc": "The imposing helm of a guardian.",
+  "voi_only": false
 }

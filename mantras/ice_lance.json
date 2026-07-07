@@ -46,5 +46,6 @@
     "Gale Lunge"
   ],
   "voi": true,
-  "desc": "Form an ice spear and lunges forward."
+  "desc": "Form an ice spear and lunges forward.",
+  "voi_only": false
 }

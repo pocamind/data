@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Create weapons on your arms and dash through."
+  "desc": "Create weapons on your arms and dash through.",
+  "voi_only": false
 }

@@ -27,5 +27,6 @@
   },
   "reqs": "deepwoken_cloak := 165r TTL",
   "voi": false,
-  "desc": "An ancient cloak of incredible power. Worn by a select few."
+  "desc": "An ancient cloak of incredible power. Worn by a select few.",
+  "voi_only": false
 }

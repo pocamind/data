@@ -55,5 +55,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "Go forth with spinning kicks infused with the wind"
+  "desc": "Go forth with spinning kicks infused with the wind",
+  "voi_only": false
 }

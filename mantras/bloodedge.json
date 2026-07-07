@@ -39,5 +39,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Conjure a scythe of blood and swing."
+  "desc": "Conjure a scythe of blood and swing.",
+  "voi_only": false
 }

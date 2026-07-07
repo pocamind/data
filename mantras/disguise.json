@@ -52,5 +52,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "Take on an unimaginable disguise."
+  "desc": "Take on an unimaginable disguise.",
+  "voi_only": false
 }

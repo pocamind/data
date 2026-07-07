@@ -99,5 +99,6 @@
     "Throw"
   ],
   "voi": false,
-  "desc": "An electrified chokehold."
+  "desc": "An electrified chokehold.",
+  "voi_only": false
 }

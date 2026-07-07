@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Press CTRL + M2 to activate a special uppercut attack."
+  "desc": "Press CTRL + M2 to activate a special uppercut attack.",
+  "voi_only": false
 }

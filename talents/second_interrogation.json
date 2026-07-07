@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Electrified attacks do 50% less damage and posture damage to you."
+  "desc": "Electrified attacks do 50% less damage and posture damage to you.",
+  "voi_only": false
 }

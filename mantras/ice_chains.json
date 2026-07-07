@@ -51,5 +51,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Chains of ice."
+  "desc": "Chains of ice.",
+  "voi_only": false
 }

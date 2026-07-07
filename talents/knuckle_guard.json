@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting Dazed enemies grants you 10% posture resistance for 15s."
+  "desc": "Hitting Dazed enemies grants you 10% posture resistance for 15s.",
+  "voi_only": false
 }

@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Posture damage is reduced by 15% when wielding a spear and standing still."
+  "desc": "Posture damage is reduced by 15% when wielding a spear and standing still.",
+  "voi_only": false
 }

@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "void_ring := ()",
   "voi": true,
-  "desc": "Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer."
+  "desc": "Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer.",
+  "voi_only": true
 }

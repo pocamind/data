@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras."
+  "desc": "When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.",
+  "voi_only": false
 }

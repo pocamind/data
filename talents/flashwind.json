@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds."
+  "desc": "Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.",
+  "voi_only": false
 }

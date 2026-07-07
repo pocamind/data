@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood."
+  "desc": "Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.",
+  "voi_only": false
 }

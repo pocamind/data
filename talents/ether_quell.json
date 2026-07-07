@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing a Critical Attack or Guardbreaking an opponent gives you 1 Ether Erudite Stack."
+  "desc": "Landing a Critical Attack or Guardbreaking an opponent gives you 1 Ether Erudite Stack.",
+  "voi_only": true
 }

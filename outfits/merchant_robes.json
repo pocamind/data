@@ -19,5 +19,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "A set of merchant robes, great for selling things not so great for battle."
+  "desc": "A set of merchant robes, great for selling things not so great for battle.",
+  "voi_only": false
 }

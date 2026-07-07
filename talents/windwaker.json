@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Call upon a gust of wind to propel your boat even faster."
+  "desc": "Call upon a gust of wind to propel your boat even faster.",
+  "voi_only": false
 }

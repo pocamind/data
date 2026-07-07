@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "You've done the unthinkable... merging nature and metal into a brutal instrument of destruction. The raw purple sheen of untreated pluripotent alloys twists through the craggy gnarled texture of the brute's skin, mirroring the crushing fists of Mudskipper Broodlords. Though not made from authentic materials, its added weight and durability are sure to leave no foe standing."
+  "desc": "You've done the unthinkable... merging nature and metal into a brutal instrument of destruction. The raw purple sheen of untreated pluripotent alloys twists through the craggy gnarled texture of the brute's skin, mirroring the crushing fists of Mudskipper Broodlords. Though not made from authentic materials, its added weight and durability are sure to leave no foe standing.",
+  "voi_only": false
 }

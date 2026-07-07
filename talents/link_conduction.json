@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "While you have active tethers your lightning mantras cost less ether."
+  "desc": "While you have active tethers your lightning mantras cost less ether.",
+  "voi_only": false
 }

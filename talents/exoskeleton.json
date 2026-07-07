@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active."
+  "desc": "You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.",
+  "voi_only": false
 }

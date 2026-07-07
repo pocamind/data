@@ -22,5 +22,6 @@
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "desc": "The visage of a five-eyed hound enters your mind unsolicited. Brr."
+  "desc": "The visage of a five-eyed hound enters your mind unsolicited. Brr.",
+  "voi_only": false
 }

@@ -58,5 +58,6 @@
     "Metal Absorption"
   ],
   "voi": false,
-  "desc": "Crush your opponents bones with an iron infused grab."
+  "desc": "Crush your opponents bones with an iron infused grab.",
+  "voi_only": false
 }

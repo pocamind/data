@@ -21,5 +21,6 @@
   },
   "reqs": "evanspear_war_helmet := 165r TTL",
   "voi": false,
-  "desc": "Hell hath no fury like an Evanspear."
+  "desc": "Hell hath no fury like an Evanspear.",
+  "voi_only": false
 }

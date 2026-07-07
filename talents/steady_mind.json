@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer."
+  "desc": "Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.",
+  "voi_only": true
 }

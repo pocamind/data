@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Is this safe to eat? We'll see..."
+  "desc": "Is this safe to eat? We'll see...",
+  "voi_only": false
 }

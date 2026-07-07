@@ -52,5 +52,6 @@
     "Spring Spark"
   ],
   "voi": false,
-  "desc": "A powerful kick laced with metal."
+  "desc": "A powerful kick laced with metal.",
+  "voi_only": false
 }

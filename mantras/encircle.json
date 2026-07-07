@@ -49,5 +49,6 @@
     "Shadowcast": 2.75
   },
   "voi": false,
-  "desc": "Conjure shadows around your enemy before warp-striking to them."
+  "desc": "Conjure shadows around your enemy before warp-striking to them.",
+  "voi_only": false
 }

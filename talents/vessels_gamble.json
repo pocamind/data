@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "When you get guardbroken you take 3 times the damage of the attack."
+  "desc": "When you get guardbroken you take 3 times the damage of the attack.",
+  "voi_only": true
 }

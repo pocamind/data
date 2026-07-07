@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "You no longer drop potions on death. You have a 25% chance to brew an extra potion.",
   "icon": "Potion",
-  "roll2able": true
+  "roll2able": true,
+  "voi_only": false
 }

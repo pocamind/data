@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements."
+  "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements.",
+  "voi_only": false
 }

@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Feinting gives a very brief auto-parry window."
+  "desc": "Feinting gives a very brief auto-parry window.",
+  "voi_only": false
 }

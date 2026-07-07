@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified."
+  "desc": "Anytime you take damage, there's a 10% chance it gets completely nullified. Anytime you deal damage, there's a 10% chance it also gets completely nullified.",
+  "voi_only": false
 }

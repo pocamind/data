@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff."
+  "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.",
+  "voi_only": true
 }

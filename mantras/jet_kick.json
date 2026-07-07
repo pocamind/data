@@ -32,5 +32,6 @@
   ],
   "miscellaneous": "Deals 20% more damage if used at max Momentum.",
   "voi": false,
-  "desc": "Rush forward with a jet kick. Requires a target if you're in combat."
+  "desc": "Rush forward with a jet kick. Requires a target if you're in combat.",
+  "voi_only": false
 }

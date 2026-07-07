@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage."
+  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.",
+  "voi_only": false
 }

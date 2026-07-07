@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency."
+  "desc": "Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency.",
+  "voi_only": true
 }

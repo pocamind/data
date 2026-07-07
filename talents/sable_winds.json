@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal."
+  "desc": "You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal.",
+  "voi_only": false
 }

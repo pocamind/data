@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras."
+  "desc": "Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.",
+  "voi_only": false
 }

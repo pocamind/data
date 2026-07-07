@@ -52,5 +52,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Rise up with your opponent and crash down as a bolt of lightning."
+  "desc": "Rise up with your opponent and crash down as a bolt of lightning.",
+  "voi_only": false
 }

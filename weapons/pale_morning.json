@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World."
+  "desc": "A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World.",
+  "voi_only": false
 }

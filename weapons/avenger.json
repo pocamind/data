@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A greatsword passed down by your ancestors."
+  "desc": "A greatsword passed down by your ancestors.",
+  "voi_only": false
 }

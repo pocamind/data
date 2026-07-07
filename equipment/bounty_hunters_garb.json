@@ -21,5 +21,6 @@
   },
   "reqs": "bounty_hunters_garb := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

@@ -50,5 +50,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "A servant of wind. Reduces fall damage by 20%. With Specter Path, makes your mantras give more Spectral Gauge. With Haunted Gale, increases the duration of your Phantoms by 3s."
+  "desc": "A servant of wind. Reduces fall damage by 20%. With Specter Path, makes your mantras give more Spectral Gauge. With Haunted Gale, increases the duration of your Phantoms by 3s.",
+  "voi_only": false
 }

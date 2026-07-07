@@ -163,5 +163,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Conjure and throw weapons of ice."
+  "desc": "Conjure and throw weapons of ice.",
+  "voi_only": false
 }

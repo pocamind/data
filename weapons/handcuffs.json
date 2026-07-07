@@ -15,5 +15,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Your trusty weapon."
+  "desc": "Your trusty weapon.",
+  "voi_only": false
 }

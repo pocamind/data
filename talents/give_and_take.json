@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal less damage to comrades and receive less damage from comrades."
+  "desc": "Deal less damage to comrades and receive less damage from comrades.",
+  "voi_only": false
 }

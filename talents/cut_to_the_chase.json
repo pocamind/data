@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air."
+  "desc": "Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air.",
+  "voi_only": false
 }

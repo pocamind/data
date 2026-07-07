@@ -130,5 +130,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "Produce a highly potent field of electromagnetism, shocking all inside."
+  "desc": "Produce a highly potent field of electromagnetism, shocking all inside.",
+  "voi_only": false
 }

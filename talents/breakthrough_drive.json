@@ -9,5 +9,6 @@
   "stats": {},
   "vaulted": false,
   "voi": false,
-  "desc": "Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. [90 second CD]"
+  "desc": "Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. [90 second CD]",
+  "voi_only": false
 }

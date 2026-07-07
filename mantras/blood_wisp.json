@@ -51,5 +51,6 @@
   ],
   "miscellaneous": "Passively regenerates your blood.",
   "voi": false,
-  "desc": "A servant of blood."
+  "desc": "A servant of blood.",
+  "voi_only": false
 }

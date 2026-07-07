@@ -14,5 +14,6 @@
   },
   "reqs": "hardened_enforcer_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

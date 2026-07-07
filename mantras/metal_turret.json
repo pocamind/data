@@ -61,5 +61,6 @@
     "Firing Line"
   ],
   "voi": false,
-  "desc": "An automated turret that fires at targets that that cross its sight."
+  "desc": "An automated turret that fires at targets that that cross its sight.",
+  "voi_only": false
 }

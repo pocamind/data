@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] Outgoing and incoming enchant effects are nullified. Can be toggled with N."
+  "desc": "[In Arc Suit] Outgoing and incoming enchant effects are nullified. Can be toggled with N.",
+  "voi_only": false
 }

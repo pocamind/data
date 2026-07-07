@@ -12,5 +12,6 @@
   },
   "reqs": "ringing_scholars_boots := ()",
   "voi": false,
-  "desc": "A small pair of boots, worn but carefully kept, their leather still holding their firm despite years of neglect."
+  "desc": "A small pair of boots, worn but carefully kept, their leather still holding their firm despite years of neglect.",
+  "voi_only": false
 }

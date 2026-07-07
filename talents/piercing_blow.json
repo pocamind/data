@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Attacks that break an opponent's block ignore their Armor resistances."
+  "desc": "Attacks that break an opponent's block ignore their Armor resistances.",
+  "voi_only": false
 }

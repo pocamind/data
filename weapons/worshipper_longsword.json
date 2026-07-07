@@ -21,5 +21,6 @@
   "desc": "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from.",
   "talents": [
     "Belief"
-  ]
+  ],
+  "voi_only": false
 }

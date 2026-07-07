@@ -19,5 +19,6 @@
   },
   "reqs": "the_machine := ()",
   "voi": false,
-  "desc": "Go play metal gear rising"
+  "desc": "Go play metal gear rising",
+  "voi_only": false
 }

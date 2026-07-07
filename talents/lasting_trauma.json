@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it."
+  "desc": "Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.",
+  "voi_only": false
 }

@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "barrel_helm := ()",
   "voi": false,
-  "desc": "A sturdy helmet shaped like a barrel."
+  "desc": "A sturdy helmet shaped like a barrel.",
+  "voi_only": false
 }

@@ -130,5 +130,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "Gorge on your own health for raw strength"
+  "desc": "Gorge on your own health for raw strength",
+  "voi_only": false
 }

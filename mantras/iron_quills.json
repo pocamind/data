@@ -50,5 +50,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Conjure metal from within, impaling surrounding entities."
+  "desc": "Conjure metal from within, impaling surrounding entities.",
+  "voi_only": false
 }

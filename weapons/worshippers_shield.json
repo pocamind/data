@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind."
+  "desc": "A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind.",
+  "voi_only": false
 }

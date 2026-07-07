@@ -9,5 +9,6 @@
   "desc": "Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when Unconscious.",
   "additional_info": "1 minute cooldown.",
   "icon": "Fist",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

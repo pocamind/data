@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Deal 10% more damage to opponents with no armor durability left."
+  "desc": "Deal 10% more damage to opponents with no armor durability left.",
+  "voi_only": false
 }

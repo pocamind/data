@@ -20,5 +20,6 @@
   },
   "reqs": "celtor_commander_helm := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

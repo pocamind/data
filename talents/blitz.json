@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Increase how quick you release your Prominence Draw."
+  "desc": "Increase how quick you release your Prominence Draw.",
+  "voi_only": false
 }

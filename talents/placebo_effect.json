@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Drinking potions near allies will share the potion's effect with them."
+  "desc": "Drinking potions near allies will share the potion's effect with them.",
+  "voi_only": false
 }

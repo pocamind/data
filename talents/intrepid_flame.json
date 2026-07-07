@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Flames wear off twice as fast on you."
+  "desc": "Flames wear off twice as fast on you.",
+  "voi_only": false
 }

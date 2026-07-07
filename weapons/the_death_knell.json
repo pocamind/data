@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "A reminder that all songs must come to an end."
+  "desc": "A reminder that all songs must come to an end.",
+  "voi_only": true
 }

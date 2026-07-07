@@ -56,5 +56,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "A rush of wind"
+  "desc": "A rush of wind",
+  "voi_only": false
 }

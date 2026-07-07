@@ -12,5 +12,6 @@
   "desc": "Amped now grants you an additional +10% weapon damage.",
   "exclusive": [
     "Amplified Reflexes"
-  ]
+  ],
+  "voi_only": false
 }

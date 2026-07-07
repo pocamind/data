@@ -27,5 +27,6 @@
   ],
   "miscellaneous": "Fires a bone projectile on flourish and uppercut. Has 3 charges, increased to 5 with Bone Ring.",
   "voi": false,
-  "desc": "A servant of bone, powered by the Eternal Gale."
+  "desc": "A servant of bone, powered by the Eternal Gale.",
+  "voi_only": false
 }

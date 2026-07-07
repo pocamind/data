@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin."
+  "desc": "A shield forged to brave the harshest of Ethironal winds, handcrafted by those who sought fortune amidst ruin.",
+  "voi_only": false
 }

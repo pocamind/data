@@ -33,5 +33,6 @@
   ],
   "miscellaneous": "Hits twice and uppercuts if in True Strength.",
   "voi": false,
-  "desc": "Slice your opponent with your palm."
+  "desc": "Slice your opponent with your palm.",
+  "voi_only": false
 }

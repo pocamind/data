@@ -52,5 +52,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze."
+  "desc": "Summons a fragile eye that consumes the Ether of those who try to cast Mantras within its gaze.",
+  "voi_only": false
 }

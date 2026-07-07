@@ -13,5 +13,6 @@
   },
   "reqs": "phalanx_heavy_boots := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

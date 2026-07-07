@@ -32,5 +32,6 @@
   ],
   "miscellaneous": "The hyperarmor will end early if you cast any Mantra.",
   "voi": true,
-  "desc": "Brace yourself against attacks and gain hyperarmour."
+  "desc": "Brace yourself against attacks and gain hyperarmour.",
+  "voi_only": false
 }

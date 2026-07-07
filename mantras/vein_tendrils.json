@@ -53,5 +53,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Create tendrils of blood."
+  "desc": "Create tendrils of blood.",
+  "voi_only": false
 }

@@ -39,5 +39,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Conjure a glaive of frost to launch your opponents skywards."
+  "desc": "Conjure a glaive of frost to launch your opponents skywards.",
+  "voi_only": false
 }

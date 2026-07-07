@@ -18,5 +18,6 @@
   },
   "reqs": "blindfold := ()",
   "voi": false,
-  "desc": "A tightly wound blindfold to hide the horrors of the world from your waking eyes."
+  "desc": "A tightly wound blindfold to hide the horrors of the world from your waking eyes.",
+  "voi_only": false
 }

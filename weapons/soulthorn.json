@@ -20,5 +20,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned."
+  "desc": "Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your swing range is enhanced during Sovereign State."
+  "desc": "Your swing range is enhanced during Sovereign State.",
+  "voi_only": false
 }

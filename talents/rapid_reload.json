@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[1H Guns] You have 20% faster reload when reloading an empty pistol"
+  "desc": "[1H Guns] You have 20% faster reload when reloading an empty pistol",
+  "voi_only": false
 }

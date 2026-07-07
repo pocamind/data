@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Ill-fated blade of void, once whole but nevermore.\r\nBound through Vow to the soul of a former wielder; soul now claimed by the void, shattered, fragments; through Vow, blade now fractured remnant; semblance of that which once claimed it."
+  "desc": "Ill-fated blade of void, once whole but nevermore.\r\nBound through Vow to the soul of a former wielder; soul now claimed by the void, shattered, fragments; through Vow, blade now fractured remnant; semblance of that which once claimed it.",
+  "voi_only": false
 }

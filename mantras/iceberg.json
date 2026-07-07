@@ -49,5 +49,6 @@
   ],
   "miscellaneous": "Heals you in pulses and grants an autoparry frame. Restricts movement while active.",
   "voi": true,
-  "desc": "Enter a state of cryostasis."
+  "desc": "Enter a state of cryostasis.",
+  "voi_only": false
 }

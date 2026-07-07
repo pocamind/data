@@ -35,5 +35,6 @@
     "Neural Pathway"
   ],
   "voi": true,
-  "desc": "Kick off of the ground with your strength, sending you into the air."
+  "desc": "Kick off of the ground with your strength, sending you into the air.",
+  "voi_only": false
 }

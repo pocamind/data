@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup."
+  "desc": "For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Once per fight, when an attack would down you immediately revive with 30% HP."
+  "desc": "Once per fight, when an attack would down you immediately revive with 30% HP.",
+  "voi_only": true
 }

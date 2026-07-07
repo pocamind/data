@@ -56,5 +56,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Conjure concentrated orbs of Ether to launch at your enemy."
+  "desc": "Conjure concentrated orbs of Ether to launch at your enemy.",
+  "voi_only": false
 }

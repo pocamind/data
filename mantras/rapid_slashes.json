@@ -57,5 +57,6 @@
     "Curved Edge"
   ],
   "voi": false,
-  "desc": "Rush down your opponent cutting them apart."
+  "desc": "Rush down your opponent cutting them apart.",
+  "voi_only": false
 }

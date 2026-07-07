@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well."
+  "desc": "The duration you are dazed from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well.",
+  "voi_only": false
 }

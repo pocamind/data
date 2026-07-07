@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Knocking an enemy with a mantra refunds the cost of the mantra."
+  "desc": "Knocking an enemy with a mantra refunds the cost of the mantra.",
+  "voi_only": false
 }

@@ -37,5 +37,6 @@
   ],
   "miscellaneous": "Summons a clone of the user on successful counter. Damage is dependent on user's build.",
   "voi": false,
-  "desc": "Fool others into striking and retaliate."
+  "desc": "Fool others into striking and retaliate.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Fire mantras now move you in the direction you're facing."
+  "desc": "Fire mantras now move you in the direction you're facing.",
+  "voi_only": false
 }

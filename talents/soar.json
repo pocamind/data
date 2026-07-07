@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Retain full walkspeed while using your crit."
+  "desc": "Retain full walkspeed while using your crit.",
+  "voi_only": false
 }

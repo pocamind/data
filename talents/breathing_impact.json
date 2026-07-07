@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit."
+  "desc": "When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.",
+  "voi_only": false
 }

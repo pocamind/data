@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Decrease the amount of tempo it takes to vent by 5."
+  "desc": "Decrease the amount of tempo it takes to vent by 5.",
+  "voi_only": false
 }

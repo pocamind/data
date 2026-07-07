@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Engulf your enemy in shadows when flourishing them."
+  "desc": "Engulf your enemy in shadows when flourishing them.",
+  "voi_only": false
 }

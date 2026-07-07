@@ -22,5 +22,6 @@
     "Ether Regen": 20,
     "Extra Stealth": 0
   },
-  "desc": "Armor with magical properties."
+  "desc": "Armor with magical properties.",
+  "voi_only": false
 }

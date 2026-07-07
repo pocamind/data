@@ -49,5 +49,6 @@
     "Ironsing": 2.75
   },
   "voi": false,
-  "desc": "A deadly rush of several metallic rods."
+  "desc": "A deadly rush of several metallic rods.",
+  "voi_only": false
 }

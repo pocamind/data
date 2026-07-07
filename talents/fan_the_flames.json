@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your stored Wind mantras can now empower your Fire mantras."
+  "desc": "Your stored Wind mantras can now empower your Fire mantras.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage."
+  "desc": "Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.",
+  "voi_only": false
 }

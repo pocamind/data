@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Increase the amount of Tempo you have by 10/30."
+  "desc": "Increase the amount of Tempo you have by 10/30.",
+  "voi_only": false
 }

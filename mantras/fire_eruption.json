@@ -53,5 +53,6 @@
     "Magnifying Stone"
   ],
   "voi": false,
-  "desc": "A pyroclastic eruption."
+  "desc": "A pyroclastic eruption.",
+  "voi_only": false
 }

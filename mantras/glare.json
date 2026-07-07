@@ -39,5 +39,6 @@
     "Scornful Shot"
   ],
   "voi": true,
-  "desc": "Opponents facing you are briefly rendered immobile."
+  "desc": "Opponents facing you are briefly rendered immobile.",
+  "voi_only": false
 }

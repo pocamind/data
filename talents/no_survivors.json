@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your allies and yourself execute faster when affected by Overcharm."
+  "desc": "Your allies and yourself execute faster when affected by Overcharm.",
+  "voi_only": false
 }

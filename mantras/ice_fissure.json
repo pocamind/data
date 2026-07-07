@@ -59,5 +59,6 @@
     "Round Spark"
   ],
   "voi": false,
-  "desc": "Send ice rippling out in a shockwave."
+  "desc": "Send ice rippling out in a shockwave.",
+  "voi_only": false
 }

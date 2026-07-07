@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting successive Basic Attacks with Jus Karita will give a temporary speed buff."
+  "desc": "Hitting successive Basic Attacks with Jus Karita will give a temporary speed buff.",
+  "voi_only": false
 }

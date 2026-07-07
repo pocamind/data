@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies will briefly hang in place when they run from you."
+  "desc": "Enemies will briefly hang in place when they run from you.",
+  "voi_only": false
 }

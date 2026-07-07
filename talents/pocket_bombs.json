@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You have a chance to activate a bomb in your inventory when damaged"
+  "desc": "You have a chance to activate a bomb in your inventory when damaged",
+  "voi_only": false
 }

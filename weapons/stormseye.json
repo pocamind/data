@@ -18,5 +18,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval."
+  "desc": "Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval.",
+  "voi_only": false
 }

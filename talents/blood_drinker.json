@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds."
+  "desc": "Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.",
+  "voi_only": false
 }

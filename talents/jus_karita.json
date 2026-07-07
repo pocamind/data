@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Adopt the kick-based fighting style of the Justicars."
+  "desc": "Adopt the kick-based fighting style of the Justicars.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement."
+  "desc": "You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.",
+  "voi_only": false
 }

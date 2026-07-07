@@ -56,5 +56,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Conjure up surging waves of lightning that travel along the ground."
+  "desc": "Conjure up surging waves of lightning that travel along the ground.",
+  "voi_only": false
 }

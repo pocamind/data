@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping."
+  "desc": "You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.",
+  "voi_only": false
 }

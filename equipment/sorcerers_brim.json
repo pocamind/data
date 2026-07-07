@@ -19,5 +19,6 @@
   },
   "reqs": "sorcerers_brim := 255r TTL",
   "voi": true,
-  "desc": "A finely crafted hat worn by master wizards of the Northern Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle."
+  "desc": "A finely crafted hat worn by master wizards of the Northern Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle.",
+  "voi_only": true
 }

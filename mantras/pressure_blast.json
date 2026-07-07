@@ -38,5 +38,6 @@
     "Magnifying Stone"
   ],
   "voi": true,
-  "desc": "Unleash a powerful pressure blast from the weight of your weapon."
+  "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
+  "voi_only": false
 }

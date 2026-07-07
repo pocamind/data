@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production."
+  "desc": "A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production.",
+  "voi_only": false
 }

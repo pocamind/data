@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "[Greatsword] Enemies recover 20% less Posture when parrying."
+  "desc": "[Greatsword] Enemies recover 20% less Posture when parrying.",
+  "voi_only": false
 }

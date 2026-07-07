@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Born from a twisted experiment by the enigmatic lightborn smiths of the floating keep, the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction."
+  "desc": "Born from a twisted experiment by the enigmatic lightborn smiths of the floating keep, the Mawblades are a testament to unspeakable treachery. Stripped of mortality and violently reshaped, the tortured souls within these blades endure a fate crueler than death, their teeth aching eternally as they are bound to the insatiable hunger for destruction.",
+  "voi_only": false
 }

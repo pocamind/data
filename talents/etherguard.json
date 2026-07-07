@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE."
+  "desc": "Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE.",
+  "voi_only": false
 }

@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a Basic Attack removes your roll cooldown."
+  "desc": "Landing a Basic Attack removes your roll cooldown.",
+  "voi_only": false
 }

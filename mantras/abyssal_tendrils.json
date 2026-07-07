@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "Create tentacles and pierce multiple opponents at once."
+  "desc": "Create tentacles and pierce multiple opponents at once.",
+  "voi_only": false
 }

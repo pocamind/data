@@ -23,5 +23,6 @@
   },
   "reqs": "super_simple_pauldrons := ()",
   "voi": true,
-  "desc": "Either they're of low complexity or someone needs a punch."
+  "desc": "Either they're of low complexity or someone needs a punch.",
+  "voi_only": true
 }

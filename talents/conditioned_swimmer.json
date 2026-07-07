@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You lose less hunger and thirst while swimming."
+  "desc": "You lose less hunger and thirst while swimming.",
+  "voi_only": false
 }

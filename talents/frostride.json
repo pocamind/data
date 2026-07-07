@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your footsteps echo the legend of Saint Jay, freezing the sea beneath."
+  "desc": "Your footsteps echo the legend of Saint Jay, freezing the sea beneath.",
+  "voi_only": true
 }

@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "When executing an opponent with your critical attack, summon mudskippers to aid you in battle.",
   "icon": "Fist",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

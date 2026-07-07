@@ -13,5 +13,6 @@
   },
   "reqs": "emerald_tusk_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

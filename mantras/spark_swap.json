@@ -58,5 +58,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Swap places with a selected target."
+  "desc": "Swap places with a selected target.",
+  "voi_only": false
 }

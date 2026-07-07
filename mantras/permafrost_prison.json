@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "wiki": "",
-  "desc": "Imprison your enemies with shadows and impale them with pillars."
+  "desc": "Imprison your enemies with shadows and impale them with pillars.",
+  "voi_only": false
 }

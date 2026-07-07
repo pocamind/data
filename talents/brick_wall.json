@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely Unconscious. Also reduces the duration of Knockdown."
+  "desc": "You refuse. You cannot be knocked off your feet until you are knocked completely Unconscious. Also reduces the duration of Knockdown.",
+  "voi_only": false
 }

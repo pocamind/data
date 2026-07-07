@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Eruptions leave lethal pools of lava beneath them. Don't fall in."
+  "desc": "Your Eruptions leave lethal pools of lava beneath them. Don't fall in.",
+  "voi_only": false
 }

@@ -39,5 +39,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Leap into the air and slam down with vengeance."
+  "desc": "Leap into the air and slam down with vengeance.",
+  "voi_only": false
 }

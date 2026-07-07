@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your hunger and thirst gain from eating is increased."
+  "desc": "Your hunger and thirst gain from eating is increased.",
+  "voi_only": false
 }

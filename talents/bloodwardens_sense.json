@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning."
+  "desc": "Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.",
+  "voi_only": false
 }

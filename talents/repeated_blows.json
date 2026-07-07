@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Any strength mantra that has a Wrath Gem on it will reset its cooldown if you land a critical while a Wrath Gem is active."
+  "desc": "Any strength mantra that has a Wrath Gem on it will reset its cooldown if you land a critical while a Wrath Gem is active.",
+  "voi_only": false
 }

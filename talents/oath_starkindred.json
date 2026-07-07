@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you."
+  "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you.",
+  "voi_only": false
 }

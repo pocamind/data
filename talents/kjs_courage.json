@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain 10% more Knowledge from all sources, rounded down."
+  "desc": "Gain 10% more Knowledge from all sources, rounded down.",
+  "voi_only": false
 }

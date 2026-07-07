@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Grants you the ability to command Lightning as a Thundercaller."
+  "desc": "Grants you the ability to command Lightning as a Thundercaller.",
+  "voi_only": false
 }

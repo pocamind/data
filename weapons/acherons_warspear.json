@@ -24,5 +24,6 @@
   "desc": "...",
   "talents": [
     "Vital Wound"
-  ]
+  ],
+  "voi_only": false
 }

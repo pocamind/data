@@ -52,5 +52,6 @@
     "Belief"
   ],
   "voi": false,
-  "desc": "Step forward and slice through your enemies. Ability can be activated again on a successful hit."
+  "desc": "Step forward and slice through your enemies. Ability can be activated again on a successful hit.",
+  "voi_only": false
 }

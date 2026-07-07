@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Incoming PEN is reduced by 30%."
+  "desc": "Incoming PEN is reduced by 30%.",
+  "voi_only": false
 }

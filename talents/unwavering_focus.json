@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When your mantras are parried, receive less posture (scales with intelligence)."
+  "desc": "When your mantras are parried, receive less posture (scales with intelligence).",
+  "voi_only": false
 }

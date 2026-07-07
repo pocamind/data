@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "For the next 5 seconds, your next basic attack bypasses block after landing a crit. [45 second CD]"
+  "desc": "For the next 5 seconds, your next basic attack bypasses block after landing a crit. [45 second CD]",
+  "voi_only": false
 }

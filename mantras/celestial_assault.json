@@ -32,5 +32,6 @@
     "Ichor Imbuement"
   ],
   "voi": false,
-  "desc": "Use your wings and deliver two critical blows."
+  "desc": "Use your wings and deliver two critical blows.",
+  "voi_only": false
 }

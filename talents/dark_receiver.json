@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Shadow moves will also steal Ether from those you are Static Linked tethered to."
+  "desc": "Shadow moves will also steal Ether from those you are Static Linked tethered to.",
+  "voi_only": false
 }

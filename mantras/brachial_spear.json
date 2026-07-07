@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "A javelin of jagged bone."
+  "desc": "A javelin of jagged bone.",
+  "voi_only": false
 }

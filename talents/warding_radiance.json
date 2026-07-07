@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active."
+  "desc": "Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.",
+  "voi_only": false
 }

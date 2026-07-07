@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can breathe more easily with +20% faster posture regen."
+  "desc": "You can breathe more easily with +20% faster posture regen.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You take 10% less damage when below 30% health."
+  "desc": "You take 10% less damage when below 30% health.",
+  "voi_only": false
 }

@@ -22,5 +22,6 @@
   "desc": "It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain.",
   "talents": [
     "Punishing Riposte"
-  ]
+  ],
+  "voi_only": false
 }

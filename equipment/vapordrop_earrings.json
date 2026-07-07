@@ -15,5 +15,6 @@
   },
   "reqs": "vapordrop_earrings := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

@@ -87,5 +87,6 @@
     "Round Spark"
   ],
   "voi": false,
-  "desc": "Unleash two devastating kicks with your brute strength."
+  "desc": "Unleash two devastating kicks with your brute strength.",
+  "voi_only": false
 }

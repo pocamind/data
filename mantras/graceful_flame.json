@@ -59,5 +59,6 @@
     "Undying Flame"
   ],
   "voi": false,
-  "desc": "Conjure an undying flame for the caster and their comrades to rest by."
+  "desc": "Conjure an undying flame for the caster and their comrades to rest by.",
+  "voi_only": false
 }

@@ -22,5 +22,6 @@
   ],
   "miscellaneous": "Deals percentage based damage. Those hit gain a Poison status effect, increasing their shaky block duration by 20% for 16 seconds. Also applies an extended hitstun for 2.5 seconds, preventing most actions.",
   "voi": false,
-  "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison."
+  "desc": "Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison.",
+  "voi_only": false
 }

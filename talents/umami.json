@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger."
+  "desc": "Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.",
+  "voi_only": false
 }

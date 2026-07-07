@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "Slip out of perception and deliver a brutal kick."
+  "desc": "Slip out of perception and deliver a brutal kick.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   },
   "reqs": "delver_boots := ()",
   "voi": false,
-  "desc": "A pair of boots with special metal grips attached. The grips are capable of deploying and retracting when desired, making them any delver's lifeline."
+  "desc": "A pair of boots with special metal grips attached. The grips are capable of deploying and retracting when desired, making them any delver's lifeline.",
+  "voi_only": false
 }

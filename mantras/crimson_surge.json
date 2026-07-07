@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Slash upwards and launch slashes of blood."
+  "desc": "Slash upwards and launch slashes of blood.",
+  "voi_only": false
 }

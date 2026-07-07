@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken."
+  "desc": "Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.",
+  "voi_only": false
 }

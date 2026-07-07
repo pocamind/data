@@ -37,5 +37,6 @@
   ],
   "miscellaneous": "Summons a clone of the opponent. Damage is dependent on target's build.",
   "voi": false,
-  "desc": "Mirror your opponents and use their arsenal to your advantage."
+  "desc": "Mirror your opponents and use their arsenal to your advantage.",
+  "voi_only": false
 }

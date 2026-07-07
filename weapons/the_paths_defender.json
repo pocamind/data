@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A venerated shield, donned only by those who have walked their own Path as they see fit."
+  "desc": "A venerated shield, donned only by those who have walked their own Path as they see fit.",
+  "voi_only": false
 }

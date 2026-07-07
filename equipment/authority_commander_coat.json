@@ -27,5 +27,6 @@
   "reqs": "authority_commander_coat := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

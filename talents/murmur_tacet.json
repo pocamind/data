@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched."
+  "desc": "An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.",
+  "voi_only": false
 }

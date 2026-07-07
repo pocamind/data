@@ -22,5 +22,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska."
+  "desc": "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   "desc": "Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.\r",
   "exclusive": [
     "Tough Love"
-  ]
+  ],
+  "voi_only": false
 }

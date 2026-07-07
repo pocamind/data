@@ -12,5 +12,6 @@
   },
   "reqs": "rebels_bandana := ()",
   "voi": false,
-  "desc": "A bandana paired with a headband. Perfect for hiding your mouth, nose, and hairline. These are known to be the most identifying features of any outlaw."
+  "desc": "A bandana paired with a headband. Perfect for hiding your mouth, nose, and hairline. These are known to be the most identifying features of any outlaw.",
+  "voi_only": false
 }

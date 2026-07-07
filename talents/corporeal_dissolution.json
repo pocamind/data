@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Applies Wither on any weapon attack that drains Ether, and scales on the amount of Ether drain."
+  "desc": "Applies Wither on any weapon attack that drains Ether, and scales on the amount of Ether drain.",
+  "voi_only": false
 }

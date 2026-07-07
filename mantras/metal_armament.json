@@ -50,5 +50,6 @@
   ],
   "miscellaneous": "Enhances your M1s, striking with a metal sword after each swing.",
   "voi": false,
-  "desc": "Summon a blade of metal to swing alongside you."
+  "desc": "Summon a blade of metal to swing alongside you.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Proccing Wind Gem now gives you 10% more light attack posture during its duration. Extend the duration of Wind Gems by 2 seconds.",
   "icon": "Boots",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

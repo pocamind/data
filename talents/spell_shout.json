@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You will now shout your mantra name upon cast"
+  "desc": "You will now shout your mantra name upon cast",
+  "voi_only": false
 }

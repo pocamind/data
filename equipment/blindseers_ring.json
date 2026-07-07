@@ -17,5 +17,6 @@
   },
   "reqs": "blindseers_ring := ()",
   "voi": false,
-  "desc": "Increase all healing you receive by 33%. Reduce all damage you deal by 15%."
+  "desc": "Increase all healing you receive by 33%. Reduce all damage you deal by 15%.",
+  "voi_only": false
 }

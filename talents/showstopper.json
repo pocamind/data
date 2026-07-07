@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing."
+  "desc": "When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.",
+  "voi_only": false
 }

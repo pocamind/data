@@ -59,5 +59,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "A strike of thunder at your desired location."
+  "desc": "A strike of thunder at your desired location.",
+  "voi_only": false
 }

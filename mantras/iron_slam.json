@@ -53,5 +53,6 @@
     "Stratus Stone"
   ],
   "voi": false,
-  "desc": "Conjure a giant rod of metal and slam it down."
+  "desc": "Conjure a giant rod of metal and slam it down.",
+  "voi_only": false
 }

@@ -92,5 +92,6 @@
     "Reversal Spark"
   ],
   "voi": false,
-  "desc": "Create a cyclone of blood."
+  "desc": "Create a cyclone of blood.",
+  "voi_only": false
 }

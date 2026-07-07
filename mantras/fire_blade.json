@@ -40,5 +40,6 @@
     "Reversal Spark"
   ],
   "voi": true,
-  "desc": "Slicing blades of flame."
+  "desc": "Slicing blades of flame.",
+  "voi_only": false
 }

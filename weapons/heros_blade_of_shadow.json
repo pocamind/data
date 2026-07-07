@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows."
+  "desc": "A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows.",
+  "voi_only": false
 }

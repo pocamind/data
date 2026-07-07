@@ -12,5 +12,6 @@
   },
   "reqs": "crystal_pendant_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

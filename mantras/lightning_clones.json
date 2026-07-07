@@ -61,5 +61,6 @@
   ],
   "miscellaneous": "Damage dealt is based on your build.",
   "voi": false,
-  "desc": "Replicated forms of yourself conjured from electricity."
+  "desc": "Replicated forms of yourself conjured from electricity.",
+  "voi_only": false
 }

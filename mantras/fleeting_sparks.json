@@ -92,5 +92,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Call forth motes of electricity that seek out your foes."
+  "desc": "Call forth motes of electricity that seek out your foes.",
+  "voi_only": false
 }

@@ -46,5 +46,6 @@
     }
   ],
   "voi": false,
-  "desc": "Make a cauldron appear from your memories."
+  "desc": "Make a cauldron appear from your memories.",
+  "voi_only": false
 }

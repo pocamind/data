@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a Basic Attack or Critical puts the target's Resonance on cooldown for a short duration, while also applying Ether Sunder to PvE opponents. "
+  "desc": "Landing a Basic Attack or Critical puts the target's Resonance on cooldown for a short duration, while also applying Ether Sunder to PvE opponents. ",
+  "voi_only": false
 }

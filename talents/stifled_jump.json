@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Suffocating now applies Dazed if enemies jump. Suffocated PvE enemies now also get Sluggish when they are suffocated."
+  "desc": "Suffocating now applies Dazed if enemies jump. Suffocated PvE enemies now also get Sluggish when they are suffocated.",
+  "voi_only": false
 }

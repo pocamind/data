@@ -57,5 +57,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Release blood daggers. Recast to call them."
+  "desc": "Release blood daggers. Recast to call them.",
+  "voi_only": false
 }

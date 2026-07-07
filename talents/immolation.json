@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames."
+  "desc": "Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.",
+  "voi_only": false
 }

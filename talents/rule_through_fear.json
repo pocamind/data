@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Executing an enemy applies Overcharm to nearby allies and yourself."
+  "desc": "Executing an enemy applies Overcharm to nearby allies and yourself.",
+  "voi_only": false
 }

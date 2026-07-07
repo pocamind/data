@@ -16,5 +16,6 @@
     "Ether Regen": 100,
     "Extra Stealth": 0
   },
-  "desc": "The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time."
+  "desc": "The signature outfit of Wishmakers, a group of Lightborn sorcerers now lost to time.",
+  "voi_only": false
 }

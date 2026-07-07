@@ -57,5 +57,6 @@
   ],
   "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
   "voi": false,
-  "desc": "Swift bolts of frozen air."
+  "desc": "Swift bolts of frozen air.",
+  "voi_only": false
 }

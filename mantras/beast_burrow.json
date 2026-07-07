@@ -30,5 +30,6 @@
     "Sanguine Dive"
   ],
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "hivelord_mask := ()",
   "voi": false,
-  "desc": "An ancient mask of a lost Hivelord, now a relic."
+  "desc": "An ancient mask of a lost Hivelord, now a relic.",
+  "voi_only": false
 }

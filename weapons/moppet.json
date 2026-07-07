@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Just as we see likeness in objects, Vows can often be empowered by the imitative correspondence between an effigy and its target."
+  "desc": "Just as we see likeness in objects, Vows can often be empowered by the imitative correspondence between an effigy and its target.",
+  "voi_only": false
 }

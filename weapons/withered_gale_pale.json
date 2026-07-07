@@ -24,5 +24,6 @@
   "desc": "A legacy tarnished by your hand, but granted fell strength by Leiuna's profane forge. The wind is known to hold voices captive and, held in your hands, you hear an earnest plea; Bury the forge. Kill its memory. Greed is their dagger.",
   "talents": [
     "Soar"
-  ]
+  ],
+  "voi_only": false
 }

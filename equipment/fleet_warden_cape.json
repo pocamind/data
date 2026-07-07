@@ -25,5 +25,6 @@
   },
   "reqs": "fleet_warden_cape := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

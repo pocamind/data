@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successful light attacks and criticals on your opponent now also gives them a bit of posture."
+  "desc": "Successful light attacks and criticals on your opponent now also gives them a bit of posture.",
+  "voi_only": false
 }

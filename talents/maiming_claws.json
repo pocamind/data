@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc."
+  "desc": "Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc.",
+  "voi_only": false
 }

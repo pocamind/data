@@ -17,5 +17,6 @@
   },
   "reqs": "tricksters_scarf := 120r TTL",
   "voi": false,
-  "desc": "Merriment, gaiety and fun!"
+  "desc": "Merriment, gaiety and fun!",
+  "voi_only": false
 }

@@ -37,5 +37,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Bear down on your foes with repeated fiery slashes."
+  "desc": "Bear down on your foes with repeated fiery slashes.",
+  "voi_only": false
 }

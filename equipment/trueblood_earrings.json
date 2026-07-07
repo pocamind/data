@@ -19,5 +19,6 @@
   },
   "reqs": "trueblood_earrings := 90r TTL",
   "voi": true,
-  "desc": "Wearing these fills you with a newfound sense of vitality."
+  "desc": "Wearing these fills you with a newfound sense of vitality.",
+  "voi_only": true
 }

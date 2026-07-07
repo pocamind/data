@@ -30,5 +30,6 @@
     "Magnifying Stone"
   ],
   "voi": true,
-  "desc": "Turn insanity against your enemies, incredibly strong against depths creatures."
+  "desc": "Turn insanity against your enemies, incredibly strong against depths creatures.",
+  "voi_only": false
 }

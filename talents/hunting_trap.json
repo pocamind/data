@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Place down a trap that upon being stepped on will render your opponent unable to move for a bit."
+  "desc": "Place down a trap that upon being stepped on will render your opponent unable to move for a bit.",
+  "voi_only": true
 }

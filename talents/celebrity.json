@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher."
+  "desc": "Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.",
+  "voi_only": false
 }

@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes."
+  "desc": "A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes.",
+  "voi_only": false
 }

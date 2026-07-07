@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "15% of your highest element scaling is applied to other elemental damage."
+  "desc": "15% of your highest element scaling is applied to other elemental damage.",
+  "voi_only": false
 }

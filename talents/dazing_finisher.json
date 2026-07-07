@@ -12,5 +12,6 @@
   "desc": "Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.",
   "exclusive": [
     "Bulldozer"
-  ]
+  ],
+  "voi_only": false
 }

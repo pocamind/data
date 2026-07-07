@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mantras that have Might Gem on them now ignore fully ignore the posture bonus from shields."
+  "desc": "Mantras that have Might Gem on them now ignore fully ignore the posture bonus from shields.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Ardour Scream now applies a bit of insanity."
+  "desc": "Your Ardour Scream now applies a bit of insanity.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "moderator_cap := ()",
   "voi": false,
-  "desc": "Go play ultrakill"
+  "desc": "Go play ultrakill",
+  "voi_only": false
 }

@@ -25,5 +25,6 @@
     "Shadow Resistance": 5
   },
   "talent": "Centurion's Resolve",
-  "desc": "Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata."
+  "desc": "Armor worn by the honorary centurion of the legion, who excel in the ways of Gale Kata.",
+  "voi_only": false
 }

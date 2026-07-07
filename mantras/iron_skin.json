@@ -57,5 +57,6 @@
   ],
   "miscellaneous": "Prevents movement while active and grants 90% damage reduction.",
   "voi": false,
-  "desc": "Coat your skin with metal to reduce harm."
+  "desc": "Coat your skin with metal to reduce harm.",
+  "voi_only": false
 }

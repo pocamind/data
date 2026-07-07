@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration."
+  "desc": "By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.",
+  "voi_only": false
 }

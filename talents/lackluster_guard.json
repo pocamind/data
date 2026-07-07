@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You aren't used to having to block, resulting in weaker posture."
+  "desc": "You aren't used to having to block, resulting in weaker posture.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": true,
   "voi": false,
-  "desc": "Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot."
+  "desc": "Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.",
+  "voi_only": false
 }

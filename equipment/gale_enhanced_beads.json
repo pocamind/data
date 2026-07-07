@@ -19,5 +19,6 @@
   },
   "reqs": "gale_enhanced_beads := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

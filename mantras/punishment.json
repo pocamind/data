@@ -39,5 +39,6 @@
   ],
   "miscellaneous": "Stores a percentage of the stored attack's damage, scaling on Mantra level, and adds that to the damage and posture damage this Mantra deals.",
   "voi": true,
-  "desc": "Absorb damage then return fury upon your foes."
+  "desc": "Absorb damage then return fury upon your foes.",
+  "voi_only": false
 }

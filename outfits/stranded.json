@@ -13,5 +13,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "Some have a rougher start than others."
+  "desc": "Some have a rougher start than others.",
+  "voi_only": false
 }

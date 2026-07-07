@@ -19,5 +19,6 @@
   },
   "reqs": "specialist_boots := 315r TTL, 30r LTN, 30r WND",
   "voi": false,
-  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed."
+  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed.",
+  "voi_only": false
 }

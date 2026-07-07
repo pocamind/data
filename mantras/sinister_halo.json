@@ -32,5 +32,6 @@
     "Ichor Imbuement"
   ],
   "voi": false,
-  "desc": "Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake."
+  "desc": "Emit a spinning ring of celestial energy, trapping and shredding any who step before its wake.",
+  "voi_only": false
 }

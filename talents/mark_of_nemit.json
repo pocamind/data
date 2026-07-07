@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing."
+  "desc": "Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.",
+  "voi_only": false
 }

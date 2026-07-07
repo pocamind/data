@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge."
+  "desc": "Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge.",
+  "voi_only": true
 }

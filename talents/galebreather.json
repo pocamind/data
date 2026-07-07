@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Grants you the ability to command wind as a Galebreather."
+  "desc": "Grants you the ability to command wind as a Galebreather.",
+  "voi_only": false
 }

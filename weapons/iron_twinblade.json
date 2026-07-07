@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash."
+  "desc": "A modest twinblade, inspired by the whirling Etrean blades of ancient times. Though some dismiss it as unwieldy and impractical, those who choose to wield this weapon seek something far greater than mere convenience. Their focus is not on ease of use, but on the artistry, power, and relentless momentum that only a blade like this can unleash.",
+  "voi_only": false
 }

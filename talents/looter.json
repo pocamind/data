@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Get extra loot from items you turn in for rewards."
+  "desc": "Get extra loot from items you turn in for rewards.",
+  "voi_only": false
 }

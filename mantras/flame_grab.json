@@ -60,5 +60,6 @@
     "Throw"
   ],
   "voi": false,
-  "desc": "Jet forwards with flames and slam anyone you catch in your clutches."
+  "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
+  "voi_only": false
 }

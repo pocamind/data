@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability."
+  "desc": "Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.",
+  "voi_only": false
 }

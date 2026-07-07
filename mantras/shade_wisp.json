@@ -51,5 +51,6 @@
   ],
   "miscellaneous": "Obscures your character and restores Tempo on proc.",
   "voi": false,
-  "desc": "Summon a servant of Shade"
+  "desc": "Summon a servant of Shade",
+  "voi_only": false
 }

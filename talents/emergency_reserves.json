@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When you get hit below 20% health, gain 20% tempo immediately."
+  "desc": "When you get hit below 20% health, gain 20% tempo immediately.",
+  "voi_only": false
 }

@@ -59,5 +59,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "An arrow of lightning."
+  "desc": "An arrow of lightning.",
+  "voi_only": false
 }

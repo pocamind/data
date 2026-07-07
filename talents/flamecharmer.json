@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Grants you the ability to command Fire as a Flamecharmer."
+  "desc": "Grants you the ability to command Fire as a Flamecharmer.",
+  "voi_only": false
 }

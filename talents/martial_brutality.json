@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "The less health your opponent has, the more posture you deal to them."
+  "desc": "The less health your opponent has, the more posture you deal to them.",
+  "voi_only": false
 }

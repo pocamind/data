@@ -22,5 +22,6 @@
   "desc": "A standard issue halberd of the Authority, often seen in larger skirmishes.",
   "talents": [
     "Spinal Splinter"
-  ]
+  ],
+  "voi_only": false
 }

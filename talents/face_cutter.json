@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your Spine Cutter now deals an additional hit."
+  "desc": "Your Spine Cutter now deals an additional hit.",
+  "voi_only": false
 }

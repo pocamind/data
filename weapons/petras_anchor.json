@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The anchor of the vessel \"Petra's Dawn\", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey."
+  "desc": "The anchor of the vessel \"Petra's Dawn\", famed for its voyage between Luminants without the aid of a Lightkeeper's Gift. The ship, of course, did not make the return journey.",
+  "voi_only": false
 }

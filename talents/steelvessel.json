@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced."
+  "desc": "Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.",
+  "voi_only": true
 }

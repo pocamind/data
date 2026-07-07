@@ -17,5 +17,6 @@
   },
   "reqs": "thresher_charm := 90r TTL",
   "voi": false,
-  "desc": "An old charm engraved by the ancient denizens of Aratel. Beneath the shifting sands, countless artifacts remain lost to time."
+  "desc": "An old charm engraved by the ancient denizens of Aratel. Beneath the shifting sands, countless artifacts remain lost to time.",
+  "voi_only": false
 }

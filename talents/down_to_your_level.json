@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for 5s."
+  "desc": "While you have a speed debuff, your Basic Attacks slow your enemies for 5s.",
+  "voi_only": false
 }

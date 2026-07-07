@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When combat tagged by 2 or more players, render any ranged attack a lot less effective."
+  "desc": "When combat tagged by 2 or more players, render any ranged attack a lot less effective.",
+  "voi_only": false
 }

@@ -56,5 +56,6 @@
     "Belief"
   ],
   "voi": false,
-  "desc": "A powerful slash that chips through block and slashes through armor."
+  "desc": "A powerful slash that chips through block and slashes through armor.",
+  "voi_only": false
 }

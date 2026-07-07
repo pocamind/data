@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "The more wither your opponent has, the more damage your burn deals."
+  "desc": "The more wither your opponent has, the more damage your burn deals.",
+  "voi_only": false
 }

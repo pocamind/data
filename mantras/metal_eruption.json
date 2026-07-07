@@ -56,5 +56,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "A flurry of metal spikes."
+  "desc": "A flurry of metal spikes.",
+  "voi_only": false
 }

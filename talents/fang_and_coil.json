@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Adopt the path of the serpent."
+  "desc": "Adopt the path of the serpent.",
+  "voi_only": false
 }

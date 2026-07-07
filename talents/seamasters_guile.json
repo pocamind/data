@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "While you're at the helm of a ship, it takes 25% less damage"
+  "desc": "While you're at the helm of a ship, it takes 25% less damage",
+  "voi_only": false
 }

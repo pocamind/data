@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get Stagger for a few seconds."
+  "desc": "Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get Stagger for a few seconds.",
+  "voi_only": false
 }

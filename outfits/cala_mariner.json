@@ -25,5 +25,6 @@
     "Ether Regen": 45,
     "Extra Stealth": 0
   },
-  "desc": "The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way."
+  "desc": "The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way.",
+  "voi_only": false
 }

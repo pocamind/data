@@ -57,5 +57,6 @@
     "Reversal Spark"
   ],
   "voi": false,
-  "desc": "Manifest chains to brutally pull enemies towards you."
+  "desc": "Manifest chains to brutally pull enemies towards you.",
+  "voi_only": false
 }

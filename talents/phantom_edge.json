@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your weapon Basic Attacks have +0.25 range."
+  "desc": "Your weapon Basic Attacks have +0.25 range.",
+  "voi_only": false
 }

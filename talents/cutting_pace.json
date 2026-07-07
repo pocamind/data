@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Dodging attacks will now grant 'Cutting Pace' stacks. Mantras and basic attacks consume a stack to shorten wind-up and increase damage, procs after dash."
+  "desc": "Dodging attacks will now grant 'Cutting Pace' stacks. Mantras and basic attacks consume a stack to shorten wind-up and increase damage, procs after dash.",
+  "voi_only": true
 }

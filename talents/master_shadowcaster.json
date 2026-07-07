@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can now obtain 3-star Leveled Shadowcaster Mantras."
+  "desc": "You can now obtain 3-star Leveled Shadowcaster Mantras.",
+  "voi_only": false
 }

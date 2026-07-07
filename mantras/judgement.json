@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation."
+  "desc": "Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.",
+  "voi_only": false
 }

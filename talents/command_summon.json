@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Command your servant to obey your summons and appear before you no matter the distance."
+  "desc": "Command your servant to obey your summons and appear before you no matter the distance.",
+  "voi_only": false
 }

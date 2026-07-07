@@ -39,5 +39,6 @@
     "Blightpierce"
   ],
   "voi": false,
-  "desc": "Dash forward in a blink, knocking down enemies in your path."
+  "desc": "Dash forward in a blink, knocking down enemies in your path.",
+  "voi_only": false
 }

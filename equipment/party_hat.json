@@ -11,5 +11,6 @@
   "reqs": "party_hat := ()",
   "voi": false,
   "wiki": "This item is only obtainable through Blacksmiths for those who joined the game during the Festival of a Billion Souls mini-event.",
-  "desc": "Hooray! Worth your weight in gold on the exchange, for some reason."
+  "desc": "Hooray! Worth your weight in gold on the exchange, for some reason.",
+  "voi_only": false
 }

@@ -13,5 +13,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "The ticket grind never stops.\r"
+  "desc": "The ticket grind never stops.\r",
+  "voi_only": false
 }

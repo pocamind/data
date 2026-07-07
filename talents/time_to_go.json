@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration."
+  "desc": "Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.",
+  "voi_only": false
 }

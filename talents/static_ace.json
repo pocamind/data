@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Using Lightning Stream with an active tether link targets your closest active link."
+  "desc": "Using Lightning Stream with an active tether link targets your closest active link.",
+  "voi_only": false
 }

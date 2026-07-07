@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Wield an advanced form of the Legion's martial arts"
+  "desc": "Wield an advanced form of the Legion's martial arts",
+  "voi_only": false
 }

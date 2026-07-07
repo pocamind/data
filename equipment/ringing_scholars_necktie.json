@@ -17,5 +17,6 @@
   },
   "reqs": "ringing_scholars_necktie := ()",
   "voi": false,
-  "desc": "A simple necktie, clearly well loved in its time, its fabric still holding a crisp silhouette despite years of disuse. At the throat, a small bell serves as its clasp."
+  "desc": "A simple necktie, clearly well loved in its time, its fabric still holding a crisp silhouette despite years of disuse. At the throat, a small bell serves as its clasp.",
+  "voi_only": false
 }

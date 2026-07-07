@@ -50,5 +50,6 @@
     "Purge Shot"
   ],
   "voi": true,
-  "desc": "Fire plasma energy. Deals additional damage in PvE."
+  "desc": "Fire plasma energy. Deals additional damage in PvE.",
+  "voi_only": false
 }

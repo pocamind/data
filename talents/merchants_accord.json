@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Merchants and Antiquarians will do business with you no matter how poor your reputation is."
+  "desc": "Merchants and Antiquarians will do business with you no matter how poor your reputation is.",
+  "voi_only": false
 }

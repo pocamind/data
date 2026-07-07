@@ -55,5 +55,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "A rushing current of wind."
+  "desc": "A rushing current of wind.",
+  "voi_only": false
 }

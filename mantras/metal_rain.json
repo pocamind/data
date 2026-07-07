@@ -55,5 +55,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Unleash a rain of metal rods down below."
+  "desc": "Unleash a rain of metal rods down below.",
+  "voi_only": false
 }

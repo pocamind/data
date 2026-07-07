@@ -28,5 +28,6 @@
   },
   "reqs": "sandrunner_wraps := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

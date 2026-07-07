@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them"
+  "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds."
+  "desc": "Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds.",
+  "voi_only": true
 }

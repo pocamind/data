@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "[Heavy Weapons] Daze opponents for 1s and Stagger PvE enemies for 2s when you interrupt their Basic Attack / actions with your own."
+  "desc": "[Heavy Weapons] Daze opponents for 1s and Stagger PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.",
+  "voi_only": false
 }

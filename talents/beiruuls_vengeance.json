@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal 5% more damage to factions that despise you. Serves them right."
+  "desc": "Deal 5% more damage to factions that despise you. Serves them right.",
+  "voi_only": false
 }

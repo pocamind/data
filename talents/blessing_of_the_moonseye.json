@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins."
+  "desc": "The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins.",
+  "voi_only": true
 }

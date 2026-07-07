@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Striking a bleeding enemy with the tip of your weapon extends the bleed."
+  "desc": "Striking a bleeding enemy with the tip of your weapon extends the bleed.",
+  "voi_only": true
 }

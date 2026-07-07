@@ -17,5 +17,6 @@
   },
   "reqs": "microwavetm := ()",
   "voi": false,
-  "desc": "Go play heat signature"
+  "desc": "Go play heat signature",
+  "voi_only": false
 }

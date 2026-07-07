@@ -30,5 +30,6 @@
     "Magnifying Stone"
   ],
   "voi": false,
-  "desc": "Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura."
+  "desc": "Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura.",
+  "voi_only": false
 }

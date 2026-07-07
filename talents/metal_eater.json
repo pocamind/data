@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When you have no ether, consume Armor durability to cast your Ironsing mantras."
+  "desc": "When you have no ether, consume Armor durability to cast your Ironsing mantras.",
+  "voi_only": false
 }

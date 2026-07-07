@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "An artisanal reuse of an old faithful greathammer. Coated in silver, this Pale Morning can glide through the winds current like nothing to maul it's opponents."
+  "desc": "An artisanal reuse of an old faithful greathammer. Coated in silver, this Pale Morning can glide through the winds current like nothing to maul it's opponents.",
+  "voi_only": true
 }

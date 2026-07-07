@@ -94,5 +94,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "An awful blast of dark energy."
+  "desc": "An awful blast of dark energy.",
+  "voi_only": false
 }

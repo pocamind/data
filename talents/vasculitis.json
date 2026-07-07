@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you Gem Enhancement against PvE temporarily."
+  "desc": "Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you Gem Enhancement against PvE temporarily.",
+  "voi_only": false
 }

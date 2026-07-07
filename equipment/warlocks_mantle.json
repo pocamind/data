@@ -26,5 +26,6 @@
   "reqs": "warlocks_mantle := 195r TTL, 5r INT",
   "voi": false,
   "wiki": "",
-  "desc": "A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle."
+  "desc": "A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle.",
+  "voi_only": false
 }

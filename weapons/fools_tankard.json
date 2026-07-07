@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "You've truly lost it."
+  "desc": "You've truly lost it.",
+  "voi_only": false
 }

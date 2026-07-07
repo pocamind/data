@@ -15,5 +15,6 @@
   },
   "reqs": "gale_masters_earrings := ()",
   "voi": true,
-  "desc": "Putting these on, you feel as if you are light as a cloud."
+  "desc": "Putting these on, you feel as if you are light as a cloud.",
+  "voi_only": true
 }

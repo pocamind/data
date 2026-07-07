@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Ice Daggers now freeze opponents."
+  "desc": "Ice Daggers now freeze opponents.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You have reduced stun duration when block broken."
+  "desc": "You have reduced stun duration when block broken.",
+  "voi_only": false
 }

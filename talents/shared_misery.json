@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity."
+  "desc": "Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%."
+  "desc": "Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%.",
+  "voi_only": false
 }

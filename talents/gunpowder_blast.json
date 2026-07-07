@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Pistol shots without bullets do 2 extra posture. [Dual Guns]"
+  "desc": "Pistol shots without bullets do 2 extra posture. [Dual Guns]",
+  "voi_only": false
 }

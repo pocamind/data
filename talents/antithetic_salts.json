@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit."
+  "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+  "voi_only": false
 }

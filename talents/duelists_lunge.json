@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Rapier] Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range."
+  "desc": "[Rapier] Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.",
+  "voi_only": false
 }

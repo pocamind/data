@@ -58,5 +58,6 @@
     "Laced Traps"
   ],
   "voi": false,
-  "desc": "Sharp metal traps."
+  "desc": "Sharp metal traps.",
+  "voi_only": false
 }

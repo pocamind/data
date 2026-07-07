@@ -20,5 +20,6 @@
   },
   "reqs": "abyss_wanderers_plate := 165r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

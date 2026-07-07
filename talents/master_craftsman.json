@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your skills alone substitute the need for a Craft Station."
+  "desc": "Your skills alone substitute the need for a Craft Station.",
+  "voi_only": false
 }

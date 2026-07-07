@@ -50,5 +50,6 @@
   ],
   "miscellaneous": "Travels further if used while moving. Has omni-directional movement.",
   "voi": false,
-  "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you."
+  "desc": "Using your mind's eye, you force your imagined position into reality, appearing to teleport a short distance. You alone know that the world moved, not you.",
+  "voi_only": false
 }

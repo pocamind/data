@@ -12,5 +12,6 @@
   },
   "reqs": "depths_supercharger := ()",
   "voi": true,
-  "desc": "Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo."
+  "desc": "Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo.",
+  "voi_only": true
 }

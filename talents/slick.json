@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Coat of the infamous thief Emiya Konga. Improves the user's sliding abilities. This effect stacks with Konga's Clutch Ring."
+  "desc": "Coat of the infamous thief Emiya Konga. Improves the user's sliding abilities. This effect stacks with Konga's Clutch Ring.",
+  "voi_only": true
 }

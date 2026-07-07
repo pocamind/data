@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning."
+  "desc": "A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning.",
+  "voi_only": false
 }

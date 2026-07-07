@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your taunt now applies Madness."
+  "desc": "Your taunt now applies Madness.",
+  "voi_only": true
 }

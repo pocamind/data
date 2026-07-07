@@ -12,5 +12,6 @@
   },
   "reqs": "high_inquisitors_hood := 90r TTL",
   "voi": false,
-  "desc": "A shroud worn proud by members of the Inquisition."
+  "desc": "A shroud worn proud by members of the Inquisition.",
+  "voi_only": false
 }

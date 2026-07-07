@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Anyone can cook, but only the fearless can be great."
+  "desc": "Anyone can cook, but only the fearless can be great.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You have a keen understanding of ships and their maintenance."
+  "desc": "You have a keen understanding of ships and their maintenance.",
+  "voi_only": false
 }

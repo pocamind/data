@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A pickaxe fashioned from an exceptionally large node of quartz. The crystal has been painstakingly tuned to the frequency of a Mantra, conjuring its effects on use."
+  "desc": "A pickaxe fashioned from an exceptionally large node of quartz. The crystal has been painstakingly tuned to the frequency of a Mantra, conjuring its effects on use.",
+  "voi_only": false
 }

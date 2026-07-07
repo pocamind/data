@@ -21,5 +21,6 @@
   "pips": {},
   "reqs": "toons_goggles := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

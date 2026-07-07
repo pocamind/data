@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit."
+  "desc": "Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.",
+  "voi_only": false
 }

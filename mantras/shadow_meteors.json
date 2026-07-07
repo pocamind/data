@@ -58,5 +58,6 @@
     "Shadow Seekers"
   ],
   "voi": false,
-  "desc": "Hail down meteors of darkness."
+  "desc": "Hail down meteors of darkness.",
+  "voi_only": false
 }

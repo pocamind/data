@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources."
+  "desc": "You take no Armor damage from guns. You take 5% less Armor damage from other sources.",
+  "voi_only": false
 }

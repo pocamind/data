@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Enemies recover 30% less posture when parrying your Zweihander light attacks.",
   "icon": "Skeleton",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

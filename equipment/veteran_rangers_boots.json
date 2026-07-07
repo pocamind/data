@@ -14,5 +14,6 @@
   },
   "reqs": "veteran_rangers_boots := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

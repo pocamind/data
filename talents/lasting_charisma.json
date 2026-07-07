@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies charmed by your mantras are charmed longer."
+  "desc": "Enemies charmed by your mantras are charmed longer.",
+  "voi_only": false
 }

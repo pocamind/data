@@ -55,5 +55,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Shoots out an air blast."
+  "desc": "Shoots out an air blast.",
+  "voi_only": false
 }

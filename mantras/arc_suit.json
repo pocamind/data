@@ -40,5 +40,6 @@
     "Arc Module: Null"
   ],
   "voi": false,
-  "desc": "Conjure and equip your Arcwarder suit."
+  "desc": "Conjure and equip your Arcwarder suit.",
+  "voi_only": false
 }

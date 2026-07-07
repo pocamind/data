@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you."
+  "desc": "Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.",
+  "voi_only": false
 }

@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korilfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend."
+  "desc": "Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korilfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend.",
+  "voi_only": false
 }

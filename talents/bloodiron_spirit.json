@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You regain some Armor upon killing enemies."
+  "desc": "You regain some Armor upon killing enemies.",
+  "voi_only": false
 }

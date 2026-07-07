@@ -21,5 +21,6 @@
   "pips": {},
   "reqs": "mercenarys_hood := ()",
   "voi": true,
-  "desc": "A sleek black hood."
+  "desc": "A sleek black hood.",
+  "voi_only": true
 }

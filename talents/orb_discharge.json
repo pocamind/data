@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "If an extra orb is available, you can consume it to vent if you don't have enough tempo."
+  "desc": "If an extra orb is available, you can consume it to vent if you don't have enough tempo.",
+  "voi_only": true
 }

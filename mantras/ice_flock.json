@@ -49,5 +49,6 @@
     "Frostdraw": 2.75
   },
   "voi": false,
-  "desc": "Send forth a flock of ice"
+  "desc": "Send forth a flock of ice",
+  "voi_only": false
 }

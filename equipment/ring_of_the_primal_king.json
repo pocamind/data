@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "ring_of_the_primal_king := ()",
   "voi": true,
-  "desc": "All attacks that apply knockback automatically apply daze. All Roar/Yell moves cause damage to dazed targets."
+  "desc": "All attacks that apply knockback automatically apply daze. All Roar/Yell moves cause damage to dazed targets.",
+  "voi_only": true
 }

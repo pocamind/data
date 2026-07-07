@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Grab your opponent and toss them with the power of gale. Pressing F will toss your opponent straight down."
+  "desc": "Grab your opponent and toss them with the power of gale. Pressing F will toss your opponent straight down.",
+  "voi_only": false
 }

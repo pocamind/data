@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your enemies recover 20% less posture on parry."
+  "desc": "Your enemies recover 20% less posture on parry.",
+  "voi_only": false
 }

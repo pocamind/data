@@ -23,5 +23,6 @@
   },
   "reqs": "bloodcurdle_cowl := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

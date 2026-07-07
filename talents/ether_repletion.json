@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Hunger stolen from other players now grants you ether as well."
+  "desc": "Hunger stolen from other players now grants you ether as well.",
+  "voi_only": true
 }

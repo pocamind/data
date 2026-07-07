@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds."
+  "desc": "Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds.",
+  "voi_only": false
 }

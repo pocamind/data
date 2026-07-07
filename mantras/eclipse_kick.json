@@ -94,5 +94,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Show your foes your strength."
+  "desc": "Show your foes your strength.",
+  "voi_only": false
 }

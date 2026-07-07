@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Summon the Bloodtide and perform a sacrificial judgement."
+  "desc": "Summon the Bloodtide and perform a sacrificial judgement.",
+  "voi_only": false
 }

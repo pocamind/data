@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can eat things most would consider inedible."
+  "desc": "You can eat things most would consider inedible.",
+  "voi_only": false
 }

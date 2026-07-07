@@ -32,5 +32,6 @@
   ],
   "miscellaneous": "Deals 20% more damage if used at max Momentum.",
   "voi": false,
-  "desc": "Trick your opponent and quickly go behind them."
+  "desc": "Trick your opponent and quickly go behind them.",
+  "voi_only": false
 }

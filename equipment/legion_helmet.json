@@ -21,5 +21,6 @@
   },
   "reqs": "legion_helmet := 165r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -44,5 +44,6 @@
     "Reversal Spark"
   ],
   "voi": true,
-  "desc": "Summon a legion of flaming spearmen that lunge inwards."
+  "desc": "Summon a legion of flaming spearmen that lunge inwards.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now obtain 2-Star Leveled Flamecharmer Mantras."
+  "desc": "You can now obtain 2-Star Leveled Flamecharmer Mantras.",
+  "voi_only": false
 }

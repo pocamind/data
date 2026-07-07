@@ -59,5 +59,6 @@
   ],
   "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
   "voi": false,
-  "desc": "Knock your enemy skyward with a kick of crystal."
+  "desc": "Knock your enemy skyward with a kick of crystal.",
+  "voi_only": false
 }

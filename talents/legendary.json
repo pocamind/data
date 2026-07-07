@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Parrying and landing hits with your weapon gives you ether back."
+  "desc": "Parrying and landing hits with your weapon gives you ether back.",
+  "voi_only": false
 }

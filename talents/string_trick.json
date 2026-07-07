@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Pulls together any two opponents you've attached Hidden Tendril to."
+  "desc": "Pulls together any two opponents you've attached Hidden Tendril to.",
+  "voi_only": false
 }

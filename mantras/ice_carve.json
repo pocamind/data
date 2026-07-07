@@ -87,5 +87,6 @@
     "Spring Spark"
   ],
   "voi": true,
-  "desc": "A sharp disk of ice."
+  "desc": "A sharp disk of ice.",
+  "voi_only": false
 }

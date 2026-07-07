@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more Heal Boost when they are chilled."
+  "desc": "Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more Heal Boost when they are chilled.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield."
+  "desc": "Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.",
+  "voi_only": false
 }

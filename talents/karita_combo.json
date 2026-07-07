@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Remove the endlag from your next running attack. [5 second CD] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. [10 second CD]"
+  "desc": "Remove the endlag from your next running attack. [5 second CD] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. [10 second CD]",
+  "voi_only": false
 }

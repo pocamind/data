@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a guard break with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down."
+  "desc": "Landing a guard break with a strength mantra that has a Wrath Gem on it devastates your opponent, dealing extra damage and slowing them down.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   },
   "reqs": "parasol_planter := 165r TTL",
   "voi": false,
-  "desc": "The remains of a Parasol that have been relentlessly butchered in the name of fashion. Believed to migrate between the regions of the Voidsea, the sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche."
+  "desc": "The remains of a Parasol that have been relentlessly butchered in the name of fashion. Believed to migrate between the regions of the Voidsea, the sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Trees yield more Wood when felled. Your Repair speed is increased."
+  "desc": "Trees yield more Wood when felled. Your Repair speed is increased.",
+  "voi_only": false
 }

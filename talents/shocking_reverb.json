@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing enough lightning mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing."
+  "desc": "Landing enough lightning mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and ironsing.",
+  "voi_only": false
 }

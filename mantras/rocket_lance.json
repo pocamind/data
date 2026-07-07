@@ -49,5 +49,6 @@
     "Ironsing": 2.75
   },
   "voi": false,
-  "desc": "Create a lance, impale your opponent, and send them flying."
+  "desc": "Create a lance, impale your opponent, and send them flying.",
+  "voi_only": false
 }

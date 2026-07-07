@@ -40,5 +40,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Swiftly unsheathe your blade and deliver an upwards strike."
+  "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
+  "voi_only": false
 }

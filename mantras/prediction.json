@@ -37,5 +37,6 @@
     "Sovereign's Counter"
   ],
   "voi": true,
-  "desc": "Predict an opponent's attack and reflect it."
+  "desc": "Predict an opponent's attack and reflect it.",
+  "voi_only": false
 }

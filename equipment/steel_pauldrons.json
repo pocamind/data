@@ -17,5 +17,6 @@
   },
   "reqs": "steel_pauldrons := ()",
   "voi": false,
-  "desc": "Excellent protection for your shoulders."
+  "desc": "Excellent protection for your shoulders.",
+  "voi_only": false
 }

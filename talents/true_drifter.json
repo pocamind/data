@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether."
+  "desc": "You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether.",
+  "voi_only": true
 }

@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "An incredibly well crafted saber, if you could even call it that. It's superb at channeling thundercall through it, arcs jumping between the rivets that coat its length."
+  "desc": "An incredibly well crafted saber, if you could even call it that. It's superb at channeling thundercall through it, arcs jumping between the rivets that coat its length.",
+  "voi_only": false
 }

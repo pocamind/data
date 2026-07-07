@@ -26,5 +26,6 @@
     "Ether Regen": 20,
     "Extra Stealth": 0
   },
-  "desc": "Heavyweight armor devised for deepdelvers into the layers of the Depths."
+  "desc": "Heavyweight armor devised for deepdelvers into the layers of the Depths.",
+  "voi_only": false
 }

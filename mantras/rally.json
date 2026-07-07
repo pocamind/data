@@ -53,5 +53,6 @@
   ],
   "miscellaneous": "Restores posture on cast, scaling on Mantra level. All buffed allies have their posture damage taken shared with the caster and vice versa.",
   "voi": false,
-  "desc": "Absorb incoming posture damage for allies around you for a set duration. When you parry, you restore the posture of your allies. Restores some posture on cast."
+  "desc": "Absorb incoming posture damage for allies around you for a set duration. When you parry, you restore the posture of your allies. Restores some posture on cast.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]"
+  "desc": "Allows you to fire your offhand gun right after swinging. [Not necessary on dual guns]",
+  "voi_only": false
 }

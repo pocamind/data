@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Legion Kata/Imperium Kata attacks deal 4% more damage."
+  "desc": "Your Legion Kata/Imperium Kata attacks deal 4% more damage.",
+  "voi_only": false
 }

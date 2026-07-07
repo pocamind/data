@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your 'Iron Skin' repairs armor while it's active."
+  "desc": "Your 'Iron Skin' repairs armor while it's active.",
+  "voi_only": false
 }

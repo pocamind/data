@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "What's in these things?"
+  "desc": "What's in these things?",
+  "voi_only": false
 }

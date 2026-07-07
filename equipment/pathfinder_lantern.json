@@ -19,5 +19,6 @@
   },
   "reqs": "pathfinder_lantern := ()",
   "voi": false,
-  "desc": "A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost."
+  "desc": "A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost.",
+  "voi_only": false
 }

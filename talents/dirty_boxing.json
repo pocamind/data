@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting an enemy with a Basic Attack after feinting applies bleed, obscures their vision slightly and makes PvE enemies Sluggish. "
+  "desc": "Hitting an enemy with a Basic Attack after feinting applies bleed, obscures their vision slightly and makes PvE enemies Sluggish. ",
+  "voi_only": false
 }

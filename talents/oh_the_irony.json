@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration."
+  "desc": "Opponents affected by 'Taunt' receive double iron rods for the duration.",
+  "voi_only": false
 }

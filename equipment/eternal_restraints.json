@@ -22,5 +22,6 @@
   "pips": {},
   "reqs": "eternal_restraints := ()",
   "voi": false,
-  "desc": "The world will never forgive you of your sins, Haske. And you will never be freed from them."
+  "desc": "The world will never forgive you of your sins, Haske. And you will never be freed from them.",
+  "voi_only": false
 }

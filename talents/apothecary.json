@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown."
+  "desc": "Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.",
+  "voi_only": false
 }

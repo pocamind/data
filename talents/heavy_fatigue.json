@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[Greataxes] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies Sluggish to PvE enemies for a few seconds."
+  "desc": "[Greataxes] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies Sluggish to PvE enemies for a few seconds.",
+  "voi_only": false
 }

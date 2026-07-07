@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Reduce your chances of dropping ingredients on death."
+  "desc": "Reduce your chances of dropping ingredients on death.",
+  "voi_only": false
 }

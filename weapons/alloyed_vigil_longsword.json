@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless."
+  "desc": "Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless.",
+  "voi_only": false
 }

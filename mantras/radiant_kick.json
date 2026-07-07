@@ -29,5 +29,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Kick your foes at the speed of light."
+  "desc": "Kick your foes at the speed of light.",
+  "voi_only": false
 }

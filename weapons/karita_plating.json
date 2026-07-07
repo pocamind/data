@@ -23,5 +23,6 @@
   "desc": "Developed by Konga the 2nd, these set of shin platings are suited to aid the user in sliding along tough surfaces much more easily. This strengthens their ability to be able to attack using the infamous Slider Style of the Konga lineage.",
   "talents": [
     "Slider Style"
-  ]
+  ],
+  "voi_only": false
 }

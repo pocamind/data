@@ -19,5 +19,6 @@
   },
   "reqs": "specialist_plate := 315r TTL, 30r LTN, 30r WND",
   "voi": false,
-  "desc": "Armorers in the Hundred Legion dedicate their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise."
+  "desc": "Armorers in the Hundred Legion dedicate their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise.",
+  "voi_only": false
 }

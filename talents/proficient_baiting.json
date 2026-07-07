@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash."
+  "desc": "Casting your line excites ocean life, reducing the chances of fishing up trash.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "brigands_bicorn := 105r TTL",
   "voi": false,
-  "desc": "Even outlaws need style."
+  "desc": "Even outlaws need style.",
+  "voi_only": false
 }

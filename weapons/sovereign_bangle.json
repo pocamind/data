@@ -17,5 +17,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion."
+  "desc": "An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion.",
+  "voi_only": false
 }

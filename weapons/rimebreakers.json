@@ -26,5 +26,6 @@
   "desc": "Immersed within the Ethironal storm and infused with Kyrsan frost, these knucklebone fistwraps are a poignant reflection of the current state of the Kyrsgarde. Once a proud and mighty people, the Kyrsans now find themselves buffeted, suffocating beneath an oppressive force - with little hope for salvation. Perhaps a similar fate awaits your foes, should they face these implements in combat.",
   "talents": [
     "Fortify"
-  ]
+  ],
+  "voi_only": false
 }

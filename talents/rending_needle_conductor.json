@@ -14,5 +14,6 @@
     "Rending Needle: Augmenter",
     "Rending Needle: Jailer",
     "Rending Needle: Impaler"
-  ]
+  ],
+  "voi_only": false
 }

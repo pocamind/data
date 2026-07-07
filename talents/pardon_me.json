@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Crimes you commit in allied territories are often ignored. Who's asking?"
+  "desc": "Crimes you commit in allied territories are often ignored. Who's asking?",
+  "voi_only": false
 }

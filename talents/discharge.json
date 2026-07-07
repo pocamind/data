@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Light Weapons] On 5th successful attack you will discharge static dealing lightning damage to those nearby."
+  "desc": "[Light Weapons] On 5th successful attack you will discharge static dealing lightning damage to those nearby.",
+  "voi_only": false
 }

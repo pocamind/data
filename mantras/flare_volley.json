@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "wiki": "",
-  "desc": "Conjure up to 3 fireballs to volley at your enemies."
+  "desc": "Conjure up to 3 fireballs to volley at your enemies.",
+  "voi_only": false
 }

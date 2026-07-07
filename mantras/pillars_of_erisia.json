@@ -53,5 +53,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."
+  "desc": "Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp.",
+  "voi_only": false
 }

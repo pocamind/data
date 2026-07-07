@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory."
+  "desc": "A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory.",
+  "voi_only": false
 }

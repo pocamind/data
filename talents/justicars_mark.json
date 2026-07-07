@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked."
+  "desc": "Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked.",
+  "voi_only": false
 }

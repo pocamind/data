@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Posture attack from mobs reduced by 50%"
+  "desc": "Posture attack from mobs reduced by 50%",
+  "voi_only": true
 }

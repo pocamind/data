@@ -17,5 +17,6 @@
   },
   "reqs": "smiths_gloves := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

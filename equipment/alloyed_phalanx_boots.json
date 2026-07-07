@@ -15,5 +15,6 @@
   },
   "reqs": "alloyed_phalanx_boots := 90r TTL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

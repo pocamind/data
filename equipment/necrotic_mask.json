@@ -19,5 +19,6 @@
   },
   "reqs": "necrotic_mask := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

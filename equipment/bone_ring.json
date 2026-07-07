@@ -12,5 +12,6 @@
   },
   "reqs": "bone_ring := ()",
   "voi": false,
-  "desc": "A ring made purely of dense bone. Improve all bone related attacks you do."
+  "desc": "A ring made purely of dense bone. Improve all bone related attacks you do.",
+  "voi_only": false
 }

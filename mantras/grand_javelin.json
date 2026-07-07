@@ -90,5 +90,6 @@
     "Grand Skewer"
   ],
   "voi": false,
-  "desc": "A javelin made out of lightning."
+  "desc": "A javelin made out of lightning.",
+  "voi_only": false
 }

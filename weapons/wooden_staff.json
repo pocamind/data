@@ -22,5 +22,6 @@
   "desc": "A balanced wooden staff.",
   "talents": [
     "Both Ends"
-  ]
+  ],
+  "voi_only": false
 }

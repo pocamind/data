@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. [Madness] Your taunt also now functions as a counter that stacks damage multipliers with every successful taunt."
+  "desc": "Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. [Madness] Your taunt also now functions as a counter that stacks damage multipliers with every successful taunt.",
+  "voi_only": true
 }

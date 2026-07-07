@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy."
+  "desc": "Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy.",
+  "voi_only": false
 }

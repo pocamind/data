@@ -22,5 +22,6 @@
   "desc": "The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes.",
   "talents": [
     "Expeditions Combo"
-  ]
+  ],
+  "voi_only": false
 }

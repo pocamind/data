@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily."
+  "desc": "Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.",
+  "voi_only": false
 }

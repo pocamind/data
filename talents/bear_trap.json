@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent."
+  "desc": "Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.",
+  "voi_only": false
 }

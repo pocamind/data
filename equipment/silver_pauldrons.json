@@ -17,5 +17,6 @@
   },
   "reqs": "silver_pauldrons := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

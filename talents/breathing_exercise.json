@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your sanity recovers more quickly once out of terrifying situations."
+  "desc": "Your sanity recovers more quickly once out of terrifying situations.",
+  "voi_only": false
 }

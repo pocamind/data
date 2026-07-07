@@ -22,5 +22,6 @@
   "desc": "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding.",
   "talents": [
     "Cruel Counter"
-  ]
+  ],
+  "voi_only": false
 }

@@ -49,5 +49,6 @@
     "Strength": 1.65
   },
   "voi": false,
-  "desc": "Toss the ground in front of you."
+  "desc": "Toss the ground in front of you.",
+  "voi_only": false
 }

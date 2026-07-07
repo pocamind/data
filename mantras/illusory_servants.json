@@ -38,5 +38,6 @@
   ],
   "miscellaneous": "Summons a clone of the user. Damage is dependent on user's build.",
   "voi": false,
-  "desc": "Illusory servants to await your commands"
+  "desc": "Illusory servants to await your commands",
+  "voi_only": false
 }

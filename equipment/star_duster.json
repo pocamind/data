@@ -24,5 +24,6 @@
   },
   "reqs": "star_duster := 165r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

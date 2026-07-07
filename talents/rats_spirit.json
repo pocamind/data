@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people."
+  "desc": "Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people.",
+  "voi_only": false
 }

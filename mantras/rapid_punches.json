@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Unleash a barrage of blows against your foes."
+  "desc": "Unleash a barrage of blows against your foes.",
+  "voi_only": false
 }

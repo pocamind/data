@@ -17,5 +17,6 @@
   },
   "reqs": "ringing_scholars_capeline := ()",
   "voi": false,
-  "desc": "A wide-brimmed capeline hat, aged yet carefully maintained, its shape still holding after years of disuse. It seems that, when Knell was still himself, he held a keen fascination with ringing bells, perhaps sound itself, though whatever once drew him to it has long since twisted into madness."
+  "desc": "A wide-brimmed capeline hat, aged yet carefully maintained, its shape still holding after years of disuse. It seems that, when Knell was still himself, he held a keen fascination with ringing bells, perhaps sound itself, though whatever once drew him to it has long since twisted into madness.",
+  "voi_only": false
 }

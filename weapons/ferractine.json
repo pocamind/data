@@ -24,5 +24,6 @@
   "desc": "...",
   "talents": [
     "Blade Threading"
-  ]
+  ],
+  "voi_only": true
 }

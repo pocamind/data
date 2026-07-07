@@ -15,5 +15,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Once a thing. Now just a shrapnel."
+  "desc": "Once a thing. Now just a shrapnel.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you."
+  "desc": "Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.",
+  "voi_only": false
 }

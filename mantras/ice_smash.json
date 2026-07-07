@@ -41,5 +41,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "A colossal mace of ice."
+  "desc": "A colossal mace of ice.",
+  "voi_only": false
 }

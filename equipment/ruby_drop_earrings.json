@@ -13,5 +13,6 @@
   },
   "reqs": "ruby_drop_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

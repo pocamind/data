@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means."
+  "desc": "A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means.",
+  "voi_only": false
 }

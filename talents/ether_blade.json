@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras."
+  "desc": "Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.",
+  "voi_only": true
 }

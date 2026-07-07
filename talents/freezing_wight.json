@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Haunted Gale now procs Chilled."
+  "desc": "Your Haunted Gale now procs Chilled.",
+  "voi_only": false
 }

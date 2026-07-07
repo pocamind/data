@@ -14,5 +14,6 @@
   },
   "reqs": "woodland_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You summon a puppet of black flames that homes onto enemies with black flames."
+  "desc": "You summon a puppet of black flames that homes onto enemies with black flames.",
+  "voi_only": false
 }

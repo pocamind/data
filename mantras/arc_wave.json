@@ -36,5 +36,6 @@
   ],
   "miscellaneous": "Clears 50% of your current posture if used in Arc Suit.",
   "voi": false,
-  "desc": "Stomp the ground releasing a wave of Arc energy."
+  "desc": "Stomp the ground releasing a wave of Arc energy.",
+  "voi_only": false
 }

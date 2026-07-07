@@ -21,5 +21,6 @@
   },
   "reqs": "novice_brace := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

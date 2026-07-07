@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage."
+  "desc": "Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your dancing steps now gives a faster speed boost."
+  "desc": "Your dancing steps now gives a faster speed boost.",
+  "voi_only": false
 }

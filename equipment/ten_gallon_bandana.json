@@ -12,5 +12,6 @@
   },
   "reqs": "ten_gallon_bandana := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

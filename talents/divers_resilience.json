@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed."
+  "desc": "You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.",
+  "voi_only": false
 }

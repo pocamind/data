@@ -15,5 +15,6 @@
   "reqs": "warmasters_medallion := 90r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for hampering the amplitude of one's Resonance."
+  "desc": "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for hampering the amplitude of one's Resonance.",
+  "voi_only": false
 }

@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A sturdy shield, traditionally crafted to suit the rank of it's holder."
+  "desc": "A sturdy shield, traditionally crafted to suit the rank of it's holder.",
+  "voi_only": false
 }

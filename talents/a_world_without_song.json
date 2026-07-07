@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Every 3 hits with a Wind Mantra now procs Suffocating."
+  "desc": "Every 3 hits with a Wind Mantra now procs Suffocating.",
+  "voi_only": false
 }

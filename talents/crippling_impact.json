@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a critical with someone while Wrath Gem is active disables their vent for a few seconds."
+  "desc": "Landing a critical with someone while Wrath Gem is active disables their vent for a few seconds.",
+  "voi_only": false
 }

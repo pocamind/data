@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Using Inhale will now also make your Basic Attacks apply a storm strike. [20 second CD]"
+  "desc": "Using Inhale will now also make your Basic Attacks apply a storm strike. [20 second CD]",
+  "voi_only": false
 }

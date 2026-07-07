@@ -51,5 +51,6 @@
   ],
   "miscellaneous": "Creates ice patches periodically, on flourish, and on Vent.",
   "voi": false,
-  "desc": "A servant of ice."
+  "desc": "A servant of ice.",
+  "voi_only": false
 }

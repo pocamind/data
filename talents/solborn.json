@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Harness your Heartfire to command the Phoenix bound to your soul."
+  "desc": "Harness your Heartfire to command the Phoenix bound to your soul.",
+  "voi_only": true
 }

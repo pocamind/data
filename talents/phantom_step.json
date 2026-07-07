@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)"
+  "desc": "Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)",
+  "voi_only": false
 }

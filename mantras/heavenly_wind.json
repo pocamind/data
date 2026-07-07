@@ -57,5 +57,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "A strike from the heavens."
+  "desc": "A strike from the heavens.",
+  "voi_only": false
 }

@@ -53,5 +53,6 @@
   ],
   "miscellaneous": "Grants one instance of knock prevention for 25 seconds. If a knock is prevented, gain healing scaling on Mantra level. Extinguishes burn if at low health.",
   "voi": false,
-  "desc": "Undying flame."
+  "desc": "Undying flame.",
+  "voi_only": false
 }

@@ -93,5 +93,6 @@
     "Tempest Evolution"
   ],
   "voi": false,
-  "desc": "Slicing blades of wind."
+  "desc": "Slicing blades of wind.",
+  "voi_only": false
 }

@@ -57,5 +57,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes."
+  "desc": "Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes.",
+  "voi_only": false
 }

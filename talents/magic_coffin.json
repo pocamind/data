@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C."
+  "desc": "A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.",
+  "voi_only": true
 }

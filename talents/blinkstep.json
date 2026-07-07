@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your regular dash is enhanced into a Blinkstep above 90% ether but now has an ether cost."
+  "desc": "Your regular dash is enhanced into a Blinkstep above 90% ether but now has an ether cost.",
+  "voi_only": true
 }

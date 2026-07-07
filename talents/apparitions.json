@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step."
+  "desc": "Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.",
+  "voi_only": false
 }

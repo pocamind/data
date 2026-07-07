@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength."
+  "desc": "You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength.",
+  "voi_only": false
 }

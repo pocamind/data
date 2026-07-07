@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You now slow Taunted enemies when you hit them."
+  "desc": "You now slow Taunted enemies when you hit them.",
+  "voi_only": false
 }

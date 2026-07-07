@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your vent is replaced with a ground slam attack that knocks back enemies."
+  "desc": "Your vent is replaced with a ground slam attack that knocks back enemies.",
+  "voi_only": false
 }

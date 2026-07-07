@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Grab and siphon blood out of your victim."
+  "desc": "Grab and siphon blood out of your victim.",
+  "voi_only": false
 }

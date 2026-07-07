@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing mantras sets your opponent on fire."
+  "desc": "Landing mantras sets your opponent on fire.",
+  "voi_only": true
 }

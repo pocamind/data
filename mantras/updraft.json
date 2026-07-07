@@ -53,5 +53,6 @@
     "Magnifying Stone"
   ],
   "voi": false,
-  "desc": "A lifting torrent of wind."
+  "desc": "A lifting torrent of wind.",
+  "voi_only": false
 }

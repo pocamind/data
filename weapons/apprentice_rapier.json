@@ -21,5 +21,6 @@
   "desc": "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey.",
   "talents": [
     "Careful Stance"
-  ]
+  ],
+  "voi_only": false
 }

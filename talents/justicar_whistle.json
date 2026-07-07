@@ -9,5 +9,6 @@
   "desc": "Request aid from a Justicar.",
   "additional_info": "Upon using the provided Talent tool, a Justicar may respond to your call for aid, teleporting to your server to assist you with events and protect you in combat.",
   "icon": "Handshake",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

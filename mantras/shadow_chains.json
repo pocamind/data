@@ -58,5 +58,6 @@
     "Blighted Song"
   ],
   "voi": false,
-  "desc": "Chains of shadow."
+  "desc": "Chains of shadow.",
+  "voi_only": false
 }

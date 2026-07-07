@@ -17,5 +17,6 @@
   },
   "reqs": "a_lot_of_hats := ()",
   "voi": false,
-  "desc": "Go play dark souls 1"
+  "desc": "Go play dark souls 1",
+  "voi_only": false
 }

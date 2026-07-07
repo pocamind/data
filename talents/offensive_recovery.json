@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "If all your mantras have Might Gems equipped, lose posture any time you hit opponents block with a mantra."
+  "desc": "If all your mantras have Might Gems equipped, lose posture any time you hit opponents block with a mantra.",
+  "voi_only": false
 }

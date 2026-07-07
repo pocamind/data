@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit."
+  "desc": "Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.",
+  "voi_only": false
 }

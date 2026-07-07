@@ -51,5 +51,6 @@
   ],
   "miscellaneous": "Passively restores your armor durability. Applies 1 Metal Rod on flourish.",
   "voi": false,
-  "desc": "A servant of metal."
+  "desc": "A servant of metal.",
+  "voi_only": false
 }

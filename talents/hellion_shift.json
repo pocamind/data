@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The more insane you are the more iframes you gain on your dodge."
+  "desc": "The more insane you are the more iframes you gain on your dodge.",
+  "voi_only": true
 }

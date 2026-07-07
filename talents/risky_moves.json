@@ -13,5 +13,6 @@
   "exclusive": [
     "Observation",
     "Safety Dance"
-  ]
+  ],
+  "voi_only": false
 }

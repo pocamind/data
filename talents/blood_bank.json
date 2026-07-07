@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Consuming 'Charm' now gives slight temporary health."
+  "desc": "Consuming 'Charm' now gives slight temporary health.",
+  "voi_only": false
 }

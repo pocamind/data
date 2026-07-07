@@ -23,5 +23,6 @@
   "desc": "Considered by many to be an overgrown kitchen knife, the Messer is a favourite of rangers and beast hunters the world over.",
   "talents": [
     "Finishing Slay"
-  ]
+  ],
+  "voi_only": false
 }

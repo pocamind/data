@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Strong Left now guard breaks at level 5."
+  "desc": "Strong Left now guard breaks at level 5.",
+  "voi_only": false
 }

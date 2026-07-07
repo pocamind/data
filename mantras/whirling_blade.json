@@ -32,5 +32,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "A chitinous scythe to cut through your foes in a whirl."
+  "desc": "A chitinous scythe to cut through your foes in a whirl.",
+  "voi_only": false
 }

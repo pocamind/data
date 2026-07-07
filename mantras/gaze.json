@@ -38,5 +38,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Gaze into your opponent's souls."
+  "desc": "Gaze into your opponent's souls.",
+  "voi_only": false
 }

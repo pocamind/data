@@ -123,5 +123,6 @@
     "Rush Shard"
   ],
   "voi": false,
-  "desc": "Temporarily summon a shadow greatsword for a large slash."
+  "desc": "Temporarily summon a shadow greatsword for a large slash.",
+  "voi_only": false
 }

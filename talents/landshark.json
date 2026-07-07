@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Killing a Megalodaunt will grant lifesteal on your attacks for 30 seconds."
+  "desc": "Killing a Megalodaunt will grant lifesteal on your attacks for 30 seconds.",
+  "voi_only": false
 }

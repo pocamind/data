@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks."
+  "desc": "You're resistant to the effects of Illusion magic. You are resistant to charms and tricks.",
+  "voi_only": false
 }

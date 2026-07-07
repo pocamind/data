@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The damage of your flames scale with how insane you are."
+  "desc": "The damage of your flames scale with how insane you are.",
+  "voi_only": false
 }

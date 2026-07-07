@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were."
+  "desc": "Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were.",
+  "voi_only": false
 }

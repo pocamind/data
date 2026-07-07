@@ -98,5 +98,6 @@
     "Hell's Partisan"
   ],
   "voi": false,
-  "desc": "Toss a nimble dagger."
+  "desc": "Toss a nimble dagger.",
+  "voi_only": false
 }

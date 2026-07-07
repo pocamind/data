@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments."
+  "desc": "Rustic and shabby in design, this application of Rosen's gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer Company's earliest gunsmithing experiments.",
+  "voi_only": false
 }

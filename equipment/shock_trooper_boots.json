@@ -17,5 +17,6 @@
   },
   "reqs": "shock_trooper_boots := 165r TTL",
   "voi": false,
-  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed."
+  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed.",
+  "voi_only": false
 }

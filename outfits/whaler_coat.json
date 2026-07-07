@@ -22,5 +22,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 50
   },
-  "desc": "Coat and pseudo-uniform of Eylis' gang of Assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea."
+  "desc": "Coat and pseudo-uniform of Eylis' gang of Assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea.",
+  "voi_only": false
 }

@@ -56,5 +56,6 @@
     "Tornado Spark"
   ],
   "voi": false,
-  "desc": "Conjure weapons of thunder with your ether."
+  "desc": "Conjure weapons of thunder with your ether.",
+  "voi_only": false
 }

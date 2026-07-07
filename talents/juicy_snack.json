@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Eliminating enemies returns their amount of blood poison as health to you."
+  "desc": "Eliminating enemies returns their amount of blood poison as health to you.",
+  "voi_only": false
 }

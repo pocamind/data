@@ -15,5 +15,6 @@
   },
   "reqs": "gale_enhanced_earrings := 90r TTL",
   "voi": false,
-  "desc": "Putting these on, you feel as if you are light as a cloud."
+  "desc": "Putting these on, you feel as if you are light as a cloud.",
+  "voi_only": false
 }

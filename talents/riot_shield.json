@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%."
+  "desc": "While you are fighting two or more opponents and are using a shield, reduce the total amount of chip damage you take by 40%.",
+  "voi_only": false
 }

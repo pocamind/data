@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain a bit more autoparry frames on successful parries."
+  "desc": "Gain a bit more autoparry frames on successful parries.",
+  "voi_only": false
 }

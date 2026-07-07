@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage"
+  "desc": "Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage",
+  "voi_only": false
 }

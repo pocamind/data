@@ -23,5 +23,6 @@
     "Ether Regen": 75,
     "Extra Stealth": 0
   },
-  "desc": "Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability."
+  "desc": "Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability.",
+  "voi_only": false
 }

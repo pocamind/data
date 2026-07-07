@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Overloading an enemy applies Sapped for 5s."
+  "desc": "Overloading an enemy applies Sapped for 5s.",
+  "voi_only": false
 }

@@ -13,5 +13,6 @@
   },
   "reqs": "sandrunner_scarf := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

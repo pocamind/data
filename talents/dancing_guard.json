@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s."
+  "desc": "Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.",
+  "voi_only": false
 }

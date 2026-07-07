@@ -56,5 +56,6 @@
     "Iron Hug Throw"
   ],
   "voi": false,
-  "desc": "A shadowy hand."
+  "desc": "A shadowy hand.",
+  "voi_only": false
 }

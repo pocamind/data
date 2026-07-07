@@ -34,5 +34,6 @@
     "Flamecharm": 2.75
   },
   "voi": true,
-  "desc": "A vicious grasp of flames. Receive a damage buff if you land this attack."
+  "desc": "A vicious grasp of flames. Receive a damage buff if you land this attack.",
+  "voi_only": true
 }

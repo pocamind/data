@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes."
+  "desc": "Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.",
+  "voi_only": false
 }

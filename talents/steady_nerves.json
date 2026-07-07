@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You dance from toe to toe - successful dodges restore posture."
+  "desc": "You dance from toe to toe - successful dodges restore posture.",
+  "voi_only": false
 }

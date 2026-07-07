@@ -58,5 +58,6 @@
     "Vacuum Punch"
   ],
   "voi": false,
-  "desc": "Form a punch of wind in your fist and release it."
+  "desc": "Form a punch of wind in your fist and release it.",
+  "voi_only": false
 }

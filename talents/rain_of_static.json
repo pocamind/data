@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast."
+  "desc": "After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.",
+  "voi_only": false
 }

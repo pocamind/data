@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Landing the Crescent Cleaver critical attack causes your opponent to be unable to sprint for 8 seconds. [10 second CD]",
   "icon": "Skeleton",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

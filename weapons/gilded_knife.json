@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A knife of fine craftsmanship, bearing an equally fine sharpness."
+  "desc": "A knife of fine craftsmanship, bearing an equally fine sharpness.",
+  "voi_only": false
 }

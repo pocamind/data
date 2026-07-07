@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae."
+  "desc": "Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.",
+  "voi_only": false
 }

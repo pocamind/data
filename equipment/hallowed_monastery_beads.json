@@ -19,5 +19,6 @@
   },
   "reqs": "hallowed_monastery_beads := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

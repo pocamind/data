@@ -57,5 +57,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "A bullet of flames shot through each hand."
+  "desc": "A bullet of flames shot through each hand.",
+  "voi_only": false
 }

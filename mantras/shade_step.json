@@ -53,5 +53,6 @@
     "Beast Burrow"
   ],
   "voi": false,
-  "desc": "Submerge into your shadow. Click to launch an attack at any point while submerged."
+  "desc": "Submerge into your shadow. Click to launch an attack at any point while submerged.",
+  "voi_only": false
 }

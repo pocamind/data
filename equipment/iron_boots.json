@@ -12,5 +12,6 @@
   },
   "reqs": "iron_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -52,5 +52,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "A barrage of metal rods."
+  "desc": "A barrage of metal rods.",
+  "voi_only": false
 }

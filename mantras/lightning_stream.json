@@ -95,5 +95,6 @@
     "Static Ace"
   ],
   "voi": false,
-  "desc": "A stream of lightning."
+  "desc": "A stream of lightning.",
+  "voi_only": false
 }

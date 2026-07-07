@@ -57,5 +57,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "A quick swirl of sharp winds."
+  "desc": "A quick swirl of sharp winds.",
+  "voi_only": false
 }

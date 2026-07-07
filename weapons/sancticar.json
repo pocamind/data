@@ -22,5 +22,6 @@
   "penetration": 0.15,
   "talents": [
     "Both Ends"
-  ]
+  ],
+  "voi_only": false
 }

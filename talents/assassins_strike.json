@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Rapid Slashes now deals twice the amount of damage."
+  "desc": "Your Rapid Slashes now deals twice the amount of damage.",
+  "voi_only": false
 }

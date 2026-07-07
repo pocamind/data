@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor."
+  "desc": "Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.",
+  "voi_only": false
 }

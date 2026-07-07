@@ -18,5 +18,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The mysterious martial arts style of theÂ Children of Navae. Each strike is said to be dedicated to a different constellation."
+  "desc": "The mysterious martial arts style of theÃ‚Â Children of Navae. Each strike is said to be dedicated to a different constellation.",
+  "voi_only": false
 }

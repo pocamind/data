@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it."
+  "desc": "Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it.",
+  "voi_only": false
 }

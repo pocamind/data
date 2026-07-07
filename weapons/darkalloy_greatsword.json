@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep."
+  "desc": "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep.",
+  "voi_only": false
 }

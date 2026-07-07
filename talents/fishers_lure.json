@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Fish are drawn to your line more quickly."
+  "desc": "Fish are drawn to your line more quickly.",
+  "voi_only": false
 }

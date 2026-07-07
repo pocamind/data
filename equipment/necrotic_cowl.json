@@ -23,5 +23,6 @@
   },
   "reqs": "necrotic_cowl := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

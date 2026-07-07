@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Activate to make your next critical attack with any gun have 100% chip and shatter your opponent's armor for a few seconds, making them take increased PEN from all sources."
+  "desc": "Activate to make your next critical attack with any gun have 100% chip and shatter your opponent's armor for a few seconds, making them take increased PEN from all sources.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Pour your heart out, and reveal your true strength."
+  "desc": "Pour your heart out, and reveal your true strength.",
+  "voi_only": false
 }

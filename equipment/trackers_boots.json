@@ -19,5 +19,6 @@
   },
   "reqs": "trackers_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

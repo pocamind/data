@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "[Medium Weapons] When above half health and two-handing, posture damage taken is reduced by 5%."
+  "desc": "[Medium Weapons] When above half health and two-handing, posture damage taken is reduced by 5%.",
+  "voi_only": false
 }

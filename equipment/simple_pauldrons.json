@@ -15,5 +15,6 @@
   "pips": {},
   "reqs": "simple_pauldrons := ()",
   "voi": false,
-  "desc": "Either they're of low complexity or someone needs a punch."
+  "desc": "Either they're of low complexity or someone needs a punch.",
+  "voi_only": false
 }

@@ -55,5 +55,6 @@
     "Rush Shard"
   ],
   "voi": false,
-  "desc": "Form a Shockwave of darkness."
+  "desc": "Form a Shockwave of darkness.",
+  "voi_only": false
 }

@@ -13,5 +13,6 @@
   },
   "reqs": "azure_sentinel_pauldrons := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

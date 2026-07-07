@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A spear perfect for poking at a safe distance"
+  "desc": "A spear perfect for poking at a safe distance",
+  "voi_only": false
 }

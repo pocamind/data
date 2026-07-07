@@ -26,5 +26,6 @@
     }
   ],
   "voi": false,
-  "desc": "Snip forward 3 times with your scissors!"
+  "desc": "Snip forward 3 times with your scissors!",
+  "voi_only": false
 }

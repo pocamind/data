@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Applying Conductor rods on opponents steals some of their armor to you."
+  "desc": "Applying Conductor rods on opponents steals some of their armor to you.",
+  "voi_only": false
 }

@@ -92,5 +92,6 @@
     "Glacial Mobility"
   ],
   "voi": false,
-  "desc": "A barrage of freezing blades."
+  "desc": "A barrage of freezing blades.",
+  "voi_only": false
 }

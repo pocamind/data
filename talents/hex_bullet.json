@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity."
+  "desc": "Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.",
+  "voi_only": true
 }

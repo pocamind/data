@@ -73,5 +73,6 @@
   ],
   "miscellaneous": "Grants a speed boost while active.",
   "voi": false,
-  "desc": "An adrenaline rush of mobility."
+  "desc": "An adrenaline rush of mobility.",
+  "voi_only": false
 }

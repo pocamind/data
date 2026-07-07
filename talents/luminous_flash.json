@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light."
+  "desc": "After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.",
+  "voi_only": false
 }

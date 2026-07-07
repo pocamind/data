@@ -94,5 +94,6 @@
     "Tornado Spark"
   ],
   "voi": false,
-  "desc": "Slicing blades of dark energy."
+  "desc": "Slicing blades of dark energy.",
+  "voi_only": false
 }

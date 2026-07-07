@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent."
+  "desc": "Venting will shift any elemental status effects affecting you onto those hit by your vent.",
+  "voi_only": false
 }

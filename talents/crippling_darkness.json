@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your non-Basic Attacks have 20% PEN."
+  "desc": "Your non-Basic Attacks have 20% PEN.",
+  "voi_only": false
 }

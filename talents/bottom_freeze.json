@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground."
+  "desc": "Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.",
+  "voi_only": false
 }

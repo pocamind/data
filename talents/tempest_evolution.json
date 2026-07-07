@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your slide-jumped Wind Blades are naturally stronger and if landed grant +20% damage in the air for a few seconds."
+  "desc": "Your slide-jumped Wind Blades are naturally stronger and if landed grant +20% damage in the air for a few seconds.",
+  "voi_only": false
 }

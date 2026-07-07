@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Lightning moves now apply stacks of \"Resolve Crusher\". At 4 stacks, you apply \"Electrified\" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you."
+  "desc": "Lightning moves now apply stacks of \"Resolve Crusher\". At 4 stacks, you apply \"Electrified\" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.",
+  "voi_only": false
 }

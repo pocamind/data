@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Every strike landed lines your pockets."
+  "desc": "Every strike landed lines your pockets.",
+  "voi_only": true
 }

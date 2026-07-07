@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Greataxes] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor."
+  "desc": "[Greataxes] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor.",
+  "voi_only": false
 }

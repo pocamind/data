@@ -31,5 +31,6 @@
   ],
   "miscellaneous": "Procs Heart Reverb on hit or block.",
   "voi": false,
-  "desc": "Channel your Rhythm and track down your opponent."
+  "desc": "Channel your Rhythm and track down your opponent.",
+  "voi_only": false
 }

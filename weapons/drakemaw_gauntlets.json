@@ -22,5 +22,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost."
+  "desc": "Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.",
+  "voi_only": false
 }

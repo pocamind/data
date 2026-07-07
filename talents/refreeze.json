@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds."
+  "desc": "Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.",
+  "voi_only": false
 }

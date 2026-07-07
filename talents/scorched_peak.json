@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning."
+  "desc": "Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.",
+  "voi_only": false
 }

@@ -61,5 +61,6 @@
   ],
   "miscellaneous": "Only levels off Agility. Does not have investment scaling.",
   "voi": false,
-  "desc": "Launch quick and devastating kicks."
+  "desc": "Launch quick and devastating kicks.",
+  "voi_only": false
 }

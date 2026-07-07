@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your glare now ignores if your opponent is facing you."
+  "desc": "Your glare now ignores if your opponent is facing you.",
+  "voi_only": false
 }

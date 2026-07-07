@@ -24,5 +24,6 @@
   },
   "reqs": "kongas_parka := ()",
   "voi": true,
-  "desc": "An essential winter coat to protect you against the cold."
+  "desc": "An essential winter coat to protect you against the cold.",
+  "voi_only": true
 }

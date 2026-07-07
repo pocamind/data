@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "ring_of_pestilence := ()",
   "voi": false,
-  "desc": "Your weapon applies 50% anti-heal for 5s."
+  "desc": "Your weapon applies 50% anti-heal for 5s.",
+  "voi_only": false
 }

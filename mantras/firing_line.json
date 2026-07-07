@@ -94,5 +94,6 @@
     "Metal Turret"
   ],
   "voi": false,
-  "desc": "Create a firing line of metal to light up your target."
+  "desc": "Create a firing line of metal to light up your target.",
+  "voi_only": false
 }

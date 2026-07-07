@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftsmanship and modern innovation, ready to carve its name into history again with you."
+  "desc": "An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftsmanship and modern innovation, ready to carve its name into history again with you.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "ferrymans_ring := 105r TTL",
   "voi": false,
-  "desc": "A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%."
+  "desc": "A ring of the deceptive Krulian known as the Ferryman. Increases the range of your Rhythm by 50%.",
+  "voi_only": false
 }

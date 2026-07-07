@@ -28,5 +28,6 @@
   "miscellaneous": "Only unlockable through the Hallowtide Event.",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

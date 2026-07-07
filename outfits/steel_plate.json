@@ -21,5 +21,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate."
+  "desc": "The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate.",
+  "voi_only": false
 }

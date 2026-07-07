@@ -12,5 +12,6 @@
   },
   "reqs": "azure_sentinel_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

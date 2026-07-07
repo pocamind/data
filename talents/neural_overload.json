@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3."
+  "desc": "You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.",
+  "voi_only": false
 }

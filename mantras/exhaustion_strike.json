@@ -50,5 +50,6 @@
   },
   "miscellaneous": "Transfers a percentage of your current posture to your opponent on hit, scaling on Mantra level.",
   "voi": false,
-  "desc": "A melee strike that removes your posture's damage on hit."
+  "desc": "A melee strike that removes your posture's damage on hit.",
+  "voi_only": false
 }

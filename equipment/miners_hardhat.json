@@ -20,5 +20,6 @@
   },
   "reqs": "miners_hardhat := 105r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

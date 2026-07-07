@@ -59,5 +59,6 @@
   ],
   "voi": false,
   "wiki": "",
-  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies."
+  "desc": "Summon two cubes tethered by lightning, setting a trap for your enemies.",
+  "voi_only": false
 }

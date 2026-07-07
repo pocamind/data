@@ -32,5 +32,6 @@
     "Ichor Imbuement"
   ],
   "voi": false,
-  "desc": "Take to the skies for a devastating strike."
+  "desc": "Take to the skies for a devastating strike.",
+  "voi_only": false
 }

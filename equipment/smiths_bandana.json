@@ -17,5 +17,6 @@
   },
   "reqs": "smiths_bandana := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "All mantras you cast now have a reduced cost of 30 ether."
+  "desc": "All mantras you cast now have a reduced cost of 30 ether.",
+  "voi_only": true
 }

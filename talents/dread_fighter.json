@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds."
+  "desc": "Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.",
+  "voi_only": false
 }

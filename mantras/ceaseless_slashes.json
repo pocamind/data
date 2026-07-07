@@ -52,5 +52,6 @@
     "Curved Edge"
   ],
   "voi": false,
-  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together."
+  "desc": "Click to reveal yourself and deliver a rapid flurry of slashes that can chain together.",
+  "voi_only": false
 }

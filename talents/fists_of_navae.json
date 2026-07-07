@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Double the amount of ether you gain on successful light attacks."
+  "desc": "Double the amount of ether you gain on successful light attacks.",
+  "voi_only": false
 }

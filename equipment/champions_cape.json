@@ -20,5 +20,6 @@
   },
   "reqs": "champions_cape := 315r TTL",
   "voi": false,
-  "desc": "Time to write your own legends."
+  "desc": "Time to write your own legends.",
+  "voi_only": false
 }

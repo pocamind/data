@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] When blockbroken, eject from your suit."
+  "desc": "[In Arc Suit] When blockbroken, eject from your suit.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "silver_ring := ()",
   "voi": false,
-  "desc": "A simple silver ring."
+  "desc": "A simple silver ring.",
+  "voi_only": false
 }

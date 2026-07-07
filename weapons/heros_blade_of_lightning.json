@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm."
+  "desc": "A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm.",
+  "voi_only": false
 }

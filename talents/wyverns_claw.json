@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead."
+  "desc": "You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.",
+  "voi_only": false
 }

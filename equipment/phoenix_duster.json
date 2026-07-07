@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "phoenix_duster := ()",
   "voi": false,
-  "desc": "???"
+  "desc": "???",
+  "voi_only": false
 }

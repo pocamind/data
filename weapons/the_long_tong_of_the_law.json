@@ -22,5 +22,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Where's the crabbo SAUUUCE?"
+  "desc": "Where's the crabbo SAUUUCE?",
+  "voi_only": false
 }

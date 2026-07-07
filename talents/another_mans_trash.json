@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Take unequipped equipment when mugging a player. Gain a little more damage against PvE the more you are currently carrying."
+  "desc": "Take unequipped equipment when mugging a player. Gain a little more damage against PvE the more you are currently carrying.",
+  "voi_only": false
 }

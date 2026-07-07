@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat."
+  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
+  "voi_only": false
 }

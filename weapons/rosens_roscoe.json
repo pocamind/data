@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's First generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation"
+  "desc": "A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's First generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation",
+  "voi_only": false
 }

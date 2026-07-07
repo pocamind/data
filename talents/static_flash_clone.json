@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When using lightning clones you instead disappear leaving behind a static clone for a short duration."
+  "desc": "When using lightning clones you instead disappear leaving behind a static clone for a short duration.",
+  "voi_only": false
 }

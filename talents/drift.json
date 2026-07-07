@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You're no longer slow enough to have to rely on parries. Dodge instead."
+  "desc": "You're no longer slow enough to have to rely on parries. Dodge instead.",
+  "voi_only": true
 }

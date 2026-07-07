@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Sacrifice 35% of your blood for temporary health."
+  "desc": "Sacrifice 35% of your blood for temporary health.",
+  "voi_only": false
 }

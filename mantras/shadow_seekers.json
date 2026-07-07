@@ -58,5 +58,6 @@
     "Shadow Meteors"
   ],
   "voi": false,
-  "desc": "Call forth the void to track your opponents."
+  "desc": "Call forth the void to track your opponents.",
+  "voi_only": false
 }

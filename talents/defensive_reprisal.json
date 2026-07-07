@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Being flourished grants you 10% posture resistance for 20s."
+  "desc": "Being flourished grants you 10% posture resistance for 20s.",
+  "voi_only": false
 }

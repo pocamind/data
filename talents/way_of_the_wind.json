@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Being in the air briefly increases the speed of your mantra casts. This effect only lasts while you're in the air."
+  "desc": "Being in the air briefly increases the speed of your mantra casts. This effect only lasts while you're in the air.",
+  "voi_only": false
 }

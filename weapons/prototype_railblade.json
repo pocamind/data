@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "A prototype weapon devised by the Ignition Union in the hopes of improving their odds against the denizens of the Deep."
+  "desc": "A prototype weapon devised by the Ignition Union in the hopes of improving their odds against the denizens of the Deep.",
+  "voi_only": true
 }

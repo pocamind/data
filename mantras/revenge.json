@@ -74,5 +74,6 @@
   ],
   "miscellaneous": "Deals increased damage if you are below 50% health, scaling with the amount of health lost. Caps at 50 damage.",
   "voi": false,
-  "desc": "A vengeful rush. Deals additional damage the lower your health is below 50%."
+  "desc": "A vengeful rush. Deals additional damage the lower your health is below 50%.",
+  "voi_only": false
 }

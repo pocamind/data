@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra."
+  "desc": "Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.",
+  "voi_only": false
 }

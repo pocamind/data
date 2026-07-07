@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Charmed enemies will grant you even more damage multipliers on your Taunt counter."
+  "desc": "Charmed enemies will grant you even more damage multipliers on your Taunt counter.",
+  "voi_only": true
 }

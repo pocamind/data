@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "For every Ether Erudite Stack you have, reduce the windup of your enhanced Master's Flourish. This consumes your Ether Erudite stacks on use."
+  "desc": "For every Ether Erudite Stack you have, reduce the windup of your enhanced Master's Flourish. This consumes your Ether Erudite stacks on use.",
+  "voi_only": true
 }

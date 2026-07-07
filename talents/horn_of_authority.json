@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mark escaping prisoners."
+  "desc": "Mark escaping prisoners.",
+  "voi_only": false
 }

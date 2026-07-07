@@ -53,5 +53,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "Create a metal ball and rush forward."
+  "desc": "Create a metal ball and rush forward.",
+  "voi_only": false
 }

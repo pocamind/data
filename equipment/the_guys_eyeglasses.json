@@ -13,5 +13,6 @@
   "reqs": "the_guys_eyeglasses := ()",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

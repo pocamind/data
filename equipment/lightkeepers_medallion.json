@@ -15,5 +15,6 @@
   "reqs": "lightkeepers_medallion := 90r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur."
+  "desc": "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur.",
+  "voi_only": false
 }

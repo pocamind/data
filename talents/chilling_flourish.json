@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When flourishing an enemy, they leave behind a trail of ice in the direction you send them."
+  "desc": "When flourishing an enemy, they leave behind a trail of ice in the direction you send them.",
+  "voi_only": false
 }

@@ -57,5 +57,6 @@
     "Propagandist"
   ],
   "voi": false,
-  "desc": "Charm those around you with your powerful voice."
+  "desc": "Charm those around you with your powerful voice.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Natural Armor grows sturdier, being able to take more hits before breaking."
+  "desc": "Your Natural Armor grows sturdier, being able to take more hits before breaking.",
+  "voi_only": true
 }

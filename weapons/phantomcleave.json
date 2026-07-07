@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master."
+  "desc": "A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Using a fire mantra near your own steam cloud detonates it."
+  "desc": "Using a fire mantra near your own steam cloud detonates it.",
+  "voi_only": false
 }

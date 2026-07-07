@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map."
+  "desc": "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map.",
+  "voi_only": false
 }

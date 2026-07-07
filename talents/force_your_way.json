@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You can parry unparryable attacks from giant monsters, at the cost of armor durability."
+  "desc": "You can parry unparryable attacks from giant monsters, at the cost of armor durability.",
+  "voi_only": false
 }

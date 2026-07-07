@@ -22,5 +22,6 @@
   "desc": "A gift from High Inquisitor Merey. Far from a weapon of war, this dagger is a perfect tool for the stealthy wetwork missions of the Inquisition. Eyes and ears may watch and listen, but must never make a sound.",
   "talents": [
     "Swift Strike"
-  ]
+  ],
+  "voi_only": false
 }

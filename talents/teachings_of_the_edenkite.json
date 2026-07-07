@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Find your centre."
+  "desc": "Find your centre.",
+  "voi_only": false
 }

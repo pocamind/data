@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your lightning attacks in water strike others near them with lightning."
+  "desc": "Your lightning attacks in water strike others near them with lightning.",
+  "voi_only": false
 }

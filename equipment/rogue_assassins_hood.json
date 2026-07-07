@@ -20,5 +20,6 @@
   },
   "reqs": "rogue_assassins_hood := 10r AGL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

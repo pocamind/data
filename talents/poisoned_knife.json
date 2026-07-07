@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Deepwound's anti heal now lasts 60 seconds on assassination instead of 20."
+  "desc": "Your Deepwound's anti heal now lasts 60 seconds on assassination instead of 20.",
+  "voi_only": true
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Charmed enemies now have a chance to be hit critically, multiplying the damage."
+  "desc": "Charmed enemies now have a chance to be hit critically, multiplying the damage.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Ailments and blessings alike fade away more quickly."
+  "desc": "Ailments and blessings alike fade away more quickly.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "purifying_ring := ()",
   "voi": false,
-  "desc": "A silver ring that eradicates the murk in the water surrounding it."
+  "desc": "A silver ring that eradicates the murk in the water surrounding it.",
+  "voi_only": false
 }

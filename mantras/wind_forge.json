@@ -88,5 +88,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Encircle your foes with blades of wind that halt their escape until they respond."
+  "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
+  "voi_only": false
 }

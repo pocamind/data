@@ -15,5 +15,6 @@
   },
   "reqs": "ossified_phalanx_boots := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

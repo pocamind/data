@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Heroes come to your aid based on your current stance."
+  "desc": "Heroes come to your aid based on your current stance.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A simple blunt weapon effective at breaking guards."
+  "desc": "A simple blunt weapon effective at breaking guards.",
+  "voi_only": false
 }

@@ -45,5 +45,6 @@
     "Neural Pathway"
   ],
   "voi": true,
-  "desc": "Leap up leaving behind a burst of flames."
+  "desc": "Leap up leaving behind a burst of flames.",
+  "voi_only": false
 }

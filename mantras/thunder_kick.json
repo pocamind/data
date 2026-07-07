@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "An unrelenting kick like a clap of thunder."
+  "desc": "An unrelenting kick like a clap of thunder.",
+  "voi_only": false
 }

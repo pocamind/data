@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]"
+  "desc": "After you land a flourish, gain the ability to shoot bullets for 5 seconds. [Dual Gun]",
+  "voi_only": false
 }

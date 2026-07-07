@@ -36,5 +36,6 @@
   ],
   "miscellaneous": "Damage increase is dependent on landing subsequent kicks. (+8 per Perpetual Wrath stack, max 55)",
   "voi": false,
-  "desc": "Deliver a powerful kick that binds your opponent's soul to yours."
+  "desc": "Deliver a powerful kick that binds your opponent's soul to yours.",
+  "voi_only": false
 }

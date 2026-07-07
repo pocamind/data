@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.",
   "icon": "Sword",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Siphon some of your enemies ether when you kill them. This gets added onto your health permanently, however you are now slowed at all times. This slow increases the more health you have siphoned."
+  "desc": "Siphon some of your enemies ether when you kill them. This gets added onto your health permanently, however you are now slowed at all times. This slow increases the more health you have siphoned.",
+  "voi_only": true
 }

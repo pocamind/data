@@ -31,5 +31,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Spin rapidly to unleash powerful rays of light."
+  "desc": "Spin rapidly to unleash powerful rays of light.",
+  "voi_only": false
 }

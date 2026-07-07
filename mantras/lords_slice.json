@@ -33,5 +33,6 @@
     "Hidden Tendril"
   ],
   "voi": false,
-  "desc": "The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions."
+  "desc": "The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach."
+  "desc": "Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.",
+  "voi_only": false
 }

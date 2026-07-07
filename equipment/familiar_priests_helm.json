@@ -18,5 +18,6 @@
   },
   "reqs": "familiar_priests_helm := 135r TTL",
   "voi": false,
-  "desc": "A familiar helm said to have been passed down by a wayward line of a distant land.\n[*Note; Only obtainable through the Hallowtide Event or the Hallowtide '22 Medal.]"
+  "desc": "A familiar helm said to have been passed down by a wayward line of a distant land.\n[*Note; Only obtainable through the Hallowtide Event or the Hallowtide '22 Medal.]",
+  "voi_only": false
 }

@@ -49,5 +49,6 @@
     "Ironsing": 2.75
   },
   "voi": false,
-  "desc": "Create a metal clone and appear behind your target."
+  "desc": "Create a metal clone and appear behind your target.",
+  "voi_only": false
 }

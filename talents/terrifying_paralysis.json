@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Hidden Blade disables opponents' ability to roll for 3 seconds."
+  "desc": "Your Hidden Blade disables opponents' ability to roll for 3 seconds.",
+  "voi_only": true
 }

@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Deal +5% more damage when your health is below 25%."
+  "desc": "Deal +5% more damage when your health is below 25%.",
+  "voi_only": false
 }

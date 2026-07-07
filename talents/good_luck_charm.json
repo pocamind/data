@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Makes you feel a little better, probably.",
   "icon": "Climb",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

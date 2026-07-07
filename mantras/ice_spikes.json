@@ -58,5 +58,6 @@
     "Spike Traps"
   ],
   "voi": false,
-  "desc": "Piercing spikes of ice."
+  "desc": "Piercing spikes of ice.",
+  "voi_only": false
 }

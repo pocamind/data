@@ -22,5 +22,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A serrated cutlass fashioned after the famously brutal bite of a Lionfish."
+  "desc": "A serrated cutlass fashioned after the famously brutal bite of a Lionfish.",
+  "voi_only": false
 }

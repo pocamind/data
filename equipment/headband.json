@@ -19,5 +19,6 @@
   },
   "reqs": "headband := ()",
   "voi": false,
-  "desc": "A stylish headband. Capable of hiding even the most dire of hairlines."
+  "desc": "A stylish headband. Capable of hiding even the most dire of hairlines.",
+  "voi_only": false
 }

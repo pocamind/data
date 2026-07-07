@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your attacks gain 10% PEN multiplicatively when you have an active speed boost."
+  "desc": "Your attacks gain 10% PEN multiplicatively when you have an active speed boost.",
+  "voi_only": false
 }

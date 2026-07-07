@@ -26,5 +26,6 @@
     "Ether Regen": 20,
     "Extra Stealth": 50
   },
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

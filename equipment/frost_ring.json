@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "frost_ring := ()",
   "voi": false,
-  "desc": "Apply a very light slow on your opponent when landing a light attack. This effect stacks."
+  "desc": "Apply a very light slow on your opponent when landing a light attack. This effect stacks.",
+  "voi_only": false
 }

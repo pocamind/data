@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds."
+  "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds.",
+  "voi_only": false
 }

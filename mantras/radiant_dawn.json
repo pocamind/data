@@ -31,5 +31,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Strike down your foes with your blinding light."
+  "desc": "Strike down your foes with your blinding light.",
+  "voi_only": false
 }

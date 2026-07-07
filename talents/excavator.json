@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Chance to receive two sets of ore when mining, mine ores a lot faster."
+  "desc": "Chance to receive two sets of ore when mining, mine ores a lot faster.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You gain significantly more ether from consuming elemental ingredients."
+  "desc": "You gain significantly more ether from consuming elemental ingredients.",
+  "voi_only": false
 }

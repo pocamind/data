@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Move faster when your armor runs out of durability."
+  "desc": "Move faster when your armor runs out of durability.",
+  "voi_only": false
 }

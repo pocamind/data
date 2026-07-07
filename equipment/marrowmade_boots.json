@@ -20,5 +20,6 @@
   },
   "reqs": "marrowmade_boots := 240r TTL",
   "voi": false,
-  "desc": "A grotesque set of boots, manufactured from what appears too be the foot and head of a Bonekeeper. Calling these 'comfortable' feels charitable. And yet, holding them, you cannot help not feel your bones itch and the ground beneath you quiver..."
+  "desc": "A grotesque set of boots, manufactured from what appears too be the foot and head of a Bonekeeper. Calling these 'comfortable' feels charitable. And yet, holding them, you cannot help not feel your bones itch and the ground beneath you quiver...",
+  "voi_only": false
 }

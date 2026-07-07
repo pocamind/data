@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Running attacks do +15% extra damage when you have a speed boost."
+  "desc": "Running attacks do +15% extra damage when you have a speed boost.",
+  "voi_only": false
 }

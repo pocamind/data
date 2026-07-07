@@ -59,5 +59,6 @@
     "Spring Spark"
   ],
   "voi": false,
-  "desc": "Conjure a flaming arrow and fire it at your target."
+  "desc": "Conjure a flaming arrow and fire it at your target.",
+  "voi_only": false
 }

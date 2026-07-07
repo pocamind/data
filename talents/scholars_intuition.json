@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "INT, WILL, and CHA Training Gear is 50% more effective."
+  "desc": "INT, WILL, and CHA Training Gear is 50% more effective.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Anytime you proc Boiling Point, increase the speed at which you reload your Vapormaw Carbine and increase your Critical Attack's fire rate."
+  "desc": "Anytime you proc Boiling Point, increase the speed at which you reload your Vapormaw Carbine and increase your Critical Attack's fire rate.",
+  "voi_only": true
 }

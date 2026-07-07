@@ -34,5 +34,6 @@
   ],
   "miscellaneous": "You cannot use this Mantra if Chorus of Souls is not active.",
   "voi": false,
-  "desc": "Harness your Chorus of Wisps to unleash a devastating blast."
+  "desc": "Harness your Chorus of Wisps to unleash a devastating blast.",
+  "voi_only": false
 }

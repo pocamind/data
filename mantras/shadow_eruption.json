@@ -56,5 +56,6 @@
     "Overwhelming Drain"
   ],
   "voi": false,
-  "desc": "Form a shockwave of darkness."
+  "desc": "Form a shockwave of darkness.",
+  "voi_only": false
 }

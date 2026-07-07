@@ -15,5 +15,6 @@
   },
   "reqs": "celestial_boots := 165r TTL",
   "voi": false,
-  "desc": "Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world."
+  "desc": "Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world.",
+  "voi_only": false
 }

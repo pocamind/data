@@ -19,5 +19,6 @@
   },
   "reqs": "trueblood_pendant := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

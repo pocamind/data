@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Whenever you gain a speed boost, increase your swingspeed by 0.02."
+  "desc": "Whenever you gain a speed boost, increase your swingspeed by 0.02.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage."
+  "desc": "Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.",
+  "voi_only": false
 }

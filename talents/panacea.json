@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying for 7 seconds."
+  "desc": "Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying for 7 seconds.",
+  "voi_only": false
 }

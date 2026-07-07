@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether."
+  "desc": "The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.",
+  "voi_only": false
 }

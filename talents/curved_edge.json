@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your light weapon mantras now gain 60% more chip."
+  "desc": "Your light weapon mantras now gain 60% more chip.",
+  "voi_only": false
 }

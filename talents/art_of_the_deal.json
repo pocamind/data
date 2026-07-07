@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your rapport with merchants gives you lower prices!"
+  "desc": "Your rapport with merchants gives you lower prices!",
+  "voi_only": false
 }

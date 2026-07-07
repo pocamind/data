@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Flourishing an opponent turns your next critical attack into the Katana critical attack. Also extends Dancing Steps Of War's effects by 0.5 seconds.",
   "icon": "Boots",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

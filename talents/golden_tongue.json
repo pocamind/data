@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)"
+  "desc": "Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)",
+  "voi_only": false
 }

@@ -99,5 +99,6 @@
     "Throw"
   ],
   "voi": false,
-  "desc": "An icy chokehold."
+  "desc": "An icy chokehold.",
+  "voi_only": false
 }

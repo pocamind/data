@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your mantras now deal extra chip."
+  "desc": "Your mantras now deal extra chip.",
+  "voi_only": false
 }

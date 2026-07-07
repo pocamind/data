@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them."
+  "desc": "Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.",
+  "voi_only": false
 }

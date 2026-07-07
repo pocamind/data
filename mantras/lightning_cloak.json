@@ -46,5 +46,6 @@
     }
   ],
   "voi": false,
-  "desc": "A cloak of lightning itself."
+  "desc": "A cloak of lightning itself.",
+  "voi_only": false
 }

@@ -14,5 +14,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "A vow to the fallen heroes. Press L to swap to Saintsblade."
+  "desc": "A vow to the fallen heroes. Press L to swap to Saintsblade.",
+  "voi_only": false
 }

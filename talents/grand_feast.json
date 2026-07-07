@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Regain tempo, ether, blood and health when gaining hunger from killing."
+  "desc": "Regain tempo, ether, blood and health when gaining hunger from killing.",
+  "voi_only": false
 }

@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison."
+  "desc": "A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison.",
+  "voi_only": false
 }

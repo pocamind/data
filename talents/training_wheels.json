@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Increase the amount of parry frames you have by 20%."
+  "desc": "Increase the amount of parry frames you have by 20%.",
+  "voi_only": true
 }

@@ -11,5 +11,6 @@
   "desc": "The more a person is affected by your Shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision even more and applies Ether Sunder to PvE",
   "exclusive": [
     "Singularity"
-  ]
+  ],
+  "voi_only": false
 }

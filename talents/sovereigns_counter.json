@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent."
+  "desc": "Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.",
+  "voi_only": false
 }

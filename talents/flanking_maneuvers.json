@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you assassinate take more PEN from your squadmates in your party."
+  "desc": "Enemies you assassinate take more PEN from your squadmates in your party.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply Ether Sunder to PvE enemies."
+  "desc": "Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply Ether Sunder to PvE enemies.",
+  "voi_only": false
 }

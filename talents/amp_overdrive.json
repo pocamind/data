@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds."
+  "desc": "Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.",
+  "voi_only": false
 }

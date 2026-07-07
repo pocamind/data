@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end."
+  "desc": "Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.",
+  "voi_only": false
 }

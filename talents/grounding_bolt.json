@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands."
+  "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+  "voi_only": false
 }

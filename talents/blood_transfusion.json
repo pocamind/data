@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar."
+  "desc": "Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   "roll2able": true,
   "stats": {
     "Carry Load": 10
-  }
+  },
+  "voi_only": false
 }

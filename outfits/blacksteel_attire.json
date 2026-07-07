@@ -17,5 +17,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "Attire wrought from forged blacksteel. Its weight hardens the wearer's stance."
+  "desc": "Attire wrought from forged blacksteel. Its weight hardens the wearer's stance.",
+  "voi_only": false
 }

@@ -32,5 +32,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "Send a cascading eruption towards your foes, forcing them to react."
+  "desc": "Send a cascading eruption towards your foes, forcing them to react.",
+  "voi_only": false
 }

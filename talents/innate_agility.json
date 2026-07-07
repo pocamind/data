@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You hinge on your instincts to keep you alive, even in battle. Slightly increase your dodge frames."
+  "desc": "You hinge on your instincts to keep you alive, even in battle. Slightly increase your dodge frames.",
+  "voi_only": true
 }

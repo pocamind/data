@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized."
+  "desc": "You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.",
+  "voi_only": false
 }

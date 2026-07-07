@@ -12,5 +12,6 @@
   },
   "reqs": "vortex_accelerator := ()",
   "voi": true,
-  "desc": "The less health you have, the lower your mantra cooldowns."
+  "desc": "The less health you have, the lower your mantra cooldowns.",
+  "voi_only": true
 }

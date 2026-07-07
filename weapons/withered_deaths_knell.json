@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A reminder that all songs must be consumed."
+  "desc": "A reminder that all songs must be consumed.",
+  "voi_only": false
 }

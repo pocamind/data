@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock."
+  "desc": "Landing Basic Attacks during Sovereign State now applies Blightshock.",
+  "voi_only": false
 }

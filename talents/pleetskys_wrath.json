@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "After dealing 500 damage with Flame Mantras, call forth a hail of fiery swords."
+  "desc": "After dealing 500 damage with Flame Mantras, call forth a hail of fiery swords.",
+  "voi_only": true
 }

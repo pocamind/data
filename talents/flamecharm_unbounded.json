@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You have gained the ability to surpass your limits and train your Flamecharm to its fullest."
+  "desc": "You have gained the ability to surpass your limits and train your Flamecharm to its fullest.",
+  "voi_only": false
 }

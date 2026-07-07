@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Makes your bullets ricochet to a nearby enemy when hitting an opponent.\r"
+  "desc": "Makes your bullets ricochet to a nearby enemy when hitting an opponent.\r",
+  "voi_only": false
 }

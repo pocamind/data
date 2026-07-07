@@ -92,5 +92,6 @@
     "Rain of Static"
   ],
   "voi": false,
-  "desc": "Slam those under you with a lightning empowered kick."
+  "desc": "Slam those under you with a lightning empowered kick.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed."
+  "desc": "Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.",
+  "voi_only": true
 }

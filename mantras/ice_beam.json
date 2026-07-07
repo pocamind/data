@@ -47,5 +47,6 @@
     "Preceding Chill"
   ],
   "voi": true,
-  "desc": "Fire a beam of ice."
+  "desc": "Fire a beam of ice.",
+  "voi_only": false
 }

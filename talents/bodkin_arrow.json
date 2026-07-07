@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies."
+  "desc": "Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.",
+  "voi_only": false
 }

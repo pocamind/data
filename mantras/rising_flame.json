@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "A rising tornado of flames."
+  "desc": "A rising tornado of flames.",
+  "voi_only": false
 }

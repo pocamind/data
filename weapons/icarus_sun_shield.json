@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": true,
-  "desc": "The shields ofÂ LegionÂ shieldbearers are often decorated with the visages of famous warriors they admire."
+  "desc": "The shields ofÃ‚Â LegionÃ‚Â shieldbearers are often decorated with the visages of famous warriors they admire.",
+  "voi_only": true
 }

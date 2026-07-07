@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them."
+  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
+  "voi_only": false
 }

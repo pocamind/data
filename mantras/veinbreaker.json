@@ -39,5 +39,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Charge up a strong punch infused with your blood."
+  "desc": "Charge up a strong punch infused with your blood.",
+  "voi_only": false
 }

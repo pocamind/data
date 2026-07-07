@@ -12,5 +12,6 @@
   },
   "reqs": "warriors_eyepatch := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Rapier] Gain more parry frames the lower your health is."
+  "desc": "[Rapier] Gain more parry frames the lower your health is.",
+  "voi_only": false
 }

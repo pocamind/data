@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain the ability to pickpocket by pressing N. Deal a little more damage the more notes you have against PvE opponents as well."
+  "desc": "Gain the ability to pickpocket by pressing N. Deal a little more damage the more notes you have against PvE opponents as well.",
+  "voi_only": false
 }

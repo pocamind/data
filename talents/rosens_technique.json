@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown."
+  "desc": "If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.",
+  "voi_only": false
 }

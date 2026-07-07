@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6."
+  "desc": "The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6.",
+  "voi_only": true
 }

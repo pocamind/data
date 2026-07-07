@@ -29,5 +29,6 @@
     "Symbiotic Link"
   ],
   "voi": false,
-  "desc": "Activate when linked to an ally to sacrifice your own health to them."
+  "desc": "Activate when linked to an ally to sacrifice your own health to them.",
+  "voi_only": false
 }

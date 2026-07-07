@@ -49,5 +49,6 @@
     "Shadowcast": 2.75
   },
   "voi": false,
-  "desc": "A swift slash channelled with foul energy."
+  "desc": "A swift slash channelled with foul energy.",
+  "voi_only": false
 }

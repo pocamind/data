@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal additional armor damage to enemies per metal rod affecting them."
+  "desc": "Deal additional armor damage to enemies per metal rod affecting them.",
+  "voi_only": false
 }

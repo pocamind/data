@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "At the start of fights, gain 25% damage resistance for 30 seconds."
+  "desc": "At the start of fights, gain 25% damage resistance for 30 seconds.",
+  "voi_only": true
 }

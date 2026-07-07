@@ -19,5 +19,6 @@
   "pips": {},
   "reqs": "moon_brow_rings := ()",
   "voi": false,
-  "desc": "FEAR. IRONSINGERS."
+  "desc": "FEAR. IRONSINGERS.",
+  "voi_only": false
 }

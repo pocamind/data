@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "While 2-handing, you take less posture damage."
+  "desc": "While 2-handing, you take less posture damage.",
+  "voi_only": false
 }

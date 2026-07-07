@@ -11,5 +11,6 @@
   "desc": "Enemies will briefly hang in place when hit by a shadow move.",
   "exclusive": [
     "Sightless Still"
-  ]
+  ],
+  "voi_only": false
 }

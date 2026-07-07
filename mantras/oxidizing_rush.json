@@ -53,5 +53,6 @@
     "Perfect Lens"
   ],
   "voi": false,
-  "desc": "Conjure metal swords and rush forward with them."
+  "desc": "Conjure metal swords and rush forward with them.",
+  "voi_only": false
 }

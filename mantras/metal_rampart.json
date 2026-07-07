@@ -55,5 +55,6 @@
     "Eternal Logstone"
   ],
   "voi": false,
-  "desc": "Summon a large metal pillar."
+  "desc": "Summon a large metal pillar.",
+  "voi_only": false
 }

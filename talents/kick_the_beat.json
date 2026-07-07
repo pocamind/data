@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Dancer's Beat now works with Critical Attacks."
+  "desc": "Dancer's Beat now works with Critical Attacks.",
+  "voi_only": true
 }

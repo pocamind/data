@@ -23,5 +23,6 @@
   },
   "reqs": "ossified_black_pauldrons := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

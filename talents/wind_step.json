@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards."
+  "desc": "Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.",
+  "voi_only": false
 }

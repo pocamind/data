@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A surprisingly effective weapon despite its previous use by fishermen."
+  "desc": "A surprisingly effective weapon despite its previous use by fishermen.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as an effective blade for raiding."
+  "desc": "To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as an effective blade for raiding.",
+  "voi_only": false
 }

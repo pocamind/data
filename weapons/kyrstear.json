@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Suited to the unpredictable movements of the Kyrsgarde."
+  "desc": "Suited to the unpredictable movements of the Kyrsgarde.",
+  "voi_only": false
 }

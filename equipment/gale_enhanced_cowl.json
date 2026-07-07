@@ -20,5 +20,6 @@
   },
   "reqs": "gale_enhanced_cowl := 105r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

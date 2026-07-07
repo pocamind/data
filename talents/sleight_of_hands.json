@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[1H Guns] When you flourish an opponent you instantly load a bullet."
+  "desc": "[1H Guns] When you flourish an opponent you instantly load a bullet.",
+  "voi_only": false
 }

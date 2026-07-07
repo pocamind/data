@@ -22,5 +22,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fit only to be wielded by those who truly walk in his footsteps."
+  "desc": "In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fit only to be wielded by those who truly walk in his footsteps.",
+  "voi_only": false
 }

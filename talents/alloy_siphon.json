@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": " Iron Pull siphons armor from your foes, restoring your posture."
+  "desc": " Iron Pull siphons armor from your foes, restoring your posture.",
+  "voi_only": true
 }

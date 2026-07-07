@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period."
+  "desc": "Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.",
+  "voi_only": false
 }

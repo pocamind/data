@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When you're attacked, one of your many allies will leap into action to protect their boss."
+  "desc": "When you're attacked, one of your many allies will leap into action to protect their boss.",
+  "voi_only": false
 }

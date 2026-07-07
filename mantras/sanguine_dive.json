@@ -53,5 +53,6 @@
     "Shade Step"
   ],
   "voi": false,
-  "desc": "Create or jump into a pool of blood."
+  "desc": "Create or jump into a pool of blood.",
+  "voi_only": false
 }

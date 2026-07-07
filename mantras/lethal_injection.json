@@ -30,5 +30,6 @@
   ],
   "miscellaneous": "Applies all potion effects from off-cooldown potions in the Distillery. Puts all Distillery potions on cooldown.",
   "voi": false,
-  "desc": "Lunge forward and inject the targeted person with all of your auto-brew potions."
+  "desc": "Lunge forward and inject the targeted person with all of your auto-brew potions.",
+  "voi_only": false
 }

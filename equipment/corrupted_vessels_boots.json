@@ -17,5 +17,6 @@
   "pips": {},
   "reqs": "corrupted_vessels_boots := ()",
   "voi": true,
-  "desc": "You feel false-strengths fill your body and mind."
+  "desc": "You feel false-strengths fill your body and mind.",
+  "voi_only": true
 }

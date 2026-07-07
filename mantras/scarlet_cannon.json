@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Create a giant blood beam."
+  "desc": "Create a giant blood beam.",
+  "voi_only": false
 }

@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A prized blade supposedly forged during the Canticlysm by the first Galebreathers."
+  "desc": "A prized blade supposedly forged during the Canticlysm by the first Galebreathers.",
+  "voi_only": false
 }

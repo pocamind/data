@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack."
+  "desc": "Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.",
+  "voi_only": false
 }

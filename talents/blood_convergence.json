@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Receive 10% more healing from all healing sources when you have temp health."
+  "desc": "Receive 10% more healing from all healing sources when you have temp health.",
+  "voi_only": false
 }

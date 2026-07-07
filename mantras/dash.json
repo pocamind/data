@@ -71,5 +71,6 @@
     "Expeditionary Evasiveness"
   ],
   "voi": false,
-  "desc": "An agile dash."
+  "desc": "An agile dash.",
+  "voi_only": false
 }

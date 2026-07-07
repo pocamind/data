@@ -43,5 +43,6 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "An arc of ice."
+  "desc": "An arc of ice.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "silver_knights_helm := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

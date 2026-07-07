@@ -19,5 +19,6 @@
   },
   "reqs": "providence_coat := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

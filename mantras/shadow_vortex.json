@@ -53,5 +53,6 @@
     "Magnifying Stone"
   ],
   "voi": false,
-  "desc": "Create a shadow vortex that pulls in everything in its surrounding."
+  "desc": "Create a shadow vortex that pulls in everything in its surrounding.",
+  "voi_only": false
 }

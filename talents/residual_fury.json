@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "[In Berserk State] Landing your critical grants +50% PEN on Basic Attacks for 8s."
+  "desc": "[In Berserk State] Landing your critical grants +50% PEN on Basic Attacks for 8s.",
+  "voi_only": true
 }

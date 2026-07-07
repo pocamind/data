@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "A rapid delivery of consecutive attacks."
+  "desc": "A rapid delivery of consecutive attacks.",
+  "voi_only": false
 }

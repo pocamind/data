@@ -44,5 +44,6 @@
     "Blast Spark"
   ],
   "voi": true,
-  "desc": "Dash forward in a spiral of flames."
+  "desc": "Dash forward in a spiral of flames.",
+  "voi_only": false
 }

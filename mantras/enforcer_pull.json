@@ -33,5 +33,6 @@
     "Enforcer Pull"
   ],
   "voi": false,
-  "desc": "A powerful gravitational pull."
+  "desc": "A powerful gravitational pull.",
+  "voi_only": false
 }

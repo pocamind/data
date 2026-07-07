@@ -54,5 +54,6 @@
   ],
   "miscellaneous": "The damage buff will be halved if you fail to buff another player. Press block during the Mantra windup to buff non-allies in range.",
   "voi": false,
-  "desc": "Buff those around you with extra defense and damage."
+  "desc": "Buff those around you with extra defense and damage.",
+  "voi_only": false
 }

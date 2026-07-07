@@ -94,5 +94,6 @@
   ],
   "miscellaneous": "Deals reduced damage if you do not have Glass Path: Crystallization.",
   "voi": false,
-  "desc": "Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee."
+  "desc": "Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee.",
+  "voi_only": false
 }

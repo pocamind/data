@@ -26,5 +26,6 @@
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "desc": "Coat of an esteemed Black Diver, one of the few in many generations of Divers from the Markor Citadel."
+  "desc": "Coat of an esteemed Black Diver, one of the few in many generations of Divers from the Markor Citadel.",
+  "voi_only": false
 }

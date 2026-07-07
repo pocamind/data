@@ -39,5 +39,6 @@
     "Blightpierce"
   ],
   "voi": false,
-  "desc": "Perform a kick, then warp to your enemies for a second followup kick."
+  "desc": "Perform a kick, then warp to your enemies for a second followup kick.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "One with nothing to lose has everything to gain. Succumb to burning rage within and enter Berserk State."
+  "desc": "One with nothing to lose has everything to gain. Succumb to burning rage within and enter Berserk State.",
+  "voi_only": false
 }

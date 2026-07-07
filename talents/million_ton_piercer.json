@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits."
+  "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
+  "voi_only": false
 }

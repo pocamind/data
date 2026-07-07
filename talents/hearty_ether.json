@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Devouring Eye steal procs now heal you based on the amount of ether stolen."
+  "desc": "Devouring Eye steal procs now heal you based on the amount of ether stolen.",
+  "voi_only": true
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "gumshoe_hat := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

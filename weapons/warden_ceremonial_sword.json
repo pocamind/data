@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies."
+  "desc": "The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies.",
+  "voi_only": false
 }

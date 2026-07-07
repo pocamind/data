@@ -22,5 +22,6 @@
   "desc": "With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production.",
   "talents": [
     "Hex Bullet"
-  ]
+  ],
+  "voi_only": true
 }

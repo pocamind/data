@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt."
+  "desc": "Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.",
+  "voi_only": false
 }

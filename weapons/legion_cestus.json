@@ -22,5 +22,6 @@
   "desc": "Cestus used by members of the Hundred Legions.",
   "talents": [
     "Static Beatdown"
-  ]
+  ],
+  "voi_only": false
 }

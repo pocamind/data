@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Breaking a frozen enemy free with your Critical saps their lifeforce."
+  "desc": "Breaking a frozen enemy free with your Critical saps their lifeforce.",
+  "voi_only": true
 }

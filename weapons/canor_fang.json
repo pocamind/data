@@ -22,5 +22,6 @@
   "desc": "...",
   "talents": [
     "Clutch Recovery"
-  ]
+  ],
+  "voi_only": false
 }

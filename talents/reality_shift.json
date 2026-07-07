@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra."
+  "desc": "Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.",
+  "voi_only": false
 }

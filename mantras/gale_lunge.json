@@ -58,5 +58,6 @@
     "Ice Lance"
   ],
   "voi": false,
-  "desc": "A rush of piercing wind."
+  "desc": "A rush of piercing wind.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%."
+  "desc": "[1H Guns] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.",
+  "voi_only": false
 }

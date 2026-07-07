@@ -51,5 +51,6 @@
   ],
   "miscellaneous": "Reduces your burn damage, but turns the reduced damage into healing for you.",
   "voi": false,
-  "desc": "A servant of flames."
+  "desc": "A servant of flames.",
+  "voi_only": false
 }

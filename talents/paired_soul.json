@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Wielding a katana with this outfit grants extra damage."
+  "desc": "Wielding a katana with this outfit grants extra damage.",
+  "voi_only": false
 }

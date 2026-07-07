@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your bloodless gems heal 33% less than usual."
+  "desc": "Your bloodless gems heal 33% less than usual.",
+  "voi_only": false
 }

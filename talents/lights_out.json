@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded."
+  "desc": "Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded.",
+  "voi_only": false
 }

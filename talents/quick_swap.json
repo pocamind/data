@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Massively reduce your bullet swap cooldown. [Dual Gun]"
+  "desc": "Massively reduce your bullet swap cooldown. [Dual Gun]",
+  "voi_only": false
 }

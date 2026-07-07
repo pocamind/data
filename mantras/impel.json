@@ -36,5 +36,6 @@
   ],
   "miscellaneous": "Enchains if the target is at least 15 studs away.",
   "voi": false,
-  "desc": "Blast through your opponent's guard and pull them towards you."
+  "desc": "Blast through your opponent's guard and pull them towards you.",
+  "voi_only": false
 }

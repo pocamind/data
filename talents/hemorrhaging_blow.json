@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds."
+  "desc": "Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds.",
+  "voi_only": false
 }

@@ -56,5 +56,6 @@
     "Frozen Pin-Cushion"
   ],
   "voi": false,
-  "desc": "Form and toss daggers of ice at your aimed opponent."
+  "desc": "Form and toss daggers of ice at your aimed opponent.",
+  "voi_only": false
 }

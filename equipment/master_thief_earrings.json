@@ -17,5 +17,6 @@
   },
   "reqs": "master_thief_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

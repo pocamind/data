@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness."
+  "desc": "Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness.",
+  "voi_only": false
 }

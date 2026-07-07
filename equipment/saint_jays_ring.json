@@ -12,5 +12,6 @@
   },
   "reqs": "saint_jays_ring := ()",
   "voi": false,
-  "desc": "Uppercuts inflict chill."
+  "desc": "Uppercuts inflict chill.",
+  "voi_only": false
 }

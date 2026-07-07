@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies."
+  "desc": "You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.",
+  "voi_only": false
 }

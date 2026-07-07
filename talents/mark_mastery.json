@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5%."
+  "desc": "Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5%.",
+  "voi_only": false
 }

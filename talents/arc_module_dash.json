@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] Your dashes become Jet Dashes, allowing you to attack while dashing."
+  "desc": "[In Arc Suit] Your dashes become Jet Dashes, allowing you to attack while dashing.",
+  "voi_only": false
 }

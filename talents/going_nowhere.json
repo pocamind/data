@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting."
+  "desc": "When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting.",
+  "voi_only": false
 }

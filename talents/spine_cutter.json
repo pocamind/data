@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage."
+  "desc": "Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage.",
+  "voi_only": false
 }

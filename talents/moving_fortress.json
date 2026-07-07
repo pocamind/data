@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Blocking no longer slows you down as much."
+  "desc": "Blocking no longer slows you down as much.",
+  "voi_only": false
 }

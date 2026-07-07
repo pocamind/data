@@ -22,5 +22,6 @@
     "Charisma": 2
   },
   "chip_damage": 0.1,
-  "penetration": 0.15
+  "penetration": 0.15,
+  "voi_only": false
 }

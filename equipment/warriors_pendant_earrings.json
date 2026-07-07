@@ -15,5 +15,6 @@
   },
   "reqs": "warriors_pendant_earrings := ()",
   "voi": true,
-  "desc": "Donning these fills you with strength and fury."
+  "desc": "Donning these fills you with strength and fury.",
+  "voi_only": true
 }

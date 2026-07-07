@@ -31,5 +31,6 @@
   ],
   "miscellaneous": "Heals 60 health. Hold block during the windup to heal non-allies.",
   "voi": false,
-  "desc": "Give comfort to your allies by sharing in their burden."
+  "desc": "Give comfort to your allies by sharing in their burden.",
+  "voi_only": false
 }

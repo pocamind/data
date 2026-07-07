@@ -23,5 +23,6 @@
   },
   "reqs": "pathfinder_elite := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Brutal gauntlets wielded by those who break through defenses with unforgiving force."
+  "desc": "Brutal gauntlets wielded by those who break through defenses with unforgiving force.",
+  "voi_only": false
 }

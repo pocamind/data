@@ -33,5 +33,6 @@
     "Magnet Spark"
   ],
   "voi": false,
-  "desc": "All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters."
+  "desc": "All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters.",
+  "voi_only": false
 }

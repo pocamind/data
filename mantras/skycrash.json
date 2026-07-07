@@ -39,5 +39,6 @@
     "Blightpierce"
   ],
   "voi": false,
-  "desc": "Leap towards your enemies and stomp knocking up enemies caught."
+  "desc": "Leap towards your enemies and stomp knocking up enemies caught.",
+  "voi_only": false
 }

@@ -53,5 +53,6 @@
     "Magnet Spark"
   ],
   "voi": false,
-  "desc": "Create a lightning axe!"
+  "desc": "Create a lightning axe!",
+  "voi_only": false
 }

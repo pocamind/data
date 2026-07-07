@@ -26,5 +26,6 @@
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "desc": "Cloak of a Ministry Prophet."
+  "desc": "Cloak of a Ministry Prophet.",
+  "voi_only": false
 }

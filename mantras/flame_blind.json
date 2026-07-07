@@ -58,5 +58,6 @@
     "Concussive Flash"
   ],
   "voi": false,
-  "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it."
+  "desc": "Shoot a projectile that explodes after a short delay and blinds those looking at it.",
+  "voi_only": false
 }

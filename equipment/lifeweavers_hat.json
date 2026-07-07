@@ -15,5 +15,6 @@
   },
   "reqs": "lifeweavers_hat := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

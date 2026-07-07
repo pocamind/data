@@ -55,5 +55,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "Strike the ground, turning it to ash."
+  "desc": "Strike the ground, turning it to ash.",
+  "voi_only": false
 }

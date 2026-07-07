@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge."
+  "desc": "Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.",
+  "voi_only": false
 }

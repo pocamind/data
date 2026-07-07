@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Parrying an opponent then hitting someone else makes your next mantra free."
+  "desc": "Parrying an opponent then hitting someone else makes your next mantra free.",
+  "voi_only": false
 }

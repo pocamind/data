@@ -19,5 +19,6 @@
   "scaling": {
     "Medium Weapon": 6.5
   },
-  "penetration": 0.1
+  "penetration": 0.1,
+  "voi_only": false
 }

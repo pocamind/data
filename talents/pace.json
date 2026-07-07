@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Hitting opponents apply a speed boost. The faster you are the less damage you take."
+  "desc": "Hitting opponents apply a speed boost. The faster you are the less damage you take.",
+  "voi_only": true
 }

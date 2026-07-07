@@ -20,5 +20,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Towering over the trial like a monument, Enmity's presence draws the very air from your lungs, oppressive and unyielding, as if it too was full of scorn. Now in your grasp, the vile axe pulses with a dreadful rhythm, a heartbeat woven from the anguish of innumerable tortured souls. The air thickens under its weight, every inch of the weapon's twisted form resenting its own existence. The damned enforcers within wail for release, their mournful song clawing at your spirit. Yet, stood firm, you meet the abyss with defiance. The Chorus of Agonies envelops you."
+  "desc": "Towering over the trial like a monument, Enmity's presence draws the very air from your lungs, oppressive and unyielding, as if it too was full of scorn. Now in your grasp, the vile axe pulses with a dreadful rhythm, a heartbeat woven from the anguish of innumerable tortured souls. The air thickens under its weight, every inch of the weapon's twisted form resenting its own existence. The damned enforcers within wail for release, their mournful song clawing at your spirit. Yet, stood firm, you meet the abyss with defiance. The Chorus of Agonies envelops you.",
+  "voi_only": false
 }

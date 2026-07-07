@@ -20,5 +20,6 @@
   "reqs": "grand_pathfinders_backpack := 90r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels."
+  "desc": "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels.",
+  "voi_only": false
 }

@@ -94,5 +94,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back."
+  "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back.",
+  "voi_only": false
 }

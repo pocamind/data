@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Set enemies on fire when you flourish or uppercut them."
+  "desc": "Set enemies on fire when you flourish or uppercut them.",
+  "voi_only": false
 }

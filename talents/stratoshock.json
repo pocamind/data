@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your lightning deals an additional +5% damage when in the rain."
+  "desc": "Your lightning deals an additional +5% damage when in the rain.",
+  "voi_only": false
 }

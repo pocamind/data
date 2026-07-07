@@ -11,5 +11,6 @@
   "roll2able": false,
   "stats": {
     "Sanity": 6
-  }
+  },
+  "voi_only": false
 }

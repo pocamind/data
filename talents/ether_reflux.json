@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Successfully countering an opponent with Prediction gives you 2 Ether Erudite stacks."
+  "desc": "Successfully countering an opponent with Prediction gives you 2 Ether Erudite stacks.",
+  "voi_only": true
 }

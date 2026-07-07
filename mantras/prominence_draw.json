@@ -52,5 +52,6 @@
     "Belief"
   ],
   "voi": false,
-  "desc": "Close the distance and deliver a fast slash."
+  "desc": "Close the distance and deliver a fast slash.",
+  "voi_only": false
 }

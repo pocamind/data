@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When damage below 50% health, don an aura of Decisive Winds for 10s."
+  "desc": "When damage below 50% health, don an aura of Decisive Winds for 10s.",
+  "voi_only": false
 }

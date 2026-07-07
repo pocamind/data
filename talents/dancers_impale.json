@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead."
+  "desc": "Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead.",
+  "voi_only": true
 }

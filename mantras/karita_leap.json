@@ -56,5 +56,6 @@
     "Curved Edge"
   ],
   "voi": false,
-  "desc": "Launch yourself into a flying kick, backflipping into the air if you hit a wall."
+  "desc": "Launch yourself into a flying kick, backflipping into the air if you hit a wall.",
+  "voi_only": false
 }

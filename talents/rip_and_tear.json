@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Regain health upon defeating an enemy."
+  "desc": "Regain health upon defeating an enemy.",
+  "voi_only": true
 }

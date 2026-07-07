@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Raise the cap of how fast you are able to slide. Your Jus Karita fighting style gains a new sliding crit. Its power stems from how fast you are sliding when using the critical attack."
+  "desc": "Raise the cap of how fast you are able to slide. Your Jus Karita fighting style gains a new sliding crit. Its power stems from how fast you are sliding when using the critical attack.",
+  "voi_only": false
 }

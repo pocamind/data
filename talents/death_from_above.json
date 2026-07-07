@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Upon cancelling your Air Dash, reveal your wings and strike your enemy."
+  "desc": "Upon cancelling your Air Dash, reveal your wings and strike your enemy.",
+  "voi_only": false
 }

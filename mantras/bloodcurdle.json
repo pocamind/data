@@ -57,5 +57,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Manipulate the blood within your target's body."
+  "desc": "Manipulate the blood within your target's body.",
+  "voi_only": false
 }

@@ -54,5 +54,6 @@
     "Vibrant Gem"
   ],
   "voi": false,
-  "desc": "A rush of lightning."
+  "desc": "A rush of lightning.",
+  "voi_only": false
 }

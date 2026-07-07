@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "[Greathammer] You take 15% less posture damage when parried."
+  "desc": "[Greathammer] You take 15% less posture damage when parried.",
+  "voi_only": false
 }

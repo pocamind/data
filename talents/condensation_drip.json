@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Passively collect condensation from the air, greatly reducing your thirst."
+  "desc": "Passively collect condensation from the air, greatly reducing your thirst.",
+  "voi_only": false
 }

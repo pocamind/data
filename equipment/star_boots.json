@@ -18,5 +18,6 @@
   },
   "reqs": "star_boots := 165r TTL",
   "voi": false,
-  "desc": "Formerly mass produced by the cobblers of Celtor, these boots have become quite the collector's item in recent years."
+  "desc": "Formerly mass produced by the cobblers of Celtor, these boots have become quite the collector's item in recent years.",
+  "voi_only": false
 }

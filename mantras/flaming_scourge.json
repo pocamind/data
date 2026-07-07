@@ -90,5 +90,6 @@
     "Reversal Spark"
   ],
   "voi": false,
-  "desc": "Lash out with flames."
+  "desc": "Lash out with flames.",
+  "voi_only": false
 }

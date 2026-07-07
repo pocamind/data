@@ -14,5 +14,6 @@
   },
   "reqs": "oni_mask := ()",
   "voi": true,
-  "desc": "The demonic visage fills you with a mix of dread and glee."
+  "desc": "The demonic visage fills you with a mix of dread and glee.",
+  "voi_only": true
 }

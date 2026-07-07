@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[Guns] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied."
+  "desc": "[Guns] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a charged shot will knock your opponent down instead of back."
+  "desc": "Landing a charged shot will knock your opponent down instead of back.",
+  "voi_only": false
 }

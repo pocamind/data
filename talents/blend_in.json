@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You resemble one of the Enforcers, become unnoticeable by regular depths mobs."
+  "desc": "You resemble one of the Enforcers, become unnoticeable by regular depths mobs.",
+  "voi_only": true
 }

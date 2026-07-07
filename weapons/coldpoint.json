@@ -24,5 +24,6 @@
   "desc": "Harvested from the upper crust of the Second Layer, this long icicle is kept forever frozen by a vow, and bears a Kyrsan ice brand on its hilt. Before Ethiron's arrival, such weapons were made as light training blades for Kyrsans -though in our hands, we need not show such restraint.",
   "talents": [
     "True Shatter"
-  ]
+  ],
+  "voi_only": false
 }

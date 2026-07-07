@@ -17,5 +17,6 @@
   },
   "reqs": "tied_tie := ()",
   "voi": false,
-  "desc": "Go play celeste"
+  "desc": "Go play celeste",
+  "voi_only": false
 }
