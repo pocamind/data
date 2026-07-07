@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Blood loss from all sources is lowered."
+  "desc": "Blood loss from all sources is lowered.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "leather_boots := ()",
   "voi": false,
-  "desc": "A pair of worn leather boots. And they're your size!"
+  "desc": "A pair of worn leather boots. And they're your size!",
+  "voi_only": false
 }

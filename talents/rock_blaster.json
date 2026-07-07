@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Doubles your ore yields when mining."
+  "desc": "Doubles your ore yields when mining.",
+  "voi_only": false
 }

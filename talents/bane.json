@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Activate to make your light attacks teleport to the closest enemy nearby."
+  "desc": "Activate to make your light attacks teleport to the closest enemy nearby.",
+  "voi_only": false
 }

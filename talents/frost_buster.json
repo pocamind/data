@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve."
+  "desc": "Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.",
+  "voi_only": false
 }

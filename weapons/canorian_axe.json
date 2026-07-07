@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire."
+  "desc": "An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire.",
+  "voi_only": false
 }

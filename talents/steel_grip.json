@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "When you are blockbroken, negate it and set your posture to 80%."
+  "desc": "When you are blockbroken, negate it and set your posture to 80%.",
+  "voi_only": true
 }

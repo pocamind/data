@@ -12,5 +12,6 @@
   },
   "reqs": "divine_cast_ring := ()",
   "voi": true,
-  "desc": "Your mantras always cost your entire ether bar but do 3x damage."
+  "desc": "Your mantras always cost your entire ether bar but do 3x damage.",
+  "voi_only": true
 }

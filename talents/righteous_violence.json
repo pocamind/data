@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a Critical Attack heals your marked ally. Landing a Jus Karita critical or Karita Swap heals your marked ally even more."
+  "desc": "Landing a Critical Attack heals your marked ally. Landing a Jus Karita critical or Karita Swap heals your marked ally even more.",
+  "voi_only": false
 }

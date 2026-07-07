@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You have resistance against being poisoned by foods."
+  "desc": "You have resistance against being poisoned by foods.",
+  "voi_only": false
 }

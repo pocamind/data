@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Reduce the power of all speed boosts you gain by 50%. Deal extra true damage based on how fast you are."
+  "desc": "Reduce the power of all speed boosts you gain by 50%. Deal extra true damage based on how fast you are.",
+  "voi_only": true
 }

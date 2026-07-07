@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "After being block broken, the next attack to hit you deals reduced damage."
+  "desc": "After being block broken, the next attack to hit you deals reduced damage.",
+  "voi_only": false
 }

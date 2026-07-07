@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When at 30% health or below, every time you land a light attack or critical hit heal 1%."
+  "desc": "When at 30% health or below, every time you land a light attack or critical hit heal 1%.",
+  "voi_only": false
 }

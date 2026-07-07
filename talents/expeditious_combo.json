@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing an uppercut will grant a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it."
+  "desc": "Landing an uppercut will grant a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it.",
+  "voi_only": false
 }

@@ -14,5 +14,6 @@
   },
   "reqs": "prosperous_gumshoe_longcoat := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

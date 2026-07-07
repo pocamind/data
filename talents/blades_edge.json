@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%"
+  "desc": "[Spears] Damage dealt with the tip of the spear is increased by 10%",
+  "voi_only": false
 }

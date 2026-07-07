@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "If you Meteor Slam an opponent whilst on fire, restore some HP and Ether."
+  "desc": "If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.",
+  "voi_only": false
 }

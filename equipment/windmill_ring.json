@@ -23,5 +23,6 @@
   "pips": {},
   "reqs": "windmill_ring := ()",
   "voi": false,
-  "desc": "Taking damage from ice or wind will cause you to regenerate ether."
+  "desc": "Taking damage from ice or wind will cause you to regenerate ether.",
+  "voi_only": false
 }

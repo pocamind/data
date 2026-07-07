@@ -17,5 +17,6 @@
   },
   "reqs": "brigands_cloak := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

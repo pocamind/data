@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You receive extra blood from knocking an enemy."
+  "desc": "You receive extra blood from knocking an enemy.",
+  "voi_only": false
 }

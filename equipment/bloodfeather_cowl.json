@@ -23,5 +23,6 @@
   },
   "reqs": "bloodfeather_cowl := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

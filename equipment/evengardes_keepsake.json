@@ -12,5 +12,6 @@
   },
   "reqs": "evengardes_keepsake := ()",
   "voi": true,
-  "desc": "Gain 'chain of perfection'"
+  "desc": "Gain 'chain of perfection'",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your crystal explosions now have an AoE that applies crystals to all hit."
+  "desc": "Your crystal explosions now have an AoE that applies crystals to all hit.",
+  "voi_only": false
 }

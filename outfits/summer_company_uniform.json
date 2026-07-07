@@ -23,5 +23,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "An easy to reproduce armor for the summer company grunts."
+  "desc": "An easy to reproduce armor for the summer company grunts.",
+  "voi_only": false
 }

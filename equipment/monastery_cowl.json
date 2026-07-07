@@ -19,5 +19,6 @@
   },
   "reqs": "monastery_cowl := 105r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

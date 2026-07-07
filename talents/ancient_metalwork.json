@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your critical hit can channel the effects of your Ironsing Rods and disrupt the resonances of others, disabling them for 25 seconds."
+  "desc": "Your critical hit can channel the effects of your Ironsing Rods and disrupt the resonances of others, disabling them for 25 seconds.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Sink beneath the waves and return to the Depths"
+  "desc": "Sink beneath the waves and return to the Depths",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods."
+  "desc": "Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.",
+  "voi_only": false
 }

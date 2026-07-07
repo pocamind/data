@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily."
+  "desc": "Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.",
+  "voi_only": false
 }

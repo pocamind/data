@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds."
+  "desc": "Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.",
+  "voi_only": false
 }

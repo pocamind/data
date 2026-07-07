@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods."
+  "desc": "Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.",
+  "voi_only": false
 }

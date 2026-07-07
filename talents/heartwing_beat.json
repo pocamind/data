@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your heart beats a new rhythm, as your aerial attack takes on a new manifestation."
+  "desc": "Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.",
+  "voi_only": false
 }

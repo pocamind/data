@@ -14,5 +14,6 @@
   },
   "reqs": "expert_practitioners_earrings := ()",
   "voi": true,
-  "desc": "Traditionally worn by erudite masters of the song."
+  "desc": "Traditionally worn by erudite masters of the song.",
+  "voi_only": true
 }

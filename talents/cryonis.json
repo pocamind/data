@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "All ice spells casted on top of ice cost less Ether."
+  "desc": "All ice spells casted on top of ice cost less Ether.",
+  "voi_only": false
 }

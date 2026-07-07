@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape."
+  "desc": "Shock yourself and apply Amped for 15s. Can be used while Carried to escape.",
+  "voi_only": false
 }

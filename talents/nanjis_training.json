@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Nanji shows you a better way to properly block attacks using a weapon, granting you 1 Posture."
+  "desc": "Nanji shows you a better way to properly block attacks using a weapon, granting you 1 Posture.",
+  "voi_only": false
 }

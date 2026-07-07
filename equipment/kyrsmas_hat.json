@@ -22,5 +22,6 @@
   "reqs": "kyrsmas_hat := ()",
   "voi": false,
   "wiki": "This item is statistically unobtainable after the Kyrsmas event.",
-  "desc": "A cheerful cozy hat donned by the most festive Kyrsgarde."
+  "desc": "A cheerful cozy hat donned by the most festive Kyrsgarde.",
+  "voi_only": false
 }

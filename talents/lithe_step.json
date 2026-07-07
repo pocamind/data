@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed."
+  "desc": "When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies who stand in blood pools will not decay blood poison and gain 15% more blood poisoning."
+  "desc": "Enemies who stand in blood pools will not decay blood poison and gain 15% more blood poisoning.",
+  "voi_only": false
 }

@@ -23,5 +23,6 @@
   "desc": "The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality.",
   "talents": [
     "Phantom"
-  ]
+  ],
+  "voi_only": false
 }

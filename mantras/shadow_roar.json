@@ -20,5 +20,6 @@
     "Blossoming Darkness"
   ],
   "voi": false,
-  "desc": "Roar a wave of shadows."
+  "desc": "Roar a wave of shadows.",
+  "voi_only": false
 }

@@ -14,5 +14,6 @@
   },
   "reqs": "frost_crystal_earrings := 90r TTL",
   "voi": false,
-  "desc": "Though the setting and clasp have been dulled by wear and tear, the frost crystal remains completely untarnished."
+  "desc": "Though the setting and clasp have been dulled by wear and tear, the frost crystal remains completely untarnished.",
+  "voi_only": false
 }

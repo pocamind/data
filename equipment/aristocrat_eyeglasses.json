@@ -16,5 +16,6 @@
   },
   "reqs": "aristocrat_eyeglasses := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

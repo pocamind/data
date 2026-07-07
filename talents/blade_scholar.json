@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.",
   "icon": "Fist",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

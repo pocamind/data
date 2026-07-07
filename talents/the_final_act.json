@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode."
+  "desc": "Landing a fire mantra immediately after flourishing an opponent will cause them to explode.",
+  "voi_only": false
 }

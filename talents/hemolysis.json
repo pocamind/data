@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning."
+  "desc": "Deal 20% more critical attack damage to opponents with over 25% blood poisoning.",
+  "voi_only": false
 }

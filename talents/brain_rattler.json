@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Clubs] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies Stagger to PvE enemies and blurs their vision."
+  "desc": "[Clubs] Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss, applies Stagger to PvE enemies and blurs their vision.",
+  "voi_only": false
 }

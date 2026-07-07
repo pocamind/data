@@ -20,5 +20,6 @@
     "Multiplying Spark"
   ],
   "voi": false,
-  "desc": "Release an amalgamation of your blood."
+  "desc": "Release an amalgamation of your blood.",
+  "voi_only": false
 }

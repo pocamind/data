@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "ring_of_curses := 165r TTL",
   "voi": false,
-  "desc": "You come across mortal encounters more frequently."
+  "desc": "You come across mortal encounters more frequently.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Blightshock prevents targets from using mobility mantras."
+  "desc": "Your Blightshock prevents targets from using mobility mantras.",
+  "voi_only": false
 }

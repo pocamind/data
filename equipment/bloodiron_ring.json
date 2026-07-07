@@ -15,5 +15,6 @@
   "pips": {},
   "reqs": "bloodiron_ring := ()",
   "voi": false,
-  "desc": "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor."
+  "desc": "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor.",
+  "voi_only": false
 }

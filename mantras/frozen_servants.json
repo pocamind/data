@@ -23,5 +23,6 @@
     "Reversal Spark"
   ],
   "voi": false,
-  "desc": "A legion of frost."
+  "desc": "A legion of frost.",
+  "voi_only": false
 }

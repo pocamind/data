@@ -12,5 +12,6 @@
   },
   "reqs": "armorers_ring := ()",
   "voi": false,
-  "desc": "Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 25%."
+  "desc": "Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 25%.",
+  "voi_only": false
 }

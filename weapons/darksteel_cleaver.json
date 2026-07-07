@@ -23,5 +23,6 @@
   "desc": "When faced with insurmountable odds, sometimes all you need is a Big Sword",
   "talents": [
     "Monster Slayer"
-  ]
+  ],
+  "voi_only": true
 }

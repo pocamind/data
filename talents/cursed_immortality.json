@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Instead of getting knocked, get set to 75% health. When this effect occurs, this guarantees that you depths trial will become corrupted for the rest of your character's run."
+  "desc": "Instead of getting knocked, get set to 75% health. When this effect occurs, this guarantees that you depths trial will become corrupted for the rest of your character's run.",
+  "voi_only": true
 }

@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Congratulations! You've won the Rifle Spear lottery."
+  "desc": "Congratulations! You've won the Rifle Spear lottery.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] Holding Spacebar after double jumping propels you up for a short duration."
+  "desc": "[In Arc Suit] Holding Spacebar after double jumping propels you up for a short duration.",
+  "voi_only": false
 }

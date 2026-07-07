@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Whenever you heal another player, heal 5 health yourself. [3 second cooldown]"
+  "desc": "Whenever you heal another player, heal 5 health yourself. [3 second cooldown]",
+  "voi_only": false
 }

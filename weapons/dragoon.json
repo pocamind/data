@@ -17,5 +17,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy."
+  "desc": "The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy.",
+  "voi_only": false
 }

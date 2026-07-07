@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain extra Ether for every Mantra in your arsenal."
+  "desc": "Gain extra Ether for every Mantra in your arsenal.",
+  "voi_only": false
 }

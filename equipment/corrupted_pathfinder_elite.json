@@ -21,5 +21,6 @@
   },
   "reqs": "corrupted_pathfinder_elite := 135r TTL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

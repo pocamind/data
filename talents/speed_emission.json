@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain a slight speed boost after landing a vent"
+  "desc": "Gain a slight speed boost after landing a vent",
+  "voi_only": false
 }

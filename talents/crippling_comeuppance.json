@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies Sluggish to PvE enemies for 15s."
+  "desc": "Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies Sluggish to PvE enemies for 15s.",
+  "voi_only": false
 }

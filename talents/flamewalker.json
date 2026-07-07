@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "When Warding Radiance is active you leave trails of flame when you slide."
+  "desc": "When Warding Radiance is active you leave trails of flame when you slide.",
+  "voi_only": false
 }

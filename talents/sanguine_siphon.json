@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra."
+  "desc": "Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Heavy Weapons] Your posture damage is increased by 10%."
+  "desc": "[Heavy Weapons] Your posture damage is increased by 10%.",
+  "voi_only": false
 }

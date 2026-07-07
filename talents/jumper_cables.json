@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Being made Unconscious with an active tether allows you to steal health from a tethered target and not be made Unconscious."
+  "desc": "Being made Unconscious with an active tether allows you to steal health from a tethered target and not be made Unconscious.",
+  "voi_only": false
 }

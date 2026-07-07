@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast."
+  "desc": "If an enemy is on fire when you flourish, blast them away with a fire blast.",
+  "voi_only": false
 }

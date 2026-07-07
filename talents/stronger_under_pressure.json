@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your mantras with might gem now slow down your opponents, scaling with how many combat tags you currently have."
+  "desc": "Your mantras with might gem now slow down your opponents, scaling with how many combat tags you currently have.",
+  "voi_only": false
 }

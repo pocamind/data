@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now make use of the Ignition Union hooks to ascend or descend."
+  "desc": "You can now make use of the Ignition Union hooks to ascend or descend.",
+  "voi_only": false
 }

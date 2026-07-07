@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered."
+  "desc": "Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.",
+  "voi_only": false
 }

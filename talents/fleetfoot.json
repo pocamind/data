@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain an initial speed boost when slide jumping."
+  "desc": "Gain an initial speed boost when slide jumping.",
+  "voi_only": false
 }

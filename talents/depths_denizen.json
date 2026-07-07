@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The city you once called home is now your only way out of the depths, perhaps you can use this to your advantage. Gain extra leeway when attempting to escape the depths."
+  "desc": "The city you once called home is now your only way out of the depths, perhaps you can use this to your advantage. Gain extra leeway when attempting to escape the depths.",
+  "voi_only": true
 }

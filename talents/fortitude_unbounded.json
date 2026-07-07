@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest."
+  "desc": "You have gained the ability to surpass your limits and train your fortitude to its fullest.",
+  "voi_only": false
 }

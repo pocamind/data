@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Dagger] Instantly execute enemies finished with the critical attack of your dagger."
+  "desc": "[Dagger] Instantly execute enemies finished with the critical attack of your dagger.",
+  "voi_only": false
 }

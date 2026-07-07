@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Activate to make your dagger's light attacks steal tempo per hit for 20 seconds. [Dagger]"
+  "desc": "Activate to make your dagger's light attacks steal tempo per hit for 20 seconds. [Dagger]",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player."
+  "desc": "Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.",
+  "voi_only": false
 }

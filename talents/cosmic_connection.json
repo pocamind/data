@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "All celestial and astral related abilities are buffed."
+  "desc": "All celestial and astral related abilities are buffed.",
+  "voi_only": false
 }

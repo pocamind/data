@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A sturdy axe perfect for splitting bone."
+  "desc": "A sturdy axe perfect for splitting bone.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Reduces all incoming damage by 2/3 (applied after damage multipliers)."
+  "desc": "Reduces all incoming damage by 2/3 (applied after damage multipliers).",
+  "voi_only": false
 }

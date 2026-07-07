@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you charm take more damage from your squadmates in your party."
+  "desc": "Enemies you charm take more damage from your squadmates in your party.",
+  "voi_only": false
 }

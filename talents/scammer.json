@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "If your opponent tries to parry the fake hit of your critical attack, your critical attack will inflict a stronger daze upon your opponent.",
   "icon": "Brain",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

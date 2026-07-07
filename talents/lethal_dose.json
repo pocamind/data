@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "The poison from your hidden blade lasts twice as long."
+  "desc": "The poison from your hidden blade lasts twice as long.",
+  "voi_only": false
 }

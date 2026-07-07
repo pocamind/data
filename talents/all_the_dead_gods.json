@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your Basic Attacks now apply anti-heal and 5% Heal Boost against PvE for 8s."
+  "desc": "Your Basic Attacks now apply anti-heal and 5% Heal Boost against PvE for 8s.",
+  "voi_only": false
 }

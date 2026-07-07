@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Reduce all slows you receive by 40%."
+  "desc": "Reduce all slows you receive by 40%.",
+  "voi_only": true
 }

@@ -12,5 +12,6 @@
   "desc": "Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD",
   "exclusive": [
     "Orbital Ice"
-  ]
+  ],
+  "voi_only": false
 }

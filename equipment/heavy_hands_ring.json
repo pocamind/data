@@ -12,5 +12,6 @@
   },
   "reqs": "heavy_hands_ring := ()",
   "voi": false,
-  "desc": "Makes your \"M1\" attack 10% slower but do 30% more posture damage."
+  "desc": "Makes your \"M1\" attack 10% slower but do 30% more posture damage.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Training with different weapons taught you how to wield all of them more proficiently. Gain slightly extra weapon scaling on all weapons you use."
+  "desc": "Training with different weapons taught you how to wield all of them more proficiently. Gain slightly extra weapon scaling on all weapons you use.",
+  "voi_only": true
 }

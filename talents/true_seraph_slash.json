@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability."
+  "desc": "Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability.",
+  "voi_only": false
 }

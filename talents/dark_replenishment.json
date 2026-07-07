@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Knocking out an enemy in combat restores a portion of your ether."
+  "desc": "Knocking out an enemy in combat restores a portion of your ether.",
+  "voi_only": false
 }

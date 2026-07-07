@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Detonating crystals causes an eruption soon after."
+  "desc": "Detonating crystals causes an eruption soon after.",
+  "voi_only": false
 }

@@ -20,5 +20,6 @@
   },
   "reqs": "mercenarys_garb := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

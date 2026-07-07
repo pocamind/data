@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "How heavy is this thing when fully loaded?"
+  "desc": "How heavy is this thing when fully loaded?",
+  "voi_only": false
 }

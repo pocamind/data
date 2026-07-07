@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent."
+  "desc": "The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.",
+  "voi_only": false
 }

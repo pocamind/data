@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Ardour Screams now break campfires around you, while increasing its range by 2x."
+  "desc": "Your Ardour Screams now break campfires around you, while increasing its range by 2x.",
+  "voi_only": false
 }

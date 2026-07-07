@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)"
+  "desc": "When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)",
+  "voi_only": false
 }

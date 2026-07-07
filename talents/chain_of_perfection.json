@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You gain stacks of Perfection on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack."
+  "desc": "You gain stacks of Perfection on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.",
+  "voi_only": false
 }

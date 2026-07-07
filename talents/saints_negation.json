@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Once per stance cycle you can fully block an attack that matches your Saint Stance."
+  "desc": "Once per stance cycle you can fully block an attack that matches your Saint Stance.",
+  "voi_only": false
 }

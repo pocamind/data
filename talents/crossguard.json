@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "If you are using a sword, you gain 10% chip against other opponents wielding swords."
+  "desc": "If you are using a sword, you gain 10% chip against other opponents wielding swords.",
+  "voi_only": false
 }

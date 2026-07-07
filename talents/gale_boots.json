@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Reduce the amount of fall damage you take by 50%."
+  "desc": "Reduce the amount of fall damage you take by 50%.",
+  "voi_only": true
 }

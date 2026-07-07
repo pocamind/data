@@ -7,5 +7,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered."
+  "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.",
+  "voi_only": false
 }

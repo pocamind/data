@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Apply your Hair Products."
+  "desc": "Apply your Hair Products.",
+  "voi_only": false
 }

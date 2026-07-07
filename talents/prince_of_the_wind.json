@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You are the one who the wind bends around. Your galebreathe is enhanced."
+  "desc": "You are the one who the wind bends around. Your galebreathe is enhanced.",
+  "voi_only": true
 }

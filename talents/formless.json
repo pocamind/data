@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet."
+  "desc": "Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.",
+  "voi_only": false
 }

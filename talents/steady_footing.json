@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You're much more resistant to being pushed around."
+  "desc": "You're much more resistant to being pushed around.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "waning_ring := ()",
   "voi": false,
-  "desc": "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike."
+  "desc": "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike.",
+  "voi_only": false
 }

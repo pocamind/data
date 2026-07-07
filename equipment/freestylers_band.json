@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "freestylers_band := ()",
   "voi": false,
-  "desc": "Swim like some famous swimmer. Just like Mikhael Felps."
+  "desc": "Swim like some famous swimmer. Just like Mikhael Felps.",
+  "voi_only": false
 }

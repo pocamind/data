@@ -12,5 +12,6 @@
   },
   "reqs": "ministry_hunter_ring := ()",
   "voi": true,
-  "desc": "Backstabs now deal 10% more damage."
+  "desc": "Backstabs now deal 10% more damage.",
+  "voi_only": true
 }

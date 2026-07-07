@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Command your Phoenix to scout, and dive into enemies."
+  "desc": "Command your Phoenix to scout, and dive into enemies.",
+  "voi_only": true
 }

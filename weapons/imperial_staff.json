@@ -23,5 +23,6 @@
   "desc": "Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation.",
   "talents": [
     "Both Ends"
-  ]
+  ],
+  "voi_only": false
 }

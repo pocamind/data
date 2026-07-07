@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "charged_ring := ()",
   "voi": false,
-  "desc": "Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal."
+  "desc": "Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity."
+  "desc": "Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity.",
+  "voi_only": false
 }

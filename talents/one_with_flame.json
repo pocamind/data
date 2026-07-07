@@ -9,5 +9,6 @@
   "desc": "When equipping a Worshipper Longsword and Worshipper Shield, you take 25% less damage while on fire and every mantra you use sets enemies on fire.",
   "additional_info": "These effects only apply while you are burning. Also turns your Medium Weapon Mantras orange and adds Flamecharm scaling to your Belief while active.",
   "icon": "Blaze",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

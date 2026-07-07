@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active."
+  "desc": "Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.",
+  "voi_only": false
 }

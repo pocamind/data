@@ -22,5 +22,6 @@
   "desc": "A sword you summoned using your opponent's metal rods.",
   "talents": [
     "Forced Fulfilment"
-  ]
+  ],
+  "voi_only": false
 }

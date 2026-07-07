@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle."
+  "desc": "Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.",
+  "voi_only": false
 }

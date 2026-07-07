@@ -24,5 +24,6 @@
   },
   "reqs": "tillians_beret := 165r TTL",
   "voi": false,
-  "desc": "A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price."
+  "desc": "A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price.",
+  "voi_only": false
 }

@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves."
+  "desc": "The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves.",
+  "voi_only": false
 }

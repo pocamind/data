@@ -20,5 +20,6 @@
   },
   "reqs": "chefs_toque := ()",
   "voi": false,
-  "desc": "It's not raw, you are."
+  "desc": "It's not raw, you are.",
+  "voi_only": false
 }

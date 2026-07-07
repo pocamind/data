@@ -19,5 +19,6 @@
   },
   "reqs": "seamasters_cap := ()",
   "voi": false,
-  "desc": "Ten thousand thundering typhoons!"
+  "desc": "Ten thousand thundering typhoons!",
+  "voi_only": false
 }

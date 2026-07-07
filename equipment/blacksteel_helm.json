@@ -18,5 +18,6 @@
   },
   "reqs": "blacksteel_helm := 135r TTL",
   "voi": false,
-  "desc": "An imposing helmet made from blackened steel."
+  "desc": "An imposing helmet made from blackened steel.",
+  "voi_only": false
 }

@@ -21,5 +21,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "Sturdy leather armor, fashioned for the hunters sent into the driftlands to deal with rival factions."
+  "desc": "Sturdy leather armor, fashioned for the hunters sent into the driftlands to deal with rival factions.",
+  "voi_only": false
 }

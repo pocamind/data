@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire."
+  "desc": "Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.",
+  "voi_only": false
 }

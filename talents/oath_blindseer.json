@@ -15,5 +15,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."
+  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
+  "voi_only": false
 }

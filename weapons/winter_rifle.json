@@ -21,5 +21,6 @@
   "desc": "One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius.",
   "talents": [
     "Subzero"
-  ]
+  ],
+  "voi_only": false
 }

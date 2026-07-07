@@ -22,5 +22,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "Crafted for experienced Divers, these robes signify one who has experienced the horrors of the Deep."
+  "desc": "Crafted for experienced Divers, these robes signify one who has experienced the horrors of the Deep.",
+  "voi_only": false
 }

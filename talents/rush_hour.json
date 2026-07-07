@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage."
+  "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",
+  "voi_only": false
 }

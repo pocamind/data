@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You deal increased backstab damage to opponents based on how high your stealth stat currently is."
+  "desc": "You deal increased backstab damage to opponents based on how high your stealth stat currently is.",
+  "voi_only": false
 }

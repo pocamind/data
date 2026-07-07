@@ -21,5 +21,6 @@
   },
   "reqs": "leather_gloves := ()",
   "voi": false,
-  "desc": "A pair of leather gloves. One size fits all, I guess?"
+  "desc": "A pair of leather gloves. One size fits all, I guess?",
+  "voi_only": false
 }

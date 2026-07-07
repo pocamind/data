@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Receive Ether back when inflicted with damage from Mantras."
+  "desc": "Receive Ether back when inflicted with damage from Mantras.",
+  "voi_only": false
 }

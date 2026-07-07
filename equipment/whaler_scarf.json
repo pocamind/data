@@ -17,5 +17,6 @@
   },
   "reqs": "whaler_scarf := 90r TTL",
   "voi": false,
-  "desc": "The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void."
+  "desc": "The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void.",
+  "voi_only": false
 }

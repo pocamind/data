@@ -28,5 +28,6 @@
   "reqs": "fur_parka := ()",
   "voi": false,
   "wiki": "",
-  "desc": "An essential winter coat to protect you against the cold."
+  "desc": "An essential winter coat to protect you against the cold.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly."
+  "desc": "Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.",
+  "voi_only": false
 }

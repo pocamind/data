@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds."
+  "desc": "Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.",
+  "voi_only": false
 }

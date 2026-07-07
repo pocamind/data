@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "trunks_clutch_ring := 90r TTL",
   "voi": true,
-  "desc": "Gain 75% more damage when at 20% health or lower."
+  "desc": "Gain 75% more damage when at 20% health or lower.",
+  "voi_only": true
 }

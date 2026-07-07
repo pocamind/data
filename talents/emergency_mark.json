@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Applying a mark on someone who has less than 20% health heals them for 10% of their health."
+  "desc": "Applying a mark on someone who has less than 20% health heals them for 10% of their health.",
+  "voi_only": false
 }

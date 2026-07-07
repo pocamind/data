@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Rifles] Your running attacks now apply a brief amount of daze and Stagger PvE enemies."
+  "desc": "[Rifles] Your running attacks now apply a brief amount of daze and Stagger PvE enemies.",
+  "voi_only": false
 }

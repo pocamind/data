@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A mighty axe, held by the most esteemed of the Authority. Its weight and striking force deliver utterly brutal blows through the teeth of its foes."
+  "desc": "A mighty axe, held by the most esteemed of the Authority. Its weight and striking force deliver utterly brutal blows through the teeth of its foes.",
+  "voi_only": false
 }

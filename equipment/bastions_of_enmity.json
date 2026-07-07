@@ -22,5 +22,6 @@
   "reqs": "bastions_of_enmity := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "Holy Mackerel! That was a tough fight!"
+  "desc": "Holy Mackerel! That was a tough fight!",
+  "voi_only": false
 }

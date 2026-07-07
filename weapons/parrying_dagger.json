@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A dagger that is used more as a pivot for parrying than as a weapon of its own right."
+  "desc": "A dagger that is used more as a pivot for parrying than as a weapon of its own right.",
+  "voi_only": false
 }

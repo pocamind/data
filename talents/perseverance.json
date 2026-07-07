@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Reduces the duration you're Ragdolled and Unconscious for by 25%."
+  "desc": "Reduces the duration you're Ragdolled and Unconscious for by 25%.",
+  "voi_only": false
 }

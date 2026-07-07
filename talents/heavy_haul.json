@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one."
+  "desc": "Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.",
+  "voi_only": false
 }

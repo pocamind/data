@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast. Drain health from PvE opponents as well."
+  "desc": "Everyone you Reinforce is drained of their Ether while Reinforced. Drain scales with your Shadowcast. Drain health from PvE opponents as well.",
+  "voi_only": false
 }

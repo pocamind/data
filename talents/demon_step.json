@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use."
+  "desc": "Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.",
+  "voi_only": false
 }

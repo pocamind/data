@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "The effects of Taunt and Encore no longer work on you."
+  "desc": "The effects of Taunt and Encore no longer work on you.",
+  "voi_only": false
 }

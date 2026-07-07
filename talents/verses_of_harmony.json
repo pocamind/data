@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Each elemental stance grants access to select talents from the corresponding attunement."
+  "desc": "Each elemental stance grants access to select talents from the corresponding attunement.",
+  "voi_only": true
 }

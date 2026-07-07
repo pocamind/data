@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE Heal Boost to 15% as well."
+  "desc": "Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE Heal Boost to 15% as well.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
     "Ether Regen": 10,
     "Extra Stealth": 0
   },
-  "desc": "Robes given to those who have just joined the journey to help others in need. These are woven to prioritize quick movement if needed."
+  "desc": "Robes given to those who have just joined the journey to help others in need. These are woven to prioritize quick movement if needed.",
+  "voi_only": false
 }

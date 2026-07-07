@@ -15,5 +15,6 @@
   "pips": {},
   "reqs": "dermal_stud := ()",
   "voi": false,
-  "desc": "That's metal."
+  "desc": "That's metal.",
+  "voi_only": false
 }

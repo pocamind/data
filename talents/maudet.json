@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking."
+  "desc": "Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.",
+  "voi_only": false
 }

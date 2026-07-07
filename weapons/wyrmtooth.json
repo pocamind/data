@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity."
+  "desc": "An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame."
+  "desc": "The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.",
+  "voi_only": false
 }

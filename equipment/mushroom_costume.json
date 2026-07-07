@@ -16,5 +16,6 @@
   "pips": {},
   "reqs": "mushroom_costume := ()",
   "voi": false,
-  "desc": "A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula.\n[*Note; Only obtainable through the Hallowtide Event, or with the Hallowtide '23 Medal.]"
+  "desc": "A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula.\n[*Note; Only obtainable through the Hallowtide Event, or with the Hallowtide '23 Medal.]",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your speed boost granted from dodging is increased."
+  "desc": "Your speed boost granted from dodging is increased.",
+  "voi_only": false
 }

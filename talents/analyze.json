@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Marking enemies with your Callout analyzes them, making them take 20% more damage from all sources for 10 seconds."
+  "desc": "Marking enemies with your Callout analyzes them, making them take 20% more damage from all sources for 10 seconds.",
+  "voi_only": true
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Steal all of the hunger of enemies caught in your Shadow Vortex. Knocking a player also greatly enhances your next Shadow Vortex."
+  "desc": "Steal all of the hunger of enemies caught in your Shadow Vortex. Knocking a player also greatly enhances your next Shadow Vortex.",
+  "voi_only": true
 }

@@ -26,5 +26,6 @@
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "desc": "Knell's refrabricated garb hails from when he was still himself, its designs steeped in his studies of oscillatory sound. Though he was not a resonant soul and the science imperfect in its time, the Indichite infusion is capable of amplifying the soul's resonance- powerful, but increasingly unstable."
+  "desc": "Knell's refrabricated garb hails from when he was still himself, its designs steeped in his studies of oscillatory sound. Though he was not a resonant soul and the science imperfect in its time, the Indichite infusion is capable of amplifying the soul's resonance- powerful, but increasingly unstable.",
+  "voi_only": false
 }

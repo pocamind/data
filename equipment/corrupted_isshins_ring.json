@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "corrupted_isshins_ring := 90r TTL",
   "voi": true,
-  "desc": "Dropped from a wandering swordsman who went insane. Take 2x damage and deal 2x damage when in close-quarters combat."
+  "desc": "Dropped from a wandering swordsman who went insane. Take 2x damage and deal 2x damage when in close-quarters combat.",
+  "voi_only": true
 }

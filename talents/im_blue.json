@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Improve the efficiency of your Blue Gems. Blue are the gems you use."
+  "desc": "Improve the efficiency of your Blue Gems. Blue are the gems you use.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "When on fire, automatically quench flames at the cost of some ether."
+  "desc": "When on fire, automatically quench flames at the cost of some ether.",
+  "voi_only": false
 }

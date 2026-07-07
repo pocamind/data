@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%."
+  "desc": "Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   "reqs": "confessors_charm := 90r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "An intricately bejewelled pendant, traditionally worn by academics and prestigious of the Lullaby Isles. Though you'll never really know its real symbolism, one can only assume it was some form of sacred item, something to be revered. It's surprisingly heavy, must've been annoyingly impractical. Who knows how it got into your hands."
+  "desc": "An intricately bejewelled pendant, traditionally worn by academics and prestigious of the Lullaby Isles. Though you'll never really know its real symbolism, one can only assume it was some form of sacred item, something to be revered. It's surprisingly heavy, must've been annoyingly impractical. Who knows how it got into your hands.",
+  "voi_only": false
 }

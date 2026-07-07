@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "The negative reputation threshold for a faction to put out posters of you is now higher."
+  "desc": "The negative reputation threshold for a faction to put out posters of you is now higher.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile."
+  "desc": "When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.",
+  "voi_only": false
 }

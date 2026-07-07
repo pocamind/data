@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "For every Ether Erudite Stack you have, increase the size and damage of your Pressure Blast."
+  "desc": "For every Ether Erudite Stack you have, increase the size and damage of your Pressure Blast.",
+  "voi_only": true
 }

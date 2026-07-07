@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Basic Attack posture damage is increased by 15%."
+  "desc": "Your Basic Attack posture damage is increased by 15%.",
+  "voi_only": true
 }

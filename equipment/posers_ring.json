@@ -12,5 +12,6 @@
   },
   "reqs": "posers_ring := ()",
   "voi": false,
-  "desc": "Damage done with a Katana isn't received until the user sheathes their weapon."
+  "desc": "Damage done with a Katana isn't received until the user sheathes their weapon.",
+  "voi_only": false
 }

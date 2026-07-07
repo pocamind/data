@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "After landing a critical your next basic attack will gain 25% chip past your opponent's block."
+  "desc": "After landing a critical your next basic attack will gain 25% chip past your opponent's block.",
+  "voi_only": false
 }

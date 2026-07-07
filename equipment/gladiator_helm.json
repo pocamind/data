@@ -21,5 +21,6 @@
   },
   "reqs": "gladiator_helm := 135r TTL",
   "voi": false,
-  "desc": "The visage of a gladiator who has seen many battles."
+  "desc": "The visage of a gladiator who has seen many battles.",
+  "voi_only": false
 }

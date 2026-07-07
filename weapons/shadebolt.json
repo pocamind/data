@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Bow of an ancient deep dwelling Ganymede nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman. Most never learned a name."
+  "desc": "Bow of an ancient deep dwelling Ganymede nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman. Most never learned a name.",
+  "voi_only": false
 }

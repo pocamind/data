@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your summons now heal you each time they deal damage."
+  "desc": "Your summons now heal you each time they deal damage.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[1H Guns] When you land a critical shot, gain Rapid Fire for 2s. 12s Cooldown."
+  "desc": "[1H Guns] When you land a critical shot, gain Rapid Fire for 2s. 12s Cooldown.",
+  "voi_only": false
 }

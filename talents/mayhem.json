@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Initiate a special dash attack by pressing M1 during the start of your dodge."
+  "desc": "Initiate a special dash attack by pressing M1 during the start of your dodge.",
+  "voi_only": false
 }

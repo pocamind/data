@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards"
+  "desc": "[Dagger] When you successfully flourish an enemy, you throw out a dagger afterwards",
+  "voi_only": false
 }

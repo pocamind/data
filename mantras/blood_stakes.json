@@ -18,5 +18,6 @@
   ],
   "miscellaneous": "All nearby blood pools spawn an additional stake.",
   "voi": false,
-  "desc": "Create stakes of blood."
+  "desc": "Create stakes of blood.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "While using a Sword or Rapier, take 30% less posture damage from criticals."
+  "desc": "While using a Sword or Rapier, take 30% less posture damage from criticals.",
+  "voi_only": false
 }

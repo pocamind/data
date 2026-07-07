@@ -15,5 +15,6 @@
   },
   "reqs": "potion_masters_hat := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

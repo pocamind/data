@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your speed is decreased less by low health."
+  "desc": "Your speed is decreased less by low health.",
+  "voi_only": false
 }

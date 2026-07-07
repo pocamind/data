@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal +20% more damage to human enemies with hyperarmor."
+  "desc": "Deal +20% more damage to human enemies with hyperarmor.",
+  "voi_only": false
 }

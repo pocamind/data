@@ -14,5 +14,6 @@
   },
   "reqs": "ember_scorch_earrings := ()",
   "voi": false,
-  "desc": "Wearing these makes you feel a fire in your heart with every swing."
+  "desc": "Wearing these makes you feel a fire in your heart with every swing.",
+  "voi_only": false
 }

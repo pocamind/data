@@ -26,5 +26,6 @@
   "reqs": "hive_scourge_cuirass := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

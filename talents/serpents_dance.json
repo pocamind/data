@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum."
+  "desc": "Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.",
+  "voi_only": false
 }

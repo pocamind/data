@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Deal more damage the more insane you are. Grants +15% damage at maximum insanity."
+  "desc": "Deal more damage the more insane you are. Grants +15% damage at maximum insanity.",
+  "voi_only": false
 }

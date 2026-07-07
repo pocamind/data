@@ -24,5 +24,6 @@
   "reqs": "strapped_hat := 105r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "A hat typically worn by those from the Central Luminant."
+  "desc": "A hat typically worn by those from the Central Luminant.",
+  "voi_only": false
 }

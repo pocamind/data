@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A remarkably thin blade often likened to (and used as) a toothpick."
+  "desc": "A remarkably thin blade often likened to (and used as) a toothpick.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Buffs applied by food you cook now have their buff effects amplified by +30%."
+  "desc": "Buffs applied by food you cook now have their buff effects amplified by +30%.",
+  "voi_only": false
 }

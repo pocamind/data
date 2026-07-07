@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "...This isn't very efficient."
+  "desc": "...This isn't very efficient.",
+  "voi_only": false
 }

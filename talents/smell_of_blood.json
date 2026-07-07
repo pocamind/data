@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When people touch a blood pool, briefly see their blood (or blood hemorrhage amount for PvE) and blood poison. This effect also occurs whenever you blockbreak your opponent."
+  "desc": "When people touch a blood pool, briefly see their blood (or blood hemorrhage amount for PvE) and blood poison. This effect also occurs whenever you blockbreak your opponent.",
+  "voi_only": false
 }

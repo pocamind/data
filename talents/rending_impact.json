@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[Greataxes] Block breaking an enemy applies knockdown."
+  "desc": "[Greataxes] Block breaking an enemy applies knockdown.",
+  "voi_only": false
 }

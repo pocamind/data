@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H."
+  "desc": "An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.",
+  "voi_only": false
 }

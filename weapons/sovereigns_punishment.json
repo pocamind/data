@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up."
+  "desc": "A ceremonial hammer meant to represent the strength of the Authority Law. Considered unwieldy and unusable for battle. Until you picked it up.",
+  "voi_only": false
 }

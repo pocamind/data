@@ -20,5 +20,6 @@
   },
   "reqs": "investigators_hat := 105r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames."
+  "desc": "Basic Attacks on Pleeksty's Inferno are now granted flames.",
+  "voi_only": false
 }

@@ -21,5 +21,6 @@
     "Magnet Spark"
   ],
   "voi": false,
-  "desc": "Arcing blades of electricity."
+  "desc": "Arcing blades of electricity.",
+  "voi_only": false
 }

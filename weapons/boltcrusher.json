@@ -23,5 +23,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble & foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."
+  "desc": "A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble & foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark.",
+  "voi_only": false
 }

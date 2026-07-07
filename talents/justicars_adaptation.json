@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Jus Karita running attacks and criticals can now proc Jus Karita talents even if you aren't currently using Jus Karita. Your Jus Karita running attacks can now also proc fist talents."
+  "desc": "Jus Karita running attacks and criticals can now proc Jus Karita talents even if you aren't currently using Jus Karita. Your Jus Karita running attacks can now also proc fist talents.",
+  "voi_only": false
 }

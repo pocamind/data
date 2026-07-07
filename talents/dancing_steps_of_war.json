@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.",
   "icon": "Boots",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

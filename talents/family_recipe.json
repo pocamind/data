@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now craft bombs at a crafting bench."
+  "desc": "You can now craft bombs at a crafting bench.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a backstab with your critical deals 15 extra true damage."
+  "desc": "Landing a backstab with your critical deals 15 extra true damage.",
+  "voi_only": false
 }

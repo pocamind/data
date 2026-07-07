@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "When landing a running attack while using a club to gain a bit of temp health."
+  "desc": "When landing a running attack while using a club to gain a bit of temp health.",
+  "voi_only": true
 }

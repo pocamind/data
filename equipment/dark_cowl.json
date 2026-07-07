@@ -19,5 +19,6 @@
   "pips": {},
   "reqs": "dark_cowl := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

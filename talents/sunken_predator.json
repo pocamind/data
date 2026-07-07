@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed."
+  "desc": "Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.",
+  "voi_only": false
 }

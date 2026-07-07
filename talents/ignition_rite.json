@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing fire attacks with the phoenix summoned regenerates Heartfire."
+  "desc": "Landing fire attacks with the phoenix summoned regenerates Heartfire.",
+  "voi_only": true
 }

@@ -24,5 +24,6 @@
     "Iron Hug"
   ],
   "voi": false,
-  "desc": "Grab and throw your enemies."
+  "desc": "Grab and throw your enemies.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "prophets_ring := ()",
   "voi": false,
-  "desc": "Once worn by the fanatical followers of a self-proclaimed Prophet from the Southern Luminant. The Shocks Corps were called in to intervene to prevent catastrophe, but upon their arrival the Prophet was nowhere to be found. +1.2 CHA scaling to all weapons."
+  "desc": "Once worn by the fanatical followers of a self-proclaimed Prophet from the Southern Luminant. The Shocks Corps were called in to intervene to prevent catastrophe, but upon their arrival the Prophet was nowhere to be found. +1.2 CHA scaling to all weapons.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power."
+  "desc": "For every Might Gem you have equipped on your mantras, slightly increase each Might Gem's power.",
+  "voi_only": false
 }

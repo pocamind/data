@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Using Sing, Taunt, or Ardour Scream applies anti heal for the duration of the move.",
   "additional_info": "Applies 100% Anti-Heal. These abilities will also gain the Broodlord Scream sound effect.",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

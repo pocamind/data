@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You now emit a delayed burst of flames after coming close to death."
+  "desc": "You now emit a delayed burst of flames after coming close to death.",
+  "voi_only": false
 }

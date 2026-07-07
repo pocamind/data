@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains."
+  "desc": "A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains.",
+  "voi_only": false
 }

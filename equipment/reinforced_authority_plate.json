@@ -26,5 +26,6 @@
   },
   "reqs": "reinforced_authority_plate := 165r TTL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

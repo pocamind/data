@@ -23,5 +23,6 @@
   },
   "reqs": "reinforced_war_helmet := 315r TTL",
   "voi": false,
-  "desc": "Hell hath no fury like an Evanspear."
+  "desc": "Hell hath no fury like an Evanspear.",
+  "voi_only": false
 }

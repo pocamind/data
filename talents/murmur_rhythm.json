@@ -3,11 +3,12 @@
   "category": "Murmur",
   "rarity": "Murmur",
   "reqs": "oath_soulbreaker => murmur_rhythm := ()",
-  "additional_info": "Pings all nearby Monsters, NPCÃ¢â‚¬â„¢s, and Players, through walls while gray-scaling your screen. Red = Low Health, Yellow = Moderate Health, Grey = Healthy.",
+  "additional_info": "Pings all nearby Monsters, NPCÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s, and Players, through walls while gray-scaling your screen. Red = Low Health, Yellow = Moderate Health, Grey = Healthy.",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched."
+  "desc": "An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.",
+  "voi_only": false
 }

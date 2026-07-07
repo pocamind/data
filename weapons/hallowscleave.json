@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A blade said to be fashioned by the Spellhardt family to settle disputes in a festive style. It's bound to catch an odd gaze at a standard tavern, but one must simply express their Hallowtide spirit."
+  "desc": "A blade said to be fashioned by the Spellhardt family to settle disputes in a festive style. It's bound to catch an odd gaze at a standard tavern, but one must simply express their Hallowtide spirit.",
+  "voi_only": false
 }

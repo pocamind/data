@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Jus Karita gains +30% posture damage against other fist styles."
+  "desc": "Jus Karita gains +30% posture damage against other fist styles.",
+  "voi_only": false
 }

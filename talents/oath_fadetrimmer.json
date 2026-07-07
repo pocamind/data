@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again."
+  "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
+  "voi_only": false
 }

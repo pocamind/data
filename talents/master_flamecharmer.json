@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can now obtain 3-Star Leveled Flamecharmer Mantras."
+  "desc": "You can now obtain 3-Star Leveled Flamecharmer Mantras.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can now obtain 3-Star Leveled Galebreathe mantras."
+  "desc": "You can now obtain 3-Star Leveled Galebreathe mantras.",
+  "voi_only": false
 }

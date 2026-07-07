@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage."
+  "desc": "Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with the effect as well."
+  "desc": "You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with the effect as well.",
+  "voi_only": true
 }

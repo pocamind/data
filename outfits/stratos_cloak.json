@@ -23,5 +23,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "An honorable gift given in recognition of your heroism. Donning these robes represents the highest anointment granted within the Blade Temple."
+  "desc": "An honorable gift given in recognition of your heroism. Donning these robes represents the highest anointment granted within the Blade Temple.",
+  "voi_only": false
 }

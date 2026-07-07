@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal 10% more damage to enemies with elemental status effects, but remove the status on hit."
+  "desc": "Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.",
+  "voi_only": false
 }

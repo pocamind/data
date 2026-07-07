@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Extend the speed boost you get from successfully parrying an attack."
+  "desc": "Extend the speed boost you get from successfully parrying an attack.",
+  "voi_only": false
 }

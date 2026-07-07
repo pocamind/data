@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others."
+  "desc": "Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.",
+  "voi_only": false
 }

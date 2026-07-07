@@ -17,5 +17,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models."
+  "desc": "A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models.",
+  "voi_only": false
 }

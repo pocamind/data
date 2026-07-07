@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "If you land your Revenge, clear the cooldown immediately. (25s cooldown)"
+  "desc": "If you land your Revenge, clear the cooldown immediately. (25s cooldown)",
+  "voi_only": false
 }

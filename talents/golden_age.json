@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Iron Pull now detonates Crystals and overloads Surges."
+  "desc": "Your Iron Pull now detonates Crystals and overloads Surges.",
+  "voi_only": false
 }

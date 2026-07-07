@@ -15,5 +15,6 @@
   "reqs": "hollow_angel_mask := ()",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage."
+  "desc": "Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage.",
+  "voi_only": false
 }

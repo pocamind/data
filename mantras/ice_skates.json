@@ -9,5 +9,6 @@
   "vaulted": false,
   "reqs": "ice_skates := 50r ICE",
   "voi": false,
-  "desc": ""
+  "desc": "",
+  "voi_only": false
 }

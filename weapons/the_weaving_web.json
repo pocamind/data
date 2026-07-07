@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Aww, look at the little guy though!..."
+  "desc": "Aww, look at the little guy though!...",
+  "voi_only": false
 }

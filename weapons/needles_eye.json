@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after."
+  "desc": "Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after.",
+  "voi_only": false
 }

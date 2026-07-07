@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your vent is imbued with glacial frost."
+  "desc": "Your vent is imbued with glacial frost.",
+  "voi_only": false
 }

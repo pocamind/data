@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower."
+  "desc": "Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower.",
+  "voi_only": false
 }

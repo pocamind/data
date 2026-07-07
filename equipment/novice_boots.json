@@ -17,5 +17,6 @@
   },
   "reqs": "novice_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

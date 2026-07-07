@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Remove the autoparry frames the first hit of your base spear critical has."
+  "desc": "Remove the autoparry frames the first hit of your base spear critical has.",
+  "voi_only": false
 }

@@ -14,5 +14,6 @@
   },
   "reqs": "ether_imbued_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -23,5 +23,6 @@
   "desc": "Perfect for a Knuckle Sandwich, served cold.",
   "talents": [
     "Fortify"
-  ]
+  ],
+  "voi_only": true
 }

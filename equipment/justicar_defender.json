@@ -19,5 +19,6 @@
   },
   "reqs": "justicar_defender := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

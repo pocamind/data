@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You can cast Ritual Mantras instantly."
+  "desc": "You can cast Ritual Mantras instantly.",
+  "voi_only": false
 }

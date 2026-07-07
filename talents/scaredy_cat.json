@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When enemies initiate a fight first, gain a speed boost."
+  "desc": "When enemies initiate a fight first, gain a speed boost.",
+  "voi_only": false
 }

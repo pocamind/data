@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your damage is stored in a lightning orb. Sheathing your weapon will shoot the lightning orbs at the opponent. The orbs will do more damage based on how many orbs are being stored up."
+  "desc": "Your damage is stored in a lightning orb. Sheathing your weapon will shoot the lightning orbs at the opponent. The orbs will do more damage based on how many orbs are being stored up.",
+  "voi_only": true
 }

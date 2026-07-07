@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Call up two Blacksteel Pirates to aid you in battle."
+  "desc": "Call up two Blacksteel Pirates to aid you in battle.",
+  "voi_only": false
 }

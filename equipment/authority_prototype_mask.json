@@ -12,5 +12,6 @@
   },
   "reqs": "authority_prototype_mask := ()",
   "voi": false,
-  "desc": "The latest innovation of the Citadel's top scientists, this mask can turn your reflexes into lightning; too bad its primitive state would turn your brain into paste."
+  "desc": "The latest innovation of the Citadel's top scientists, this mask can turn your reflexes into lightning; too bad its primitive state would turn your brain into paste.",
+  "voi_only": false
 }

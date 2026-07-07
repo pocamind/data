@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Greatly shorten the amount of time you are guardbroken for."
+  "desc": "Greatly shorten the amount of time you are guardbroken for.",
+  "voi_only": true
 }

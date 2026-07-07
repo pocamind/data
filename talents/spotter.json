@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Marking enemies while in Rhythm will now indicate their health status to your allies."
+  "desc": "Marking enemies while in Rhythm will now indicate their health status to your allies.",
+  "voi_only": false
 }

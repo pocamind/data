@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane."
+  "desc": "A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane.",
+  "voi_only": false
 }

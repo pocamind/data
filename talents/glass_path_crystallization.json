@@ -13,5 +13,6 @@
   "exclusive": [
     "Unyielding Frost",
     "Flashboil"
-  ]
+  ],
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "maljuror_jougs := 165r TTL",
   "voi": false,
-  "desc": "Heavy Metal."
+  "desc": "Heavy Metal.",
+  "voi_only": false
 }

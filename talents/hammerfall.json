@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Clubs] Aerial attacks do 25% more posture damage when blocked."
+  "desc": "[Clubs] Aerial attacks do 25% more posture damage when blocked.",
+  "voi_only": false
 }

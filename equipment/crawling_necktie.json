@@ -17,5 +17,6 @@
   },
   "reqs": "crawling_necktie := 90r TTL",
   "voi": false,
-  "desc": "It's showtime!\n[*Note: Only obtainable through Goodie Bags.]"
+  "desc": "It's showtime!\n[*Note: Only obtainable through Goodie Bags.]",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free."
+  "desc": "You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free.",
+  "voi_only": false
 }

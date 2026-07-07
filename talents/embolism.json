@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage."
+  "desc": "If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.",
+  "voi_only": false
 }

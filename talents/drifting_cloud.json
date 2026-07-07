@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Cutting Pace now unsheathes the full potential of your Purple Cloud."
+  "desc": "Cutting Pace now unsheathes the full potential of your Purple Cloud.",
+  "voi_only": true
 }

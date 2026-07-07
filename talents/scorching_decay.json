@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "The wither dealt from your Emperor's Flame is massively increased."
+  "desc": "The wither dealt from your Emperor's Flame is massively increased.",
+  "voi_only": false
 }

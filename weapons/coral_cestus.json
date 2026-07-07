@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Cestus fashioned from the remains of a Mudskipper Brute."
+  "desc": "Cestus fashioned from the remains of a Mudskipper Brute.",
+  "voi_only": false
 }

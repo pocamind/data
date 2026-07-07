@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "The first attack to hit you while out of combat has its damage cut in half."
+  "desc": "The first attack to hit you while out of combat has its damage cut in half.",
+  "voi_only": false
 }

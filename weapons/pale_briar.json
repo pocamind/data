@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church."
+  "desc": "Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church.",
+  "voi_only": false
 }

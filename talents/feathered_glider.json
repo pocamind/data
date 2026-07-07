@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage."
+  "desc": "As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.",
+  "voi_only": false
 }

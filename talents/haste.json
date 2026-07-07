@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Gain a permanent +3 speed buff at all times."
+  "desc": "Gain a permanent +3 speed buff at all times.",
+  "voi_only": true
 }

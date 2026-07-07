@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Getting hit while Unconscious no longer resets your time Unconscious."
+  "desc": "Getting hit while Unconscious no longer resets your time Unconscious.",
+  "voi_only": false
 }

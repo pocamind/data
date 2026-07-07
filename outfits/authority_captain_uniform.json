@@ -21,5 +21,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "The unmistakable banded coat of an Adretian Captain. Despite immediate appearances, the coat is wound with protective fibers that provide unparalleled durability."
+  "desc": "The unmistakable banded coat of an Adretian Captain. Despite immediate appearances, the coat is wound with protective fibers that provide unparalleled durability.",
+  "voi_only": false
 }

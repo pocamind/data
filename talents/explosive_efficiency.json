@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Crafting a bomb will yield two bombs. Chance to make three."
+  "desc": "Crafting a bomb will yield two bombs. Chance to make three.",
+  "voi_only": false
 }

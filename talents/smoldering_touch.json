@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Guardbreaking your opponent sets them on fire."
+  "desc": "Guardbreaking your opponent sets them on fire.",
+  "voi_only": false
 }

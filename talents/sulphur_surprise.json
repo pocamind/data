@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy."
+  "desc": "Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.",
+  "voi_only": false
 }

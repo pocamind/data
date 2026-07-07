@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You are a member of the Authority deployed to the Eastern Luminant. You may find trouble with the local factions and must become stronger through advancing the Authority's position."
+  "desc": "You are a member of the Authority deployed to the Eastern Luminant. You may find trouble with the local factions and must become stronger through advancing the Authority's position.",
+  "voi_only": false
 }

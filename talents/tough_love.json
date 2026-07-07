@@ -12,5 +12,6 @@
   "desc": "Deal 10% more damage to enemies Charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies Charmed briefly.",
   "exclusive": [
     "Narcissist"
-  ]
+  ],
+  "voi_only": false
 }

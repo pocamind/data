@@ -22,5 +22,6 @@
   "reqs": "trimmed_overcoat := ()",
   "voi": false,
   "wiki": "",
-  "desc": "A thick coat to protect you against the cold."
+  "desc": "A thick coat to protect you against the cold.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Dashing at maximum sprint momentum makes you one with the wind itself."
+  "desc": "Dashing at maximum sprint momentum makes you one with the wind itself.",
+  "voi_only": false
 }

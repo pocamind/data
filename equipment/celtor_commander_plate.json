@@ -20,5 +20,6 @@
   },
   "reqs": "celtor_commander_plate := 165r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

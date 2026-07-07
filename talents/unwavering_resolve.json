@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Getting parried punishes your posture 33% less."
+  "desc": "Getting parried punishes your posture 33% less.",
+  "voi_only": false
 }

@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Gain a speed boost after causing an opponent heavy blood loss."
+  "desc": "Gain a speed boost after causing an opponent heavy blood loss.",
+  "voi_only": false
 }

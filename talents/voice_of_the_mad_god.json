@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Any time you apply charm it now applies \"Madness\" to enemies directly."
+  "desc": "Any time you apply charm it now applies \"Madness\" to enemies directly.",
+  "voi_only": true
 }

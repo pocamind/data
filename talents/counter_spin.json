@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "After blocking an attack, press M2 to counter with your staff."
+  "desc": "After blocking an attack, press M2 to counter with your staff.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "eyeglasses := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

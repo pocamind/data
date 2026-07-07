@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Rabbit or duck, it doesn't really matter the season."
+  "desc": "RabbitÂ orÂ duck, it doesn't really matter the season.",
+  "voi_only": false
 }

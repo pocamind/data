@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Weapon backstabs deal an extra 5 true damage on your opponent (20 extra damage if done to PvE)."
+  "desc": "Weapon backstabs deal an extra 5 true damage on your opponent (20 extra damage if done to PvE).",
+  "voi_only": true
 }

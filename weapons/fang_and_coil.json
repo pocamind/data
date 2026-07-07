@@ -18,5 +18,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The serpentine martial arts ofÂ Etrea."
+  "desc": "The serpentine martial arts ofÃ‚Â Etrea.",
+  "voi_only": false
 }

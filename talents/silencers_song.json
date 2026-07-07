@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Silencer's Blade now procs on your mantras."
+  "desc": "Silencer's Blade now procs on your mantras.",
+  "voi_only": false
 }

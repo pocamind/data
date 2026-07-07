@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your light attacks now proc Fear the Dark."
+  "desc": "Your light attacks now proc Fear the Dark.",
+  "voi_only": false
 }

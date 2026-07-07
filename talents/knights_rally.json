@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When using a shield, you ready your block more quickly after taking a hit."
+  "desc": "When using a shield, you ready your block more quickly after taking a hit.",
+  "voi_only": false
 }

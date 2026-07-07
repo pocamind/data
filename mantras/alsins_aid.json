@@ -9,5 +9,6 @@
   "vaulted": false,
   "reqs": "justicar => alsins_aid := ()",
   "voi": false,
-  "desc": "Give your ally an aura that grants then more speed, and increases the amount of healing they receive for 10 seconds."
+  "desc": "Give your ally an aura that grants then more speed, and increases the amount of healing they receive for 10 seconds.",
+  "voi_only": false
 }

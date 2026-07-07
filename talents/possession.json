@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "After an apparition hits an enemy, receive 7.5% posture damage on all Galebreathe attacks for 8 seconds. If the apparition hits while you have Phantom Step active, receive a 7.55% chip damage buff for 6 seconds."
+  "desc": "After an apparition hits an enemy, receive 7.5% posture damage on all Galebreathe attacks for 8 seconds. If the apparition hits while you have Phantom Step active, receive a 7.55% chip damage buff for 6 seconds.",
+  "voi_only": false
 }

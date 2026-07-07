@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.\r"
+  "desc": "You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.\r",
+  "voi_only": true
 }

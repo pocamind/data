@@ -8,5 +8,6 @@
   "voi": false,
   "desc": "Your Master's Flourish is larger and can now proc flourish talents.",
   "icon": "Sword",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[Rifles] Activate to make your rifle shoot bullets for 15 seconds."
+  "desc": "[Rifles] Activate to make your rifle shoot bullets for 15 seconds.",
+  "voi_only": false
 }

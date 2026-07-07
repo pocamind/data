@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You have a layer of Natural Armor that replenishes when you rest"
+  "desc": "You have a layer of Natural Armor that replenishes when you rest",
+  "voi_only": false
 }

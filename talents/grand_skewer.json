@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Grand Javelin now carries opponents through the air."
+  "desc": "Your Grand Javelin now carries opponents through the air.",
+  "voi_only": false
 }

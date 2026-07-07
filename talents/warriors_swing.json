@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "[Heavy Weapons] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor."
+  "desc": "[Heavy Weapons] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.",
+  "voi_only": false
 }

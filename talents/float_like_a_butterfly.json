@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "While having True Strength active, cancel your air dash to enter a frenzy of slashes."
+  "desc": "While having True Strength active, cancel your air dash to enter a frenzy of slashes.",
+  "voi_only": false
 }

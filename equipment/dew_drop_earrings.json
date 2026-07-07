@@ -13,5 +13,6 @@
   },
   "reqs": "dew_drop_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

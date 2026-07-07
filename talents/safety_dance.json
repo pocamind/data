@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Your base dodge frames are increased by 0.05s."
+  "desc": "Your base dodge frames are increased by 0.05s.",
+  "voi_only": false
 }

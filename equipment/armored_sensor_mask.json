@@ -15,5 +15,6 @@
   },
   "reqs": "armored_sensor_mask := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

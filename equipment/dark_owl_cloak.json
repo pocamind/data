@@ -24,5 +24,6 @@
   },
   "reqs": "dark_owl_cloak := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

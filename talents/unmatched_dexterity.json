@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Press [X] to Quick Swap between weapons within your toolbar."
+  "desc": "Press [X] to Quick Swap between weapons within your toolbar.",
+  "voi_only": false
 }

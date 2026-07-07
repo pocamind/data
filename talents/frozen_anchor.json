@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit."
+  "desc": "Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit.",
+  "voi_only": false
 }

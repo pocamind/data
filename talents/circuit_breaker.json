@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Electrify no longer deals self-damage on use."
+  "desc": "Electrify no longer deals self-damage on use.",
+  "voi_only": false
 }

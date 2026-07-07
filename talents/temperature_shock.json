@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your fire mantras now detonate any stacked crystals."
+  "desc": "Your fire mantras now detonate any stacked crystals.",
+  "voi_only": false
 }

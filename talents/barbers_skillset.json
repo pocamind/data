@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "What type of look are we going for today?"
+  "desc": "What type of look are we going for today?",
+  "voi_only": false
 }

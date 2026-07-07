@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A weapon brought out from your soul."
+  "desc": "A weapon brought out from your soul.",
+  "voi_only": false
 }

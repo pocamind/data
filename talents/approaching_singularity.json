@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You now gain +1% Mantra PEN for every 10 point of Intelligence."
+  "desc": "You now gain +1% Mantra PEN for every 10 point of Intelligence.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds."
+  "desc": "Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds.",
+  "voi_only": true
 }

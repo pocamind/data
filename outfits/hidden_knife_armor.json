@@ -19,5 +19,6 @@
     "Ether Regen": 20,
     "Extra Stealth": 50
   },
-  "desc": "Discard your identity."
+  "desc": "Discard your identity.",
+  "voi_only": false
 }

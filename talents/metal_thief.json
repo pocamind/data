@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Pulling an opponent absorbs a portion of their current Armor durability."
+  "desc": "Pulling an opponent absorbs a portion of their current Armor durability.",
+  "voi_only": false
 }

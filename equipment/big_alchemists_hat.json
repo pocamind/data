@@ -14,5 +14,6 @@
   },
   "reqs": "big_alchemists_hat := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

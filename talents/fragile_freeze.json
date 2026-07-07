@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak."
+  "desc": "Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.",
+  "voi_only": false
 }

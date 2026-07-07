@@ -22,5 +22,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "Powerful cloak of the Vigils."
+  "desc": "Powerful cloak of the Vigils.",
+  "voi_only": false
 }

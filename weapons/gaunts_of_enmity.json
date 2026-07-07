@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Gauntlets of great strength, forged long ago to fortify the wielder and shatter the souls of the weak."
+  "desc": "Gauntlets of great strength, forged long ago to fortify the wielder and shatter the souls of the weak.",
+  "voi_only": false
 }

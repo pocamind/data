@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Every time you eat plants, heal 2% of your health."
+  "desc": "Every time you eat plants, heal 2% of your health.",
+  "voi_only": true
 }

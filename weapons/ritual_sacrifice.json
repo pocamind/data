@@ -22,5 +22,6 @@
   "desc": "Is sacrifice not the most potent of all rituals?",
   "talents": [
     "Blessing"
-  ]
+  ],
+  "voi_only": false
 }

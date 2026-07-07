@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "M1 while doing an Aerial Attack to initiate a special gap closer attack."
+  "desc": "M1 while doing an Aerial Attack to initiate a special gap closer attack.",
+  "voi_only": false
 }

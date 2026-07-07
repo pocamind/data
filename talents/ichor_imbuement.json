@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times."
+  "desc": "Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.",
+  "voi_only": false
 }

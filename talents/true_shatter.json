@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were."
+  "desc": "Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.",
+  "voi_only": false
 }

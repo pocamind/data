@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When below 15% health your mantras require no ether to cast for 11 seconds."
+  "desc": "When below 15% health your mantras require no ether to cast for 11 seconds.",
+  "voi_only": false
 }

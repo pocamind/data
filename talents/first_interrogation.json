@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Attacks from opponents who are Electrified will give you ether proportional to their initial damage."
+  "desc": "Attacks from opponents who are Electrified will give you ether proportional to their initial damage.",
+  "voi_only": false
 }

@@ -24,5 +24,6 @@
   "reqs": "divers_light_plate := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Cast while slide-jumping to perform a running attack with your ice sabers."
+  "desc": "Cast while slide-jumping to perform a running attack with your ice sabers.",
+  "voi_only": false
 }

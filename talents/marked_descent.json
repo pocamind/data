@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When your Justicar's Mark target takes damage, they are revealed. Using your Karita Divebomb will target them."
+  "desc": "When your Justicar's Mark target takes damage, they are revealed. Using your Karita Divebomb will target them.",
+  "voi_only": false
 }

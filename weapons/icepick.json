@@ -23,5 +23,6 @@
   "desc": "It's almost as if it grew straight out of the ice, but that couldn't be possible, could it?",
   "talents": [
     "Shatter"
-  ]
+  ],
+  "voi_only": true
 }

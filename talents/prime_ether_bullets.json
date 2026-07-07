@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. [Dual Gun]"
+  "desc": "Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. [Dual Gun]",
+  "voi_only": false
 }

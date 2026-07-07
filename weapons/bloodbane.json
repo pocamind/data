@@ -22,5 +22,6 @@
   "desc": "An heirloom of the Canor Borderwatchers, this bloodsoaked zweihander has been passed down by its leaders for generations. At times, you swear you can feel a heartbeat resounding from within.",
   "talents": [
     "Blood Drinker"
-  ]
+  ],
+  "voi_only": false
 }

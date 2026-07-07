@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain the ability to use the Legion's martial arts."
+  "desc": "Gain the ability to use the Legion's martial arts.",
+  "voi_only": false
 }

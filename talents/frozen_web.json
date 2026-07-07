@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a critical with a Static Link on your opponent applies Chilled."
+  "desc": "Landing a critical with a Static Link on your opponent applies Chilled.",
+  "voi_only": false
 }

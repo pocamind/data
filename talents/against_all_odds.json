@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "For each combat tag you have on your character, increase your damage by 2% (max of 14%)."
+  "desc": "For each combat tag you have on your character, increase your damage by 2% (max of 14%).",
+  "voi_only": false
 }

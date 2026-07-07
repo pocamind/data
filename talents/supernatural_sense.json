@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "After dealing with literal ghosts, you feel emboldened."
+  "desc": "After dealing with literal ghosts, you feel emboldened.",
+  "voi_only": false
 }

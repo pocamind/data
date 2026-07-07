@@ -9,5 +9,6 @@
   "vaulted": false,
   "reqs": "summon_cauldron := 20r INT",
   "voi": false,
-  "desc": "Make a cauldron appear from your memories."
+  "desc": "Make a cauldron appear from your memories.",
+  "voi_only": false
 }

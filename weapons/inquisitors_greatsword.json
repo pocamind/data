@@ -22,5 +22,6 @@
   "desc": "...",
   "talents": [
     "Sovereign's Counter"
-  ]
+  ],
+  "voi_only": false
 }

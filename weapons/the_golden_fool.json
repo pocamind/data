@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "Warriors bold with straps of gold, that dazzle like the sun!"
+  "desc": "Warriors bold with straps of gold, that dazzle like the sun!",
+  "voi_only": true
 }

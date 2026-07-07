@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Using a mantra after an uppercut grants ether."
+  "desc": "Using a mantra after an uppercut grants ether.",
+  "voi_only": false
 }

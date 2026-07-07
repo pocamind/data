@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your puppets can now inflict burn and fire-based Talents when they explode."
+  "desc": "Your puppets can now inflict burn and fire-based Talents when they explode.",
+  "voi_only": false
 }

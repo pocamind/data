@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "You take an additional 5% less damage when your armor is broken."
+  "desc": "You take an additional 5% less damage when your armor is broken.",
+  "voi_only": false
 }

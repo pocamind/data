@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration."
+  "desc": "When flourishing enemies into walls they are suffocated and winded for a short duration.",
+  "voi_only": false
 }

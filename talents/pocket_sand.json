@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Fist] Feinting into an uppercut blinds, applies Stagger to PvE enemies and also applies Dazed briefly. We're even now, right? 30s cooldown"
+  "desc": "[Fist] Feinting into an uppercut blinds, applies Stagger to PvE enemies and also applies Dazed briefly. We're even now, right? 30s cooldown",
+  "voi_only": false
 }

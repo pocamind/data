@@ -20,5 +20,6 @@
   },
   "reqs": "depths_wanderers_boots := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

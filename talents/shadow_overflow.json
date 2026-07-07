@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby."
+  "desc": "Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.",
+  "voi_only": false
 }

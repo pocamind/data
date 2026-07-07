@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a successful Critical Attack will temporarily put you in a state where you dodge all mantras, as well as dazing your opponent."
+  "desc": "Landing a successful Critical Attack will temporarily put you in a state where you dodge all mantras, as well as dazing your opponent.",
+  "voi_only": false
 }

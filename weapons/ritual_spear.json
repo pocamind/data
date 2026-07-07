@@ -22,5 +22,6 @@
   "desc": "A spear that was once utilised in Gremor rituals pledged to Navae, but has now been appropriated across the Eastern Luminant",
   "talents": [
     "Pierce Through"
-  ]
+  ],
+  "voi_only": false
 }

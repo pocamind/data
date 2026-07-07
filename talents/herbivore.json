@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You gain more nutrition from eating plants."
+  "desc": "You gain more nutrition from eating plants.",
+  "voi_only": false
 }

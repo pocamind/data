@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A shield designed intricately, most likely from a pre-Canticlysm era. Its intricate design suggests previous use in royalty, although it cannot be said for sure."
+  "desc": "A shield designed intricately, most likely from a pre-Canticlysm era. Its intricate design suggests previous use in royalty, although it cannot be said for sure.",
+  "voi_only": false
 }

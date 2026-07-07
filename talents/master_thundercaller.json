@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can now obtain 3-star Thundercaller mantras."
+  "desc": "You can now obtain 3-star Thundercaller mantras.",
+  "voi_only": false
 }

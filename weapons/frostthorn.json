@@ -20,5 +20,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The elaborate spring-powered mechanism contained within this weapon allows its layered blades to fan out in multitude. The metal emanates a constant chill, ringing lime crystals upon contact with any surface. Doubtless, an unusual weapon for any Kyrsan to wield, given where you found it. Perhaps it is a trophy of war, retooled anew for its purpose?..."
+  "desc": "The elaborate spring-powered mechanism contained within this weapon allows its layered blades to fan out in multitude. The metal emanates a constant chill, ringing lime crystals upon contact with any surface. Doubtless, an unusual weapon for any Kyrsan to wield, given where you found it. Perhaps it is a trophy of war, retooled anew for its purpose?...",
+  "voi_only": false
 }

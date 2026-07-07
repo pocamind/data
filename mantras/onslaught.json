@@ -16,5 +16,6 @@
     "Magnifying Stone"
   ],
   "voi": true,
-  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits."
+  "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.",
+  "voi_only": false
 }

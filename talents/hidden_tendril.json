@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing any physical mantra places a Hidden Tendril on the opponent."
+  "desc": "Landing any physical mantra places a Hidden Tendril on the opponent.",
+  "voi_only": false
 }

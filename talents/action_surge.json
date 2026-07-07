@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Adrenaline Surge now increases your swing speed by 0.04 for its duration."
+  "desc": "Adrenaline Surge now increases your swing speed by 0.04 for its duration.",
+  "voi_only": false
 }

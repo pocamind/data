@@ -9,5 +9,6 @@
   "vaulted": false,
   "reqs": "coral_spear := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Every time you heal, you have a chance to proc a Critical Heal, healing you 30 health. [5 second CD]"
+  "desc": "Every time you heal, you have a chance to proc a Critical Heal, healing you 30 health. [5 second CD]",
+  "voi_only": false
 }

@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and adapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement."
+  "desc": "Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and adapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement.",
+  "voi_only": false
 }

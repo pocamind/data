@@ -16,5 +16,6 @@
   ],
   "miscellaneous": "Teleports to nearby targets if in True Strength.",
   "voi": false,
-  "desc": "Cut through your opponent."
+  "desc": "Cut through your opponent.",
+  "voi_only": false
 }

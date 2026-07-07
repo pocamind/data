@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your singularity pulls everyone nearby in."
+  "desc": "Your singularity pulls everyone nearby in.",
+  "voi_only": false
 }

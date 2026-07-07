@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You gain +3% PEN for each person Charmed, capping at +15% PEN."
+  "desc": "You gain +3% PEN for each person Charmed, capping at +15% PEN.",
+  "voi_only": false
 }

@@ -19,5 +19,6 @@
   },
   "reqs": "legion_pauldrons := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown."
+  "desc": "Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown.",
+  "voi_only": false
 }

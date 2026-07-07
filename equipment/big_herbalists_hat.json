@@ -15,5 +15,6 @@
   },
   "reqs": "big_herbalists_hat := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Gain reputation for selling goods to Antiquarians within faction territories."
+  "desc": "Gain reputation for selling goods to Antiquarians within faction territories.",
+  "voi_only": false
 }

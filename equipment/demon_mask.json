@@ -12,5 +12,6 @@
   },
   "reqs": "demon_mask := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing an arc beam while your opponent has anti heal stacks purges the stacks, with it dealing 5 true damage for every stack they had."
+  "desc": "Landing an arc beam while your opponent has anti heal stacks purges the stacks, with it dealing 5 true damage for every stack they had.",
+  "voi_only": true
 }

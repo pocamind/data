@@ -22,5 +22,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection."
+  "desc": "Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection.",
+  "voi_only": false
 }

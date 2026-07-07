@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Wrought from the hardened inner husks of Simforea's native Arkasids and bound with fragments of local flora, this twinblade bears the unmistakable mark of the resident Anansi Knell. Its paired edges are etched with frantic scrimshaw intricate patterns that seem to depict colliding oscillations, as if capturing sound itself in the act of tearing against its own reflection."
+  "desc": "Wrought from the hardened inner husks of Simforea's native Arkasids and bound with fragments of local flora, this twinblade bears the unmistakable mark of the resident Anansi Knell. Its paired edges are etched with frantic scrimshaw intricate patterns that seem to depict colliding oscillations, as if capturing sound itself in the act of tearing against its own reflection.",
+  "voi_only": false
 }

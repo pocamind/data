@@ -13,5 +13,6 @@
   },
   "reqs": "vigil_hood := 105r TTL, 10r AGL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

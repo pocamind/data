@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "worldshapers_laurel := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

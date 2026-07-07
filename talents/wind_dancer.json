@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit."
+  "desc": "Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.",
+  "voi_only": false
 }

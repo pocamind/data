@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your bond with your allies is strong enough to reduce damage between you."
+  "desc": "Your bond with your allies is strong enough to reduce damage between you.",
+  "voi_only": false
 }

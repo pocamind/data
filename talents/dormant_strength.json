@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "At max Calamity Punch stacks increased posture damage & physical damage."
+  "desc": "At max Calamity Punch stacks increased posture damage & physical damage.",
+  "voi_only": true
 }

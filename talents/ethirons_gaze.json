@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now."
+  "desc": "Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.",
+  "voi_only": false
 }

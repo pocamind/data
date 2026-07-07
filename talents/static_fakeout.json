@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent."
+  "desc": "Roll cancelling immediately after a parry will cause you to teleport behind your opponent.",
+  "voi_only": false
 }

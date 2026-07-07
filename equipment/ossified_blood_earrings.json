@@ -19,5 +19,6 @@
   },
   "reqs": "ossified_blood_earrings := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

@@ -24,5 +24,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 50
   },
-  "desc": "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold"
+  "desc": "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold",
+  "voi_only": false
 }

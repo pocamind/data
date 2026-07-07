@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Ignite nearby steam, causing a large explosion."
+  "desc": "Ignite nearby steam, causing a large explosion.",
+  "voi_only": true
 }

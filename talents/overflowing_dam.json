@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage."
+  "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.",
+  "voi_only": false
 }

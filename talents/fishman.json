@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "When your Blood is over 50%, you won't drown when Unconscious in water. Gain additional healing from knocking others Unconscious in water."
+  "desc": "When your Blood is over 50%, you won't drown when Unconscious in water. Gain additional healing from knocking others Unconscious in water.",
+  "voi_only": false
 }

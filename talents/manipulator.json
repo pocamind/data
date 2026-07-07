@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact."
+  "desc": "Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.",
+  "voi_only": false
 }

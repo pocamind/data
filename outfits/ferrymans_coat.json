@@ -25,5 +25,6 @@
     "Ether Regen": 50,
     "Extra Stealth": 0
   },
-  "desc": "Coat of the Krulian horror known as the Ferryman."
+  "desc": "Coat of the Krulian horror known as the Ferryman.",
+  "voi_only": false
 }

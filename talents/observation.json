@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Dodge frames are larger if you cancel your roll immediately."
+  "desc": "Dodge frames are larger if you cancel your roll immediately.",
+  "voi_only": false
 }

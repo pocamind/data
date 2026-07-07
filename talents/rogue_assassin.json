@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your assassinations now deal an extra 50 true damage (200 in PvE)."
+  "desc": "Your assassinations now deal an extra 50 true damage (200 in PvE).",
+  "voi_only": true
 }

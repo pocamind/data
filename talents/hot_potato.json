@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice."
+  "desc": "Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice.",
+  "voi_only": false
 }

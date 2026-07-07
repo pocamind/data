@@ -12,5 +12,6 @@
   },
   "reqs": "royal_etrean_ring := ()",
   "voi": true,
-  "desc": "One handing a sword while wearing this ring turns your Critical Attack into the Twincleave mantra."
+  "desc": "One handing a sword while wearing this ring turns your Critical Attack into the Twincleave mantra.",
+  "voi_only": true
 }

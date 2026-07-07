@@ -22,5 +22,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "A rush of darkness."
+  "desc": "A rush of darkness.",
+  "voi_only": false
 }

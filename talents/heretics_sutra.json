@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "A chant that steers you into the state of Insanity for 20 seconds."
+  "desc": "A chant that steers you into the state of Insanity for 20 seconds.",
+  "voi_only": false
 }

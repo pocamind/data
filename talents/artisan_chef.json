@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +25%."
+  "desc": "The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +25%.",
+  "voi_only": false
 }

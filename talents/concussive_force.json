@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Enemies you knocked remain downed longer than usual."
+  "desc": "Enemies you knocked remain downed longer than usual.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump."
+  "desc": "The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.",
+  "voi_only": false
 }

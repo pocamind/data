@@ -19,5 +19,6 @@
   },
   "reqs": "reinforced_war_boots := 315r TTL",
   "voi": false,
-  "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash."
+  "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash.",
+  "voi_only": false
 }

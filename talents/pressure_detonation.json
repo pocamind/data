@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo."
+  "desc": "Block breaking an opponent with a Shadow mantra generates a small vacuum that suffocates those hit and steals their Tempo.",
+  "voi_only": false
 }

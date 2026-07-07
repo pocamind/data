@@ -14,5 +14,6 @@
   },
   "reqs": "caster_earrings := 90r TTL",
   "voi": true,
-  "desc": "A perfect conduit to help channel your energy into force."
+  "desc": "A perfect conduit to help channel your energy into force.",
+  "voi_only": true
 }

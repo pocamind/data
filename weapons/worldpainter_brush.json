@@ -18,5 +18,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A mighty brush, bestowed upon Lumen's most gifted artisans."
+  "desc": "A mighty brush, bestowed upon Lumen's most gifted artisans.",
+  "voi_only": false
 }

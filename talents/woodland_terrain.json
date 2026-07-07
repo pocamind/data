@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You move slightly faster on grass."
+  "desc": "You move slightly faster on grass.",
+  "voi_only": false
 }

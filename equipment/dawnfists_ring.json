@@ -12,5 +12,6 @@
   },
   "reqs": "dawnfists_ring := ()",
   "voi": false,
-  "desc": "Gives every weapon 1.2 strength scaling when equipped."
+  "desc": "Gives every weapon 1.2 strength scaling when equipped.",
+  "voi_only": false
 }

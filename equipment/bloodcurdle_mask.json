@@ -19,5 +19,6 @@
   },
   "reqs": "bloodcurdle_mask := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

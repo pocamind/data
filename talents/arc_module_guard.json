@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] You can block attacks from any direction and cannot be backstabbed."
+  "desc": "[In Arc Suit] You can block attacks from any direction and cannot be backstabbed.",
+  "voi_only": false
 }

@@ -12,5 +12,6 @@
   },
   "reqs": "brilliant_boots := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

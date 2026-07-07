@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a hit with a mantra on an enemy applies Charmed. Allies recover from being knocked twice as quickly when Charmed by you."
+  "desc": "Landing a hit with a mantra on an enemy applies Charmed. Allies recover from being knocked twice as quickly when Charmed by you.",
+  "voi_only": false
 }

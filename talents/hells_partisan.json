@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above."
+  "desc": "After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.",
+  "voi_only": false
 }

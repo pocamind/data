@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move."
+  "desc": "Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.",
+  "voi_only": false
 }

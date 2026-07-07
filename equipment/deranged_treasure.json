@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "deranged_treasure := ()",
   "voi": true,
-  "desc": "Gain extra defense when you are insane, with this effect scaling based on how insane you are"
+  "desc": "Gain extra defense when you are insane, with this effect scaling based on how insane you are",
+  "voi_only": true
 }

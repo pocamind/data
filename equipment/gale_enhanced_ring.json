@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "gale_enhanced_ring := 165r TTL",
   "voi": false,
-  "desc": "Suffocate enemies you flourish for a few seconds."
+  "desc": "Suffocate enemies you flourish for a few seconds.",
+  "voi_only": false
 }

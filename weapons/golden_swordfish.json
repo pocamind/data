@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "The fabled catch of an angler without parallel. The sea trembles in your wake."
+  "desc": "The fabled catch of an angler without parallel. The sea trembles in your wake.",
+  "voi_only": false
 }

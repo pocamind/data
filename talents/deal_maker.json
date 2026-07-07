@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales."
+  "desc": "Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.",
+  "voi_only": true
 }

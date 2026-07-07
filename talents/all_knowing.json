@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your prediction now ignores the range requirement to reflect attacks."
+  "desc": "Your prediction now ignores the range requirement to reflect attacks.",
+  "voi_only": false
 }

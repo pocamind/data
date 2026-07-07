@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Once something's caught your line, it's much harder to get loose."
+  "desc": "Once something's caught your line, it's much harder to get loose.",
+  "voi_only": false
 }

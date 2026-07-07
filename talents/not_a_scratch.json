@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You don't show any signs of damage"
+  "desc": "You don't show any signs of damage",
+  "voi_only": false
 }

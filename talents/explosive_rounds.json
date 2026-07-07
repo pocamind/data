@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Every bullet that lands now detonates on your opponent."
+  "desc": "Every bullet that lands now detonates on your opponent.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost."
+  "desc": "Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.",
+  "voi_only": false
 }

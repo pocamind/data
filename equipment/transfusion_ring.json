@@ -17,5 +17,6 @@
   },
   "reqs": "transfusion_ring := ()",
   "voi": false,
-  "desc": "Gain extra vitality at the cost of your ability to heal (receive 50% less healing)."
+  "desc": "Gain extra vitality at the cost of your ability to heal (receive 50% less healing).",
+  "voi_only": false
 }

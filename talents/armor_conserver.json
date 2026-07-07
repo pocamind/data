@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You lose 15% less armor when hit."
+  "desc": "You lose 15% less armor when hit.",
+  "voi_only": false
 }

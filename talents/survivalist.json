@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Resist the effects of Weather Effects."
+  "desc": "Resist the effects of Weather Effects.",
+  "voi_only": false
 }

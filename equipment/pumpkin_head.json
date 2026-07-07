@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "pumpkin_head := ()",
   "voi": false,
-  "desc": "Just make sure you still have a head after you take it off.\n[*Note; Only obtainable through the Hallowtide Event or the Hallowtide '23 Medal.]"
+  "desc": "Just make sure you still have a head after you take it off.\n[*Note; Only obtainable through the Hallowtide Event or the Hallowtide '23 Medal.]",
+  "voi_only": false
 }

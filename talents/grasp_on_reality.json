@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Damage taken from insanity is reduced."
+  "desc": "Damage taken from insanity is reduced.",
+  "voi_only": false
 }

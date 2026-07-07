@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Landing Rapid Slashes on your opponent gives them an overflow of Ether, causing them to take bursts of damage based on how many Ether Erudite stacks you had."
+  "desc": "Landing Rapid Slashes on your opponent gives them an overflow of Ether, causing them to take bursts of damage based on how many Ether Erudite stacks you had.",
+  "voi_only": true
 }

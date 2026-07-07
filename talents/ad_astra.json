@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Return Home"
+  "desc": "Return Home",
+  "voi_only": false
 }

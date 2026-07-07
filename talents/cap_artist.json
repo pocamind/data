@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Pressing [,] while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well."
+  "desc": "Pressing [,] while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well.",
+  "voi_only": false
 }

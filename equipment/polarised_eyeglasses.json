@@ -12,5 +12,6 @@
   },
   "reqs": "polarised_eyeglasses := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

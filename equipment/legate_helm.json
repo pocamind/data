@@ -19,5 +19,6 @@
   "pips": {},
   "reqs": "legate_helm := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

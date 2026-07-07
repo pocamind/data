@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen."
+  "desc": "Your crystal explosions deal more damage whenever your opponent is also bottom frozen.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Reduce how much damage you take from mantra guardbreaks by 20%."
+  "desc": "Reduce how much damage you take from mantra guardbreaks by 20%.",
+  "voi_only": false
 }

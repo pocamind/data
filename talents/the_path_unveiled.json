@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Jus Karita attacks deal 15% more damage."
+  "desc": "Your Jus Karita attacks deal 15% more damage.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Using Ether Bullets applies elemental damage of your highest investment."
+  "desc": "Using Ether Bullets applies elemental damage of your highest investment.",
+  "voi_only": false
 }

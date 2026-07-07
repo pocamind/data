@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Once per hour, command a servant to defy all odds and obey your command - live."
+  "desc": "Once per hour, command a servant to defy all odds and obey your command - live.",
+  "voi_only": false
 }

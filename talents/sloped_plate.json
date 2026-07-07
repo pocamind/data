@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Reduces the amount of damage you take when guardbroken by 10."
+  "desc": "Reduces the amount of damage you take when guardbroken by 10.",
+  "voi_only": false
 }

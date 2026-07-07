@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown."
+  "desc": "You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.",
+  "voi_only": false
 }

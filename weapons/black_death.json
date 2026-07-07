@@ -26,5 +26,6 @@
   "desc": "Tool of the Ministry. Unlike its counterpart this pike cares not for the mess it intends to leave behind.",
   "talents": [
     "Corporeal Dissolution"
-  ]
+  ],
+  "voi_only": false
 }

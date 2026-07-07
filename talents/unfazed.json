@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity."
+  "desc": "You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.",
+  "voi_only": false
 }

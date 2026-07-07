@@ -18,5 +18,6 @@
     "Rush Shard"
   ],
   "voi": false,
-  "desc": ""
+  "desc": "",
+  "voi_only": false
 }

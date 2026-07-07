@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[Dagger] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage"
+  "desc": "[Dagger] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage",
+  "voi_only": false
 }

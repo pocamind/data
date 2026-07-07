@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true."
+  "desc": "Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true.",
+  "voi_only": false
 }

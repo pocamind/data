@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "If your opponent has 3 or more rods, their dodges are slower."
+  "desc": "If your opponent has 3 or more rods, their dodges are slower.",
+  "voi_only": false
 }

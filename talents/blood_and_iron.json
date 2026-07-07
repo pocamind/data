@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood."
+  "desc": "Pulling rods out of your opponent now replenishes an equivalent amount of blood.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown."
+  "desc": "Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.",
+  "voi_only": false
 }

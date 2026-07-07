@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting your opponent during a feint will cause them to be Dazed."
+  "desc": "Hitting your opponent during a feint will cause them to be Dazed.",
+  "voi_only": false
 }

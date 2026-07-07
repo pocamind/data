@@ -22,5 +22,6 @@
   "desc": "Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'.",
   "talents": [
     "Expeditionary Evasiveness"
-  ]
+  ],
+  "voi_only": false
 }

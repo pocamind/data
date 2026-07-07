@@ -9,5 +9,6 @@
   "vaulted": false,
   "voi": true,
   "desc": "Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing Critical attacks applies metal rod and slow.",
-  "additional_info": "The Metal Fakeout critical will only be used while you are in targeting range. Additionally, this attack has innate Bleed and counts as a weapon attack, not a Mantra."
+  "additional_info": "The Metal Fakeout critical will only be used while you are in targeting range. Additionally, this attack has innate Bleed and counts as a weapon attack, not a Mantra.",
+  "voi_only": true
 }

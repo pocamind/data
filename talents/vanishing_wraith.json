@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target."
+  "desc": "Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target.",
+  "voi_only": false
 }

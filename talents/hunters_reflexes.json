@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You have a slightly larger dodge window."
+  "desc": "You have a slightly larger dodge window.",
+  "voi_only": false
 }

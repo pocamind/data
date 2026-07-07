@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "kyrsan_necklace := ()",
   "voi": false,
-  "desc": "Looking at the necklace you notice there is no possible chance a Kyrsgarde could wear this. Perhaps it belonged to someone else?"
+  "desc": "Looking at the necklace you notice there is no possible chance a Kyrsgarde could wear this. Perhaps it belonged to someone else?",
+  "voi_only": false
 }

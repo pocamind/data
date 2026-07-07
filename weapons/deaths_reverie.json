@@ -22,5 +22,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Have the lambs stopped screaming?"
+  "desc": "Have the lambs stopped screaming?",
+  "voi_only": false
 }

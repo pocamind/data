@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Flying Swiftkick no longer consumes your speed boost and instead gives you more speed."
+  "desc": "Flying Swiftkick no longer consumes your speed boost and instead gives you more speed.",
+  "voi_only": false
 }

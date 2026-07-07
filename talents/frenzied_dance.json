@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "[Rapier] The more posture you currently have, the more chip and posture damage you deal."
+  "desc": "[Rapier] The more posture you currently have, the more chip and posture damage you deal.",
+  "voi_only": false
 }

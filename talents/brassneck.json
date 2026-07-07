@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Knocking an enemy grants you 20% damage resistance for 15 seconds."
+  "desc": "Knocking an enemy grants you 20% damage resistance for 15 seconds.",
+  "voi_only": false
 }

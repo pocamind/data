@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily."
+  "desc": "A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily.",
+  "voi_only": false
 }

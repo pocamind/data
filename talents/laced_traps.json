@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying Sluggish to PvE enemies for a few seconds."
+  "desc": "People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying Sluggish to PvE enemies for a few seconds.",
+  "voi_only": false
 }

@@ -15,5 +15,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"
+  "desc": "You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "maljuror_choker := 90r TTL",
   "voi": false,
-  "desc": "Metal."
+  "desc": "Metal.",
+  "voi_only": false
 }

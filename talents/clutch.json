@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "For every combat tag you acquire, gain 4% more posture resistance."
+  "desc": "For every combat tag you acquire, gain 4% more posture resistance.",
+  "voi_only": true
 }

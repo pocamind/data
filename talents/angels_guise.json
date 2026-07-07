@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You resemble one of the Sworn Angels."
+  "desc": "You resemble one of the Sworn Angels.",
+  "voi_only": false
 }

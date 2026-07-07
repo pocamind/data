@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has."
+  "desc": "Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.",
+  "voi_only": true
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "The size of your shadow eruption increases with how much siphoned health you have gained from wiping players."
+  "desc": "The size of your shadow eruption increases with how much siphoned health you have gained from wiping players.",
+  "voi_only": true
 }

@@ -27,5 +27,6 @@
     "Shadow Resistance": 10
   },
   "talent": "Tidekeeper",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

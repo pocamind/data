@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity."
+  "desc": "Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.",
+  "voi_only": false
 }

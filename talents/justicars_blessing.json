@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Allies you mark with Justicar's Mark gain 15% more healing."
+  "desc": "Allies you mark with Justicar's Mark gain 15% more healing.",
+  "voi_only": false
 }

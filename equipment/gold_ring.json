@@ -12,5 +12,6 @@
   },
   "reqs": "gold_ring := ()",
   "voi": false,
-  "desc": "A simple gold ring."
+  "desc": "A simple gold ring.",
+  "voi_only": false
 }

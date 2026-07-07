@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Soulthorn now directly siphons the song of your enemies. Accumulating stacks and increasing your power. Perfect plays are encouraged."
+  "desc": "Soulthorn now directly siphons the song of your enemies. Accumulating stacks and increasing your power. Perfect plays are encouraged.",
+  "voi_only": true
 }

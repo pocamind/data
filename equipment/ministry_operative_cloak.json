@@ -20,5 +20,6 @@
   },
   "reqs": "ministry_operative_cloak := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

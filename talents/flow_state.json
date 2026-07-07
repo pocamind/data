@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing."
+  "desc": "Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.",
+  "voi_only": false
 }

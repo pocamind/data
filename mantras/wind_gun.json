@@ -20,5 +20,6 @@
     "Blast Spark"
   ],
   "voi": false,
-  "desc": "A powerful wind blast."
+  "desc": "A powerful wind blast.",
+  "voi_only": false
 }

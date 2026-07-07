@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy."
+  "desc": "Flourishing or uppercutting an enemy creates a static link between you and your enemy.",
+  "voi_only": false
 }

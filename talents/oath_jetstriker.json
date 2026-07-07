@@ -14,5 +14,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master."
+  "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master.",
+  "voi_only": false
 }

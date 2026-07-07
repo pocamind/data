@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Grants you the ability to command shadows as a Shadowcaster."
+  "desc": "Grants you the ability to command shadows as a Shadowcaster.",
+  "voi_only": false
 }

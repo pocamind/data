@@ -20,5 +20,6 @@
   },
   "reqs": "summer_scarf := 90r TTL",
   "voi": false,
-  "desc": "A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder..."
+  "desc": "A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder...",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum."
+  "desc": "Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.",
+  "voi_only": false
 }

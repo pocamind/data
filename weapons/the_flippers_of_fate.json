@@ -20,5 +20,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "That isn't smoke. It's steam."
+  "desc": "That isn't smoke. It's steam.",
+  "voi_only": false
 }

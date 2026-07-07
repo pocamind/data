@@ -21,5 +21,6 @@
     "Aeronade"
   ],
   "voi": false,
-  "desc": "Toss a wind landmine."
+  "desc": "Toss a wind landmine.",
+  "voi_only": false
 }

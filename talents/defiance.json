@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Negative status effects are half as effective when you are below 35% HP."
+  "desc": "Negative status effects are half as effective when you are below 35% HP.",
+  "voi_only": false
 }

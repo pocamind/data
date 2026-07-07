@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost."
+  "desc": "Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.",
+  "voi_only": false
 }

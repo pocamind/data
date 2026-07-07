@@ -10,5 +10,6 @@
   "stats": {},
   "vaulted": false,
   "voi": false,
-  "desc": "When using the Jus Karita critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical."
+  "desc": "When using the Jus Karita critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical.",
+  "voi_only": false
 }

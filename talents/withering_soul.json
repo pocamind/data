@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle or Umbrite Witherblade will double the amount to 25%."
+  "desc": "Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the Deepspindle or Umbrite Witherblade will double the amount to 25%.",
+  "voi_only": false
 }

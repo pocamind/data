@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Way of Navae light attacks have 10% additional penetration."
+  "desc": "Way of Navae light attacks have 10% additional penetration.",
+  "voi_only": false
 }

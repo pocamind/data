@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Gain 50 bonus temporary health whenever you knock/kill an enemy."
+  "desc": "Gain 50 bonus temporary health whenever you knock/kill an enemy.",
+  "voi_only": false
 }

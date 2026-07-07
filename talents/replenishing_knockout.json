@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You gain more health and posture from downing enemies."
+  "desc": "You gain more health and posture from downing enemies.",
+  "voi_only": false
 }

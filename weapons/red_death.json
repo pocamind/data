@@ -26,5 +26,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "Tool of the Ministry Heartbleeders, a covert cell under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces."
+  "desc": "Tool of the Ministry Heartbleeders, a covert cell under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces.",
+  "voi_only": false
 }

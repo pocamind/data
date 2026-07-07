@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Sing will stun opponents who are already charmed."
+  "desc": "Your Sing will stun opponents who are already charmed.",
+  "voi_only": false
 }

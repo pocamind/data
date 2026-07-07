@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "When coming out of Tacet, gain a 30% damage boost for 5 seconds."
+  "desc": "When coming out of Tacet, gain a 30% damage boost for 5 seconds.",
+  "voi_only": true
 }

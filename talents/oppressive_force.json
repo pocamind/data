@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them."
+  "desc": "When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.",
+  "voi_only": false
 }

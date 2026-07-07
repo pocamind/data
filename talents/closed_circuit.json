@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy."
+  "desc": "Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.",
+  "voi_only": false
 }

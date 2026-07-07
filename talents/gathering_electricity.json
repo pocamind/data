@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown."
+  "desc": "Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown.",
+  "voi_only": false
 }

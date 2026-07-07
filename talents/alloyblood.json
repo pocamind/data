@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%."
+  "desc": "You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.",
+  "voi_only": false
 }

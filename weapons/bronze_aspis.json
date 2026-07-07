@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A round, wooden shield often accompanied by spear or shortblade."
+  "desc": "A round, wooden shield often accompanied by spear or shortblade.",
+  "voi_only": false
 }

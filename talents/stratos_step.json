@@ -13,5 +13,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Holding space while climbing will now let your perform Stratos Steps to get even higher."
+  "desc": "Holding space while climbing will now let your perform Stratos Steps to get even higher.",
+  "voi_only": false
 }

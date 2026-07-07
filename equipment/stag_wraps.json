@@ -21,5 +21,6 @@
   "pips": {},
   "reqs": "stag_wraps := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

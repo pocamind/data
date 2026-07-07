@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "You hold onto more items when defeated."
+  "desc": "You hold onto more items when defeated.",
+  "voi_only": false
 }

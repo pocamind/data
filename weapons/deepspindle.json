@@ -21,5 +21,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle."
+  "desc": "This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle.",
+  "voi_only": false
 }

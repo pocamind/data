@@ -18,5 +18,6 @@
   },
   "reqs": "destroyman_chain := ()",
   "voi": false,
-  "desc": "A chain for the strongest of pathfinders. Some would say the extra 0.1% physical armor on this makes it a spec. They would be right."
+  "desc": "A chain for the strongest of pathfinders. Some would say the extra 0.1% physical armor on this makes it a spec. They would be right.",
+  "voi_only": false
 }

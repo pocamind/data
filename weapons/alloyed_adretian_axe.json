@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "A bound axe in the typical Adretian fashion."
+  "desc": "A bound axe in the typical Adretian fashion.",
+  "voi_only": false
 }

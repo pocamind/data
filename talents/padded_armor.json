@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "While your armor is broken (or if you have no armor), you take 5% less damage."
+  "desc": "While your armor is broken (or if you have no armor), you take 5% less damage.",
+  "voi_only": false
 }

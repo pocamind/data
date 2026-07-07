@@ -15,5 +15,6 @@
   "pips": {},
   "reqs": "nose_stud := ()",
   "voi": false,
-  "desc": "FEAR. IRONSINGERS."
+  "desc": "FEAR. IRONSINGERS.",
+  "voi_only": false
 }

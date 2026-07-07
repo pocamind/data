@@ -22,5 +22,6 @@
   "desc": "Warmonger hate. Warmonger destroy. Warmonger kill.",
   "talents": [
     "Pugnacious"
-  ]
+  ],
+  "voi_only": false
 }

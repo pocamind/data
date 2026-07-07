@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault."
+  "desc": "Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault.",
+  "voi_only": true
 }

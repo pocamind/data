@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second."
+  "desc": "Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second.",
+  "voi_only": false
 }

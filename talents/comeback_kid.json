@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)"
+  "desc": "When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)",
+  "voi_only": false
 }

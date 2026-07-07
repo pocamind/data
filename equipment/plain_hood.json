@@ -24,5 +24,6 @@
   "pips": {},
   "reqs": "plain_hood := ()",
   "voi": false,
-  "desc": "A sleek hood."
+  "desc": "A sleek hood.",
+  "voi_only": false
 }

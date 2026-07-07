@@ -12,5 +12,6 @@
   "desc": "Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.",
   "exclusive": [
     "Hip Shooter"
-  ]
+  ],
+  "voi_only": false
 }

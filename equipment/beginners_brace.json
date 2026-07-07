@@ -23,5 +23,6 @@
   },
   "reqs": "beginners_brace := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

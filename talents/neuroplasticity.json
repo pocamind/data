@@ -12,5 +12,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%."
+  "desc": "Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%.",
+  "voi_only": false
 }

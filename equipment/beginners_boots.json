@@ -19,5 +19,6 @@
   },
   "reqs": "beginners_boots := ()",
   "voi": true,
-  "desc": "They've just been broken in."
+  "desc": "They've just been broken in.",
+  "voi_only": true
 }

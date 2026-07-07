@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": true,
-  "desc": "An experimental steam-powered firearm whose pressured steam reservoir delivers exceptional kinetic force, making it capable of remarkably destructive output."
+  "desc": "An experimental steam-powered firearm whose pressured steam reservoir delivers exceptional kinetic force, making it capable of remarkably destructive output.",
+  "voi_only": true
 }

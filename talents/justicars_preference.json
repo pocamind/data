@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Replace your critical with the Jus Karita critical attack."
+  "desc": "Replace your critical with the Jus Karita critical attack.",
+  "voi_only": false
 }

@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 30%."
+  "desc": "A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 30%.",
+  "voi_only": true
 }

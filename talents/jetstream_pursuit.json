@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum."
+  "desc": "Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.",
+  "voi_only": false
 }

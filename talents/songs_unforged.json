@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your weapon criticals will now activate scrapsinger."
+  "desc": "Your weapon criticals will now activate scrapsinger.",
+  "voi_only": false
 }

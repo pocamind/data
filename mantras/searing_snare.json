@@ -19,5 +19,6 @@
     "Spring Spark"
   ],
   "voi": false,
-  "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched."
+  "desc": "Place a fiery snare at a chosen location. Enemies that stumble into it are scorched.",
+  "voi_only": false
 }

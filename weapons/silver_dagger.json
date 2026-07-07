@@ -21,5 +21,6 @@
   "desc": "A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable.",
   "talents": [
     "Assassin's Strike"
-  ]
+  ],
+  "voi_only": false
 }

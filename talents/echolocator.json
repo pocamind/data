@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats."
+  "desc": "Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.",
+  "voi_only": false
 }

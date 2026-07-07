@@ -10,5 +10,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A fine shield to hold back the horrors of the world."
+  "desc": "A fine shield to hold back the horrors of the world.",
+  "voi_only": false
 }

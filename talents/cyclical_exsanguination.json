@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds."
+  "desc": "Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.",
+  "voi_only": false
 }

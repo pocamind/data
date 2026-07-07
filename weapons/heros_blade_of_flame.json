@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A blade said to be enruned with a passage of the Song, it evokes the overwhelming heat of geothermal vents"
+  "desc": "A blade said to be enruned with a passage of the Song, it evokes the overwhelming heat of geothermal vents",
+  "voi_only": false
 }

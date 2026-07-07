@@ -9,5 +9,6 @@
   "desc": "Deal 0.5% of your opponent's health to opponents who heal off of you.",
   "additional_info": "This only works while your opponent has Anti-Heal.",
   "icon": "Eye",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

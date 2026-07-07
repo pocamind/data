@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "All mantras you cast now get one bonus level on top of their current level."
+  "desc": "All mantras you cast now get one bonus level on top of their current level.",
+  "voi_only": true
 }

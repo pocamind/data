@@ -19,5 +19,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "These twin blades of Celestial make carry an eerie semblance of consciousness. Along their lengths run glowing tapestries of ethereal moonlight. If one listens closely, you can almost make out whispers, or perhaps cries. The blades are known to grow heavier and more unwieldy when used for unjust purposes, as though they judge the actions of its user. As such, it is thought that only a person of unwavering integrity can hope to wield them to their truest potential."
+  "desc": "These twin blades of Celestial make carry an eerie semblance of consciousness. Along their lengths run glowing tapestries of ethereal moonlight. If one listens closely, you can almost make out whispers, or perhaps cries. The blades are known to grow heavier and more unwieldy when used for unjust purposes, as though they judge the actions of its user. As such, it is thought that only a person of unwavering integrity can hope to wield them to their truest potential.",
+  "voi_only": false
 }

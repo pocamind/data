@@ -22,5 +22,6 @@
   "reqs": "warden_pauldrons := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "Elegant and steadfast, these pauldrons are truly fit for one who protects the seas."
+  "desc": "Elegant and steadfast, these pauldrons are truly fit for one who protects the seas.",
+  "voi_only": false
 }

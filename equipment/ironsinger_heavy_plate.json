@@ -25,5 +25,6 @@
   "reqs": "ironsinger_heavy_plate := 195r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

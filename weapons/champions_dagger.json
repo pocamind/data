@@ -22,5 +22,6 @@
   "desc": "A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself.",
   "talents": [
     "Rat's Spirit"
-  ]
+  ],
+  "voi_only": false
 }

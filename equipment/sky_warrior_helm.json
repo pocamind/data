@@ -19,5 +19,6 @@
   },
   "reqs": "sky_warrior_helm := ()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

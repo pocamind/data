@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Lightning moves slow your opponent more."
+  "desc": "Lightning moves slow your opponent more.",
+  "voi_only": false
 }

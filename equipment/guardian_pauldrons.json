@@ -19,5 +19,6 @@
   "pips": {},
   "reqs": "guardian_pauldrons := ()",
   "voi": false,
-  "desc": "Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized."
+  "desc": "Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized.",
+  "voi_only": false
 }

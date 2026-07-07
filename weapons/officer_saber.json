@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories."
+  "desc": "The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories.",
+  "voi_only": false
 }

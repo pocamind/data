@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You can now execute enemies much faster."
+  "desc": "You can now execute enemies much faster.",
+  "voi_only": false
 }

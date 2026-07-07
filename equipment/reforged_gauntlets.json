@@ -26,5 +26,6 @@
   "reqs": "reforged_gauntlets := 195r TTL",
   "voi": true,
   "wiki": "",
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

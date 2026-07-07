@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your diplomatic skills extend into your ability to barter. Gain 300 extra notes per chest when turning in a sack."
+  "desc": "Your diplomatic skills extend into your ability to barter. Gain 300 extra notes per chest when turning in a sack.",
+  "voi_only": true
 }

@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Flints and Flamecharm are for simpletons."
+  "desc": "Flints and Flamecharm are for simpletons.",
+  "voi_only": false
 }

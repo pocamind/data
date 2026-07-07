@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them."
+  "desc": "Your 'Charm' on opponents also slightly increases your blood drain against them.",
+  "voi_only": false
 }

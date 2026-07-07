@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Mark of Ku, the Mother. Improves the rest of those in your presence."
+  "desc": "Mark of Ku, the Mother. Improves the rest of those in your presence.",
+  "voi_only": false
 }

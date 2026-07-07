@@ -12,5 +12,6 @@
   "desc": "Grab your ally and swap places in them while moving in with a swift kick to save them.",
   "related_talents": [
     "Righteous Violence"
-  ]
+  ],
+  "voi_only": false
 }

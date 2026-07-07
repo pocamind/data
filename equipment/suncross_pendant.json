@@ -17,5 +17,6 @@
   },
   "reqs": "suncross_pendant := 90r TTL",
   "voi": false,
-  "desc": "A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial."
+  "desc": "A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial.",
+  "voi_only": false
 }

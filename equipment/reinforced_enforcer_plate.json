@@ -16,5 +16,6 @@
   },
   "reqs": "reinforced_enforcer_plate := 135r TTL",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Every time you shoot, switch your ammo type. [Dual Guns]"
+  "desc": "Every time you shoot, switch your ammo type. [Dual Guns]",
+  "voi_only": false
 }

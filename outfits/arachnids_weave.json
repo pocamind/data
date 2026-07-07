@@ -26,5 +26,6 @@
     "Ether Regen": 55,
     "Extra Stealth": 0
   },
-  "desc": "Spun around the dantiest of spider silks, this silvery coordinate is punctuated by its iconic corset. Perhaps \"laced\" with poison?"
+  "desc": "Spun around the dantiest of spider silks, this silvery coordinate is punctuated by its iconic corset. Perhaps \"laced\" with poison?",
+  "voi_only": false
 }

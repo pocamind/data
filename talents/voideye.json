@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Voidmother's blessing, the method to travel back to the Voidheart."
+  "desc": "Voidmother's blessing, the method to travel back to the Voidheart.",
+  "voi_only": false
 }

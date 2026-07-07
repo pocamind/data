@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Proccing Swiftkick Prodigy now extends its duration to 15 seconds."
+  "desc": "Proccing Swiftkick Prodigy now extends its duration to 15 seconds.",
+  "voi_only": false
 }

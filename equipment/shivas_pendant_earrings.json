@@ -15,5 +15,6 @@
   },
   "reqs": "shivas_pendant_earrings := ()",
   "voi": false,
-  "desc": "Donning these fills you with strength and fury."
+  "desc": "Donning these fills you with strength and fury.",
+  "voi_only": false
 }

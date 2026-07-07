@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "deepfire_ring := 90r TTL",
   "voi": false,
-  "desc": "Ring of Korilfiend. Burn status burns faster."
+  "desc": "Ring of Korilfiend. Burn status burns faster.",
+  "voi_only": false
 }

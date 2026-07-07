@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Blunt damage now fully ignores the posture bonus from shields."
+  "desc": "Blunt damage now fully ignores the posture bonus from shields.",
+  "voi_only": false
 }

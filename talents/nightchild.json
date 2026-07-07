@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces."
+  "desc": "Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.",
+  "voi_only": false
 }

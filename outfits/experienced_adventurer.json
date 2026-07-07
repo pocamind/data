@@ -20,5 +20,6 @@
     "Ether Regen": 0,
     "Extra Stealth": 0
   },
-  "desc": "You wear your experience.\r"
+  "desc": "You wear your experience.\r",
+  "voi_only": false
 }

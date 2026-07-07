@@ -9,5 +9,6 @@
   "vaulted": false,
   "reqs": "dread_breath := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

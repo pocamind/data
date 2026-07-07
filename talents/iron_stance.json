@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Be able to shrug off being ragdolled every so often."
+  "desc": "Be able to shrug off being ragdolled every so often.",
+  "voi_only": true
 }

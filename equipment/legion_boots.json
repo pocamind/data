@@ -17,5 +17,6 @@
   },
   "reqs": "legion_boots := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

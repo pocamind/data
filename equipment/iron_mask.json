@@ -12,5 +12,6 @@
   },
   "reqs": "iron_mask := ()",
   "voi": false,
-  "desc": "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority."
+  "desc": "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority.",
+  "voi_only": false
 }

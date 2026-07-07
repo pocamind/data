@@ -12,5 +12,6 @@
   },
   "reqs": "moon_ring := ()",
   "voi": false,
-  "desc": "A deceptive ring that conceals one's true age. Greatly sought after by vain misers."
+  "desc": "A deceptive ring that conceals one's true age. Greatly sought after by vain misers.",
+  "voi_only": false
 }

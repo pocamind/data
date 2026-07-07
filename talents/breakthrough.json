@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Posture damage on light attacks are increased by 10%."
+  "desc": "Posture damage on light attacks are increased by 10%.",
+  "voi_only": true
 }

@@ -18,5 +18,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The legendary martial arts style of theÂ Legion. Emphasises the sweeping motions of wind."
+  "desc": "The legendary martial arts style of theÃ‚Â Legion. Emphasises the sweeping motions of wind.",
+  "voi_only": false
 }

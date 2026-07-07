@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2."
+  "desc": "Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2.",
+  "voi_only": false
 }

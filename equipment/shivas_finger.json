@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "shivas_finger := 165r TTL",
   "voi": false,
-  "desc": "Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. Activates at 3 or more combat tags."
+  "desc": "Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. Activates at 3 or more combat tags.",
+  "voi_only": false
 }

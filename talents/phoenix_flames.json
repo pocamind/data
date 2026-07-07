@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown."
+  "desc": "Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.",
+  "voi_only": false
 }

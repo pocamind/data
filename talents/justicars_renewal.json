@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds)."
+  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).",
+  "voi_only": false
 }

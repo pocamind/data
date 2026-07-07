@@ -24,5 +24,6 @@
     "Shocking Finish"
   ],
   "voi": false,
-  "desc": "Fire a beam of lightning."
+  "desc": "Fire a beam of lightning.",
+  "voi_only": false
 }

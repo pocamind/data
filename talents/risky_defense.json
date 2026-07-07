@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Decrease how much posture damage you take from physical attacks by 25%, but take 50% more posture damage from mantras."
+  "desc": "Decrease how much posture damage you take from physical attacks by 25%, but take 50% more posture damage from mantras.",
+  "voi_only": true
 }

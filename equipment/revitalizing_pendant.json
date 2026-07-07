@@ -15,5 +15,6 @@
   },
   "reqs": "revitalizing_pendant := ()",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

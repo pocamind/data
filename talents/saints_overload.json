@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%."
+  "desc": "After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%.",
+  "voi_only": false
 }

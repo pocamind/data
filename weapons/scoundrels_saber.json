@@ -18,5 +18,6 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
-  "desc": "A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade."
+  "desc": "A sturdy Celtorian saber with a weighted pommel, once wielded by Traan Zakshun. Known for feints and dirty tricks, he struck foes with the heavy pommel as often as the blade.",
+  "voi_only": false
 }

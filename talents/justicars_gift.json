@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Justicar support mantras now heal your allies for 10 health instead of 5. Increase the duration of your Karita Aid to 15 seconds."
+  "desc": "Your Justicar support mantras now heal your allies for 10 health instead of 5. Increase the duration of your Karita Aid to 15 seconds.",
+  "voi_only": false
 }

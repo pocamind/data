@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be Sluggish for 12 seconds."
+  "desc": "Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be Sluggish for 12 seconds.",
+  "voi_only": false
 }

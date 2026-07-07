@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You can now shadestep to pick up Unconscious humanoids far away from you."
+  "desc": "You can now shadestep to pick up Unconscious humanoids far away from you.",
+  "voi_only": false
 }

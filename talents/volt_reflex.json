@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges."
+  "desc": "Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.",
+  "voi_only": false
 }

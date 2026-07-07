@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": true,
-  "desc": "Sliding while Orbital Ice is active leaves trails of ice."
+  "desc": "Sliding while Orbital Ice is active leaves trails of ice.",
+  "voi_only": false
 }

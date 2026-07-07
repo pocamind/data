@@ -10,5 +10,6 @@
   "pips": {},
   "reqs": "isshins_ring := 90r TTL",
   "voi": false,
-  "desc": "Ring of A wandering Swordsman. Take 1.2x damage and deal 1.15x damage when in close-quarters combat."
+  "desc": "Ring of A wandering Swordsman. Take 1.2x damage and deal 1.15x damage when in close-quarters combat.",
+  "voi_only": false
 }

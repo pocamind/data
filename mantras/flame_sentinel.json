@@ -20,5 +20,6 @@
     "Magnet Spark"
   ],
   "voi": false,
-  "desc": "Conjure a turret of flames."
+  "desc": "Conjure a turret of flames.",
+  "voi_only": false
 }

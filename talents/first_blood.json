@@ -8,5 +8,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Your first blood mantra you use in combat has no blood cost."
+  "desc": "Your first blood mantra you use in combat has no blood cost.",
+  "voi_only": false
 }

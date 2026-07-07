@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration."
+  "desc": "Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.",
+  "voi_only": false
 }

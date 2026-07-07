@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "[In Arc Suit] Your Arcwarder Mantras deal increased damage."
+  "desc": "[In Arc Suit] Your Arcwarder Mantras deal increased damage.",
+  "voi_only": false
 }

@@ -17,5 +17,6 @@
   },
   "reqs": "winter_corps_boots := 90r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

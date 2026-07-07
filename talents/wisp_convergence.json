@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes."
+  "desc": "When empowered by the Chorus, your Wisps now grant their elements to your strikes.",
+  "voi_only": false
 }

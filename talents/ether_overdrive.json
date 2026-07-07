@@ -15,5 +15,6 @@
   "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
   "exclusive": [
     "Million Ton Piercer"
-  ]
+  ],
+  "voi_only": false
 }

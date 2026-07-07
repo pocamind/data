@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Enforcer's Pull is improved. Land a flourish to make it even stronger."
+  "desc": "Your Enforcer's Pull is improved. Land a flourish to make it even stronger.",
+  "voi_only": false
 }

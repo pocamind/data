@@ -21,5 +21,6 @@
   "pips": {},
   "reqs": "dark_pearls := 165r TTL, 40r SDW",
   "voi": false,
-  "desc": "A daring statement to the upper class, these earrings contain pearls taken from the clutches of enormous, vicious clams native to the southern seas before the Submergence. Their rarity has only deepened with time; not only were they perilously difficult to obtain, but the very creatures that produced them are now all but extinct."
+  "desc": "A daring statement to the upper class, these earrings contain pearls taken from the clutches of enormous, vicious clams native to the southern seas before the Submergence. Their rarity has only deepened with time; not only were they perilously difficult to obtain, but the very creatures that produced them are now all but extinct.",
+  "voi_only": false
 }

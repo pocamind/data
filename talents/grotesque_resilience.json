@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You take reduced damage from 'Damage over Time' effects."
+  "desc": "You take reduced damage from 'Damage over Time' effects.",
+  "voi_only": false
 }

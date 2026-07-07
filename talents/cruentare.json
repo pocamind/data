@@ -9,5 +9,6 @@
   "desc": "Increase the amount of all bleed damage you deal by 50%. Your Whirling Blade now now heals you when landing it.",
   "additional_info": "You heal for 25% of the damage your Whirling blades deals.",
   "icon": "Blood",
-  "roll2able": false
+  "roll2able": false,
+  "voi_only": false
 }

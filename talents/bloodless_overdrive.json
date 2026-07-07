@@ -8,5 +8,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Gain bonus temp health every time you land a mantra with a Bloodless Gem."
+  "desc": "Gain bonus temp health every time you land a mantra with a Bloodless Gem.",
+  "voi_only": false
 }

@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your Berserk State lasts until you willingly end it."
+  "desc": "Your Berserk State lasts until you willingly end it.",
+  "voi_only": true
 }

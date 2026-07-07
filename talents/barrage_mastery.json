@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "For every Ether Erudite stack you have, gain one extra orb whenever you fire your Ether Barrage."
+  "desc": "For every Ether Erudite stack you have, gain one extra orb whenever you fire your Ether Barrage.",
+  "voi_only": true
 }

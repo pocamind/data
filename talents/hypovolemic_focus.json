@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "While you have temporary health, your opponent regains far less posture from parrying you."
+  "desc": "While you have temporary health, your opponent regains far less posture from parrying you.",
+  "voi_only": false
 }

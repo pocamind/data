@@ -21,5 +21,6 @@
   },
   "reqs": "trackers_brace := 135r TTL",
   "voi": false,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": false
 }

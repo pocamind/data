@@ -21,5 +21,6 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
-  "desc": "Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly?"
+  "desc": "Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly?",
+  "voi_only": false
 }

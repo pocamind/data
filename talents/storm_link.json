@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning."
+  "desc": "While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.",
+  "voi_only": false
 }

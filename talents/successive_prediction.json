@@ -9,5 +9,6 @@
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Predicting an attack will briefly allow you to predict another."
+  "desc": "Predicting an attack will briefly allow you to predict another.",
+  "voi_only": false
 }

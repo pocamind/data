@@ -12,5 +12,6 @@
   "desc": "When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)",
   "exclusive": [
     "Fists of Fortitude"
-  ]
+  ],
+  "voi_only": false
 }

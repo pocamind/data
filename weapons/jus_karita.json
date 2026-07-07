@@ -19,5 +19,6 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
-  "desc": "The traditional martial arts style of the Justicars."
+  "desc": "The traditional martial arts style of the Justicars.",
+  "voi_only": false
 }

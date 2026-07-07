@@ -26,5 +26,6 @@
     "Ether Regen": 25,
     "Extra Stealth": 0
   },
-  "desc": "Your very own rightful spoils of war, a gilded adornment made of the furs and skins of Primadon, the mighty Titan of the East. Although the beast is poorly understood, one thing is for certain - its might is overwhelming. This attire is a testament to your victory against it... until the Titan rises again."
+  "desc": "Your very own rightful spoils of war, a gilded adornment made of the furs and skins of Primadon, the mighty Titan of the East. Although the beast is poorly understood, one thing is for certain - its might is overwhelming. This attire is a testament to your victory against it... until the Titan rises again.",
+  "voi_only": false
 }

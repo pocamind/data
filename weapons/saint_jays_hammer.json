@@ -24,5 +24,6 @@
   "talents": [
     "Bulwark Breaker",
     "Reverse Necrosis"
-  ]
+  ],
+  "voi_only": true
 }

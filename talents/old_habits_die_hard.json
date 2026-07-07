@@ -11,5 +11,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage."
+  "desc": "Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage.",
+  "voi_only": false
 }

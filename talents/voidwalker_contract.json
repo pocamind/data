@@ -9,5 +9,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you."
+  "desc": "You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.",
+  "voi_only": false
 }
