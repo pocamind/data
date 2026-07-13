@@ -4,6 +4,7 @@
   "rarity": "Common",
   "reqs": "flamecharmer := 1s FLM",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Blaze",
   "roll2able": false,
   "vaulted": false,

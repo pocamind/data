@@ -5,6 +5,7 @@
   "reqs": "adept_bloodrender => expert_bloodrender := 30s BLD",
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Blood",
   "roll2able": false,
   "vaulted": false,

@@ -5,6 +5,7 @@
   "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Shock",
   "roll2able": false,
   "stats": {
