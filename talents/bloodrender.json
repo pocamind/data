@@ -4,6 +4,7 @@
   "rarity": "Common",
   "reqs": "bloodrender := 1s BLD",
   "count_towards_talent_total": true,
+  "implicit": true,
   "icon": "Blood",
   "roll2able": false,
   "vaulted": false,

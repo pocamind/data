@@ -4,6 +4,7 @@
   "rarity": "Common",
   "reqs": "galebreather := 1s WND",
   "count_towards_talent_total": false,
+  "implicit": true,
   "icon": "Wind",
   "roll2able": false,
   "vaulted": false,
