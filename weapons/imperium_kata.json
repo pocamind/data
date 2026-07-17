@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "imperium_kata => imperium_kata := ()",
+  "reqs": "imperium_kata := ()",
   "damage_types": [
     "Blunt"
   ],

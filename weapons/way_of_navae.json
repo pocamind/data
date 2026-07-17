@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "way_of_navae => way_of_navae := ()",
+  "reqs": "way_of_navae := ()",
   "damage_types": [
     "Blunt"
   ],

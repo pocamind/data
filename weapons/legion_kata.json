@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "legion_kata => legion_kata := ()",
+  "reqs": "legion_kata := ()",
   "damage_types": [
     "Blunt"
   ],
