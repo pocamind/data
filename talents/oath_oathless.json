@@ -11,7 +11,8 @@
     "Wildcard Mantra Slot": 3,
     "Health": 10,
     "Oath Armor": 20,
-    "Monster Armor": 20
+    "Monster Armor": 20,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

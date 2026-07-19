@@ -11,7 +11,8 @@
     "Sanity": 10,
     "Support Mantra Slot": 1,
     "Wildcard Mantra Slot": 1,
-    "Combat Mantra Slot": 1
+    "Combat Mantra Slot": 1,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

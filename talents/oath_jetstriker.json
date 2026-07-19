@@ -10,7 +10,8 @@
   "stats": {
     "Wildcard Mantra Slot": 1,
     "Mobility Mantra Slot": 1,
-    "Passive Agility": 8
+    "Passive Agility": 8,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

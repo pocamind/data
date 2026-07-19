@@ -7,7 +7,8 @@
   "icon": "Dawnwalker",
   "roll2able": false,
   "stats": {
-    "Combat Mantra Slot": 2
+    "Combat Mantra Slot": 2,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,
