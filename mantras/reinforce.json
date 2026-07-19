@@ -8,6 +8,9 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "reinforce := 50r FTD",
+  "conditional_stats": {
+    "Damage": 5
+  },
   "shared_cooldowns": [
     "Iceberg"
   ],

@@ -6,6 +6,12 @@
   "count_towards_talent_total": true,
   "icon": "Boots",
   "roll2able": false,
+  "stats": {
+    "Pen": 5
+  },
+  "conditional_stats": {
+    "Melee Pen": 5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.",

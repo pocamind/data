@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,
+  "conditional_stats": {
+    "Pen": 15
+  },
   "vaulted": false,
   "voi": false,
   "desc": "You gain +3% PEN for each person Charmed, capping at +15% PEN.",

@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Claw",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": 10
+  },
   "vaulted": false,
   "voi": false,
   "desc": "You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.",

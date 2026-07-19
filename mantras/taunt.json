@@ -8,6 +8,9 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "taunt := 25r CHA",
+  "conditional_stats": {
+    "Damage": 20
+  },
   "voi": true,
   "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
   "voi_only": false

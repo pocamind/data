@@ -10,6 +10,9 @@
   "stats": {
     "Sanity": 5
   },
+  "conditional_stats": {
+    "Damage": 15
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Deal more damage the more insane you are. Grants +15% damage at maximum insanity.",

@@ -9,6 +9,9 @@
   "stats": {
     "Sanity": 10
   },
+  "conditional_stats": {
+    "Damage": 5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Deal +5% more damage when your health is below 25%.",

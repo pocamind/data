@@ -7,6 +7,9 @@
   "count_towards_talent_total": false,
   "icon": "Claw",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": 5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.",

@@ -10,6 +10,9 @@
   "stats": {
     "Passive Agility": 6
   },
+  "conditional_multiplicative_percents": {
+    "Pen": "10 - 0.11 * max(65 - AGL, 0)"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Your attacks gain 10% PEN multiplicatively when you have an active speed boost.",

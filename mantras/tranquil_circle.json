@@ -8,6 +8,10 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "oath_blindseer => tranquil_circle := ()",
+  "conditional_stats": {
+    "Monster Armor": 10,
+    "Damage vs. Monsters": 10
+  },
   "modifiers": [
     "Glass Stone",
     "Magnifying Stone"

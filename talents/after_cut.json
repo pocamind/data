@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Wind",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": 10
+  },
   "vaulted": false,
   "voi": false,
   "desc": "If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.",

@@ -7,6 +7,9 @@
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": 15
+  },
   "vaulted": false,
   "voi": true,
   "desc": "Stab yourself to become stronger, faster, and deal increased blood bar damage.",

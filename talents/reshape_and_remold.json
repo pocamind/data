@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": 5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.",
