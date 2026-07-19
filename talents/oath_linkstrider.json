@@ -8,7 +8,8 @@
   "roll2able": false,
   "stats": {
     "Wildcard Mantra Slot": 1,
-    "Support Mantra Slot": 2
+    "Support Mantra Slot": 2,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

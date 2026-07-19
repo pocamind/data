@@ -9,7 +9,8 @@
   "stats": {
     "Support Mantra Slot": 1,
     "Wildcard Mantra Slot": 1,
-    "Carry Load": 20
+    "Carry Load": 20,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

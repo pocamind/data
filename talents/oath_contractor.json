@@ -9,7 +9,8 @@
   "stats": {
     "Wildcard Mantra Slot": 1,
     "Combat Mantra Slot": 2,
-    "Ether": 10
+    "Ether": 10,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,

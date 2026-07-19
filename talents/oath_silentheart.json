@@ -9,7 +9,8 @@
   "roll2able": false,
   "stats": {
     "Health": 10,
-    "Posture": 2
+    "Posture": 2,
+    "Pen": 5
   },
   "vaulted": false,
   "voi": false,
