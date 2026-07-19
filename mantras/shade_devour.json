@@ -118,6 +118,9 @@
   "scaling": {
     "Shadowcast": 2.75
   },
+  "conditional_stats": {
+    "Damage": 20
+  },
   "modifiers": [
     "Drift Shard",
     "Rush Shard",

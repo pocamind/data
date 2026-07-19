@@ -6,6 +6,9 @@
   "count_towards_talent_total": true,
   "icon": "Claw",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": 20
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Deal +20% more damage to human enemies with hyperarmor.",

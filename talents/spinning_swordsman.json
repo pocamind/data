@@ -9,6 +9,9 @@
   "stats": {
     "Passive Agility": 1
   },
+  "conditional_stats": {
+    "Damage": 15
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Running attacks do +15% extra damage when you have a speed boost.",

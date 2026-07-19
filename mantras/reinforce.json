@@ -45,6 +45,9 @@
       ]
     }
   ],
+  "conditional_stats": {
+    "Damage": 5
+  },
   "shared_cooldowns": [
     "Iceberg"
   ],

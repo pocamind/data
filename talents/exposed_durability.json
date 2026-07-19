@@ -7,6 +7,9 @@
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": 10
+  },
   "vaulted": false,
   "voi": true,
   "desc": "Deal 10% more damage to opponents with no armor durability left.",

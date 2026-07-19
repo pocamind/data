@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Brain",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": "10 - 0.125 * max(40 - INT, 0)"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.",

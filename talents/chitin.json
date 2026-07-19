@@ -7,6 +7,9 @@
   "count_towards_talent_total": false,
   "icon": "Skeleton",
   "roll2able": false,
+  "stats": {
+    "Physical Armor": 5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "You have a layer of Natural Armor that replenishes when you rest",

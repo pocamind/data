@@ -10,6 +10,9 @@
   "stats": {
     "Passive Agility": 1
   },
+  "conditional_stats": {
+    "Bleed": 7.5
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown.",

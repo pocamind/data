@@ -8,7 +8,8 @@
   "icon": "Skeleton",
   "roll2able": false,
   "stats": {
-    "Health": 5
+    "Health": 5,
+    "Physical Armor": "min(10, 5 + 0.125 * FTD)"
   },
   "vaulted": false,
   "voi": true,

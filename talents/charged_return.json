@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Sword",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": 10
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.",

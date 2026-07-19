@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Climb",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": "2.5 + 0.0375 * max(0, min(WLL - 20, 40)) + 10"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.",

@@ -7,6 +7,9 @@
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,
+  "conditional_stats": {
+    "Damage": 10
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Deal 10% more damage to enemies Charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies Charmed briefly.",

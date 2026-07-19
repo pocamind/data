@@ -7,6 +7,9 @@
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,
+  "conditional_stats": {
+    "Damage": 30
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.",
