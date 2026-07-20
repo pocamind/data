@@ -8,7 +8,7 @@
   "icon": "Shield",
   "roll2able": false,
   "stats": {
-    "Slash Armor": 3
+    "Slash Resistance": 3
   },
   "vaulted": false,
   "voi": true,

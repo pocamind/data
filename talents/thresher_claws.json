@@ -7,9 +7,7 @@
   "icon": "Boots",
   "roll2able": false,
   "stats": {
-    "Pen": 5
-  },
-  "conditional_stats": {
+    "Pen": 5,
     "Melee Pen": 5
   },
   "vaulted": false,

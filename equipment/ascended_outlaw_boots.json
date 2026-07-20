@@ -9,11 +9,11 @@
     "Stronger Under Pressure"
   ],
   "innates": {
-    "Lightning Armor": {
+    "Thunder Resistance": {
       "value": 3,
       "percentage": true
     },
-    "Wind Armor": {
+    "Wind Resistance": {
       "value": 3,
       "percentage": true
     }

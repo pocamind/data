@@ -17,11 +17,11 @@
       "value": 2,
       "percentage": false
     },
-    "Ice Armor": {
+    "Ice Resistance": {
       "value": 5,
       "percentage": true
     },
-    "Wind Armor": {
+    "Wind Resistance": {
       "value": 5,
       "percentage": true
     }
