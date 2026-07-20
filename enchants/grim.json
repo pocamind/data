@@ -3,5 +3,6 @@
   "name": "Grim",
   "category": "Weapon",
   "in_game_desc": "Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%.",
-  "obtainable_in": "Pathfinder"
+  "obtainable_in": "Pathfinder",
+  "conditional_stats": { "Damage": 25 }
 }
