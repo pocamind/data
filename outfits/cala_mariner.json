@@ -1,11 +1,12 @@
 {
+  "desc": "The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way.",
   "mats": {
     "Cloth": 3,
     "Fiber": 4,
-    "Odd Tentacle": 5,
-    "Nautilodaunt Beak": 1,
     "Blue Gem": 1,
-    "Vibrant Gem": 10
+    "Vibrant Gem": 10,
+    "Odd Tentacle": 5,
+    "Nautilodaunt Beak": 1
   },
   "name": "Cala-Mariner",
   "reqs": "cala_mariner := 240r TTL, 5r WLL",
@@ -14,17 +15,16 @@
   "category": "Master",
   "pants_id": "73865346210922",
   "shirt_id": "111462203380466",
+  "voi_only": false,
   "durability": 2200,
   "resistances": {
+    "Wind Resistance": 30,
+    "Blood Resistance": 25,
     "Physical Resistance": 25,
-    "Elemental Resistance": 35,
-    "Ice Resistance": 30,
-    "Blood Resistance": 25
+    "Elemental Resistance": 35
   },
   "extra_percents": {
     "Ether Regen": 45,
     "Extra Stealth": 0
-  },
-  "desc": "The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way.",
-  "voi_only": false
+  }
 }
