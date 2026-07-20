@@ -7,7 +7,7 @@
   "variants": [],
   "talents": [],
   "innates": {
-    "Ice Armor": {
+    "Ice Resistance": {
       "value": 3,
       "percentage": true
     }

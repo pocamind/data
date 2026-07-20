@@ -7,11 +7,11 @@
   "variants": [],
   "talents": [],
   "innates": {
-    "Fire Armor": {
+    "Flame Resistance": {
       "value": 2,
       "percentage": true
     },
-    "Lightning Armor": {
+    "Thunder Resistance": {
       "value": 2,
       "percentage": true
     },

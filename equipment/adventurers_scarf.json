@@ -7,7 +7,7 @@
   "variants": [],
   "talents": [],
   "innates": {
-    "Wind Armor": {
+    "Wind Resistance": {
       "value": 3,
       "percentage": true
     }

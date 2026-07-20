@@ -9,11 +9,11 @@
     "Coldseep Reactor"
   ],
   "innates": {
-    "Ice Armor": {
+    "Ice Resistance": {
       "value": 5,
       "percentage": true
     },
-    "Lightning Armor": {
+    "Thunder Resistance": {
       "value": 5,
       "percentage": true
     },
