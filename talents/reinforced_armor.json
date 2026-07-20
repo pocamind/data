@@ -7,6 +7,7 @@
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": true,
+  "stats": { "Pen Resistance": "max(30 - 0.8 * max(90 - FTD, 0), 10)" },
   "vaulted": false,
   "voi": false,
   "desc": "Incoming PEN is reduced by 30%.",

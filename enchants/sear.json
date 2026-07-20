@@ -3,5 +3,7 @@
   "name": "Sear",
   "category": "Weapon",
   "in_game_desc": "Weapon gains +5% PEN. Applies Cauterize on hit for 15s, as well as draining their Water. Cauterized foes take more PEN the more stacks are applied.",
-  "obtainable_in": "Pathfinder"
+  "obtainable_in": "Pathfinder",
+  "stats": { "Melee Pen": 5 },
+  "conditional_stats": { "Pen": 40 }
 }

@@ -100,25 +100,12 @@ checksum = "d0a5c400df2834b80a4c3327b3aad3a4c4cd4de0629063962b03235697506a28"
 
 [[package]]
 name = "deepwoken"
-version = "0.1.81"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f1945fc525ef18372cf62d04703151d55b21901522391a12b5465e8344e885bc"
+checksum = "572de63182c84117b5966c57d76634a87de099de90ef7a58a01963f6489347db"
 dependencies = [
  "env_logger",
- "log",
- "serde",
- "serde_json",
- "thiserror",
- "winnow",
-]
-
-[[package]]
-name = "deepwoken"
-version = "0.2.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "da515bb9384e7b9ff582ace84cdfb714b4a6ed243675684f75441f99ce31c5f5"
-dependencies = [
- "env_logger",
+ "evalexpr",
  "log",
  "serde",
  "serde_json",
@@ -160,6 +147,12 @@ name = "equivalent"
 version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "877a4ace8713b0bcf2a4e7eec82529c029f1d0619886d18145fea96c3ffe5c0f"
+
+[[package]]
+name = "evalexpr"
+version = "13.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "25929004897f2bbab309121a60400d36992f6d911d09baa6c172f6cc55706601"
 
 [[package]]
 name = "hashbrown"
@@ -393,7 +386,7 @@ name = "transform"
 version = "0.1.0"
 dependencies = [
  "anyhow",
- "deepwoken 0.1.81",
+ "deepwoken",
  "rayon",
  "serde",
  "serde_json",
@@ -416,7 +409,7 @@ name = "validate"
 version = "0.1.0"
 dependencies = [
  "anyhow",
- "deepwoken 0.2.1",
+ "deepwoken",
  "serde",
  "serde_json",
 ]

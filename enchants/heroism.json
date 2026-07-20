@@ -3,5 +3,6 @@
   "name": "Heroism",
   "category": "Weapon",
   "in_game_desc": "When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent.",
-  "obtainable_in": "Pathfinder"
+  "obtainable_in": "Pathfinder",
+  "conditional_stats": { "Damage": "if(PVP, 20, 5)" }
 }
