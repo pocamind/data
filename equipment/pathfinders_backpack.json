@@ -17,7 +17,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "pathfinders_backpack := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels.",
   "voi_only": false

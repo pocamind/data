@@ -2,7 +2,7 @@
   "name": "Lose Your Mind",
   "category": "Mindbreaker",
   "rarity": "Rare",
-  "reqs": "lose_your_mind := 30s STR, 30s FTD",
+  "reqs": "30s STR, 30s FTD",
   "additional_info": "Starting at 70% Sanity, gain a damage buff that scales non-linearly on your current Sanity percentage.",
   "count_towards_talent_total": true,
   "icon": "Eye",

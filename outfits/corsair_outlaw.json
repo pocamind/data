@@ -7,7 +7,7 @@
   "name": "Corsair Outlaw",
   "pants_id": "4854428285",
   "shirt_id": "4854374607",
-  "reqs": "corsair_outlaw := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Lightweight",
   "category": "Starter",

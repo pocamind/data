@@ -2,7 +2,10 @@
   "name": "Expert Galebreather",
   "category": "Galebreather",
   "rarity": "Common",
-  "reqs": "adept_galebreather => expert_galebreather := 30s WND",
+  "reqs": "30s WND",
+  "prereqs": [
+    "talent:adept_galebreather"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

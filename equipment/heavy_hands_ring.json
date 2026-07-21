@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "heavy_hands_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Makes your \"M1\" attack 10% slower but do 30% more posture damage.",
   "voi_only": false

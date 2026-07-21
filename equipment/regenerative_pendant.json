@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "regenerative_pendant := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

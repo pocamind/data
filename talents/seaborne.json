@@ -2,7 +2,10 @@
   "name": "Seaborne",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "celtor => seaborne := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:celtor"
+  ],
   "additional_info": "Ship purchase price is reduced by 20%, ships turn 20% faster, and have 10% more health. Repairing a ship with a Repair Hammer takes less time.",
   "count_towards_talent_total": false,
   "icon": "Cube",

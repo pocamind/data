@@ -2,7 +2,10 @@
   "name": "Justicar's Prowess",
   "category": "Justicar",
   "rarity": "Common",
-  "reqs": "jus_karita => justicars_prowess := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:jus_karita"
+  ],
   "additional_info": "Gain +30% posture damage on weapon attacks against opponents using Way of Navae, Fang and Coil, Imperium Kata, Untrained Fist, or Legion Kata.",
   "count_towards_talent_total": true,
   "icon": "Fist",

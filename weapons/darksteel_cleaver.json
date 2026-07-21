@@ -5,7 +5,7 @@
   "damage": 28.5,
   "posture_damage": 12,
   "range": 13,
-  "reqs": "darksteel_cleaver := 100r HVY, 10r STR",
+  "reqs": "100r HVY, 10r STR",
   "damage_types": [
     "Slash"
   ],

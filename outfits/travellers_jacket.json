@@ -5,7 +5,7 @@
     "Cloth": 1
   },
   "name": "Traveller's Jacket",
-  "reqs": "travellers_jacket := ()",
+  "reqs": "()",
   "notes": 10,
   "talent": null,
   "category": "Starter",

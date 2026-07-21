@@ -2,7 +2,10 @@
   "name": "Teachings of the Edenkite",
   "category": "Innate",
   "rarity": "Spec",
-  "reqs": "drakkard => teachings_of_the_edenkite := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:drakkard"
+  ],
   "additional_info": "Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.",
   "count_towards_talent_total": false,
   "roll2able": false,

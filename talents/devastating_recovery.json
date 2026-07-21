@@ -2,7 +2,12 @@
   "name": "Devastating Recovery",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "alloyed_zweihander, bloodbane, zweihander => devastating_recovery := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:alloyed_zweihander",
+    "weapon:bloodbane",
+    "weapon:zweihander"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

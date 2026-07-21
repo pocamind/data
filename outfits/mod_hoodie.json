@@ -3,7 +3,7 @@
   "shirt_id": "81261523859343",
   "mats": {},
   "name": "Mod Hoodie",
-  "reqs": "mod_hoodie := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": null,
   "category": "Spec",

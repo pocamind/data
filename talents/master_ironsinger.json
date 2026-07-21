@@ -2,7 +2,10 @@
   "name": "Master Ironsinger",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "expert_ironsinger => master_ironsinger := 50s MTL",
+  "reqs": "50s MTL",
+  "prereqs": [
+    "talent:expert_ironsinger"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

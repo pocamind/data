@@ -2,7 +2,10 @@
   "name": "Piercing Shot",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "bounty_hunters_garb => piercing_shot := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:bounty_hunters_garb"
+  ],
   "additional_info": "Grants a Talent tool, that on use, enhances your next critical attack used with any Rifle or Pistol. Enhanced critical attacks gain 100% chip damage and apply the Pierced Armor status effect to your opponent, increasing incoming PEN for a few seconds.",
   "count_towards_talent_total": false,
   "icon": "Bullet",

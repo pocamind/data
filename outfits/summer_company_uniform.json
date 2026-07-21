@@ -6,7 +6,7 @@
     "Iron": 10
   },
   "name": "Summer Company Uniform",
-  "reqs": "summer_company_uniform := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 100,
   "talent": "Armor Piercing",
   "category": "Adept",

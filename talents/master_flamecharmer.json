@@ -2,7 +2,10 @@
   "name": "Master Flamecharmer",
   "category": "Flamecharmer",
   "rarity": "Common",
-  "reqs": "expert_flamecharmer => master_flamecharmer := 50s FLM",
+  "reqs": "50s FLM",
+  "prereqs": [
+    "talent:expert_flamecharmer"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

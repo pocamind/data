@@ -2,7 +2,10 @@
   "name": "Coldseep Reactor",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "grand_fisher_helm => coldseep_reactor := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:grand_fisher_helm"
+  ],
   "additional_info": "You can no longer gain parasites while in the Second Layer.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

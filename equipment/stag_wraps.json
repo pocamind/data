@@ -19,7 +19,7 @@
     }
   },
   "pips": {},
-  "reqs": "stag_wraps := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

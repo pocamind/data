@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 6,
   "range": 8,
-  "reqs": "canorian_axe := 35r HVY",
+  "reqs": "35r HVY",
   "damage_types": [
     "Slash"
   ],

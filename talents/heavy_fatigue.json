@@ -2,7 +2,7 @@
   "name": "Heavy Fatigue",
   "category": "Bruiser",
   "rarity": "Rare",
-  "reqs": "heavy_fatigue := 40s HVY",
+  "reqs": "40s HVY",
   "additional_info": "Does not proc on uppercut.",
   "count_towards_talent_total": true,
   "icon": "Greatsword",

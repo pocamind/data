@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "nose_stud := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "FEAR. IRONSINGERS.",
   "voi_only": false

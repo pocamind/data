@@ -17,7 +17,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "the_machine := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Go play metal gear rising",
   "voi_only": false

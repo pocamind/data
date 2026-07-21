@@ -2,7 +2,7 @@
   "name": "Charismatic Cast",
   "category": "Charm Caster",
   "rarity": "Common",
-  "reqs": "charismatic_cast := 25s CHA",
+  "reqs": "25s CHA",
   "additional_info": "Charismatic Cast's Charm lasts 10 seconds.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

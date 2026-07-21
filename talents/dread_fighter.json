@@ -2,7 +2,10 @@
   "name": "Dread Fighter",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => dread_fighter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Each stack of Dread Fighter grants 5% Mantra damage reduction, capping at 5 stacks for 25% Mantra damage reduction.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

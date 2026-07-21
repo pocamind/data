@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "microwavetm := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Go play heat signature",
   "voi_only": false

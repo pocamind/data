@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "novice_brace := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

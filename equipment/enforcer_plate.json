@@ -13,7 +13,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "enforcer_plate := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

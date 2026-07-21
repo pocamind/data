@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "reinforce := 50r FTD",
+  "reqs": "50r FTD",
   "conditional_stats": {
     "Damage": 5
   },

@@ -7,7 +7,7 @@
   "type": "Event",
   "stars": 0,
   "vaulted": false,
-  "reqs": "pumpkin_pitch := ()",
+  "reqs": "()",
   "miscellaneous": "Only unlockable through the Hallowtide Event.",
   "voi": false,
   "wiki": "",

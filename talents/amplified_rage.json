@@ -2,7 +2,10 @@
   "name": "Amplified Rage",
   "category": "Jumpstarter",
   "rarity": "Common",
-  "reqs": "electrify => amplified_rage := 35s LTN",
+  "reqs": "35s LTN",
+  "prereqs": [
+    "talent:electrify"
+  ],
   "additional_info": "Increases Amped's damage buff from 10% to 20%.",
   "count_towards_talent_total": true,
   "icon": "Shock",

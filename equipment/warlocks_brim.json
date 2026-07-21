@@ -20,7 +20,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "warlocks_brim := 255r TTL",
+  "reqs": "255r TTL",
   "voi": false,
   "desc": "A finely crafted hat worn by master wizards of the Northern Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle.",
   "voi_only": false

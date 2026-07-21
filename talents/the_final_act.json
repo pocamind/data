@@ -2,7 +2,7 @@
   "name": "The Final Act",
   "category": "Flame Dancer",
   "rarity": "Rare",
-  "reqs": "the_final_act := 210s TTL, 60s FLM",
+  "reqs": "210s TTL, 60s FLM",
   "additional_info": "Deals 5 Flamecharm damage on proc.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

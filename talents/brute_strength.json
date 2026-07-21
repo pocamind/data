@@ -2,7 +2,10 @@
   "name": "Brute Strength",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "imperators_fury => brute_strength := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:imperators_fury"
+  ],
   "additional_info": "Deals 35 Blunt damage with 20 Posture damage. This cannot be buffed through damage modifiers. Increases your Vent's windup from 0.25s to 0.5s.",
   "count_towards_talent_total": false,
   "icon": "Fist",

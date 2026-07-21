@@ -2,7 +2,10 @@
   "name": "Careful Stance",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "apprentice_rapier => careful_stance := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:apprentice_rapier"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

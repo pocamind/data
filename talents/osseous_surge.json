@@ -2,7 +2,10 @@
   "name": "Osseous Surge",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "marrowmade_boots => osseous_surge := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:marrowmade_boots"
+  ],
   "additional_info": "Press right click within a 10 second window after landing a flourish to stomp and send a wave of bones in the direction you're facing. This deals high damage and sends your opponent upwards.",
   "count_towards_talent_total": false,
   "icon": "Boots",

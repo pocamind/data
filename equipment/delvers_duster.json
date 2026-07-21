@@ -18,7 +18,7 @@
   "pips": {
     "Legendary": 3
   },
-  "reqs": "delvers_duster := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

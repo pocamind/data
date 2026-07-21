@@ -2,7 +2,10 @@
   "name": "Adept Ironsinger",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "ironsinger => adept_ironsinger := 20s MTL",
+  "reqs": "20s MTL",
+  "prereqs": [
+    "talent:ironsinger"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

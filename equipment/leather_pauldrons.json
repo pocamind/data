@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "leather_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

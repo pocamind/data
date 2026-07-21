@@ -2,7 +2,10 @@
   "name": "Rat's Spirit",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "champions_dagger => rats_spirit := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:champions_dagger"
+  ],
   "additional_info": "Being combat tagged by 2 or more players will cause your critical attack to deal an additional 10 true damage per hit. This scales on how many combat tags you have, gaining +10 damage per.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

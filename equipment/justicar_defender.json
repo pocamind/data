@@ -17,7 +17,7 @@
   "pips": {
     "Rare": 4
   },
-  "reqs": "justicar_defender := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

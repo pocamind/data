@@ -2,7 +2,7 @@
   "name": "Braced Collapse",
   "category": "Bastion",
   "rarity": "Common",
-  "reqs": "braced_collapse := 25s FTD",
+  "reqs": "25s FTD",
   "additional_info": "After being block broken, reduce the next instance of damage by 20%. This has no cooldown.",
   "count_towards_talent_total": true,
   "icon": "Fist",

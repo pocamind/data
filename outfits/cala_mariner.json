@@ -9,7 +9,7 @@
     "Nautilodaunt Beak": 1
   },
   "name": "Cala-Mariner",
-  "reqs": "cala_mariner := 240r TTL, 5r WLL",
+  "reqs": "240r TTL, 5r WLL",
   "notes": 1000,
   "talent": "Tidal Shock",
   "category": "Master",

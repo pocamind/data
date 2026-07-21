@@ -2,7 +2,10 @@
   "name": "Mothwing Defense",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "chrysid => mothwing_defense := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:chrysid"
+  ],
   "count_towards_talent_total": false,
   "icon": "Skeleton",
   "roll2able": false,

@@ -5,7 +5,10 @@
   "damage": 28,
   "posture_damage": 7,
   "range": 8,
-  "reqs": "oath_saintsworn => saintsblade := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saintsworn"
+  ],
   "damage_types": [
     "Slash",
     "Attunement"

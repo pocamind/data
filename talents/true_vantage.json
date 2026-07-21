@@ -2,7 +2,10 @@
   "name": "True Vantage",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => true_vantage := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Changes your Vent color to match the color of your Silentheart Tattoos.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

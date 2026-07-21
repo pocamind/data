@@ -2,7 +2,10 @@
   "name": "Finishing Slay",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "messer => finishing_slay := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:messer"
+  ],
   "additional_info": "Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical. This deals 7 typeless damage per Chain of Perfection stack in PvP, or 166 typeless damage per stack in PvE. The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 150 PvP damage or 3.5k PvE damage at maximum Chain stacks. This can be buffed, but it is not considered as a weapon attack, limiting buffing options. Finishing Slay has no cooldown, allowing multi-hit criticals to deal massive damage in PvE.",
   "count_towards_talent_total": false,
   "icon": "Skull",

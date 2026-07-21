@@ -2,7 +2,10 @@
   "name": "Terrapod Tracer",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "terraplate_pauldrons => terrapod_tracer := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:terraplate_pauldrons"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

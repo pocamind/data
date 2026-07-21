@@ -22,7 +22,7 @@
     }
   },
   "pips": {},
-  "reqs": "plain_hood := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A sleek hood.",
   "voi_only": false

@@ -2,7 +2,10 @@
   "name": "Deepbound Contract",
   "category": "Deepbound Contract",
   "rarity": "Origin",
-  "reqs": "deepbound => deepbound_contract := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:deepbound"
+  ],
   "additional_info": "You can always enter Castle Light, even if you've drowned. Your Depths trial will always be an Enforcer or harder.",
   "count_towards_talent_total": false,
   "icon": "Eye",

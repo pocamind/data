@@ -2,7 +2,7 @@
   "name": "Scaredy Cat",
   "category": "Alley Cat",
   "rarity": "Common",
-  "reqs": "scaredy_cat := 5s AGL",
+  "reqs": "5s AGL",
   "count_towards_talent_total": true,
   "icon": "Boots",
   "roll2able": true,

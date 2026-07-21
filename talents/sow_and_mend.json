@@ -2,7 +2,10 @@
   "name": "Sow and Mend",
   "category": "Transitory Vitality",
   "rarity": "Rare",
-  "reqs": "master_bloodrender => sow_and_mend := 60s BLD",
+  "reqs": "60s BLD",
+  "prereqs": [
+    "talent:master_bloodrender"
+  ],
   "additional_info": "Gives 25 flat Temporary Health on use. 30 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Blood",

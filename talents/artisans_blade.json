@@ -2,7 +2,10 @@
   "name": "Artisan's Blade",
   "category": "Scrapsinger",
   "rarity": "Common",
-  "reqs": "gilded_path_scrapsinger => artisans_blade := 45s MTL",
+  "reqs": "45s MTL",
+  "prereqs": [
+    "talent:gilded_path_scrapsinger"
+  ],
   "additional_info": "Each Artisan Blade has 8 Base damage with 5 Ironsing scaling, gaining 0.04 damage per Ironsing investment. Artisan Rods deal 4.5 posture damage if blocked. Pulling rods normally also procs this Talent. \"Metal infused attacks\" refers to Ironsing legendary weapon attacks.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

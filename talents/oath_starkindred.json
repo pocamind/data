@@ -2,7 +2,7 @@
   "name": "Oath: Starkindred",
   "category": "Starkindred",
   "rarity": "Oath",
-  "reqs": "oath_starkindred := 40s STR",
+  "reqs": "40s STR",
   "count_towards_talent_total": false,
   "icon": "Starkindred",
   "roll2able": false,

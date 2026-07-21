@@ -2,7 +2,10 @@
   "name": "Ether Amplification",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite => ether_amplification := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:ether_erudite"
+  ],
   "additional_info": "Turns Pressure Blast light blue.",
   "count_towards_talent_total": false,
   "icon": "Brain",

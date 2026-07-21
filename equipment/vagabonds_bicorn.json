@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "vagabonds_bicorn := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

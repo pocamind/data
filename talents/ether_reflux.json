@@ -2,7 +2,10 @@
   "name": "Ether Reflux",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite => ether_reflux := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:ether_erudite"
+  ],
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Armor Conserver",
   "category": "Natural Armor",
   "rarity": "Common",
-  "reqs": "armor_conserver := 135s TTL",
+  "reqs": "135s TTL",
   "additional_info": "Does not affect Natural Armor from Exoskeleton and Chitin.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

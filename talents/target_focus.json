@@ -2,7 +2,10 @@
   "name": "Target Focus",
   "category": "Dread Imperium",
   "rarity": "Faction",
-  "reqs": "authority_ensign => target_focus := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

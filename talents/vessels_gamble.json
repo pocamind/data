@@ -2,7 +2,10 @@
   "name": "Vessel's Gamble",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "corrupted_vessels_boots => vessels_gamble := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:corrupted_vessels_boots"
+  ],
   "additional_info": "Though this Talent is actively detrimental to the user, the Corrupted Vessel's Boots +20 Posture offsets the downside.",
   "count_towards_talent_total": false,
   "icon": "Boots",

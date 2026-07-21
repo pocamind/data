@@ -16,7 +16,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "blindfold := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A tightly wound blindfold to hide the horrors of the world from your waking eyes.",
   "voi_only": false

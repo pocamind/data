@@ -2,7 +2,10 @@
   "name": "Inky Pearls",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "dark_pearls => inky_pearls := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:dark_pearls"
+  ],
   "additional_info": "Turns your Vent black and makes it drain 47.5 Ether on hit. Additionally, your Vent can now proc certain Shadowcast Talents on hit like Sightless Still or Twisted Puppets' Shadowcast burn.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

@@ -12,7 +12,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "expert_practitioners_earrings := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Traditionally worn by erudite masters of the song.",
   "voi_only": true

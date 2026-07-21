@@ -2,7 +2,10 @@
   "name": "Lethal Dose",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "inquisition_light => lethal_dose := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:inquisition_light"
+  ],
   "additional_info": "Doubles the duration of the Hidden Blade poison effect, from 8 seconds to 16.",
   "count_towards_talent_total": false,
   "icon": "Blood",

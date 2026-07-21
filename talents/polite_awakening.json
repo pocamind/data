@@ -2,7 +2,7 @@
   "name": "Polite Awakening",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "polite_awakening := ()",
+  "reqs": "()",
   "count_towards_talent_total": true,
   "icon": "Climb",
   "roll2able": true,

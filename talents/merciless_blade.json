@@ -2,7 +2,10 @@
   "name": "Merciless Blade",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => merciless_blade := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Increases your execution speed by 25%, down to 2.25 seconds from 3 seconds.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "azure_duelist_ring := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Mantras cast immediately after you parry an attack an attack do 20% more damage",
   "voi_only": true

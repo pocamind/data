@@ -2,7 +2,10 @@
   "name": "Smoldering Touch",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ruby_scorch_earrings => smoldering_touch := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:ruby_scorch_earrings"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

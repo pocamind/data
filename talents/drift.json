@@ -2,7 +2,10 @@
   "name": "Drift",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "drifter => drift := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:drifter"
+  ],
   "additional_info": "Your parry is replaced with a low distance dodge if you successfully parry an attack.",
   "count_towards_talent_total": false,
   "icon": "Boots",

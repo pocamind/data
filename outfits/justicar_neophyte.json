@@ -3,7 +3,10 @@
   "shirt_id": "119822033271759",
   "mats": {},
   "name": "Justicar Neophyte",
-  "reqs": "justicar => justicar_neophyte := 30r TTL",
+  "reqs": "30r TTL",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Starter",

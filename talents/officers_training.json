@@ -2,7 +2,10 @@
   "name": "Officer's Training",
   "category": "Dread Imperium",
   "rarity": "Faction",
-  "reqs": "authority_ensign => officers_training := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

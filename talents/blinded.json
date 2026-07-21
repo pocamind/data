@@ -2,7 +2,10 @@
   "name": "Blinded",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "blindfold => blinded := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:blindfold"
+  ],
   "additional_info": "Makes everything darker and creates fog at long distances. Grants immunity to the Flame Blind and Gaze Mantras.",
   "count_towards_talent_total": false,
   "icon": "Eye",

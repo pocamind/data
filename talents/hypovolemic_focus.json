@@ -2,7 +2,10 @@
   "name": "Hypovolemic Focus",
   "category": "Transitory Vitality",
   "rarity": "Common",
-  "reqs": "sow_and_mend => hypovolemic_focus := 65s BLD",
+  "reqs": "65s BLD",
+  "prereqs": [
+    "talent:sow_and_mend"
+  ],
   "additional_info": "The opponent regains 20% less posture damage from parrying you.",
   "count_towards_talent_total": true,
   "icon": "Blood",

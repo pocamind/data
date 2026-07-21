@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "ten_gallon_bandana := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

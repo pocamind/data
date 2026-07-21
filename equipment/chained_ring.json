@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "chained_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Reduces incoming knockback but removes your ability to Air Dash. Landing an uppercut with Chained Ring now disables your opponents' air dashes for 5 seconds and briefly makes them unable to roll.",
   "voi_only": false

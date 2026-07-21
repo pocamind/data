@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "canticlysm_pendant := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "wiki": "",
   "desc": "...",

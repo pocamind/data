@@ -2,7 +2,7 @@
   "name": "Night Terror",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "night_terror := 100r LHT OR 100r MED OR 100r HVY, 100s SDW",
+  "reqs": "100r LHT OR 100r MED OR 100r HVY, 100s SDW",
   "additional_info": "Also procs on weapon criticals. Despite its description, this Talent immediately applies the Fear status for 1 second with no cooldown (they are not required to run away from you).",
   "count_towards_talent_total": true,
   "icon": "Shadows",

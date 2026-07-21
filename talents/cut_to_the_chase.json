@@ -2,7 +2,7 @@
   "name": "Cut to the Chase",
   "category": "Vigil Swordsman",
   "rarity": "Rare",
-  "reqs": "cut_to_the_chase := 60s AGL",
+  "reqs": "60s AGL",
   "additional_info": "Adds 10 True damage to your Air Counter. The damage bonus will be lessened if you do not meet the Talent's requirements.",
   "count_towards_talent_total": true,
   "icon": "Sword",

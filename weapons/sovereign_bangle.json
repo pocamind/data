@@ -5,7 +5,7 @@
   "damage": 30,
   "posture_damage": 8,
   "range": 6,
-  "reqs": "sovereign_bangle := 30r LHT",
+  "reqs": "30r LHT",
   "damage_types": [
     "Blunt",
     "Wither"

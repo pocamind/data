@@ -2,7 +2,10 @@
   "name": "Battle-Hardened",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "shock_corps_light => battle_hardened := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:shock_corps_light"
+  ],
   "count_towards_talent_total": false,
   "icon": "Climb",
   "roll2able": false,

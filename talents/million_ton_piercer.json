@@ -2,7 +2,11 @@
   "name": "Million Ton Piercer",
   "category": "Rampaging Brute",
   "rarity": "Advanced",
-  "reqs": "shield_breaker, unwavering_resolve => million_ton_piercer := 90s STR",
+  "reqs": "90s STR",
+  "prereqs": [
+    "talent:shield_breaker",
+    "talent:unwavering_resolve"
+  ],
   "additional_info": "Removes both the melee and Mantra PEN cap.",
   "count_towards_talent_total": false,
   "icon": "Fist",

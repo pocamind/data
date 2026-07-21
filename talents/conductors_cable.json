@@ -2,7 +2,10 @@
   "name": "Conductor's Cable",
   "category": "Rending Needle",
   "rarity": "Common",
-  "reqs": "rending_needle_conductor => conductors_cable := 75s MTL",
+  "reqs": "75s MTL",
+  "prereqs": [
+    "talent:rending_needle_conductor"
+  ],
   "additional_info": "Creating a Conductor Rod drains 10% of your opponent's maximum armor.",
   "count_towards_talent_total": true,
   "icon": "Skull",

@@ -3,7 +3,10 @@
   "name": "Union Initiate",
   "pants_id": "7009098395",
   "shirt_id": "7009096659",
-  "reqs": "ignition_delver => union_initiate := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:ignition_delver"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Starter",

@@ -2,7 +2,10 @@
   "name": "Cyclone Blade",
   "category": "Legion Shock Trooper",
   "rarity": "Common",
-  "reqs": "air_pressure => cyclone_blade := 30s AGL, 55s WND",
+  "reqs": "30s AGL, 55s WND",
+  "prereqs": [
+    "talent:air_pressure"
+  ],
   "additional_info": "Lasts for 3 seconds with no cooldown. Phantom Step dashes will also proc this effect. Despite stating \"Light Attack\", this Talent also procs on weapon criticals.",
   "count_towards_talent_total": true,
   "icon": "Wind",

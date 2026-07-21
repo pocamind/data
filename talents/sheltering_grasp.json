@@ -2,7 +2,7 @@
   "name": "Sheltering Grasp",
   "category": "Bloodrender",
   "rarity": "Common",
-  "reqs": "sheltering_grasp := 30s BLD",
+  "reqs": "30s BLD",
   "additional_info": "Halves the blood cost of the Mantra.",
   "count_towards_talent_total": true,
   "icon": "Blood",

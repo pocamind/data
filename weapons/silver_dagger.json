@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 2,
   "range": 6,
-  "reqs": "silver_dagger := 35r LHT",
+  "reqs": "35r LHT",
   "damage_types": [
     "Slash"
   ],

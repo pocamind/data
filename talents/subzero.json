@@ -2,7 +2,10 @@
   "name": "Subzero",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "winter_rifle => subzero := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:winter_rifle"
+  ],
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

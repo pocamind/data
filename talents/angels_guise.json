@@ -2,7 +2,11 @@
   "name": "Angel's Guise",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "hollow_angel_mask, sworn_angel_mask => angels_guise := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:hollow_angel_mask",
+    "equipment:sworn_angel_mask"
+  ],
   "additional_info": "Grants immunity to the Watcher's Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of Hollow Angel(s). Additionally grants unique dialogue with the Watchers.",
   "count_towards_talent_total": false,
   "icon": "Eye",

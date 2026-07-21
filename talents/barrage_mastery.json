@@ -2,7 +2,10 @@
   "name": "Barrage Mastery",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite => barrage_mastery := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:ether_erudite"
+  ],
   "additional_info": "Increases the projectile count of Ether Barrage based on how many stacks of Ether Erudite you have.",
   "count_towards_talent_total": false,
   "icon": "Brain",

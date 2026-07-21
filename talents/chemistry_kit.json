@@ -2,7 +2,7 @@
   "name": "Chemistry Kit",
   "category": "Alchemist",
   "rarity": "Common",
-  "reqs": "chemistry_kit := 25s INT",
+  "reqs": "25s INT",
   "count_towards_talent_total": true,
   "vaulted": false,
   "voi": false,

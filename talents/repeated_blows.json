@@ -2,7 +2,10 @@
   "name": "Repeated Blows",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "reinforced_war_boots => repeated_blows := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:reinforced_war_boots"
+  ],
   "additional_info": "This has no cooldown, theoretically allowing you to infinitely reset the cooldown of your Strength Mantras.",
   "count_towards_talent_total": false,
   "icon": "Fist",

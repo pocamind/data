@@ -2,7 +2,7 @@
   "name": "Heavy Shoulders",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "heavy_shoulders := 55s MTL",
+  "reqs": "55s MTL",
   "additional_info": "Reduces roll distance by 10%.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

@@ -2,7 +2,10 @@
   "name": "Navae's Technique",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "gremor => navaes_technique := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:gremor"
+  ],
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

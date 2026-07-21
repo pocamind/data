@@ -2,7 +2,10 @@
   "name": "Sovereign's Counter",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "inquisitors_greatsword => sovereigns_counter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:inquisitors_greatsword"
+  ],
   "additional_info": "Punishment has its reflected damage output increased by 12.5% additively, meaning at level 5 you can reflect 112.5% of someone's damage on top of the base damage. If the Authority Commander Outfit is equipped, the longevity of the attack window on your Punishment is increased by 3x; from 20 seconds to a full minute. Prediction's active frames are increased slightly. Curse of the Unbidden has its posture restoration increased by 10%, restoring 40% of your posture. Payback has its active counter frames increased by 0.7 seconds.",
   "count_towards_talent_total": false,
   "icon": "Shield",

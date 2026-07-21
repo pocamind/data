@@ -2,7 +2,7 @@
   "name": "Hungry Flames",
   "category": "Pyromancer",
   "rarity": "Common",
-  "reqs": "hungry_flames := 30s FLM, 15s FTD",
+  "reqs": "30s FLM, 15s FTD",
   "count_towards_talent_total": false,
   "icon": "Teeth",
   "roll2able": false,

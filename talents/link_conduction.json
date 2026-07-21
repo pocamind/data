@@ -2,7 +2,10 @@
   "name": "Link Conduction",
   "category": "Static Weaver",
   "rarity": "Common",
-  "reqs": "static_link => link_conduction := 65s LTN",
+  "reqs": "65s LTN",
+  "prereqs": [
+    "talent:static_link"
+  ],
   "additional_info": "Each active Link reduces the Ether cost of your Thundercall Mantras by 30%.",
   "count_towards_talent_total": true,
   "icon": "Shock",

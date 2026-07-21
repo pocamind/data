@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "divine_cast_ring := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Your mantras always cost your entire ether bar but do 3x damage.",
   "voi_only": true

@@ -2,7 +2,7 @@
   "name": "Replenishing Knockout",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "replenishing_knockout := 60s TTL",
+  "reqs": "60s TTL",
   "additional_info": "Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).",
   "count_towards_talent_total": true,
   "icon": "Climb",

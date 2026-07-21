@@ -2,7 +2,10 @@
   "name": "Gale Trap",
   "category": "Aeromancer",
   "rarity": "Common",
-  "reqs": "wind_step => gale_trap := 50s WND",
+  "reqs": "50s WND",
+  "prereqs": [
+    "talent:wind_step"
+  ],
   "additional_info": "Marks players knocked by you for 6s with \"Gale Trap\". If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds. But if anyone else attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies. Gale Reflection activates upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.",
   "count_towards_talent_total": true,
   "icon": "Wind",

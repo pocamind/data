@@ -2,7 +2,7 @@
   "name": "Keen Recovery",
   "category": "Ether Endeavours",
   "rarity": "Common",
-  "reqs": "keen_recovery := 55s INT",
+  "reqs": "55s INT",
   "additional_info": "If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.",
   "count_towards_talent_total": true,
   "icon": "Brain",

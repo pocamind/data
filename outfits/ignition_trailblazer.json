@@ -6,7 +6,7 @@
     "Iron": 1
   },
   "name": "Ignition Trailblazer",
-  "reqs": "ignition_trailblazer := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 30,
   "talent": "Perseverance, Strong Stern",
   "category": "Expert",

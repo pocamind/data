@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "golden_cape := 90 ttl",
+  "reqs": "90 ttl",
   "voi": false,
   "desc": "..."
 }

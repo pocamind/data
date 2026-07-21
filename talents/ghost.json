@@ -2,7 +2,12 @@
   "name": "Ghost",
   "category": "Butterfly",
   "rarity": "Advanced",
-  "reqs": "evasive_expert, risky_moves, swift_rebound => ghost := 40s AGL",
+  "reqs": "40s AGL",
+  "prereqs": [
+    "talent:evasive_expert",
+    "talent:risky_moves",
+    "talent:swift_rebound"
+  ],
   "additional_info": "The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility. Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.866 seconds at 15 Agility. 20 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Cloak",

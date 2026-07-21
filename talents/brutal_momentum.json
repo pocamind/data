@@ -2,7 +2,7 @@
   "name": "Brutal Momentum",
   "category": "Weapon Master",
   "rarity": "Common",
-  "reqs": "brutal_momentum := 50s HVY",
+  "reqs": "50s HVY",
   "count_towards_talent_total": false,
   "icon": "Greatsword",
   "roll2able": false,

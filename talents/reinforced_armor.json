@@ -2,12 +2,20 @@
   "name": "Reinforced Armor",
   "category": "Bastion",
   "rarity": "Advanced",
-  "reqs": "battle_tendency, braced_collapse, moving_fortress, perseverance => reinforced_armor := 90s FTD",
+  "reqs": "90s FTD",
+  "prereqs": [
+    "talent:battle_tendency",
+    "talent:braced_collapse",
+    "talent:moving_fortress",
+    "talent:perseverance"
+  ],
   "additional_info": "Loses 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.",
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": true,
-  "stats": { "Pen Resistance": "max(30 - 0.8 * max(90 - FTD, 0), 10)" },
+  "stats": {
+    "Pen Resistance": "max(30 - 0.8 * max(90 - FTD, 0), 10)"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Incoming PEN is reduced by 30%.",

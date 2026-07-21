@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "evengardes_keepsake := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Gain 'chain of perfection'",
   "voi_only": true

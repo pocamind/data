@@ -2,7 +2,10 @@
   "name": "Flanking Maneuvers",
   "category": "Inquisitive Lethality",
   "rarity": "Faction",
-  "reqs": "authority_ensign => flanking_maneuvers := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

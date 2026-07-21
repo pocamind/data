@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "beast_burrow := ()",
+  "reqs": "()",
   "shared_cooldowns": [
     "Shade Step",
     "Sanguine Dive"

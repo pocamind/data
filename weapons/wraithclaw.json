@@ -5,7 +5,7 @@
   "damage": 15.5,
   "posture_damage": 5,
   "range": 6.5,
-  "reqs": "wraithclaw := 40r LHT, 75r WND",
+  "reqs": "40r LHT, 75r WND",
   "damage_types": [
     "Slash",
     "Galebreathe"

@@ -2,7 +2,7 @@
   "name": "Oath: Oathless",
   "category": "Oathless",
   "rarity": "Oath",
-  "reqs": "oath_oathless := ()",
+  "reqs": "()",
   "additional_info": "Notably, the Oath Armor given by this Talent is affected by PEN and will be nullified if you run out of armor durability. Additionally, due to how resistances work, Oath attacks that have dual damage typings will ignore your Oath armor.",
   "count_towards_talent_total": false,
   "icon": "Oathless",

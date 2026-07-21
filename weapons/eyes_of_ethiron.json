@@ -5,7 +5,7 @@
   "damage": 16.5,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "eyes_of_ethiron := 40r MED, 40r WND, 40r SDW",
+  "reqs": "40r MED, 40r WND, 40r SDW",
   "damage_types": [
     "Slash"
   ],

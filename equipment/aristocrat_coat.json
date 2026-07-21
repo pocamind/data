@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "aristocrat_coat := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure.",
   "voi_only": false

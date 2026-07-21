@@ -2,7 +2,10 @@
   "name": "Rising Star",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => rising_star := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "12s CD per weapon type, 4s CD if feinted. Procs all \"on Uppercut\" Talents. Movesets differ depending on weapon type.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

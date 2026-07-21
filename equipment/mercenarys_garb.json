@@ -18,7 +18,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "mercenarys_garb := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

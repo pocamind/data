@@ -8,7 +8,7 @@
     "Wind Gem": 1
   },
   "name": "Windrunner Robes",
-  "reqs": "windrunner_robes := 240r TTL, 10r AGL",
+  "reqs": "240r TTL, 10r AGL",
   "notes": 1000,
   "talent": "Wind Dancer",
   "category": "Master",

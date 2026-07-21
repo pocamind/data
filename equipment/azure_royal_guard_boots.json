@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "azure_royal_guard_boots := 75 ttl",
+  "reqs": "75 ttl",
   "voi": false,
   "desc": "..."
 }

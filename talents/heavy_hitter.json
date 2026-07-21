@@ -2,7 +2,7 @@
   "name": "Heavy Hitter",
   "category": "Colossus",
   "rarity": "Common",
-  "reqs": "heavy_hitter := 25s HVY, 15s STR",
+  "reqs": "25s HVY, 15s STR",
   "count_towards_talent_total": true,
   "icon": "Greatsword",
   "roll2able": true,

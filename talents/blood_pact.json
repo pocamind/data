@@ -2,7 +2,10 @@
   "name": "Blood Pact",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "trueblood_pendant => blood_pact := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:trueblood_pendant"
+  ],
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,

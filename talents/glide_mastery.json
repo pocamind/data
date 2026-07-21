@@ -2,7 +2,10 @@
   "name": "Glide Mastery",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "tiran => glide_mastery := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:tiran"
+  ],
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

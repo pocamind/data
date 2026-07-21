@@ -2,7 +2,7 @@
   "name": "Endurance Runner",
   "category": "Alley Cat",
   "rarity": "Common",
-  "reqs": "endurance_runner := 25s AGL, 25s FTD",
+  "reqs": "25s AGL, 25s FTD",
   "count_towards_talent_total": true,
   "icon": "Boots",
   "roll2able": true,

@@ -2,7 +2,10 @@
   "name": "True Drifter",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "drifter => true_drifter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:drifter"
+  ],
   "additional_info": "Anytime you would have gained 1 Cutting Pace stack, gain 2 instead. You can now consume Cutting Pace stacks to use Blinkstep without being at 90% or more Ether.",
   "count_towards_talent_total": false,
   "icon": "Boots",

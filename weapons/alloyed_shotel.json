@@ -5,7 +5,7 @@
   "damage": 2,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "alloyed_shotel := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

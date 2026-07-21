@@ -6,7 +6,7 @@
     "Lionfish Scale": 1
   },
   "name": "Ignition Union Uniform",
-  "reqs": "ignition_union_uniform := 105r TTL",
+  "reqs": "105r TTL",
   "notes": 0,
   "talent": null,
   "category": "Adept",

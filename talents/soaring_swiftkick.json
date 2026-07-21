@@ -2,7 +2,11 @@
   "name": "Soaring Swiftkick",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "flying_swiftkick, justicar => soaring_swiftkick := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar",
+    "talent:flying_swiftkick"
+  ],
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

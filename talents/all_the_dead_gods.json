@@ -2,7 +2,7 @@
   "name": "All the Dead Gods",
   "category": "Heretic",
   "rarity": "Rare",
-  "reqs": "all_the_dead_gods := 65s WLL, 40s INT",
+  "reqs": "65s WLL, 40s INT",
   "additional_info": "Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds. Your anti-heal potency scales on your Willpower + Intelligence investment, only having 100% anti-heal if your Intelligence and Willpower attributes add up to at least 105.",
   "count_towards_talent_total": true,
   "icon": "Eye",

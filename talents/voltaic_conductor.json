@@ -2,7 +2,10 @@
   "name": "Voltaic Conductor",
   "category": "Super Conductor",
   "rarity": "Common",
-  "reqs": "rending_needle_conductor => voltaic_conductor := 40s LTN, 75s MTL",
+  "reqs": "40s LTN, 75s MTL",
+  "prereqs": [
+    "talent:rending_needle_conductor"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

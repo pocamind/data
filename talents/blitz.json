@@ -2,7 +2,11 @@
   "name": "Blitz",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "forgotten_gladius, kindred_edict => blitz := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:forgotten_gladius",
+    "weapon:kindred_edict"
+  ],
   "additional_info": "Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).",
   "count_towards_talent_total": false,
   "icon": "Sword",

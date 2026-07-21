@@ -2,7 +2,10 @@
   "name": "Empowered Eruption",
   "category": "Lava Serpent",
   "rarity": "Common",
-  "reqs": "eruption_path_lava_serpent => empowered_eruption := 50s FLM",
+  "reqs": "50s FLM",
+  "prereqs": [
+    "talent:eruption_path_lava_serpent"
+  ],
   "count_towards_talent_total": true,
   "icon": "Explosion",
   "roll2able": true,

@@ -5,7 +5,7 @@
   "damage": 30,
   "posture_damage": 14,
   "range": 11,
-  "reqs": "ebonshard_lexicon := 200r HVY, 150r STR",
+  "reqs": "200r HVY, 150r STR",
   "damage_types": [
     "Slash"
   ],

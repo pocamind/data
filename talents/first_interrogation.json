@@ -2,7 +2,10 @@
   "name": "First Interrogation",
   "category": "Authority Interrogator",
   "rarity": "Common",
-  "reqs": "resolve_crusher => first_interrogation := 65s LTN",
+  "reqs": "65s LTN",
+  "prereqs": [
+    "talent:resolve_crusher"
+  ],
   "additional_info": "Only procs on weapon attacks from Electrified opponents. Ether given is half of their scaled damage.",
   "count_towards_talent_total": true,
   "icon": "Shock",

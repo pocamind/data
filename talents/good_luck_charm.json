@@ -2,7 +2,10 @@
   "name": "Good Luck Charm",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "jadeite_megalodaunt => good_luck_charm := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:jadeite_megalodaunt"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

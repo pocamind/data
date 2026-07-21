@@ -2,7 +2,7 @@
   "name": "Going Nowhere",
   "category": "Pursuer",
   "rarity": "Rare",
-  "reqs": "going_nowhere := 25s STR, 25s AGL",
+  "reqs": "25s STR, 25s AGL",
   "count_towards_talent_total": true,
   "icon": "Teeth",
   "roll2able": false,

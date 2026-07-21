@@ -2,7 +2,7 @@
   "name": "Celebrity",
   "category": "Public Figure",
   "rarity": "Common",
-  "reqs": "celebrity := 40s CHA",
+  "reqs": "40s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

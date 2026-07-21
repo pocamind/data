@@ -2,7 +2,7 @@
   "name": "Breathing Impact",
   "category": "Galeforce",
   "rarity": "Common",
-  "reqs": "breathing_impact := 30s WND",
+  "reqs": "30s WND",
   "additional_info": "The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.",
   "count_towards_talent_total": true,
   "icon": "Wind",

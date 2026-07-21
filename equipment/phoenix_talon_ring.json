@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "phoenix_talon_ring := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Gain 15 temporary HP when you land an aerial attack on an attacking opponent.",
   "voi_only": true

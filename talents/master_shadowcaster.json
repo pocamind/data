@@ -2,7 +2,10 @@
   "name": "Master Shadowcaster",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "expert_shadowcaster => master_shadowcaster := 50s SDW",
+  "reqs": "50s SDW",
+  "prereqs": [
+    "talent:expert_shadowcaster"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

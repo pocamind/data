@@ -15,7 +15,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "shock_trooper_helmet := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story.",
   "voi_only": false

@@ -21,7 +21,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "grand_authority_sallet := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

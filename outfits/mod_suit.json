@@ -3,7 +3,7 @@
   "shirt_id": "15563656322",
   "mats": {},
   "name": "Mod Suit",
-  "reqs": "mod_suit := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": null,
   "category": "Spec",

@@ -2,7 +2,10 @@
   "name": "All-Seeing Eye",
   "category": "Blindseer",
   "rarity": "Oath",
-  "reqs": "oath_blindseer => all_seeing_eye := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_blindseer"
+  ],
   "additional_info": "Invisible players, including yourself, and monsters are revealed by a Blindseer Eye icon showcasing their current position.",
   "count_towards_talent_total": false,
   "icon": "Blindseer",

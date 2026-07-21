@@ -2,7 +2,10 @@
   "name": "Ultrakill",
   "category": "Outlaw",
   "rarity": "Common",
-  "reqs": "rapid_fire => ultrakill := 55s LHT",
+  "reqs": "55s LHT",
+  "prereqs": [
+    "talent:rapid_fire"
+  ],
   "count_towards_talent_total": true,
   "icon": "Explosion",
   "roll2able": true,

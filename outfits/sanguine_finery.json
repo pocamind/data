@@ -7,7 +7,7 @@
     "Vibrant Gem": 5
   },
   "name": "Sanguine Finery",
-  "reqs": "sanguine_finery := 240r TTL, 45r BLD",
+  "reqs": "240r TTL, 45r BLD",
   "notes": 1000,
   "talent": "Focused Hematoma, Sheltering Grasp",
   "category": "Unique",

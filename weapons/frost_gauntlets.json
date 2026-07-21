@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 5,
   "range": 7,
-  "reqs": "frost_gauntlets := 30r LHT",
+  "reqs": "30r LHT",
   "damage_types": [
     "Blunt",
     "Frostdraw"

@@ -2,7 +2,10 @@
   "name": "Heart Reverb",
   "category": "Soulbreaker",
   "rarity": "Oath",
-  "reqs": "oath_soulbreaker => heart_reverb := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_soulbreaker"
+  ],
   "additional_info": "If someone performs an action within Rhythm's range, they will be highlighted red, even through walls. Rhythm will now stay active after uncrouching, only deactivating if done so manually or if you take damage. If an enemy dodges your attack, their health and posture percentages will be displayed in text next to their character briefly.",
   "count_towards_talent_total": false,
   "icon": "Soulbreaker",

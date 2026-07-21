@@ -2,7 +2,7 @@
   "name": "Conditioned Swimmer",
   "category": "Waterbone",
   "rarity": "Common",
-  "reqs": "conditioned_swimmer := ()",
+  "reqs": "()",
   "count_towards_talent_total": true,
   "icon": "Lungs",
   "roll2able": true,

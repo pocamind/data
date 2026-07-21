@@ -2,7 +2,7 @@
   "name": "Sorcerer's Surge",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "sorcerers_mantle => sorcerers_surge := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

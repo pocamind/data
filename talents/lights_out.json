@@ -2,7 +2,7 @@
   "name": "Lights Out",
   "category": "Assassin",
   "rarity": "Common",
-  "reqs": "lights_out := 55s AGL",
+  "reqs": "55s AGL",
   "count_towards_talent_total": true,
   "icon": "Assassin",
   "roll2able": true,

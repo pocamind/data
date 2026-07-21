@@ -2,7 +2,7 @@
   "name": "Rogue Assassin",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "rogue_assassin := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Daggers",
   "roll2able": false,

@@ -5,7 +5,7 @@
   "damage": 19.5,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "stormseye := 40r MED, 75r LTN",
+  "reqs": "40r MED, 75r LTN",
   "damage_types": [
     "Slash"
   ],

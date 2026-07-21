@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 3.5,
   "range": 11,
-  "reqs": "dragoon := 65r LHT",
+  "reqs": "65r LHT",
   "damage_types": [
     "Blunt"
   ],

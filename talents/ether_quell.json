@@ -2,7 +2,10 @@
   "name": "Ether Quell",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite => ether_quell := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:ether_erudite"
+  ],
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

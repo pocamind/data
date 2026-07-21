@@ -18,7 +18,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "chefs_toque := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "It's not raw, you are.",
   "voi_only": false

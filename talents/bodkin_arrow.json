@@ -2,7 +2,7 @@
   "name": "Bodkin Arrow",
   "category": "Greatarcher",
   "rarity": "Rare",
-  "reqs": "bodkin_arrow := 55s STR",
+  "reqs": "55s STR",
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": false,

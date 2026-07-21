@@ -2,7 +2,10 @@
   "name": "Silent Cascade",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => silent_cascade := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Landing 8 weapon attacks or Silentheart abilities grants the Silent Cascade status effect, allowing you to use the Silent Cascade attack. This effect lasts 30 seconds or until you use Silent Cascade. Deals 7.5 Oath damage per hit (6).",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

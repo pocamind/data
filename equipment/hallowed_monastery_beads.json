@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "hallowed_monastery_beads := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

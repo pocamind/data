@@ -3,7 +3,7 @@
   "shirt_id": "11117080267",
   "mats": {},
   "name": "Auroran Gremor",
-  "reqs": "auroran_gremor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 0,
   "talent": "Frozone",
   "category": "Spec",

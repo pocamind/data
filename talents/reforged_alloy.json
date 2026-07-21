@@ -2,7 +2,7 @@
   "name": "Reforged Alloy",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "reforged_alloy := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",
   "roll2able": false,

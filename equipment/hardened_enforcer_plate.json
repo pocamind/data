@@ -16,7 +16,7 @@
     }
   },
   "pips": {},
-  "reqs": "hardened_enforcer_plate := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

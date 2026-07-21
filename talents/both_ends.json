@@ -2,7 +2,13 @@
   "name": "Both Ends",
   "category": "Vanguard Arts",
   "rarity": "Weapon",
-  "reqs": "duskpole, imperial_staff, sancticar, wooden_staff => both_ends := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:duskpole",
+    "weapon:imperial_staff",
+    "weapon:sancticar",
+    "weapon:wooden_staff"
+  ],
   "additional_info": "The followup attack has fast swing speed, but it only deals 45% of your weapon damage.",
   "count_towards_talent_total": false,
   "roll2able": false,

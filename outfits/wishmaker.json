@@ -3,7 +3,7 @@
   "shirt_id": null,
   "mats": {},
   "name": "Wishmaker",
-  "reqs": "wishmaker := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Crippling Darkness",
   "category": "Spec",

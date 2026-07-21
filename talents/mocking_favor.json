@@ -2,7 +2,10 @@
   "name": "Mocking Favor",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "jesters_grab, tricksters_habit => mocking_favor := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:jesters_garb | outfit:tricksters_habit"
+  ],
   "additional_info": "Grants a random buff or affliction from a set list whenever you spit or use an emote.",
   "count_towards_talent_total": false,
   "icon": "Visionshaper",

@@ -2,7 +2,11 @@
   "name": "Spinal Shatter",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "alloyed_crescent_cleaver, crescent_cleaver => spinal_shatter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:alloyed_crescent_cleaver",
+    "weapon:crescent_cleaver"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

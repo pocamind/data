@@ -5,7 +5,7 @@
   "damage": 22.5,
   "posture_damage": 6,
   "range": 8,
-  "reqs": "alloyed_cavalry_saber := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

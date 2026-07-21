@@ -25,7 +25,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "first_ranger_duster := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

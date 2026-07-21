@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "purifying_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A silver ring that eradicates the murk in the water surrounding it.",
   "voi_only": false

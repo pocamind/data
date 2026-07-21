@@ -2,7 +2,10 @@
   "name": "Max Ammo",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "summer_hullwrecker => max_ammo := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:summer_hullwreaker"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

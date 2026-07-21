@@ -2,7 +2,7 @@
   "name": "Fast Blade",
   "category": "Nimble Blade",
   "rarity": "Common",
-  "reqs": "fast_blade := 20s AGL",
+  "reqs": "20s AGL",
   "additional_info": "Increases the speed boost duration from parrying by 3 seconds.",
   "count_towards_talent_total": true,
   "icon": "Boots",

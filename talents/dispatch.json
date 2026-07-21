@@ -2,7 +2,10 @@
   "name": "Dispatch",
   "category": "Hammer Rage",
   "rarity": "Common",
-  "reqs": "bear_trap => dispatch := 55s MED",
+  "reqs": "55s MED",
+  "prereqs": [
+    "talent:bear_trap"
+  ],
   "count_towards_talent_total": true,
   "icon": "Bullet",
   "roll2able": true,

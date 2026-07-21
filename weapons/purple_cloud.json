@@ -5,7 +5,7 @@
   "damage": 16.5,
   "posture_damage": 5,
   "range": 6.5,
-  "reqs": "purple_cloud := 85r MED",
+  "reqs": "85r MED",
   "damage_types": [
     "Blunt"
   ],

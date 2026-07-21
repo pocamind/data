@@ -2,7 +2,7 @@
   "name": "Lightweight",
   "category": "Natural Armor",
   "rarity": "Common",
-  "reqs": "lightweight := ()",
+  "reqs": "()",
   "additional_info": "Grants a +25% movement speed buff. This is not a speed boost, meaning it won't proc any speed boost-reliant Talents.",
   "count_towards_talent_total": true,
   "icon": "Boots",

@@ -2,7 +2,10 @@
   "name": "Undying Flame",
   "category": "Undying Ember",
   "rarity": "Rare",
-  "reqs": "graceful_flame => undying_flame := 40s WLL, 40s FLM",
+  "reqs": "40s WLL, 40s FLM",
+  "prereqs": [
+    "mantra:graceful_flame"
+  ],
   "additional_info": "Graceful Flame can be casted in the First Layer. It cannot be used in the Diluvian Mechanism or Depths Trials, however. Graceful Flame passively restores sanity and health to those around it.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

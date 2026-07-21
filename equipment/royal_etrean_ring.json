@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "royal_etrean_ring := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "One handing a sword while wearing this ring turns your Critical Attack into the Twincleave mantra.",
   "voi_only": true

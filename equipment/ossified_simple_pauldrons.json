@@ -21,7 +21,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "ossified_simple_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Either they're of low complexity or someone's in need of a punch.",
   "voi_only": false

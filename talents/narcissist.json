@@ -2,7 +2,10 @@
   "name": "Narcissist",
   "category": "Toxic Personality",
   "rarity": "Common",
-  "reqs": "charismatic_cast => narcissist := 60s CHA",
+  "reqs": "60s CHA",
+  "prereqs": [
+    "talent:charismatic_cast"
+  ],
   "additional_info": "Overcharms yourself for 4 seconds. Charms yourself for 8 seconds, halved to 4 seconds if you have Disbelief.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

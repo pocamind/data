@@ -2,7 +2,10 @@
   "name": "Ebb and Flow",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "wyrmtooth => ebb_and_flow := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:wyrmtooth"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

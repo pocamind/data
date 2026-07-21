@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 8.5,
   "range": 9,
-  "reqs": "crypt_blade := 40r HVY, 75r SDW",
+  "reqs": "40r HVY, 75r SDW",
   "damage_types": [
     "Slash",
     "Shadowcast"

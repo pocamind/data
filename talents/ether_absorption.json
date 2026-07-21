@@ -2,7 +2,7 @@
   "name": "Ether Absorption",
   "category": "Ether Conduit",
   "rarity": "Common",
-  "reqs": "ether_absorption := 15s INT",
+  "reqs": "15s INT",
   "count_towards_talent_total": true,
   "icon": "Brain",
   "roll2able": true,

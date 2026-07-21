@@ -2,7 +2,7 @@
   "name": "Cryonis",
   "category": "Ice Age",
   "rarity": "Common",
-  "reqs": "cryonis := 40s ICE",
+  "reqs": "40s ICE",
   "additional_info": "Reduces the Ether cost of Frostdraw Mantras by 40% when standing on ice.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

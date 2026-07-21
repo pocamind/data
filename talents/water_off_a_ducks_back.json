@@ -2,7 +2,7 @@
   "name": "Water off a Duck's Back",
   "category": "Tactician",
   "rarity": "Common",
-  "reqs": "water_off_a_ducks_back := 50s INT",
+  "reqs": "50s INT",
   "additional_info": "Transfers Suffocation, Winded, Chill, Shock, Burn, and potion effects from yourself to your enemy on vent.",
   "count_towards_talent_total": true,
   "icon": "Brain",

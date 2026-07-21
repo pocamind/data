@@ -2,7 +2,10 @@
   "name": "Aromatic Salts",
   "category": "Saltchemist",
   "rarity": "Oath",
-  "reqs": "oath_saltchemist => aromatic_salts := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saltchemist"
+  ],
   "additional_info": "Gives you a Talent tool-like ability that acts as a potion ingredient on use. This changes your thrown potions to a lingering cloud that lasts for 10 seconds, applying the potion's effects on each hit.",
   "count_towards_talent_total": false,
   "icon": "Saltchemist",

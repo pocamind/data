@@ -2,7 +2,10 @@
   "name": "Mudskipper Gripper",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "coral_cestus => mudskipper_gripper := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:coral_cestus"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

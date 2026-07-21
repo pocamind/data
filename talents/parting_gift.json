@@ -2,7 +2,7 @@
   "name": "Parting Gift",
   "category": "Gunslinger",
   "rarity": "Common",
-  "reqs": "parting_gift := 75s LHT",
+  "reqs": "75s LHT",
   "additional_info": "On proc, all dual gun M1s within the next 5 seconds have projectiles.",
   "count_towards_talent_total": true,
   "icon": "Bullet",

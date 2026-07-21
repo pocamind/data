@@ -2,7 +2,10 @@
   "name": "Crystal Shrapnel",
   "category": "Glassdancer",
   "rarity": "Common",
-  "reqs": "glass_path_crystallization => crystal_shrapnel := 60s ICE",
+  "reqs": "60s ICE",
+  "prereqs": [
+    "talent:glass_path_crystallization"
+  ],
   "additional_info": "Does not hit allies or the target you procced the Crystal explosion on. Scales off Frostdraw investment and amount of crystals present.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

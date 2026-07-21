@@ -2,7 +2,10 @@
   "name": "Arc Module: Dash",
   "category": "Arcwarder",
   "rarity": "Oath",
-  "reqs": "oath_arcwarder => arc_module_dash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_arcwarder"
+  ],
   "additional_info": "Jet dashes go much further than regular dashes. Also allows the user to M1 while performing a dash, ending their dash early.",
   "count_towards_talent_total": false,
   "icon": "Arcwarder",

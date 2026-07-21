@@ -16,7 +16,7 @@
     "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "aspirant_mask := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

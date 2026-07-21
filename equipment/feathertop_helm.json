@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "feathertop_helm := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

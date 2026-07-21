@@ -2,7 +2,10 @@
   "name": "Already Dead",
   "category": "Ministry Prophet",
   "rarity": "Equipment",
-  "reqs": "deepscorn_casque => already_dead := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:deepscorn_casque"
+  ],
   "additional_info": "Removes the self damage from Deepspindle's running critical. Reduces the self damage from Shade Devour, Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, Electrify, and 'Poison' Corrupt Resonance downside. Reduces the self Wither gain from Symbiotic Link and the 'Wither' Corrupt Resonance downside.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

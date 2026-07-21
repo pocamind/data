@@ -10,7 +10,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "western_outlaw_mask := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength.",
   "voi_only": false

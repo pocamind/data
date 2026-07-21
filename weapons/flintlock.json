@@ -5,7 +5,7 @@
   "damage": 11,
   "posture_damage": 1,
   "range": 10,
-  "reqs": "flintlock := 20r LHT",
+  "reqs": "20r LHT",
   "damage_types": [
     "Blunt"
   ],

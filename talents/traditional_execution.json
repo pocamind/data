@@ -2,7 +2,10 @@
   "name": "Traditional Execution",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "etrean_sashimono => traditional_execution := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:etrean_sashimono"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

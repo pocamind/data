@@ -2,7 +2,7 @@
   "name": "Experienced Healer",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "cultist_cowl => experienced_healer := ()",
+  "reqs": "()",
   "additional_info": "10 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Shield",

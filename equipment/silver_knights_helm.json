@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "silver_knights_helm := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

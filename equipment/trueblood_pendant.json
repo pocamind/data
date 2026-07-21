@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "trueblood_pendant := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

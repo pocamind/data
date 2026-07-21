@@ -3,7 +3,7 @@
   "name": "Strange Merchant",
   "pants_id": "13408530143",
   "shirt_id": "13449442464",
-  "reqs": "strange_merchant := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": null,
   "category": "Unique",

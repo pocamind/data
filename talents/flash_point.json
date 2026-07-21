@@ -2,7 +2,10 @@
   "name": "Flash Point",
   "category": "Lava Serpent",
   "rarity": "Common",
-  "reqs": "eruption_path_lava_serpent => flash_point := 55s FLM",
+  "reqs": "55s FLM",
+  "prereqs": [
+    "talent:eruption_path_lava_serpent"
+  ],
   "additional_info": "45 second cooldown on the Empowered Eruption effect.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

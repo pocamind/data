@@ -2,7 +2,10 @@
   "name": "Whistleguard",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "whistling_periapt => whistleguard := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:whistling_periapt"
+  ],
   "additional_info": "The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds. The shield will be dispelled early if you get hit (proccing the shield), cast a Mantra, feint an attack, or use a critical attack.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

@@ -7,7 +7,7 @@
     "Lionfish Scale": 1
   },
   "name": "Pathfinder Arch-Sorcerer",
-  "reqs": "pathfinder_arch_sorcerer := 165r TTL, 25r INT",
+  "reqs": "165r TTL, 25r INT",
   "notes": 100,
   "talent": "Devastating Power",
   "category": "Expert",

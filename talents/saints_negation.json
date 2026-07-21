@@ -2,7 +2,10 @@
   "name": "Saint's Negation",
   "category": "Saintsworn",
   "rarity": "Oath",
-  "reqs": "oath_saintsworn => saints_negation := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saintsworn"
+  ],
   "additional_info": "Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance. Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc it again.",
   "count_towards_talent_total": false,
   "icon": "Saintsworn",

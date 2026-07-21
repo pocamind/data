@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "dawnfists_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Gives every weapon 1.2 strength scaling when equipped.",
   "voi_only": false

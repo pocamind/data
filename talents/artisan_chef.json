@@ -2,7 +2,7 @@
   "name": "Artisan Chef",
   "category": "Tavernkeep",
   "rarity": "Common",
-  "reqs": "artisan_chef := 25s INT, 15s CHA",
+  "reqs": "25s INT, 15s CHA",
   "additional_info": "Increases food nutritional value by 25%. Increases the healing gained from using Fondant Splitter's critical.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

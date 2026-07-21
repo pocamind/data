@@ -2,7 +2,10 @@
   "name": "Conquer your Fears",
   "category": "Mental Fortress",
   "rarity": "Common",
-  "reqs": "breathing_exercise => conquer_your_fears := 10s WLL",
+  "reqs": "10s WLL",
+  "prereqs": [
+    "talent:breathing_exercise"
+  ],
   "additional_info": "Recover Sanity when killing monsters in the Depths, with the Sanity restored depending on how strong the monster is. Gain Sanity whenever a nearby ally executes a humanoid target.",
   "count_towards_talent_total": true,
   "icon": "Eye",

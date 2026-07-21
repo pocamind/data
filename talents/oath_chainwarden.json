@@ -2,7 +2,7 @@
   "name": "Oath: Chainwarden",
   "category": "Chainwarden",
   "rarity": "Oath",
-  "reqs": "oath_chainwarden := STR + FTD + WLL = 40r",
+  "reqs": "STR + FTD + WLL = 40r",
   "count_towards_talent_total": false,
   "icon": "Chainwarden",
   "roll2able": false,

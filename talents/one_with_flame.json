@@ -2,7 +2,10 @@
   "name": "One With Flame",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "flame_worshipper => one_with_flame := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flame_worshipper"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

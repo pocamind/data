@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "ring_of_wisps := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "These essence of the soul gathers around the gemstone of this ring, granting additional strength to bound wisps.",
   "voi_only": false

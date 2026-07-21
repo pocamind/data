@@ -17,7 +17,7 @@
   "notes": 1000,
   "pants_id": "7787129741",
   "shirt_id": "7787127693",
-  "reqs": "legion_centurion := 240r TTL, 10r FTD",
+  "reqs": "240r TTL, 10r FTD",
   "resistances": {
     "Physical Resistance": 30,
     "Elemental Resistance": 30,

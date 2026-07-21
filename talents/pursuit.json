@@ -2,7 +2,10 @@
   "name": "Pursuit",
   "category": "Trickster",
   "rarity": "Common",
-  "reqs": "revenge => pursuit := 90s AGL",
+  "reqs": "90s AGL",
+  "prereqs": [
+    "mantra:revenge"
+  ],
   "additional_info": "Procs even if Revenge is blocked, parried, dodged, or vented. For every point in Agility below 90, Pursuit will gain +0.375 seconds to its cooldown, capping at 29.4 seconds with 65 Agility.",
   "count_towards_talent_total": true,
   "icon": "Sword",

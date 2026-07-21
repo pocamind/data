@@ -2,7 +2,10 @@
   "name": "Fleetfoot",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "carefree_garments => fleetfoot := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:carefree_garments"
+  ],
   "additional_info": "After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.",
   "count_towards_talent_total": false,
   "icon": "Boots",

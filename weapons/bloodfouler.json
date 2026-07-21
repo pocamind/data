@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 8.5,
   "range": 9.5,
-  "reqs": "bloodfouler := 50r HVY, 75r BLD",
+  "reqs": "50r HVY, 75r BLD",
   "damage_types": [
     "Slash",
     "Bloodrend",

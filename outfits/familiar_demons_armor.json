@@ -7,7 +7,7 @@
   "name": "Familiar Demon's Armor",
   "pants_id": "708342460",
   "shirt_id": "9727632807",
-  "reqs": "familiar_demons_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 15000,
   "talent": "Demon Step",
   "category": "Unique",

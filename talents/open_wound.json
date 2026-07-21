@@ -2,7 +2,7 @@
   "name": "Open Wound",
   "category": "Quark Doctor",
   "rarity": "Common",
-  "reqs": "open_wound := 40s BLD",
+  "reqs": "40s BLD",
   "count_towards_talent_total": true,
   "icon": "Blood",
   "roll2able": true,

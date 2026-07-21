@@ -5,7 +5,10 @@
   "damage": 19.5,
   "posture_damage": 6,
   "range": 8,
-  "reqs": "justicar => sancticar := 50r MED",
+  "reqs": "50r MED",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,

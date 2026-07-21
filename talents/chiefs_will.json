@@ -2,7 +2,10 @@
   "name": "Chief's Will",
   "category": "Navaen War Chief",
   "rarity": "Outfit",
-  "reqs": "navaen_war_chief => chiefs_will := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:navaen_war_chief"
+  ],
   "additional_info": "Gives M1 attacks and criticals with the M1 tag +10% PEN if you are using the Way of Navae fist style.",
   "count_towards_talent_total": false,
   "icon": "Wind",

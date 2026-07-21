@@ -2,7 +2,7 @@
   "name": "Chain Reaction",
   "category": "Alchemist",
   "rarity": "Common",
-  "reqs": "chain_reaction := 80s INT",
+  "reqs": "80s INT",
   "additional_info": "Procs when a thrown potion replaces a different potion's effect, increasing your potion's effect by 40% multiplicatively.",
   "count_towards_talent_total": true,
   "icon": "Potion",

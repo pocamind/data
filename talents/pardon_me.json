@@ -2,7 +2,7 @@
   "name": "Pardon Me",
   "category": "Politician",
   "rarity": "Common",
-  "reqs": "pardon_me := 85s CHA",
+  "reqs": "85s CHA",
   "additional_info": "Guards will not aggro onto you if you perform a crime in their territory if you have neutral or higher reputation with the faction.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

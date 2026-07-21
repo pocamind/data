@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "moppet := 75r LHT",
+  "reqs": "75r LHT",
   "damage_types": [
     "Blunt"
   ],

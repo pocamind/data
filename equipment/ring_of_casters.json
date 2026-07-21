@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "ring_of_casters := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "Mantra damage increased by 5% but reduces melee damage by 5%.",
   "voi_only": false

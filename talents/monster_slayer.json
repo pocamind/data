@@ -2,7 +2,10 @@
   "name": "Monster Slayer",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "darksteel_cleaver => monster_slayer := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:darksteel_cleaver"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

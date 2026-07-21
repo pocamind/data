@@ -2,7 +2,7 @@
   "name": "Gunslinger's Fury",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "bounty_hunters_boots => gunslingers_fury := ()",
+  "reqs": "()",
   "additional_info": "If your main weapon is a Pistol or a Rifle, and you have an offhand Pistol equipped, your critical will be replaced with the Soulwrought Gun's special attack if used midair.",
   "count_towards_talent_total": false,
   "icon": "Bullet",

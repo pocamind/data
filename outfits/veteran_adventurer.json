@@ -7,7 +7,7 @@
     "Strange Claw": 1
   },
   "name": "Veteran Adventurer",
-  "reqs": "veteran_adventurer := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 100,
   "talent": "Foolish Outburst",
   "category": "Expert",

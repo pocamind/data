@@ -6,7 +6,7 @@
   "name": "Familiar Assassin's Armor",
   "pants_id": "616382369",
   "shirt_id": "616382294",
-  "reqs": "familiar_assassins_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 15000,
   "talent": "Bane",
   "category": "Unique",

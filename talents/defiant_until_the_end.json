@@ -2,7 +2,7 @@
   "name": "Defiant until the End",
   "category": "Limitbreaker",
   "rarity": "Common",
-  "reqs": "defiant_until_the_end := 20s WLL",
+  "reqs": "20s WLL",
   "count_towards_talent_total": true,
   "icon": "Eye",
   "roll2able": true,

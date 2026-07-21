@@ -2,7 +2,10 @@
   "name": "Perpetual Wrath",
   "category": "Chainwarden",
   "rarity": "Oath",
-  "reqs": "oath_chainwarden => perpetual_wrath := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_chainwarden"
+  ],
   "additional_info": "Enchaining targets and hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath. Each stack of Perpetual Wrath increases Restrain's (Mantra) damage by 8, capping out at 4 stacks for +32 damage.",
   "count_towards_talent_total": false,
   "icon": "Chainwarden",

@@ -2,7 +2,11 @@
   "name": "Marked Descent",
   "category": "The Path, Unveiled",
   "rarity": "Faction",
-  "reqs": "justicar, justicars_mark => marked_descent := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar",
+    "talent:justicars_mark"
+  ],
   "additional_info": "Targets the enemy who hit your marked ally, not the marked ally themselves.",
   "count_towards_talent_total": false,
   "icon": "Boots",

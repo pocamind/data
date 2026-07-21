@@ -2,7 +2,7 @@
   "name": "Lowstride",
   "category": "Assassin",
   "rarity": "Common",
-  "reqs": "lowstride := 20s AGL",
+  "reqs": "20s AGL",
   "count_towards_talent_total": true,
   "icon": "Assassin",
   "roll2able": true,
