@@ -2,7 +2,10 @@
   "name": "Analyze",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "armored_sensor_mask => analyze := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:armored_sensor_mask"
+  ],
   "additional_info": "45 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Eye",

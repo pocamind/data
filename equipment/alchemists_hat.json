@@ -12,7 +12,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "alchemists_hat := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

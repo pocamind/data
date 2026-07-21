@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "emotion_wave := 50r LTN",
+  "reqs": "50r LTN",
   "damage": [
     {
       "variant": null,

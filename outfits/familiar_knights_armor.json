@@ -8,7 +8,7 @@
   "name": "Familiar Knight's Armor",
   "pants_id": "665014655",
   "shirt_id": "665014274",
-  "reqs": "familiar_knights_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 5000,
   "talent": "Hyperbody",
   "category": "Unique",

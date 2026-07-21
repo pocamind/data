@@ -2,7 +2,11 @@
   "name": "Sweeping Edge",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "alloyed_vigil_longsword, vigil_longsword => sweeping_edge := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:alloyed_vigil_longsword",
+    "weapon:vigil_longsword"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

@@ -5,7 +5,7 @@
     "Iron": 1
   },
   "name": "Pathfinder Thaumaturge",
-  "reqs": "pathfinder_thaumaturge := 90r TTL, 10r INT",
+  "reqs": "90r TTL, 10r INT",
   "notes": 30,
   "talent": "Lowstride",
   "category": "Adept",

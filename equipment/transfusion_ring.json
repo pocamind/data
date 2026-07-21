@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "transfusion_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Gain extra vitality at the cost of your ability to heal (receive 50% less healing).",
   "voi_only": false

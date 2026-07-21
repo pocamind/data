@@ -15,7 +15,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "smiths_gloves := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

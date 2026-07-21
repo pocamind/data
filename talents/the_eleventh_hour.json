@@ -2,7 +2,7 @@
   "name": "The Eleventh Hour",
   "category": "Limitbreaker",
   "rarity": "Common",
-  "reqs": "the_eleventh_hour := 35s WLL",
+  "reqs": "35s WLL",
   "additional_info": "Lasts 30 seconds with a 90 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Fist",

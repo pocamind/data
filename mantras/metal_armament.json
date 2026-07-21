@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "metal_armament := 50r MTL",
+  "reqs": "50r MTL",
   "damage": [
     {
       "variant": null,

@@ -7,9 +7,16 @@ use std::sync::atomic::Ordering;
 
 use anyhow::Result;
 use deepwoken::data::DeepData;
-use deepwoken::req::Requirement;
+use deepwoken::req::{PrereqGroup, Requirement};
+use deepwoken::util::graph::PrereqGraph;
 use deepwoken::util::name_to_identifier;
 use serde_json::Value;
+
+const NAMESPACES: &[&str] = &[
+    "talent", "mantra", "weapon", "outfit", "equipment", "aspect", "origin", "enchant",
+    "resonance", "objective",
+];
+const EXCLUSIVE: &[&str] = &["origin", "outfit", "aspect"];
 
 fn repo_root() -> PathBuf {
     PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("../..")
@@ -26,15 +33,16 @@ fn read_bundle(name: &str) -> Result<Value> {
 }
 
 fn main() {
-    // Clear previous run
     let path = error_file();
     if path.exists() {
         fs::remove_file(&path).ok();
     }
 
     let bundle = read_bundle("all").expect("failed to read all.json");
+    let data = DeepData::from_json(&bundle.to_string()).expect("bundle is not parsable into DeepData");
+    let graph = data.prereq_graph();
 
-    validate(&bundle);
+    validate(&bundle, &graph);
 
     let errors = check::ERROR_COUNT.load(Ordering::Relaxed);
     if errors > 0 {
@@ -45,24 +53,38 @@ fn main() {
     println!("all checks passed");
 }
 
-fn validate(bundle: &Value) {
+fn validate(bundle: &Value, graph: &PrereqGraph) {
     check_identifiers(bundle);
-    check_reqs_parsable(bundle);
-    check_parsable(bundle);
+    check_reqs_bare(bundle);
+    check_prereqs(bundle, graph);
+    check_exclusive_or_groups(bundle);
+    check_cycle_free(graph);
 }
 
-/// Any entry's key must equal name_to_identifier(entry["name"])
+fn categories(bundle: &Value) -> Vec<(&String, &serde_json::Map<String, Value>)> {
+    let Some(object) = bundle.as_object() else {
+        push_error("bundle should be an object");
+        return Vec::new();
+    };
+    object
+        .iter()
+        .filter_map(|(category, items)| items.as_object().map(|items| (category, items)))
+        .collect()
+}
+
+fn push_error(msg: &str) {
+    check::push_error(msg);
+}
+
 fn check_identifiers(bundle: &Value) {
-    let Some(categories) = check!(bundle.as_object(), "bundle should be an object") else { return };
-
-    for (category, items) in categories {
-        let Some(items) = check!(items.as_object(), "{category}: should be an object") else { continue };
-
+    for (category, items) in categories(bundle) {
         for (key, entry) in items {
             let Some(name) = check!(
                 entry.get("name").and_then(Value::as_str),
                 "{category}/{key}: missing 'name' field"
-            ) else { continue };
+            ) else {
+                continue;
+            };
 
             let expected = name_to_identifier(name).to_lowercase();
             check!(
@@ -73,56 +95,114 @@ fn check_identifiers(bundle: &Value) {
     }
 }
 
-fn check_reqs_parsable(bundle: &Value) {
-    let Some(categories) = check!(bundle.as_object(), "bundle should be an object") else { return };
-
-    for (category, items) in categories {
-        let Some(items) = check!(items.as_object(), "{category}: should be an object") else { continue };
-
+fn check_reqs_bare(bundle: &Value) {
+    for (category, items) in categories(bundle) {
         for (key, entry) in items {
-            if let Some(req_field) = entry.get("reqs") {
-                let Some(req_str) = check!(
-                    req_field.as_str(),
-                    "{category}/{key}: 'req' field is not a string"
-                ) else { continue };
+            let Some(req_field) = entry.get("reqs") else {
+                continue;
+            };
+            let Some(req_str) = check!(
+                req_field.as_str(),
+                "{category}/{key}: 'reqs' field is not a string"
+            ) else {
+                continue;
+            };
+
+            let Some(req) = check!(
+                Requirement::parse(req_str),
+                "{category}/{key}: '{req_str}' is not a valid requirement"
+            ) else {
+                continue;
+            };
+
+            check!(
+                req.name.is_none(),
+                "{category}/{key}: 'reqs' carries a name prefix, expected stat clauses only"
+            );
+            check!(
+                req.prereqs.is_empty(),
+                "{category}/{key}: 'reqs' carries a prereq prefix, expected stat clauses only"
+            );
+        }
+    }
+}
+
+fn check_prereqs(bundle: &Value, graph: &PrereqGraph) {
+    for (category, items) in categories(bundle) {
+        for (key, entry) in items {
+            let Some(field) = entry.get("prereqs") else {
+                continue;
+            };
+            let Some(groups) = check!(
+                field.as_array(),
+                "{category}/{key}: 'prereqs' field is not an array"
+            ) else {
+                continue;
+            };
+
+            for group in groups {
+                let Some(group_str) = check!(
+                    group.as_str(),
+                    "{category}/{key}: 'prereqs' entry is not a string"
+                ) else {
+                    continue;
+                };
+
+                let Some(parsed) = check!(
+                    PrereqGroup::parse(group_str),
+                    "{category}/{key}: '{group_str}' is not a valid prereq group"
+                ) else {
+                    continue;
+                };
+
+                for alternative in parsed.alternatives() {
+                    let Some((namespace, _)) = alternative.split_once(':') else {
+                        push_error(&format!(
+                            "{category}/{key}: prereq '{alternative}' is not qualified with a namespace"
+                        ));
+                        continue;
+                    };
+
+                    check!(
+                        NAMESPACES.contains(&namespace),
+                        "{category}/{key}: prereq '{alternative}' has unknown namespace '{namespace}'"
+                    );
+                    check!(
+                        graph.contains(alternative),
+                        "{category}/{key}: prereq '{alternative}' does not resolve to an existing row"
+                    );
+                }
+            }
+        }
+    }
+}
+
+fn check_exclusive_or_groups(bundle: &Value) {
+    for (category, items) in categories(bundle) {
+        for (key, entry) in items {
+            let Some(groups) = entry.get("prereqs").and_then(Value::as_array) else {
+                continue;
+            };
+
+            for exclusive in EXCLUSIVE {
+                let count = groups
+                    .iter()
+                    .filter_map(Value::as_str)
+                    .filter(|group| !group.contains('|'))
+                    .filter(|group| group.trim().starts_with(&format!("{exclusive}:")))
+                    .count();
 
                 check!(
-                    Requirement::parse(req_str),
-                    "'{req_str}' is not a valid parsable requirement"
+                    count < 2,
+                    "{category}/{key}: {count} separate '{exclusive}' prereqs, expected a single OR-group"
                 );
             }
         }
     }
 }
 
-// TODO! this is a slight issue for obvious reasons:
-// mantra prereqs? quest prereqs? we skip those for now but its a bit weird..
-// perhaps we may want to look into prefixing talents with talent_, mantras with mantra_ etc, within the requirement
-fn check_prereqs_exist(bundle: &Value) {
-    let Some(categories) = check!(bundle.as_object(), "bundle should be an object") else { return };
-
-    // acutally this remains unused for now.
-    for (category, items) in categories {
-        let Some(items) = check!(items.as_object(), "{category}: should be an object") else { continue };
-
-        for (key, entry) in items {
-            if let Some(req_field) = entry.get("reqs") {
-                let Some(req_str) = check!(
-                    req_field.as_str(),
-                    "{category}/{key}: 'req' field is not a string"
-                ) else { continue };
-
-                let Some(req) = check!(
-                    Requirement::parse(req_str),
-                    "'{req_str}' is not a valid parsable requirement"
-                ) else { continue };
-            }
-        }
+fn check_cycle_free(graph: &PrereqGraph) {
+    if let Some(cycle) = graph.find_cycle() {
+        push_error(&format!("prereq graph has a cycle: {}", cycle.join(" -> ")));
     }
-}
-
-/// The entire bundle must be parsable into DeepData
-fn check_parsable(bundle: &Value) {
-    let json = serde_json::to_string(bundle).expect("failed to re-serialize bundle");
-    check!(DeepData::from_json(&json), "bundle is not parsable into DeepData");
 }

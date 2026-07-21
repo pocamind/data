@@ -2,7 +2,10 @@
   "name": "Armor Piercing",
   "category": "Gunslinger",
   "rarity": "Rare",
-  "reqs": "armor_piercing := 30r MED OR 30r LHT",
+  "reqs": "30r MED OR 30r LHT",
+  "prereqs": [
+    "objective:owed_debts_trig"
+  ],
   "additional_info": "This has heavy diminishing returns in effectiveness with the more PEN you have. Elemental guns may not benefit from this Talent at all depending on your opponent's resistances, as the highest resistance value is prioritized.",
   "count_towards_talent_total": true,
   "icon": "Bullet",

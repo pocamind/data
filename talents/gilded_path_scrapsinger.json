@@ -2,7 +2,7 @@
   "name": "Gilded Path: Scrapsinger",
   "category": "Scrapsinger",
   "rarity": "Common",
-  "reqs": "gilded_path_scrapsinger := 35s MTL",
+  "reqs": "35s MTL",
   "additional_info": "Your Ironsing abilities and status effects are now yellow.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

@@ -5,7 +5,7 @@
   "damage": 28,
   "posture_damage": 9,
   "range": 10,
-  "reqs": "hivelords_hubris := 100r HVY, 60r STR",
+  "reqs": "100r HVY, 60r STR",
   "damage_types": [
     "Blunt"
   ],

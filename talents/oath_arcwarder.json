@@ -2,7 +2,7 @@
   "name": "Oath: Arcwarder",
   "category": "Arcwarder",
   "rarity": "Oath",
-  "reqs": "oath_arcwarder := 20s FTD, 20s FLM, 20s LTN",
+  "reqs": "20s FTD, 20s FLM, 20s LTN",
   "count_towards_talent_total": true,
   "icon": "Arcwarder",
   "roll2able": true,

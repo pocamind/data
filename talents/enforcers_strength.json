@@ -2,7 +2,10 @@
   "name": "Enforcer's Strength",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "reinforced_enforcer_plate => enforcers_strength := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:reinforced_enforcer_plate"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

@@ -2,7 +2,10 @@
   "name": "Jester's Ruse",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "tricksters_beret => jesters_ruse := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:tricksters_beret"
+  ],
   "additional_info": "Visionshaper's Cheap Trick visual effect plays on proc. This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.",
   "count_towards_talent_total": false,
   "icon": "Visionshaper",

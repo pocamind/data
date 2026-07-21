@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "big_brother := 80r LHT",
+  "reqs": "80r LHT",
   "damage_types": [
     "Slash"
   ],

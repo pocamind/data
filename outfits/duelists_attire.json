@@ -5,7 +5,7 @@
   "name": "Duelist's Attire",
   "pants_id": "5706841071",
   "shirt_id": "5706840256",
-  "reqs": "duelists_attire := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 0,
   "talent": null,
   "category": "Adept",

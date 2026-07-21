@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "bloodcurdle := 50r BLD",
+  "reqs": "50r BLD",
   "damage": [
     {
       "variant": null,

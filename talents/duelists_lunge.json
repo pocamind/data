@@ -2,7 +2,7 @@
   "name": "Duelist's Lunge",
   "category": "Needle",
   "rarity": "Common",
-  "reqs": "duelists_lunge := 30s LHT",
+  "reqs": "30s LHT",
   "additional_info": "Running attacks with rapiers deal 35% more posture damage. After landing a Critical, the next rapier running attack gains 2 range.",
   "count_towards_talent_total": true,
   "icon": "Daggers",

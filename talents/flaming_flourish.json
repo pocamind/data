@@ -2,7 +2,7 @@
   "name": "Flaming Flourish",
   "category": "The Demon Blade",
   "rarity": "Common",
-  "reqs": "flaming_flourish := 30s FLM",
+  "reqs": "30s FLM",
   "count_towards_talent_total": true,
   "icon": "Blaze",
   "roll2able": true,

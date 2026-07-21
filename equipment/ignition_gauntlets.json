@@ -22,7 +22,7 @@
     "Rare": 1,
     "Legendary": 2
   },
-  "reqs": "ignition_gauntlets := 195r TTL",
+  "reqs": "195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "...",

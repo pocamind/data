@@ -18,7 +18,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "sailors_fleece := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A thick woolen fleece, somewhat scratchy in texture, commonly worn by sailors in the East. When the Suncross falls into the voidfog, the seas of Lumen get surprisingly chilly.",
   "voi_only": false

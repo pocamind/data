@@ -2,7 +2,7 @@
   "name": "Warrior's Swing",
   "category": "Weapon Master",
   "rarity": "Common",
-  "reqs": "warriors_swing := 30s HVY",
+  "reqs": "30s HVY",
   "count_towards_talent_total": false,
   "icon": "Greatsword",
   "roll2able": false,

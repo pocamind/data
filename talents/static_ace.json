@@ -2,7 +2,10 @@
   "name": "Static Ace",
   "category": "Static Weaver",
   "rarity": "Common",
-  "reqs": "static_link => static_ace := 70s LTN",
+  "reqs": "70s LTN",
+  "prereqs": [
+    "talent:static_link"
+  ],
   "additional_info": "Heavily reduces the windup of Lightning Stream.",
   "count_towards_talent_total": true,
   "icon": "Shock",

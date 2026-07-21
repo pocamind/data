@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "strong_leap := 50r STR",
+  "reqs": "50r STR",
   "damage": [
     {
       "variant": null,

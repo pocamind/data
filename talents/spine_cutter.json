@@ -2,7 +2,7 @@
   "name": "Spine Cutter",
   "category": "Duelist",
   "rarity": "Rare",
-  "reqs": "spine_cutter := 20s STR, 25s AGL",
+  "reqs": "20s STR, 25s AGL",
   "additional_info": "The second slash has no PEN. Procs on certain physical Mantras and criticals with the M1 tag. Has a 5 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Skeleton",

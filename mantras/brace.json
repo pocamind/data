@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "brace := 75r FTD",
+  "reqs": "75r FTD",
   "damage": [
     {
       "variant": null,

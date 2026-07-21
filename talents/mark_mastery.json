@@ -2,7 +2,11 @@
   "name": "Mark Mastery",
   "category": "Warder Techniques",
   "rarity": "Faction",
-  "reqs": "justicar, justicars_mark => mark_mastery := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar",
+    "talent:justicars_mark"
+  ],
   "additional_info": "Reduces the additional damage you take from marking an ally from 20% to 5%.",
   "count_towards_talent_total": false,
   "icon": "Brain",

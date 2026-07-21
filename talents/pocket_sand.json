@@ -2,7 +2,7 @@
   "name": "Pocket Sand",
   "category": "Scoundrel",
   "rarity": "Common",
-  "reqs": "pocket_sand := 35s LHT, 20s STR",
+  "reqs": "35s LHT, 20s STR",
   "additional_info": "30 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Fist",

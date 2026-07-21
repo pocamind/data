@@ -2,7 +2,10 @@
   "name": "Ether Repletion",
   "category": "Void Glutton",
   "rarity": "Memento",
-  "reqs": "void_glutton => ether_repletion := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:void_glutton"
+  ],
   "additional_info": "Hunger stolen from players through any means will proc this Talent.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

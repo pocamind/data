@@ -2,7 +2,10 @@
   "name": "Rip and Tear",
   "category": "Berserker",
   "rarity": "Memento",
-  "reqs": "berserker => rip_and_tear := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:berserker"
+  ],
   "count_towards_talent_total": false,
   "icon": "Teeth",
   "roll2able": false,

@@ -2,7 +2,11 @@
   "name": "Pierce Through",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "ritual_sacrifice, ritual_spear => pierce_through := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:ritual_sacrifice",
+    "weapon:ritual_spear"
+  ],
   "additional_info": "The default spear critical attack no longer cancels if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.",
   "count_towards_talent_total": false,
   "icon": "Sword",

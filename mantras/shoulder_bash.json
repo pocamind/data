@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "shoulder_bash := 35r FTD",
+  "reqs": "35r FTD",
   "damage": [
     {
       "variant": null,

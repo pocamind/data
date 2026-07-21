@@ -11,7 +11,7 @@
     "Rare": 1,
     "Legendary": 2
   },
-  "reqs": "fauld_of_enmity := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "wiki": "",
   "desc": "The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners.",

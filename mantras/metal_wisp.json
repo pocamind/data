@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "metal_wisp := 30r MTL",
+  "reqs": "30r MTL",
   "damage": [
     {
       "variant": null,

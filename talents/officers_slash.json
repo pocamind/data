@@ -2,7 +2,10 @@
   "name": "Officer's Slash",
   "category": "Dread Imperium",
   "rarity": "Faction",
-  "reqs": "authority_ensign => officers_slash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "additional_info": "Deals 35 Slash damage. 20 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Sword",

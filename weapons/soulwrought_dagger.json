@@ -5,7 +5,10 @@
   "damage": 19,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "crazy_slots => soulwrought_dagger := ()",
+  "reqs": "()",
+  "prereqs": [
+    "resonance:crazy_slots"
+  ],
   "damage_types": [
     "Slash"
   ],

@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 6,
   "range": 9,
-  "reqs": "alloyed_halberd := 75r HVY",
+  "reqs": "75r HVY",
   "damage_types": [
     "Slash"
   ],

@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "depths_supercharger := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo.",
   "voi_only": true

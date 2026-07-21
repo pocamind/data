@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "twincleave := 50r MED",
+  "reqs": "50r MED",
   "damage": [
     {
       "variant": null,

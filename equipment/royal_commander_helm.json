@@ -19,7 +19,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "royal_commander_helm := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

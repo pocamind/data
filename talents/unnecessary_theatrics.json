@@ -2,7 +2,10 @@
   "name": "Unnecessary Theatrics",
   "category": "Showboater",
   "rarity": "Common",
-  "reqs": "charismatic_cast => unnecessary_theatrics := 75s CHA",
+  "reqs": "75s CHA",
+  "prereqs": [
+    "talent:charismatic_cast"
+  ],
   "additional_info": "The charm proc has no cooldown, but the one-liners do. Instantly reapplies Charm after Manipulator removes it, on the same hit.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

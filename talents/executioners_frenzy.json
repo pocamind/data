@@ -2,7 +2,10 @@
   "name": "Executioner's Frenzy",
   "category": "Inquisitive Lethality",
   "rarity": "Faction",
-  "reqs": "authority_ensign => executioners_frenzy := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "additional_info": "This works on Paused Posture caused from Stature Break or Maiming Claws.",
   "count_towards_talent_total": false,
   "icon": "Sword",

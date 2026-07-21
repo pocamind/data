@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "dread_whisper := 50r CHA",
+  "reqs": "50r CHA",
   "damage": [
     {
       "variant": null,

@@ -6,7 +6,7 @@
     "Megalodaunt Hide": 2
   },
   "name": "Seamstress's Attire",
-  "reqs": "seamstresss_attire := 135r TTL",
+  "reqs": "135r TTL",
   "notes": 100,
   "talent": null,
   "category": "Expert",

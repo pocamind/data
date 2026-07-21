@@ -2,7 +2,10 @@
   "name": "Risky Defense",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "alloyed_phalanx_plate => risky_defense := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:alloyed_phalanx_plate"
+  ],
   "additional_info": "Increases incoming posture damage from Mantras by 50%. Decreases incoming posture damage from weapon attacks by 25%.",
   "count_towards_talent_total": false,
   "icon": "Shield",

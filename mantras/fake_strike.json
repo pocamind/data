@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_jetstriker => fake_strike := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_jetstriker"
+  ],
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,10 @@
   "name": "Seamaster's Guile",
   "category": "Sea Dog",
   "rarity": "Equipment",
-  "reqs": "seamasters_cap => seamasters_guile := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:seamasters_cap"
+  ],
   "additional_info": "Your boat will take 25% less damage if the person piloting it has this Talent.",
   "count_towards_talent_total": false,
   "icon": "Shield",

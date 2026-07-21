@@ -5,7 +5,7 @@
   "damage": null,
   "posture_damage": null,
   "range": null,
-  "reqs": "kyrstear := 40r AGL",
+  "reqs": "40r AGL",
   "posture_restoration": 0.3,
   "enchantable": false,
   "equip_motifs": false,

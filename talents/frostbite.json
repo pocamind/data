@@ -2,7 +2,7 @@
   "name": "Frostbite",
   "category": "Ice Age",
   "rarity": "Common",
-  "reqs": "frostbite := 25s ICE",
+  "reqs": "25s ICE",
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

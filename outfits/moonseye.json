@@ -3,7 +3,10 @@
   "shirt_id": "9520632213",
   "mats": {},
   "name": "Moonseye",
-  "reqs": "prince_of_the_moon => moonseye := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:prince_of_the_moon"
+  ],
   "notes": 0,
   "talent": "Crippling Darkness",
   "category": "Unique",

@@ -2,7 +2,10 @@
   "name": "Nightchild",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "felinor => nightchild := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:felinor"
+  ],
   "additional_info": "Multiplies all stealth gained by 1.2x. Gain +20% Stealth on spawn.",
   "count_towards_talent_total": false,
   "icon": "Claw",

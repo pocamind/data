@@ -3,7 +3,7 @@
   "shirt_id": "16291635064",
   "mats": {},
   "name": "Mod Skirt",
-  "reqs": "mod_skirt := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": null,
   "category": "Spec",

@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 5,
   "range": 6,
-  "reqs": "legion_cestus := 30r LHT",
+  "reqs": "30r LHT",
   "damage_types": [
     "Blunt"
   ],

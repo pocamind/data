@@ -2,7 +2,10 @@
   "name": "Stack the Deck",
   "category": "Merchant",
   "rarity": "Memento",
-  "reqs": "strange_merchant => stack_the_deck := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:strange_merchant"
+  ],
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

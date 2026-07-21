@@ -2,7 +2,10 @@
   "name": "Rebuke in Stasis",
   "category": "Saint Jay",
   "rarity": "Memento",
-  "reqs": "saint_jay => rebuke_in_stasis := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:saint_jay"
+  ],
   "additional_info": "Your Punishment will apply bottom freeze to mobs if you land the counter hit.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

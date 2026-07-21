@@ -2,7 +2,10 @@
   "name": "Arc Module: Null",
   "category": "Arcwarder",
   "rarity": "Oath",
-  "reqs": "oath_arcwarder => arc_module_null := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_arcwarder"
+  ],
   "count_towards_talent_total": true,
   "icon": "Arcwarder",
   "roll2able": false,

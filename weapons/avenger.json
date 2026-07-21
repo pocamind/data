@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "avenger := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

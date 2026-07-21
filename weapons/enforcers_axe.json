@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "enforcers_axe := 75r HVY",
+  "reqs": "75r HVY",
   "damage_types": [
     "Slash"
   ],

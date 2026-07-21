@@ -2,7 +2,10 @@
   "name": "Steel Grip",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "reforged_gauntlets => steel_grip := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:reforged_gauntlets"
+  ],
   "additional_info": "90 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

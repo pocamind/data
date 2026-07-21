@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "neural_pathway := 35r INT",
+  "reqs": "35r INT",
   "damage": [
     {
       "variant": null,

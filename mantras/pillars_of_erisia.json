@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "pillars_of_erisia := 50r WND",
+  "reqs": "50r WND",
   "damage": [
     {
       "variant": null,

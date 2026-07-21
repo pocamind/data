@@ -2,7 +2,10 @@
   "name": "Dancing Steps Of War",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "geta => dancing_steps_of_war := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:geta"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

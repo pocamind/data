@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "ceaseless_slashes := 50r LHT",
+  "reqs": "50r LHT",
   "damage": [
     {
       "variant": null,

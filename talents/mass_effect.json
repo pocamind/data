@@ -2,7 +2,10 @@
   "name": "Mass Effect",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ascended_outlaw_hat => mass_effect := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:ascended_outlaw_hat"
+  ],
   "additional_info": "Increases the posture damage bonus of Might Gems by 2.25% additively, for every Might Gem you have equipped on your Mantras.",
   "count_towards_talent_total": false,
   "icon": "Fist",

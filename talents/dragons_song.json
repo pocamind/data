@@ -2,7 +2,7 @@
   "name": "Dragon's Song",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "dragons_song := ()",
+  "reqs": "()",
   "additional_info": "Grants +20 Ether on proc. 2 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Brain",

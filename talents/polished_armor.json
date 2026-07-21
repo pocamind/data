@@ -2,7 +2,7 @@
   "name": "Polished Armor",
   "category": "Metallurgist",
   "rarity": "Common",
-  "reqs": "polished_armor := 75s MTL",
+  "reqs": "75s MTL",
   "additional_info": "The damage reduction of Polished Armor is increased by 0.05% per Ironsing investment, granting 8.75% damage reduction at requirements.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

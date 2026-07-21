@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "crimson_scarf := 90r ttl",
+  "reqs": "90r ttl",
   "voi": false,
   "desc": "..."
 }

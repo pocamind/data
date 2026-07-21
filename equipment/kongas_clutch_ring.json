@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "kongas_clutch_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Konga's Clutch Ring allows the user to slide with little delay.",
   "voi_only": false

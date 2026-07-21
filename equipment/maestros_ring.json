@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "maestros_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A ring once worn by a Maestro of the Vigils. Passed down from mentor to student, it seems the line of succession was broken for it to end up in your hands. +1.2 AGL scaling to all weapons.",
   "voi_only": false

@@ -2,7 +2,7 @@
   "name": "Unwavering Resolve",
   "category": "Rampaging Brute",
   "rarity": "Common",
-  "reqs": "unwavering_resolve := 40s STR",
+  "reqs": "40s STR",
   "additional_info": "The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22% posture reduction from being parried at 15 Strength.",
   "count_towards_talent_total": true,
   "icon": "Fist",

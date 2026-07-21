@@ -2,7 +2,7 @@
   "name": "Dark God",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "dark_god := 20s SDW",
+  "reqs": "20s SDW",
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

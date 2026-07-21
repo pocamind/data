@@ -5,7 +5,7 @@
     "Vibrant Gem": 10
   },
   "name": "Jester's Garb",
-  "reqs": "jesters_garb := 195r TTL",
+  "reqs": "195r TTL",
   "notes": 400,
   "talent": "Mocking Favor, Not a Scratch",
   "category": "Unique",

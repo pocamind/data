@@ -7,7 +7,7 @@
     "Wayward Gem": 1
   },
   "name": "Heretic's Memento",
-  "reqs": "heretics_memento := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 500,
   "talent": "Underdog",
   "category": "Unique",

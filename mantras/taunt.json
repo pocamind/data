@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "taunt := 25r CHA",
+  "reqs": "25r CHA",
   "damage": [
     {
       "variant": null,

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "summon_cauldron := 20r INT",
+  "reqs": "20r INT",
   "damage": [
     {
       "variant": null,

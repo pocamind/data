@@ -2,7 +2,10 @@
   "name": "Soul Rip",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "familiar_heretics_armor => soul_rip := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:familiar_heretics_armor"
+  ],
   "additional_info": "Grants a 50% weapon damage buff, ?% defense, infinite Ether, and a speed boost for the buff duration. Once the buff wears off, one of your legs will break, removing your ability to sprint for 30 seconds.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

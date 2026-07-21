@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "saint_jays_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Uppercuts inflict chill.",
   "voi_only": false

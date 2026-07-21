@@ -14,7 +14,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "geta := 195r TTL",
+  "reqs": "195r TTL",
   "voi": false,
   "desc": "A type of traditional Etrean footwear, these wooden sandals were once a mainstay of the Kingdom of Etris, although they have been falling out of fashion in recent decades. Relatively cheap and easy to make, the geta were the preferred footwear of many Etreans due to practical reasons - the elevation offered by the two 'teeth' under the sole tend to keep the wearers robes from brushing against the ground, and their feet from coming into contact with rainwater, snow, or mud.",
   "voi_only": false

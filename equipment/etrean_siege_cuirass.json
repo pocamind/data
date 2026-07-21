@@ -19,7 +19,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "etrean_siege_cuirass := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

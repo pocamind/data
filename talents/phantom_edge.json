@@ -2,7 +2,7 @@
   "name": "Phantom Edge",
   "category": "Adaptive Arsenal",
   "rarity": "Rare",
-  "reqs": "phantom_edge := 75s MTL",
+  "reqs": "75s MTL",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": false,

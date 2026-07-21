@@ -2,7 +2,10 @@
   "name": "Vanguard Style",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "justicar => vanguard_style := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "additional_info": "This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.",
   "count_towards_talent_total": false,
   "icon": "Boots",

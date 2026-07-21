@@ -2,7 +2,10 @@
   "name": "Encore",
   "category": "Vocalist",
   "rarity": "Rare",
-  "reqs": "sing => encore := 40s CHA",
+  "reqs": "40s CHA",
+  "prereqs": [
+    "mantra:sing"
+  ],
   "additional_info": "Applies 0.4s of true stun. Doesn't affect allies.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

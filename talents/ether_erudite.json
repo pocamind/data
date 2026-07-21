@@ -2,7 +2,7 @@
   "name": "Ether Erudite",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

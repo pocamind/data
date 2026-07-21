@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "permafrost_prison := 30r ICE, 30r SDW",
+  "reqs": "30r ICE, 30r SDW",
   "damage": [
     {
       "variant": null,

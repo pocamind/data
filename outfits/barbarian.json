@@ -3,7 +3,10 @@
   "shirt_id": "16721596275",
   "mats": {},
   "name": "Barbarian",
-  "reqs": "beserker => barbarian := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:berserker"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Unique",

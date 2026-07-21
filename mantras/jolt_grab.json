@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "jolt_grab := 1r LTN",
+  "reqs": "1r LTN",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,10 @@
   "name": "Echoing Lunatic",
   "category": "Mindbreaker",
   "rarity": "Common",
-  "reqs": "ardour_scream => echoing_lunatic := 55s WLL",
+  "reqs": "55s WLL",
+  "prereqs": [
+    "talent:ardour_scream"
+  ],
   "count_towards_talent_total": true,
   "icon": "Eye",
   "roll2able": true,

@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "dermal_stud := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "That's metal.",
   "voi_only": false

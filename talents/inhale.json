@@ -2,7 +2,7 @@
   "name": "Inhale",
   "category": "Galeforce",
   "rarity": "Common",
-  "reqs": "inhale := 60s WND",
+  "reqs": "60s WND",
   "additional_info": "Inhaling adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra cast. Grants a speed boost for 3 seconds. Additionally grants the Maestro's Blade status effect, allowing your basic attacks to proc After Cut.",
   "count_towards_talent_total": true,
   "icon": "Wind",

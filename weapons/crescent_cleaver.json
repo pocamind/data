@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "crescent_cleaver := 45r HVY, 10r STR",
+  "reqs": "45r HVY, 10r STR",
   "damage_types": [
     "Slash",
     "Bleed"

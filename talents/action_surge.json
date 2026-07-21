@@ -2,7 +2,7 @@
   "name": "Action Surge",
   "category": "Vigil Swordsman",
   "rarity": "Common",
-  "reqs": "action_surge := 70s AGL",
+  "reqs": "70s AGL",
   "additional_info": "Both this and Vigil's Grace are applied before Lightning Cloak's swing speed multiplier.",
   "count_towards_talent_total": true,
   "icon": "Sword",

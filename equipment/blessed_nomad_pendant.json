@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "blessed_nomad_pendant := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

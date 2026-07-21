@@ -2,7 +2,7 @@
   "name": "Pack Mule",
   "category": "Miscellaneous",
   "rarity": "Common",
-  "reqs": "pack_mule := 5s FTD",
+  "reqs": "5s FTD",
   "additional_info": "Stacks with the Boon of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.",
   "count_towards_talent_total": true,
   "icon": "Fist",

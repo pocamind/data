@@ -2,7 +2,10 @@
   "name": "Focused Strikes",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "hallowed_monastery_beads => focused_strikes := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:hallowed_monastery_beads"
+  ],
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

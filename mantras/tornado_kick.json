@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "tornado_kick := 1r WND",
+  "reqs": "1r WND",
   "damage": [
     {
       "variant": null,

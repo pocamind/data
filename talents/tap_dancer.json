@@ -2,7 +2,7 @@
   "name": "Tap Dancer",
   "category": "Duelist",
   "rarity": "Rare",
-  "reqs": "tap_dancer := 60s AGL",
+  "reqs": "60s AGL",
   "additional_info": "Negate the extra half a second cooldown added to the roll following a roll-cancel.",
   "count_towards_talent_total": true,
   "icon": "Cloak",

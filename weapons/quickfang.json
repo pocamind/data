@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "quickfang := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

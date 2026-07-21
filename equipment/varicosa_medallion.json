@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "varicosa_medallion := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

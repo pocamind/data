@@ -2,7 +2,7 @@
   "name": "Stratoshock",
   "category": "Thundercaller",
   "rarity": "Common",
-  "reqs": "stratoshock := 35s LTN",
+  "reqs": "35s LTN",
   "additional_info": "All sources of Thundercall damage innately gains a 5% damage buff if it is raining. This Talent adds an additional 5%.",
   "count_towards_talent_total": true,
   "icon": "Shock",

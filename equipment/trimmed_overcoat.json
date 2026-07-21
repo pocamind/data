@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "trimmed_overcoat := ()",
+  "reqs": "()",
   "voi": false,
   "wiki": "",
   "desc": "A thick coat to protect you against the cold.",

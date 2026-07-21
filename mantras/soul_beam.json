@@ -7,7 +7,11 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "chorus_of_souls, oath_oathless => soul_beam := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:chorus_of_souls",
+    "talent:oath_oathless"
+  ],
   "damage": [
     {
       "variant": null,

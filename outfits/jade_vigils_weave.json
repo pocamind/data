@@ -8,7 +8,7 @@
     "Thresher Spine": 1
   },
   "name": "Jade Vigil's Weave",
-  "reqs": "jade_vigils_weave := 240r TTL, 10r AGL",
+  "reqs": "240r TTL, 10r AGL",
   "notes": 1000,
   "talent": "Serpent's Dance",
   "category": "Unique",

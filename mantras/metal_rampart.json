@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "metal_rampart := 1r MTL",
+  "reqs": "1r MTL",
   "damage": [
     {
       "variant": null,

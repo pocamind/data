@@ -2,7 +2,7 @@
   "name": "Steampunk Soldier",
   "category": "Steampunk Soldier",
   "rarity": "Memento",
-  "reqs": "steampunk_soldier := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Explosion",
   "roll2able": false,

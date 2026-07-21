@@ -2,7 +2,7 @@
   "name": "Dark Hours",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "dark_hours := 35s SDW",
+  "reqs": "35s SDW",
   "additional_info": "Night cycle is XX:50 to XX:10 in real-time.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

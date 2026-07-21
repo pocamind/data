@@ -2,7 +2,10 @@
   "name": "Worshipper's Tolerance",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "worshippers_shield => worshippers_tolerance := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:worshippers_shield"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

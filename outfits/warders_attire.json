@@ -3,7 +3,10 @@
   "shirt_id": "15177801908",
   "mats": {},
   "name": "Warder's Attire",
-  "reqs": "justicar => warders_attire := 240r TTL",
+  "reqs": "240r TTL",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "notes": 0,
   "talent": "Justicar's Gift",
   "category": "Unique",

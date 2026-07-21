@@ -2,7 +2,10 @@
   "name": "Dark Receiver",
   "category": "Sapper",
   "rarity": "Common",
-  "reqs": "static_link => dark_receiver := 40s LTN, 40s SDW",
+  "reqs": "40s LTN, 40s SDW",
+  "prereqs": [
+    "talent:static_link"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

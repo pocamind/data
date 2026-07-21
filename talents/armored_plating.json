@@ -2,7 +2,10 @@
   "name": "Armored Plating",
   "category": "Battle Readiness",
   "rarity": "Faction",
-  "reqs": "authority_ensign => armored_plating := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

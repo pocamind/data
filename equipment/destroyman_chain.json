@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "destroyman_chain := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A chain for the strongest of pathfinders. Some would say the extra 0.1% physical armor on this makes it a spec. They would be right.",
   "voi_only": false

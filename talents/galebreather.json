@@ -2,7 +2,7 @@
   "name": "Galebreather",
   "category": "Galebreather",
   "rarity": "Common",
-  "reqs": "galebreather := 1s WND",
+  "reqs": "1s WND",
   "count_towards_talent_total": false,
   "implicit": true,
   "icon": "Wind",

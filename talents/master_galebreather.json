@@ -2,7 +2,10 @@
   "name": "Master Galebreather",
   "category": "Galebreather",
   "rarity": "Common",
-  "reqs": "expert_galebreather => master_galebreather := 50s WND",
+  "reqs": "50s WND",
+  "prereqs": [
+    "talent:expert_galebreather"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

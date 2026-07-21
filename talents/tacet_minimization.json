@@ -2,7 +2,10 @@
   "name": "Tacet Minimization",
   "category": "Inquisitive Lethality",
   "rarity": "Faction",
-  "reqs": "authority_ensign => tacet_minimization := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "additional_info": "Grants a Talent tool that massively reduces the size of your Tacet bubble on use.",
   "count_towards_talent_total": false,
   "icon": "Boots",

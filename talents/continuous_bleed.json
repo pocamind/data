@@ -2,7 +2,10 @@
   "name": "Continuous Bleed",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "razor_cutlass => continuous_bleed := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:razor_cutlass"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

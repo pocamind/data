@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "prominence_draw := 50r MED",
+  "reqs": "50r MED",
   "damage": [
     {
       "variant": null,

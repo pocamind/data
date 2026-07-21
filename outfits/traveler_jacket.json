@@ -5,7 +5,7 @@
   "name": "Traveler Jacket",
   "pants_id": "5115781091",
   "shirt_id": "5115780873",
-  "reqs": "traveler_jacket := ()",
+  "reqs": "()",
   "notes": 10,
   "talent": null,
   "category": "Starter",

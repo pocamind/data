@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "gilded_knife := 25r LHT",
+  "reqs": "25r LHT",
   "damage_types": [
     "Slash"
   ],

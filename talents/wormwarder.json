@@ -2,7 +2,10 @@
   "name": "Wormwarder",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "wormwarder_lantern => wormwarder := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:wormwarder_lantern"
+  ],
   "additional_info": "Makes you entirely immune to the Second Layer's Parasites, but at a cost of granting you a mobility debuff.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

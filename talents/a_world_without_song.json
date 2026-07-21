@@ -2,7 +2,10 @@
   "name": "A World Without Song",
   "category": "Silencer",
   "rarity": "Advanced",
-  "reqs": "silencers_blade => a_world_without_song := 75s WND",
+  "reqs": "75s WND",
+  "prereqs": [
+    "talent:silencers_blade"
+  ],
   "additional_info": "The hit count required to proc this Talent is increased to 4 if you have less than 75 Galebreathe, and increased to 5 if you have less than 40 Galebreathe.",
   "count_towards_talent_total": true,
   "icon": "Wind",

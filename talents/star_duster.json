@@ -2,7 +2,7 @@
   "name": "Star Duster",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "star_duster := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

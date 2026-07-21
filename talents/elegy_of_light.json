@@ -2,7 +2,10 @@
   "name": "Elegy of Light",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "lightkeepers_medallion => elegy_of_light := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:lightkeepers_medallion"
+  ],
   "additional_info": "On use, Deep Gems cannot have their effects proc on you and your Deem Gems have increased effectiveness in PvE for 3 minutes. This ability requires you to kill a player of equal or higher level or a boss to recharge its effect.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

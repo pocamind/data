@@ -2,7 +2,10 @@
   "name": "Rosen's Technique",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "rosens_peacemaker => rosens_technique := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:rosens_peacemaker"
+  ],
   "additional_info": "Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.",
   "count_towards_talent_total": false,
   "icon": "Bullet",

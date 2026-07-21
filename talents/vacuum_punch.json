@@ -2,7 +2,10 @@
   "name": "Vacuum Punch",
   "category": "Aeromancer",
   "rarity": "Common",
-  "reqs": "gale_punch => vacuum_punch := 20s WND",
+  "reqs": "20s WND",
+  "prereqs": [
+    "mantra:gale_punch"
+  ],
   "additional_info": "Gale Punch Mantra will now pull players towards the user during the windup of the Mantra. Increases Gale Punch's windup by 0.1s.",
   "count_towards_talent_total": true,
   "icon": "Wind",

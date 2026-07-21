@@ -2,7 +2,11 @@
   "name": "Conditioned Runner",
   "category": "Alley Cat",
   "rarity": "Advanced",
-  "reqs": "endurance_runner, scaredy_cat => conditioned_runner := 25s AGL",
+  "reqs": "25s AGL",
+  "prereqs": [
+    "talent:endurance_runner",
+    "talent:scaredy_cat"
+  ],
   "additional_info": "After 3 seconds of sprinting without taking damage, gain increased health regeneration.",
   "count_towards_talent_total": true,
   "icon": "Boots",

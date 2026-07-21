@@ -22,7 +22,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "star_duster := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

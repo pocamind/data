@@ -2,7 +2,10 @@
   "name": "Haunted Path: Specter",
   "category": "Specter",
   "rarity": "Common",
-  "reqs": "haunted_gale => haunted_path_specter := 50s WND",
+  "reqs": "50s WND",
+  "prereqs": [
+    "talent:haunted_gale"
+  ],
   "additional_info": "Turns your Galebreathe white. If Haunted Gale procs on non-Galebreathe Mantras or if you do not have the Apparitions Talent, then Haunted Gale's phantoms will still appear on proc.",
   "count_towards_talent_total": true,
   "icon": "Wind",

@@ -18,7 +18,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "deepscorn_casque := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "An artifact of dark renown, convincing them they are already dead, instilling a strange reckless calm, Crafted from darksteel, its history is steeped in blood; its last owner met a grim fate during a forbidden Ministry Ritual to grow a murky, grotesque abomination. Grayhule failed his experiments and succumbed to his own shadows. Dare to don this helm at your own peril.",
   "voi_only": false

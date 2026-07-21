@@ -7,7 +7,10 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "jus_karita => karita_leap := 20r LHT",
+  "reqs": "20r LHT",
+  "prereqs": [
+    "talent:jus_karita"
+  ],
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Charisma Unbounded",
   "category": "Mr Charm",
   "rarity": "Common",
-  "reqs": "charisma_unbounded := 75r CHA",
+  "reqs": "75r CHA",
   "additional_info": "Removes the 75 investment cap on the Charisma Attribute. The stat requirements to obtain this Talent will be increased to 77 or 78 if your Aspect has increased Charisma on spawn, though this limitation will be removed if you have the Multifaceted Echo Unlock. The quest requirement for this Talent will be removed if you've obtained it previously on your account.",
   "count_towards_talent_total": false,
   "implicit": true,

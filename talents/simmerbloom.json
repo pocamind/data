@@ -2,7 +2,10 @@
   "name": "Simmerbloom",
   "category": "Inferno",
   "rarity": "Equipment",
-  "reqs": "simmerbloom_diadem => simmerbloom := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:simmerbloom_diadem"
+  ],
   "additional_info": "Basic attacks with Pleeksty's Inferno now apply burn with no cooldown.",
   "count_towards_talent_total": false,
   "icon": "Explosion",

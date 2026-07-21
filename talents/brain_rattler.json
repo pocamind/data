@@ -2,7 +2,7 @@
   "name": "Brain Rattler",
   "category": "Hammer Rage",
   "rarity": "Common",
-  "reqs": "brain_rattler := 50s MED",
+  "reqs": "50s MED",
   "count_towards_talent_total": true,
   "icon": "Bullet",
   "roll2able": true,

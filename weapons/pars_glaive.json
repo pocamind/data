@@ -5,7 +5,7 @@
   "damage": 10,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "pars_glaive := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

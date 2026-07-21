@@ -5,7 +5,10 @@
   "damage": 28,
   "posture_damage": 8.5,
   "range": 9.2,
-  "reqs": "crazy_slots => soulwrought_greatsword := ()",
+  "reqs": "()",
+  "prereqs": [
+    "resonance:crazy_slots"
+  ],
   "damage_types": [
     "Slash"
   ],

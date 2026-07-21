@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "calamity_cinnabar := 40r HVY, 75r SDW",
+  "reqs": "40r HVY, 75r SDW",
   "damage_types": [
     "Slash"
   ],

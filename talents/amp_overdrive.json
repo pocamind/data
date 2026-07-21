@@ -2,7 +2,10 @@
   "name": "Amp Overdrive",
   "category": "Operator's Technique",
   "rarity": "Faction",
-  "reqs": "authority_ensign => amp_overdrive := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "additional_info": "Deals 15 Thundercall damage. The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.",
   "count_towards_talent_total": false,
   "icon": "Shock",

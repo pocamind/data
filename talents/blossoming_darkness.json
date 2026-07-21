@@ -2,7 +2,10 @@
   "name": "Blossoming Darkness",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "shadow_roar => blossoming_darkness := 40s SDW",
+  "reqs": "40s SDW",
+  "prereqs": [
+    "mantra:shadow_roar"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

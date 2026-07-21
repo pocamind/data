@@ -2,7 +2,10 @@
   "name": "Lithe Step",
   "category": "Bladeharper",
   "rarity": "Oath",
-  "reqs": "oath_bladeharper => lithe_step := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_bladeharper"
+  ],
   "additional_info": "Provides a brief speed boost on proc. 3s CD, reduced to 1s if in True Strength.",
   "count_towards_talent_total": false,
   "icon": "Bladeharper",

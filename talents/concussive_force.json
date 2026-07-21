@@ -2,7 +2,7 @@
   "name": "Concussive Force",
   "category": "Duelist",
   "rarity": "Common",
-  "reqs": "concussive_force := 15s STR",
+  "reqs": "15s STR",
   "additional_info": "Enemies remain knocked for 15 seconds instead of 10.",
   "count_towards_talent_total": true,
   "icon": "Skeleton",

@@ -18,7 +18,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "bulwark_helm := 135 ttl",
+  "reqs": "135 ttl",
   "voi": false,
   "desc": "..."
 }

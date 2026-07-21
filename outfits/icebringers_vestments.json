@@ -8,7 +8,7 @@
     "Frigid Prism": 5
   },
   "name": "Icebringer's Vestments",
-  "reqs": "icebringers_vestments := 240r TTL, 45r ICE",
+  "reqs": "240r TTL, 45r ICE",
   "notes": 1000,
   "talent": "Refreeze, Orbital Ice",
   "category": "Unique",

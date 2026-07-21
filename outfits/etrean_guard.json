@@ -8,7 +8,7 @@
   "name": "Etrean Guard",
   "pants_id": "6891785609",
   "shirt_id": "6891784537",
-  "reqs": "etrean_guard := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 30,
   "talent": "Unbreakable",
   "category": "Expert",

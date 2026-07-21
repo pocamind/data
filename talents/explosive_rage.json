@@ -2,7 +2,10 @@
   "name": "Explosive Rage",
   "category": "Twisted Puppets",
   "rarity": "Common",
-  "reqs": "wraith_path_twisted_puppets => explosive_rage := 40s FLM, 40s SDW",
+  "reqs": "40s FLM, 40s SDW",
+  "prereqs": [
+    "talent:wraith_path_twisted_puppets"
+  ],
   "additional_info": "While buffed, your Puppets will gain an orange swirling aura. On proc, this buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds. The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the Detonation enchant.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

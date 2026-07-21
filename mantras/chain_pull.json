@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "chain_pull := 20r MTL",
+  "reqs": "20r MTL",
   "damage": [
     {
       "variant": null,

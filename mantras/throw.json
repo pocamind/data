@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "throw := 35r STR",
+  "reqs": "35r STR",
   "damage": [
     {
       "variant": null,

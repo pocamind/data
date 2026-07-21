@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 4,
   "range": 9,
-  "reqs": "eye_of_malice := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

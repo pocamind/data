@@ -5,7 +5,7 @@
     "Crystal Lens": 1
   },
   "name": "Skeptic Pioneer",
-  "reqs": "skeptic_pioneer := ()",
+  "reqs": "()",
   "notes": 25,
   "pants_id": "5738143634",
   "shirt_id": "5738142147",

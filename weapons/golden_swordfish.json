@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 5,
   "range": 8.1,
-  "reqs": "golden_swordfish := 75r LHT",
+  "reqs": "75r LHT",
   "damage_types": [
     "Slash"
   ],

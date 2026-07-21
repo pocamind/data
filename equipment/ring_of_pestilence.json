@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "ring_of_pestilence := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Your weapon applies 50% anti-heal for 5s.",
   "voi_only": false

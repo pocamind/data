@@ -2,7 +2,7 @@
   "name": "Rapid Fire",
   "category": "Outlaw",
   "rarity": "Common",
-  "reqs": "rapid_fire := 50s LHT",
+  "reqs": "50s LHT",
   "additional_info": "The Rapid Fire status effect entirely removes your Pistol critical cooldown for its duration, allowing you to spam it. Procs on dodge, block, and hit.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

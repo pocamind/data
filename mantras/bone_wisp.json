@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "bone_wisp := ()",
+  "reqs": "()",
   "damage": [
     {
       "variant": null,

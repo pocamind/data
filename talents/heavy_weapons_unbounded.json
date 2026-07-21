@@ -2,7 +2,7 @@
   "name": "Heavy Weapons Unbounded",
   "category": "Saint of Blades",
   "rarity": "Common",
-  "reqs": "heavy_weapons_unbounded := 75r HVY",
+  "reqs": "75r HVY",
   "additional_info": "Removes the 75 Attribute cap on Heavy Weapons.",
   "count_towards_talent_total": false,
   "implicit": true,

@@ -2,7 +2,10 @@
   "name": "Master Thief",
   "category": "Thief",
   "rarity": "Common",
-  "reqs": "pickpocket => master_thief := 25s CHA",
+  "reqs": "25s CHA",
+  "prereqs": [
+    "talent:pickpocket"
+  ],
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

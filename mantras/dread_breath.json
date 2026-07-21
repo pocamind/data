@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "dread_breath := ()",
+  "reqs": "()",
   "damage": [
     {
       "variant": null,

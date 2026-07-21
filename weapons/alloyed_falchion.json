@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 5,
   "range": 7.5,
-  "reqs": "alloyed_falchion := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

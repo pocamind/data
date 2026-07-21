@@ -2,7 +2,10 @@
   "name": "Bulwark Breaker",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "saint_jays_hammer => bulwark_breaker := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:saint_jays_hammer"
+  ],
   "additional_info": "Increases the AoE and range of your Pressure Blast. The final hit of your Pressure Blast deals 3x the posture damage (from 12 to 36), increasing the total posture damage of the Mantra from 36 to 60.",
   "count_towards_talent_total": false,
   "icon": "Skull",

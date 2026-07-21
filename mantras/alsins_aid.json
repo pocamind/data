@@ -7,7 +7,10 @@
   "type": "Origin",
   "stars": 0,
   "vaulted": false,
-  "reqs": "justicar => alsins_aid := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "voi": false,
   "desc": "Give your ally an aura that grants then more speed, and increases the amount of healing they receive for 10 seconds.",
   "damage": [

@@ -9,7 +9,7 @@
     "Worn Cog": 1
   },
   "name": "Ignition Deepdelver",
-  "reqs": "ignition_deepdelver := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Force Your Way",
   "category": "Master",

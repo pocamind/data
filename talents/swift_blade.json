@@ -2,7 +2,10 @@
   "name": "Swift Blade",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blademasters_robe => swift_blade := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:blademasters_robe"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

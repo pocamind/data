@@ -17,7 +17,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "headband := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A stylish headband. Capable of hiding even the most dire of hairlines.",
   "voi_only": false

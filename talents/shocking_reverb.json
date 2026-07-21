@@ -2,7 +2,10 @@
   "name": "Shocking Reverb",
   "category": "Operator's Technique",
   "rarity": "Faction",
-  "reqs": "authority_ensign => shocking_reverb := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "additional_info": "You need to reach a threshold of 150 scaled damage with Thundercall Mantras without being hit to proc this Talent. The damage buildup to reach the threshold is unaffected by resistances and damage modifiers. Also negates damage from critical attacks and Silentheart abilities. 2 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Shock",

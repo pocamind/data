@@ -2,7 +2,10 @@
   "name": "Laced Traps",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "caltrops => laced_traps := 45s MTL",
+  "reqs": "45s MTL",
+  "prereqs": [
+    "mantra:caltrops"
+  ],
   "additional_info": "Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

@@ -2,7 +2,11 @@
   "name": "Fulgurite Formation",
   "category": "Frozen Lightning",
   "rarity": "Common",
-  "reqs": "glass_path_crystallization, surge_path_unstable_capacitor => fulgurite_formation := 50s ICE, 50s LTN",
+  "reqs": "50s ICE, 50s LTN",
+  "prereqs": [
+    "talent:glass_path_crystallization",
+    "talent:surge_path_unstable_capacitor"
+  ],
   "additional_info": "The lightning strikes deal 5 typeless damage with a 4 second cooldown. The double Crystal application buff does not stack with successive Fulgurite Formation procs. Procs Grounding Bolt.",
   "count_towards_talent_total": true,
   "icon": "Shock",

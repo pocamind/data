@@ -2,7 +2,11 @@
   "name": "Phoenix Flames",
   "category": "Immolator",
   "rarity": "Advanced",
-  "reqs": "agitating_spark, immolation => phoenix_flames := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:agitating_spark",
+    "talent:immolation"
+  ],
   "additional_info": "Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm. If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

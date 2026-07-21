@@ -9,7 +9,7 @@
     "Dark Feather": 2
   },
   "name": "Grand Pathfinder Cloak",
-  "reqs": "grand_pathfinder_cloak := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 150,
   "talent": "Legendary",
   "category": "Expert",

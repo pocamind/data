@@ -5,7 +5,7 @@
   "damage": 27,
   "posture_damage": 10,
   "range": 8.5,
-  "reqs": "edenbrand_hellcoil := 75r HVY, 30r STR",
+  "reqs": "75r HVY, 30r STR",
   "damage_types": [
     "Blunt"
   ],

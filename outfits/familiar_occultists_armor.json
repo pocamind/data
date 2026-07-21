@@ -8,7 +8,7 @@
     "Hemobloom": 5
   },
   "name": "Familiar Occultist's Armor",
-  "reqs": "familiar_occultists_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 10000,
   "talent": "Life Leech",
   "category": "Unique",

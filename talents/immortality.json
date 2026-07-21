@@ -2,7 +2,10 @@
   "name": "Immortality",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "immortal_helm => immortality := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:immortal_helm"
+  ],
   "additional_info": "Grants one instance of knock prevention. Having this Talent disables the Viscosity Enchantment.",
   "count_towards_talent_total": false,
   "icon": "Shield",

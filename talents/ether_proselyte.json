@@ -2,7 +2,10 @@
   "name": "Ether Proselyte",
   "category": "Saintsworn",
   "rarity": "Oath",
-  "reqs": "oath_saintsworn => ether_proselyte := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saintsworn"
+  ],
   "additional_info": "Increases the level of all Attuned Mantras by 1 unless they are already level 5. This is not displayed on the Mantra's tooltip. Allows your non-Ironsing/Bloodrend Attuned Mantras to proc the Attunement Talents of your current Saint Stance. (E.g. Clutching Shadow in the Flamecharm Stance can proc Scorched Peak). Not all Attuned Talents are compatible with Ether Proselyte.",
   "count_towards_talent_total": false,
   "icon": "Saintsworn",

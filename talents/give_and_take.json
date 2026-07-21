@@ -2,7 +2,7 @@
   "name": "Give and Take",
   "category": "Empath",
   "rarity": "Common",
-  "reqs": "give_and_take := 35s CHA",
+  "reqs": "35s CHA",
   "additional_info": "This does not apply to self damage. Stacks multiplicatively with Loyalty.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

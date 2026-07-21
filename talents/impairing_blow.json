@@ -2,7 +2,7 @@
   "name": "Impairing Blow",
   "category": "Bruiser",
   "rarity": "Common",
-  "reqs": "impairing_blow := 30s HVY",
+  "reqs": "30s HVY",
   "additional_info": "Does not proc on uppercut.",
   "count_towards_talent_total": true,
   "icon": "Greatsword",

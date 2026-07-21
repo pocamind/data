@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "exhaustion_strike := 40r WLL",
+  "reqs": "40r WLL",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Thresher Claws",
   "category": "Marauder",
   "rarity": "Rare",
-  "reqs": "thresher_claws := 210s TTL",
+  "reqs": "210s TTL",
   "count_towards_talent_total": true,
   "icon": "Boots",
   "roll2able": false,

@@ -2,7 +2,10 @@
   "name": "Biotic Salts",
   "category": "Saltchemist",
   "rarity": "Oath",
-  "reqs": "oath_saltchemist => biotic_salts := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saltchemist"
+  ],
   "additional_info": "Gives you a Talent tool-like ability that acts as a potion ingredient on use. This halves the negative effects of your potion if used on allies (including yourself) and halves the positive effects of your potions if used on enemies.",
   "count_towards_talent_total": false,
   "icon": "Saltchemist",

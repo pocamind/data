@@ -7,7 +7,10 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "glass_path_crystallization => ice_lasers := 30r ICE",
+  "reqs": "30r ICE",
+  "prereqs": [
+    "talent:glass_path_crystallization"
+  ],
   "damage": [
     {
       "variant": null,

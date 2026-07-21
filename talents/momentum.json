@@ -2,7 +2,7 @@
   "name": "Momentum",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blademaster => momentum := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

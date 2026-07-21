@@ -2,7 +2,10 @@
   "name": "Grand Support",
   "category": "Comrade",
   "rarity": "Rare",
-  "reqs": "reinforce => grand_support := 40s FTD",
+  "reqs": "40s FTD",
+  "prereqs": [
+    "mantra:reinforce"
+  ],
   "additional_info": "Heals you for 2% of your maximum health, increased by 1% for every player buffed. Heals affected players by 3% of their maximum health.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

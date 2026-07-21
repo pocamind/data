@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "enforcer_pull := ()",
+  "reqs": "()",
   "damage": [
     {
       "variant": null,

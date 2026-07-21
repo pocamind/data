@@ -5,7 +5,7 @@
     "Vibrant Gem": 2
   },
   "name": "Verdant Sniper",
-  "reqs": "verdant_sniper := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 100,
   "talent": null,
   "category": "Expert",

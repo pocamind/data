@@ -2,7 +2,10 @@
   "name": "Saint's Synergy",
   "category": "Saintsworn",
   "rarity": "Oath",
-  "reqs": "oath_saintsworn => saints_synergy := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saintsworn"
+  ],
   "additional_info": "15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.",
   "count_towards_talent_total": false,
   "icon": "Saintsworn",

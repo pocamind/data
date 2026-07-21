@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "ysleys_pyre_keeper := 10r LHT, 25r HVY, 75r FLM",
+  "reqs": "10r LHT, 25r HVY, 75r FLM",
   "damage_types": [
     "Slash",
     "Flamecharm"

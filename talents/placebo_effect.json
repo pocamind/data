@@ -2,7 +2,7 @@
   "name": "Placebo Effect",
   "category": "Alchemist",
   "rarity": "Rare",
-  "reqs": "placebo_effect := 60s INT",
+  "reqs": "60s INT",
   "additional_info": "Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.",
   "count_towards_talent_total": true,
   "icon": "Potion",

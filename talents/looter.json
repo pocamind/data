@@ -2,7 +2,10 @@
   "name": "Looter",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "experienced_adventurer => looter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:experienced_adventurer"
+  ],
   "additional_info": "This affects: turning in Artifacts or the Strange Egg at a banker, turning in Sacks to Mercille, handing in pure ore to a Blacksmith, and trading in Explosive Crates to Scope.",
   "count_towards_talent_total": false,
   "icon": "Leaf",

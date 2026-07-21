@@ -17,7 +17,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "reinforced_war_boots := 315r TTL",
+  "reqs": "315r TTL",
   "voi": false,
   "desc": "Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash.",
   "voi_only": false

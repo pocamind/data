@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "handlers_hood := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "A shroud worn proud by members of the Inquisition.",
   "voi_only": false

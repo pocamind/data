@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "clutching_shadow := 1r SDW",
+  "reqs": "1r SDW",
   "damage": [
     {
       "variant": null,

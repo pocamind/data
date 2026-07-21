@@ -2,7 +2,10 @@
   "name": "Primal Rage",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "titanslayers_adornment => primal_rage := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:titanslayers_adornment"
+  ],
   "additional_info": "Grants a Talent tool that can only be used when you are under 50% health. While buffed, your hits will showcase the health percentage of your opponent. Additionally, gain a 25% damage buff for the duration of the effect. 3 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

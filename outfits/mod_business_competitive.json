@@ -3,7 +3,7 @@
   "shirt_id": "123654213990549",
   "mats": {},
   "name": "Mod Business Competitive",
-  "reqs": "mod_business_competitive := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": null,
   "category": "Spec",

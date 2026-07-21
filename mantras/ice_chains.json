@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "ice_chains := 20r ICE",
+  "reqs": "20r ICE",
   "damage": [
     {
       "variant": null,

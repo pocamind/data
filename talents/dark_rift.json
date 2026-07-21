@@ -2,7 +2,10 @@
   "name": "Dark Rift",
   "category": "Darksiphon",
   "rarity": "Rare",
-  "reqs": "dark_hours => dark_rift := 60s SDW",
+  "reqs": "60s SDW",
+  "prereqs": [
+    "talent:dark_hours"
+  ],
   "additional_info": "Lasts 1.8 seconds with a 20 second cooldown that starts on proc. Blocking, parrying, dodging, or sliding will also cancel the effect. You cannot use Mantras during Dark Rift.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

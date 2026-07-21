@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "whirling_blade := ()",
+  "reqs": "()",
   "damage": [
     {
       "variant": null,

@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 6,
   "range": 9.5,
-  "reqs": "red_death := 30r MED, 25r INT OR 25r WLL OR 25r CHA, 45r SDW, 35r BLD",
+  "reqs": "30r MED, 25r INT OR 25r WLL OR 25r CHA, 45r SDW, 35r BLD",
   "damage_types": [
     "Slash",
     "Bloodrend",

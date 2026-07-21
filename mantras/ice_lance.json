@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "ice_lance := 30r ICE",
+  "reqs": "30r ICE",
   "damage": [
     {
       "variant": null,

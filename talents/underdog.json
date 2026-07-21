@@ -2,7 +2,7 @@
   "name": "Underdog",
   "category": "Champion",
   "rarity": "Common",
-  "reqs": "underdog := 30s WLL",
+  "reqs": "30s WLL",
   "additional_info": "Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower. Grants a 2.875% damage buff at requirements. \"Higher HP\" refers to current HP.",
   "count_towards_talent_total": true,
   "icon": "Climb",

@@ -6,7 +6,7 @@
     "Spark Gland": 3
   },
   "name": "Etrean Rogue",
-  "reqs": "etrean_rogue := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Test",
   "category": "Unobtainable",

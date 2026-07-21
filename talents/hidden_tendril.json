@@ -2,7 +2,10 @@
   "name": "Hidden Tendril",
   "category": "Contractor",
   "rarity": "Oath",
-  "reqs": "oath_contractor => hidden_tendril := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_contractor"
+  ],
   "additional_info": "Also procs on physical critical attacks, uppercuts, and flourishes.",
   "count_towards_talent_total": false,
   "icon": "Contractor",

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "shade_bringer := 50r SDW",
+  "reqs": "50r SDW",
   "damage": [
     {
       "variant": null,

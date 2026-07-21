@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "rally := 10r FTD",
+  "reqs": "10r FTD",
   "damage": [
     {
       "variant": null,

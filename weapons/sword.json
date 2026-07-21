@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "sword := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

@@ -2,7 +2,10 @@
   "name": "Ankle Cutter",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => ankle_cutter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Deals 37.5 Oath damage. If in Flow State, this is increased to 52.5 and the windup is reduced. Has innate bleed. 6 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

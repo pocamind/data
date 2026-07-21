@@ -8,7 +8,7 @@
   "name": "Familiar Occulist's Armor",
   "pants_id": "3072082107",
   "shirt_id": "3072032909",
-  "reqs": "familiar_occulists_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 10000,
   "talent": "Life Leech",
   "category": "Unique",

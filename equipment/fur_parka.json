@@ -25,7 +25,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "fur_parka := ()",
+  "reqs": "()",
   "voi": false,
   "wiki": "",
   "desc": "An essential winter coat to protect you against the cold.",

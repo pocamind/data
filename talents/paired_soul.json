@@ -2,7 +2,10 @@
   "name": "Paired Soul",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "cloak_of_winds, royal_etrean_guard, vigil_initiate => paired_soul := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:cloak_of_winds | outfit:royal_etrean_guard | outfit:vigil_initiate"
+  ],
   "additional_info": "Katana deals 25% more damage. Alloyed Katana, Shattered Katana, and Purple Cloud deal 5% more damage. This is a damage modifier.",
   "count_towards_talent_total": false,
   "icon": "Sword",

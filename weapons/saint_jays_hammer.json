@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "saint_jays_hammer := 20r HVY, 10r STR",
+  "reqs": "20r HVY, 10r STR",
   "damage_types": [
     "Blunt",
     "Frostdraw"

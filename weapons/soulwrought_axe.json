@@ -5,7 +5,10 @@
   "damage": 26,
   "posture_damage": 8,
   "range": 10,
-  "reqs": "crazy_slots => soulwrought_axe := ()",
+  "reqs": "()",
+  "prereqs": [
+    "resonance:crazy_slots"
+  ],
   "damage_types": [
     "Slash"
   ],

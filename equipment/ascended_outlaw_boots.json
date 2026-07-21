@@ -22,7 +22,7 @@
     "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "ascended_outlaw_boots := 315r TTL",
+  "reqs": "315r TTL",
   "voi": false,
   "desc": "Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband.",
   "voi_only": false

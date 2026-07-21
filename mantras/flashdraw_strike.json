@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "flashdraw_strike := 60r MED, 25r AGL",
+  "reqs": "60r MED, 25r AGL",
   "damage": [
     {
       "variant": null,

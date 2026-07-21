@@ -2,7 +2,7 @@
   "name": "Critical Engine",
   "category": "Intellisense",
   "rarity": "Common",
-  "reqs": "critical_engine := 30r LHT OR 30r MED OR 30r HVY, 90s INT",
+  "reqs": "30r LHT OR 30r MED OR 30r HVY, 90s INT",
   "additional_info": "Grants a Talent tool that applies the effects of your held Deep Gem to your weapon critical. This does not consume the Deep Gem on use. Blue Gems have a unique interaction with this Talent, granting Ether back based on scaled damage dealt.",
   "count_towards_talent_total": true,
   "icon": "Brain",

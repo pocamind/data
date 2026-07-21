@@ -2,7 +2,10 @@
   "name": "Untouchable",
   "category": "Bladeharper",
   "rarity": "Oath",
-  "reqs": "oath_bladeharper => untouchable := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_bladeharper"
+  ],
   "additional_info": "Grants True Strength for 15 seconds on proc. Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks. Weapon attacks give 2 stacks each, and non-weapon attacks give 1 stack each.",
   "count_towards_talent_total": false,
   "icon": "Bladeharper",

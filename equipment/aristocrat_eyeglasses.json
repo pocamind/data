@@ -14,7 +14,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "aristocrat_eyeglasses := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

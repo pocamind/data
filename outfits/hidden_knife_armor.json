@@ -6,7 +6,10 @@
     "Fiber": 5
   },
   "name": "Hidden Knife Armor",
-  "reqs": "rogue_assassin => hidden_knife_armor := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:rogue_assassin"
+  ],
   "notes": 0,
   "talent": "Bane",
   "category": "Unique",

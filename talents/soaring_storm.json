@@ -2,7 +2,10 @@
   "name": "Soaring Storm",
   "category": "Bladeharper",
   "rarity": "Oath",
-  "reqs": "oath_bladeharper => soaring_storm := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_bladeharper"
+  ],
   "additional_info": "Proc condition is removed and damage is increased if in True Strength. Applies to all forms of uppercuts, including Mantras and certain weapon criticals. Deals 24 Oath + Slash damage (6 hits that deal 4 damage each), this is increased to 39 damage (6 hits that deal 6.5 damage each) if you are in True Strength.",
   "count_towards_talent_total": false,
   "icon": "Bladeharper",

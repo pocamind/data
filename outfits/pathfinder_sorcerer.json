@@ -5,7 +5,7 @@
     "Iron": 1
   },
   "name": "Pathfinder Sorcerer",
-  "reqs": "pathfinder_sorcerer := 5r INT",
+  "reqs": "5r INT",
   "notes": 30,
   "pants_id": "5115783991",
   "shirt_id": "5115783821",

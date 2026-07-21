@@ -2,7 +2,7 @@
   "name": "Brain Death",
   "category": "Bloodsong",
   "rarity": "Common",
-  "reqs": "brain_death := 40s BLD, 40s WND",
+  "reqs": "40s BLD, 40s WND",
   "additional_info": "Applies a new stack of suffocation on proc.",
   "count_towards_talent_total": true,
   "icon": "Blood",

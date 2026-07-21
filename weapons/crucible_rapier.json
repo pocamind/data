@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "crucible_rapier := 75r LHT",
+  "reqs": "75r LHT",
   "damage_types": [
     "Slash"
   ],

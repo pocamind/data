@@ -2,7 +2,7 @@
   "name": "Stay of Execution",
   "category": "Liberator",
   "rarity": "Common",
-  "reqs": "stay_of_execution := 25r CHA OR 25r WLL",
+  "reqs": "25r CHA OR 25r WLL",
   "count_towards_talent_total": true,
   "vaulted": false,
   "voi": false,

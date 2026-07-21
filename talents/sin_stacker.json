@@ -2,7 +2,10 @@
   "name": "Sin Stacker",
   "category": "Heretic",
   "rarity": "Rare",
-  "reqs": "all_the_dead_gods => sin_stacker := 90s WLL",
+  "reqs": "90s WLL",
+  "prereqs": [
+    "talent:all_the_dead_gods"
+  ],
   "additional_info": "Each stack of All the Dead Gods anti-heal increases the duration of subsequent All the Dead Gods anti-heal stacks by 1 second. For example, your first hit will apply anti-heal for 8 seconds, and your next hit will apply 9 seconds of anti-heal, and so on. Each stack of anti-heal has an independent duration, decaying independently of each other.",
   "count_towards_talent_total": true,
   "icon": "Eye",

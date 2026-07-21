@@ -5,7 +5,7 @@
   "damage": 10,
   "posture_damage": 1,
   "range": 10,
-  "reqs": "silversix := ()",
+  "reqs": "()",
   "damage_types": [
     "Blunt"
   ],

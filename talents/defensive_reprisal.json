@@ -2,7 +2,7 @@
   "name": "Defensive Reprisal",
   "category": "Bulwark",
   "rarity": "Common",
-  "reqs": "defensive_reprisal := 65s FTD",
+  "reqs": "65s FTD",
   "additional_info": "Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.55s duration with 40 Fortitude.",
   "count_towards_talent_total": true,
   "icon": "Boots",

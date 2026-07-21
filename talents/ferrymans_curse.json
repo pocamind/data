@@ -2,7 +2,10 @@
   "name": "Ferryman's Curse",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "ferrymans_coat => ferrymans_curse := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:ferrymans_coat"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shock",
   "roll2able": false,

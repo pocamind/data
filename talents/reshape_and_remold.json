@@ -2,7 +2,14 @@
   "name": "Reshape and Remold",
   "category": "Scrapsinger",
   "rarity": "Advanced",
-  "reqs": "artisans_blade, gilded_path_scrapsinger, masterwork, refine_and_reuse, songs_unforged => reshape_and_remold := 70s MTL",
+  "reqs": "70s MTL",
+  "prereqs": [
+    "talent:artisans_blade",
+    "talent:gilded_path_scrapsinger",
+    "talent:masterwork",
+    "talent:refine_and_reuse",
+    "talent:songs_unforged"
+  ],
   "additional_info": "Increases the armor drain effect of your rods by 25%, from 2% drain to 2.5%.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

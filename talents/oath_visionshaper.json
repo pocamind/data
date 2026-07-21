@@ -2,7 +2,7 @@
   "name": "Oath: Visionshaper",
   "category": "Visionshaper",
   "rarity": "Oath",
-  "reqs": "oath_visionshaper := 50s CHA",
+  "reqs": "50s CHA",
   "count_towards_talent_total": false,
   "icon": "Visionshaper",
   "roll2able": false,

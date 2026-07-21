@@ -2,7 +2,10 @@
   "name": "Crippling Impact",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "reinforced_war_plate => crippling_impact := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:reinforced_war_plate"
+  ],
   "additional_info": "The duration of this effect scales on your Strength investment, being 2 seconds + 0.015 seconds per point of Strength. This lasts for 3.5 seconds at 100 Strength.",
   "count_towards_talent_total": false,
   "icon": "Fist",

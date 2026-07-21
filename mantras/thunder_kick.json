@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "thunder_kick := 20r LTN",
+  "reqs": "20r LTN",
   "damage": [
     {
       "variant": null,

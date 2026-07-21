@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 6,
   "range": 8,
-  "reqs": "battleaxe := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

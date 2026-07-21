@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_visionshaper => illusory_servants := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_visionshaper"
+  ],
   "damage": [
     {
       "variant": null,

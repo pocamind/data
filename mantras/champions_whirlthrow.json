@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "champions_whirlthrow := 30r WND",
+  "reqs": "30r WND",
   "damage": [
     {
       "variant": null,

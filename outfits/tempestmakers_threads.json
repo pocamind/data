@@ -8,7 +8,7 @@
     "Vibrant Gem": 5
   },
   "name": "Tempestmaker's Threads",
-  "reqs": "tempestmakers_threads := 240r TTL, 45r WND",
+  "reqs": "240r TTL, 45r WND",
   "notes": 1000,
   "talent": "Tempest Evolution, Aerogliding",
   "category": "Unique",

@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "black_scarf := 90 ttl",
+  "reqs": "90 ttl",
   "voi": false,
   "desc": "..."
 }

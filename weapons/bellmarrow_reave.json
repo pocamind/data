@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 6,
   "range": 8.4,
-  "reqs": "bellmarrow_reave := 65r MED",
+  "reqs": "65r MED",
   "damage_types": [
     "Slash"
   ],

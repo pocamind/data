@@ -6,7 +6,7 @@
     "Megalodaunt Hide": 5
   },
   "name": "Troublemaker's Overcoat",
-  "reqs": "troublemakers_overcoat := 135r TTL",
+  "reqs": "135r TTL",
   "notes": 100,
   "talent": null,
   "category": "Expert",

@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "worshipper_longsword := 30r MED",
+  "reqs": "30r MED",
   "damage_types": [
     "Slash"
   ],

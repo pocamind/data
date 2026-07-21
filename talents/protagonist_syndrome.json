@@ -2,7 +2,10 @@
   "name": "Protagonist Syndrome",
   "category": "Dawnwalker",
   "rarity": "Oath",
-  "reqs": "oath_dawnwalker => protagonist_syndrome := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_dawnwalker"
+  ],
   "additional_info": "Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage. This cannot be self procced by using Shade Devour.",
   "count_towards_talent_total": false,
   "icon": "Dawnwalker",

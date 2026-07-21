@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 5,
   "range": 6,
-  "reqs": "fondant_splitter := 65r MED",
+  "reqs": "65r MED",
   "damage_types": [
     "Slash"
   ],

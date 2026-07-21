@@ -2,7 +2,10 @@
   "name": "Breakthrough Drive",
   "category": "Dread Imperium",
   "rarity": "Faction",
-  "reqs": "authority_ensign => breakthrough_drive := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "count_towards_talent_total": true,
   "icon": "Sword",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Perfect Flash",
   "category": "Adept Caster",
   "rarity": "Rare",
-  "reqs": "perfect_flash := 25s INT",
+  "reqs": "25s INT",
   "count_towards_talent_total": true,
   "icon": "Brain",
   "roll2able": false,

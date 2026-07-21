@@ -12,7 +12,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "ember_scorch_earrings := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Wearing these makes you feel a fire in your heart with every swing.",
   "voi_only": false

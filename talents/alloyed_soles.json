@@ -2,7 +2,10 @@
   "name": "Alloyed Soles",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "alloyed_phalanx_boots => alloyed_soles := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:alloyed_phalanx_boots"
+  ],
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

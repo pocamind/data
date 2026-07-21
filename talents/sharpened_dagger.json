@@ -2,7 +2,10 @@
   "name": "Sharpened Dagger",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "assassins_earrings => sharpened_dagger := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:assassins_earrings"
+  ],
   "additional_info": "This applies to attacks used against your opponent's back, not assassinations.",
   "count_towards_talent_total": false,
   "icon": "Sword",
