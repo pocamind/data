@@ -2,7 +2,7 @@
   "name": "Gale Boots",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "gale_boots := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

@@ -2,7 +2,10 @@
   "name": "Echolocator",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "kiron => echolocator := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:kiron"
+  ],
   "additional_info": "Pings the location of nearby players who unsheathe their weapons (even through Tacet and Lowstride) and event spawns.",
   "count_towards_talent_total": false,
   "icon": "Eye",

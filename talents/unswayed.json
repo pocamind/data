@@ -2,7 +2,7 @@
   "name": "Unswayed",
   "category": "Absolute Focus",
   "rarity": "Common",
-  "reqs": "unswayed := 75s WLL",
+  "reqs": "75s WLL",
   "additional_info": "The Taunt Mantra and Cornered Fool no longer work on you. Sing will still Charm you.",
   "count_towards_talent_total": true,
   "icon": "Eye",

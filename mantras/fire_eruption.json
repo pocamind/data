@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "fire_eruption := 20r FLM",
+  "reqs": "20r FLM",
   "scaling": {
     "Flamecharm": 2.75
   },

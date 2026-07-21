@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "gale_enhanced_ring := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "Suffocate enemies you flourish for a few seconds.",
   "voi_only": false

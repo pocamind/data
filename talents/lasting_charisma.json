@@ -2,7 +2,10 @@
   "name": "Lasting Charisma",
   "category": "Charm Caster",
   "rarity": "Common",
-  "reqs": "charismatic_cast => lasting_charisma := 55s CHA",
+  "reqs": "55s CHA",
+  "prereqs": [
+    "talent:charismatic_cast"
+  ],
   "additional_info": "This adds 10 seconds to Charismatic Charm's Charm duration, but this will be reduced by 0.16s for every point of Charisma below 55, capping at 15.8 seconds at 30 Charisma.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

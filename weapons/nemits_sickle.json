@@ -5,7 +5,7 @@
   "damage": 11,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "nemits_sickle := 60r LHT",
+  "reqs": "60r LHT",
   "damage_types": [
     "Slash"
   ],

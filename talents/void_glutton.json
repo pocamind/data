@@ -2,7 +2,7 @@
   "name": "Void Glutton",
   "category": "Void Glutton",
   "rarity": "Memento",
-  "reqs": "void_glutton := ()",
+  "reqs": "()",
   "additional_info": "Gives 2 maximum health when you kill a player. You will also be slowed, with the slow being based on how much maximum health you've siphoned.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

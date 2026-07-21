@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "etrean_siege_sabatons := 90r ttl",
+  "reqs": "90r ttl",
   "voi": false,
   "desc": "..."
 }

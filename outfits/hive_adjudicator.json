@@ -7,7 +7,7 @@
     "Iron": 1
   },
   "name": "Hive Adjudicator",
-  "reqs": "hive_adjudicator := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 30,
   "talent": "Lowstride",
   "category": "Unobtainable",

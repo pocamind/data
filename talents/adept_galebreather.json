@@ -2,7 +2,10 @@
   "name": "Adept Galebreather",
   "category": "Galebreather",
   "rarity": "Common",
-  "reqs": "galebreather => adept_galebreather := 20s WND",
+  "reqs": "20s WND",
+  "prereqs": [
+    "talent:galebreather"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

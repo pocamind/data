@@ -2,7 +2,10 @@
   "name": "Reverse Necrosis",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "saint_jays_hammer => reverse_necrosis := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:saint_jays_hammer"
+  ],
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

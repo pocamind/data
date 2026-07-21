@@ -2,7 +2,11 @@
   "name": "Absolute Force",
   "category": "Operator's Technique",
   "rarity": "Faction",
-  "reqs": "authority_ensign, oppressive_force => absolute_force := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign",
+    "talent:oppressive_force"
+  ],
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

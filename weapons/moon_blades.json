@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "moon_blades := 60r LHT, 30r INT",
+  "reqs": "60r LHT, 30r INT",
   "damage_types": [
     "Slash",
     "Bleed"

@@ -2,7 +2,10 @@
   "name": "Dark Replenishment",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "dark_god => dark_replenishment := 50s SDW, 25s INT",
+  "reqs": "50s SDW, 25s INT",
+  "prereqs": [
+    "talent:dark_god"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

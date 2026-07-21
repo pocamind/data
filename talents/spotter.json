@@ -2,7 +2,11 @@
   "name": "Spotter",
   "category": "Leader",
   "rarity": "Common",
-  "reqs": "murmur_rhythm, oath_soulbreaker => spotter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:murmur_rhythm",
+    "talent:oath_soulbreaker"
+  ],
   "additional_info": "Using Callout while in Rhythm will showcase the health value of the target to your allies.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

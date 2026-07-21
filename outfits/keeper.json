@@ -5,7 +5,7 @@
     "Fiber": 3
   },
   "name": "Keeper",
-  "reqs": "keeper := 90r TTL, 10r INT",
+  "reqs": "90r TTL, 10r INT",
   "notes": 25,
   "talent": null,
   "category": "Adept",

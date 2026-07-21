@@ -15,7 +15,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "steel_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Excellent protection for your shoulders.",
   "voi_only": false

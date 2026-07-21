@@ -2,7 +2,7 @@
   "name": "Sloped Plate",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blackalloy_helm => sloped_plate := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

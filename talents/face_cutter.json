@@ -2,7 +2,10 @@
   "name": "Face Cutter",
   "category": "Twinblade",
   "rarity": "Rare",
-  "reqs": "spine_cutter => face_cutter := 75s MED",
+  "reqs": "75s MED",
+  "prereqs": [
+    "talent:spine_cutter"
+  ],
   "additional_info": "Grants an additional hit to your Spine Cutter that deals 50% of your weapon's scaled damage. Similarly to Spine Cutter, the damage of this attack cannot be buffed and it has no PEN.",
   "count_towards_talent_total": true,
   "icon": "Skeleton",

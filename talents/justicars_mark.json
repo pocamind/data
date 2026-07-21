@@ -2,7 +2,10 @@
   "name": "Justicar's Mark",
   "category": "Warder Techniques",
   "rarity": "Faction",
-  "reqs": "justicar => justicars_mark := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "additional_info": "Grants a Talent tool that allows you to apply the Justicar's Mark status effect on one of your allies. While this effect is active, the marked target gains 20% damage redirection, as 20% of the damage they would have taken is redirected to you instead. Additionally, you take 20% more damage.",
   "count_towards_talent_total": false,
   "icon": "Eye",

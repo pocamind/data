@@ -2,7 +2,7 @@
   "name": "Last Second Negotiations",
   "category": "The Negotiator",
   "rarity": "Common",
-  "reqs": "last_second_negotiations := 55s CHA",
+  "reqs": "55s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

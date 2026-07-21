@@ -2,7 +2,10 @@
   "name": "Arc Module: Leap",
   "category": "Arcwarder",
   "rarity": "Oath",
-  "reqs": "oath_arcwarder => arc_module_leap := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_arcwarder"
+  ],
   "additional_info": "10 second CD outside of combat, 15 second CD in combat.",
   "count_towards_talent_total": false,
   "icon": "Arcwarder",

@@ -2,7 +2,7 @@
   "name": "Fishman",
   "category": "Fish",
   "rarity": "Rare",
-  "reqs": "fishman := ()",
+  "reqs": "()",
   "count_towards_talent_total": true,
   "icon": "Lungs",
   "roll2able": false,

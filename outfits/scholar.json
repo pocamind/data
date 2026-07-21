@@ -4,7 +4,7 @@
     "Fiber": 3
   },
   "name": "Scholar",
-  "reqs": "scholar := ()",
+  "reqs": "()",
   "notes": 50,
   "pants_id": "5012197087",
   "shirt_id": "5012197481",

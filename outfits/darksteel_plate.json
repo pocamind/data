@@ -9,7 +9,7 @@
   "name": "Darksteel Plate",
   "pants_id": "10424589665",
   "shirt_id": "10424588094",
-  "reqs": "darksteel_plate := 165r TTL, 20r FTD",
+  "reqs": "165r TTL, 20r FTD",
   "notes": 300,
   "talent": "Unbreakable",
   "category": "Expert",

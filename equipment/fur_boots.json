@@ -22,7 +22,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "fur_boots := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

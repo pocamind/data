@@ -2,7 +2,10 @@
   "name": "Flow State",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => flow_state := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "Activating Ankle Cutter, Mayhem, Relentless Hunt, or Rising Star within 2 seconds of activating Flow State will enhance these attacks. Flow State has a 10 second cooldown, but landing a Flow State-enhanced Silentheart ability will reset its cooldown. Flow State may affect the damage, wind-up, number of attacks, sound effect, or properties of Silentheart abilities.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

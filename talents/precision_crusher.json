@@ -2,7 +2,10 @@
   "name": "Precision Crusher",
   "category": "Greatarcher",
   "rarity": "Rare",
-  "reqs": "hard_stop => precision_crusher := 75s STR",
+  "reqs": "75s STR",
+  "prereqs": [
+    "talent:hard_stop"
+  ],
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": false,

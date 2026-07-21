@@ -2,7 +2,10 @@
   "name": "Lackluster Guard",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "drifter => lackluster_guard := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:drifter"
+  ],
   "additional_info": "Reduces your maximum posture.",
   "count_towards_talent_total": false,
   "icon": "Boots",

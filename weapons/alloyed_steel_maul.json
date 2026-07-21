@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "alloyed_steel_maul := 75r HVY, 10r STR",
+  "reqs": "75r HVY, 10r STR",
   "damage_types": [
     "Blunt"
   ],

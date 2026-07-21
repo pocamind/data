@@ -2,7 +2,10 @@
   "name": "True Shatter",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "coldpoint => true_shatter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:coldpoint"
+  ],
   "additional_info": "Deals 5 true damage per slow debuff.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "dissonant_chimecaller := 80r HVY",
+  "reqs": "80r HVY",
   "damage_types": [
     "Blunt"
   ],

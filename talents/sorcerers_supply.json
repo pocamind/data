@@ -2,7 +2,7 @@
   "name": "Sorcerer's Supply",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "sorcerer => sorcerers_supply := ()",
+  "reqs": "()",
   "additional_info": "Increases your Tempo by 10 in Pathfinder or 30 in Vow of Iron.",
   "count_towards_talent_total": false,
   "icon": "Brain",

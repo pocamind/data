@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 6,
   "range": 7.5,
-  "reqs": "toothed_club := 30r MED",
+  "reqs": "30r MED",
   "damage_types": [
     "Blunt",
     "Bleed"

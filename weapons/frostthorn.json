@@ -5,7 +5,7 @@
   "damage": 14.5,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "frostthorn := 90r LHT",
+  "reqs": "90r LHT",
   "damage_types": [
     "Slash"
   ],

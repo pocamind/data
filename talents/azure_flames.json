@@ -2,7 +2,7 @@
   "name": "Azure Flames",
   "category": "Flamecharmer",
   "rarity": "Common",
-  "reqs": "azure_flames := 70s FLM, 40s WLL",
+  "reqs": "70s FLM, 40s WLL",
   "additional_info": "Increases burn damage by 12.5%. Increases the radius and posture damage of Eruptions. Increases Flame of Denial's duration by 25%.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

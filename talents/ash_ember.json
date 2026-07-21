@@ -2,7 +2,7 @@
   "name": "Ash Ember",
   "category": "Withered Flame",
   "rarity": "Common",
-  "reqs": "ash_ember := 90r LHT OR 90r MED OR 90r HVY, 90s FLM",
+  "reqs": "90r LHT OR 90r MED OR 90r HVY, 90s FLM",
   "additional_info": "At 90 FLM 90 WPN you gain a 0.0175 burn damage increase per 1 point of wither. This has very slight Flamecharm and Weapon scaling.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

@@ -2,7 +2,7 @@
   "name": "Bruiser's Mixup",
   "category": "Brawler",
   "rarity": "Common",
-  "reqs": "bruisers_mixup := ()",
+  "reqs": "()",
   "additional_info": "Lasts for 4 seconds.",
   "count_towards_talent_total": true,
   "icon": "Fist",

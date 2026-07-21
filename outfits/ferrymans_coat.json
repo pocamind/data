@@ -7,7 +7,7 @@
     "Void Feather": 1
   },
   "name": "Ferryman's Coat",
-  "reqs": "ferrymans_coat := 195r TTL",
+  "reqs": "195r TTL",
   "notes": 400,
   "talent": "Ferryman's Curse",
   "category": "Unique",

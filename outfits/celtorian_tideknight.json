@@ -18,7 +18,7 @@
   "pants_id": "16098658745",
   "shirt_id": "16102934005",
   "notes": 1000,
-  "reqs": "celtorian_tideknight := 240r TTL",
+  "reqs": "240r TTL",
   "resistances": {
     "Blunt Resistance": 5,
     "Elemental Resistance": 25,

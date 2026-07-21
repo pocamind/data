@@ -2,7 +2,10 @@
   "name": "Flask Amplifier",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "potion_masters_hat => flask_amplifier := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:potion_masters_hat"
+  ],
   "additional_info": "Increases the healing gained from Etris Flasks by 15% additively, meaning Flasks will restore 65% health on use instead of 50%.",
   "count_towards_talent_total": false,
   "icon": "Potion",

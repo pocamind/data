@@ -2,7 +2,7 @@
   "name": "Chilling Flourish",
   "category": "Cryomancer",
   "rarity": "Common",
-  "reqs": "chilling_flourish := 30s ICE",
+  "reqs": "30s ICE",
   "additional_info": "Leaves 3-4 ice patches on the ground.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

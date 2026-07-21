@@ -2,7 +2,10 @@
   "name": "Ether Tension",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "expert_practitioners_earrings => ether_tension := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:expert_practitioners_earrings"
+  ],
   "additional_info": "Deals 10 true damage.",
   "count_towards_talent_total": false,
   "icon": "Brain",

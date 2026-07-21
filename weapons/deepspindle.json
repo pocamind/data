@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "deepspindle := 50r LHT, 75r SDW",
+  "reqs": "50r LHT, 75r SDW",
   "damage_types": [
     "Slash",
     "Shadowcast"

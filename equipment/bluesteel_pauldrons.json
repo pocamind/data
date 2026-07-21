@@ -15,7 +15,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "bluesteel_pauldrons := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

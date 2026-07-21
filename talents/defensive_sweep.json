@@ -2,7 +2,7 @@
   "name": "Defensive Sweep",
   "category": "Lancer",
   "rarity": "Common",
-  "reqs": "defensive_sweep := 50s MED",
+  "reqs": "50s MED",
   "additional_info": "This does not bypass the PEN cap. 14 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Spear",

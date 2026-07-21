@@ -2,7 +2,7 @@
   "name": "Mantra Permanence",
   "category": "Ether Conduit",
   "rarity": "Common",
-  "reqs": "mantra_permanence := 20s INT",
+  "reqs": "20s INT",
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": true,

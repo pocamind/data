@@ -2,7 +2,10 @@
   "name": "Excavator",
   "category": "Prospector",
   "rarity": "Quest",
-  "reqs": "excavator := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:excavator"
+  ],
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

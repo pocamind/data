@@ -5,7 +5,7 @@
   "damage": 13.5,
   "posture_damage": 5,
   "range": 6,
-  "reqs": "iron_cestus := ()",
+  "reqs": "()",
   "damage_types": [
     "Blunt"
   ],

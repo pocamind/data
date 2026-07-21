@@ -2,7 +2,10 @@
   "name": "Rending Needle: Conductor",
   "category": "Rending Needle",
   "rarity": "Rare",
-  "reqs": "master_ironsinger => rending_needle_conductor := 75s MTL",
+  "reqs": "75s MTL",
+  "prereqs": [
+    "talent:master_ironsinger"
+  ],
   "additional_info": "Upon applying 5 Metal Rods to a target, the Rods will converge into a Conductor Rod. Conductor Rods cannot be pulled. If an enemy affected by a Conductor Rod casts a Mantra, they will lose 5% of their maximum armor, and if that Mantra was a non-Ironsing/Bloodrend elemental Mantra, they will be afflicted with their Attunement's status effect, causing the Rod to fall off. Conductor Rods last 30 seconds or until a non-Ironsing/Bloodrend elemental Mantra is cast.",
   "count_towards_talent_total": true,
   "icon": "Fist",

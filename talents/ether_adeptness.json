@@ -2,7 +2,10 @@
   "name": "Ether Adeptness",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "caster_earrings => ether_adeptness := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:caster_earrings"
+  ],
   "additional_info": "Grants 5% chip damage.",
   "count_towards_talent_total": false,
   "icon": "Brain",

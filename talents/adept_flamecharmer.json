@@ -2,7 +2,10 @@
   "name": "Adept Flamecharmer",
   "category": "Flamecharmer",
   "rarity": "Common",
-  "reqs": "flamecharmer => adept_flamecharmer := 20s FLM",
+  "reqs": "20s FLM",
+  "prereqs": [
+    "talent:flamecharmer"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

@@ -2,7 +2,10 @@
   "name": "Moths to a Flame",
   "category": "Twisted Puppets",
   "rarity": "Common",
-  "reqs": "wraith_path_twisted_puppets => moths_to_a_flame := 40s FLM, 40s SDW",
+  "reqs": "40s FLM, 40s SDW",
+  "prereqs": [
+    "talent:wraith_path_twisted_puppets"
+  ],
   "additional_info": "Puppets will now home in on targets who are burning with either of Twisted Puppets' burn types. When a Puppet gets close to a burning target it speeds up.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

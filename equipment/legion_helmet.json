@@ -19,7 +19,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "legion_helmet := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

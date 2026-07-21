@@ -6,7 +6,7 @@
     "Erisore": 5
   },
   "name": "Ignition Welder",
-  "reqs": "ignition_welder := 165r TTL, 10r FTD",
+  "reqs": "165r TTL, 10r FTD",
   "notes": 300,
   "talent": "Master Craftsman",
   "category": "Expert",

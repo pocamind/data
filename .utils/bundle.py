@@ -41,12 +41,15 @@ def main():
         print(f"  {target_dir.name}.json ({len(bundle)} items)")
         megabundle[target_dir.name] = bundle
 
+    total = sum(len(v) for v in megabundle.values())
+
+    megabundle["format"] = 2
+
     all_path = OUT_DIR / "all.json"
     with open(all_path, "w", encoding="utf-8") as f:
         json.dump(megabundle, f, indent=2, ensure_ascii=False)
 
-    total = sum(len(v) for v in megabundle.values())
-    print(f"\n  all.json (has {total} total items across {len(megabundle)} categories)")
+    print(f"\n  all.json (has {total} total items across {len(megabundle) - 1} categories)")
 
 
 if __name__ == "__main__":

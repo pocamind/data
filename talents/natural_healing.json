@@ -2,7 +2,10 @@
   "name": "Natural Healing",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "lifeweavers_hat => natural_healing := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:lifeweavers_hat"
+  ],
   "additional_info": "\"Plants\" refers to any plant-based food item.",
   "count_towards_talent_total": false,
   "icon": "Leaf",

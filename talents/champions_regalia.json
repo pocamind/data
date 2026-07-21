@@ -2,7 +2,7 @@
   "name": "Champion's Regalia",
   "category": "Champion",
   "rarity": "Rare",
-  "reqs": "champions_regalia := 25s STR",
+  "reqs": "25s STR",
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": false,

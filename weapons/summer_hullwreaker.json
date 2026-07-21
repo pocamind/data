@@ -5,7 +5,7 @@
   "damage": 24.5,
   "posture_damage": 9,
   "range": 8.5,
-  "reqs": "summer_hullwreaker := ()",
+  "reqs": "()",
   "damage_types": [
     "Blunt"
   ],

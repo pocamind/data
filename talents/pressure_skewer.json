@@ -2,7 +2,7 @@
   "name": "Pressure Skewer",
   "category": "Needle",
   "rarity": "Common",
-  "reqs": "pressure_skewer := 40s LHT",
+  "reqs": "40s LHT",
   "additional_info": "Increases blood bar damage by 50% and grants +25% Chip damage while active. These bonuses apply to M1s and criticals with the M1 tag.",
   "count_towards_talent_total": true,
   "icon": "Daggers",

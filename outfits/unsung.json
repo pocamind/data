@@ -5,7 +5,10 @@
     "Cloth": 5
   },
   "name": "Unsung",
-  "reqs": "drifter => unsung := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:drifter"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Unique",

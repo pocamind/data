@@ -2,7 +2,10 @@
   "name": "Alloy of the Heavens",
   "category": "Ironsinger",
   "rarity": "Memento",
-  "reqs": "iron_vessel => alloy_of_the_heavens := 165s TTL",
+  "reqs": "165s TTL",
+  "prereqs": [
+    "objective:iron_vessel"
+  ],
   "additional_info": "Reduces posture damage taken from mobs by 50%.",
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",

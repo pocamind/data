@@ -2,7 +2,10 @@
   "name": "Master Frostdrawer",
   "category": "Frostdrawer",
   "rarity": "Common",
-  "reqs": "expert_frostdrawer => master_frostdrawer := 50s ICE",
+  "reqs": "50s ICE",
+  "prereqs": [
+    "talent:expert_frostdrawer"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

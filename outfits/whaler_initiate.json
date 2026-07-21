@@ -1,7 +1,10 @@
 {
   "mats": {},
   "name": "Whaler Initiate",
-  "reqs": "voidwalker => whaler_initiate := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:voidwalker"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Starter",

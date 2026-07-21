@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "ringing_scholars_raiments := 195r TTL",
+  "reqs": "195r TTL",
   "voi": false,
   "desc": "An old, well worn jacket, its fabric softened by time yet kept in meticulous condition despite years of disuse. Along its lining, intricate lace and fine detailing remained intact, unmistakable hallmarks of Anansi fashion from the Old World.",
   "voi_only": false

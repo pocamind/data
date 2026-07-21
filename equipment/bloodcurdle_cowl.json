@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "bloodcurdle_cowl := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

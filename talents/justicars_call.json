@@ -2,7 +2,7 @@
   "name": "Justicar's Call",
   "category": "Justicar",
   "rarity": "Origin",
-  "reqs": "justicars_call := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

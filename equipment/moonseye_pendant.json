@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "moonseye_pendant := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "A simple silver pendant in the likeness of the Moonseye. Wearing such a pendant is a sign of mourning in many cultures, a holdover from the Old World.",
   "voi_only": false

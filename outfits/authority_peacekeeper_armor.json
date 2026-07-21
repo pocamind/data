@@ -7,7 +7,10 @@
     "Iron": 1
   },
   "name": "Authority Peacekeeper Armor",
-  "reqs": "authority_ensign => authority_peacekeeper_armor := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "notes": 30,
   "talent": "Lowstride",
   "category": "Adept",

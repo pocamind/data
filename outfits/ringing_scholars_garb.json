@@ -11,7 +11,7 @@
     "Wayward Gem": 1
   },
   "name": "Ringing Scholar's Garb",
-  "reqs": "ringing_scholars_garb := 240r TTL, 5r INT",
+  "reqs": "240r TTL, 5r INT",
   "notes": 1000,
   "talent": "Lose Your Mind",
   "category": "Starter",

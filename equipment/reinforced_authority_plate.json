@@ -24,7 +24,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "reinforced_authority_plate := 165r TTL",
+  "reqs": "165r TTL",
   "voi": true,
   "desc": "...",
   "voi_only": true

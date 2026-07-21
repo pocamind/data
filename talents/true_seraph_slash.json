@@ -2,7 +2,7 @@
   "name": "True Seraph Slash",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "true_seraph_spear => true_seraph_slash := ()",
+  "reqs": "()",
   "additional_info": "This deals 0.5x of your weapons scaled damage as typeless damage. Hits four times.",
   "count_towards_talent_total": false,
   "icon": "Sword",

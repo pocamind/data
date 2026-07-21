@@ -9,7 +9,7 @@
     "Wind Gem": 1
   },
   "name": "Stratos' Cloak",
-  "reqs": "stratos_cloak := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Breeze",
   "category": "Unique",

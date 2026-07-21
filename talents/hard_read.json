@@ -2,7 +2,7 @@
   "name": "Hard Read",
   "category": "Tactician",
   "rarity": "Common",
-  "reqs": "hard_read := 20s INT",
+  "reqs": "20s INT",
   "additional_info": "Applies Daze for 1 second.",
   "count_towards_talent_total": true,
   "icon": "Brain",

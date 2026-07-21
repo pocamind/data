@@ -2,7 +2,10 @@
   "name": "Rush of Ancients",
   "category": "Jetstriker",
   "rarity": "Oath",
-  "reqs": "oath_jetstriker => rush_of_ancients := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_jetstriker"
+  ],
   "additional_info": "Extends your dash distance and makes you invisible for a very brief duration when you dash.",
   "count_towards_talent_total": false,
   "icon": "Jetstriker",

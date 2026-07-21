@@ -2,7 +2,10 @@
   "name": "Withering Soul",
   "category": "Ministry Prophet",
   "rarity": "Outfit",
-  "reqs": "darkened_bastion => withering_soul := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:darkened_bastion"
+  ],
   "additional_info": "The Wither applied is based off your weapon's scaled damage.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

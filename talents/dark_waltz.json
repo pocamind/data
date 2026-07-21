@@ -2,7 +2,7 @@
   "name": "Dark Waltz",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "dark_waltz := 90r LHT OR 90r MED OR 90r HVY, 90s SDW",
+  "reqs": "90r LHT OR 90r MED OR 90r HVY, 90s SDW",
   "count_towards_talent_total": true,
   "icon": "Shadows",
   "roll2able": true,

@@ -2,7 +2,11 @@
   "name": "Flying Swiftkick",
   "category": "Justicar",
   "rarity": "Common",
-  "reqs": "jus_karita, swiftkick_prodigy => flying_swiftkick := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:jus_karita",
+    "talent:swiftkick_prodigy"
+  ],
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": true,

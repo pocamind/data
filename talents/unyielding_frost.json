@@ -2,7 +2,7 @@
   "name": "Unyielding Frost",
   "category": "Ice Age",
   "rarity": "Advanced",
-  "reqs": "unyielding_frost := 100s ICE",
+  "reqs": "100s ICE",
   "additional_info": "If you have less than 100 Frostdraw, your Chill duration (when applied through block) will be reduced down to 25% of its original duration instead.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

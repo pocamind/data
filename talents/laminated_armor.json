@@ -2,7 +2,7 @@
   "name": "Laminated Armor",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "blackalloy_pauldrons => laminated_armor := ()",
+  "reqs": "()",
   "additional_info": "Reduces damage taken and dealt by a flat 2 (3 in Vow of Iron). This is applied after regular resistances, allowing you to potentially fully nullify damage taken.",
   "count_towards_talent_total": false,
   "icon": "Shield",

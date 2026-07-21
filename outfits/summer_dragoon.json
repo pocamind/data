@@ -9,7 +9,7 @@
     "Megalodaunt Hide": 1
   },
   "name": "Summer Dragoon",
-  "reqs": "summer_dragoon := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Sunset Ricochet",
   "category": "Master",

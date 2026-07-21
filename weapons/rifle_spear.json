@@ -5,7 +5,7 @@
   "damage": 21,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "rifle_spear := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

@@ -2,7 +2,10 @@
   "name": "Union Hook",
   "category": "Ignition Union",
   "rarity": "Quest",
-  "reqs": "ignition_delver => union_hook := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:ignition_delver | objective:union_hook_rescue"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shock",
   "roll2able": false,

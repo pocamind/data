@@ -2,7 +2,10 @@
   "name": "Riot Breaker",
   "category": "Authority Commander",
   "rarity": "Outfit",
-  "reqs": "authority_commander => riot_breaker := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:authority_commander"
+  ],
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

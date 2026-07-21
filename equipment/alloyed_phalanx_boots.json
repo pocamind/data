@@ -13,7 +13,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "alloyed_phalanx_boots := 90r TTL",
+  "reqs": "90r TTL",
   "voi": true,
   "desc": "...",
   "voi_only": true

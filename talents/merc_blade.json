@@ -2,7 +2,7 @@
   "name": "Merc Blade",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "merc_blade := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

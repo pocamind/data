@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "posers_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Damage done with a Katana isn't received until the user sheathes their weapon.",
   "voi_only": false

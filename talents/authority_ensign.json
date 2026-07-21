@@ -2,7 +2,7 @@
   "name": "Authority Ensign",
   "category": "Authority Soldier",
   "rarity": "Origin",
-  "reqs": "authority_ensign := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Eye",
   "roll2able": false,

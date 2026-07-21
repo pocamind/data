@@ -2,7 +2,10 @@
   "name": "All Above, Gods Below",
   "category": "Heretic",
   "rarity": "Advanced",
-  "reqs": "all_the_dead_gods => all_above_gods_below := 100s WLL, 100s INT",
+  "reqs": "100s WLL, 100s INT",
+  "prereqs": [
+    "talent:all_the_dead_gods"
+  ],
   "additional_info": "Only applies to \"active\" healing. The duration of this effect will be reduced if you do not meet the Talent's requirements. This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.",
   "count_towards_talent_total": true,
   "icon": "Eye",

@@ -13,7 +13,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "big_herbalists_hat := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

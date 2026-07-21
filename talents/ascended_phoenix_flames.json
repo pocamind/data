@@ -2,7 +2,11 @@
   "name": "Ascended Phoenix Flames",
   "category": "Immolator",
   "rarity": "Memento",
-  "reqs": "flame_worshipper, solborn => ascended_phoenix_flames := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flame_worshipper",
+    "talent:solborn"
+  ],
   "count_towards_talent_total": false,
   "icon": "Blaze",
   "roll2able": false,

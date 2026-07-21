@@ -2,7 +2,7 @@
   "name": "Windup Battery",
   "category": "Thunder Caster",
   "rarity": "Common",
-  "reqs": "windup_battery := 30s LTN, 30s INT",
+  "reqs": "30s LTN, 30s INT",
   "additional_info": "Applies this bonus to non-Thundercall Mantras.",
   "count_towards_talent_total": true,
   "icon": "Shock",

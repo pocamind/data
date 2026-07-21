@@ -11,7 +11,7 @@
     "Common": 1,
     "Rare": 1
   },
-  "reqs": "ruby_pendant_earrings := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

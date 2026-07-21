@@ -2,7 +2,10 @@
   "name": "Way of Navae",
   "category": "Navaen Nomad",
   "rarity": "Quest",
-  "reqs": "way_of_navae := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:navae_hostage"
+  ],
   "additional_info": "Allows you to use the Way of Navae fist style.",
   "count_towards_talent_total": false,
   "icon": "Fist",

@@ -2,7 +2,7 @@
   "name": "Slider Style",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "slider_style := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

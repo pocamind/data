@@ -2,7 +2,10 @@
   "name": "Expeditious Combo",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "iron_birch => expeditious_combo := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:iron_birch"
+  ],
   "additional_info": "Passively increases the speed of your Onslaught. After landing a basic attack uppercut, gain the Expeditious Combo status effect for 15 seconds, displayed on the cooldown indicator. Casting Onslaught while you have this status effect will massively increase its speed, consuming the status effect in the process. This has no cooldown, but must be manually refreshed every time you use it.",
   "count_towards_talent_total": false,
   "icon": "Sword",

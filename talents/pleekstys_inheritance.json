@@ -2,7 +2,10 @@
   "name": "Pleeksty's Inheritance",
   "category": "Miscellaneous",
   "rarity": "Memento",
-  "reqs": "flame_worshipper => pleekstys_inheritance := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flame_worshipper"
+  ],
   "additional_info": "Makes your Flamecharm Mantras extremely loud.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

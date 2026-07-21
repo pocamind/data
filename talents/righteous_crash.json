@@ -2,7 +2,10 @@
   "name": "Righteous Crash",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "justicar => righteous_crash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "count_towards_talent_total": false,
   "icon": "Explosion",
   "roll2able": false,

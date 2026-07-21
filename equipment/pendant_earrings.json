@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "pendant_earrings := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "whaling_knife := 40r LHT",
+  "reqs": "40r LHT",
   "damage_types": [
     "Slash"
   ],

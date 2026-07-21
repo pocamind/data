@@ -2,7 +2,10 @@
   "name": "Closed Circuit",
   "category": "Unstable Capacitor",
   "rarity": "Common",
-  "reqs": "surge_path_unstable_capacitor => closed_circuit := 50s LTN",
+  "reqs": "50s LTN",
+  "prereqs": [
+    "talent:surge_path_unstable_capacitor"
+  ],
   "additional_info": "Adds 5 Thundercall damage with 5 Thundercall scaling to the Overload, gaining 0.025 damage per Thundercall damage. This is a flat value that does not depend on Rod count.",
   "count_towards_talent_total": true,
   "icon": "Shock",

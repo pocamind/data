@@ -2,7 +2,12 @@
   "name": "Golden Age",
   "category": "Crystalline Gold",
   "rarity": "Common",
-  "reqs": "gilded_path_scrapsinger, glass_path_crystallization, surge_path_unstable_capacitor => golden_age := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:gilded_path_scrapsinger",
+    "talent:glass_path_crystallization",
+    "talent:surge_path_unstable_capacitor"
+  ],
   "count_towards_talent_total": true,
   "icon": "Cube",
   "roll2able": true,

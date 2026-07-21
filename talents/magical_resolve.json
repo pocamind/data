@@ -2,7 +2,10 @@
   "name": "Magical Resolve",
   "category": "Sturdy Resolve",
   "rarity": "Common",
-  "reqs": "battle_tendency => magical_resolve := 40s WLL",
+  "reqs": "40s WLL",
+  "prereqs": [
+    "talent:battle_tendency"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

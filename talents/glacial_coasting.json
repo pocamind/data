@@ -2,7 +2,10 @@
   "name": "Glacial Coasting",
   "category": "Frostthorn",
   "rarity": "Common",
-  "reqs": "orbital_ice => glacial_coasting := 25s AGL, 50s ICE",
+  "reqs": "25s AGL, 50s ICE",
+  "prereqs": [
+    "talent:orbital_ice"
+  ],
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

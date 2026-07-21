@@ -10,7 +10,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "maljuror_jougs := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "Heavy Metal.",
   "voi_only": false

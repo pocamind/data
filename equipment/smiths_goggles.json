@@ -10,7 +10,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "smiths_goggles := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

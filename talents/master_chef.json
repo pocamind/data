@@ -2,7 +2,7 @@
   "name": "Master Chef",
   "category": "Tavernkeep",
   "rarity": "Common",
-  "reqs": "master_chef := 25s INT, 15s CHA",
+  "reqs": "25s INT, 15s CHA",
   "additional_info": "Increases the duration of food buffs by 30%. Increases the healing gained from using Fondant Splitter's critical.",
   "count_towards_talent_total": true,
   "icon": "Blaze",

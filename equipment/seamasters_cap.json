@@ -17,7 +17,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "seamasters_cap := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Ten thousand thundering typhoons!",
   "voi_only": false

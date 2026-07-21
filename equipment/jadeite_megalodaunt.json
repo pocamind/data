@@ -12,7 +12,7 @@
   "pips": {
     "Legendary": 2
   },
-  "reqs": "jadeite_megalodaunt := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "An effigy of a stylized Megalodaunt, cherished for its ability to boost morale and scare off bad juju.",
   "voi_only": false

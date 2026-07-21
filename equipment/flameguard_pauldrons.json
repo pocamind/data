@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "flameguard_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

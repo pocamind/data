@@ -5,7 +5,10 @@
   "damage": 16,
   "posture_damage": 3,
   "range": 12,
-  "reqs": "crazy_slots => soulwrought_gun := ()",
+  "reqs": "()",
+  "prereqs": [
+    "resonance:crazy_slots"
+  ],
   "damage_types": [
     "Blunt"
   ],

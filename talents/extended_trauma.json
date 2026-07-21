@@ -2,7 +2,10 @@
   "name": "Extended Trauma",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "morning_star => extended_trauma := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:morning_star"
+  ],
   "additional_info": "Deals 3 posture damage to non-blocking opponents on M1, and 10 posture damage on critical. This cannot posture break, and this does not benefit from posture damage modifiers.",
   "count_towards_talent_total": false,
   "icon": "Brain",

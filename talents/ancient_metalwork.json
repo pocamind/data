@@ -2,7 +2,10 @@
   "name": "Ancient Metalwork",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "dissonant_chimecaller => ancient_metalwork := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:dissonant_chimecaller"
+  ],
   "additional_info": "Landing your weapon critical puts your opponent's Resonance on a 25 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",

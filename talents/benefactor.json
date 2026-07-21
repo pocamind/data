@@ -2,7 +2,10 @@
   "name": "Benefactor",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "varicosan_finery => benefactor := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:varicosan_finery"
+  ],
   "additional_info": "Grants faction reputation upon selling items to their respective Antiquarian.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

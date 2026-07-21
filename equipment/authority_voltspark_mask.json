@@ -17,7 +17,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "authority_voltspark_mask := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Originally a dangerous prototype that turned soldiers into lightning-fast lunatics. You think you managed to work out the kinks. Maybe.",
   "voi_only": false

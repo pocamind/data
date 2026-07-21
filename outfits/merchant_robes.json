@@ -4,7 +4,7 @@
     "Fiber": 5
   },
   "name": "Merchant Robes",
-  "reqs": "merchant_robes := ()",
+  "reqs": "()",
   "notes": 25,
   "talent": "Merchant's Accord",
   "category": "Starter",

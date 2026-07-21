@@ -2,7 +2,10 @@
   "name": "Float Like a Butterfly",
   "category": "Bladeharper",
   "rarity": "Oath",
-  "reqs": "oath_bladeharper => float_like_a_butterfly := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_bladeharper"
+  ],
   "additional_info": "5s CD. Only accessible if True Strength is active. Deals 24 Oath + Slash damage (4 hits that deal 7 damage each).",
   "count_towards_talent_total": false,
   "icon": "Bladeharper",

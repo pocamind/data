@@ -2,7 +2,10 @@
   "name": "Cyclical Exsanguination",
   "category": "Transitory Vitality",
   "rarity": "Common",
-  "reqs": "sow_and_mend => cyclical_exsanguination := 65s BLD",
+  "reqs": "65s BLD",
+  "prereqs": [
+    "talent:sow_and_mend"
+  ],
   "additional_info": "8 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Blood",

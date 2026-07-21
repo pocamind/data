@@ -2,7 +2,7 @@
   "name": "Fragile Freeze",
   "category": "Cryomancer",
   "rarity": "Common",
-  "reqs": "fragile_freeze := 60s ICE",
+  "reqs": "60s ICE",
   "additional_info": "Encases them in ice, removing their ability to move, parry, block, or dodge for a short amount of time. Taking damage by any source (including damage over time effects) will end the freeze early. You can spam [F] to get out of Freeze faster.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 7,
   "range": 11,
-  "reqs": "imperators_edge := 80r MED, 80r STR, 80r FTD",
+  "reqs": "80r MED, 80r STR, 80r FTD",
   "damage_types": [
     "Slash"
   ],

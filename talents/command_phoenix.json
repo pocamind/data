@@ -2,7 +2,10 @@
   "name": "Command Phoenix",
   "category": "Heliodar",
   "rarity": "Memento",
-  "reqs": "solborn => command_phoenix := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:solborn"
+  ],
   "additional_info": "Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.",
   "count_towards_talent_total": false,
   "icon": "Claw",

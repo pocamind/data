@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "vapormaw_carbine := 50r MED, 30r FLM, 30r ICE",
+  "reqs": "50r MED, 30r FLM, 30r ICE",
   "damage_types": [
     "Slash"
   ],

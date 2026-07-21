@@ -7,7 +7,7 @@
     "Lionfish Scale": 2
   },
   "name": "Whaler Coat",
-  "reqs": "whaler_coat := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 100,
   "talent": null,
   "category": "Expert",

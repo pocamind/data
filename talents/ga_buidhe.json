@@ -2,7 +2,10 @@
   "name": "Ga Buidhe",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "spear_dancer => ga_buidhe := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:spear_dancer"
+  ],
   "additional_info": "Attacking your opponent's back now procs all Talents and effects that would normally proc when attacking with the tip of your weapon.",
   "count_towards_talent_total": false,
   "icon": "Sword",

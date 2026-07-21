@@ -2,7 +2,10 @@
   "name": "Dancer's Impale",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "spear_dancer => dancers_impale := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:spear_dancer"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

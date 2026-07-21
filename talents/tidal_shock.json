@@ -2,7 +2,10 @@
   "name": "Tidal Shock",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "cala_mariner => tidal_shock := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:cala_mariner"
+  ],
   "additional_info": "Your Critical attacks will apply Daze on hit. For the next 4 seconds after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra instead, voiding its damage. This can be used to void self damaging Mantras. 13 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Cloak",

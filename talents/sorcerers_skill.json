@@ -2,7 +2,10 @@
   "name": "Sorcerer's Skill",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "sorcerers_brim => sorcerers_skill := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:sorcerers_brim"
+  ],
   "additional_info": "This restores 5 Tempo after using your Vent instead of decreasing the Vent cost.",
   "count_towards_talent_total": false,
   "icon": "Brain",

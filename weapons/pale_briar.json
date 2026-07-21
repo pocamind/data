@@ -5,7 +5,7 @@
   "damage": 23,
   "posture_damage": 7,
   "range": 10,
-  "reqs": "pale_briar := 85r HVY",
+  "reqs": "85r HVY",
   "damage_types": [
     "Slash"
   ],

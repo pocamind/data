@@ -5,7 +5,7 @@
   "damage": null,
   "posture_damage": null,
   "range": null,
-  "reqs": "khan_shield := 60r FTD",
+  "reqs": "60r FTD",
   "posture_max": 8,
   "enchantable": false,
   "equip_motifs": false,

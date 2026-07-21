@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "wyrmtooth := 60r MED, 40r HVY",
+  "reqs": "60r MED, 40r HVY",
   "damage_types": [
     "Slash"
   ],

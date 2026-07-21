@@ -2,7 +2,7 @@
   "name": "Aerogliding",
   "category": "Aeromancer",
   "rarity": "Rare",
-  "reqs": "aerogliding := 35s WND, 30s AGL",
+  "reqs": "35s WND, 30s AGL",
   "additional_info": "When active, create an aura that reduces fall speed and stops fall damage. Automatically ends after 5 seconds.",
   "count_towards_talent_total": true,
   "icon": "Wind",

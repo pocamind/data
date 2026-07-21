@@ -3,7 +3,7 @@
   "shirt_id": "6749248008",
   "mats": {},
   "name": "Soren",
-  "reqs": "soren := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Crippling Darkness",
   "category": "Spec",

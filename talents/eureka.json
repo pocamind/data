@@ -2,7 +2,7 @@
   "name": "Eureka",
   "category": "Ether Conduit",
   "rarity": "Rare",
-  "reqs": "eureka := 30s INT",
+  "reqs": "30s INT",
   "additional_info": "Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.",
   "count_towards_talent_total": true,
   "icon": "Brain",

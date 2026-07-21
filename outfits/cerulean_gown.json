@@ -7,7 +7,7 @@
   "name": "Cerulean Gown",
   "pants_id": "16826366211",
   "shirt_id": "16826363331",
-  "reqs": "cerulean_gown := 135r TTL",
+  "reqs": "135r TTL",
   "notes": 200,
   "talent": null,
   "category": "Expert",

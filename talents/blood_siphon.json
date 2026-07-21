@@ -2,7 +2,10 @@
   "name": "Blood Siphon",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "necrotic_cowl => blood_siphon := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:necrotic_cowl"
+  ],
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,

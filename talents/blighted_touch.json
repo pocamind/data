@@ -2,7 +2,10 @@
   "name": "Blighted Touch",
   "category": "Blightsurger",
   "rarity": "Oath",
-  "reqs": "oath_blightsurger => blighted_touch := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_blightsurger"
+  ],
   "additional_info": "This allows your Sovereign Bangle to apply Wither on hit.",
   "count_towards_talent_total": false,
   "roll2able": false,

@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "silver_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A simple silver ring.",
   "voi_only": false

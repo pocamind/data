@@ -2,7 +2,10 @@
   "name": "Kindness",
   "category": "Warder Techniques",
   "rarity": "Faction",
-  "reqs": "justicar => kindness := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar"
+  ],
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

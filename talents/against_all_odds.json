@@ -2,7 +2,7 @@
   "name": "Against All Odds",
   "category": "Absolute Focus",
   "rarity": "Common",
-  "reqs": "against_all_odds := 65s WLL",
+  "reqs": "65s WLL",
   "count_towards_talent_total": true,
   "icon": "Eye",
   "roll2able": true,

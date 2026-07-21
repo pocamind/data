@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_linkstrider => parasitic_leech := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_linkstrider"
+  ],
   "voi": false,
   "desc": "Activate when linked to an enemy to leech their own health for a short duration.",
   "voi_only": false

@@ -2,7 +2,10 @@
   "name": "Possession",
   "category": "Specter",
   "rarity": "Advanced",
-  "reqs": "haunted_path_specter => possession := 75s WND",
+  "reqs": "75s WND",
+  "prereqs": [
+    "talent:haunted_path_specter"
+  ],
   "additional_info": "The chip damage buff only applies to Galebreathe Mantras.",
   "count_towards_talent_total": true,
   "icon": "Wind",

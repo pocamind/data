@@ -13,7 +13,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "solar_pendant := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

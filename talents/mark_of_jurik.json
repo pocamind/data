@@ -2,7 +2,10 @@
   "name": "Mark of Jurik",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "capra => mark_of_jurik := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:capra"
+  ],
   "additional_info": "Gain a tool that lowers the sanity drain of nearby players. Also buffs affected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Also buffs non allies. Does not require you to be resting at a campfire.",
   "count_towards_talent_total": false,
   "icon": "Claw",

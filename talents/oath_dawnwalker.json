@@ -2,7 +2,7 @@
   "name": "Oath: Dawnwalker",
   "category": "Dawnwalker",
   "rarity": "Oath",
-  "reqs": "oath_dawnwalker := 240s TTL",
+  "reqs": "240s TTL",
   "count_towards_talent_total": false,
   "icon": "Dawnwalker",
   "roll2able": false,

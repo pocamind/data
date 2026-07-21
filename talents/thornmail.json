@@ -2,7 +2,7 @@
   "name": "Thornmail",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "thornmail := 45s MTL",
+  "reqs": "45s MTL",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": true,

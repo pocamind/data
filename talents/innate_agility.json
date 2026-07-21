@@ -2,7 +2,10 @@
   "name": "Innate Agility",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "felinor => innate_agility := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:felinor"
+  ],
   "count_towards_talent_total": false,
   "icon": "Claw",
   "roll2able": false,

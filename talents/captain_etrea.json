@@ -2,7 +2,10 @@
   "name": "Captain Etrea",
   "category": "Navaen Nomad",
   "rarity": "Common",
-  "reqs": "moving_fortress => captain_etrea := 30s STR, 20s FTD",
+  "reqs": "30s STR, 20s FTD",
+  "prereqs": [
+    "talent:moving_fortress"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shield",
   "roll2able": true,

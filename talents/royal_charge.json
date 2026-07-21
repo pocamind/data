@@ -2,7 +2,10 @@
   "name": "Royal Charge",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "royal_commander_helm => royal_charge := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:royal_commander_helm"
+  ],
   "additional_info": "Running attacks with Club weapons grant Temporary Health. 20 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Sword",

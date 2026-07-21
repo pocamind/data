@@ -2,7 +2,7 @@
   "name": "Oath: Soulbreaker",
   "category": "Soulbreaker",
   "rarity": "Oath",
-  "reqs": "oath_soulbreaker := WLL + CHA = 50r",
+  "reqs": "WLL + CHA = 50r",
   "additional_info": "Your Ardour gains a new visual effect.",
   "count_towards_talent_total": false,
   "icon": "Soulbreaker",

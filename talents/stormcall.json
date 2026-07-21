@@ -2,7 +2,10 @@
   "name": "Stormcall",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "specialist_plate => stormcall := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:specialist_plate"
+  ],
   "additional_info": "Your Stormcall Shocks from other Specialist Equipment Talents apply the Stormcall Shock status effect. If your opponent attempts to cast a Mantra while affected, they will take 15 Galebreathe/Thundercall damage and they will gain the Shock and Winded status effect.",
   "count_towards_talent_total": false,
   "icon": "Shock",

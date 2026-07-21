@@ -2,7 +2,7 @@
   "name": "Oath: Saltchemist",
   "category": "Saltchemist",
   "rarity": "Oath",
-  "reqs": "oath_saltchemist := 75s INT",
+  "reqs": "75s INT",
   "count_towards_talent_total": false,
   "icon": "Saltchemist",
   "roll2able": false,

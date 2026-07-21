@@ -2,7 +2,10 @@
   "name": "Slick",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "kongas_parka => slick := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:kongas_parka"
+  ],
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

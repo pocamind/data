@@ -5,7 +5,7 @@
   "damage": 25,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "boltcrusher := 55r HVY, 20r STR, 80r LTN",
+  "reqs": "55r HVY, 20r STR, 80r LTN",
   "damage_types": [
     "Blunt",
     "Thundercall"

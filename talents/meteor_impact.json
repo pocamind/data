@@ -2,7 +2,10 @@
   "name": "Meteor Impact",
   "category": "Falling Star Guard",
   "rarity": "Common",
-  "reqs": "meteor_impact := 25s FLM",
+  "reqs": "25s FLM",
+  "prereqs": [
+    "mantra:rising_flame | mantra:rising_frost | mantra:rising_thunder | mantra:rising_wind | mantra:rising_shadow"
+  ],
   "additional_info": "Deals 10 flat Flamecharm damage on top of your weapon's scaled damage. Procs by light attacking after using certain Mantras that end with both the user and the victim suspended in the air.",
   "count_towards_talent_total": true,
   "icon": "Wings",

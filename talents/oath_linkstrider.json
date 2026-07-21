@@ -2,7 +2,7 @@
   "name": "Oath: Linkstrider",
   "category": "Linkstrider",
   "rarity": "Oath",
-  "reqs": "oath_linkstrider := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Linkstrider",
   "roll2able": false,

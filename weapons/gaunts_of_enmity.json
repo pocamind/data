@@ -5,7 +5,7 @@
   "damage": 15,
   "posture_damage": 6,
   "range": 6,
-  "reqs": "gaunts_of_enmity := 75r LHT, 10r FTD",
+  "reqs": "75r LHT, 10r FTD",
   "damage_types": [
     "Blunt"
   ],

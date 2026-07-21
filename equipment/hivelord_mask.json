@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "hivelord_mask := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "An ancient mask of a lost Hivelord, now a relic.",
   "voi_only": false

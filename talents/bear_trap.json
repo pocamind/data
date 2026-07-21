@@ -2,7 +2,7 @@
   "name": "Bear Trap",
   "category": "Vigil Swordsman",
   "rarity": "Common",
-  "reqs": "bear_trap := 20s STR, 20s AGL",
+  "reqs": "20s STR, 20s AGL",
   "additional_info": "Affected targets cannot jump for 4 seconds. Targets gain 6 seconds of Bear Trap immunity.",
   "count_towards_talent_total": false,
   "icon": "Claw",

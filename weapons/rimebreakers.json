@@ -5,7 +5,7 @@
   "damage": 16.5,
   "posture_damage": 5,
   "range": 6,
-  "reqs": "rimebreakers := 50r LHT, 50r ICE, 50r WND",
+  "reqs": "50r LHT, 50r ICE, 50r WND",
   "damage_types": [
     "Blunt",
     "Frostdraw",

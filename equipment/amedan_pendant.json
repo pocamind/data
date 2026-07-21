@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "amedan_pendant := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "A golden pendant in the likeness of the Kyrsan Suncross, known to them as Ameda. In the ruins of Old Kyrsa, the Amedan Temple is said to still stand, though there are no longer free souls to make pilgrimage to it, or to receives its impression.",
   "voi_only": false

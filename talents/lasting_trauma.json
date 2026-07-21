@@ -2,7 +2,7 @@
   "name": "Lasting Trauma",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "reinforced_war => lasting_trauma := ()",
+  "reqs": "()",
   "additional_info": "This applies the Fearful status effect for 19 seconds. Wrath gems have a 10 second cooldown, meaning you can potentially disable your opponent's ability to use their critical indefinitely.",
   "count_towards_talent_total": false,
   "icon": "Fist",

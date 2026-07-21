@@ -2,7 +2,10 @@
   "name": "Phoenix Impact",
   "category": "Falling Star Guard",
   "rarity": "Common",
-  "reqs": "meteor_impact => phoenix_impact := 40s FLM",
+  "reqs": "40s FLM",
+  "prereqs": [
+    "talent:meteor_impact"
+  ],
   "additional_info": "Heals 4% max HP and restores 20 ether.",
   "count_towards_talent_total": true,
   "icon": "Wings",

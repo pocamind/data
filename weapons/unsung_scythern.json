@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 8,
   "range": 8,
-  "reqs": "unsung_scythern := 75r HVY",
+  "reqs": "75r HVY",
   "damage_types": [
     "Slash"
   ],

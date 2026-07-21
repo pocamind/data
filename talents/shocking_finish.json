@@ -2,7 +2,10 @@
   "name": "Shocking Finish",
   "category": "Thundercaller",
   "rarity": "Common",
-  "reqs": "lightning_beam => shocking_finish := 30s LTN",
+  "reqs": "30s LTN",
+  "prereqs": [
+    "mantra:lightning_beam"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

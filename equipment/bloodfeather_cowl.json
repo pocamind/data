@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "bloodfeather_cowl := 135r TTL",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

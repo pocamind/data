@@ -2,7 +2,7 @@
   "name": "Bloodiron Spirit",
   "category": "Soul Converter",
   "rarity": "Rare",
-  "reqs": "bloodiron_spirit := ()",
+  "reqs": "()",
   "additional_info": "Restores 2.5% of your maximum armor upon executing an enemy.",
   "count_towards_talent_total": true,
   "icon": "Shield",

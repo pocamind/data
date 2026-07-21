@@ -2,7 +2,7 @@
   "name": "Quick Swap",
   "category": "Gunslinger",
   "rarity": "Common",
-  "reqs": "quick_swap := 40s LHT",
+  "reqs": "40s LHT",
   "count_towards_talent_total": true,
   "icon": "Bullet",
   "roll2able": true,

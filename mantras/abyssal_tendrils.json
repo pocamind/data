@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "abyssal_tendrils := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Create tentacles and pierce multiple opponents at once.",
   "voi_only": false

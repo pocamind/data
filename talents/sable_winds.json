@@ -2,7 +2,10 @@
   "name": "Sable Winds",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "eyes_of_ethiron => sable_winds := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:eyes_of_ethiron"
+  ],
   "additional_info": "Inhale bonuses now apply to Shadowcast Mantras as well.",
   "count_towards_talent_total": false,
   "icon": "Wind",

@@ -2,7 +2,7 @@
   "name": "Knight's Rally",
   "category": "Shieldmaster",
   "rarity": "Common",
-  "reqs": "knights_rally := 30s FTD, 10s WLL",
+  "reqs": "30s FTD, 10s WLL",
   "count_towards_talent_total": true,
   "icon": "Shield",
   "roll2able": true,

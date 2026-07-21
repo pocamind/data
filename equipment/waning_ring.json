@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "waning_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike.",
   "voi_only": false

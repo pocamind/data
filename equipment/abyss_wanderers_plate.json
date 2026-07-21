@@ -18,7 +18,7 @@
   "pips": {
     "Legendary": 3
   },
-  "reqs": "abyss_wanderers_plate := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

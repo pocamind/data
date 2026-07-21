@@ -11,7 +11,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "azure_royal_guard := 135 ttl",
+  "reqs": "135 ttl",
   "voi": false,
   "desc": "..."
 }

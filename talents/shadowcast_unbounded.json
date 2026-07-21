@@ -2,7 +2,10 @@
   "name": "Shadowcast Unbounded",
   "category": "Shadowcast Master",
   "rarity": "Common",
-  "reqs": "master_shadowcaster => shadowcast_unbounded := 75r SDW",
+  "reqs": "75r SDW",
+  "prereqs": [
+    "talent:master_shadowcaster"
+  ],
   "additional_info": "Removes the 75 investment cap on the Shadowcast Attribute. This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

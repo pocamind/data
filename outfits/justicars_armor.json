@@ -8,7 +8,7 @@
     "Thresher Spine": 4
   },
   "name": "Justicar's Armor",
-  "reqs": "justicars_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "The Path, Unveiled",
   "category": "Master",

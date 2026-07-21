@@ -3,7 +3,7 @@
   "shirt_id": "5990799958",
   "mats": {},
   "name": "Mr Toon",
-  "reqs": "mr_toon := ()",
+  "reqs": "()",
   "notes": 0,
   "talent": "Vow of Mastery",
   "category": "Spec",

@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "grand_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

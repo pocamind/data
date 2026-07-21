@@ -5,7 +5,7 @@
   "damage": 27,
   "posture_damage": 8,
   "range": 8,
-  "reqs": "wretched_mawblades := 75r HVY",
+  "reqs": "75r HVY",
   "damage_types": [
     "Slash"
   ],

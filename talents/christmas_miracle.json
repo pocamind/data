@@ -2,7 +2,7 @@
   "name": "Christmas Miracle",
   "category": "Christmas Miracle",
   "rarity": "Spec",
-  "reqs": "christmas_miracle := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "roll2able": false,
   "vaulted": false,

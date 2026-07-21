@@ -2,7 +2,10 @@
   "name": "Ether Pinpoint",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ascended_outlaw_robes => ether_pinpoint := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:ascended_outlaw_robes"
+  ],
   "count_towards_talent_total": false,
   "icon": "Brain",
   "roll2able": false,

@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "iron_spear := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

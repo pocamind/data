@@ -2,7 +2,10 @@
   "name": "Relentless Barrage",
   "category": "Breaker",
   "rarity": "Memento",
-  "reqs": "breaker => relentless_barrage := 240s TTL",
+  "reqs": "240s TTL",
+  "prereqs": [
+    "objective:breaker"
+  ],
   "additional_info": "Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked. At max Calamity Punch stacks, gain hyperarmor during Rapid Punches.",
   "count_towards_talent_total": false,
   "icon": "Fist",

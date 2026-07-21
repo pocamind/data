@@ -2,7 +2,10 @@
   "name": "Cheap Trick",
   "category": "Visionshaper",
   "rarity": "Oath",
-  "reqs": "oath_visionshaper => cheap_trick := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_visionshaper"
+  ],
   "additional_info": "Being hit while under half HP grants I-frames and turns you invisible for a very short duration. 60s CD. Knocking an opponent turns you invisible for 2.5 seconds with no I-frames.",
   "count_towards_talent_total": false,
   "icon": "Visionshaper",

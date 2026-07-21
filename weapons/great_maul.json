@@ -5,7 +5,7 @@
   "damage": 25,
   "posture_damage": 10,
   "range": 9,
-  "reqs": "great_maul := 75r HVY, 30r STR",
+  "reqs": "75r HVY, 30r STR",
   "damage_types": [
     "Blunt"
   ],

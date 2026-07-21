@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "deranged_treasure := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Gain extra defense when you are insane, with this effect scaling based on how insane you are",
   "voi_only": true

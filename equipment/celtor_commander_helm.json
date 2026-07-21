@@ -18,7 +18,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "celtor_commander_helm := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

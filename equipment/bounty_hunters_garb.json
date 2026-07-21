@@ -19,7 +19,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "bounty_hunters_garb := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

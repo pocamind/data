@@ -1,5 +1,5 @@
 {
   "desc": "A chime focused build preset.",
   "name": "Chime",
-  "opts": "Free:\n# we should really get these\n20; NEURO := 35r wll or 35r cha or 35r int\n\n15; TO_THE_FINISH := 50 ftd\n15; EXOSKELETON := 40 ftd\n\n12; OLD_HABITS_DIE_HARD := 20 wll\n\n12; PERFECT_FLASH := 25 int\n12; TOUGH_LOVE := 25 cha\n\n# really optional stuff\n1; BATTLE_TENDENCY := 15 ftd, 15 wll\n3; MAGICAL_RESOLVE := 15 ftd, 40 wll\n1; EUREKA := 30 int\n1; MASTER_CRAFTSMEN := 45 int\n1; GOLDEN_TONGUE := 40 cha\n3; CHAOTIC_CHARM := 55 cha\n1; MANIPULATOR := 60 cha\n1; THEATRICS := 75 cha\n\nPost:\n"
+  "opts": "Free:\n# we should really get these\n20; talent:neuroplasticity := 35r wll or 35r cha or 35r int\n\n15; talent:to_the_finish := 50 ftd\n15; talent:exoskeleton := 40 ftd\n\n12; talent:old_habits_die_hard := 20 wll\n\n12; talent:perfect_flash := 25 int\n12; talent:tough_love := 25 cha\n\n# really optional stuff\n1; talent:battle_tendency := 15 ftd, 15 wll\n3; talent:magical_resolve := 15 ftd, 40 wll\n1; talent:eureka := 30 int\n1; talent:master_craftsman := 45 int\n1; talent:golden_tongue := 40 cha\n3; talent:chaotic_charm := 55 cha\n1; talent:manipulator := 60 cha\n1; talent:unnecessary_theatrics := 75 cha\n\nPost:\n"
 }

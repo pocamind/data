@@ -2,7 +2,10 @@
   "name": "Dark Harvest",
   "category": "Void Glutton",
   "rarity": "Memento",
-  "reqs": "void_glutton => dark_harvest := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:void_glutton"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shadows",
   "roll2able": false,

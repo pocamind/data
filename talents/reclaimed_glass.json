@@ -2,7 +2,10 @@
   "name": "Reclaimed Glass",
   "category": "Glassdancer",
   "rarity": "Common",
-  "reqs": "crystal_shrapnel => reclaimed_glass := 65s ICE",
+  "reqs": "65s ICE",
+  "prereqs": [
+    "talent:crystal_shrapnel"
+  ],
   "additional_info": "The duration of this effect is refreshable by reproccing it.",
   "count_towards_talent_total": true,
   "icon": "Snowflake",

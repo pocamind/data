@@ -5,7 +5,7 @@
   "damage": 19.8,
   "posture_damage": 5,
   "range": 7.5,
-  "reqs": "nocturne := 90r MED",
+  "reqs": "90r MED",
   "damage_types": [
     "Slash"
   ],

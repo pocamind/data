@@ -2,7 +2,10 @@
   "name": "Blade Threading",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "ferractine => blade_threading := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:ferractine"
+  ],
   "count_towards_talent_total": false,
   "icon": "Ferrofluid",
   "roll2able": false,

@@ -2,7 +2,7 @@
   "name": "Grounding Bolt",
   "category": "Shock Therapy",
   "rarity": "Common",
-  "reqs": "grounding_bolt := 90s LTN, 90r LHT OR 90r MED OR 90r HVY",
+  "reqs": "90s LTN, 90r LHT OR 90r MED OR 90r HVY",
   "additional_info": "10 second cooldown. Procs on lightning strikes caused from Scorched Peak, Fulgurite Formation, the Specialist Set equipment Talents, and Storm/Stormbreaker enchantments during the rain.",
   "count_towards_talent_total": true,
   "icon": "Shock",

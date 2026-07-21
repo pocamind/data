@@ -2,7 +2,10 @@
   "name": "Ethiron's Gaze",
   "category": "Drowned Secret",
   "rarity": "Quest",
-  "reqs": "ethirons_gaze := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:ethirons_gaze"
+  ],
   "additional_info": "The snow in the Second Layer no longer affects your ability to see. Also reduces the visual clutter of snow in the overworld.",
   "count_towards_talent_total": false,
   "icon": "Eye",

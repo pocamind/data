@@ -2,7 +2,10 @@
   "name": "Blood Plague",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "bloodcurdle_mask => blood_plague := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:bloodcurdle_mask"
+  ],
   "additional_info": "M1s apply stacks of Blood Plague. On critical, all Blood Plague stacks will be consumed to grant Temporary Health if your critical attack lands, with the amount of Temporary Health given scaling on the stacks of Blood Plague. The stacks of Blood Plague will be consumed regardless of if your critical attack lands, however.",
   "count_towards_talent_total": false,
   "icon": "Blood",

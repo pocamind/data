@@ -2,7 +2,11 @@
   "name": "Righteous Violence",
   "category": "Warder Techniques",
   "rarity": "Faction",
-  "reqs": "justicar, justicars_mark => righteous_violence := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar",
+    "talent:justicars_mark"
+  ],
   "count_towards_talent_total": false,
   "icon": "Blood",
   "roll2able": false,

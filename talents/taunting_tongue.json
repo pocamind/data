@@ -2,7 +2,7 @@
   "name": "Taunting Tongue",
   "category": "Toxic Personality",
   "rarity": "Common",
-  "reqs": "taunting_tongue := ()",
+  "reqs": "()",
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

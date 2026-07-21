@@ -2,7 +2,7 @@
   "name": "Risky Moves",
   "category": "Butterfly",
   "rarity": "Rare",
-  "reqs": "risky_moves := 25s AGL",
+  "reqs": "25s AGL",
   "additional_info": "Attacking will cancel the effect early. 20 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Cloak",

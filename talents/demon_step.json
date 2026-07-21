@@ -2,7 +2,10 @@
   "name": "Demon Step",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "familiar_demons_armor => demon_step := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:familiar_demons_armor"
+  ],
   "additional_info": "On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.",
   "count_towards_talent_total": false,
   "icon": "Boots",

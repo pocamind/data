@@ -2,7 +2,10 @@
   "name": "Chain of Perfection",
   "category": "Metamancer",
   "rarity": "Quest",
-  "reqs": "chain_of_perfection := 30s TTL",
+  "reqs": "30s TTL",
+  "prereqs": [
+    "objective:chain_of_perfection"
+  ],
   "additional_info": "Gain a 5% damage buff against PVE enemies per stack of Perfection above 5, capping at +100% damage at 25 stacks. This is treated as a final damage multiplier and it bypasses the damage modifier cap. All stacks of Perfection are lost upon taking any damage, excluding self damage.",
   "count_towards_talent_total": false,
   "icon": "Chainwarden ",

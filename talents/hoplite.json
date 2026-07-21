@@ -2,7 +2,7 @@
   "name": "Hoplite",
   "category": "Lancer",
   "rarity": "Common",
-  "reqs": "hoplite := 15s FTD",
+  "reqs": "15s FTD",
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": true,

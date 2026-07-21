@@ -2,7 +2,10 @@
   "name": "Overflow",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "heretics_memento => overflow := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:heretics_memento"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

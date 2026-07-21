@@ -2,7 +2,10 @@
   "name": "Human Battery",
   "category": "Unstable Capacitor",
   "rarity": "Common",
-  "reqs": "surge_path_unstable_capacitor => human_battery := 60s LTN",
+  "reqs": "60s LTN",
+  "prereqs": [
+    "talent:surge_path_unstable_capacitor"
+  ],
   "additional_info": "Each Rod equates to 10 Ether. Works on Rods that weren't applied by you, but does not work on Rods applied to you.",
   "count_towards_talent_total": true,
   "icon": "Shock",

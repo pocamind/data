@@ -13,7 +13,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "potion_masters_hat := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

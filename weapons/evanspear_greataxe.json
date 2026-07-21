@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "evanspear_greataxe := 70r HVY",
+  "reqs": "70r HVY",
   "damage_types": [
     "Slash",
     "Bleed"

@@ -2,7 +2,11 @@
   "name": "Blade Scholar",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "alloyed_inheritor, markors_inheritor => blade_scholar := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:alloyed_inheritor",
+    "weapon:markors_inheritor"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

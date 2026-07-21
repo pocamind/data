@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 6,
   "range": 8.5,
-  "reqs": "serpents_edge := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash"
   ],

@@ -2,7 +2,7 @@
   "name": "An Ironsinger's Instinct",
   "category": "Adaptive Arsenal",
   "rarity": "Rare",
-  "reqs": "an_ironsingers_instinct := 75s MTL",
+  "reqs": "75s MTL",
   "additional_info": "Grants 60% damage reduction for 2 seconds. Ends early if you take damage. 18 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",

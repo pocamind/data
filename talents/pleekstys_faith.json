@@ -2,7 +2,7 @@
   "name": "Pleeksty's Faith",
   "category": "Inferno",
   "rarity": "Common",
-  "reqs": "pleekstys_faith := 25s FLM, 15s WLL, 15s CHA",
+  "reqs": "25s FLM, 15s WLL, 15s CHA",
   "additional_info": "Does not proc with flames produced by the user with Flame Within or Agitating Spark.",
   "count_towards_talent_total": false,
   "icon": "Blaze",

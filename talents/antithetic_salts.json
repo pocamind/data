@@ -2,7 +2,10 @@
   "name": "Antithetic Salts",
   "category": "Saltchemist",
   "rarity": "Oath",
-  "reqs": "oath_saltchemist => antithetic_salts := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saltchemist"
+  ],
   "additional_info": "Gives you a Talent tool-like ability that acts as a potion ingredient on use. When applied to your potions, it inverts the effects of the ingredients in the potion.",
   "count_towards_talent_total": false,
   "icon": "Saltchemist",

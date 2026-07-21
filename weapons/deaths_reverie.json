@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 7.5,
   "range": 8,
-  "reqs": "deaths_reverie := 75r MED",
+  "reqs": "75r MED",
   "damage_types": [
     "Slash",
     "Bleed"

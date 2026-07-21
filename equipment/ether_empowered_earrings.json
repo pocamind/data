@@ -12,7 +12,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "ether_empowered_earrings := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

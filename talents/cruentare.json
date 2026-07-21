@@ -2,7 +2,10 @@
   "name": "Cruentare",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "crimson_tetraplate_pauldrons => cruentare := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:crimson_terraplate_pauldrons"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

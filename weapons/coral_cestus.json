@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 5,
   "range": 6,
-  "reqs": "coral_cestus := 50r LHT",
+  "reqs": "50r LHT",
   "damage_types": [
     "Blunt"
   ],

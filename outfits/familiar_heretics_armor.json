@@ -7,7 +7,7 @@
   "name": "Familiar Heretic's Armor",
   "pants_id": "2366828269",
   "shirt_id": "2366825248",
-  "reqs": "familiar_heretics_armor := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 5000,
   "talent": "Soul Rip",
   "category": "Unique",
