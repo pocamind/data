@@ -5,7 +5,7 @@
   "damage": 23,
   "posture_damage": 7,
   "range": 8.5,
-  "reqs": "worldpainter_brush := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

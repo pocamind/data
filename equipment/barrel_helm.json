@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "barrel_helm := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A sturdy helmet shaped like a barrel.",
   "voi_only": false

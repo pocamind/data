@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 4,
   "range": 6,
-  "reqs": "kyrsedge := 75r LHT",
+  "reqs": "75r LHT",
   "damage_types": [
     "Slash"
   ],

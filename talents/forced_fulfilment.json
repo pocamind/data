@@ -2,7 +2,10 @@
   "name": "Forced Fulfilment",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "metal_greatsword => forced_fulfilment := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:metal_greatsword"
+  ],
   "additional_info": "The Metal Fakeout critical only works while you are in range of a target. Additionally, this critical applies Bleed and counts as a weapon attack, not a Mantra. The rod applies a 52.5% slow for 15 seconds.",
   "count_towards_talent_total": false,
   "icon": "Fist",

@@ -9,7 +9,7 @@
     "Megalodaunt Hide": 1
   },
   "name": "Black Diver",
-  "reqs": "black_diver := 240r TTL, 10r WLL",
+  "reqs": "240r TTL, 10r WLL",
   "notes": 1000,
   "talent": null,
   "category": "Master",

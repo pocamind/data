@@ -10,7 +10,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "iron_mask := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority.",
   "voi_only": false

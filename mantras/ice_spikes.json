@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "ice_spikes := 1r ICE",
+  "reqs": "1r ICE",
   "damage": [
     {
       "variant": null,

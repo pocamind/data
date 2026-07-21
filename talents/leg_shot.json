@@ -2,7 +2,7 @@
   "name": "Leg Shot",
   "category": "Marksman",
   "rarity": "Rare",
-  "reqs": "leg_shot := 80s MED",
+  "reqs": "80s MED",
   "count_towards_talent_total": true,
   "icon": "Bullet",
   "roll2able": false,

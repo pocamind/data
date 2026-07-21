@@ -2,7 +2,7 @@
   "name": "Muffled Screams",
   "category": "Cutthroat",
   "rarity": "Common",
-  "reqs": "muffled_screams := 50s AGL",
+  "reqs": "50s AGL",
   "additional_info": "NPCs have a shortened aggro range from gripping allies in proximity. Defiant Until The End and Last Second Negotiations affect your grip speed less.",
   "count_towards_talent_total": true,
   "icon": "Boots",

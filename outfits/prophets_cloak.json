@@ -9,7 +9,7 @@
     "Umbral Obsidian": 5
   },
   "name": "Prophet's Cloak",
-  "reqs": "prophets_cloak := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Crippling Darkness",
   "category": "Master",

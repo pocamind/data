@@ -5,7 +5,7 @@
     "Fiber": 4
   },
   "name": "Pathfinder Cloak",
-  "reqs": "pathfinder_cloak := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 30,
   "talent": "Survivalist",
   "category": "Adept",

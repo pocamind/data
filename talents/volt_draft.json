@@ -2,7 +2,10 @@
   "name": "Volt Draft",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "specialist_helmet => volt_draft := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:specialist_helmet"
+  ],
   "additional_info": "This has a proc window of 5 seconds after using Inhale. Storm Strikes from this Talent deal 0.125 * (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements. Can proc Grounding Bolt.",
   "count_towards_talent_total": false,
   "icon": "Wind",

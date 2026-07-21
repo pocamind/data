@@ -2,7 +2,10 @@
   "name": "Overwhelming Might",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "tituss_raiment => overwhelming_might := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:tituss_raiment"
+  ],
   "additional_info": "60 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Fist",

@@ -17,7 +17,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "woodland_pauldrons := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

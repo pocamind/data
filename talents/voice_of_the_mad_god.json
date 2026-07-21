@@ -2,7 +2,10 @@
   "name": "Voice of the Mad God",
   "category": "Toxic Personality",
   "rarity": "Common",
-  "reqs": "strange_merchant => voice_of_the_mad_god := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:strange_merchant"
+  ],
   "count_towards_talent_total": false,
   "icon": "Handshake",
   "roll2able": false,

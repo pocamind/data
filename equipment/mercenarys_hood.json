@@ -19,7 +19,7 @@
     }
   },
   "pips": {},
-  "reqs": "mercenarys_hood := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "A sleek black hood.",
   "voi_only": true

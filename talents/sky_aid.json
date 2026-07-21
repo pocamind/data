@@ -2,7 +2,10 @@
   "name": "Sky Aid",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "sky_warrior_helm => sky_aid := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:sky_warrior_helm"
+  ],
   "count_towards_talent_total": false,
   "icon": "Shield",
   "roll2able": false,

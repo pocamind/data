@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "beginners_brace := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

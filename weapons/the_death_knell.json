@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 5,
   "range": 6.5,
-  "reqs": "the_death_knell := 25r LHT",
+  "reqs": "25r LHT",
   "damage_types": [
     "Blunt"
   ],

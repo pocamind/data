@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "ministry_hunter_ring := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Backstabs now deal 10% more damage.",
   "voi_only": true

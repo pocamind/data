@@ -2,7 +2,10 @@
   "name": "Refine and Reuse",
   "category": "Scrapsinger",
   "rarity": "Common",
-  "reqs": "gilded_path_scrapsinger => refine_and_reuse := 45s MTL",
+  "reqs": "45s MTL",
+  "prereqs": [
+    "talent:gilded_path_scrapsinger"
+  ],
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": true,

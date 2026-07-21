@@ -2,7 +2,10 @@
   "name": "Adept Shadowcaster",
   "category": "Shadowcaster",
   "rarity": "Common",
-  "reqs": "shadowcaster => adept_shadowcaster := 20s SDW",
+  "reqs": "20s SDW",
+  "prereqs": [
+    "talent:shadowcaster"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

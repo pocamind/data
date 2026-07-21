@@ -5,7 +5,7 @@
     "Fiber": 4
   },
   "name": "Flame Worshipper Armor",
-  "reqs": "flame_worshipper_armor := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 30,
   "talent": "Intrepeid Flame",
   "category": "Adept",

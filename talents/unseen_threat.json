@@ -2,7 +2,10 @@
   "name": "Unseen Threat",
   "category": "Assassin",
   "rarity": "Common",
-  "reqs": "deep_wound => unseen_threat := 60s AGL",
+  "reqs": "60s AGL",
+  "prereqs": [
+    "talent:deep_wound"
+  ],
   "count_towards_talent_total": true,
   "icon": "Assassin",
   "roll2able": true,

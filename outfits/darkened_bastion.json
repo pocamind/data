@@ -7,7 +7,7 @@
     "Umbral Obsidian": 5
   },
   "name": "Darkened Bastion",
-  "reqs": "darkened_bastion := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Withering Soul",
   "category": "Master",

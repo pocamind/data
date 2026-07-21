@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "moon_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A deceptive ring that conceals one's true age. Greatly sought after by vain misers.",
   "voi_only": false

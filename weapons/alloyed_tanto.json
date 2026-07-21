@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 3,
   "range": 6.5,
-  "reqs": "alloyed_tanto := 80r LHT",
+  "reqs": "80r LHT",
   "damage_types": [
     "Slash"
   ],

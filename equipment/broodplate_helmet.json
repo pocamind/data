@@ -22,7 +22,7 @@
     "Common": 1,
     "Rare": 1
   },
-  "reqs": "broodplate_helmet := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

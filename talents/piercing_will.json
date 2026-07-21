@@ -2,7 +2,7 @@
   "name": "Piercing Will",
   "category": "Mindbreaker",
   "rarity": "Rare",
-  "reqs": "piercing_will := 80s WLL",
+  "reqs": "80s WLL",
   "additional_info": "Grants a 10% PEN bonus at full insanity despite what the description states. The bonus PEN is applied starting from 35% Sanity.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

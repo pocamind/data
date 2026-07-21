@@ -2,7 +2,10 @@
   "name": "Ether Burst",
   "category": "Ether Erudite",
   "rarity": "Memento",
-  "reqs": "ether_erudite => ether_burst := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:ether_erudite"
+  ],
   "additional_info": "Consumes your Ether Erudite Stacks. Turns your Rapid Slashes light blue.",
   "count_towards_talent_total": false,
   "icon": "Brain",

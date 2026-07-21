@@ -2,7 +2,10 @@
   "name": "Master Thundercaller",
   "category": "Thundercaller",
   "rarity": "Common",
-  "reqs": "expert_thundercaller => master_thundercaller := 50s LTN",
+  "reqs": "50s LTN",
+  "prereqs": [
+    "talent:expert_thundercaller"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

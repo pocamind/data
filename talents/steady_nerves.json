@@ -2,7 +2,7 @@
   "name": "Steady Nerves",
   "category": "Duelist",
   "rarity": "Common",
-  "reqs": "steady_nerves := 15s STR, 45s AGL",
+  "reqs": "15s STR, 45s AGL",
   "additional_info": "Restore 2 flat posture on a successful dodge.",
   "count_towards_talent_total": true,
   "icon": "Cloak",

@@ -2,7 +2,10 @@
   "name": "Hot Potato",
   "category": "Saboteur",
   "rarity": "Common",
-  "reqs": "family_recipe => hot_potato := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:family_recipe"
+  ],
   "additional_info": "This speed boost lasts 2 seconds.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

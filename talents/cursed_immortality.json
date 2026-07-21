@@ -2,7 +2,10 @@
   "name": "Cursed Immortality",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "corrupted_immortal_helm => cursed_immortality := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:corrupted_immortal_helm"
+  ],
   "additional_info": "Instead of being knocked, your health will be set to 75% of its maximum instead, with a 5 minute cooldown. Once this Talent procs, all future Depths trials will automatically be corrupted for the rest of your character's life. This Talent does not proc during the Zi'eer boss fight.",
   "count_towards_talent_total": false,
   "icon": "Eye",

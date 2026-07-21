@@ -16,7 +16,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "western_outlaw_robes := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "In the Hundred Legion's territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers.",
   "voi_only": false

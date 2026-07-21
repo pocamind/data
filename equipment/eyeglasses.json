@@ -10,7 +10,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "eyeglasses := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

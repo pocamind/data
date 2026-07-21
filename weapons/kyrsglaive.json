@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "kyrsglaive := 90r MED",
+  "reqs": "90r MED",
   "damage_types": [
     "Slash"
   ],

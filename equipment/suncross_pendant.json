@@ -15,7 +15,7 @@
   "pips": {
     "Legendary": 1
   },
-  "reqs": "suncross_pendant := 90r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial.",
   "voi_only": false

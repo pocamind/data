@@ -2,7 +2,10 @@
   "name": "Stronger Under Pressure",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "ascended_outlaw_boots => stronger_under_pressure := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:ascended_outlaw_boots"
+  ],
   "additional_info": "This applies a 5% slow per combat tag you have, lasting 1 second.",
   "count_towards_talent_total": false,
   "icon": "Fist",

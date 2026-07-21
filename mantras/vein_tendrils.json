@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "vein_tendrils := 30r BLD",
+  "reqs": "30r BLD",
   "damage": [
     {
       "variant": null,

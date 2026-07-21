@@ -7,7 +7,7 @@
   "name": "Experienced Adventurer",
   "pants_id": "5899132181",
   "shirt_id": "5899129203",
-  "reqs": "experienced_adventurer := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 25,
   "talent": "Looter",
   "category": "Adept",

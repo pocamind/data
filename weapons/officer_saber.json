@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 6,
   "range": 8,
-  "reqs": "officer_saber := 30r MED",
+  "reqs": "30r MED",
   "damage_types": [
     "Slash"
   ],

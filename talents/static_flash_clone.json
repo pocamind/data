@@ -2,7 +2,10 @@
   "name": "Static Flash Clone",
   "category": "Thundercaller",
   "rarity": "Common",
-  "reqs": "lightning_clones => static_flash_clone := 30s AGL, 35s LTN",
+  "reqs": "30s AGL, 35s LTN",
+  "prereqs": [
+    "mantra:lightning_clones"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

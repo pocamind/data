@@ -7,7 +7,7 @@
   "name": "Authority Peacekeeper Armour",
   "pants_id": "6624202760",
   "shirt_id": "6624178820",
-  "reqs": "authority_peacekeeper_armour := 5r FTD, 90r TTL",
+  "reqs": "5r FTD, 90r TTL",
   "notes": 30,
   "talent": "Now You See Me",
   "category": "Adept",

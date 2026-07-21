@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "masters_flourish := 30r MED",
+  "reqs": "30r MED",
   "damage": [
     {
       "variant": null,

@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "kyrsieger := 50r HVY, 15r CHA",
+  "reqs": "50r HVY, 15r CHA",
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,

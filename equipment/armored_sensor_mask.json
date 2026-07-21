@@ -13,7 +13,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "armored_sensor_mask := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 3,
   "range": 12,
-  "reqs": "repeater := 65r LHT",
+  "reqs": "65r LHT",
   "damage_types": [
     "Blunt"
   ],

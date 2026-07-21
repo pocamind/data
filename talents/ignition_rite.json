@@ -2,7 +2,10 @@
   "name": "Ignition Rite",
   "category": "Solborn",
   "rarity": "Memento",
-  "reqs": "solborn => ignition_rite := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:solborn"
+  ],
   "count_towards_talent_total": false,
   "icon": "Explosion",
   "roll2able": false,

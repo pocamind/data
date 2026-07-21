@@ -2,7 +2,7 @@
   "name": "Oath: Silentheart",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart := 25s STR, LHT + MED + HVY = 75r, 25r AGL OR 25r CHA",
+  "reqs": "25s STR, LHT + MED + HVY = 75r, 25r AGL OR 25r CHA",
   "additional_info": "If you have any Mantras, they will be unusable and will be entirely invisible. The weapon requirement reduction effect only reduces weapon stat requirements, and not attribute requirements. Additionally, it stacks with Khan's Versatile. Silentheart abilities can proc the Enchantment of your equipped weapon with a 30 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

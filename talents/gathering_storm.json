@@ -2,7 +2,10 @@
   "name": "Gathering Storm",
   "category": "Flashing Thunder",
   "rarity": "Memento",
-  "reqs": "flashing_thunder => gathering_storm := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flashing_thunder"
+  ],
   "additional_info": "All weapon damage is stored instead of being dealt initially, similar to the Poser's Ring. Upon reaching damage thresholds of stored damage, lightning orbs will appear above your character's head, with a cap of 8 orbs. Upon sheathing your weapon, the orbs will attack your opponent, dealing all of the stored damage at once.",
   "count_towards_talent_total": false,
   "icon": "Shock",

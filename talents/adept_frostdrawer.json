@@ -2,7 +2,10 @@
   "name": "Adept Frostdrawer",
   "category": "Frostdrawer",
   "rarity": "Common",
-  "reqs": "frostdrawer => adept_frostdrawer := 20s ICE",
+  "reqs": "20s ICE",
+  "prereqs": [
+    "talent:frostdrawer"
+  ],
   "additional_info": "This Talent will be removed if you do not meet its stat requirements.",
   "count_towards_talent_total": false,
   "implicit": true,

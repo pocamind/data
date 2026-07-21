@@ -2,7 +2,11 @@
   "name": "Karita Combo",
   "category": "Vanguard Techniques",
   "rarity": "Faction",
-  "reqs": "justicar, justicars_technique => karita_combo := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:justicar",
+    "talent:justicars_technique"
+  ],
   "count_towards_talent_total": false,
   "icon": "Boots",
   "roll2able": false,

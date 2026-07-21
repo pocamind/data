@@ -5,7 +5,7 @@
   "damage": 5,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "dormant_splinter := 5r MED",
+  "reqs": "5r MED",
   "damage_types": [
     "Slash"
   ],

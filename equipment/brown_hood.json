@@ -17,7 +17,7 @@
     }
   },
   "pips": {},
-  "reqs": "brown_hood := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A sleek brown hood."
 }

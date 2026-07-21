@@ -2,7 +2,10 @@
   "name": "Justicar Whistle",
   "category": "Castaway",
   "rarity": "Origin",
-  "reqs": "castaway => justicar_whistle := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:castaway"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

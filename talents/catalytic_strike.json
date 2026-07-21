@@ -2,7 +2,10 @@
   "name": "Catalytic Strike",
   "category": "Unstable Capacitor",
   "rarity": "Common",
-  "reqs": "surge_path_unstable_capacitor => catalytic_strike := 50s LTN",
+  "reqs": "50s LTN",
+  "prereqs": [
+    "talent:surge_path_unstable_capacitor"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

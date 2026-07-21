@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "champions_sword := 40r MED",
+  "reqs": "40r MED",
   "damage_types": [
     "Slash"
   ],

@@ -11,7 +11,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "deepwoken_hood := 105r TTL, 10r AGL",
+  "reqs": "105r TTL, 10r AGL",
   "voi": false,
   "desc": "...",
   "voi_only": false

@@ -17,7 +17,7 @@
     }
   },
   "pips": {},
-  "reqs": "wormwarder_lantern := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A modified version of the lanterns found in sanctuary outposts across the explored Eternal Gale. This one is portable, though only generates enough charge for its user.",
   "voi_only": false

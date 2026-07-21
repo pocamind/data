@@ -2,7 +2,10 @@
   "name": "Ether Emergency",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "bluestone_pauldrons => ether_emergency := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:bluestone_pauldrons"
+  ],
   "additional_info": "On proc, restore health equal to 15% of your maximum Ether. 5 minute cooldown.",
   "count_towards_talent_total": false,
   "icon": "Brain",

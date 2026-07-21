@@ -18,7 +18,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "gale_boots := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "A pair of worn leather boots. And they're your size!",
   "voi_only": true

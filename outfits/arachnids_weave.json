@@ -8,7 +8,7 @@
     "Vibrant Gem": 5
   },
   "name": "Arachnid's Weave",
-  "reqs": "arachnids_weave := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Corrosive Touch",
   "category": "Master",

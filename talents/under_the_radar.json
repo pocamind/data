@@ -2,7 +2,7 @@
   "name": "Under The Radar",
   "category": "Public Figure",
   "rarity": "Common",
-  "reqs": "under_the_radar := 60s CHA",
+  "reqs": "60s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

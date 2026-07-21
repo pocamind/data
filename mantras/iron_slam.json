@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "iron_slam := 50r MTL",
+  "reqs": "50r MTL",
   "damage": [
     {
       "variant": null,

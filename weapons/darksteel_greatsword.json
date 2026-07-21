@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "darksteel_greatsword := 40r HVY, 10r STR",
+  "reqs": "40r HVY, 10r STR",
   "damage_types": [
     "Slash"
   ],

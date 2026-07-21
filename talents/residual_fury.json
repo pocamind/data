@@ -2,7 +2,10 @@
   "name": "Residual Fury",
   "category": "Berserker",
   "rarity": "Memento",
-  "reqs": "berserker => residual_fury := 165s TTL",
+  "reqs": "165s TTL",
+  "prereqs": [
+    "objective:berserker"
+  ],
   "count_towards_talent_total": false,
   "icon": "Teeth",
   "roll2able": false,

@@ -6,7 +6,7 @@
     "Megalodaunt Hide": 2
   },
   "name": "Hive Drone",
-  "reqs": "hive_drone := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 30,
   "talent": "Lowstride",
   "category": "Expert",

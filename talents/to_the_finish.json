@@ -2,7 +2,7 @@
   "name": "To the Finish",
   "category": "Freak of Nature",
   "rarity": "Rare",
-  "reqs": "to_the_finish := 50s FTD",
+  "reqs": "50s FTD",
   "additional_info": "For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.",
   "count_towards_talent_total": true,
   "icon": "Skeleton",

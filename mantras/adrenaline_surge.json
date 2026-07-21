@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "adrenaline_surge := 20r AGL",
+  "reqs": "20r AGL",
   "damage": [
     {
       "variant": null,

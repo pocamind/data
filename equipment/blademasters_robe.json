@@ -17,7 +17,7 @@
   "pips": {
     "Rare": 3
   },
-  "reqs": "blademasters_robe := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Often worn by those who seek to perfect their martial skill with the blade, these robes trace their origins to ancient Etrean tradition, offering their wearer both comfort and mobility. Fragmented historical records suggest that this style of robe was highly preferred by Etrean nobility. It is also said that the old Maestros - leaders of the Vigil of Winds, - would wear similar robes during ceremonial occasions, and displays of their martial mastery.",
   "voi_only": false

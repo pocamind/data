@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 1,
   "range": 10.5,
-  "reqs": "dawnshot := 40r LHT",
+  "reqs": "40r LHT",
   "damage_types": [
     "Blunt"
   ],

@@ -2,7 +2,10 @@
   "name": "Avaricious Blade",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "rogue_assassin => avaricious_blade := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:rogue_assassin"
+  ],
   "additional_info": "Dealing damage by any means gives 1 Note, with backhits giving 50 Notes instead. This can proc on self damage.",
   "count_towards_talent_total": false,
   "icon": "Daggers",

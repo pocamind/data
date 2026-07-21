@@ -5,7 +5,7 @@
   "damage": 18.5,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "moonseye_scalpel := 80r MED",
+  "reqs": "80r MED",
   "damage_types": [
     "Slash"
   ],

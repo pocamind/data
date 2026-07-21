@@ -22,7 +22,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "kongas_parka := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "An essential winter coat to protect you against the cold.",
   "voi_only": true

@@ -2,7 +2,10 @@
   "name": "Kick the Beat",
   "category": "Spear Dancer",
   "rarity": "Memento",
-  "reqs": "spear_dancer => kick_the_beat := 240s TTL",
+  "reqs": "240s TTL",
+  "prereqs": [
+    "objective:spear_dancer"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

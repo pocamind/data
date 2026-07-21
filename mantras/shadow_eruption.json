@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "shadow_eruption := 20r SDW",
+  "reqs": "20r SDW",
   "damage": [
     {
       "variant": null,

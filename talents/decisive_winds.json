@@ -2,7 +2,10 @@
   "name": "Decisive Winds",
   "category": "Jetstriker",
   "rarity": "Oath",
-  "reqs": "oath_jetstriker => decisive_winds := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_jetstriker"
+  ],
   "additional_info": "The Decisive Winds status effect grants a 25% speed boost as long as you are within 20 studs of the target who initiated this effect. This procs through block, parry, and dodge, but not on self damage. 30 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Jetstriker",

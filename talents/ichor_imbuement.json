@@ -2,7 +2,10 @@
   "name": "Ichor Imbuement",
   "category": "Starkindred",
   "rarity": "Oath",
-  "reqs": "oath_starkindred => ichor_imbuement := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_starkindred"
+  ],
   "additional_info": "Buffs any Starkindred Mantra if your wings are not out on cast.",
   "count_towards_talent_total": false,
   "icon": "Starkindred",

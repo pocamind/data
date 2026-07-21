@@ -13,7 +13,7 @@
     "Legendary": 1,
     "Rare": 2
   },
-  "reqs": "crimson_terraplate_pauldrons := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

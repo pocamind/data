@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 10,
   "range": 9,
-  "reqs": "pale_morning := 75r HVY, 10r STR",
+  "reqs": "75r HVY, 10r STR",
   "damage_types": [
     "Blunt"
   ],

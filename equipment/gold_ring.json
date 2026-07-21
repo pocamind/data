@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "gold_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A simple gold ring.",
   "voi_only": false

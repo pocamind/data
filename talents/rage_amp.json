@@ -2,7 +2,10 @@
   "name": "Rage Amp",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "broodalloy_cestus => rage_amp := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:broodalloy_cestus"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

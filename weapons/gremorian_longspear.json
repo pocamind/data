@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 5,
   "range": 9,
-  "reqs": "gremorian_longspear := 20r MED",
+  "reqs": "20r MED",
   "damage_types": [
     "Slash"
   ],

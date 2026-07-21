@@ -13,7 +13,7 @@
     }
   },
   "pips": {},
-  "reqs": "snakebite_studs := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "That's metal.",
   "voi_only": false

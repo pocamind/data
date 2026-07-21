@@ -16,7 +16,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "brilliant_pauldron := 165 ttl",
+  "reqs": "165 ttl",
   "voi": false,
   "desc": "..."
 }

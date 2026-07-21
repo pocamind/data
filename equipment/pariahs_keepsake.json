@@ -8,7 +8,7 @@
   "talents": [],
   "innates": {},
   "pips": {},
-  "reqs": "pariahs_keepsake := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "You deal +20% extra damage to factions who hate you.",
   "voi_only": false

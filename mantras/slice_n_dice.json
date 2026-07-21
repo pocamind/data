@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "slice_n_dice := 60r MED",
+  "reqs": "60r MED",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Proficient Baiting",
   "category": "Angler",
   "rarity": "Quest",
-  "reqs": "proficient_baiting := ()",
+  "reqs": "()",
   "additional_info": "Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.",
   "count_towards_talent_total": false,
   "icon": "Claw",

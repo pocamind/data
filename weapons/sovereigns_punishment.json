@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 13,
   "range": 9,
-  "reqs": "sovereigns_punishment := 75r HVY, 20r STR",
+  "reqs": "75r HVY, 20r STR",
   "damage_types": [
     "Blunt"
   ],

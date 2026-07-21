@@ -5,7 +5,10 @@
   "damage": 13.5,
   "posture_damage": 3,
   "range": 6.5,
-  "reqs": "jus_karita => anklets_of_alsin := 25r LHT",
+  "reqs": "25r LHT",
+  "prereqs": [
+    "talent:jus_karita"
+  ],
   "damage_types": [
     "Blunt"
   ],

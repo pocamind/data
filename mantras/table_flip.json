@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "table_flip := 40r STR",
+  "reqs": "40r STR",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,7 @@
   "name": "Oath: Fadetrimmer",
   "category": "Fadetrimmer",
   "rarity": "Oath",
-  "reqs": "oath_fadetrimmer := 195s TTL",
+  "reqs": "195s TTL",
   "count_towards_talent_total": false,
   "icon": "Fadetrimmer",
   "roll2able": false,

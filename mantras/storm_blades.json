@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "storm_blades := 30r LTN",
+  "reqs": "30r LTN",
   "damage": [
     {
       "variant": null,

@@ -16,7 +16,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "tituss_cape := 240r TTL",
+  "reqs": "240r TTL",
   "voi": false,
   "desc": "The fabled cape of Titus Fulminus Destellus. Even for its size, it's heavier than it looks.",
   "voi_only": false

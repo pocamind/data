@@ -2,7 +2,7 @@
   "name": "Everchanging Aegis",
   "category": "Adept Caster",
   "rarity": "Rare",
-  "reqs": "everchanging_aegis := 25s INT",
+  "reqs": "25s INT",
   "additional_info": "Your Aegis type can swap on block, dodge, and parry.",
   "count_towards_talent_total": true,
   "icon": "Brain",

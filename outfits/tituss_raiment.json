@@ -9,7 +9,7 @@
     "Warden's Armor Piece": 1
   },
   "name": "Titus's Raiment",
-  "reqs": "tituss_raiment := 240r TTL, 30r STR",
+  "reqs": "240r TTL, 30r STR",
   "notes": 2500,
   "talent": "Overwhelming Might",
   "category": "Master",

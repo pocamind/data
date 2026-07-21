@@ -20,7 +20,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "the_no_life_kings_crown := 165r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "desc": "",
   "voi_only": false

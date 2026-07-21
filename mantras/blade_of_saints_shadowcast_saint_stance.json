@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "blade_of_saints => blade_of_saints_shadowcast_saint_stance := ()",
+  "reqs": "()",
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
   "damage": [
     {
       "variant": null,

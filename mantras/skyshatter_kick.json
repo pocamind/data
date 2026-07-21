@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "skyshatter_kick := 80r STR",
+  "reqs": "80r STR",
   "damage": [
     {
       "variant": null,

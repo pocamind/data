@@ -2,7 +2,7 @@
   "name": "No Survivors",
   "category": "Tyrant",
   "rarity": "Common",
-  "reqs": "no_survivors := 80s CHA, 45s STR",
+  "reqs": "80s CHA, 45s STR",
   "additional_info": "Reduces grip time by 0.5 seconds (16.67% faster).",
   "count_towards_talent_total": true,
   "icon": "Eye",

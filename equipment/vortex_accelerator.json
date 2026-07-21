@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "vortex_accelerator := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "The less health you have, the lower your mantra cooldowns.",
   "voi_only": true

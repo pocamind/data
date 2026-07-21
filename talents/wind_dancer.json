@@ -2,7 +2,10 @@
   "name": "Wind Dancer",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "windrunner_robes => wind_dancer := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:windrunner_robes"
+  ],
   "additional_info": "Grants a 10% speed boost for 8 seconds. 10 second cooldown.",
   "count_towards_talent_total": false,
   "icon": "Wind",

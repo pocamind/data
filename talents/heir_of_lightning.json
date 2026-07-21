@@ -2,7 +2,10 @@
   "name": "Heir of Lightning",
   "category": "Flashing Thunder",
   "rarity": "Memento",
-  "reqs": "flashing_thunder => heir_of_lightning := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flashing_thunder"
+  ],
   "additional_info": "Increases the base duration of Lightning Cloak to 15 seconds.",
   "count_towards_talent_total": false,
   "icon": "Shock",

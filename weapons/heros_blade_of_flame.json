@@ -5,7 +5,7 @@
   "damage": 19,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "heros_blade_of_flame := 100r FLM",
+  "reqs": "100r FLM",
   "damage_types": [
     "Slash",
     "Flamecharm"

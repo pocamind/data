@@ -2,7 +2,10 @@
   "name": "Blightlash",
   "category": "Blightsurger",
   "rarity": "Oath",
-  "reqs": "oath_blightsurger => blightlash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_blightsurger"
+  ],
   "additional_info": "Increases the range of the Sovereign Bangle from 6 to 7.",
   "count_towards_talent_total": false,
   "roll2able": false,

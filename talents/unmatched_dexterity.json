@@ -2,7 +2,10 @@
   "name": "Unmatched Dexterity",
   "category": "Silentheart",
   "rarity": "Oath",
-  "reqs": "oath_silentheart => unmatched_dexterity := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_silentheart"
+  ],
   "additional_info": "You can now swap weapons and equipment while in combat. Pressing [X] will swap your current weapon with a random weapon in your hotbar.",
   "count_towards_talent_total": false,
   "icon": "Silentheart",

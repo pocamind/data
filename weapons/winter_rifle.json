@@ -5,7 +5,7 @@
   "damage": 16,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "winter_rifle := 40r MED",
+  "reqs": "40r MED",
   "damage_types": [
     "Slash",
     "Frostdraw"

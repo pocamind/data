@@ -2,7 +2,7 @@
   "name": "Frostdrawer",
   "category": "Frostdrawer",
   "rarity": "Common",
-  "reqs": "frostdrawer := 1s ICE",
+  "reqs": "1s ICE",
   "count_towards_talent_total": false,
   "implicit": true,
   "icon": "Snowflake",

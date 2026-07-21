@@ -6,7 +6,7 @@
     "Vibrant Gem": 3
   },
   "name": "Hive Tactician Armor",
-  "reqs": "hive_tactician_armor := 165r TTL, 25r AGL",
+  "reqs": "165r TTL, 25r AGL",
   "notes": 0,
   "talent": "Brunt",
   "category": "Expert",

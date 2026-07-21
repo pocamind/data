@@ -5,7 +5,7 @@
   "damage": 14,
   "posture_damage": 4,
   "range": 12,
-  "reqs": "hunting_bow := 20r MED",
+  "reqs": "20r MED",
   "damage_types": [
     "Slash"
   ],

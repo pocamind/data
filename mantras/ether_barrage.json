@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "ether_barrage := 30r INT",
+  "reqs": "30r INT",
   "damage": [
     {
       "variant": null,

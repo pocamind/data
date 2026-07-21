@@ -2,7 +2,7 @@
   "name": "Smell of Blood",
   "category": "Bloodhound",
   "rarity": "Rare",
-  "reqs": "smell_of_blood := 65s BLD",
+  "reqs": "65s BLD",
   "additional_info": "Your opponent's blood (or blood hemorrhaging in PvE) percentage is shown as a red number, and their blood poison percentage is shown as a pink number.",
   "count_towards_talent_total": true,
   "icon": "Blood",

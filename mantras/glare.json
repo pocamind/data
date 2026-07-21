@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "glare := 25r CHA, 5r WLL",
+  "reqs": "25r CHA, 5r WLL",
   "damage": [
     {
       "variant": null,

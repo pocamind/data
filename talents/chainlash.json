@@ -2,7 +2,10 @@
   "name": "Chainlash",
   "category": "Chainwarden",
   "rarity": "Oath",
-  "reqs": "oath_chainwarden => chainlash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_chainwarden"
+  ],
   "additional_info": "Right clicking after a flourish will enchain your target and pull them towards you. M1ing after the pull will perform a Crushing Kick, dealing high damage.",
   "count_towards_talent_total": false,
   "icon": "Chainwarden",

@@ -5,7 +5,7 @@
   "damage": 27,
   "posture_damage": 9,
   "range": 7.5,
-  "reqs": "smouldering_hallow := 75r HVY, 30r STR",
+  "reqs": "75r HVY, 30r STR",
   "damage_types": [
     "Blunt"
   ],

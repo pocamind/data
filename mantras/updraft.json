@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "updraft := 20r WND",
+  "reqs": "20r WND",
   "damage": [
     {
       "variant": null,

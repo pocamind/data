@@ -7,7 +7,7 @@
     "Iron": 3
   },
   "name": "Steel Plate",
-  "reqs": "steel_plate := 90r TTL, 10r FTD",
+  "reqs": "90r TTL, 10r FTD",
   "notes": 30,
   "talent": "Lowstride",
   "category": "Adept",

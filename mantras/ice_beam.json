@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "ice_beam := 1r ICE",
+  "reqs": "1r ICE",
   "damage": [
     {
       "variant": null,

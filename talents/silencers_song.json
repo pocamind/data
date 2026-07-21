@@ -2,7 +2,10 @@
   "name": "Silencer's Song",
   "category": "Maestro's Technique",
   "rarity": "Common",
-  "reqs": "silencers_blade => silencers_song := 100r LHT OR 100r MED OR 100r HVY, 100s WND",
+  "reqs": "100r LHT OR 100r MED OR 100r HVY, 100s WND",
+  "prereqs": [
+    "talent:silencers_blade"
+  ],
   "additional_info": "Landing any Mantra on a suffocated target creates a new stack of suffocation that lasts 5 seconds. Additionally, you gain a 22.5% speed boost for 3 seconds.",
   "count_towards_talent_total": true,
   "icon": "Wind",

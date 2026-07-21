@@ -5,7 +5,7 @@
   "damage": 24,
   "posture_damage": 8,
   "range": 8.5,
-  "reqs": "markors_inheritor := 30r HVY, 10r STR",
+  "reqs": "30r HVY, 10r STR",
   "damage_types": [
     "Slash"
   ],

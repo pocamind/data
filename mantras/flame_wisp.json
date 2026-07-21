@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "flame_wisp := 30r FLM",
+  "reqs": "30r FLM",
   "damage": [
     {
       "variant": null,

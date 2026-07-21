@@ -2,7 +2,10 @@
   "name": "Serpent's Dance",
   "category": "Jade Vigil's Weave",
   "rarity": "Outfit",
-  "reqs": "jade_vigils_weave => serpents_dance := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:jade_vigils_weave"
+  ],
   "additional_info": "This critical deals 1x of your weapon's scaled damage. This critical can only be used on Cestus that do not have a unique critical.",
   "count_towards_talent_total": false,
   "icon": "Wind",

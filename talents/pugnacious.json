@@ -2,7 +2,10 @@
   "name": "Pugnacious",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "warmonger => pugnacious := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:warmonger"
+  ],
   "additional_info": "Gain various stacking buffs scaling on the amount of combat tags you have. Gain a further damage buff upon executing a player. On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have. The damage, posture damage, and chip damage effects ignore the modifier caps but cap at +30%. The resistance bonuses are multiplicative to other sources of their respective resistance types. The speed boost has no cap in effectiveness.",
   "count_towards_talent_total": false,
   "icon": "Sword",

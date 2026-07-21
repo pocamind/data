@@ -5,7 +5,7 @@
   "damage": 11,
   "posture_damage": 2,
   "range": 6,
-  "reqs": "stiletto := ()",
+  "reqs": "()",
   "damage_types": [
     "Slash"
   ],

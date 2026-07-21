@@ -12,7 +12,7 @@
   "pips": {
     "Common": 1
   },
-  "reqs": "ruby_scorch_earrings := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Wearing these makes you feel a fire in your heart with every swing.",
   "voi_only": true

@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "necrotic_demon_horns := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "An otherworldly set of faux horns. Faint scratches on the back spell 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch...",
   "voi_only": false

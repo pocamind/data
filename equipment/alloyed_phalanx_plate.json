@@ -23,7 +23,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "alloyed_phalanx_plate := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

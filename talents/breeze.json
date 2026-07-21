@@ -2,7 +2,7 @@
   "name": "Breeze",
   "category": "Varicosan Finery",
   "rarity": "Outfit",
-  "reqs": "stratos_outfit => breeze := ()",
+  "reqs": "()",
   "additional_info": "Increases your studs/s movement speed by +2 permanently. This is not counted as a speed buff.",
   "count_towards_talent_total": false,
   "icon": "Boots",

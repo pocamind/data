@@ -2,7 +2,10 @@
   "name": "Shatter",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "icepick => shatter := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:icepick"
+  ],
   "additional_info": "Landing a critical attack removes all speed debuffs your opponent has, dealing 5 Frostdraw damage per debuff.",
   "count_towards_talent_total": false,
   "icon": "Snowflake",

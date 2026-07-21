@@ -2,7 +2,10 @@
   "name": "Careful Handling",
   "category": "Miscellaneous",
   "rarity": "Quest",
-  "reqs": "careful_handling := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:grave_tending"
+  ],
   "count_towards_talent_total": false,
   "icon": "Leaf",
   "roll2able": false,

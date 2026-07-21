@@ -5,7 +5,7 @@
   "damage": 18,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "katana := 25r MED",
+  "reqs": "25r MED",
   "damage_types": [
     "Slash"
   ],

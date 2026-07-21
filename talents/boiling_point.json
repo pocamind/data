@@ -2,7 +2,10 @@
   "name": "Boiling Point",
   "category": "Vaporbone",
   "rarity": "Common",
-  "reqs": "flashboil => boiling_point := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:flashboil"
+  ],
   "additional_info": "Deals 10 typeless damage. This cannot be parried nor blocked. Procs when you hit the Steam cloud with your Flamecharm Mantra, meaning your opponent can parry your Mantra and this will still proc.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

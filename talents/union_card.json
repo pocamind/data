@@ -2,7 +2,10 @@
   "name": "Union Card",
   "category": "Ignition Delver",
   "rarity": "Origin",
-  "reqs": "ignition_delver => union_card := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:ignition_delver"
+  ],
   "additional_info": "Gain increased EXP gain from Jobs and Dungeons, but reduced EXP gain from any other content.",
   "count_towards_talent_total": false,
   "icon": "Eye",

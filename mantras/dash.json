@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "dash := 40r AGL",
+  "reqs": "40r AGL",
   "damage": [
     {
       "variant": null,

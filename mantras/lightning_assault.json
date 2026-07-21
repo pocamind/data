@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "lightning_assault := 30r LTN",
+  "reqs": "30r LTN",
   "damage": [
     {
       "variant": null,

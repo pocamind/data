@@ -7,7 +7,11 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "jus_karita, murmur_tacet => tacet_drop_kick := 5r STR",
+  "reqs": "5r STR",
+  "prereqs": [
+    "talent:jus_karita",
+    "talent:murmur_tacet"
+  ],
   "damage": [
     {
       "variant": null,

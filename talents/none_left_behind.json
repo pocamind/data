@@ -2,7 +2,10 @@
   "name": "None Left Behind",
   "category": "Swiftshade",
   "rarity": "Common",
-  "reqs": "dustlunge => none_left_behind := 100s AGL",
+  "reqs": "100s AGL",
+  "prereqs": [
+    "talent:dustlunge"
+  ],
   "count_towards_talent_total": true,
   "icon": "Climb",
   "roll2able": true,

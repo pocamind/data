@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 3,
   "range": 6,
-  "reqs": "fang_and_coil := ()",
+  "reqs": "()",
   "damage_types": [
     "Blunt"
   ],

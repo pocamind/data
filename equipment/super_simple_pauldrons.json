@@ -21,7 +21,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "super_simple_pauldrons := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "Either they're of low complexity or someone needs a punch.",
   "voi_only": true

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "rising_shadow := 30r SDW",
+  "reqs": "30r SDW",
   "damage": [
     {
       "variant": null,

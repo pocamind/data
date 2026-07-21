@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_blightsurger => skycrash := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_blightsurger"
+  ],
   "damage": [
     {
       "variant": null,

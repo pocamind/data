@@ -2,7 +2,7 @@
   "name": "Deep Wound",
   "category": "Assassin",
   "rarity": "Common",
-  "reqs": "deep_wound := 35s AGL",
+  "reqs": "35s AGL",
   "additional_info": "Applies 30% anti-heal.",
   "count_towards_talent_total": true,
   "icon": "Assassin",

@@ -2,7 +2,10 @@
   "name": "Masterwork",
   "category": "Scrapsinger",
   "rarity": "Rare",
-  "reqs": "artisans_blade => masterwork := 60s MTL",
+  "reqs": "60s MTL",
+  "prereqs": [
+    "talent:artisans_blade"
+  ],
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": false,

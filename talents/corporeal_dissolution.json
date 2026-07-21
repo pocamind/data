@@ -2,7 +2,10 @@
   "name": "Corporeal Dissolution",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "black_death => corporeal_dissolution := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:black_death"
+  ],
   "additional_info": "Caps at 30 Wither damage per proc.",
   "count_towards_talent_total": false,
   "icon": "Shadows",

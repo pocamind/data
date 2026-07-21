@@ -5,7 +5,7 @@
   "damage": 26,
   "posture_damage": 9,
   "range": 9,
-  "reqs": "petras_anchor := 75r HVY, 10r STR",
+  "reqs": "75r HVY, 10r STR",
   "damage_types": [
     "Blunt"
   ],

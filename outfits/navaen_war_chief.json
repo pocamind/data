@@ -9,7 +9,7 @@
     "Wind Gem": 1
   },
   "name": "Navaen War Chief",
-  "reqs": "navaen_war_chief := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 1000,
   "talent": "Chief's Will",
   "category": "Master",

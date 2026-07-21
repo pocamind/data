@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 7,
   "range": 8,
-  "reqs": "quartztone_pickaxe := 75r HVY",
+  "reqs": "75r HVY",
   "damage_types": [
     "Slash"
   ],

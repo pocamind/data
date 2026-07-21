@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "disguise := 20r CHA",
+  "reqs": "20r CHA",
   "damage": [
     {
       "variant": null,

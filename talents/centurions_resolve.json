@@ -2,7 +2,10 @@
   "name": "Centurion's Resolve",
   "category": "Miscellaneous",
   "rarity": "Outfit",
-  "reqs": "legion_centurion => centurions_resolve := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:legion_centurion"
+  ],
   "count_towards_talent_total": false,
   "icon": "Wind",
   "roll2able": false,

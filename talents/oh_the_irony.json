@@ -2,7 +2,10 @@
   "name": "Oh The Irony",
   "category": "Ironsinger",
   "rarity": "Common",
-  "reqs": "taunt => oh_the_irony := 60s MTL, 40s CHA",
+  "reqs": "60s MTL, 40s CHA",
+  "prereqs": [
+    "mantra:taunt"
+  ],
   "count_towards_talent_total": true,
   "icon": "Ferrofluid",
   "roll2able": true,

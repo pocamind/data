@@ -2,7 +2,10 @@
   "name": "Sunset Ricochet",
   "category": "Summer Company",
   "rarity": "Outfit",
-  "reqs": "summer_dragoon => sunset_ricochet := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:summer_dragoon"
+  ],
   "count_towards_talent_total": false,
   "icon": "Fist",
   "roll2able": false,

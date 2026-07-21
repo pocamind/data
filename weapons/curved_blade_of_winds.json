@@ -5,7 +5,7 @@
   "damage": 17.5,
   "posture_damage": 5,
   "range": 8,
-  "reqs": "curved_blade_of_winds := 40r MED, 75r WND",
+  "reqs": "40r MED, 75r WND",
   "damage_types": [
     "Slash"
   ],

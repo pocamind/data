@@ -2,7 +2,7 @@
   "name": "Charged Return",
   "category": "Elemental Rebound",
   "rarity": "Common",
-  "reqs": "charged_return := 20s WLL, 15s STR",
+  "reqs": "20s WLL, 15s STR",
   "additional_info": "Procs on Burn, Chill, Shock, Fear, Winded, and Suffocation.",
   "count_towards_talent_total": true,
   "icon": "Sword",

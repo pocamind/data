@@ -5,7 +5,7 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": true,
-  "reqs": "ether_flight := 300r STR",
+  "reqs": "300r STR",
   "voi": false,
   "desc": "Take flight! Spacebar to ascend, CTRL to descend.",
   "voi_only": false

@@ -2,7 +2,10 @@
   "name": "Kj's Courage",
   "category": "Quest",
   "rarity": "Quest",
-  "reqs": "kjs_courage := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:vigils_savior"
+  ],
   "additional_info": "Due to it rounding down, this Talent will only activate if you get at least 10 Knowledge in one instance.",
   "count_towards_talent_total": false,
   "icon": "Brain",

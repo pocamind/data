@@ -5,7 +5,7 @@
   "damage": 13,
   "posture_damage": 4,
   "range": 8,
-  "reqs": "apprentice_rapier := 20r LHT",
+  "reqs": "20r LHT",
   "damage_types": [
     "Slash"
   ],

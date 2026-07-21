@@ -7,7 +7,7 @@
   "type": "Monster",
   "stars": 2,
   "vaulted": false,
-  "reqs": "abyssal_ridge := ()",
+  "reqs": "()",
   "damage": [
     {
       "variant": null,

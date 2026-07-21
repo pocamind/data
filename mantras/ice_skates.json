@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "ice_skates := 50r ICE",
+  "reqs": "50r ICE",
   "damage": [
     {
       "variant": null,

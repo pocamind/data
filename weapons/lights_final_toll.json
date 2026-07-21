@@ -5,7 +5,7 @@
   "damage": 12,
   "posture_damage": 5,
   "range": 6.5,
-  "reqs": "lights_final_toll := 35r LHT, 60r WLL",
+  "reqs": "35r LHT, 60r WLL",
   "damage_types": [
     "Blunt"
   ],

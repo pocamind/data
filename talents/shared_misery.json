@@ -2,7 +2,7 @@
   "name": "Shared Misery",
   "category": "Mindbreaker",
   "rarity": "Common",
-  "reqs": "shared_misery := 85s WLL",
+  "reqs": "85s WLL",
   "additional_info": "If you are actively losing sanity or have used Heretic's Sutra in the past 15 seconds, remove 3% of the target's maximum sanity, scaled down if you have less than 85 Willpower.",
   "count_towards_talent_total": true,
   "icon": "Eye",

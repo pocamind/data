@@ -2,7 +2,7 @@
   "name": "Callout",
   "category": "Leader",
   "rarity": "Common",
-  "reqs": "callout := 20s CHA",
+  "reqs": "20s CHA",
   "count_towards_talent_total": true,
   "icon": "Handshake",
   "roll2able": true,

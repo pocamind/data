@@ -2,7 +2,10 @@
   "name": "Manipulator",
   "category": "Toxic Personality",
   "rarity": "Common",
-  "reqs": "charismatic_cast => manipulator := 60s CHA",
+  "reqs": "60s CHA",
+  "prereqs": [
+    "talent:charismatic_cast"
+  ],
   "additional_info": "10 second cooldown. This is inherently weaker on multihit criticals due to it only proccing once then going on cooldown. Unnecessary Theatrics or Overcharm can be used to reapply the Charm after Manipulator removes it on the same hit.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

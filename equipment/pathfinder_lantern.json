@@ -17,7 +17,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "pathfinder_lantern := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost.",
   "voi_only": false

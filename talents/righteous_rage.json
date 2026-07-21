@@ -2,7 +2,10 @@
   "name": "Righteous Rage",
   "category": "Berserker",
   "rarity": "Memento",
-  "reqs": "berserker => righteous_rage := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:berserker"
+  ],
   "additional_info": "Temporary Health does not count for this effect.",
   "count_towards_talent_total": false,
   "icon": "Teeth",

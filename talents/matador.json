@@ -2,7 +2,7 @@
   "name": "Matador",
   "category": "Weapon Master",
   "rarity": "Common",
-  "reqs": "matador := 20s STR, 5s AGL",
+  "reqs": "20s STR, 5s AGL",
   "count_towards_talent_total": true,
   "icon": "Claw",
   "roll2able": true,

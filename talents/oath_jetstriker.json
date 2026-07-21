@@ -2,7 +2,7 @@
   "name": "Oath: Jetstriker",
   "category": "Jetstriker",
   "rarity": "Oath",
-  "reqs": "oath_jetstriker := 50s AGL",
+  "reqs": "50s AGL",
   "additional_info": "Gain Momentum by sprinting. At maximum Momentum, your Jetstriker Mantras deal 20% more damage.",
   "count_towards_talent_total": false,
   "icon": "Jetstriker",

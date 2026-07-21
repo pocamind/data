@@ -2,7 +2,10 @@
   "name": "Cutting Pace",
   "category": "Drifter",
   "rarity": "Memento",
-  "reqs": "drifter => cutting_pace := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:drifter"
+  ],
   "additional_info": "Buffed attacks deal 15% more damage, have a slightly shorter windup, and are purple.",
   "count_towards_talent_total": false,
   "icon": "Boots",

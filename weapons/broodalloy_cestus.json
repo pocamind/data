@@ -5,7 +5,7 @@
   "damage": 15.5,
   "posture_damage": 5.5,
   "range": 6,
-  "reqs": "broodalloy_cestus := 85r LHT",
+  "reqs": "85r LHT",
   "damage_types": [
     "Blunt"
   ],

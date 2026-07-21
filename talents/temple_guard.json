@@ -2,7 +2,10 @@
   "name": "Temple Guard",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "monastery_champion_robes => temple_guard := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:monastery_champion_robes"
+  ],
   "additional_info": "You will only gain the damage reduction if your critical attack gets interrupted.",
   "count_towards_talent_total": false,
   "icon": "Sword",

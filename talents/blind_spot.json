@@ -2,7 +2,10 @@
   "name": "Blind Spot",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "inquisitors_visor => blind_spot := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:inquisitors_visor"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

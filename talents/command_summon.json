@@ -2,7 +2,10 @@
   "name": "Command: Summon",
   "category": "Vow of Mastery",
   "rarity": "Advanced",
-  "reqs": "vow_of_mastery => command_summon := 80s CHA",
+  "reqs": "80s CHA",
+  "prereqs": [
+    "talent:vow_of_mastery"
+  ],
   "additional_info": "Teleports the subject to the master regardless of distance. Teleportation takes 10 seconds to complete, and any hit will cancel it. 30 second cooldown for the Master, 2 minute cooldown for the Servant.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

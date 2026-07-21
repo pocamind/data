@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_fadetrimmer => precision_cuts := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_fadetrimmer"
+  ],
   "damage": [
     {
       "variant": null,

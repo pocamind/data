@@ -2,7 +2,10 @@
   "name": "Union Pager",
   "category": "Ignition Delver",
   "rarity": "Origin",
-  "reqs": "ignition_delver => union_pager := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:ignition_delver"
+  ],
   "additional_info": "Grants a Talent tool that acts as a remote-access Job Board, allowing you to pick up jobs from any location.",
   "count_towards_talent_total": false,
   "icon": "Handshake",

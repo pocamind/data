@@ -2,7 +2,10 @@
   "name": "Death From Above",
   "category": "Starkindred",
   "rarity": "Oath",
-  "reqs": "oath_starkindred => death_from_above := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_starkindred"
+  ],
   "additional_info": "Air dash canceling with your weapon equipped grants your Starnkindred Wings. Air dash canceling with your weapon equipped and your wings out performs a three hit slashing attack that deals 25 Oath/Slash damage per hit.",
   "count_towards_talent_total": false,
   "icon": "Starkindred",

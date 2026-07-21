@@ -2,7 +2,10 @@
   "name": "Scammer",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "scoundrels_saber => scammer := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:scoundrels_saber"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

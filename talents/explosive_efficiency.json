@@ -2,7 +2,10 @@
   "name": "Explosive Efficiency",
   "category": "Saboteur",
   "rarity": "Common",
-  "reqs": "hot_potato => explosive_efficiency := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:hot_potato"
+  ],
   "count_towards_talent_total": true,
   "icon": "Explosion",
   "roll2able": true,

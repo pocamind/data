@@ -17,7 +17,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "ossified_barrel_helm := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "A sturdy helmet shaped like a barrel.",
   "voi_only": false

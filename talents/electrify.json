@@ -2,7 +2,7 @@
   "name": "Electrify",
   "category": "Jumpstarter",
   "rarity": "Common",
-  "reqs": "electrify := 25s LTN",
+  "reqs": "25s LTN",
   "additional_info": "If used while not being carried, this deals 5% of your current health as self damage on proc. Additionally, you will gain the Amped status effect for 15 seconds, increasing your weapon damage by 10% and allowing your weapon attacks to apply Shock on hit. However, incoming damage will be increased by 10%. 1 minute cooldown.",
   "count_towards_talent_total": true,
   "icon": "Shock",

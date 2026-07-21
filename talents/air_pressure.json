@@ -2,7 +2,7 @@
   "name": "Air Pressure",
   "category": "Legion Shock Trooper",
   "rarity": "Common",
-  "reqs": "air_pressure := 20s AGL, 50s WND",
+  "reqs": "20s AGL, 50s WND",
   "count_towards_talent_total": true,
   "icon": "Wind",
   "roll2able": true,

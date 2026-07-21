@@ -2,7 +2,10 @@
   "name": "Grand Skewer",
   "category": "Javelin Lord",
   "rarity": "Rare",
-  "reqs": "grand_javelin => grand_skewer := 60s LTN",
+  "reqs": "60s LTN",
+  "prereqs": [
+    "mantra:grand_javelin"
+  ],
   "additional_info": "Press [F] during Grand Javelin's windup to activate this effect. This does not work in Layer 1.",
   "count_towards_talent_total": true,
   "icon": "Shock",

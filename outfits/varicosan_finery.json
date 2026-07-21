@@ -7,7 +7,7 @@
     "Alestrian Coral": 3
   },
   "name": "Varicosan Finery",
-  "reqs": "varicosan_finery := 165r TTL",
+  "reqs": "165r TTL",
   "notes": 100,
   "talent": "Benefactor",
   "category": "Expert",

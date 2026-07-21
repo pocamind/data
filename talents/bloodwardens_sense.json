@@ -2,7 +2,7 @@
   "name": "Bloodwarden's Sense",
   "category": "Bloodhound",
   "rarity": "Common",
-  "reqs": "bloodwardens_sense := 30s BLD",
+  "reqs": "30s BLD",
   "additional_info": "Adds a red highlight to the player.",
   "count_towards_talent_total": true,
   "icon": "Blood",

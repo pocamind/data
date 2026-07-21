@@ -2,7 +2,10 @@
   "name": "Pocket Bombs",
   "category": "Saboteur",
   "rarity": "Common",
-  "reqs": "family_recipe => pocket_bombs := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:family_recipe"
+  ],
   "additional_info": "On proc, this consumes 1 Iron Bomb to drop 2 bombs at your feet. This has a 1 second cooldown, with the cooldown activating any time you take damage, even if the effect did not proc.",
   "count_towards_talent_total": true,
   "icon": "Explosion",

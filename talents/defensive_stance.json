@@ -2,7 +2,7 @@
   "name": "Defensive Stance",
   "category": "Needle",
   "rarity": "Common",
-  "reqs": "defensive_stance := 50s LHT",
+  "reqs": "50s LHT",
   "count_towards_talent_total": true,
   "icon": "Shield",
   "roll2able": true,

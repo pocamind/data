@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "twinstrikes := 40r AGL, 60r STR",
+  "reqs": "40r AGL, 60r STR",
   "damage": [
     {
       "variant": null,

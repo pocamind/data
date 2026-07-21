@@ -2,7 +2,7 @@
   "name": "Showstopper",
   "category": "Weapon Master",
   "rarity": "Rare",
-  "reqs": "showstopper := 40s STR",
+  "reqs": "40s STR",
   "count_towards_talent_total": true,
   "icon": "Fist",
   "roll2able": false,

@@ -2,7 +2,10 @@
   "name": "Featherfall",
   "category": "Miscellaneous",
   "rarity": "Equipment",
-  "reqs": "tiran_pendant => featherfall := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:tiran_pendant"
+  ],
   "additional_info": "Nullifies fall damage. Once 255 fall damage has been nullified, this will go on a 2 minute cooldown, disabling its benefits.",
   "count_towards_talent_total": false,
   "icon": "Sword",

@@ -2,7 +2,7 @@
   "name": "Static Link",
   "category": "Static Weaver",
   "rarity": "Common",
-  "reqs": "static_link := 40s LTN, 15s INT",
+  "reqs": "40s LTN, 15s INT",
   "additional_info": "Lasts 15 seconds. The links are non-refreshable, meaning you will need to wait until after the duration ends to reapply them.",
   "count_towards_talent_total": true,
   "icon": "Shock",

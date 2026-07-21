@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_contractor => judgement := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_contractor"
+  ],
   "damage": [
     {
       "variant": null,

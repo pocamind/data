@@ -2,7 +2,7 @@
   "name": "Neural Overload",
   "category": "Adept Caster",
   "rarity": "Advanced",
-  "reqs": "neural_overload := 85s INT",
+  "reqs": "85s INT",
   "count_towards_talent_total": true,
   "icon": "Orb",
   "roll2able": true,

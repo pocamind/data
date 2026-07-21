@@ -10,7 +10,7 @@
   "pips": {
     "Uncommon": 1
   },
-  "reqs": "divers_ring := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "Deal +5% damage to Monsters in the Depths.",
   "voi_only": false

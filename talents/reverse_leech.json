@@ -2,7 +2,10 @@
   "name": "Reverse Leech",
   "category": "Evil Endeavours",
   "rarity": "Common",
-  "reqs": "behind_you => reverse_leech := 60s SDW",
+  "reqs": "60s SDW",
+  "prereqs": [
+    "talent:behind_you"
+  ],
   "additional_info": "Behind You is procced by landing a basic attack behind your enemy after feinting a Mantra.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

@@ -2,7 +2,10 @@
   "name": "Vanishing Wraith",
   "category": "Specter",
   "rarity": "Rare",
-  "reqs": "phantom_step => vanishing_wraith := 60s WND",
+  "reqs": "60s WND",
+  "prereqs": [
+    "talent:phantom_step"
+  ],
   "count_towards_talent_total": true,
   "icon": "Wind",
   "roll2able": false,

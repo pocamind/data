@@ -2,7 +2,7 @@
   "name": "Savior",
   "category": "Liberator",
   "rarity": "Common",
-  "reqs": "savior := 15s WLL",
+  "reqs": "15s WLL",
   "additional_info": "Interrupt an execution attempt to proc this Talent, granting a speed boost for 15 seconds.",
   "count_towards_talent_total": true,
   "icon": "Climb",

@@ -2,7 +2,10 @@
   "name": "Terrifying Paralysis",
   "category": "Rogue Assassin",
   "rarity": "Memento",
-  "reqs": "rogue_assassin => terrifying_paralysis := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:rogue_assassin"
+  ],
   "count_towards_talent_total": false,
   "icon": "Daggers",
   "roll2able": false,

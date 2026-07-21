@@ -5,7 +5,7 @@
   "damage": 22,
   "posture_damage": 6,
   "range": 7.5,
-  "reqs": "crescendo := 80r MED",
+  "reqs": "80r MED",
   "damage_types": [
     "Slash"
   ],

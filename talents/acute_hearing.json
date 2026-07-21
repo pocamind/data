@@ -2,7 +2,10 @@
   "name": "Acute Hearing",
   "category": "Innate",
   "rarity": "Innate",
-  "reqs": "kiron => acute_hearing := ()",
+  "reqs": "()",
+  "prereqs": [
+    "aspect:kiron"
+  ],
   "additional_info": "Your Echolocation now has a sound effect on proc.",
   "count_towards_talent_total": false,
   "icon": "Eye",

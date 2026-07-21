@@ -2,7 +2,11 @@
   "name": "Volcanic Glass",
   "category": "Pyroclast",
   "rarity": "Advanced",
-  "reqs": "eruption_path_lava_serpent, glass_path_crystallization => volcanic_glass := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:eruption_path_lava_serpent",
+    "talent:glass_path_crystallization"
+  ],
   "count_towards_talent_total": true,
   "icon": "Snowflake",
   "roll2able": true,

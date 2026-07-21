@@ -2,7 +2,10 @@
   "name": "Lord's Tithe",
   "category": "Comrade",
   "rarity": "Rare",
-  "reqs": "reinforce => lords_tithe := 40s SDW, 40s FTD",
+  "reqs": "40s SDW, 40s FTD",
+  "prereqs": [
+    "mantra:reinforce"
+  ],
   "additional_info": "Steals Ether (or health in PvE) in pulses.",
   "count_towards_talent_total": true,
   "icon": "Handshake",

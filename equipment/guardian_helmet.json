@@ -17,7 +17,7 @@
     }
   },
   "pips": {},
-  "reqs": "guardian_helmet := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "The imposing helm of a guardian.",
   "voi_only": false

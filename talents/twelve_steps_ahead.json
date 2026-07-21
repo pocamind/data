@@ -2,7 +2,10 @@
   "name": "Twelve Steps Ahead",
   "category": "Omniscient",
   "rarity": "Common",
-  "reqs": "prediction => twelve_steps_ahead := 80s INT",
+  "reqs": "80s INT",
+  "prereqs": [
+    "mantra:prediction"
+  ],
   "additional_info": "This effect requires your opponent to be within 90 studs of you. For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.13 seconds with 55 Intelligence.",
   "count_towards_talent_total": true,
   "icon": "Brain",

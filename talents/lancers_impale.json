@@ -2,7 +2,7 @@
   "name": "Lancer's Impale",
   "category": "Lancer",
   "rarity": "Common",
-  "reqs": "lancers_impale := 30s MED",
+  "reqs": "30s MED",
   "count_towards_talent_total": true,
   "icon": "Spear",
   "roll2able": true,

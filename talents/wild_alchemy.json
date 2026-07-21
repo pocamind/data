@@ -2,7 +2,7 @@
   "name": "Wild Alchemy",
   "category": "Alchemist",
   "rarity": "Common",
-  "reqs": "wild_alchemy := 25s INT",
+  "reqs": "25s INT",
   "additional_info": "Has a 25% chance to proc.",
   "count_towards_talent_total": true,
   "icon": "Potion",

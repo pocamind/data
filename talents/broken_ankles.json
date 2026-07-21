@@ -2,7 +2,7 @@
   "name": "Broken Ankles",
   "category": "Raging Bull",
   "rarity": "Common",
-  "reqs": "broken_ankles := 70s STR",
+  "reqs": "70s STR",
   "additional_info": "Broken Ankles' duration will be reduced by 0.15 seconds for every point in Strength below 70, capping at 8.25 seconds with 45 Strength. 30 second cooldown.",
   "count_towards_talent_total": true,
   "icon": "Lungs",

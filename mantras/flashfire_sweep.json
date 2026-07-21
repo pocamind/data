@@ -8,7 +8,7 @@
   "type": "Normal",
   "stars": 2,
   "vaulted": false,
-  "reqs": "flashfire_sweep := 30r FLM, 30r LTN",
+  "reqs": "30r FLM, 30r LTN",
   "damage": [
     {
       "variant": null,

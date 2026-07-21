@@ -7,7 +7,10 @@
   "type": "Origin",
   "stars": 0,
   "vaulted": false,
-  "reqs": "authority_ensign => grand_wardens_axe := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:authority_ensign"
+  ],
   "damage": [
     {
       "variant": "Normal",

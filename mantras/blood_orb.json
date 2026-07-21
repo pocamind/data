@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "blood_orb := 1r BLD",
+  "reqs": "1r BLD",
   "damage": [
     {
       "variant": null,

@@ -2,7 +2,10 @@
   "name": "Successive Prediction",
   "category": "Omniscient",
   "rarity": "Common",
-  "reqs": "prediction => successive_prediction := 50s INT",
+  "reqs": "50s INT",
+  "prereqs": [
+    "mantra:prediction"
+  ],
   "additional_info": "Allows you to reflect the entirety of multi-hit moves.",
   "count_towards_talent_total": true,
   "icon": "Brain",

@@ -2,7 +2,11 @@
   "name": "Another Man's Trash",
   "category": "Thief",
   "rarity": "Advanced",
-  "reqs": "cap_artist, pickpocket => another_mans_trash := 35s CHA, 10s AGL",
+  "reqs": "35s CHA, 10s AGL",
+  "prereqs": [
+    "talent:cap_artist",
+    "talent:pickpocket"
+  ],
   "additional_info": "If the player you are mugging doesn't have any Notes, you will still take any unequipped equipment. You cannot steal Soulbound or Enchanted items. Gain +0.001% damage for every 1 Weight you're carrying. Every 100 Weight = +1% damage.",
   "count_towards_talent_total": true,
   "icon": "Claw",

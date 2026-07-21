@@ -5,7 +5,7 @@
   "damage": 20,
   "posture_damage": 7,
   "range": 9,
-  "reqs": "bloodbane := 60r HVY, 30r STR",
+  "reqs": "60r HVY, 30r STR",
   "damage_types": [
     "Slash"
   ],

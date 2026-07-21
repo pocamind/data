@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "searing_snare := 20r FLM",
+  "reqs": "20r FLM",
   "damage": [
     {
       "variant": null,

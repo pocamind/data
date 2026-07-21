@@ -2,7 +2,10 @@
   "name": "Sacred Aura",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "sacred_hammer => sacred_aura := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:sacred_hammer"
+  ],
   "count_towards_talent_total": false,
   "vaulted": false,
   "voi": false,

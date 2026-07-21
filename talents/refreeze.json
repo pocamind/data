@@ -2,7 +2,10 @@
   "name": "Refreeze",
   "category": "Outfit",
   "rarity": "Outfit",
-  "reqs": "icebringers_vestments => refreeze := ()",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:icebringers_vestments"
+  ],
   "count_towards_talent_total": false,
   "icon": "Snowflake",
   "roll2able": false,

@@ -15,7 +15,7 @@
     "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "royal_guard := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "..."
 }

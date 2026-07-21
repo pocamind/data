@@ -2,7 +2,10 @@
   "name": "Assassin's Strike",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "silver_dagger => assassins_strike := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:silver_dagger"
+  ],
   "additional_info": "Doubles the base damage of Rapid Slashes.",
   "count_towards_talent_total": false,
   "icon": "Sword",

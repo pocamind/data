@@ -2,7 +2,10 @@
   "name": "Jetstream Pursuit",
   "category": "Jetstriker",
   "rarity": "Oath",
-  "reqs": "oath_jetstriker => jetstream_pursuit := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_jetstriker"
+  ],
   "count_towards_talent_total": false,
   "icon": "Jetstriker",
   "roll2able": false,

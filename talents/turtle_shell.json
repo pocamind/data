@@ -2,7 +2,10 @@
   "name": "Turtle Shell",
   "category": "Shieldmaster",
   "rarity": "Common",
-  "reqs": "knights_rally => turtle_shell := 50s FTD",
+  "reqs": "50s FTD",
+  "prereqs": [
+    "talent:knights_rally"
+  ],
   "additional_info": "If you have a shield equipped and your main weapon two-handed, your shield will be put on your back. This grants 12.5% damage reduction against attacks that hit your back and prevents your opponent from proccing Spine Cutter.",
   "count_towards_talent_total": true,
   "icon": "Shield",

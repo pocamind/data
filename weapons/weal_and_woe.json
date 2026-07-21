@@ -5,7 +5,7 @@
   "damage": 17.5,
   "posture_damage": 7.5,
   "range": 9,
-  "reqs": "weal_and_woe := 80r MED, 65r SDW",
+  "reqs": "80r MED, 65r SDW",
   "damage_types": [
     "Slash",
     "Shadowcast"

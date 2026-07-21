@@ -3,7 +3,10 @@
   "name": "Blacksteel Attire",
   "pants_id": "4907680538",
   "shirt_id": "4907667581",
-  "reqs": "iron_vessel => blacksteel_attire := ()",
+  "reqs": "()",
+  "prereqs": [
+    "objective:iron_vessel"
+  ],
   "notes": 0,
   "talent": null,
   "category": "Unique",

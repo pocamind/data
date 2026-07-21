@@ -2,7 +2,10 @@
   "name": "Battery Sapper",
   "category": "Unstable Capacitor",
   "rarity": "Common",
-  "reqs": "surge_path_unstable_capacitor => battery_sapper := 60s LTN, 25s SDW",
+  "reqs": "60s LTN, 25s SDW",
+  "prereqs": [
+    "talent:surge_path_unstable_capacitor"
+  ],
   "count_towards_talent_total": true,
   "icon": "Shock",
   "roll2able": true,

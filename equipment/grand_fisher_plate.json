@@ -21,7 +21,7 @@
   "pips": {
     "Legendary": 3
   },
-  "reqs": "grand_fisher_plate := 195r TTL",
+  "reqs": "195r TTL",
   "voi": false,
   "wiki": "",
   "desc": "...",

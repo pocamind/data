@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 1,
   "vaulted": false,
-  "reqs": "blood_stakes := 20r BLD",
+  "reqs": "20r BLD",
   "damage": [
     {
       "variant": null,

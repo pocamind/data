@@ -2,7 +2,7 @@
   "name": "Not a Scratch",
   "category": "Human Architecture",
   "rarity": "Advanced",
-  "reqs": "not_a_scratch := 100s WLL, 20s FTD",
+  "reqs": "100s WLL, 20s FTD",
   "additional_info": "Your clothing no longer gets blood splotches and you no longer play low health animations at low health. Your outfit no longer tears when your armor durability is low. Rhythm users can no longer see your health. If you have less than 100 Willpower, your character has a chance to scream in agony upon taking damage.",
   "count_towards_talent_total": true,
   "icon": "Fist",

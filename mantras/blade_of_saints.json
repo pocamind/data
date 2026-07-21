@@ -7,7 +7,10 @@
   "type": "Oath",
   "stars": 0,
   "vaulted": false,
-  "reqs": "oath_saintsworn => blade_of_saints := ()",
+  "reqs": "()",
+  "prereqs": [
+    "talent:oath_saintsworn"
+  ],
   "voi": false,
   "desc": "Perform an Attuned attack. This attack will change depending on your current Saint Stance.",
   "damage": [

@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 3,
   "vaulted": false,
-  "reqs": "flame_ballista := 50r FLM",
+  "reqs": "50r FLM",
   "damage": [
     {
       "variant": null,

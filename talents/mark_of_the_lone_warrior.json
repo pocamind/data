@@ -2,7 +2,10 @@
   "name": "Mark of the Lone Warrior",
   "category": "Lone Warrior",
   "rarity": "Origin",
-  "reqs": "lone_warrior => mark_of_the_lone_warrior := ()",
+  "reqs": "()",
+  "prereqs": [
+    "origin:lone_warrior"
+  ],
   "additional_info": "Gain an experience gain multiplier if nobody else has combat tagged the enemy. Gain a 5% damage buff against enemies who have combat tagged you, or enemies you've combat tagged if the opponent has less than or an equal amount of combat tags as you.",
   "count_towards_talent_total": false,
   "icon": "Claw",

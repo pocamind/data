@@ -2,7 +2,7 @@
   "name": "Neuroplasticity",
   "category": "Genius Intellect",
   "rarity": "Rare",
-  "reqs": "neuroplasticity := 35r INT OR 35r WLL OR 35r CHA",
+  "reqs": "35r INT OR 35r WLL OR 35r CHA",
   "additional_info": "The reduced cost on Mantra modifiers does not apply retroactively to previously modified Mantras until you rejoin.",
   "count_towards_talent_total": true,
   "icon": "Eye",

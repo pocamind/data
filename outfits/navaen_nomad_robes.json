@@ -6,7 +6,7 @@
     "Frigid Prism": 2
   },
   "name": "Navaen Nomad Robes",
-  "reqs": "navaen_nomad_robes := 90r TTL",
+  "reqs": "90r TTL",
   "notes": 100,
   "pants_id": "5747461248",
   "shirt_id": "5747459547",

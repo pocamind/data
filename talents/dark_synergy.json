@@ -2,7 +2,10 @@
   "name": "Dark Synergy",
   "category": "Darksiphon",
   "rarity": "Common",
-  "reqs": "dark_god => dark_synergy := 45s SDW",
+  "reqs": "45s SDW",
+  "prereqs": [
+    "talent:dark_god"
+  ],
   "additional_info": "Deals 5 Shadowcast damage on proc.",
   "count_towards_talent_total": true,
   "icon": "Shadows",

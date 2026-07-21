@@ -3,7 +3,7 @@
   "shirt_id": "3568543452",
   "mats": {},
   "name": "Hive Leader's Garment",
-  "reqs": "hive_leaders_garment := 240r TTL",
+  "reqs": "240r TTL",
   "notes": 0,
   "talent": null,
   "category": "Spec",

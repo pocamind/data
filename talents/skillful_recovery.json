@@ -2,7 +2,10 @@
   "name": "Skillful Recovery",
   "category": "Equipment",
   "rarity": "Equipment",
-  "reqs": "warriors_pendant_earrings => skillful_recovery := ()",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:warriors_pendant_earrings"
+  ],
   "count_towards_talent_total": false,
   "icon": "Sword",
   "roll2able": false,

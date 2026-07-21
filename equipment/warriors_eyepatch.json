@@ -10,7 +10,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "warriors_eyepatch := ()",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

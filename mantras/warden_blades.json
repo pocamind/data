@@ -7,7 +7,7 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "warden_blades := 1r ICE",
+  "reqs": "1r ICE",
   "damage": [
     {
       "variant": null,

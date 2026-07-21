@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "veteran_rangers_brace := ()",
+  "reqs": "()",
   "voi": true,
   "desc": "It's covered in sewn pockets and hidden compartments, filled with cooking and medical supplies.",
   "voi_only": true

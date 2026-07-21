@@ -2,7 +2,10 @@
   "name": "Battle Frenzy",
   "category": "Weapon",
   "rarity": "Weapon",
-  "reqs": "master_hawks_handaxe => battle_frenzy := ()",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:master_hawks_handaxe"
+  ],
   "additional_info": "This reduces the posture damage of incoming Mantras by 1 per hit, per combat tag you have. If you have more combat tags than the Mantra does posture damage, this can go into the negatives and your posture will be restored instead.",
   "count_towards_talent_total": false,
   "icon": "Climb",

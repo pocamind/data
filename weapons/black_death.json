@@ -5,7 +5,7 @@
   "damage": 16.5,
   "posture_damage": 6,
   "range": 9.5,
-  "reqs": "black_death := 30r MED, 50r INT OR 50r WLL OR 50r CHA, 70r SDW",
+  "reqs": "30r MED, 50r INT OR 50r WLL OR 50r CHA, 70r SDW",
   "damage_types": [
     "Slash",
     "Shadowcast",
