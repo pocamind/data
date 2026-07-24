@@ -1,0 +1,26 @@
+{
+  "voi": false,
+  "desc": "Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly?",
+  "name": "Skull Piercer",
+  "reqs": "75r LHT",
+  "type": "Rapier",
+  "range": 8.5,
+  "damage": 14,
+  "rarity": "Legendary",
+  "scaling": {
+    "Light Weapon": 8
+  },
+  "voi_only": false,
+  "range_type": "Lunge",
+  "enchantable": true,
+  "penetration": 0.1,
+  "swing_speed": 1.08,
+  "bleed_damage": 2.1,
+  "damage_types": [
+    "Slash",
+    "Bleed"
+  ],
+  "equip_motifs": true,
+  "posture_damage": 4,
+  "attack_duration": 0.5
+}
