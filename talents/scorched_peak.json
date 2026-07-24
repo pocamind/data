@@ -5,7 +5,7 @@
   "reqs": "50s LTN, 25s FLM",
   "additional_info": "Deals 10 Thundercall damage on hit. \"On fire\" refers to the Burn status effect. This can proc Grounding Bolt.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

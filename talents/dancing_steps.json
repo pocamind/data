@@ -5,7 +5,7 @@
   "reqs": "135s TTL, 35s FLM",
   "additional_info": "Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted. 5 second cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Blaze",
+  "icon": "Flame",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

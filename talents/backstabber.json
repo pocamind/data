@@ -8,10 +8,10 @@
   ],
   "additional_info": "Has no range limit. Also procs on criticals with the M1 tag and Silentheart abilities. Applies daze and ragdolls.",
   "count_towards_talent_total": false,
-  "icon": "Climb",
+  "icon": "Grip",
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.",
+  "desc": "Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. [15 second CD]",
   "voi_only": false
 }

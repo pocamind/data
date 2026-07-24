@@ -5,7 +5,7 @@
   "reqs": "210s TTL, 60s FLM",
   "additional_info": "Deals 5 Flamecharm damage on proc.",
   "count_towards_talent_total": false,
-  "icon": "Blaze",
+  "icon": "Flame",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

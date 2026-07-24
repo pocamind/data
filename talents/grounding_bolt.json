@@ -5,10 +5,10 @@
   "reqs": "90s LTN, 90r LHT OR 90r MED OR 90r HVY",
   "additional_info": "10 second cooldown. Procs on lightning strikes caused from Scorched Peak, Fulgurite Formation, the Specialist Set equipment Talents, and Storm/Stormbreaker enchantments during the rain.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.",
+  "desc": "Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.",
   "voi_only": false
 }

@@ -8,14 +8,14 @@
   ],
   "additional_info": "Increases Amped's damage buff from 10% to 20%.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "conditional_stats": {
     "Damage": 10
   },
   "vaulted": false,
   "voi": false,
-  "desc": "Amped now grants you an additional +10% weapon damage.",
+  "desc": "Amped now grants you an additional +10% weapon damage. Also self-damage and cooldown by 3x.",
   "exclusive": [
     "Amplified Reflexes"
   ],

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Adds 5 Thundercall damage with 5 Thundercall scaling to the Overload, gaining 0.025 damage per Thundercall damage. This is a flat value that does not depend on Rod count.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

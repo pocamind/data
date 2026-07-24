@@ -12,6 +12,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a backstab of any kind disables posture for 8 seconds.",
+  "desc": "Landing a backstab of any kind disables posture for 4 seconds. [8 second CD]",
   "voi_only": false
 }

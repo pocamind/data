@@ -7,7 +7,7 @@
     "origin:ignition_delver | objective:union_hook_rescue"
   ],
   "count_towards_talent_total": false,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": false,
   "vaulted": false,
   "voi": false,
