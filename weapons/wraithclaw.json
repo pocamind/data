@@ -17,7 +17,7 @@
     "Light Weapon": 4,
     "Galebreathe": 5.5
   },
-  "chip_damage": 0.25,
+  "chip_damage": 0.15,
   "penetration": 0.1,
   "enchantable": false,
   "equip_motifs": false,

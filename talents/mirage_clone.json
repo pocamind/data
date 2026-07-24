@@ -5,7 +5,7 @@
   "reqs": "65s FLM",
   "additional_info": "20 second cooldown. Causes an Eruption instead if you have Eruption path.",
   "count_towards_talent_total": true,
-  "icon": "Blaze",
+  "icon": "Flame",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

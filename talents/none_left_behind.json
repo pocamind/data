@@ -7,7 +7,7 @@
     "talent:dustlunge"
   ],
   "count_towards_talent_total": true,
-  "icon": "Climb",
+  "icon": "Grip",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

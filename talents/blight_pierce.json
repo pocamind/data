@@ -8,6 +8,7 @@
   ],
   "additional_info": "Blightshock now works similar to regular Shock, canceling hyperarmor.",
   "count_towards_talent_total": false,
+  "icon": "Question",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "15s STR, 25s FTD",
   "count_towards_talent_total": true,
-  "icon": "Skeleton",
+  "icon": "Ribcage",
   "roll2able": false,
   "stats": {
     "Carry Load": 5

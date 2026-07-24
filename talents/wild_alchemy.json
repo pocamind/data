@@ -5,7 +5,7 @@
   "reqs": "25s INT",
   "additional_info": "Has a 25% chance to proc.",
   "count_towards_talent_total": true,
-  "icon": "Potion",
+  "icon": "Flask",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

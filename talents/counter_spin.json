@@ -5,6 +5,7 @@
   "reqs": "35s MED",
   "additional_info": "On proc, swiftly thrust your Staff forwards, dealing 45% of your weapon's damage on hit.",
   "count_towards_talent_total": true,
+  "icon": "Fist",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -8,6 +8,7 @@
   ],
   "additional_info": "This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.",
   "count_towards_talent_total": false,
+  "icon": "Question",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Instantly procs when you create a new Static Link. The extra Link duration only applies to the Static Link that procced the magnetization effect.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

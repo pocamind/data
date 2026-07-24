@@ -5,7 +5,7 @@
   "reqs": "35s FLM",
   "additional_info": "Negates the innate 10% damage debuff Flamecharm Mantras, First Light's critical, and Twisted Puppets' Puppets receive during the rain. Prevents your burn from being extinguished by the rain.",
   "count_towards_talent_total": false,
-  "icon": "Blaze",
+  "icon": "Flame",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

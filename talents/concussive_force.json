@@ -5,7 +5,7 @@
   "reqs": "15s STR",
   "additional_info": "Enemies remain knocked for 15 seconds instead of 10.",
   "count_towards_talent_total": true,
-  "icon": "Skeleton",
+  "icon": "Ribcage",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

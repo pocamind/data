@@ -8,7 +8,7 @@
   ],
   "additional_info": "Clears all Static Blade stacks on proc. You can still gain Static Blade stacks while Gathering Electricity is active. For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.",
   "count_towards_talent_total": true,
-  "icon": "Shock",
+  "icon": "Lightning",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

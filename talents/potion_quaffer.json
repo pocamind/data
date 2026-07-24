@@ -5,7 +5,7 @@
   "reqs": "30s INT, 15r FTD OR 15r WLL",
   "additional_info": "Drink potions 30% faster. Increases the effectiveness of Health Regeneration potions by 15%, Sanity Restoration and Ether Regeneration potions by 30%, and removes the -25% effectiveness Instant Health potions have.",
   "count_towards_talent_total": true,
-  "icon": "Potion",
+  "icon": "Flask",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

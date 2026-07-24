@@ -9,7 +9,7 @@
   ],
   "additional_info": "Deals 5 Flamecharm damage. Parryable, but not blockable or dodgeable due to hitstun.",
   "count_towards_talent_total": true,
-  "icon": "Blaze",
+  "icon": "Flame",
   "roll2able": true,
   "stats": {
     "Sanity": 4
