@@ -5,7 +5,7 @@
   "reqs": "40s WND",
   "additional_info": "Jump while airborne to double jump, leaving behind a wind pad that other players can also use. Alternatively, jumping while sliding down a slope will perform a Gale Leap that propels you forwards. While in combat, this ability cost Ether to use.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

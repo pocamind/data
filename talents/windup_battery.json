@@ -5,7 +5,7 @@
   "reqs": "30s LTN, 30s INT",
   "additional_info": "Applies this bonus to non-Thundercall Mantras.",
   "count_towards_talent_total": true,
-  "icon": "Lightning",
+  "icon": "thundercall",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -9,7 +9,7 @@
   ],
   "additional_info": "Removes both the melee and Mantra PEN cap.",
   "count_towards_talent_total": false,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": false,
   "stats": {
     "Pen": 5

@@ -9,7 +9,7 @@
     "talent:surge_path_unstable_capacitor"
   ],
   "count_towards_talent_total": true,
-  "icon": "Cube",
+  "icon": "cube",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

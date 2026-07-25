@@ -5,7 +5,7 @@
   "reqs": "50s INT",
   "additional_info": "Transfers Suffocation, Winded, Chill, Shock, Burn, and potion effects from yourself to your enemy on vent.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

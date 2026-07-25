@@ -10,7 +10,7 @@
   ],
   "additional_info": "You can now see while blinded, but the world gains a blue hue.",
   "count_towards_talent_total": false,
-  "icon": "Blindseer",
+  "icon": "blindseer",
   "roll2able": false,
   "stats": {
     "Sanity": 10,

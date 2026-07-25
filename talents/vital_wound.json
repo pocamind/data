@@ -8,7 +8,7 @@
   ],
   "additional_info": "Uppercutting your opponent applies the Vital Wound status effect, reducing their passive posture recovery by 40% for 30 seconds. This has no cooldown, but it cannot be refreshed or reapplied while it's active.",
   "count_towards_talent_total": false,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

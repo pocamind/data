@@ -8,7 +8,7 @@
   ],
   "additional_info": "Landing any Mantra on a suffocated target creates a new stack of suffocation that lasts 5 seconds. Additionally, you gain a 22.5% speed boost for 3 seconds.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

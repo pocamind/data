@@ -5,7 +5,7 @@
   "reqs": "30s BLD",
   "additional_info": "Halves the blood cost of the Mantra.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

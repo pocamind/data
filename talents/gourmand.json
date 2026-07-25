@@ -5,7 +5,7 @@
   "reqs": "90s TTL",
   "additional_info": "Increases hunger and thirst gain by 20%.",
   "count_towards_talent_total": true,
-  "icon": "Leaf",
+  "icon": "leaf",
   "roll2able": true,
   "stats": {
     "Carry Load": 5,

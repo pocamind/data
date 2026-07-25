@@ -5,7 +5,7 @@
   "reqs": "80s INT",
   "additional_info": "Procs when a thrown potion replaces a different potion's effect, increasing your potion's effect by 40% multiplicatively.",
   "count_towards_talent_total": true,
-  "icon": "Flask",
+  "icon": "flask",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

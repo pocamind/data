@@ -8,7 +8,7 @@
   ],
   "additional_info": "Gain an experience gain multiplier if nobody else has combat tagged the enemy. Gain a 5% damage buff against enemies who have combat tagged you, or enemies you've combat tagged if the opponent has less than or an equal amount of combat tags as you.",
   "count_towards_talent_total": false,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": false,
   "conditional_stats": {
     "Damage": 5

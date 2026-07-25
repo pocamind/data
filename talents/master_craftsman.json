@@ -5,7 +5,7 @@
   "reqs": "45s INT",
   "additional_info": "You can craft items that normally require a Crafting Station from your inventory.",
   "count_towards_talent_total": true,
-  "icon": "Cube",
+  "icon": "cube",
   "roll2able": true,
   "stats": {
     "Health": 5

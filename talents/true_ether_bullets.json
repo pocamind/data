@@ -5,7 +5,7 @@
   "reqs": "20r LHT OR 20r MED OR 20r HVY, 30s INT",
   "additional_info": "Landing 2 shots will make the 3rd shot deal elemental damage and apply the status effect correlating to your highest attunement. This Talent will not do anything if you do not have an attunement.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

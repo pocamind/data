@@ -8,7 +8,7 @@
   ],
   "additional_info": "The charm proc has no cooldown, but the one-liners do. Instantly reapplies Charm after Manipulator removes it, on the same hit.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

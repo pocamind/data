@@ -9,7 +9,7 @@
   ],
   "additional_info": "If the player you are mugging doesn't have any Notes, you will still take any unequipped equipment. You cannot steal Soulbound or Enchanted items. Gain +0.001% damage for every 1 Weight you're carrying. Every 100 Weight = +1% damage.",
   "count_towards_talent_total": true,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": true,
   "stats": {
     "Passive Agility": 2

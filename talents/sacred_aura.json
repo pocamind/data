@@ -10,7 +10,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Landing your Sacred Hammer critical attack applies an aura of protection around you, reducing the damage you take by a flat 2.5, multiplying based on how many combat tags you currently have on you.",
-  "icon": "Shield",
+  "icon": "shield",
   "roll2able": false,
   "voi_only": false
 }

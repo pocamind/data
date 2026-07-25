@@ -5,7 +5,7 @@
   "reqs": "30s WLL",
   "additional_info": "Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower. Grants a 2.875% damage buff at requirements. \"Higher HP\" refers to current HP.",
   "count_towards_talent_total": true,
-  "icon": "Grip",
+  "icon": "grip",
   "roll2able": true,
   "conditional_stats": {
     "Damage": "2.5 + 0.0375 * max(0, min(WLL - 20, 40)) + 10"

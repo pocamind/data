@@ -19,5 +19,6 @@
   ],
   "voi": true,
   "desc": "Slicing blades of flame.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "fire_blade"
 }

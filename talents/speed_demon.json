@@ -5,7 +5,7 @@
   "reqs": "25s AGL",
   "additional_info": "Speed Demon's bleed deals 2.5% of your weapon's scaled damage every 0.3s, three times. This totals to 7.5% of your weapon's scaled over a 0.9 second period. Bleed deals typeless damage.",
   "count_towards_talent_total": true,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": false,
   "stats": {
     "Passive Agility": 1

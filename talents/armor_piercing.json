@@ -8,7 +8,7 @@
   ],
   "additional_info": "This has heavy diminishing returns in effectiveness with the more PEN you have. Elemental guns may not benefit from this Talent at all depending on your opponent's resistances, as the highest resistance value is prioritized.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

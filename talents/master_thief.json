@@ -7,7 +7,7 @@
     "talent:pickpocket"
   ],
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "stats": {
     "Passive Agility": 2

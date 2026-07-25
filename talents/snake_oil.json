@@ -5,7 +5,7 @@
   "reqs": "30s CHA",
   "additional_info": "Increases the sell price of items by 40%.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

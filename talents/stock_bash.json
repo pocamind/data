@@ -5,7 +5,7 @@
   "reqs": "55s MED, 25s STR",
   "additional_info": "Applies daze for one second.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -5,7 +5,7 @@
   "reqs": "40s BLD, 40s FLM",
   "additional_info": "Deals 16.5 damage in an AoE on proc.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

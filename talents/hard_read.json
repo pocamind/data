@@ -5,7 +5,7 @@
   "reqs": "20s INT",
   "additional_info": "Applies Daze for 1 second.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

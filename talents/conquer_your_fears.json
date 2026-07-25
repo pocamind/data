@@ -8,7 +8,7 @@
   ],
   "additional_info": "Recover Sanity when killing monsters in the Depths, with the Sanity restored depending on how strong the monster is. Gain Sanity whenever a nearby ally executes a humanoid target.",
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "stats": {
     "Sanity": 3

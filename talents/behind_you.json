@@ -8,7 +8,7 @@
   ],
   "additional_info": "This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

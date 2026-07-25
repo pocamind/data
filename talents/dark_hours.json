@@ -5,7 +5,7 @@
   "reqs": "35s SDW",
   "additional_info": "Night cycle is XX:50 to XX:10 in real-time.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

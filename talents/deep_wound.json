@@ -5,7 +5,7 @@
   "reqs": "35s AGL",
   "additional_info": "Applies 30% anti-heal.",
   "count_towards_talent_total": true,
-  "icon": "Assassin",
+  "icon": "assassin",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

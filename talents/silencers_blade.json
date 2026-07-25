@@ -5,7 +5,7 @@
   "reqs": "165s TTL, 60s WND",
   "additional_info": "Landing M1 attacks or criticals with the M1 tag on suffocated targets applies a new stack of suffocation that lasts 5 seconds. Grants a 22.5% speed boost for 3 seconds on proc.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

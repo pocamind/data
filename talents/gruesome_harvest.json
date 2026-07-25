@@ -5,7 +5,7 @@
   "reqs": "85s BLD",
   "additional_info": "Grants 15 flat temporary health on proc. Has a 2 second cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

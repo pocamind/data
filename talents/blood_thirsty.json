@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "45s AGL",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

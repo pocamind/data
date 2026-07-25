@@ -7,7 +7,7 @@
     "talent:unwavering_resolve"
   ],
   "count_towards_talent_total": false,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": false,
   "stats": {
     "Posture": 1

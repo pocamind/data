@@ -5,7 +5,7 @@
   "reqs": "20s WLL, 15s STR",
   "additional_info": "Procs on Burn, Chill, Shock, Fear, Winded, and Suffocation.",
   "count_towards_talent_total": true,
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": true,
   "conditional_stats": {
     "Damage": 10

@@ -20,5 +20,6 @@
   ],
   "voi": false,
   "desc": "A powerful slash that chips through block and slashes through armor.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "masters_flourish"
 }

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Overcharms yourself for 4 seconds. Charms yourself for 8 seconds, halved to 4 seconds if you have Disbelief.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

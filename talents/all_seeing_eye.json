@@ -8,7 +8,7 @@
   ],
   "additional_info": "Invisible players, including yourself, and monsters are revealed by a Blindseer Eye icon showcasing their current position.",
   "count_towards_talent_total": false,
-  "icon": "Blindseer",
+  "icon": "blindseer",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

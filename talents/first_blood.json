@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "10s BLD",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

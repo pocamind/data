@@ -5,7 +5,7 @@
   "reqs": "25s CHA",
   "additional_info": "Charismatic Cast's Charm lasts 10 seconds.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

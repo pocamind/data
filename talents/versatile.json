@@ -8,7 +8,7 @@
   ],
   "additional_info": "Reduces the attribute requirements of all equipment and weapon items by 3. This is applied to each requirement individually, meaning you can save upwards of 12 points.",
   "count_towards_talent_total": false,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -7,7 +7,7 @@
     "talent:air_pressure"
   ],
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "stats": {
     "Passive Agility": 2

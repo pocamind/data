@@ -5,7 +5,7 @@
   "reqs": "25s FTD",
   "additional_info": "After being block broken, reduce the next instance of damage by 20%. This has no cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

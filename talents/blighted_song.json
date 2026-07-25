@@ -8,7 +8,7 @@
   ],
   "additional_info": "Grants the user and the chained opponent 20% damage reduction against outside attacks.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

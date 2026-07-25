@@ -8,7 +8,7 @@
   ],
   "additional_info": "Reduces Wind Step's cooldown to 5 seconds and lowers the Ether cost. You will need to equip Gale Boots to gain the Wind Step Talent.",
   "count_towards_talent_total": false,
-  "icon": "Daggers",
+  "icon": "daggers",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

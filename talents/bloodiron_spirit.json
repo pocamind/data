@@ -5,7 +5,7 @@
   "reqs": "()",
   "additional_info": "Restores 2.5% of your maximum armor upon executing an enemy.",
   "count_towards_talent_total": true,
-  "icon": "Shield",
+  "icon": "shield",
   "roll2able": false,
   "stats": {
     "Health": 5

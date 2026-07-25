@@ -5,7 +5,7 @@
   "reqs": "50s LHT",
   "additional_info": "Reduces the total time taken to reload a pistol from empty by 0.1 seconds.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -5,7 +5,7 @@
   "reqs": "40s WND",
   "additional_info": "The damage After Cut deals is based on the attack's modified damage.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "conditional_stats": {
     "Damage": 10

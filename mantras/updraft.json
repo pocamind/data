@@ -17,5 +17,6 @@
   ],
   "voi": false,
   "desc": "A lifting torrent of wind.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "updraft"
 }

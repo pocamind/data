@@ -21,5 +21,6 @@
   ],
   "voi": false,
   "desc": "Slam those under you with a lightning empowered kick.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_impact"
 }

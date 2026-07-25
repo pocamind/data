@@ -7,7 +7,7 @@
     "talent:eruption_path_lava_serpent"
   ],
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

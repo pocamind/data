@@ -5,7 +5,7 @@
   "reqs": "80s WLL",
   "additional_info": "Grants a 10% PEN bonus at full insanity despite what the description states. The bonus PEN is applied starting from 35% Sanity.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": false,
   "conditional_stats": {
     "Pen": 10

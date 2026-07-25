@@ -5,7 +5,7 @@
   "reqs": "35s LTN",
   "additional_info": "While you and your opponent are in the water, landing any attack that would apply Shock or a Surge Rod will strike other waterborne targets in a 20 stud AoE from the initial target, dealing 50% of the attack's damage and applying Shock or a Surge Rod.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

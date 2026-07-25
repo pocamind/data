@@ -8,7 +8,7 @@
   ],
   "additional_info": "Apparitions can only spawn from Haunted Gale being procced on Galebreathe Mantras or by proccing effects that would normally apply Suffocation.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

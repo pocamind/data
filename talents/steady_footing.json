@@ -5,7 +5,7 @@
   "reqs": "10s STR, 10s AGL",
   "additional_info": "Knockback is reduced by 20%. Ice's slide distance effect is removed.",
   "count_towards_talent_total": true,
-  "icon": "Boots",
+  "icon": "boots",
   "roll2able": true,
   "stats": {
     "Carry Load": 5,

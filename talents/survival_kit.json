@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "20r CHA or 20r INT or 20r WLL",
   "count_towards_talent_total": true,
-  "icon": "Cube",
+  "icon": "cube",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

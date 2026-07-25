@@ -5,7 +5,7 @@
   "reqs": "60s WND, 40s SDW",
   "additional_info": "If the user has the Apparitions Talent, this can proc apparitions by inflicting suffocation.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

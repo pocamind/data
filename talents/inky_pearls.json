@@ -8,7 +8,7 @@
   ],
   "additional_info": "Turns your Vent black and makes it drain 47.5 Ether on hit. Additionally, your Vent can now proc certain Shadowcast Talents on hit like Sightless Still or Twisted Puppets' Shadowcast burn.",
   "count_towards_talent_total": false,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

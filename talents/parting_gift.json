@@ -5,7 +5,7 @@
   "reqs": "75s LHT",
   "additional_info": "On proc, all dual gun M1s within the next 5 seconds have projectiles.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "25s HVY, 15s STR",
   "count_towards_talent_total": true,
-  "icon": "Greatsword",
+  "icon": "greatsword",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -5,7 +5,7 @@
   "reqs": "()",
   "additional_info": "Lose 25% of your non-Soulbound/Enchanted items on death instead of 50%. You no longer lose Notes on death.",
   "count_towards_talent_total": true,
-  "icon": "Grip",
+  "icon": "grip",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

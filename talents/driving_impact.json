@@ -5,7 +5,7 @@
   "reqs": "30s MED",
   "additional_info": "The first hit of your default spear critical will deal double the posture damage. The second hit of your default spear critical will not deal posture damage.",
   "count_towards_talent_total": true,
-  "icon": "Spear",
+  "icon": "spear",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

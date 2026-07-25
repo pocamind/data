@@ -8,7 +8,7 @@
   ],
   "additional_info": "Your burn damage is increased based on how low your Sanity is.",
   "count_towards_talent_total": false,
-  "icon": "Flame",
+  "icon": "flamecharm",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

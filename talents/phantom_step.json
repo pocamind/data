@@ -8,7 +8,7 @@
   ],
   "additional_info": "Additionally grants a speed boost for the full duration. While active, your Spectral Gauge will be passively drained.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

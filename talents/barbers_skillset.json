@@ -8,7 +8,7 @@
   ],
   "additional_info": "Gives a Talent tool that opens an outdated version of the Barber UI. When selecting others: Changes what haircut your Fadetrimmer Mantras apply on hit. When selecting yourself: Changes your own hair.",
   "count_towards_talent_total": false,
-  "icon": "Fadetrimmer",
+  "icon": "fadetrimmer",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

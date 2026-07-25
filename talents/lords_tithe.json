@@ -8,7 +8,7 @@
   ],
   "additional_info": "Steals Ether (or health in PvE) in pulses.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -10,7 +10,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire [45 second CD].",
-  "icon": "Shield",
+  "icon": "shield",
   "roll2able": false,
   "voi_only": false
 }

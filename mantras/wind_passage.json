@@ -20,5 +20,6 @@
   ],
   "voi": false,
   "desc": "A rush of wind",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "wind_passage"
 }

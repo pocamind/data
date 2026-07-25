@@ -5,7 +5,7 @@
   "reqs": "40s LHT, 50s AGL",
   "additional_info": "Your critical must knock the opponent for this Talent to proc.",
   "count_towards_talent_total": true,
-  "icon": "Daggers",
+  "icon": "daggers",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

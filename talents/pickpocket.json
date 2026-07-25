@@ -5,7 +5,7 @@
   "reqs": "5s AGL, 10s CHA",
   "additional_info": "You can only pickpocket Unconscious targets. Gain +0.0002% PvE damage for every 1 Note you have; grants +3% damage at 15,000 Notes.",
   "count_towards_talent_total": true,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

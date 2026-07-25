@@ -8,7 +8,7 @@
   ],
   "additional_info": "Behind You is procced by landing a basic attack behind your enemy after feinting a Mantra.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

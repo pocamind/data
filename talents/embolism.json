@@ -7,7 +7,7 @@
     "talent:sow_and_mend"
   ],
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

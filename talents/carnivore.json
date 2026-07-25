@@ -5,7 +5,7 @@
   "reqs": "5s STR, 5s WLL",
   "additional_info": "Cannot be obtained if you have the Vegetarian Flaw.",
   "count_towards_talent_total": true,
-  "icon": "Jaws",
+  "icon": "jaws",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

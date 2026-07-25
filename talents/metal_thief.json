@@ -5,7 +5,7 @@
   "reqs": "50s MTL",
   "additional_info": "Steals 2% of your opponent's current armor durability per rod.",
   "count_towards_talent_total": true,
-  "icon": "Ferrofluid",
+  "icon": "ironsing",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -10,5 +10,6 @@
   "reqs": "50r LTN",
   "voi": false,
   "desc": "A cloak of lightning itself.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_cloak"
 }
