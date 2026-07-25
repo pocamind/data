@@ -8,7 +8,7 @@
   ],
   "additional_info": "Applies 0.4s of true stun. Doesn't affect allies.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

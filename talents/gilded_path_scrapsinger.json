@@ -5,7 +5,7 @@
   "reqs": "35s MTL",
   "additional_info": "Your Ironsing abilities and status effects are now yellow.",
   "count_towards_talent_total": true,
-  "icon": "Ferrofluid",
+  "icon": "ironsing",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

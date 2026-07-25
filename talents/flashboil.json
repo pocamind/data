@@ -5,7 +5,7 @@
   "reqs": "30s FLM, 30s ICE",
   "additional_info": "Steam deals 2 typeless damage per tick, at 6 ticks per second. Steam cannot be blocked nor parried.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

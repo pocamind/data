@@ -55,5 +55,6 @@
   ],
   "voi": false,
   "desc": "A rapid delivery of consecutive attacks.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "astral_wind"
 }

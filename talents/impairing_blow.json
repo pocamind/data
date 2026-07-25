@@ -5,7 +5,7 @@
   "reqs": "30s HVY",
   "additional_info": "Does not proc on uppercut.",
   "count_towards_talent_total": true,
-  "icon": "Greatsword",
+  "icon": "greatsword",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

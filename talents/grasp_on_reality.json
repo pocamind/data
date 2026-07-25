@@ -5,7 +5,7 @@
   "reqs": "25s FTD, 5s WLL",
   "additional_info": "Reduces damage taken from Scratching.",
   "count_towards_talent_total": true,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

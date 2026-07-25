@@ -39,5 +39,6 @@
   ],
   "voi": true,
   "desc": "Unleash a powerful pressure blast from the weight of your weapon.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "pressure_blast"
 }

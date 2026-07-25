@@ -60,5 +60,6 @@
   ],
   "voi": false,
   "desc": "An arrow of lightning.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "bolt_piercer"
 }

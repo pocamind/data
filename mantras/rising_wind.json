@@ -55,5 +55,6 @@
   ],
   "voi": false,
   "desc": "Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "rising_wind"
 }

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Deals 5 Shadowcast damage on proc.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

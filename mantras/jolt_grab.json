@@ -100,5 +100,6 @@
   ],
   "voi": false,
   "desc": "An electrified chokehold.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "jolt_grab"
 }

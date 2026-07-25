@@ -5,7 +5,7 @@
   "reqs": "()",
   "additional_info": "The lifesteal only works in PvE.",
   "count_towards_talent_total": true,
-  "icon": "Lungs",
+  "icon": "lungs",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

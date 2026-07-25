@@ -7,7 +7,7 @@
     "equipment:solar_pendant"
   ],
   "count_towards_talent_total": false,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

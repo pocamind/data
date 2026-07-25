@@ -55,5 +55,6 @@
   ],
   "voi": false,
   "desc": "A rush of lightning.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_assault"
 }

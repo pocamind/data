@@ -7,7 +7,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Increases the time taken to execute you by 20%. Saving others from being executed grants you both 10 TempHP (20s CD)",
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": false,
   "stats": {
     "Sanity": 6

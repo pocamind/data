@@ -7,7 +7,7 @@
     "talent:encore"
   ],
   "count_towards_talent_total": true,
-  "icon": "Anger",
+  "icon": "anger",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

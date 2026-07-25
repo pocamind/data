@@ -12,7 +12,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Enemies recover 30% less posture when parrying your Zweihander light attacks.",
-  "icon": "Ribcage",
+  "icon": "ribcage",
   "roll2able": false,
   "voi_only": false
 }

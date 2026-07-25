@@ -10,7 +10,7 @@
   "vaulted": false,
   "voi": true,
   "desc": "For every 10% stealth you have, deal 1 extra damage on all sources of damage.",
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": false,
   "voi_only": true
 }

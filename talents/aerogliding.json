@@ -5,7 +5,7 @@
   "reqs": "35s WND, 30s AGL",
   "additional_info": "When active, create an aura that reduces fall speed and stops fall damage. Automatically ends after 5 seconds.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": false,
   "stats": {
     "Passive Agility": 2

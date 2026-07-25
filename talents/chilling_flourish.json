@@ -5,7 +5,7 @@
   "reqs": "30s ICE",
   "additional_info": "Leaves 3-4 ice patches on the ground.",
   "count_towards_talent_total": true,
-  "icon": "Snowflake",
+  "icon": "frostdraw",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

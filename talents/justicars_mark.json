@@ -8,7 +8,7 @@
   ],
   "additional_info": "Grants a Talent tool that allows you to apply the Justicar's Mark status effect on one of your allies. While this effect is active, the marked target gains 20% damage redirection, as 20% of the damage they would have taken is redirected to you instead. Additionally, you take 20% more damage.",
   "count_towards_talent_total": false,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

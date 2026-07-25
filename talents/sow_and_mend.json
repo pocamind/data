@@ -8,7 +8,7 @@
   ],
   "additional_info": "Gives 25 flat Temporary Health on use. 30 second cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

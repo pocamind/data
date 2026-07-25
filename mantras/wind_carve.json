@@ -58,5 +58,6 @@
   ],
   "voi": false,
   "desc": "A quick swirl of sharp winds.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "windball"
 }

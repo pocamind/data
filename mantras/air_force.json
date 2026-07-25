@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "desc": "Shoots out an air blast.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "air_force"
 }

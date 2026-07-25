@@ -62,5 +62,6 @@
   ],
   "voi": false,
   "desc": "Fire a beam of lightning.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_beam"
 }

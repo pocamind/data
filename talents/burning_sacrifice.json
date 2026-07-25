@@ -9,7 +9,7 @@
   ],
   "additional_info": "Puppets will turn purple if they've gone 15 seconds without hitting anything. You can sacrifice these purple Puppets with this Talent tool, granting a 4% damage buff per Puppet sacrificed (caps at 12%) and a small speed boost for 6 seconds. Additionally this grants 1 Emperor Flame stack per Puppet sacrificed. This has a 15 second cooldown if a Puppet is successfully sacrificed, and a 1 second cooldown if not.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

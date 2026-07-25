@@ -59,5 +59,6 @@
   ],
   "voi": false,
   "desc": "Toss a wind landmine.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "windball"
 }

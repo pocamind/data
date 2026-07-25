@@ -5,7 +5,7 @@
   "reqs": "15s STR, 5s INT",
   "additional_info": "Procs on Burn, Chill, Shock, Fear, Winded, and Suffocation. Only works on M1s.",
   "count_towards_talent_total": true,
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": true,
   "conditional_stats": {
     "Damage": 10

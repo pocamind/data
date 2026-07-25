@@ -53,5 +53,6 @@
   ],
   "voi": false,
   "desc": "Step forward and slice through your enemies. Ability can be activated again on a successful hit.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "slice_n_dice"
 }

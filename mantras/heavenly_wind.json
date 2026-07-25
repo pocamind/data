@@ -58,5 +58,6 @@
   ],
   "voi": false,
   "desc": "A strike from the heavens.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "heavenly_wind"
 }

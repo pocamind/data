@@ -53,5 +53,6 @@
   ],
   "voi": false,
   "desc": "Close the distance and deliver a fast slash.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "prominence_draw"
 }

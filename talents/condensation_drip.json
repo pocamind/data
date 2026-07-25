@@ -5,7 +5,7 @@
   "reqs": "15s ICE, 20s INT",
   "additional_info": "Reduces the passive thirst drain by 3x.",
   "count_towards_talent_total": true,
-  "icon": "Snowflake",
+  "icon": "frostdraw",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

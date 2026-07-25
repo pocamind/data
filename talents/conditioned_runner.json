@@ -9,7 +9,7 @@
   ],
   "additional_info": "After 3 seconds of sprinting without taking damage, gain increased health regeneration.",
   "count_towards_talent_total": true,
-  "icon": "Boots",
+  "icon": "boots",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

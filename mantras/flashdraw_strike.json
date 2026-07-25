@@ -41,5 +41,6 @@
   ],
   "voi": true,
   "desc": "Swiftly unsheathe your blade and deliver an upwards strike.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "flashdraw_strike"
 }

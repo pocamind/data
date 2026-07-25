@@ -93,5 +93,6 @@
   ],
   "voi": false,
   "desc": "Call forth motes of electricity that seek out your foes.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "fleeting_sparks"
 }

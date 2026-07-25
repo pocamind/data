@@ -8,7 +8,7 @@
   ],
   "additional_info": "Grants heavily increased health regeneration if you have all Wisps active. This Talent will not activate unless you have every Attunement's Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp. This Talent will not work if you no longer have the Oathless Oath.",
   "count_towards_talent_total": true,
-  "icon": "Orb",
+  "icon": "orb",
   "roll2able": true,
   "stats": {
     "Wisp Mantra Slot": 1

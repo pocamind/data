@@ -53,5 +53,6 @@
   ],
   "voi": false,
   "desc": "Show your foes your strength.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "strong_left"
 }

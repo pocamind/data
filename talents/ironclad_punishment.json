@@ -5,7 +5,7 @@
   "reqs": "45s MTL",
   "additional_info": "Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent has, capping at +15% if your opponent is at maximum armor.",
   "count_towards_talent_total": true,
-  "icon": "Ferrofluid",
+  "icon": "ironsing",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

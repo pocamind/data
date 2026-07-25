@@ -8,7 +8,7 @@
   ],
   "additional_info": "This restores 5 Tempo after using your Vent instead of decreasing the Vent cost.",
   "count_towards_talent_total": false,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

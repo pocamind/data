@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "desc": "Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "tornado_kick"
 }

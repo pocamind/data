@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "25s INT",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

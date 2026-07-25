@@ -5,7 +5,7 @@
   "reqs": "50s LHT, 50r MED OR 50r HVY",
   "additional_info": "This also allows other light weapons to use Dagger Talents.",
   "count_towards_talent_total": true,
-  "icon": "Daggers",
+  "icon": "daggers",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

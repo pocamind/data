@@ -7,7 +7,7 @@
     "talent:deep_wound"
   ],
   "count_towards_talent_total": true,
-  "icon": "Assassin",
+  "icon": "assassin",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

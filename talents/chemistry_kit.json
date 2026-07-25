@@ -7,7 +7,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "You no longer drop potions on death. You have a 25% chance to brew an extra potion.",
-  "icon": "Flask",
+  "icon": "flask",
   "roll2able": true,
   "voi_only": false
 }

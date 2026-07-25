@@ -4,7 +4,7 @@
   "rarity": "Oath",
   "reqs": "195s TTL",
   "count_towards_talent_total": false,
-  "icon": "Fadetrimmer",
+  "icon": "fadetrimmer",
   "roll2able": false,
   "stats": {
     "Wildcard Mantra Slot": 1,

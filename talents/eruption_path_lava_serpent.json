@@ -5,7 +5,7 @@
   "reqs": "40s FLM",
   "additional_info": "Eruptions have a base damage of 15 with 5 Flamecharm scaling. Eruptions have a 3s proc cooldown. You can still apply burn via Immolation, Flash Point, and Agitating Spark.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

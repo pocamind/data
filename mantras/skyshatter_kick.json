@@ -88,5 +88,6 @@
   ],
   "voi": false,
   "desc": "Unleash two devastating kicks with your brute strength.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "skyshatter_kick"
 }

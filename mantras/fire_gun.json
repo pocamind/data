@@ -58,5 +58,6 @@
   ],
   "voi": false,
   "desc": "A bullet of flames shot through each hand.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "fire_gun"
 }

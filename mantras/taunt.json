@@ -35,5 +35,6 @@
   },
   "voi": true,
   "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "taunt"
 }

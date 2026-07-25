@@ -7,7 +7,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.",
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": false,
   "voi_only": false
 }

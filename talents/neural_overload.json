@@ -4,7 +4,7 @@
   "rarity": "Advanced",
   "reqs": "85s INT",
   "count_towards_talent_total": true,
-  "icon": "Orb",
+  "icon": "orb",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

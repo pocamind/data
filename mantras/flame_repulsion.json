@@ -95,5 +95,6 @@
   ],
   "voi": false,
   "desc": "Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "flame_repulsion"
 }

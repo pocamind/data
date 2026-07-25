@@ -39,5 +39,6 @@
   ],
   "voi": true,
   "desc": "Gaze into your opponent's souls.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "spiral_eyes"
 }

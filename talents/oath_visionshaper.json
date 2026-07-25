@@ -4,7 +4,7 @@
   "rarity": "Oath",
   "reqs": "50s CHA",
   "count_towards_talent_total": false,
-  "icon": "Visionshaper",
+  "icon": "visionshaper",
   "roll2able": false,
   "stats": {
     "Wildcard Mantra Slot": 2,

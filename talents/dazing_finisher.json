@@ -11,7 +11,7 @@
   ],
   "additional_info": "The duration of this Daze scales on your Charisma investment.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

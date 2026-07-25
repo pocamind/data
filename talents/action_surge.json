@@ -5,7 +5,7 @@
   "reqs": "70s AGL",
   "additional_info": "Both this and Vigil's Grace are applied before Lightning Cloak's swing speed multiplier.",
   "count_towards_talent_total": true,
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

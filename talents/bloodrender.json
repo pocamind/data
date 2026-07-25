@@ -5,7 +5,7 @@
   "reqs": "1s BLD",
   "count_towards_talent_total": true,
   "implicit": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "25s STR, 25s AGL",
   "count_towards_talent_total": true,
-  "icon": "Jaws",
+  "icon": "jaws",
   "roll2able": false,
   "stats": {
     "Passive Agility": 6

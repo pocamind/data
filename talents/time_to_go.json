@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "5s AGL",
   "count_towards_talent_total": true,
-  "icon": "Boots",
+  "icon": "boots",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

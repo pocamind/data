@@ -89,5 +89,6 @@
   ],
   "voi": false,
   "desc": "Encircle your foes with blades of wind that halt their escape until they respond.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "wind_forge"
 }

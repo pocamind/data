@@ -7,7 +7,7 @@
     "mantra:glare"
   ],
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": false,
   "stats": {
     "Sanity": 5

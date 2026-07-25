@@ -5,7 +5,7 @@
   "reqs": "75s AGL",
   "additional_info": "Lasts 6.5 seconds despite what the description states. You cannot reapply this effect if it is currently active. For every point in Agility under 75, Down Comes the Claw loses 0.055 seconds of duration, capping at a minimum of 5.11 seconds with 50 Agility.",
   "count_towards_talent_total": true,
-  "icon": "Claw",
+  "icon": "claw",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

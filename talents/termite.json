@@ -5,7 +5,7 @@
   "reqs": "20s FTD, 10s WLL",
   "additional_info": "Allows user to eat Sticks, Bamboo, Beeswax, Coral, Spider Eggs, all Lotuses, and every Ore.",
   "count_towards_talent_total": true,
-  "icon": "Leaf",
+  "icon": "leaf",
   "roll2able": true,
   "stats": {
     "Health": 3

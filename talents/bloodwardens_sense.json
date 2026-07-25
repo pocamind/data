@@ -5,7 +5,7 @@
   "reqs": "30s BLD",
   "additional_info": "Adds a red highlight to the player.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

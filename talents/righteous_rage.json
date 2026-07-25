@@ -8,7 +8,7 @@
   ],
   "additional_info": "Temporary Health does not count for this effect.",
   "count_towards_talent_total": false,
-  "icon": "Jaws",
+  "icon": "jaws",
   "roll2able": false,
   "vaulted": false,
   "voi": true,

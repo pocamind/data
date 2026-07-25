@@ -5,7 +5,7 @@
   "reqs": "60s AGL",
   "additional_info": "Adds 10 True damage to your Air Counter. The damage bonus will be lessened if you do not meet the Talent's requirements.",
   "count_towards_talent_total": true,
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": false,
   "stats": {
     "Passive Agility": 5

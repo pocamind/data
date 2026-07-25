@@ -5,7 +5,7 @@
   "reqs": "75s MED",
   "additional_info": "Using an M1 after dodging a weapon attack will cause you to step back and then advance with faster swing speed.",
   "count_towards_talent_total": true,
-  "icon": "Ribcage",
+  "icon": "ribcage",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

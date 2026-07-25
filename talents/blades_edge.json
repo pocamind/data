@@ -5,7 +5,7 @@
   "reqs": "30s MED",
   "additional_info": "The \"tip of the spear\" is the end of your weapon's range.",
   "count_towards_talent_total": true,
-  "icon": "Spear",
+  "icon": "spear",
   "roll2able": true,
   "stats": {
     "Passive Agility": 2

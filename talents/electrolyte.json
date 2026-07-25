@@ -5,7 +5,7 @@
   "reqs": "40s BLD, 40s LTN",
   "additional_info": "Applies a Surge Rod instead if you have Surge Path. Consumes 4 Temporary Health on proc.",
   "count_towards_talent_total": true,
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

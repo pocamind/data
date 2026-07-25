@@ -8,7 +8,7 @@
   ],
   "additional_info": "Bombs apply burn on hit. Bombs will deal 20% more damage to burning targets, regardless of where the burn came from.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

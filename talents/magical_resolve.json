@@ -7,7 +7,7 @@
     "talent:battle_tendency"
   ],
   "count_towards_talent_total": false,
-  "icon": "Shield",
+  "icon": "shield",
   "roll2able": false,
   "stats": {
     "Sanity": 7

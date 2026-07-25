@@ -5,7 +5,7 @@
   "reqs": "75s WLL",
   "additional_info": "The Taunt Mantra and Cornered Fool no longer work on you. Sing will still Charm you.",
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "stats": {
     "Sanity": 20

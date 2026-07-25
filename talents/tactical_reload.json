@@ -5,7 +5,7 @@
   "reqs": "95s MED",
   "additional_info": "Upon activating the Talent tool, your rifle will gain the ability to fire Bullets for 15 seconds. 90 second cooldown. Does not work on Rifle Spear.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

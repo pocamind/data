@@ -5,7 +5,7 @@
   "reqs": "30s WND",
   "additional_info": "The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.",
   "count_towards_talent_total": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

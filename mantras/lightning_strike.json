@@ -60,5 +60,6 @@
   ],
   "voi": false,
   "desc": "A strike of thunder at your desired location.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_strike"
 }

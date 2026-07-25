@@ -8,7 +8,7 @@
   ],
   "additional_info": "This has no effect on your natural armor or incoming PEN.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

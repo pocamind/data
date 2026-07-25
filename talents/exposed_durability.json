@@ -5,7 +5,7 @@
   "reqs": "60s MTL",
   "additional_info": "Procs against Berserk users and while Berserk is active.",
   "count_towards_talent_total": false,
-  "icon": "Ferrofluid",
+  "icon": "ironsing",
   "roll2able": false,
   "conditional_stats": {
     "Damage": 10

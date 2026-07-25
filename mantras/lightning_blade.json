@@ -94,5 +94,6 @@
   ],
   "voi": false,
   "desc": "Arcing blades of electricity.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_blade"
 }

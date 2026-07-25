@@ -39,5 +39,6 @@
   ],
   "voi": true,
   "desc": "Reel back and swing your weapon, unleashing an onslaught of blows if it hits.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "onslaught"
 }

@@ -5,7 +5,7 @@
   "reqs": "135s TTL",
   "additional_info": "Does not affect Natural Armor from Exoskeleton and Chitin.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

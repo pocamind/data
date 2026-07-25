@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "30s MED, 30s STR",
   "count_towards_talent_total": true,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": true,
   "stats": {
     "Passive Agility": 2

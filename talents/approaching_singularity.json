@@ -5,7 +5,7 @@
   "reqs": "80s INT",
   "additional_info": "Gives 0.1% Mantra PEN per point in Intelligence.",
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

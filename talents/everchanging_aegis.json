@@ -5,7 +5,7 @@
   "reqs": "25s INT",
   "additional_info": "Your Aegis type can swap on block, dodge, and parry.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

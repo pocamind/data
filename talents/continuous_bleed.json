@@ -10,7 +10,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Every time you land a crit, flourish, or uppercut, increase the amount of bleed damage you deal for 15 seconds. This is stackable.",
-  "icon": "Blood",
+  "icon": "bloodrend",
   "roll2able": false,
   "voi_only": false
 }

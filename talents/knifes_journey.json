@@ -5,7 +5,7 @@
   "reqs": "30s LHT",
   "additional_info": "In PvE, your Dagger attacks have a 15% chance to critically hit, dealing 5x damage. This does not proc \"on critical attack\" effects, and cannot proc on Moppet's critical attack.",
   "count_towards_talent_total": true,
-  "icon": "Daggers",
+  "icon": "daggers",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

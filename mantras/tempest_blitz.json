@@ -48,5 +48,6 @@
   "voi": false,
   "wiki": "",
   "desc": "Sprint forward on the winds themselves and deliver a devastating thunder kick.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "tempest_blitz"
 }

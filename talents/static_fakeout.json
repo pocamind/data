@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "30s AGL, 35s LTN",
   "count_towards_talent_total": true,
-  "icon": "Lightning",
+  "icon": "thundercall",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

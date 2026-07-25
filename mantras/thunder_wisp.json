@@ -52,5 +52,6 @@
   "miscellaneous": "Applies Sapped on uppercut and flourish.",
   "voi": false,
   "desc": "A servant of lightning.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "thunder_wisp"
 }

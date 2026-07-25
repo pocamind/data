@@ -5,7 +5,7 @@
   "reqs": "25s INT, 15s CHA",
   "additional_info": "Increases food nutritional value by 25%. Increases the healing gained from using Fondant Splitter's critical.",
   "count_towards_talent_total": true,
-  "icon": "Flame",
+  "icon": "flamecharm",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

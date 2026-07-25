@@ -5,7 +5,7 @@
   "reqs": "()",
   "additional_info": "This deals 0.5x of your weapons scaled damage as typeless damage. Hits four times.",
   "count_towards_talent_total": false,
-  "icon": "Sword",
+  "icon": "sword",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

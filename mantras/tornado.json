@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "desc": "A rushing current of wind.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "tornado"
 }

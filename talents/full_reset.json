@@ -5,7 +5,7 @@
   "reqs": "255s TTL",
   "additional_info": "Also works on non-humanoid monsters, resetting your Resonance cooldown after they die.",
   "count_towards_talent_total": true,
-  "icon": "Bell",
+  "icon": "bell",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

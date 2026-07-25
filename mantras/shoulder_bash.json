@@ -43,5 +43,6 @@
   ],
   "voi": true,
   "desc": "Rush at your enemies with your full physical force.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "shoulder_bash"
 }

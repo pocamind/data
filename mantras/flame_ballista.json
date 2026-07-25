@@ -60,5 +60,6 @@
   ],
   "voi": false,
   "desc": "Conjure a flaming arrow and fire it at your target.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "flame_ballista"
 }

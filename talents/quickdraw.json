@@ -5,7 +5,7 @@
   "reqs": "55s LHT",
   "additional_info": "Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon.",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

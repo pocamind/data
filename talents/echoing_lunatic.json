@@ -7,7 +7,7 @@
     "talent:ardour_scream"
   ],
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -10,7 +10,7 @@
   "vaulted": false,
   "voi": false,
   "desc": "Landing the cannonball of your critical attack removes your critical attack's cooldown.",
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": false,
   "voi_only": false
 }

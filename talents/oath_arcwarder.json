@@ -4,7 +4,7 @@
   "rarity": "Oath",
   "reqs": "20s FTD, 20s FLM, 20s LTN",
   "count_towards_talent_total": true,
-  "icon": "Arcwarder",
+  "icon": "arcwarder",
   "roll2able": true,
   "stats": {
     "Wildcard Mantra Slot": 1,

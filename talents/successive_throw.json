@@ -5,7 +5,7 @@
   "reqs": "35s LHT",
   "additional_info": "There is a 1.5 second delay after your flourish before the dagger is thrown. This deals 5 Slash damage.",
   "count_towards_talent_total": true,
-  "icon": "Daggers",
+  "icon": "daggers",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

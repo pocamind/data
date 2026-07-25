@@ -8,7 +8,7 @@
   ],
   "additional_info": "Deals 35 Blunt damage with 20 Posture damage. This cannot be buffed through damage modifiers. Increases your Vent's windup from 0.25s to 0.5s.",
   "count_towards_talent_total": false,
-  "icon": "Fist",
+  "icon": "fist",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Only applies to \"active\" healing. The duration of this effect will be reduced if you do not meet the Talent's requirements. This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.",
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "stats": {
     "Sanity": 20

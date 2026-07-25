@@ -8,7 +8,7 @@
   ],
   "additional_info": "Enchaining targets and hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath. Each stack of Perpetual Wrath increases Restrain's (Mantra) damage by 8, capping out at 4 stacks for +32 damage.",
   "count_towards_talent_total": false,
-  "icon": "Chainwarden",
+  "icon": "chainwarden",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

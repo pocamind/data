@@ -5,7 +5,7 @@
   "reqs": "25s WLL",
   "additional_info": "Halves the duration of the Charmed status effect. Additionally halves the duration of Illusory Servants if they are casted on you.",
   "count_towards_talent_total": true,
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": true,
   "stats": {
     "Sanity": 5

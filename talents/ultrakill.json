@@ -7,7 +7,7 @@
     "talent:rapid_fire"
   ],
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

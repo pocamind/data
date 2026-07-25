@@ -62,5 +62,6 @@
   "miscellaneous": "Damage dealt is based on your build.",
   "voi": false,
   "desc": "Replicated forms of yourself conjured from electricity.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "lightning_clones"
 }

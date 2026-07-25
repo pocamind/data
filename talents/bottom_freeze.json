@@ -8,7 +8,7 @@
   ],
   "additional_info": "Prevents you from rotating your character and moving around overall. Taking damage from any source will end Bottom Freeze early.",
   "count_towards_talent_total": true,
-  "icon": "Snowflake",
+  "icon": "frostdraw",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

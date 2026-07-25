@@ -7,7 +7,7 @@
     "talent:moving_fortress"
   ],
   "count_towards_talent_total": true,
-  "icon": "Shield",
+  "icon": "shield",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

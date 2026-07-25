@@ -5,7 +5,7 @@
   "reqs": "40s HVY",
   "additional_info": "Only procs on guardbreaks from weapon attacks. Applies knockdown for 1.2s.",
   "count_towards_talent_total": true,
-  "icon": "Greatsword",
+  "icon": "greatsword",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

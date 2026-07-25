@@ -61,5 +61,6 @@
   ],
   "voi": false,
   "desc": "Jet forwards with flames and slam anyone you catch in your clutches.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "flame_grab"
 }

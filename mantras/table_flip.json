@@ -50,5 +50,6 @@
   },
   "voi": false,
   "desc": "Toss the ground in front of you.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "table_flip"
 }

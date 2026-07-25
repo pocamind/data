@@ -47,5 +47,6 @@
   ],
   "voi": false,
   "desc": "Make a cauldron appear from your memories.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "summon_cauldron"
 }

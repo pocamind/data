@@ -54,5 +54,6 @@
   ],
   "voi": false,
   "desc": "A pyroclastic eruption.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "fire_eruption"
 }

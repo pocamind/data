@@ -7,7 +7,7 @@
     "objective:ghost_hunting"
   ],
   "count_towards_talent_total": false,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": false,
   "stats": {
     "Sanity": 10

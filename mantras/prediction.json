@@ -38,5 +38,6 @@
   ],
   "voi": true,
   "desc": "Predict an opponent's attack and reflect it.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "prediction"
 }

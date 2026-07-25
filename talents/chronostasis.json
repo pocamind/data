@@ -5,7 +5,7 @@
   "reqs": "210s TTL",
   "additional_info": "On hit, apply a 13 second Resonance cooldown. This cannot proc if their Resonance is already on cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Bell",
+  "icon": "bell",
   "roll2able": false,
   "stats": {
     "Posture": 1

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Each active Link reduces the Ether cost of your Thundercall Mantras by 30%.",
   "count_towards_talent_total": true,
-  "icon": "Lightning",
+  "icon": "thundercall",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

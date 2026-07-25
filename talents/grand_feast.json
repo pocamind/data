@@ -8,7 +8,7 @@
   ],
   "additional_info": "Health gain is disabled in PvP combat. On proc, gain 40% tempo, 55% Ether, 3% blood, and 5% health.",
   "count_towards_talent_total": true,
-  "icon": "Jaws",
+  "icon": "jaws",
   "roll2able": true,
   "stats": {
     "Passive Agility": 1

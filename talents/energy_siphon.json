@@ -8,7 +8,7 @@
   ],
   "additional_info": "Takes 15 Ether from the affected opponent on proc.",
   "count_towards_talent_total": true,
-  "icon": "Shadows",
+  "icon": "shadowcast",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -8,7 +8,7 @@
   ],
   "additional_info": "Fully heals your Servant if they are below 40% health. The cooldown of this Command scales on your Charisma investment.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

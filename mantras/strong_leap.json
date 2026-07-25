@@ -36,5 +36,6 @@
   ],
   "voi": true,
   "desc": "Kick off of the ground with your strength, sending you into the air.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "strong_leap"
 }

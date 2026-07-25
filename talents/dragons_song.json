@@ -5,7 +5,7 @@
   "reqs": "()",
   "additional_info": "Grants +20 Ether on proc. 2 second cooldown.",
   "count_towards_talent_total": true,
-  "icon": "Brain",
+  "icon": "brain",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -5,7 +5,7 @@
   "reqs": "60s AGL",
   "additional_info": "Negate the extra half a second cooldown added to the roll following a roll-cancel.",
   "count_towards_talent_total": true,
-  "icon": "Cloak",
+  "icon": "cloak",
   "roll2able": false,
   "stats": {
     "Passive Agility": 1

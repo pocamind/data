@@ -8,7 +8,7 @@
   ],
   "additional_info": "Targets affected by Sapped have the cooldowns of their Mantras increased.",
   "count_towards_talent_total": true,
-  "icon": "Lightning",
+  "icon": "thundercall",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

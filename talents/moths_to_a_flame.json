@@ -8,7 +8,7 @@
   ],
   "additional_info": "Puppets will now home in on targets who are burning with either of Twisted Puppets' burn types. When a Puppet gets close to a burning target it speeds up.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

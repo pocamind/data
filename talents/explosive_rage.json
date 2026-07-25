@@ -8,7 +8,7 @@
   ],
   "additional_info": "While buffed, your Puppets will gain an orange swirling aura. On proc, this buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds. The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the Detonation enchant.",
   "count_towards_talent_total": true,
-  "icon": "Explosion",
+  "icon": "explosion",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

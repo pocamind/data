@@ -5,7 +5,7 @@
   "reqs": "30s FTD, 30s WLL",
   "additional_info": "This can stack with other Talents to reduce knock time even further. (Ex. Defiance)",
   "count_towards_talent_total": false,
-  "icon": "Grip",
+  "icon": "grip",
   "roll2able": false,
   "stats": {
     "Sanity": 5

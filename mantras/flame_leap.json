@@ -46,5 +46,6 @@
   ],
   "voi": true,
   "desc": "Leap up leaving behind a burst of flames.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "flame_leap"
 }

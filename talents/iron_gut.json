@@ -5,7 +5,7 @@
   "reqs": "20r FTD OR 20r WLL",
   "additional_info": "Heavily reduces the chance that you vomit upon eating bad food. This does not work on Pufferfish.",
   "count_towards_talent_total": true,
-  "icon": "Leaf",
+  "icon": "leaf",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -91,5 +91,6 @@
   ],
   "voi": false,
   "desc": "A javelin made out of lightning.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "grand_javelin"
 }

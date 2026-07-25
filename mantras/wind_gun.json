@@ -163,5 +163,6 @@
   ],
   "voi": false,
   "desc": "A powerful wind blast.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "wind_gun"
 }

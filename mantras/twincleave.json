@@ -53,5 +53,6 @@
   ],
   "voi": false,
   "desc": "Dart around the battlefield with devastating cleaves delivered in quick succession.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "twincleave"
 }

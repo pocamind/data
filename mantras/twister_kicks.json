@@ -56,5 +56,6 @@
   ],
   "voi": false,
   "desc": "Go forth with spinning kicks infused with the wind",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "twister_kicks"
 }

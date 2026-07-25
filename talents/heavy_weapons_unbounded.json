@@ -6,7 +6,7 @@
   "additional_info": "Removes the 75 Attribute cap on Heavy Weapons.",
   "count_towards_talent_total": false,
   "implicit": true,
-  "icon": "Greatsword",
+  "icon": "greatsword",
   "roll2able": false,
   "vaulted": false,
   "voi": false,

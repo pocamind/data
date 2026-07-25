@@ -99,5 +99,6 @@
   ],
   "voi": false,
   "desc": "Toss a nimble dagger.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "fire_forge"
 }

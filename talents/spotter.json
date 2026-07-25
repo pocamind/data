@@ -9,7 +9,7 @@
   ],
   "additional_info": "Using Callout while in Rhythm will showcase the health value of the target to your allies.",
   "count_towards_talent_total": true,
-  "icon": "Handshake",
+  "icon": "handshake",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

@@ -45,5 +45,6 @@
   ],
   "voi": true,
   "desc": "Summon a legion of flaming spearmen that lunge inwards.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "burning_servants"
 }

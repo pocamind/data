@@ -11,7 +11,7 @@
   "voi": false,
   "desc": "[Land Critical Attack or Hidden Blade] Apply Blinded for 5 seconds.",
   "additional_info": "15 second cooldown.",
-  "icon": "Eye",
+  "icon": "eye",
   "roll2able": false,
   "voi_only": false
 }

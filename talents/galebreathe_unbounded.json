@@ -9,7 +9,7 @@
   "additional_info": "Removes the 75 investment cap on the Galebreathe Attribute.",
   "count_towards_talent_total": false,
   "implicit": true,
-  "icon": "Wind",
+  "icon": "galebreathe",
   "roll2able": false,
   "stats": {
     "Health": 10

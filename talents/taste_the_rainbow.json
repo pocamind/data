@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "50s LHT",
   "count_towards_talent_total": true,
-  "icon": "Bullet",
+  "icon": "bullet",
   "roll2able": true,
   "vaulted": false,
   "voi": false,

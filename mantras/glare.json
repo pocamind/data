@@ -40,5 +40,6 @@
   ],
   "voi": true,
   "desc": "Opponents facing you are briefly rendered immobile.",
-  "voi_only": false
+  "voi_only": false,
+  "icon": "glare"
 }

@@ -5,7 +5,7 @@
   "reqs": "20s AGL",
   "additional_info": "Falls are considered to be 10 studs shorter, reducing fall damage. Climb height is increased by 15% with a 3s CD. Slide jumping further increases climb height.",
   "count_towards_talent_total": true,
-  "icon": "Boots",
+  "icon": "boots",
   "roll2able": true,
   "stats": {
     "Passive Agility": 6
