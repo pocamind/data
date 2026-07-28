@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Rare",
   "set": "Silver Knight",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Health": {

@@ -4,7 +4,18 @@
   "type": "Torso",
   "rarity": "Uncommon",
   "set": "Brilliant",
-  "variants": [],
+  "variants": [
+    "Adretian Hero",
+    "Antihero",
+    "Beastslayer",
+    "Default",
+    "Kingmaker",
+    "Lightbringer",
+    "Northerner",
+    "Paladin",
+    "Snowbringer",
+    "Ranger"
+  ],
   "talents": [],
   "innates": {
     "Elemental Armor": {

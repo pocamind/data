@@ -4,7 +4,11 @@
   "type": "Head",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Classic",
+    "Fabric",
+    "Leather"
+  ],
   "talents": [
     "Seamaster's Guile"
   ],

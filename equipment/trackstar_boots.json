@@ -1,0 +1,24 @@
+{
+  "name": "Trackstar Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Trackstar",
+  "variants": [],
+  "talents": [
+    "Haste"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

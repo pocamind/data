@@ -9,7 +9,7 @@
   "innates": {
     "Stealth": {
       "value": 2,
-      "percentage": false
+      "percentage": true
     },
     "Shadow Resistance": {
       "value": 5,

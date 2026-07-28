@@ -10,13 +10,10 @@
     "Steel"
   ],
   "talents": [
-    "Blind Spot"
+    "Blind Spot",
+    "Blinded"
   ],
   "innates": {
-    "Health": {
-      "value": -5,
-      "percentage": false
-    },
     "Posture": {
       "value": 1,
       "percentage": false
@@ -25,8 +22,8 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "90r TTL",
+  "reqs": "135r TTL",
   "voi": false,
-  "desc": "A metal visor favoured by the Inquisitors of the Central Authority. The perfect facewear to steel your visage of the world around you - hide your identity and emotions while retaining a look that commands authority on the field.",
+  "desc": "A metal visor favoured by the Inquisitors of the Central Authority. The perfect facewear to steel your visage from the world around you-hide your identity and emotions while retaining a look that commands authority on the field.",
   "voi_only": false
 }

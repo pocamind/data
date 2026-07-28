@@ -1,0 +1,24 @@
+{
+  "name": "Hardened Barrel Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Tenacity"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "A sturdy helmet shaped like a barrel.",
+  "voi_only": true
+}

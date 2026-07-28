@@ -4,7 +4,11 @@
   "type": "Arms",
   "rarity": "Common",
   "set": "Ascended Outlaw",
-  "variants": [],
+  "variants": [
+    "Mountain",
+    "Tundra",
+    "Valley"
+  ],
   "talents": [
     "Ether Pinpoint"
   ],

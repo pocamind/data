@@ -6,7 +6,7 @@
   "set": "Hardened Enforcer",
   "variants": [],
   "talents": [
-    "Berserker",
+    "Berserk",
     "Enforcer's Strength"
   ],
   "innates": {
@@ -15,7 +15,10 @@
       "percentage": false
     }
   },
-  "pips": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
   "reqs": "135r TTL",
   "voi": false,
   "desc": "...",

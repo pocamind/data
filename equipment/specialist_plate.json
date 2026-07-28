@@ -4,7 +4,12 @@
   "type": "Arms",
   "rarity": "Common",
   "set": "Specialist",
-  "variants": [],
+  "variants": [
+    "21st Legion",
+    "49th Legion",
+    "84th Legion",
+    "The Immortals"
+  ],
   "talents": [
     "Stormcall"
   ],
@@ -15,10 +20,10 @@
     }
   },
   "pips": {
-    "Rare": 2
+    "Rare": 1
   },
-  "reqs": "315r TTL, 30r LTN, 30r WND",
+  "reqs": "315r TTL, 30r WND, 30r LTN",
   "voi": false,
-  "desc": "Armorers in the Hundred Legion dedicate their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise.",
+  "desc": "Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise.",
   "voi_only": false
 }

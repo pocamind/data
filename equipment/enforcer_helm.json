@@ -1,0 +1,24 @@
+{
+  "name": "Enforcer Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Blend In"
+  ],
+  "innates": {
+    "Health": {
+      "value": 4,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

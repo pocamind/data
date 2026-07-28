@@ -5,9 +5,9 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "White",
     "Black",
-    "Crimson"
+    "Crimson",
+    "White"
   ],
   "talents": [
     "Blinded"

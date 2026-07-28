@@ -4,7 +4,16 @@
   "type": "Head",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Brown",
+    "Dark",
+    "Navy",
+    "Relentless",
+    "Shadow",
+    "Smoke",
+    "Titan",
+    "Vermilion"
+  ],
   "talents": [],
   "innates": {},
   "pips": {
@@ -12,6 +21,6 @@
   },
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "A shroud worn proud by members of the Inquisition.",
+  "desc": "A shroud worn proudly by highest ranking members of the Inquisition of the Central Authority. Orchestrating whole divisions of Inquisitors like relentless, haunting shadows, the High Inquisitors are the faithful eyes and ears of the Authority all over Lumen.",
   "voi_only": false
 }

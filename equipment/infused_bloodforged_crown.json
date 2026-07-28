@@ -1,0 +1,26 @@
+{
+  "name": "Infused Bloodforged Crown",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Mythical",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "No Limits",
+    "Cauterized Wounds"
+  ],
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

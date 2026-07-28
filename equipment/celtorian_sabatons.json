@@ -4,7 +4,12 @@
   "type": "Legs",
   "rarity": "Rare",
   "set": "Celtor Commander",
-  "variants": [],
+  "variants": [
+    "Grand Marshal",
+    "Sable",
+    "Stygian",
+    "Tideknight"
+  ],
   "talents": [],
   "innates": {
     "Health": {

@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Legion",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [
     "Polite Awakening"
   ],

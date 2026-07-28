@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Legendary",
   "set": "Monastery Champion",
-  "variants": [],
+  "variants": [
+    "Cotton",
+    "Linen"
+  ],
   "talents": [
     "Blade Dancer"
   ],

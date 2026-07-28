@@ -1,18 +1,18 @@
 {
-  "name": "Royal Guard",
+  "name": "Duelist Mask",
   "equippable": true,
   "type": "Face",
   "rarity": "Rare",
   "set": null,
-  "variants": [
-    "Red",
-    "Blue",
-    "Green"
-  ],
+  "variants": [],
   "talents": [],
-  "innates": {},
+  "innates": {
+    "Stealth": {
+      "value": 6,
+      "percentage": true
+    }
+  },
   "pips": {
-    "Uncommon": 1,
     "Rare": 1
   },
   "reqs": "()",

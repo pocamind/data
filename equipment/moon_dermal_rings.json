@@ -1,5 +1,5 @@
 {
-  "name": "Duelist's Mask",
+  "name": "Moon Dermal Rings",
   "equippable": true,
   "type": "Face",
   "rarity": "Rare",
@@ -7,15 +7,14 @@
   "variants": [],
   "talents": [],
   "innates": {
-    "Stealth": {
-      "value": 6,
-      "percentage": true
+    "Health": {
+      "value": 1,
+      "percentage": false
     }
   },
-  "pips": {
-    "Rare": 1
-  },
+  "pips": {},
   "reqs": "()",
   "voi": false,
-  "desc": "..."
+  "desc": "FEAR. IRONSINGERS.",
+  "voi_only": false
 }

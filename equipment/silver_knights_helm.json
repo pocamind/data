@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Rare",
   "set": "Silver Knight",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -13,7 +16,8 @@
     }
   },
   "pips": {
-    "Uncommon": 1
+    "Uncommon": 1,
+    "Rare": 1
   },
   "reqs": "135r TTL",
   "voi": false,

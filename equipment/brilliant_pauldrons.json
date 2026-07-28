@@ -1,10 +1,15 @@
 {
-  "name": "Brilliant Pauldron",
+  "name": "Brilliant Pauldrons",
   "equippable": true,
   "type": "Arms",
   "rarity": "Rare",
   "set": "Brilliant",
-  "variants": [],
+  "variants": [
+    "Debonair (Brushed)",
+    "Debonair (Rough)",
+    "Warlike (Brushed)",
+    "Warlike (Rough)"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -16,7 +21,7 @@
     "Rare": 2,
     "Legendary": 1
   },
-  "reqs": "165 ttl",
+  "reqs": "()",
   "voi": false,
   "desc": "..."
 }

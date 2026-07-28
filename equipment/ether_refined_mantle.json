@@ -4,10 +4,16 @@
   "type": "Arms",
   "rarity": "Unique",
   "set": "Ether Refined",
-  "variants": [],
+  "variants": [
+    "Lilac",
+    "Navy",
+    "Sky",
+    "Sorcerer",
+    "Verdant"
+  ],
   "talents": [
-    "Sorcerer's Supply",
-    "Overflowing Dam"
+    "Overflowing Dam",
+    "Sorcerer's Surge"
   ],
   "innates": {
     "Health": {

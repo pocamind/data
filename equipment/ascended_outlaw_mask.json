@@ -4,7 +4,11 @@
   "type": "Face",
   "rarity": "Common",
   "set": "Ascended Outlaw",
-  "variants": [],
+  "variants": [
+    "Mountain",
+    "Tundra",
+    "Valley"
+  ],
   "talents": [
     "Destructive Yell"
   ],

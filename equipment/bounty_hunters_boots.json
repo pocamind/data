@@ -1,0 +1,26 @@
+{
+  "name": "Bounty Hunter's Boots",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Rare",
+  "set": "Bounty Hunter",
+  "variants": [],
+  "talents": [
+    "Endurance Runner",
+    "Gunslinger's Fury"
+  ],
+  "innates": {
+    "Health": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2,
+    "Legendary": 1
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

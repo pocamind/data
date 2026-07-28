@@ -4,7 +4,13 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Ash",
+    "Pink",
+    "Rural",
+    "Sable",
+    "Tawny"
+  ],
   "talents": [
     "Unwavering Resolve"
   ],

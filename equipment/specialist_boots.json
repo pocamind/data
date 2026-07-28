@@ -4,7 +4,12 @@
   "type": "Legs",
   "rarity": "Common",
   "set": "Specialist",
-  "variants": [],
+  "variants": [
+    "21st Legion",
+    "49th Legion",
+    "84th Legion",
+    "The Immortals"
+  ],
   "talents": [
     "Flashwind"
   ],
@@ -15,10 +20,11 @@
     }
   },
   "pips": {
-    "Uncommon": 1
+    "Uncommon": 1,
+    "Rare": 1
   },
-  "reqs": "315r TTL, 30r LTN, 30r WND",
+  "reqs": "315r TTL, 30r WND, 30r LTN",
   "voi": false,
-  "desc": "The only thing that surpasses a Shock Trooper's Brutality is their speed.",
+  "desc": "The only thing that surpasses a Shock Trooper's brutality is their speed.",
   "voi_only": false
 }

@@ -5,10 +5,16 @@
   "rarity": "Rare",
   "set": "Novice",
   "variants": [],
-  "talents": [],
+  "talents": [
+    "Steady Footing"
+  ],
   "innates": {
     "Health": {
       "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
       "percentage": false
     }
   },

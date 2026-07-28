@@ -1,0 +1,17 @@
+{
+  "name": "Tiny Soul Ring",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Relic",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "You can no longer block, but your parrys deal 2x posture return damage and your parry cooldown is shorter.",
+  "voi_only": true
+}

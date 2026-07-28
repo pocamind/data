@@ -13,10 +13,11 @@
     }
   },
   "pips": {
-    "Legendary": 1
+    "Legendary": 2
   },
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "It's showtime!\n[*Note: Only obtainable through Goodie Bags.]",
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "It's showtime!",
   "voi_only": false
 }

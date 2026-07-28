@@ -8,12 +8,7 @@
   "talents": [
     "Ready or Not"
   ],
-  "innates": {
-    "Health": {
-      "value": 3,
-      "percentage": false
-    }
-  },
+  "innates": {},
   "pips": {
     "Rare": 1
   },

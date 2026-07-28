@@ -10,7 +10,8 @@
   ],
   "innates": {},
   "pips": {
-    "Rare": 1
+    "Rare": 1,
+    "Legendary": 1
   },
   "reqs": "90r TTL",
   "voi": false,

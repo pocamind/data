@@ -4,7 +4,10 @@
   "type": "Torso",
   "rarity": "Relic",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Tarnished",
+    "Unblemished"
+  ],
   "talents": [
     "Featherfall"
   ],

@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Silver Knight",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -15,7 +18,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "()",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

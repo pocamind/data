@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Common",
   "set": "Leather",
-  "variants": [],
+  "variants": [
+    "Rough",
+    "Smooth"
+  ],
   "talents": [],
   "innates": {
     "Health": {

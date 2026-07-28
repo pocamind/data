@@ -2,11 +2,11 @@
   "name": "Deepwoken Cloak",
   "equippable": true,
   "type": "Arms",
-  "rarity": "Rare",
+  "rarity": "Legendary",
   "set": "Deepwoken",
   "variants": [
-    "White",
-    "Black"
+    "Black",
+    "White"
   ],
   "talents": [
     "Blade Dancer"

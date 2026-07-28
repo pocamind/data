@@ -5,8 +5,10 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "Black",
-    "Double"
+    "Default",
+    "Grey Fabric",
+    "Double Fabric",
+    "Double Leather"
   ],
   "talents": [
     "Exterminator",

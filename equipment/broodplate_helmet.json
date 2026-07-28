@@ -19,7 +19,7 @@
     }
   },
   "pips": {
-    "Common": 1,
+    "Uncommon": 1,
     "Rare": 1
   },
   "reqs": "165r TTL",

@@ -4,8 +4,13 @@
   "type": "Torso",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
-  "talents": [],
+  "variants": [
+    "Frontier",
+    "Furnace"
+  ],
+  "talents": [
+    "Wormwarder"
+  ],
   "innates": {
     "Carry Load": {
       "value": 10,

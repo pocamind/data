@@ -5,12 +5,12 @@
   "rarity": "Uncommon",
   "set": null,
   "variants": [
-    "Shade",
+    "Emerald",
+    "Onyx",
     "Rose",
     "Scarlet",
-    "Emerald",
-    "Silver",
-    "Onyx"
+    "Shade",
+    "Silver"
   ],
   "talents": [],
   "innates": {
@@ -23,7 +23,7 @@
     "Rare": 1,
     "Legendary": 1
   },
-  "reqs": "135r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

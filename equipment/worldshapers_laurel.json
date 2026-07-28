@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Spec",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Classic",
+    "Tarnished"
+  ],
   "talents": [],
   "innates": {},
   "pips": {},

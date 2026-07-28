@@ -5,8 +5,12 @@
   "rarity": "Common",
   "set": "Ascended Outlaw",
   "variants": [
-    "Western",
-    "Ascended"
+    "Farmland",
+    "Fog",
+    "Mountain",
+    "Peaks",
+    "Tundra",
+    "Valley"
   ],
   "talents": [
     "Mass Effect"

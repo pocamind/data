@@ -1,0 +1,24 @@
+{
+  "name": "Caster Fur Pauldrons",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Caster Fur",
+  "variants": [],
+  "talents": [
+    "Ether Upgrade"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

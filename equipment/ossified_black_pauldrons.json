@@ -3,7 +3,7 @@
   "equippable": true,
   "type": "Arms",
   "rarity": "Rare",
-  "set": "Ossified Blood",
+  "set": "Ossified Black",
   "variants": [],
   "talents": [
     "Laminated Armor"
@@ -21,7 +21,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "()",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Rare",
   "set": "Grand Authority",
-  "variants": [],
+  "variants": [
+    "Bulwark",
+    "Juggernaut"
+  ],
   "talents": [],
   "innates": {
     "Health": {

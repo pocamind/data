@@ -1,12 +1,12 @@
 {
-  "name": "Justicar Defender",
+  "name": "Justicar Defender Coat",
   "equippable": true,
   "type": "Arms",
   "rarity": "Uncommon",
   "set": null,
   "variants": [
-    "Jet Black",
     "Black",
+    "Jet Black",
     "Faded",
     "Orange",
     "Purple",
@@ -15,7 +15,7 @@
   "talents": [],
   "innates": {},
   "pips": {
-    "Rare": 4
+    "Rare": 2
   },
   "reqs": "90r TTL",
   "voi": false,

@@ -5,12 +5,13 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "Yellow",
+    "Black",
+    "Blue",
+    "Green",
+    "Orange",
     "Red",
     "White",
-    "Green",
-    "Blue",
-    "Black"
+    "Yellow"
   ],
   "talents": [],
   "innates": {},

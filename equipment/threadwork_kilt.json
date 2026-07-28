@@ -4,7 +4,12 @@
   "type": "Torso",
   "rarity": "Uncommon",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Houndstooth",
+    "Masterwork",
+    "Threadwork",
+    "Well-Crafted"
+  ],
   "talents": [],
   "innates": {
     "Posture": {

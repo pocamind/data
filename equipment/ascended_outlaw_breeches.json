@@ -1,16 +1,18 @@
 {
-  "name": "Western Outlaw Boots",
+  "name": "Ascended Outlaw Breeches",
   "equippable": true,
   "type": "Legs",
   "rarity": "Common",
-  "set": "Western Outlaw",
-  "variants": [],
-  "talents": [],
+  "set": "Ascended Outlaw",
+  "variants": [
+    "Mountain",
+    "Tundra",
+    "Valley"
+  ],
+  "talents": [
+    "Stronger Under Pressure"
+  ],
   "innates": {
-    "Health": {
-      "value": 5,
-      "percentage": false
-    },
     "Thunder Resistance": {
       "value": 3,
       "percentage": true
@@ -21,9 +23,10 @@
     }
   },
   "pips": {
+    "Uncommon": 1,
     "Rare": 1
   },
-  "reqs": "165r TTL",
+  "reqs": "315r TTL",
   "voi": false,
   "desc": "Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband.",
   "voi_only": false

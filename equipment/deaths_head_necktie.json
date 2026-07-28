@@ -13,10 +13,11 @@
     }
   },
   "pips": {
-    "Legendary": 1
+    "Legendary": 2
   },
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "You may think this world is a dream come true... but you're wrong.\n[*Note: Only obtainable through Goodie Bags.]",
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "You may think this world is a dream come true... but you're wrong.",
   "voi_only": false
 }

@@ -4,7 +4,12 @@
   "type": "Arms",
   "rarity": "Legendary",
   "set": "Monastery Champion",
-  "variants": [],
+  "variants": [
+    "Champion (Cotton)",
+    "Champion (Linen)",
+    "Oni (Cotton)",
+    "Oni (Linen)"
+  ],
   "talents": [
     "Temple Guard"
   ],

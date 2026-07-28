@@ -4,7 +4,14 @@
   "type": "Face",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Anaconda",
+    "Cobra",
+    "Mamba",
+    "Oni",
+    "Psammophis",
+    "Taipan"
+  ],
   "talents": [],
   "innates": {},
   "pips": {

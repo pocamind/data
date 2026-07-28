@@ -1,0 +1,26 @@
+{
+  "name": "Cultist Cowl",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Experienced Healer"
+  ],
+  "innates": {
+    "Stealth": {
+      "value": 4,
+      "percentage": true
+    },
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

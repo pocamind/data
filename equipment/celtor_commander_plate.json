@@ -4,7 +4,12 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Celtor Commander",
-  "variants": [],
+  "variants": [
+    "Grand Marshal",
+    "Sable",
+    "Stygian",
+    "Tideknight"
+  ],
   "talents": [
     "Breathing Exercise"
   ],
@@ -20,6 +25,6 @@
   },
   "reqs": "165r TTL",
   "voi": false,
-  "desc": "...",
+  "desc": "Clad in sturdy mastercraft armour modelled to resemble the walls of Celtor, the city's highest-ranking officers oversaw the day-to-day running of its military affairs. What did they see, on Celtor's final, fateful day? What hearts of stone belayed the Grand Marshal's order to evacuate the city? How many of them fled ahead of time, seeking to save their sorry lives? What hand valiantly stayed behind, to shepherd desperate civilians to the harbour?",
   "voi_only": false
 }

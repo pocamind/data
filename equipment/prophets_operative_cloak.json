@@ -1,12 +1,13 @@
 {
-  "name": "Corrupted Duelist's Mask",
+  "name": "Prophet's Operative Cloak",
   "equippable": true,
-  "type": "Face",
+  "type": "Arms",
   "rarity": "Rare",
   "set": null,
   "variants": [],
   "talents": [
-    "Fictitious Force"
+    "Tempo Sap",
+    "Eureka"
   ],
   "innates": {
     "Stealth": {
@@ -15,9 +16,11 @@
     }
   },
   "pips": {
-    "Rare": 1
+    "Rare": 2,
+    "Legendary": 1
   },
   "reqs": "()",
   "voi": true,
-  "desc": "..."
+  "desc": "...",
+  "voi_only": true
 }

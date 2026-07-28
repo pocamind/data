@@ -1,12 +1,12 @@
 {
-  "name": "Bulwark Helm",
+  "name": "Caster Fur Boots",
   "equippable": true,
-  "type": "Head",
+  "type": "Legs",
   "rarity": "Rare",
-  "set": null,
+  "set": "Caster Fur",
   "variants": [],
   "talents": [
-    "Strong Hold"
+    "Ether Efficiency"
   ],
   "innates": {
     "Health": {
@@ -15,10 +15,10 @@
     }
   },
   "pips": {
-    "Rare": 1,
-    "Legendary": 1
+    "Rare": 1
   },
-  "reqs": "135 ttl",
-  "voi": false,
-  "desc": "..."
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
 }

@@ -4,7 +4,11 @@
   "type": "Arms",
   "rarity": "Common",
   "set": "Western Outlaw",
-  "variants": [],
+  "variants": [
+    "Mountain",
+    "Tundra",
+    "Valley"
+  ],
   "talents": [],
   "innates": {
     "Posture": {

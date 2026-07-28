@@ -1,0 +1,23 @@
+{
+  "name": "Oni Robes",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Legendary",
+  "set": "Oni",
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

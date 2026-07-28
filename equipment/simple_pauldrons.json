@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Common",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Not So Simple",
+    "Simple"
+  ],
   "talents": [],
   "innates": {
     "Health": {

@@ -10,7 +10,8 @@
   ],
   "innates": {},
   "pips": {
-    "Common": 1
+    "Common": 1,
+    "Rare": 1
   },
   "reqs": "()",
   "voi": true,

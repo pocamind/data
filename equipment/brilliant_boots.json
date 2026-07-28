@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Rare",
   "set": "Brilliant",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Rough"
+  ],
   "talents": [],
   "innates": {},
   "pips": {
