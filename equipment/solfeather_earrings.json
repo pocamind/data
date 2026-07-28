@@ -1,18 +1,15 @@
 {
-  "name": "Solar Pendant",
+  "name": "Solfeather Earrings",
   "equippable": true,
-  "type": "Torso",
+  "type": "Earrings",
   "rarity": "Rare",
   "set": null,
   "variants": [],
   "talents": [
-    "Praise The Sun"
+    "Heart Reservoir"
   ],
   "innates": {},
-  "pips": {
-    "Rare": 2,
-    "Legendary": 1
-  },
+  "pips": {},
   "reqs": "()",
   "voi": true,
   "desc": "...",

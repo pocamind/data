@@ -4,7 +4,10 @@
   "type": "Torso",
   "rarity": "Legendary",
   "set": "Gale Enhanced",
-  "variants": [],
+  "variants": [
+    "Polished",
+    "Wood"
+  ],
   "talents": [
     "Focused Strikes"
   ],

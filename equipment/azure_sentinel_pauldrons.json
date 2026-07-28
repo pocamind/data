@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Common",
   "set": "Azure Sentinel",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {},
   "pips": {

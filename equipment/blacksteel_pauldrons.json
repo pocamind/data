@@ -19,7 +19,7 @@
   "pips": {
     "Rare": 1
   },
-  "reqs": "()",
+  "reqs": "135r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

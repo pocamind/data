@@ -3,7 +3,7 @@
   "equippable": true,
   "type": "Torso",
   "rarity": "Relic",
-  "set": null,
+  "set": "Enmity",
   "variants": [],
   "talents": [
     "Heartwing Beat"

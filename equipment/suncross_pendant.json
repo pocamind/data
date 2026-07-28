@@ -4,7 +4,10 @@
   "type": "Torso",
   "rarity": "Common",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Tarnished",
+    "Unblemished"
+  ],
   "talents": [],
   "innates": {
     "Elemental Armor": {

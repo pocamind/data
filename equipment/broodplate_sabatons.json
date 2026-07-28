@@ -1,0 +1,24 @@
+{
+  "name": "Broodplate Sabatons",
+  "equippable": true,
+  "type": "Legs",
+  "rarity": "Common",
+  "set": "Broodplate",
+  "variants": [],
+  "talents": [
+    "Gut Rot"
+  ],
+  "innates": {
+    "Health": {
+      "value": 9,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "()",
+  "voi": false,
+  "desc": "",
+  "voi_only": false
+}

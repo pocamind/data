@@ -7,9 +7,11 @@
   "variants": [],
   "talents": [],
   "innates": {},
-  "pips": {},
+  "pips": {
+    "Uncommon": 1
+  },
   "reqs": "()",
   "voi": false,
-  "desc": "Konga's Clutch Ring allows the user to slide with little delay.",
+  "desc": "Ring of the infamous thief Emiya Konga. Allows the user to slide with little delay.",
   "voi_only": false
 }

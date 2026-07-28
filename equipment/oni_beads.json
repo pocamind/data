@@ -1,0 +1,15 @@
+{
+  "name": "Oni Beads",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Legendary",
+  "set": "Oni",
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": true,
+  "desc": "...",
+  "voi_only": true
+}

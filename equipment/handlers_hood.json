@@ -4,7 +4,16 @@
   "type": "Head",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Brown",
+    "Dark",
+    "Navy",
+    "Relentless",
+    "Shadow",
+    "Smoke",
+    "Titan",
+    "Vermilion"
+  ],
   "talents": [],
   "innates": {},
   "pips": {
@@ -12,6 +21,6 @@
   },
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "A shroud worn proud by members of the Inquisition.",
+  "desc": "A shroud worn proud by the higher ranking members of the Central Authority Inquisition. Becoming a Handler is no easy feat for any Inquisitor, and requires a high expertise in a variety of skills. Handlers often act as trusted agents commanded directly by the High Inquisitors, extending the reach of their activities far beyond Authority territory. They are the measured blades which slice apart the chains which seek to bind all.",
   "voi_only": false
 }

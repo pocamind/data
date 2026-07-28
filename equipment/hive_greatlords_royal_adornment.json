@@ -1,23 +1,26 @@
 {
-  "name": "Black Hood",
+  "name": "Hive Greatlord's Royal Adornment",
   "equippable": true,
   "type": "Head",
-  "rarity": "Uncommon",
+  "rarity": "Unique",
   "set": null,
   "variants": [],
-  "talents": [],
+  "talents": [
+    "Ashes on the Fire"
+  ],
   "innates": {
-    "Stealth": {
-      "value": 4,
+    "Health": {
+      "value": 10,
       "percentage": true
     },
     "Posture": {
-      "value": 1,
+      "value": 5,
       "percentage": false
     }
   },
   "pips": {},
   "reqs": "()",
   "voi": false,
-  "desc": "A sleek black hood."
+  "desc": "Lol",
+  "voi_only": false
 }

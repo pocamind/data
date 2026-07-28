@@ -5,10 +5,10 @@
   "rarity": "Rare",
   "set": "Assassin",
   "variants": [
+    "Crimson",
     "Gold",
-    "Pale",
     "Mist",
-    "Crimson"
+    "Pale"
   ],
   "talents": [
     "Deep Wound"

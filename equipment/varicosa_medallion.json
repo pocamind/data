@@ -4,7 +4,10 @@
   "type": "Torso",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Tarnished",
+    "Unblemished"
+  ],
   "talents": [],
   "innates": {
     "Shadow Resistance": {

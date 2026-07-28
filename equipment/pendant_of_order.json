@@ -4,7 +4,12 @@
   "type": "Torso",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Balanced",
+    "Classic",
+    "Glory",
+    "Oldhead"
+  ],
   "talents": [],
   "innates": {
     "Physical Armor": {

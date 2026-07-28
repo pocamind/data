@@ -4,7 +4,17 @@
   "type": "Torso",
   "rarity": "Legendary",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Anaconda",
+    "Cobra",
+    "Forbidden",
+    "Joy",
+    "Mamba",
+    "Peace",
+    "Pride",
+    "Psammophis",
+    "Royal"
+  ],
   "talents": [
     "Traditional Execution"
   ],

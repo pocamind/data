@@ -4,8 +4,14 @@
   "type": "Head",
   "rarity": "Uncommon",
   "set": "Brigand",
-  "variants": [],
-  "talents": [],
+  "variants": [
+    "Fabric",
+    "Leather"
+  ],
+  "talents": [
+    "Spare Nails",
+    "Emergency Repairs"
+  ],
   "innates": {
     "Health": {
       "value": 3,

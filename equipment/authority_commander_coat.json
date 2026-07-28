@@ -9,7 +9,7 @@
     "Bronze",
     "Gold",
     "Haze",
-    "Royal",
+    "Royale",
     "Ruby",
     "Stygian",
     "Verdant"
@@ -24,7 +24,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "195r TTL",
+  "reqs": "165r TTL",
   "voi": false,
   "wiki": "",
   "desc": "...",

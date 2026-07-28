@@ -4,7 +4,13 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Etrean Siege",
-  "variants": [],
+  "variants": [
+    "Anaconda",
+    "Cobra",
+    "Mamba",
+    "Psammophis",
+    "Steel"
+  ],
   "talents": [
     "Battle Tendency"
   ],

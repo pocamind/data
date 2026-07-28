@@ -5,9 +5,9 @@
   "rarity": "Uncommon",
   "set": "Aristocrat",
   "variants": [
+    "Beige",
     "Burgundy",
-    "Slate",
-    "Beige"
+    "Slate"
   ],
   "talents": [
     "Art of the Deal"
@@ -19,7 +19,8 @@
     }
   },
   "pips": {
-    "Rare": 2
+    "Rare": 2,
+    "Legendary": 1
   },
   "reqs": "165r TTL",
   "voi": false,

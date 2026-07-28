@@ -4,7 +4,12 @@
   "type": "Head",
   "rarity": "Rare",
   "set": "Shock Trooper",
-  "variants": [],
+  "variants": [
+    "21st Legion",
+    "49th Legion",
+    "84th Legion",
+    "The Immortals"
+  ],
   "talents": [],
   "innates": {
     "Health": {

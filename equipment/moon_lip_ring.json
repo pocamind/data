@@ -1,17 +1,13 @@
 {
-  "name": "Brown Hood",
+  "name": "Moon Lip Ring",
   "equippable": true,
-  "type": "Head",
-  "rarity": "Uncommon",
+  "type": "Face",
+  "rarity": "Rare",
   "set": null,
   "variants": [],
   "talents": [],
   "innates": {
-    "Stealth": {
-      "value": 2,
-      "percentage": true
-    },
-    "Posture": {
+    "Health": {
       "value": 1,
       "percentage": false
     }
@@ -19,5 +15,6 @@
   "pips": {},
   "reqs": "()",
   "voi": false,
-  "desc": "A sleek brown hood."
+  "desc": "FEAR. IRONSINGERS.",
+  "voi_only": false
 }

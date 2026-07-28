@@ -4,7 +4,10 @@
   "type": "Torso",
   "rarity": "Rare",
   "set": "Regenerative",
-  "variants": [],
+  "variants": [
+    "Tarnished",
+    "Unblemished"
+  ],
   "talents": [
     "Blood Pact"
   ],

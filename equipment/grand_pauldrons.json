@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Grand",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {},
   "pips": {

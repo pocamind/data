@@ -4,7 +4,11 @@
   "type": "Head",
   "rarity": "Unique",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Fabric",
+    "Leather",
+    "Robust"
+  ],
   "talents": [
     "Grotesque Resilience"
   ],

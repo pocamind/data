@@ -6,8 +6,15 @@
   "set": null,
   "variants": [],
   "talents": [],
-  "innates": {},
-  "pips": {},
+  "innates": {
+    "Health": {
+      "value": 5,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1
+  },
   "reqs": "()",
   "voi": false,
   "desc": "A sturdy helmet shaped like a barrel.",

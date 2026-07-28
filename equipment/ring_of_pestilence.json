@@ -10,6 +10,6 @@
   "pips": {},
   "reqs": "()",
   "voi": false,
-  "desc": "Your weapon applies 50% anti-heal for 5s.",
+  "desc": "Your weapon applies 50% anti-heal for 10s.",
   "voi_only": false
 }

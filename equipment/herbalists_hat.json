@@ -4,10 +4,13 @@
   "type": "Head",
   "rarity": "Uncommon",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Leather",
+    "Quatrefoil"
+  ],
   "talents": [
-    "Herbivore",
-    "Iron Gut"
+    "Iron Gut",
+    "Herbivore"
   ],
   "innates": {},
   "pips": {

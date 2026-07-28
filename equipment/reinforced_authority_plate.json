@@ -13,10 +13,6 @@
     "Health": {
       "value": 8,
       "percentage": false
-    },
-    "Posture": {
-      "value": 1,
-      "percentage": false
     }
   },
   "pips": {

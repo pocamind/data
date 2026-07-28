@@ -1,0 +1,25 @@
+{
+  "name": "Blackalloy Helm",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": "Blackalloy",
+  "variants": [],
+  "talents": [
+    "Sloped Plate"
+  ],
+  "innates": {
+    "Health": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Uncommon": 1,
+    "Rare": 1
+  },
+  "reqs": "10r FTD",
+  "voi": true,
+  "desc": "An imposing helmet made from blackened steel.",
+  "voi_only": true
+}

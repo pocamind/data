@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Uncommon",
   "set": "Imperial",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Health": {

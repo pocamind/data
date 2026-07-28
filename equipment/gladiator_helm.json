@@ -5,7 +5,9 @@
   "rarity": "Uncommon",
   "set": "Gladiator",
   "variants": [],
-  "talents": [],
+  "talents": [
+    "Concussive Force"
+  ],
   "innates": {
     "Health": {
       "value": 5,

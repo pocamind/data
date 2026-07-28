@@ -4,7 +4,13 @@
   "type": "Legs",
   "rarity": "Rare",
   "set": "Etrean Siege",
-  "variants": [],
+  "variants": [
+    "Anaconda",
+    "Cobra",
+    "Mamba",
+    "Psammophis",
+    "Steel"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -13,7 +19,7 @@
     }
   },
   "pips": {},
-  "reqs": "90r ttl",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "..."
 }

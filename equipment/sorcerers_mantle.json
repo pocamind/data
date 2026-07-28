@@ -1,0 +1,26 @@
+{
+  "name": "Sorcerer's Mantle",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Mythical",
+  "set": "Sorcerer",
+  "variants": [],
+  "talents": [
+    "Overflowing Dam",
+    "Sorcerer's Surge"
+  ],
+  "innates": {
+    "Health": {
+      "value": 7,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 2
+  },
+  "reqs": "195r TTL, 5r INT",
+  "voi": true,
+  "desc": "A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle.",
+  "voi_only": true
+}

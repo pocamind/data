@@ -7,7 +7,9 @@
   "variants": [],
   "talents": [],
   "innates": {},
-  "pips": {},
+  "pips": {
+    "Uncommon": 1
+  },
   "reqs": "()",
   "voi": false,
   "desc": "Swim like some famous swimmer. Just like Mikhael Felps.",

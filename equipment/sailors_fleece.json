@@ -5,8 +5,10 @@
   "rarity": "Uncommon",
   "set": null,
   "variants": [
-    "Normal",
-    "Dark"
+    "Dark (Corduroy)",
+    "Dark (Knit)",
+    "Light (Corduroy)",
+    "Light (Knit)"
   ],
   "talents": [],
   "innates": {
@@ -20,6 +22,6 @@
   },
   "reqs": "()",
   "voi": false,
-  "desc": "A thick woolen fleece, somewhat scratchy in texture, commonly worn by sailors in the East. When the Suncross falls into the voidfog, the seas of Lumen get surprisingly chilly.",
+  "desc": "A thick woolen fleece, somewhat scratchy in texture, commonly work by sailors in the East. When the Suncross falls into the voidfog the seas of Lumen get surprisingly chilly.",
   "voi_only": false
 }

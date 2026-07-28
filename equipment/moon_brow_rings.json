@@ -4,11 +4,7 @@
   "type": "Face",
   "rarity": "Rare",
   "set": null,
-  "variants": [
-    "Brow",
-    "Dermal",
-    "Lip & Septum"
-  ],
+  "variants": [],
   "talents": [],
   "innates": {
     "Health": {

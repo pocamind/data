@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Legendary",
   "set": "Hallowed Monastery Champion",
-  "variants": [],
+  "variants": [
+    "Cotton",
+    "Linen"
+  ],
   "talents": [
     "Blade Dancer",
     "Footwork Mastery"
@@ -18,7 +21,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "105r TTL",
+  "reqs": "()",
   "voi": true,
   "desc": "...",
   "voi_only": true

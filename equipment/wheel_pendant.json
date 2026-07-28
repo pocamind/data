@@ -1,0 +1,21 @@
+{
+  "name": "Wheel Pendant",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Tarnished",
+    "Unblemished"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "()",
+  "voi": false,
+  "desc": "...",
+  "voi_only": false
+}

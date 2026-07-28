@@ -10,6 +10,6 @@
   "pips": {},
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "Ring of Korilfiend. Burn status burns faster.",
+  "desc": "Ring of Korlifiend. Burn status burns faster, and lava eruptions have a reduced delay.",
   "voi_only": false
 }

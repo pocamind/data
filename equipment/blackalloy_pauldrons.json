@@ -1,24 +1,28 @@
 {
-  "name": "Phalanx Helm",
+  "name": "Blackalloy Pauldrons",
   "equippable": true,
-  "type": "Head",
+  "type": "Arms",
   "rarity": "Rare",
-  "set": "Legion Phalanx",
+  "set": "Blackalloy",
   "variants": [],
   "talents": [
-    "Precise Swing"
+    "Laminated Armor"
   ],
   "innates": {
     "Health": {
       "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
       "percentage": false
     }
   },
   "pips": {
     "Rare": 1
   },
-  "reqs": "135r TTL",
-  "voi": false,
+  "reqs": "()",
+  "voi": true,
   "desc": "...",
-  "voi_only": false
+  "voi_only": true
 }

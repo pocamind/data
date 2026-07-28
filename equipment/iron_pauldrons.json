@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Iron",
-  "variants": [],
+  "variants": [
+    "Classic",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Posture": {
@@ -15,7 +18,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "()",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "...",
   "voi_only": false

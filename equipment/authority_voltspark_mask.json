@@ -11,7 +11,7 @@
   "innates": {
     "Thunder Resistance": {
       "value": 3,
-      "percentage": false
+      "percentage": true
     }
   },
   "pips": {

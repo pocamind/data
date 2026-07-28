@@ -1,0 +1,29 @@
+{
+  "name": "Western Outlaw Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Common",
+  "set": "Western Outlaw",
+  "variants": [
+    "Farmland",
+    "Fog",
+    "Mountain",
+    "Peaks",
+    "Tundra",
+    "Valley"
+  ],
+  "talents": [],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Legendary": 1
+  },
+  "reqs": "165r TTL",
+  "voi": false,
+  "desc": "Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity.",
+  "voi_only": false
+}

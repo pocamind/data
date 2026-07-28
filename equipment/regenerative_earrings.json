@@ -4,7 +4,12 @@
   "type": "Earrings",
   "rarity": "Rare",
   "set": "Regenerative",
-  "variants": [],
+  "variants": [
+    "Tarnished (Gold)",
+    "Tarnished (Silver)",
+    "Unblemished (Gold)",
+    "Unblemished (Silver)"
+  ],
   "talents": [
     "Blood Convergence"
   ],
@@ -15,7 +20,7 @@
     }
   },
   "pips": {
-    "Legendary": 1
+    "Rare": 1
   },
   "reqs": "135r TTL",
   "voi": false,

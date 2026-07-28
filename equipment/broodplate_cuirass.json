@@ -1,0 +1,25 @@
+{
+  "name": "Broodplate Cuirass",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Rare",
+  "set": "Broodplate",
+  "variants": [],
+  "talents": [
+    "Rotten Regeneration"
+  ],
+  "innates": {
+    "Posture": {
+      "value": 2,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "()",
+  "voi": false,
+  "desc": "",
+  "voi_only": false
+}

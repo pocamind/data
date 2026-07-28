@@ -1,0 +1,26 @@
+{
+  "name": "Royal Guard's Kabuto",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Mamba",
+    "Royal Guard"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "165r TTL",
+  "voi": false,
+  "desc": "...",
+  "voi_only": false
+}

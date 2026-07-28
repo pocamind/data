@@ -4,7 +4,12 @@
   "type": "Arms",
   "rarity": "Common",
   "set": "Shock Trooper",
-  "variants": [],
+  "variants": [
+    "21st Legion",
+    "49th Legion",
+    "84th Legion",
+    "The Immortals"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -17,6 +22,6 @@
   },
   "reqs": "165r TTL",
   "voi": false,
-  "desc": "Armorers in the Hundred Legion dedicate their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise.",
+  "desc": "Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise.",
   "voi_only": false
 }

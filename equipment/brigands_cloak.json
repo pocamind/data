@@ -4,7 +4,10 @@
   "type": "Arms",
   "rarity": "Rare",
   "set": "Brigand",
-  "variants": [],
+  "variants": [
+    "Fabric",
+    "Leather"
+  ],
   "talents": [],
   "innates": {
     "Health": {
@@ -15,7 +18,7 @@
   "pips": {
     "Rare": 2
   },
-  "reqs": "90r TTL",
+  "reqs": "()",
   "voi": false,
   "desc": "...",
   "voi_only": false

@@ -12,7 +12,7 @@
     "Shadow",
     "Smoke",
     "Titan",
-    "Vermillion"
+    "Vermilion"
   ],
   "talents": [],
   "innates": {},
@@ -21,6 +21,6 @@
   },
   "reqs": "90r TTL",
   "voi": false,
-  "desc": "A shroud worn proud by the members of the Inquisition.",
+  "desc": "A shroud worn proudly by the rank-and-file members of the Central Authority Inquisition. Often deployed individually behind enemy lines, Inquisitors are an invaluable tool to the Central Authority, excelling in acts of espionage, sabotage, and subterfuge.",
   "voi_only": false
 }

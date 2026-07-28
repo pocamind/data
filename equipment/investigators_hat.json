@@ -4,9 +4,12 @@
   "type": "Head",
   "rarity": "Rare",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Fabric",
+    "Leather"
+  ],
   "talents": [
-    "Diplomat"
+    "Give and Take"
   ],
   "innates": {
     "Health": {

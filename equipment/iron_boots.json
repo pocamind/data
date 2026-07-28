@@ -4,7 +4,10 @@
   "type": "Legs",
   "rarity": "Common",
   "set": "Iron",
-  "variants": [],
+  "variants": [
+    "Classic",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {},
   "pips": {

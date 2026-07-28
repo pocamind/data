@@ -1,0 +1,26 @@
+{
+  "name": "Captain's Kabuto",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Anaconda",
+    "Captain",
+    "Psammophis"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 8,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 1
+  },
+  "reqs": "()",
+  "voi": false,
+  "desc": "...",
+  "voi_only": false
+}

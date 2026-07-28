@@ -5,14 +5,14 @@
   "rarity": "Uncommon",
   "set": null,
   "variants": [
-    "White",
-    "Golden",
-    "Blue",
-    "Red",
-    "Green",
     "Authority",
     "Black",
-    "Grey"
+    "Blue",
+    "Golden",
+    "Green",
+    "Grey",
+    "Red",
+    "White"
   ],
   "talents": [],
   "innates": {

@@ -1,13 +1,12 @@
 {
-  "name": "Kabuto",
+  "name": "Guard's Kabuto",
   "equippable": true,
   "type": "Head",
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "Captain's",
-    "Guard's",
-    "Royal Guard's"
+    "Cobra",
+    "Guard"
   ],
   "talents": [],
   "innates": {

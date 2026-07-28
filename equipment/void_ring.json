@@ -7,7 +7,9 @@
   "variants": [],
   "talents": [],
   "innates": {},
-  "pips": {},
+  "pips": {
+    "Common": 1
+  },
   "reqs": "()",
   "voi": true,
   "desc": "Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer.",

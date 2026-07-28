@@ -6,21 +6,21 @@
   "set": null,
   "variants": [],
   "talents": [
-    "Merc Blade"
+    "Mercenary Blade"
   ],
   "innates": {
+    "Stealth": {
+      "value": 10,
+      "percentage": true
+    },
     "Posture": {
       "value": 1,
       "percentage": false
-    },
-    "Stealth": {
-      "value": 4,
-      "percentage": true
     }
   },
   "pips": {},
   "reqs": "()",
   "voi": true,
-  "desc": "A sleek black hood.",
+  "desc": "A sleek hood.",
   "voi_only": true
 }

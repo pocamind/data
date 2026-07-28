@@ -4,7 +4,12 @@
   "type": "Torso",
   "rarity": "Relic",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Glorious",
+    "Martial",
+    "Radiant",
+    "Valiant"
+  ],
   "talents": [
     "Actions Speak Louder"
   ],
@@ -15,6 +20,6 @@
   "reqs": "90r TTL",
   "voi": false,
   "wiki": "",
-  "desc": "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for hampering the amplitude of one's Resonance.",
+  "desc": "A Medallion thought to be gifted to trainee Warmaster adherents during the Canticlysm. Bolsters one's martial prowess in exchange for ampering the amplitude of one's Resonance.",
   "voi_only": false
 }

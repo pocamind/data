@@ -2,9 +2,12 @@
   "name": "Flameguard Boots",
   "equippable": true,
   "type": "Legs",
-  "rarity": "Common",
+  "rarity": "Rare",
   "set": "Flameguard",
-  "variants": [],
+  "variants": [
+    "Brushed",
+    "Galvanized"
+  ],
   "talents": [],
   "innates": {
     "Health": {

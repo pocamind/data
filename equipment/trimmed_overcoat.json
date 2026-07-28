@@ -12,16 +12,18 @@
   "talents": [],
   "innates": {
     "Health": {
-      "value": 3,
+      "value": 2,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 1,
       "percentage": false
     }
   },
-  "pips": {
-    "Rare": 1
-  },
+  "pips": {},
   "reqs": "()",
   "voi": false,
   "wiki": "",
-  "desc": "A thick coat to protect you against the cold.",
+  "desc": "A thick coat to protect you against the elements.",
   "voi_only": false
 }

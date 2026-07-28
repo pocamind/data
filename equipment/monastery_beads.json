@@ -4,7 +4,11 @@
   "type": "Torso",
   "rarity": "Legendary",
   "set": "Monastery Champion",
-  "variants": [],
+  "variants": [
+    "Oni",
+    "Polished Stone",
+    "Wood"
+  ],
   "talents": [],
   "innates": {
     "Elemental Armor": {
