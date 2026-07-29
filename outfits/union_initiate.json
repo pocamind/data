@@ -1,8 +1,6 @@
 {
   "mats": {},
   "name": "Union Initiate",
-  "pants_id": "7009098395",
-  "shirt_id": "7009096659",
   "reqs": "()",
   "prereqs": [
     "origin:ignition_delver"

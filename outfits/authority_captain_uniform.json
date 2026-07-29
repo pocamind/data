@@ -6,8 +6,6 @@
     "Lionfish Scale": 1
   },
   "name": "Authority Captain Uniform",
-  "pants_id": "10461616070",
-  "shirt_id": "10461611383",
   "reqs": "()",
   "prereqs": [
     "origin:authority_ensign"

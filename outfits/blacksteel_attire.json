@@ -1,8 +1,6 @@
 {
   "mats": {},
   "name": "Blacksteel Attire",
-  "pants_id": "4907680538",
-  "shirt_id": "4907667581",
   "reqs": "()",
   "prereqs": [
     "objective:iron_vessel"

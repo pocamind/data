@@ -8,8 +8,10 @@
   "notes": 100,
   "talent": "Bruiser's Mixup",
   "category": "Expert",
-  "pants_id": "16721597613",
-  "shirt_id": "16721596275",
+  "styles": [
+    "Default",
+    "Shirtless"
+  ],
   "durability": 1200,
   "resistances": {
     "Physical Resistance": 30,
