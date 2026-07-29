@@ -10,6 +10,8 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": true,
   "desc": "Suited to the unpredictable movements of the Kyrsgarde.",
   "voi_only": false
 }

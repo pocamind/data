@@ -17,6 +17,8 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": false,
   "desc": "The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy.",
   "voi_only": false
 }

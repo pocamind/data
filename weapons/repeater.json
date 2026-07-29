@@ -17,6 +17,8 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": false,
   "desc": "A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire.",
   "voi_only": false
 }

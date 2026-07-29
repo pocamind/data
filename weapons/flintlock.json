@@ -17,6 +17,8 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": false,
   "desc": "The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every Luminant.",
   "voi_only": false
 }
