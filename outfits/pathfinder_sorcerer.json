@@ -7,8 +7,6 @@
   "name": "Pathfinder Sorcerer",
   "reqs": "5r INT",
   "notes": 30,
-  "pants_id": "5115783991",
-  "shirt_id": "5115783821",
   "talent": "Lowstride",
   "category": "Starter",
   "durability": 1000,

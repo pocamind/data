@@ -1,6 +1,11 @@
 {
-  "pants_id": "5115781091",
-  "shirt_id": "5115780873",
+  "styles": [
+    "Default",
+    "Navy",
+    "Lilac",
+    "Brown",
+    "Red"
+  ],
   "mats": {
     "Cloth": 1
   },
