@@ -14,8 +14,10 @@
   "notes": 0,
   "talent": "Lethal Dose",
   "category": "Unique",
-  "pants_id": "72208548326844",
-  "shirt_id": "84894162495052",
+  "variants": [
+    "Default",
+    "Capeless"
+  ],
   "durability": 3200,
   "resistances": {
     "Physical Resistance": 30,

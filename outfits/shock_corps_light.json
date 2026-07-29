@@ -13,8 +13,10 @@
   "notes": 0,
   "talent": "Battle-Hardened",
   "category": "Unique",
-  "pants_id": "106517259194191",
-  "shirt_id": "127010889576907",
+  "variants": [
+    "Default",
+    "Red"
+  ],
   "durability": 3500,
   "resistances": {
     "Ice Resistance": 10,

@@ -6,8 +6,10 @@
     "Glass Stone": 1
   },
   "name": "Carefree Garments",
-  "pants_id": "122843258666243",
-  "shirt_id": "77587021895074",
+  "variants": [
+    "Default",
+    "Dress"
+  ],
   "reqs": "105r TTL",
   "notes": 0,
   "talent": "Fleetfoot",

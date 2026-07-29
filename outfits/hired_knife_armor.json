@@ -1,11 +1,9 @@
 {
-  "pants_id": null,
-  "shirt_id": null,
   "mats": {
     "Cloth": 5,
     "Fiber": 5
   },
-  "name": "Hidden Knife Armor",
+  "name": "Hired Knife Armor",
   "reqs": "()",
   "prereqs": [
     "talent:rogue_assassin"
