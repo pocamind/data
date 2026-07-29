@@ -1,6 +1,8 @@
 {
-  "pants_id": "5123115029",
-  "shirt_id": "5123115295",
+  "variants": [
+    "Default",
+    "Ashen"
+  ],
   "mats": {
     "Cloth": 5,
     "Fiber": 5,

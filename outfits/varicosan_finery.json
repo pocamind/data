@@ -11,8 +11,10 @@
   "notes": 100,
   "talent": "Benefactor",
   "category": "Expert",
-  "pants_id": "16831806008",
-  "shirt_id": "16826381363",
+  "variants": [
+    "Default",
+    "Dress"
+  ],
   "durability": 1500,
   "resistances": {
     "Physical Resistance": 20,
