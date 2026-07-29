@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "210s TTL, 60s FLM",
   "additional_info": "Deals 5 Flamecharm damage on proc.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "flamecharm",
   "roll2able": false,
   "vaulted": false,

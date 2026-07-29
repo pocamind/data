@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "20s AGL",
   "additional_info": "Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "boots",
   "roll2able": false,
   "stats": {

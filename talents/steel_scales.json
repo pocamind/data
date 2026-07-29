@@ -7,7 +7,7 @@
     "talent:padded_armor"
   ],
   "additional_info": "The 3% Slash Armor is multiplicative with other sources of Slash resistance.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "shield",
   "roll2able": false,
   "stats": {

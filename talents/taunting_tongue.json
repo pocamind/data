@@ -3,7 +3,7 @@
   "category": "Toxic Personality",
   "rarity": "Common",
   "reqs": "()",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "handshake",
   "roll2able": false,
   "vaulted": false,

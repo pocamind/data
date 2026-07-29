@@ -6,7 +6,7 @@
   "prereqs": [
     "talent:oath_arcwarder"
   ],
-  "count_towards_talent_total": true,
+  "count_towards_talent_total": false,
   "icon": "arcwarder",
   "roll2able": false,
   "vaulted": false,

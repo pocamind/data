@@ -6,7 +6,7 @@
   "prereqs": [
     "talent:swift_rebound"
   ],
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "boots",
   "roll2able": false,
   "vaulted": false,

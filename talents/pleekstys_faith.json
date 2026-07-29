@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "25s FLM, 15s WLL, 15s CHA",
   "additional_info": "Does not proc with flames produced by the user with Flame Within or Agitating Spark.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "flamecharm",
   "roll2able": false,
   "vaulted": false,
