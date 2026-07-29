@@ -10,6 +10,8 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": true,
   "desc": "...",
   "voi_only": false
 }

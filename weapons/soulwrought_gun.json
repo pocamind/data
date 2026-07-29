@@ -20,6 +20,8 @@
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": false,
   "desc": "A weapon brought out from your soul.",
   "voi_only": false
 }

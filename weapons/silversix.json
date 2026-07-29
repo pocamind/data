@@ -17,6 +17,8 @@
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": false,
   "desc": "A pistol passed down by your ancestors.",
   "voi_only": false
 }

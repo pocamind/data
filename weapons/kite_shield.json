@@ -10,6 +10,8 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,
+  "can_offhand": true,
+  "only_offhand": true,
   "desc": "A fine shield to hold back the horrors of the world.",
   "voi_only": false
 }

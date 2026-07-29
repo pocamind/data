@@ -10,6 +10,8 @@
   "enchantable": false,
   "equip_motifs": false,
   "voi": true,
+  "can_offhand": true,
+  "only_offhand": true,
   "desc": "The shields ofÃ‚Â LegionÃ‚Â shieldbearers are often decorated with the visages of famous warriors they admire.",
   "talents": [
     "Champion's Shield"
