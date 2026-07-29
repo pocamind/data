@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "20s STR, 20s AGL",
   "additional_info": "Affected targets cannot jump for 4 seconds. Targets gain 6 seconds of Bear Trap immunity.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "claw",
   "roll2able": false,
   "stats": {

@@ -6,7 +6,7 @@
   "prereqs": [
     "origin:authority_ensign"
   ],
-  "count_towards_talent_total": true,
+  "count_towards_talent_total": false,
   "icon": "sword",
   "roll2able": false,
   "stats": {},

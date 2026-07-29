@@ -3,7 +3,7 @@
   "category": "Pyromancer",
   "rarity": "Common",
   "reqs": "30s FLM, 15s FTD",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "jaws",
   "roll2able": false,
   "vaulted": false,

@@ -4,7 +4,7 @@
   "rarity": "Advanced",
   "reqs": "100s STR",
   "additional_info": "If you do not have 100 Strength, this Talent will instead halve your opponent's armor resistances multiplicatively, before PEN on proc.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "fist",
   "roll2able": false,
   "vaulted": false,

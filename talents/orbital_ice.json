@@ -4,7 +4,7 @@
   "rarity": "Common",
   "reqs": "65s ICE",
   "additional_info": "90 second cooldown. Durability of Orbital Ice is equal to \"Frostdraw investment +10\".",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "frostdraw",
   "roll2able": false,
   "vaulted": false,

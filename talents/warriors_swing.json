@@ -3,7 +3,7 @@
   "category": "Weapon Master",
   "rarity": "Common",
   "reqs": "30s HVY",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "greatsword",
   "roll2able": false,
   "vaulted": false,

@@ -7,7 +7,7 @@
     "talent:frostbite"
   ],
   "additional_info": "You can only steal non-passive healing. On Crystal Path, applying a Crystal will proc Saint Jay for 2 seconds. You cannot steal healing that you apply.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "frostdraw",
   "roll2able": false,
   "vaulted": false,

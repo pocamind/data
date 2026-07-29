@@ -4,7 +4,7 @@
   "rarity": "Rare",
   "reqs": "50s BLD",
   "additional_info": "Use the Rush Hour tool to gain the Rush Hour status effect, granting a 30% speed boost, a 15% damage buff, and an increase to blood damage. This passively drains the user's health and blood while active. Recover 5% blood whenever you land an attack.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "bloodrend",
   "roll2able": false,
   "conditional_stats": {

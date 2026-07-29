@@ -7,7 +7,7 @@
     "talent:agitating_spark"
   ],
   "additional_info": "Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7. The explosion does not work.",
-  "count_towards_talent_total": false,
+  "count_towards_talent_total": true,
   "icon": "explosion",
   "roll2able": false,
   "vaulted": false,
