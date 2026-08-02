@@ -1,0 +1,5 @@
+{
+  "desc": "kys",
+  "name": "preset1",
+  "opts": "Free:\n20; EXO := 40 ftd\n1; TTF := 50 ftd\n\n20; OHDH := 20 wll\n1; DISBELIEF := 25 wll\n\n1; TAPDANCER := 60 agl\n4; GHOST := 40 agl\n7; RISKY := 25 agl\n5; FASTBLADE := 20 agl\n\n6; TOUGHLOVE := 25 cha\n1; GTONGUE := 40 cha\n2; CCHARM := 55 cha\n\n6; EVERCHANGING := 25 int\n1; EUREKA := 30 int\n\n3; UNWAVERING := 40 str\n\nPost:\n3; POST_FTD := 50 ftd"
+}
