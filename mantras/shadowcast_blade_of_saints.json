@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.",
+  "name": "Shadowcast Blade of Saints",
+  "reqs": "()",
+  "type": "Oath",
+  "stars": 0,
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
+  "vaulted": false,
+  "category": "Combat",
+  "attributes": [
+    "Oath: Saintsworn"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.",
+  "name": "Flamecharm Blade of Saints",
+  "reqs": "()",
+  "type": "Oath",
+  "stars": 0,
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
+  "vaulted": false,
+  "category": "Combat",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone",
+    "Drift Shard",
+    "Rush Shard",
+    "Crystal Lens",
+    "Perfect Lens"
+  ],
+  "attributes": [
+    "Oath: Saintsworn"
+  ]
+}

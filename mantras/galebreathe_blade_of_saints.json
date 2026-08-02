@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "You propel yourself forwards with the winds, uppercutting anyone in your wake.",
+  "name": "Galebreathe Blade of Saints",
+  "reqs": "()",
+  "type": "Oath",
+  "stars": 0,
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
+  "vaulted": false,
+  "category": "Combat",
+  "attributes": [
+    "Oath: Saintsworn"
+  ]
+}
