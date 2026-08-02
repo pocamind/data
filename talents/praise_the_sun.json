@@ -4,7 +4,7 @@
   "rarity": "Equipment",
   "reqs": "()",
   "prereqs": [
-    "equipment:solar_pendant"
+    "equipment:radial_pendant"
   ],
   "count_towards_talent_total": false,
   "icon": "shadowcast",
