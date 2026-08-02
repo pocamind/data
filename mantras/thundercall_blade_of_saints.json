@@ -1,0 +1,37 @@
+{
+  "voi": false,
+  "desc": "Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.",
+  "name": "Thundercall Blade of Saints",
+  "reqs": "()",
+  "type": "Oath",
+  "stars": 0,
+  "damage": [
+    {
+      "levels": [
+        {
+          "level": "L1",
+          "damage": 38.23,
+          "posture_damage": 0
+        },
+        {
+          "level": "GB",
+          "damage": 0,
+          "posture_damage": null
+        }
+      ],
+      "variant": null
+    }
+  ],
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
+  "vaulted": false,
+  "category": "Combat",
+  "modifiers": [
+    "Cloudstone",
+    "Stratus Stone"
+  ],
+  "attributes": [
+    "Oath: Saintsworn"
+  ]
+}

@@ -1,19 +1,12 @@
 {
-  "name": "Blade of Saints: Flamecharm Saint Stance",
-  "attributes": [
-    "Oath: Saintsworn"
-  ],
-  "category": "Combat",
+  "voi": false,
+  "desc": "Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.",
+  "name": "Flamecharm Blade of Saints",
+  "reqs": "()",
   "type": "Oath",
   "stars": 0,
-  "vaulted": false,
-  "reqs": "()",
-  "prereqs": [
-    "mantra:blade_of_saints"
-  ],
   "damage": [
     {
-      "variant": null,
       "levels": [
         {
           "level": "L1",
@@ -25,9 +18,15 @@
           "damage": 0,
           "posture_damage": null
         }
-      ]
+      ],
+      "variant": null
     }
   ],
+  "prereqs": [
+    "mantra:blade_of_saints"
+  ],
+  "vaulted": false,
+  "category": "Combat",
   "modifiers": [
     "Cloudstone",
     "Stratus Stone",
@@ -36,6 +35,7 @@
     "Crystal Lens",
     "Perfect Lens"
   ],
-  "voi": false,
-  "desc": "Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit."
+  "attributes": [
+    "Oath: Saintsworn"
+  ]
 }
