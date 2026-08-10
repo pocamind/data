@@ -3,6 +3,11 @@
   "category": "Soulbreaker",
   "rarity": "Oath",
   "reqs": "WLL + CHA = 50r",
+  "immediate_grants": [
+    "Murmur: Ardour",
+    "Murmur: Rhythm",
+    "Murmur: Tacet"
+  ],
   "additional_info": "Your Ardour gains a new visual effect.",
   "count_towards_talent_total": false,
   "icon": "soulbreaker",

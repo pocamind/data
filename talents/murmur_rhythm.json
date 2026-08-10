@@ -3,8 +3,9 @@
   "category": "Murmur",
   "rarity": "Murmur",
   "reqs": "()",
-  "prereqs": [
-    "talent:oath_soulbreaker"
+  "exclusive": [
+    "Murmur: Ardour",
+    "Murmur: Tacet"
   ],
   "additional_info": "Pings all nearby Monsters, NPCÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s, and Players, through walls while gray-scaling your screen. Red = Low Health, Yellow = Moderate Health, Grey = Healthy.",
   "count_towards_talent_total": false,
