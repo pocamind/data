@@ -1,5 +1,8 @@
 {
   "desc": "A chime focused build preset.",
   "name": "Chime",
-  "opts": "extern *\n\nFree:\n\n20; talent:exoskeleton\n10; talent:to_the_finish\n\n4; mantra:exhaustion_strike := 40r wll\n3; talent:magical_resolve := 40 wll, 15 ftd\n1; talent:last_resort\n20; talent:old_habits_die_hard\n3; talent:disbelief\n3; talent:all_the_dead_gods\n\n1; talent:tap_dancer\n5; talent:ghost := 40 agl\n19; talent:risky_moves := 25 agl\n7; talent:fast_blade\n1; talent:steady_nerves\n5; talent:spine_cutter\n1; talent:backstabber\n\n11; talent:unwavering_resolve\n\n10; talent:tough_love\n1; talent:golden_tongue\n6; talent:chaotic_charm := 55 cha\n\n10; talent:everchanging_aegis\n1; talent:eureka\n1; talent:master_craftsman\n\n20; talent:neuroplasticity\n\nPost:\n1; lv2_wll := 20 wll\n2; lv3_wll := 40 wll\n4; postshrine_fortitude := 50 ftd\n18; talent:reinforced_armor"
+  "opts": "extern *\n\nFree:\n\n20; talent:exoskeleton\n10; talent:to_the_finish\n\n4; mantra:exhaustion_strike := 40r wll\n3; talent:magical_resolve := 40 wll, 15 ftd\n1; talent:last_resort\n20; talent:old_habits_die_hard\n3; talent:disbelief\n3; talent:all_the_dead_gods\n\n1; talent:tap_dancer\n5; talent:ghost := 40 agl\n19; talent:risky_moves := 25 agl\n7; talent:fast_blade\n1; talent:steady_nerves\n5; talent:spine_cutter\n1; talent:backstabber\n\n11; talent:unwavering_resolve\n\n10; talent:tough_love\n1; talent:golden_tongue\n6; talent:chaotic_charm := 55 cha\n\n10; talent:everchanging_aegis\n1; talent:eureka\n1; talent:master_craftsman\n\n20; talent:neuroplasticity\n\nPost:\n1; lv2_wll := 20 wll\n2; lv3_wll := 40 wll\n4; postshrine_fortitude := 50 ftd\n18; talent:reinforced_armor",
+  "obtain_if_available": [
+    "talent:swift_rebound"
+  ]
 }
