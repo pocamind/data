@@ -1,6 +1,6 @@
 {
-  "name": "Vesperian",
   "desc": "Never seen without their masks. Poorly understood, but begrudgingly appreciated due to their natural talents.",
+  "name": "Vesperian",
   "innate": {
     "Fortitude": 2,
     "Willpower": 3
@@ -8,33 +8,45 @@
   "talent": [
     "Chitin"
   ],
-  "is_pathfinder": true,
-  "exclude_cosmetics": ["brows", "marking", "mouth"],
   "variants": {
-    "sabaton": {
-      "name": "Sabaton",
+    "nutt": {
+      "name": "Nutt",
       "colors": {
-        "eye": "#FFCD03",
-        "hair": "#3A3632",
-        "skin": "#4D4947",
-        "tone": "#302E2C",
-        "feature": "#EBE6D1",
+        "eye": "#FFFFFF",
+        "hair": "#F3F3FA",
+        "skin": "#212324",
+        "tone": "#26292B",
+        "design": "#3B1111",
         "sclera": "#1D1503",
-        "design": "#3B1111"
-      }
+        "feature": "#EBE3DB"
+      },
+      "unlock": "spec"
     },
     "haske": {
       "name": "Haske",
-      "unlock": "spec",
       "colors": {
         "eye": "#FFFFFF",
         "hair": "#706460",
         "skin": "#5A4848",
         "tone": "#392E2E",
-        "feature": "#EBE3DB",
+        "design": "#3B1111",
         "sclera": "#1D1503",
-        "design": "#3B1111"
-      }
+        "feature": "#EBE3DB"
+      },
+      "unlock": "spec"
+    },
+    "nakti": {
+      "name": "Nakti",
+      "colors": {
+        "eye": "#FFFFFF",
+        "hair": "#2B2C29",
+        "skin": "#4A4841",
+        "tone": "#312F2B",
+        "design": "#C59D6F",
+        "sclera": "#1D1503",
+        "feature": "#343330"
+      },
+      "unlock": "spec"
     },
     "besague": {
       "name": "Besague",
@@ -43,22 +55,34 @@
         "hair": "#3A2F21",
         "skin": "#3E392A",
         "tone": "#282419",
-        "feature": "#F8F7E7",
+        "design": "#463304",
         "sclera": "#1D1503",
-        "design": "#463304"
+        "feature": "#F8F7E7"
       }
     },
-    "nutt": {
-      "name": "Nutt",
-      "unlock": "spec",
+    "monster": {
+      "name": "Monster",
       "colors": {
-        "eye": "#FFFFFF",
-        "hair": "#F3F3FA",
-        "skin": "#212324",
-        "tone": "#26292B",
-        "feature": "#EBE3DB",
+        "eye": "#820000",
+        "hair": "#191919",
+        "skin": "#191919",
+        "tone": "#191919",
+        "design": "#7F0000",
         "sclera": "#1D1503",
-        "design": "#3B1111"
+        "feature": "#1E1919"
+      },
+      "unlock": "spec"
+    },
+    "sabaton": {
+      "name": "Sabaton",
+      "colors": {
+        "eye": "#FFCD03",
+        "hair": "#3A3632",
+        "skin": "#4D4947",
+        "tone": "#302E2C",
+        "design": "#3B1111",
+        "sclera": "#1D1503",
+        "feature": "#EBE6D1"
       }
     },
     "plackart": {
@@ -68,49 +92,30 @@
         "hair": "#34383A",
         "skin": "#454D4D",
         "tone": "#323838",
-        "feature": "#EBE6D1",
+        "design": "#0E2F30",
         "sclera": "#1D1503",
-        "design": "#0E2F30"
-      }
-    },
-    "nakti": {
-      "name": "Nakti",
-      "unlock": "spec",
-      "colors": {
-        "eye": "#FFFFFF",
-        "hair": "#2B2C29",
-        "skin": "#4A4841",
-        "tone": "#312F2B",
-        "feature": "#343330",
-        "sclera": "#1D1503",
-        "design": "#C59D6F"
-      }
-    },
-    "monster": {
-      "name": "Monster",
-      "unlock": "spec",
-      "colors": {
-        "eye": "#820000",
-        "hair": "#191919",
-        "skin": "#191919",
-        "tone": "#191919",
-        "feature": "#1E1919",
-        "sclera": "#1D1503",
-        "design": "#7F0000"
+        "feature": "#EBE6D1"
       }
     },
     "hallowtide": {
       "name": "Hallowtide",
-      "unlock": "hallowtide",
       "colors": {
         "eye": "#3D00B6",
         "hair": "#3A3632",
         "skin": "#3F4447",
         "tone": "#000000",
-        "feature": "#15212A",
+        "design": "#FF5500",
         "sclera": "#3A3632",
-        "design": "#FF5500"
-      }
+        "feature": "#15212A"
+      },
+      "unlock": "hallowtide"
     }
-  }
+  },
+  "is_pathfinder": true,
+  "exclude_cosmetics": [
+    "brows",
+    "marking",
+    "mouth",
+    "eyes"
+  ]
 }
