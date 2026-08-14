@@ -1,26 +1,26 @@
 {
+  "desc": "Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability.",
   "mats": {
     "Cloth": 5,
     "Fiber": 5,
-    "Dying Ember": 5,
-    "Blessed Gem": 2
+    "Blessed Gem": 2,
+    "Dying Ember": 5
   },
   "name": "Cindergarb",
   "reqs": "240r TTL, 45r FLM",
   "notes": 1000,
-  "talent": "Warding Radiance, Repeated Propulsion",
+  "talent": "Warding Radiance",
   "category": "Unique",
+  "voi_only": false,
   "durability": 3000,
   "resistances": {
-    "Physical Resistance": 25,
-    "Elemental Resistance": 30,
     "Flame Resistance": 20,
-    "Metal Resistance": 15
+    "Metal Resistance": 15,
+    "Physical Resistance": 25,
+    "Elemental Resistance": 30
   },
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "desc": "Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability.",
-  "voi_only": false
+  }
 }

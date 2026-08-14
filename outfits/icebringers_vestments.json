@@ -1,4 +1,5 @@
 {
+  "desc": "An elegant outfit favoured by expert Frostdrawers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
   "mats": {
     "Iron": 8,
     "Cloth": 5,
@@ -10,18 +11,17 @@
   "name": "Icebringer's Vestments",
   "reqs": "240r TTL, 45r ICE",
   "notes": 1000,
-  "talent": "Refreeze, Orbital Ice",
+  "talent": "Refreeze",
   "category": "Unique",
+  "voi_only": false,
   "durability": 2600,
   "resistances": {
+    "Ice Resistance": 25,
     "Physical Resistance": 25,
-    "Elemental Resistance": 30,
-    "Ice Resistance": 25
+    "Elemental Resistance": 30
   },
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "desc": "An elegant outfit favoured by expert Frostdrawers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
-  "voi_only": false
+  }
 }

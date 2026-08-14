@@ -1,4 +1,5 @@
 {
+  "desc": "An elegant outfit favoured by expert Galebreathers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which is to imbue elemental resistances into the very fabrics they manufacture.",
   "mats": {
     "Iron": 8,
     "Cloth": 5,
@@ -10,8 +11,9 @@
   "name": "Tempestmaker's Threads",
   "reqs": "240r TTL, 45r WND",
   "notes": 1000,
-  "talent": "Tempest Evolution, Aerogliding",
+  "talent": "Tempest Evolution",
   "category": "Unique",
+  "voi_only": false,
   "durability": 2600,
   "resistances": {
     "Wind Resistance": 25,
@@ -21,7 +23,5 @@
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "desc": "An elegant outfit favoured by expert Galebreathers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which is to imbue elemental resistances into the very fabrics they manufacture.",
-  "voi_only": false
+  }
 }

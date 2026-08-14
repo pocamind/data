@@ -1,27 +1,27 @@
 {
+  "desc": "An elegant outfit favoured by expert Thundercallers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
   "mats": {
+    "Iron": 8,
     "Cloth": 5,
     "Fiber": 5,
     "Spark Galnd": 5,
     "Vibrant Gem": 5,
-    "Iron": 8,
     "Insignia Gem": 1
   },
   "name": "Stormchanter's Raiments",
   "reqs": "240r TTL, 45r LTN",
   "notes": 1000,
-  "talent": "Circuit Breaker, Kickstart",
+  "talent": "Circuit Breaker",
   "category": "Unique",
+  "voi_only": false,
   "durability": 2600,
   "resistances": {
+    "Thunder Resistance": 25,
     "Physical Resistance": 25,
-    "Elemental Resistance": 30,
-    "Thunder Resistance": 25
+    "Elemental Resistance": 30
   },
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "desc": "An elegant outfit favoured by expert Thundercallers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
-  "voi_only": false
+  }
 }

@@ -1,16 +1,18 @@
 {
+  "desc": "An elegant outfit favoured by expert Bloodrenders. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
   "mats": {
     "Cloth": 5,
-    "Heartstar": 5,
     "Umbrite": 8,
-    "Bloodless Gem": 1,
-    "Vibrant Gem": 5
+    "Heartstar": 5,
+    "Vibrant Gem": 5,
+    "Bloodless Gem": 1
   },
   "name": "Sanguine Finery",
   "reqs": "240r TTL, 45r BLD",
   "notes": 1000,
-  "talent": "Focused Hematoma, Sheltering Grasp",
+  "talent": "Focused Hematoma",
   "category": "Unique",
+  "voi_only": false,
   "durability": 2600,
   "resistances": {
     "Blood Resistance": 25,
@@ -20,7 +22,5 @@
   "extra_percents": {
     "Ether Regen": 75,
     "Extra Stealth": 0
-  },
-  "desc": "An elegant outfit favoured by expert Bloodrenders. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture.",
-  "voi_only": false
+  }
 }
