@@ -1,21 +1,21 @@
 {
+  "voi": true,
+  "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
+  "icon": "fist",
   "name": "Million Ton Piercer",
-  "category": "Rampaging Brute",
-  "rarity": "Advanced",
   "reqs": "90s STR",
+  "stats": {
+    "Pen": 5
+  },
+  "rarity": "Advanced",
   "prereqs": [
     "talent:shield_breaker",
     "talent:unwavering_resolve"
   ],
-  "additional_info": "Removes both the melee and Mantra PEN cap.",
-  "count_towards_talent_total": true,
-  "icon": "fist",
-  "roll2able": false,
-  "stats": {
-    "Pen": 5
-  },
   "vaulted": false,
-  "voi": true,
-  "desc": "Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.",
-  "voi_only": false
+  "category": "Rampaging Brute",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Removes the melee PEN cap.",
+  "count_towards_talent_total": true
 }
