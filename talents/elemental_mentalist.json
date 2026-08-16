@@ -1,0 +1,17 @@
+{
+  "name": "Elemental Mentalist",
+  "category": "Toxic Personality",
+  "rarity": "Common",
+  "reqs": "40s INT, 80s CHA",
+  "prereqs": [
+    "talent:charismatic_cast"
+  ],
+  "additional_info": "When you Overcharm yourself, your light attacks apply the status effect of your highest invested Attunement for the duration of the Overcharm. While your allies are Overcharmed by you, their light attacks apply the status effect of their highest invested attunements. Procs on criticals with the M1 tag. Overcharm can be applied through the following Talents: Narcissist (self only), Rule Through Fear (self and allies), and Propagandist (allies only). This deals 0.1 elemental damage on proc as hitregistry for the status effects. This triggers your opponent's Everchanging Aegis.",
+  "count_towards_talent_total": true,
+  "icon": "handshake",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Empower your Overcharm, allowing you and your allies to bring forth your high stat attunement's elemental effect into your light attacks when overcharmed.",
+  "voi_only": false
+}

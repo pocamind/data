@@ -1,23 +1,18 @@
 {
-  "name": "Glassdancer Wraps",
+  "name": "Glassdancer Shinwraps",
   "equippable": true,
-  "type": "Arms",
+  "type": "Legs",
   "rarity": "Uncommon",
   "set": "Glassdancer",
-  "variants": [
-    "Fistwrap",
-    "Forearm"
-  ],
-  "talents": [
-    "Lightweight"
-  ],
+  "variants": [],
+  "talents": [],
   "innates": {
     "Health": {
-      "value": 2,
+      "value": 5,
       "percentage": false
     },
     "Posture": {
-      "value": 3,
+      "value": 2,
       "percentage": false
     }
   },
