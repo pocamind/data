@@ -3,7 +3,7 @@
   "category": "Berserker",
   "rarity": "Common",
   "reqs": "80s STR",
-  "additional_info": "Grants a Talent tool that nullifies your armor and natural armor on use. While active, your M1s nullify your opponent's armor, and your criticals gain +10% PEN. This procs effects that only activate if you or your opponent had no armor durability. Lasts 20 seconds, halved to 10 if you do not meet the Talent requirements.",
+  "additional_info": "While in the Berserk State, your M1s will gain increased PEN, scaling on how low your health is. This will cap at 50% if you do not have Million Ton Piercer. Additionally, your critical attacks gain +10% PEN. In exchange for this, all damage you take is true damage for the duration of the effect. In PvE, your M1s always gain +100% PEN, regardless of your health value. Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement. Berserk can be deactivated after 10 seconds by using the Talent tool again.",
   "count_towards_talent_total": true,
   "icon": "anger",
   "roll2able": false,
