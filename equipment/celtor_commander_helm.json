@@ -4,7 +4,20 @@
   "type": "Head",
   "rarity": "Rare",
   "set": "Celtor Commander",
-  "variants": [],
+  "variants": [
+    "Bastion",
+    "Beacon",
+    "Grand Marshal (Default)",
+    "Grand Marshal (Unmasked)",
+    "Highborn (Default)",
+    "Highborn (Unmasked)",
+    "Sable (Default)",
+    "Sable (Unmasked)",
+    "Stygian (Default)",
+    "Stygian (Unmasked)",
+    "Tideknight (Default)",
+    "Tideknight (Unmasked)"
+  ],
   "talents": [
     "Grasp on Reality"
   ],

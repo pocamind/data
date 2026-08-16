@@ -1,0 +1,39 @@
+{
+  "name": "Wool Beret",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Rare",
+  "set": null,
+  "variants": [
+    "Dark (Classic)",
+    "Dark (Felt Classic)",
+    "Dark (Felt Tilted)",
+    "Dark (Tilted)",
+    "Light (Classic)",
+    "Light (Felt Classic)",
+    "Light (Felt Tilted)",
+    "Light (Tilted)",
+    "Mauve (Classic)",
+    "Mauve (Felt Classic)",
+    "Mauve (Felt Tilted)",
+    "Mauve (Tilted)"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Ether": {
+      "value": 10,
+      "percentage": false
+    }
+  },
+  "pips": {
+    "Rare": 2
+  },
+  "reqs": "75r TTL",
+  "voi": false,
+  "desc": "A classic wool beret. How snazzy!",
+  "voi_only": false
+}

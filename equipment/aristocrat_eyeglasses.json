@@ -6,7 +6,11 @@
   "set": "Aristocrat",
   "variants": [
     "Black",
+    "Cerulean",
+    "Emerald",
+    "Indigo",
     "Red",
+    "Silver",
     "White"
   ],
   "talents": [],

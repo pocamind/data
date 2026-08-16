@@ -1,0 +1,13 @@
+{
+  "name": "Sclerosteosis",
+  "category": "Freak of Nature",
+  "rarity": "Advanced",
+  "reqs": "100s FTD",
+  "count_towards_talent_total": true,
+  "icon": "ribcage",
+  "roll2able": true,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Anytime you lose 10% of your health in one hit, reduce the next instance of damage you take by 99%. [5 sec CD]",
+  "voi_only": false
+}

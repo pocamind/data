@@ -3,12 +3,12 @@
   "category": "Frozen Warrior",
   "rarity": "Rare",
   "reqs": "60s ICE",
-  "additional_info": "Only procs from Chill procs on Mantras. Lasts for 0.75 seconds.",
+  "additional_info": "Lasts for the first 0.75s of Chill duration. Does not work with Crystallization Path.",
   "count_towards_talent_total": true,
   "icon": "frostdraw",
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "Your slow effect prevents your opponents from rolling.",
+  "desc": "Chilled applied by your Mantras prevents your opponents from rolling.",
   "voi_only": false
 }
