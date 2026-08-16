@@ -1,0 +1,17 @@
+{
+  "name": "Camaraderie",
+  "category": "Weapon",
+  "rarity": "Weapon",
+  "reqs": "()",
+  "prereqs": [
+    "weapon:alloyed_canorian_axe",
+    "weapon:canorian_axe"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "handshake",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. [1 sec CD]",
+  "voi_only": false
+}

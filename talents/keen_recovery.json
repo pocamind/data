@@ -3,7 +3,7 @@
   "category": "Ether Endeavours",
   "rarity": "Common",
   "reqs": "55s INT",
-  "additional_info": "If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.",
+  "additional_info": "The amount of Ether restored scales on your Intelligence investment, being above the Mantra's cost if you have over 55 Intelligence.",
   "count_towards_talent_total": true,
   "icon": "brain",
   "roll2able": true,
