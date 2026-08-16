@@ -1,0 +1,15 @@
+{
+  "name": "A ring lost to time",
+  "equippable": true,
+  "type": "Rings",
+  "rarity": "Common",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "desc": "With the secret revealed, it withered away in the hands of those who once wore it.",
+  "voi_only": false
+}

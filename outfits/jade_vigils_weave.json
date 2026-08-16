@@ -12,15 +12,15 @@
   "notes": 1000,
   "talent": "Serpent's Dance",
   "category": "Unique",
-  "durability": 2800,
+  "durability": 3000,
   "resistances": {
-    "Wind Resistance": 15,
+    "Wind Resistance": 20,
     "Blood Resistance": 25,
     "Physical Resistance": 30,
-    "Elemental Resistance": 25
+    "Elemental Resistance": 30
   },
   "extra_percents": {
-    "Ether Regen": 25,
+    "Ether Regen": 30,
     "Extra Stealth": 0
   },
   "desc": "Masters of the ancient Fang and Coil technique wear this robe as a tribute to their rich heritage. Its verdant weave once served as subtle camouflage, blending seamlessly into the wilds of a forgotten era.",
