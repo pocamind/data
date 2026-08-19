@@ -1,17 +1,20 @@
 {
-  "name": "Safety Dance",
-  "category": "Leaf in the Wind",
-  "rarity": "Rare",
-  "reqs": "20s AGL",
-  "additional_info": "Dodge IFrames increased from 0.3s to 0.35s.",
-  "count_towards_talent_total": true,
+  "voi": true,
+  "desc": "Your base dodge frames are increased by 0.05s.",
   "icon": "boots",
-  "roll2able": false,
+  "name": "Safety Dance",
+  "reqs": "20s AGL",
   "stats": {
     "Passive Agility": 1
   },
+  "rarity": "Rare",
   "vaulted": false,
-  "voi": true,
-  "desc": "Your base dodge frames are increased by 0.05s.",
-  "voi_only": false
+  "category": "Leaf in the Wind",
+  "voi_only": false,
+  "exclusive": [
+    "Risky Moves"
+  ],
+  "roll2able": false,
+  "additional_info": "Dodge IFrames increased from 0.3s to 0.35s.",
+  "count_towards_talent_total": true
 }
