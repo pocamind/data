@@ -1,18 +1,18 @@
 {
-  "name": "Risky Moves",
-  "category": "Butterfly",
-  "rarity": "Rare",
-  "reqs": "25s AGL",
-  "additional_info": "Attacking will cancel the effect early. 20 second cooldown.",
-  "count_towards_talent_total": true,
-  "icon": "cloak",
-  "roll2able": false,
-  "vaulted": false,
   "voi": false,
   "desc": "When you successfully dodge, you'll automatically dodge the next attack.",
+  "icon": "cloak",
+  "name": "Risky Moves",
+  "reqs": "25s AGL",
+  "rarity": "Rare",
+  "vaulted": false,
+  "category": "Butterfly",
+  "voi_only": false,
   "exclusive": [
     "Observation",
     "Safety Dance"
   ],
-  "voi_only": false
+  "roll2able": false,
+  "additional_info": "Attacking will cancel the effect early. 20 second cooldown.",
+  "count_towards_talent_total": true
 }
