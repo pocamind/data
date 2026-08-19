@@ -1,19 +1,19 @@
 {
+  "voi": true,
+  "desc": "[Greathammer] You take 15% less posture damage when parried.",
+  "icon": "greatsword",
   "name": "Unstoppable Force",
-  "category": "Colossus",
-  "rarity": "Rare",
   "reqs": "25s STR, 40s HVY",
+  "stats": {
+    "Posture": 1
+  },
+  "rarity": "Rare",
   "prereqs": [
     "talent:unwavering_resolve"
   ],
-  "count_towards_talent_total": true,
-  "icon": "greatsword",
-  "roll2able": false,
-  "stats": {
-    "Posture": 2
-  },
   "vaulted": false,
-  "voi": true,
-  "desc": "[Greathammer] You take 15% less posture damage when parried.",
-  "voi_only": false
+  "category": "Colossus",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": true
 }
