@@ -2,7 +2,14 @@
   "name": "Oath: Saintsworn",
   "category": "Saintsworn",
   "rarity": "Oath",
-  "reqs": "15s FLM, 15s ICE, 15s WND, 15s LTN, 15s SDW",
+  "reqs": "()",
+  "prereqs": [
+    "objective:flamecharm_pillar",
+    "objective:frostdraw_pillar",
+    "objective:thundercall_pillar",
+    "objective:galebreathe_pillar",
+    "objective:shadowcast_pillar"
+  ],
   "additional_info": "While the Saintsblade is equipped, your Saintsworn Talents will be activated and you can utilize the Blade of Saints Mantra. By using the Saintsblade's critical attack, you can cycle between the Saint Stances. Each Saint Stance is attributed to one of the Attunements, potentially changing the effects of your Saintsworn Talents and altering your Blade of Saints Mantra.",
   "count_towards_talent_total": false,
   "icon": "saintsworn",
