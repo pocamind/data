@@ -1,16 +1,12 @@
 {
+  "voi": false,
+  "desc": "A legion of frost.",
   "name": "Frozen Servants",
-  "attributes": [
-    "Frostdraw"
-  ],
-  "category": "Combat",
+  "reqs": "1r ICE",
   "type": "Normal",
   "stars": 0,
-  "vaulted": false,
-  "reqs": "1r ICE",
   "damage": [
     {
-      "variant": null,
       "levels": [
         {
           "level": "L1",
@@ -42,10 +38,10 @@
           "damage": 0,
           "posture_damage": null
         }
-      ]
+      ],
+      "variant": null
     },
     {
-      "variant": "Blast Spark",
       "levels": [
         {
           "level": "L1",
@@ -77,12 +73,21 @@
           "damage": 0,
           "posture_damage": null
         }
-      ]
+      ],
+      "variant": "Blast Spark"
     }
+  ],
+  "sparks": [
+    "Tornado Spark",
+    "Reversal Spark",
+    "Blast Spark"
   ],
   "scaling": {
     "Frostdraw": 2.75
   },
+  "vaulted": false,
+  "category": "Combat",
+  "voi_only": false,
   "modifiers": [
     "Cloudstone",
     "Stratus Stone",
@@ -90,11 +95,7 @@
     "Rush Shard",
     "Vibrant Gem"
   ],
-  "sparks": [
-    "Tornado Spark",
-    "Reversal Spark"
-  ],
-  "voi": false,
-  "desc": "A legion of frost.",
-  "voi_only": false
+  "attributes": [
+    "Frostdraw"
+  ]
 }
