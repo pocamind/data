@@ -1,16 +1,16 @@
 {
-  "name": "Destructive Recovery",
-  "category": "Colossus",
-  "rarity": "Rare",
-  "reqs": "25s STR, 40s HVY",
-  "count_towards_talent_total": true,
-  "icon": "greatsword",
-  "roll2able": false,
-  "stats": {
-    "Posture": 2
-  },
-  "vaulted": false,
   "voi": true,
   "desc": "[Greatsword] Enemies recover 20% less Posture when parrying.",
-  "voi_only": false
+  "icon": "greatsword",
+  "name": "Destructive Recovery",
+  "reqs": "25s STR, 40s HVY",
+  "stats": {
+    "Posture": 1
+  },
+  "rarity": "Rare",
+  "vaulted": false,
+  "category": "Colossus",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": true
 }
