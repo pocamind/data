@@ -1,13 +1,13 @@
 {
-  "name": "Crimson Fountain",
-  "category": "Bloodrender",
-  "rarity": "Common",
-  "reqs": "35s BLD",
-  "count_towards_talent_total": true,
-  "icon": "bloodrend",
-  "roll2able": false,
-  "vaulted": false,
   "voi": false,
-  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them.",
-  "voi_only": false
+  "desc": "Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras cast within blood pools have a reduced blood cost.",
+  "icon": "bloodrend",
+  "name": "Crimson Fountain",
+  "reqs": "35s BLD",
+  "rarity": "Common",
+  "vaulted": false,
+  "category": "Bloodrender",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": true
 }
