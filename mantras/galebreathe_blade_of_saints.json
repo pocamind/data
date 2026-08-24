@@ -3,6 +3,7 @@
   "desc": "You propel yourself forwards with the winds, uppercutting anyone in your wake.",
   "name": "Galebreathe Blade of Saints",
   "reqs": "()",
+  "ether_cost": 50,
   "type": "Oath",
   "stars": 0,
   "damage": [

@@ -3,6 +3,7 @@
   "desc": "Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.",
   "name": "Flamecharm Blade of Saints",
   "reqs": "()",
+  "ether_cost": 50,
   "type": "Oath",
   "stars": 0,
   "damage": [

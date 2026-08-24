@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "()",
+  "ether_cost": 150,
   "prereqs": [
     "talent:chorus_of_souls",
     "talent:oath_oathless"

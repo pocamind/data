@@ -3,6 +3,7 @@
   "desc": "The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.",
   "name": "Shadowcast Blade of Saints",
   "reqs": "()",
+  "ether_cost": 50,
   "type": "Oath",
   "stars": 0,
   "damage": [

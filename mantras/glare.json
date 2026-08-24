@@ -9,6 +9,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "25r CHA, 5r WLL",
+  "ether_cost": 100,
   "damage": [
     {
       "variant": null,

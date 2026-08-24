@@ -9,6 +9,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "30r WND, 30r LTN",
+  "ether_cost": 60,
   "damage": [
     {
       "variant": null,

@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "75r FTD",
+  "ether_cost": 60,
   "damage": [
     {
       "variant": null,
