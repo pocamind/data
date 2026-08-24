@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "5r AGL",
+  "ether_cost": 60,
   "scaling": {
     "Agility": 1.65
   },

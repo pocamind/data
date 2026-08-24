@@ -6,6 +6,7 @@
   "stars": 0,
   "vaulted": true,
   "reqs": "300r STR",
+  "ether_cost": null,
   "voi": false,
   "desc": "Take flight! Spacebar to ascend, CTRL to descend.",
   "voi_only": false

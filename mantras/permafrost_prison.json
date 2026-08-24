@@ -9,6 +9,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "30r ICE, 30r SDW",
+  "ether_cost": 80,
   "scaling": {
     "Frostdraw": 2.75,
     "Shadowcast": 2.75

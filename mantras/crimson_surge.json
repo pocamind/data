@@ -8,6 +8,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "30r BLD",
+  "ether_cost": 55,
   "scaling": {
     "Bloodrend": 2.75
   },

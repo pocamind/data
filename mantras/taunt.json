@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "25r CHA",
+  "ether_cost": 100,
   "conditional_stats": {
     "Damage": 20
   },

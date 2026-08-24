@@ -8,6 +8,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "30r ICE",
+  "ether_cost": 60,
   "prereqs": [
     "talent:glass_path_crystallization"
   ],

@@ -8,6 +8,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "()",
+  "ether_cost": 50,
   "voi": false,
   "desc": "Create tentacles and pierce multiple opponents at once.",
   "voi_only": false
