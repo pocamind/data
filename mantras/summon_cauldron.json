@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "20r INT",
+  "ether_cost": 20,
   "voi": false,
   "desc": "Make a cauldron appear from your memories.",
   "voi_only": false,

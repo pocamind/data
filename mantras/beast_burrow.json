@@ -8,6 +8,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "()",
+  "ether_cost": 60,
   "shared_cooldowns": [
     "Shade Step",
     "Sanguine Dive"

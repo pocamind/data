@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "()",
+  "ether_cost": 50,
   "prereqs": [
     "talent:oath_starkindred"
   ],

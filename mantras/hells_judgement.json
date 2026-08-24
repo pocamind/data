@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "240r TTL",
+  "ether_cost": 90,
   "prereqs": [
     "objective:flame_worshipper"
   ],

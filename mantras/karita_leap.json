@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "20r LHT",
+  "ether_cost": 60,
   "prereqs": [
     "talent:jus_karita"
   ],

@@ -8,6 +8,7 @@
   "stars": 3,
   "vaulted": false,
   "reqs": "50r LTN",
+  "ether_cost": 80,
   "voi": false,
   "desc": "A cloak of lightning itself.",
   "voi_only": false,
