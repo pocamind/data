@@ -8,6 +8,7 @@
   "stars": 3,
   "vaulted": false,
   "reqs": "50r SDW",
+  "ether_cost": 60,
   "damage": [
     {
       "variant": null,

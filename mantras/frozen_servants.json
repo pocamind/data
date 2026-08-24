@@ -3,6 +3,7 @@
   "desc": "A legion of frost.",
   "name": "Frozen Servants",
   "reqs": "1r ICE",
+  "ether_cost": 60,
   "type": "Normal",
   "stars": 0,
   "damage": [

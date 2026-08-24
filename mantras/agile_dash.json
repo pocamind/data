@@ -3,6 +3,7 @@
   "desc": "An agile dash.",
   "name": "Agile Dash",
   "reqs": "40r AGL",
+  "ether_cost": 60,
   "type": "Normal",
   "stars": 0,
   "damage": [

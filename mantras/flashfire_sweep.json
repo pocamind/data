@@ -9,6 +9,7 @@
   "stars": 2,
   "vaulted": false,
   "reqs": "30r FLM, 30r LTN",
+  "ether_cost": 30,
   "damage": [
     {
       "variant": null,

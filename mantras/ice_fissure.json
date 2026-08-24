@@ -8,6 +8,7 @@
   "stars": 3,
   "vaulted": false,
   "reqs": "50r ICE",
+  "ether_cost": 75,
   "damage": [
     {
       "variant": null,

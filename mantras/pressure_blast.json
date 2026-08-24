@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "30r HVY",
+  "ether_cost": 35,
   "damage": [
     {
       "variant": null,

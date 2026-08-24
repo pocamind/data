@@ -3,6 +3,7 @@
   "desc": "Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.",
   "name": "Thundercall Blade of Saints",
   "reqs": "()",
+  "ether_cost": 50,
   "type": "Oath",
   "stars": 0,
   "damage": [

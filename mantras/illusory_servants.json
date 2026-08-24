@@ -8,6 +8,7 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "()",
+  "ether_cost": 70,
   "prereqs": [
     "talent:oath_visionshaper"
   ],

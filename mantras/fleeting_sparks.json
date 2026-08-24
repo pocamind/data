@@ -8,6 +8,7 @@
   "stars": 1,
   "vaulted": false,
   "reqs": "20r LTN",
+  "ether_cost": 60,
   "damage": [
     {
       "variant": null,

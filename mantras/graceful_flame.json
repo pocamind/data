@@ -8,6 +8,7 @@
   "stars": 1,
   "vaulted": false,
   "reqs": "20r FLM",
+  "ether_cost": 80,
   "damage": [
     {
       "variant": null,
