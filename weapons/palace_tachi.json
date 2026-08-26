@@ -1,0 +1,28 @@
+{
+  "name": "Palace Tachi",
+  "type": "Sword",
+  "rarity": "Mythical",
+  "damage": 22.5,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "80r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.7,
+  "swing_speed": 0.93,
+  "scaling": {
+    "Medium Weapon": 6.5
+  },
+  "chip_damage": 0.05,
+  "penetration": 0.05,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power.",
+  "talents": [
+    "Threadripper"
+  ],
+  "voi_only": false
+}
