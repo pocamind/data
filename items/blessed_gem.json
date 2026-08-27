@@ -1,0 +1,7 @@
+{
+  "name": "Blessed Gem",
+  "kind": "gem",
+  "asset": "blessed_gem",
+  "desc": "A frequency emits from within like a choir...",
+  "effect": "On hit, reduces the cooldown of a Mantra by 50%. (5s CD)"
+}

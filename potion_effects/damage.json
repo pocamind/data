@@ -1,0 +1,19 @@
+{
+  "name": "Damage",
+  "order": 2,
+  "timed": true,
+  "unit": "percent",
+  "formula": "x = SUM * POT / DIL; if(x > 25, min((x - 25) / 2 + 25, 50), if(x < -25, max((x + 25) / 2 - 25, -50), x))",
+  "positive_suffixes": [
+    "Salve",
+    "Tincture",
+    "Potion"
+  ],
+  "negative_suffixes": [
+    "Potion",
+    "Bane",
+    "Blight"
+  ],
+  "positive": "Strengthening",
+  "negative": "Dulling"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Plumfruit",
+  "kind": "ingredient",
+  "brewing": {
+    "damage": 2,
+    "health_regen": -30
+  }
+}

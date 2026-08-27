@@ -1,0 +1,15 @@
+{
+  "name": "Posture Damage",
+  "order": 3,
+  "timed": true,
+  "unit": "percent",
+  "formula": "x = SUM * POT / DIL; if(x > 25, min((x - 25) / 2 + 25, 50), if(x < -25, max((x + 25) / 2 - 25, -50), x))",
+  "positive_suffixes": [
+    "Salve"
+  ],
+  "negative_suffixes": [
+    "Potion"
+  ],
+  "positive": "Staggering",
+  "negative": "Weakening"
+}

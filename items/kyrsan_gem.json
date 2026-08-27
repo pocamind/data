@@ -1,0 +1,7 @@
+{
+  "name": "Kyrsan Gem",
+  "kind": "gem",
+  "asset": "kyrsan_gem",
+  "desc": "It chills you to the bone...",
+  "effect": "On hit, slow your opponents. This effect is stackable. (2s CD)"
+}

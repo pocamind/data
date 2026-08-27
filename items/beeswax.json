@@ -1,0 +1,8 @@
+{
+  "name": "Beeswax",
+  "kind": "ingredient",
+  "brewing": {
+    "speed": -5,
+    "health_regen": 85
+  }
+}

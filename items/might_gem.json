@@ -1,0 +1,7 @@
+{
+  "name": "Might Gem",
+  "kind": "gem",
+  "asset": "might_gem",
+  "desc": "A sign of strength...",
+  "effect": "Increases a Mantra's posture damage by 10%."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Posture Resistance",
+  "order": 4,
+  "timed": true,
+  "unit": "percent",
+  "formula": "x = SUM / 10 * POT / DIL; if(x > 25, min((x - 25) / 2 + 25, 50), if(x < -25, max((x + 25) / 2 - 25, -50), x))",
+  "positive_suffixes": [
+    "Tincture",
+    "Potion",
+    "Elixir",
+    "Salve"
+  ],
+  "negative_suffixes": [
+    "Bane",
+    "Blight"
+  ],
+  "positive": "Steadfast",
+  "negative": "Buckling"
+}
