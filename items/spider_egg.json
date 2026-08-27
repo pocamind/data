@@ -1,0 +1,7 @@
+{
+  "name": "Spider Egg",
+  "kind": "ingredient",
+  "brewing": {
+    "duration": 50
+  }
+}

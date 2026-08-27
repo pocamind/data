@@ -1,0 +1,8 @@
+{
+  "name": "Grudgeroot",
+  "kind": "ingredient",
+  "voi": false,
+  "brewing": {
+    "wither": -4
+  }
+}

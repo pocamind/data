@@ -1,0 +1,7 @@
+{
+  "name": "Antithetic Salts",
+  "kind": "salt",
+  "icon": "saltchemist",
+  "desc": "Alter your brews to invert their effects. Does not count towards the ingredient limit.",
+  "effect": "This inverts the effects of the ingredients in the potion."
+}

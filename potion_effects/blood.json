@@ -1,0 +1,11 @@
+{
+  "name": "Blood",
+  "order": 9,
+  "timed": false,
+  "unit": "flat",
+  "formula": "SUM * POT / DIL",
+  "positive_suffixes": [],
+  "negative_suffixes": [],
+  "positive": "Revitalizing",
+  "negative": "Debilitating"
+}

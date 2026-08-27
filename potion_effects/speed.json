@@ -1,0 +1,18 @@
+{
+  "name": "Speed",
+  "order": 5,
+  "timed": true,
+  "unit": "multiplier",
+  "formula": "if(SUMPOS == 0.0, 0, (1 + if(NPOS == 1.0, SUMPOS / 2, SUMPOS)) ^ 0.5 - 1) + (SUMNEG * 0.75 * POT / DIL) / 100",
+  "positive_suffixes": [
+    "Potion",
+    "Elixir",
+    "Salve",
+    "Tincture"
+  ],
+  "negative_suffixes": [
+    "Blight"
+  ],
+  "positive": "Hastening",
+  "negative": "Slowing"
+}

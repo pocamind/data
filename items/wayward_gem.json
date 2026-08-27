@@ -1,0 +1,7 @@
+{
+  "name": "Wayward Gem",
+  "kind": "gem",
+  "asset": "wayward_gem",
+  "desc": "It's phasing in and out of existence...",
+  "effect": "On hit, activate Wayward Warp and teleport to your opponent after a 1s delay. (8s CD)"
+}

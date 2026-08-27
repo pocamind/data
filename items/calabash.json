@@ -1,0 +1,8 @@
+{
+  "name": "Calabash",
+  "kind": "ingredient",
+  "brewing": {
+    "posture_resistance": 10,
+    "ether_regen": -5
+  }
+}

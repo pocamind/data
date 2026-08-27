@@ -1,0 +1,7 @@
+{
+  "name": "Urchin",
+  "kind": "ingredient",
+  "brewing": {
+    "sanity_regen": -0.1
+  }
+}

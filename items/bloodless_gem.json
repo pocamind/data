@@ -1,0 +1,7 @@
+{
+  "name": "Bloodless Gem",
+  "kind": "gem",
+  "asset": "bloodless_gem",
+  "desc": "It bleeds...",
+  "effect": "On hit, heal for 30% of the unscaled damage dealt, but reduce the damage dealt to your opponent by 20%. After healing 15 HP, goes on cooldown for 2s."
+}
