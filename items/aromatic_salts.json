@@ -1,0 +1,7 @@
+{
+  "name": "Aromatic Salts",
+  "kind": "salt",
+  "icon": "saltchemist",
+  "desc": "Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.",
+  "effect": "Lasts for roughly 10 seconds. Ticks once every 0.5sec, for a total of 20 ticks of whatever the potion effect is for the duration of the gas cloud. Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds."
+}

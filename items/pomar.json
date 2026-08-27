@@ -1,0 +1,8 @@
+{
+  "name": "Pomar",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_health": -3,
+    "speed": 0.25
+  }
+}

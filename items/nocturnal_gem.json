@@ -1,0 +1,7 @@
+{
+  "name": "Nocturnal Gem",
+  "kind": "gem",
+  "asset": "nocturnal_gem",
+  "desc": "A strange gem you aren't sure is even from this world. As you listen closely, you hear faint squeaking noises.",
+  "effect": "On hit, summons bats on your enemies, dealing damage to your opponents. (25s CD)"
+}

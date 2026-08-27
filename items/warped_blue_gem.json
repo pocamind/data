@@ -1,0 +1,7 @@
+{
+  "name": "Warped Blue Gem",
+  "kind": "gem",
+  "asset": "warped_blue_gem",
+  "desc": "Worn down and clouded by the tides, this Blue Gem's full power is only available to those in tune with the sea. Perhaps it can be used for something else?",
+  "effect": "While in water, reduces the total Ether cost of a Mantra by 50%."
+}

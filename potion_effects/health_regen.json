@@ -1,0 +1,19 @@
+{
+  "name": "Health Regen",
+  "order": 6,
+  "timed": true,
+  "unit": "percent",
+  "formula": "(if(COMBAT > 0, SUMPOS * 60 / 85, SUMPOS) * if(QUAFF > 0, 1.15, 1) + SUMNEG) / 10 * POT / DIL",
+  "positive_suffixes": [
+    "Potion",
+    "Tincture",
+    "Elixir",
+    "Salve"
+  ],
+  "negative_suffixes": [
+    "Bane",
+    "Blight"
+  ],
+  "positive": "Invigorating",
+  "negative": "Grueling"
+}

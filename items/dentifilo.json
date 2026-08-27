@@ -1,0 +1,8 @@
+{
+  "name": "Dentifilo",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_health": -2,
+    "instant_ether": 23
+  }
+}

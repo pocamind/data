@@ -1,0 +1,7 @@
+{
+  "name": "Thresher Egg",
+  "kind": "ingredient",
+  "brewing": {
+    "sanity_regen": -0.1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gathered Wheat",
+  "kind": "ingredient",
+  "brewing": {
+    "damage": -1.75,
+    "ether_regen": 90
+  }
+}

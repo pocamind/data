@@ -1,0 +1,10 @@
+{
+  "name": "Glumfig",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_health": 5,
+    "damage": -2,
+    "posture_resistance": -15,
+    "sanity_regen": -0.1
+  }
+}

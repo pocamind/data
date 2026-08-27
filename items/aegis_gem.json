@@ -1,0 +1,7 @@
+{
+  "name": "Aegis Gem",
+  "kind": "gem",
+  "asset": "aegis_gem",
+  "desc": "It's unnaturally dense...",
+  "effect": "On hit, grants Aegis, reducing damage by 10% for 10 seconds. (10s CD)"
+}

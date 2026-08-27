@@ -1,0 +1,7 @@
+{
+  "name": "Insignia Gem",
+  "kind": "gem",
+  "asset": "insignia_gem",
+  "desc": "A sign of intelligence.",
+  "effect": "On hit, casting a Mantra within 3 seconds will lower its windup by 15%. (5s CD)"
+}

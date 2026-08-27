@@ -1,0 +1,8 @@
+{
+  "name": "Crustacean Meat",
+  "kind": "ingredient",
+  "brewing": {
+    "damage": -1.75,
+    "duration": 20
+  }
+}

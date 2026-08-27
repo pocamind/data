@@ -1,0 +1,8 @@
+{
+  "name": "Browncap",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_health": -4,
+    "damage": 2
+  }
+}

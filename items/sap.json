@@ -1,0 +1,8 @@
+{
+  "name": "Sap",
+  "kind": "ingredient",
+  "brewing": {
+    "speed": -5,
+    "ether_regen": 90
+  }
+}

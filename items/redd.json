@@ -1,0 +1,9 @@
+{
+  "name": "Redd",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_health": 4,
+    "ether_regen": -5,
+    "duration": -25
+  }
+}

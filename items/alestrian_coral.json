@@ -1,0 +1,9 @@
+{
+  "name": "Alestrian Coral",
+  "kind": "ingredient",
+  "brewing": {
+    "damage": -1.75,
+    "posture_damage": -5,
+    "speed": 0.25
+  }
+}
