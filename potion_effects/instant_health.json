@@ -3,7 +3,7 @@
   "order": 0,
   "timed": false,
   "unit": "flat",
-  "formula": "SUM * POT / DIL * if(SUM > 0, if(DRINK + THROW > 0, if(COMBAT > 0, if(QUAFF > 0, 0.5, 0.25), if(QUAFF > 0, 1, 0.75)), 1), 1)",
+  "formula": "SUM * POT / DIL * if(SUM > 0, if(DRINK + THROW > 0, if(COMBAT > 0, if(QUAFF > 0, 0.5, 0.25), if(QUAFF > 0, 1, 0.75)), 1), 1) * if(SUM < 0, if(SPLASH > 0, 0.25, 1), 1)",
   "positive_suffixes": [
     "Salve"
   ],
