@@ -1,0 +1,9 @@
+{
+  "name": "Duration",
+  "order": 10,
+  "timed": false,
+  "unit": "seconds",
+  "formula": "(15 - if(HRP > 0, 3.75, 0)) * (1 + SUM / DIL / 100)",
+  "positive_suffixes": [],
+  "negative_suffixes": []
+}

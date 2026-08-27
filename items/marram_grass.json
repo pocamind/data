@@ -1,0 +1,8 @@
+{
+  "name": "Marram Grass",
+  "kind": "ingredient",
+  "brewing": {
+    "instant_ether": -23,
+    "posture_resistance": 10
+  }
+}

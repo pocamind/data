@@ -1,0 +1,7 @@
+{
+  "name": "Seaweed Bundle",
+  "kind": "ingredient",
+  "brewing": {
+    "sanity_regen": -0.1
+  }
+}

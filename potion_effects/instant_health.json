@@ -1,0 +1,16 @@
+{
+  "name": "Instant Health",
+  "order": 0,
+  "timed": false,
+  "unit": "flat",
+  "formula": "SUM * POT / DIL * if(SUM > 0, if(DRINK + THROW > 0, if(COMBAT > 0, if(QUAFF > 0, 0.5, 0.25), if(QUAFF > 0, 1, 0.75)), 1), 1)",
+  "positive_suffixes": [
+    "Salve"
+  ],
+  "negative_suffixes": [
+    "Bane",
+    "Blight"
+  ],
+  "positive": "Rejuvenating",
+  "negative": "Disgusting"
+}

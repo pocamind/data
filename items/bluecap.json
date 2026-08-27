@@ -1,0 +1,10 @@
+{
+  "name": "Bluecap",
+  "kind": "ingredient",
+  "voi": false,
+  "brewing": {
+    "instant_health": -5,
+    "instant_ether": 23,
+    "sanity_regen": 3.75
+  }
+}

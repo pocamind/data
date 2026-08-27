@@ -1,0 +1,8 @@
+{
+  "name": "Ongo",
+  "kind": "ingredient",
+  "brewing": {
+    "posture_damage": 10,
+    "posture_resistance": -5
+  }
+}

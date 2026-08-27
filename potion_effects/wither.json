@@ -1,0 +1,16 @@
+{
+  "name": "Wither",
+  "order": 11,
+  "timed": false,
+  "unit": "percent",
+  "formula": "SUM * POT / DIL",
+  "positive_suffixes": [
+    "Bane"
+  ],
+  "negative_suffixes": [
+    "Salve",
+    "Potion"
+  ],
+  "positive": "Eroding",
+  "negative": "Renewing"
+}

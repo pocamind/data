@@ -1,0 +1,7 @@
+{
+  "name": "Blue Gem",
+  "kind": "gem",
+  "asset": "blue_gem",
+  "desc": "It oozes Ether.",
+  "effect": "Reduces the total Ether cost of a Mantra by 25%."
+}

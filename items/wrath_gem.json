@@ -1,0 +1,7 @@
+{
+  "name": "Wrath Gem",
+  "kind": "gem",
+  "asset": "wrath_gem",
+  "desc": "It hurts to hold...",
+  "effect": "On hit, apply Wrath."
+}

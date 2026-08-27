@@ -1,0 +1,7 @@
+{
+  "name": "Wind Gem",
+  "kind": "gem",
+  "asset": "wind_gem",
+  "desc": "It breathes...",
+  "effect": "On hit, apply a speed boost for 10s. (10s CD)"
+}

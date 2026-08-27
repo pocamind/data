@@ -1,0 +1,21 @@
+{
+  "name": "Sanity Regen",
+  "order": 8,
+  "timed": true,
+  "unit": "per_second",
+  "formula": "(SUM * POT / DIL) * if(QUAFF > 0, if(SUM > 0, 1.3, 1), 1)",
+  "positive_suffixes": [
+    "Remedy",
+    "Potion",
+    "Salve",
+    "Tincture",
+    "Elixir"
+  ],
+  "negative_suffixes": [
+    "Bane",
+    "Blight",
+    "Potion"
+  ],
+  "positive": "Heartening",
+  "negative": "Mindbreaker"
+}
