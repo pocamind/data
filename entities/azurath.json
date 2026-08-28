@@ -1,0 +1,8 @@
+{
+  "name": "Azurath",
+  "desc": "Azurath is a Heliodar NPC. They are the [Chest Master](entity:chest_master) and [Antiquarian](entity:antiquarian) located inside of the [The Cerebral Spire](location:the_cerebral_spire).",
+  "found_at": [
+    "location:the_cerebral_spire"
+  ],
+  "wiki": "Azurath.md"
+}

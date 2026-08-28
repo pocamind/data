@@ -1,0 +1,12 @@
+{
+  "name": "Destroyman III, Bon Vivant Adventurer",
+  "aliases": [
+    "Destroyman III"
+  ],
+  "desc": "Destroyman III, Bon Vivant Adventurer is a \"mischievous wayward traveller\" based on [Destroyman III](entity:destroyman_iii_bon_vivant_adventurer).",
+  "additional_info": "-   When the player is near Destroyman III, Bon Vivant Adventurer, a sea shanty is played. That same sea shanty can be heard at [The Three Cheers](location:the_three_cheers) tavern in [Fort Merit](location:fort_merit).",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Destroyman_III,_Bon_Vivant_Adventurer.md"
+}

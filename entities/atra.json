@@ -1,0 +1,12 @@
+{
+  "name": "Atra",
+  "desc": "Atra is a Khan NPC. She is a member of [The Hundred Legions](faction:the_hundred_legions) and currently belong to the 11th Scouting Legion. She stays with her group composed of [Caitus](entity:caitus), [Lars](entity:lars), [Gaius](entity:gaius) and [Amara](entity:amara).\n\nShe gives you the 'Legion Scout' quest, urging you to find Lars, another scout of the 11th Legion.",
+  "additional_info": "-   Atra's hair id is 12330952760.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:the_vipers_jaw"
+  ],
+  "wiki": "Atra.md"
+}

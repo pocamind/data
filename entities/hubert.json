@@ -1,0 +1,8 @@
+{
+  "name": "Hubert",
+  "desc": "Hubert is a Vesperian NPC.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Hubert.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "C'lantaa",
+  "desc": "C'lantaa was a Tiran NPC.\n\nHe was found in [New Kyrsa, The Sleeping City](location:new_kyrsa) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](location:the_sunken_railways). Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.\n\nHe attempted to communicate with the local Kyrsgarde, but was wounded in the process. He suspects the mist is the vector by which [Ethiron](entity:ethiron_the_maelstroms_eye) is enslaving the Kyrsgarde.\n\nHe wore the Cala-Mariner outfit.",
+  "additional_info": "-   C'lantaa's racial variant is a Jay.",
+  "found_at": [
+    "location:new_kyrsa"
+  ],
+  "wiki": "C'lantaa.md"
+}

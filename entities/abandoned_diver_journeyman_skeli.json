@@ -1,0 +1,16 @@
+{
+  "name": "Abandoned Diver (Journeyman Skeli)",
+  "aliases": [
+    "Skeli",
+    "Journeyman"
+  ],
+  "desc": "The Abandoned Diver is an NPC. It is the lifeless body of Journeyman Skeli.\n\nThe player is able to pocket the Diver's Journal: Journeyman Skeli left behind by the corpse.\n\nSkeli was an Etrean [Diver](faction:the_divers) who eventually attained the rank of Journeyman. Skeli had past encounters with the Black Diver [Chaser](entity:chaser_scholar_of_the_crimson_contract), and witnessed him volunteer to lead an expedition to the [Second Layer](location:second_layer). Skeli considered Chaser's eagerness out of character.\n\nSkeli was later assigned to the third expedition to the [Second Layer](location:second_layer). Their team was sent by [Klaris](entity:klaris_llfiend_mother_of_lights) to rendezvous with Chaser, the sole survivor of the previous two expedition teams.\n\nSkeli suspected that foul play was involved, and partially blamed Klaris for the situation. Despite the harsh conditions of the Second Layer, Skeli doubted that two entire expeditions could have been entirely wiped out. Based on testimony from the local Kyrsgarde, Skeli concluded Chaser had most likely engineered the end of his previous two teams and recorded their suspicions in their journal. Skeli feared what would happen if Chaser harnessed the power of [New Kyrsa](location:new_kyrsa) and stressed that he couldn't be trusted. The last pages of Skeli's journal were covered by frantic scribbles, seemingly to hide the contents within.\n\nAt one point, Skeli spoke with [Apprentice Hero](entity:mauled_diver_corpse_apprentice_hero) and told them about [the Frontier Furnace](location:the_frontier_furnace)'s location.\n\nEventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by the Pathfinder.",
+  "additional_info": "-   Skeli's actual body, for whatever reason, is not visible.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:nest_corridor"
+  ],
+  "wiki": "Abandoned_Diver_(Journeyman_Skeli).md"
+}

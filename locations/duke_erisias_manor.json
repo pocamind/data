@@ -1,0 +1,9 @@
+{
+  "name": "Duke Erisia's Manor",
+  "desc": "**Duke Erisia's Manor** is a landmark found in [The Garden Reservoir](location:the_garden_reservoir). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](location:burning_stone_gardens) where plentiful of Rock Golems reside. In order to open the gate, you, or one of your allies must have a Manor Key.",
+  "additional_info": "-   The music for this area is Of Labours, Veiled by Naktigonis\n-   If the key to the manor is not glowing, it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes. Either wait that timeframe out or switch servers to progress.\n-   If the gate is stuck/gate doesn't close despite all mobs being dead, and no one has travelled down, you can climb on top of the door to open it. There is an interactable button to close the gate and reset the dungeon.\n-   The Brainsucker's within the manor are not allied with other Monsters.",
+  "part_of": [
+    "location:the_garden_reservoir"
+  ],
+  "wiki": "Duke_Erisia's_Manor.md"
+}

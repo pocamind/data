@@ -1,0 +1,11 @@
+{
+  "name": "Barber (Glumbo)",
+  "aliases": [
+    "Glumbo"
+  ],
+  "desc": "Glumbo is an NPC. They are one of many entities that reside in [The Hall of Shattered Wills](location:the_hall_of_shattered_wills).\n\nThey appear as a lanky black humanoid and as a [Barber](entity:barber), but have unique dialogue.",
+  "found_at": [
+    "location:the_hall_of_shattered_wills"
+  ],
+  "wiki": "Barber_(Glumbo).md"
+}

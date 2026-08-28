@@ -1,0 +1,15 @@
+{
+  "name": "Ishan",
+  "aliases": [
+    "Artus"
+  ],
+  "desc": "Ishan is an Etrean NPC. They are an employee of [The Summer Company](faction:the_summer_company) ruminating on the origins of the Adret.\n\nIf spoken to while being an Adret, their dialogue changes.",
+  "additional_info": "-   Their assumptions are a bit of a red herring, as Adret already existed prior to their spread, and have no actual link to the ocean. Their sudden appearance was due to rising sea levels bringing their mountaintop homes closer to the ground. While their spread was motivated by the ocean, the ocean is not responsible for their existence.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Ishan.md"
+}

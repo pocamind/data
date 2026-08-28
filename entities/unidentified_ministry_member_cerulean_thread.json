@@ -1,0 +1,9 @@
+{
+  "name": "Unidentified Ministry member (Cerulean Thread)",
+  "desc": "A member of [the Ministry](faction:the_ministry) served as an apprentice to [Zi'eer](entity:the_lord_regent) during the Eastern Conflict. This partnership, paired with their skills and the modifications they applied to the Fourth Prophet's natural abilities, allowed them to rise through the ranks of the organization at a rapid pace.\n\nHoping to gather information on [the Vigils](faction:the_vigils), they applied to join the [Temple of the Blade](location:temple_of_the_blade) as a Vigil Instructor. However, the current Maestro, [Evengarde Rest](entity:evengarde_rest), detected the deception and challenged them to a duel. They were then defeated and forced to reveal their information, before being killed. Rest added their blade, the Cerulean Thread, to his collection of armaments.",
+  "member_of": [
+    "faction:the_ministry",
+    "faction:etrea"
+  ],
+  "wiki": "Unidentified_Ministry_member_(Cerulean_Thread).md"
+}

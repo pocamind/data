@@ -1,0 +1,9 @@
+{
+  "name": "Meteor Isle",
+  "desc": "**Meteor Isle** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](location:the_aratel_sea). It can be easily found by going to Fort Merit, where the Etrean Rescuer is.",
+  "additional_info": "-   The music for this area is The Sun, Gleaming by Naktigonis.\n-   The combat music for this area is Thrill of the Hunt by Naktigonis.\n-   This island was previously cut from the game before initial release but was since added back in the Verse 2 update.\n    -   It is well known for featuring prominently in the first ever Deepwoken Direct.\n        -   This is referenced by Exter, who notes how familiar the area where the direct took place is.\n-   During early testing, the isle was Territory of [Etrea](faction:etrea).\n-   [Cestis](entity:cestis), who was previously located in [The Hidden Village](location:the_hidden_village) was moved here in the Verse 2 update.\n-   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is a \"neutral\" location due to the equilibrium of Hivekin, Etreans and Gremors.\n    -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.\n-   You cannot set a spawn point in the Inn as they will tell the player that they are closed.",
+  "part_of": [
+    "faction:the_children_of_navae"
+  ],
+  "wiki": "Meteor_Isle.md"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Banker",
+  "desc": "Bankers are NPCs that a player can utilize to store items across slots. You can also turn Artifacts to bankers to receive 200 notes and a various assortment of items. Players can also hire bankers inside their guild base to make things easier.\n\n**Safe Deposit Boxes**\n\nBankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out. When accessing the Banking UI by a Banker, players are immune to all forms of outside damage.\n\nThe following item types are sorted as follows:\n\n-   Weapons\n-   Equipment\n-   Treasures, Relics\n-   Ingredients\n-   Mantra Modifiers\n-   Outfit Schematics, Enchant Stones, Enchant Greases, Food\n\nEnchanted items are prioritized first in their respective category.\n\nPlayers start with six free slots, each holding one item, almost all items can be put inside the bank slots. Soulbound and Relic items will have to go through a **Vow of Safekeeping,** where 1 is spent to create the vow.\n\nEach slot will call a small, or large fee depending on how many slots you currently have. The listed prices below apply to every new slot, (e.g, the 15th slot would cost 2,500 .)\n\n-   0-6, Free (Base Slots)\n-   7-12, (1,000 )\n-   13-17, (2,500 )\n-   18-60 (5,000 )\n-   61-102 (10,000 ). This comes up to a total of 653,500 notes to get all your bank slots.\n\nTo put an item in your safe deposit box, you must open your inventory and drag and drop the item you want to deposit into the box. If your box is full and you want to add an item to a stack already present—assuming that stack isn't already at its limit—you'll first need to take out an item that occupies a slot (i.e. equipment) out of it before placing the desired item inside.\n\nIf you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, here is a great video.\n\n**Items requiring a Vow of Safekeeping:**\n\n-   Weapons and Equipment that are Enchanted, Soulbound, or event exclusive.\n-   Enchant Stone\n-   Relics (Including Alloys)\n-   Dye Packet\n-   Monster parts required for Monster Mantras\n\n**Unstorable Items:**\n\n-   Certain Unique Outfit Schematics:\n    -   Arachnid's Weave\n    -   Authority Commander\n    -   Cala-Mariner\n    -   Jade Vigil's Weave\n    -   Titanslayer's Adornment\n    -   Titus's Raiment\n-   Kyrsan Medallions (Itemized)\n-   Ardour Manifestation\n-   Void Feathers (Craft it into 3 Dark Feathers then bank it instead)\n-   Deepshore Fossil\n-   Tools (Repair Hammer, Glider, Etc.)\n-   Campfires (Store wood instead)\n-   Hallowtide Mask\n-   Attunement Potions / Lotuses\n-   Poser's Ring\n-   Manor Key\n-   Orlandeau's Emerald\n-   Pleeksty's Inferno\n-   Mantle of Enmity\n\n**Account**\n\nAccessing your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept more than 940 notes). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdraw.",
+  "found_at": [
+    "location:castle_light",
+    "location:the_chariots_spire",
+    "location:etris",
+    "location:greathive_aratel",
+    "location:isle_of_vigils",
+    "location:miners_landing",
+    "location:port_merit",
+    "location:summer_isle",
+    "location:the_floating_keep",
+    "location:voidheart"
+  ],
+  "wiki": "Banker.md"
+}

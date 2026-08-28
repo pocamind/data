@@ -1,0 +1,15 @@
+{
+  "name": "Sachan Yi Anako",
+  "aliases": [
+    "Yi Anako",
+    "Sachan Anako"
+  ],
+  "desc": "Sachan Yi Anako, is the leader of Clan Anako and one of the four sachans of the [Etrean Royalists](faction:etrean_royalists). Yi is known for her short temper and unfiltered honesty, qualities that often make negotiations more difficult.",
+  "member_of": [
+    "faction:etrean_royalists"
+  ],
+  "leads": [
+    "faction:etrean_royalists"
+  ],
+  "wiki": "Sachan_Yi_Anako.md"
+}

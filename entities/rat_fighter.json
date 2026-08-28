@@ -1,0 +1,6 @@
+{
+  "name": "Rat Fighter",
+  "desc": "Rat Fighters, not to be confused with the [Golden Warrior](entity:golden_warrior), are exclusively found in the [Rat's Den](location:rats_den), a sub-location of [Erisia](location:erisia).\n\nThey wear a Goldleaf Helm, Warden Pauldrons, a dyed Steel Plate outfit and a pair of Flameguard Boots.\n\nRat Fighters drop a Gold Plate upon being killed, of which 5 can be turned in to the [Golden Rat Bouncer](entity:golden_rat_bouncer) for mid-tier Erisia loot.",
+  "additional_info": "-   Their Steel Plate outfit is dyed #ffd674.\n-   The Rat Fighter is one of five enemies able to wield a Soulwrought Axe, which can only be obtained by the player through the Crazy Slots Resonance, the others being [Golden Warrior](entity:golden_warrior), [Golden Rat Bouncer](entity:golden_rat_bouncer), Immortal Guardian, and Nightmare Immortal Guardian.\n-   Rat Fighters and all typical Golden Rat NPCs wear a Steel Plate dyed with the color code `#ffd674`.",
+  "wiki": "Rat_Fighter.md"
+}

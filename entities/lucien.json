@@ -1,0 +1,11 @@
+{
+  "name": "Lucien",
+  "aliases": [
+    "Meemaw"
+  ],
+  "desc": "Lucien is a Felinor NPC. He is a miner working in the [Songseeker Wilds](location:songseeker_wilds).\n\nLucien teaches the player the recipe to crafting Iron Bombs through the Quest \"Mineskipper Mayhem\".\n\nHis helmet is an heirloom from [Meemaw](entity:lucien), who also survived Mineskippers with the same helmet.",
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Lucien.md"
+}

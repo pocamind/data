@@ -1,0 +1,18 @@
+{
+  "name": "Eylis, the Punished Dreamer",
+  "aliases": [
+    "Eylis"
+  ],
+  "desc": "Eylis is the leader of [The Knives of Eylis](faction:the_knives_of_eylis). She stands near the table in the room next to the Bounty Board. Not much is known about her besides the fact that she has some sort of contract with the [Voidmother](entity:the_voidmother). In the Voidwalker description it says she has plans in mind for you and that she says you're different from the other Whalers, what this could mean is beyond anybody, but some think it's hinting at a quest line.",
+  "additional_info": "-   Her model is near identical to [Klaris](entity:klaris_llfiend_mother_of_lights). However, Eylis uses Lean Torso, meanwhile Klaris doesn't. This likely means that, unlike Klaris, Eylis is not canonically muscular.\n-   Her racial variant is River\n-   Eylis Colors: #ffc592 Skin | #323232 Hair | #71dcdd Pupils | #7d5845 Scar Marking\n-   Eylis refers to Voidwalkers as 'Knives', hence why it's called \"[The Knives of Eylis](faction:the_knives_of_eylis)\".\n-   It is unknown what her epithet, \"The Punished Dreamer\", means. However it might have something to do with [The Voidmother](entity:the_voidmother).",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "leads": [
+    "faction:the_knives_of_eylis"
+  ],
+  "found_at": [
+    "location:voidheart"
+  ],
+  "wiki": "Eylis,_the_Punished_Dreamer.md"
+}

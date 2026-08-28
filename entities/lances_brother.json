@@ -1,0 +1,15 @@
+{
+  "name": "Lance's Brother",
+  "aliases": [
+    "@#$%& Leshi"
+  ],
+  "desc": "**Lance's Brother**, also known as **(?),** is an Etrean NPC, he sells various food items at his stand.",
+  "additional_info": "-   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in \"(?)\".\n-   Lance's Brother wears Merchant Robes.\n-   Lance Leshi denies having a brother.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Lance's_Brother.md"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Cathedral of the Interstice",
+  "desc": "The **Cathedral of the Interstice** is a sub-location in [The City of the Drowned](location:the_city_of_the_drowned) located in the [First Layer](location:first_layer). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](entity:shrine_of_courage) and NPCs named [Andrea](entity:andrea) and [Petris](entity:petris), although Petris is technically outside the Cathedral. Inside the Trial also contains the [Voices of the Depths](entity:voices_of_the_depths), God-like beings who are seemingly testing the player on whether they are worthy of escaping [The Depths](location:the_depths).",
+  "additional_info": "-   An old preferred method of entering the Cathedral was climbing [Celtor City's](location:the_city_of_the_drowned) walls, either through using a Glider from a high vantage point, or by stacking Barrels and climbing the wall that way, and then dropping down to the entrance.\n-   The west entrance of the Cathedral, where the elevator is, used to cost 25 Notes as a toll for each use.",
+  "wiki": "Cathedral_of_the_Interstice.md"
+}

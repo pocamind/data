@@ -1,0 +1,11 @@
+{
+  "name": "Cirryn",
+  "aliases": [
+    "The Starset Blade"
+  ],
+  "desc": "Cirryn, the Starset Blade was a hero of [the Hive](faction:the_hive). He defended the Hive and its artifacts from [Etrean](faction:etrea) invaders.\n\nSome times after this, he lost his one. [Remaz](entity:remaz), one of the Hive's lifeweavers, mentioned that there were a lot of stories about Cirryn and his power.\n\nA group of lifeweavers, consisting of Ehkusa, [Ka'al](entity:kaal) and Remaz is entrusted by a hivelord, [Ximac Diri](entity:ximac_diri), with a mission to revive Cirryn to serve the Hive, using their powers.\n\nTheir mission ended in partial success, as Cirryn was revived, but turned against them, going berserk and destroying the Greathive's plaza. Eventually, Cirryn was sealed in the lifeless chamber by Ehkusa and Remaz, with the latter one sacrificing his life in order to lure the rogue Cirryn in the chamber.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "wiki": "Cirryn.md"
+}

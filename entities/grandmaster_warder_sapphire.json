@@ -1,0 +1,12 @@
+{
+  "name": "Grandmaster Warder Sapphire",
+  "aliases": [
+    "Warder Sapphire",
+    "Grandmaster"
+  ],
+  "desc": "Grandmaster Warder Sapphire is a Chrysid NPC.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Grandmaster_Warder_Sapphire.md"
+}

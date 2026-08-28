@@ -1,0 +1,6 @@
+{
+  "name": "Merit Detainment Core",
+  "desc": "The **Merit Detainment Core** is a location in _Deepwoken_. It is a complex prison below [Fort Merit](location:fort_merit) that you can enter without any requirements. It's controlled by [The Central Authority](faction:the_central_authority), containing only the most dangerous people.\n\nThis dungeon is recommended for a party of people preferably Power 20.",
+  "additional_info": "-   After disabling the security system, taunt (spit) is replaced with a cannon whistle used by the Authority guards. This allows the player to utilize the artillery to shoot cannonballs at their cursors.\n-   After defeating [Titus](entity:titus_fulminus_destellus), a special crafting bench can be accessed to create exclusive items such as the Specialist Plate and Reinforced War Helmet.\n-   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.\n-   Fishing in dungeon gives you normal Eastern loot.\n-   The merit detainment core (and the Central Authority as a whole) may be somewhat inspired by the Star Wars franchise, given the similarity with the helmets, and the cell control room.",
+  "wiki": "Merit_Detainment_Core.md"
+}

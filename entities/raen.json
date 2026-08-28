@@ -1,0 +1,11 @@
+{
+  "name": "Raen",
+  "desc": "Raen is a Adret NPC. He is a Knife of Eylis residing within the [Voidheart](location:voidheart).\n\nHe gives a few pointers to new Voidwalkers on what to do for progression.\n\nIf the player chooses the dialogue option \"I see. Can you help me with affording equipment?\" a new dialogue choice will appear for [Rook Rethige](entity:rook_rethige).",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "found_at": [
+    "location:voidheart"
+  ],
+  "wiki": "Raen.md"
+}

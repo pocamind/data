@@ -1,0 +1,12 @@
+{
+  "name": "Seraphina",
+  "aliases": [
+    "Cheruba"
+  ],
+  "desc": "Seraphina is a Capra NPC. They are a vendor who sells starter equipment aimed towards new and early game players.\n\nThey function identically to [Bari](entity:bari).",
+  "additional_info": "-   Seraphina wears the Skeptic Pioneer outfit.",
+  "found_at": [
+    "location:etris_docks"
+  ],
+  "wiki": "Seraphina.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alpha",
+  "speaker": "entity:alpha",
+  "lines": [
+    "So you're the one [Epsi](entity:epsi) mentioned. Well, good work getting that generator online. We owe you one.",
+    "'A Canor always pays their debts'. The radio room on the other side of the base functions as a storage area, you can pick up a rappel system from there. You should be able to use those to maneuver some of the walls we have set up around the Shrine.",
+    "This is a forward operating base for [the Ignition Union](faction:the_ignition_union). We wanted to get down here before those [Divers](faction:the_divers).. This Layer is ruled over by [Ethiron](entity:ethiron_the_maelstroms_eye) and, as you can tell, has constant storms. We think there might be a way to harness these storms as a source of energy.",
+    "They're [Authority](faction:the_central_authority) dogs. Their Citadel in [Markor](location:markor) is pay-rolled by the military, they claim to be 'researchers' but their upper ranks may as well be living weapons. Heavens forbid the Authority get their hands on the tech here.",
+    "Just because you don't see the vision doesn't mean it's crazy. If we could harness the power of these winds, maybe we could outrun the Tides forever on the surface. Mankind could finally come together collectively.",
+    "Thank you... He came in moments ago. Once again, I owe you a favor, friend. Speak to [Delta](entity:delta) on the surface and tell him Alpha sent you.",
+    "What? You're... You're kidding me. That kid?... You mean... *He shields his expression, pinching his brow and taking in a ragged breath.* Gods below. I need some space."
+  ]
+}

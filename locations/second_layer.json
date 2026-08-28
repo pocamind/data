@@ -1,0 +1,11 @@
+{
+  "name": "Second Layer",
+  "aliases": [
+    "The Eternal Gale"
+  ],
+  "desc": "Part of [The Depths](location:the_depths), The Second Layer is a wind-based layer below the depths of [Scyphozia](location:first_layer), housing the Drowned God [Ethiron](entity:ethiron_the_maelstroms_eye), along with his [puppet](entity:scion_of_ethiron). The Shrine is made by Kyrsans, with the City right below it, and thus directly on Ethiron's Resting Chamber.\n\nThe City's library has a distinct code in order to access it, being **1 2 1 2 2 2 1 2 3 1 4 2 3 1**.",
+  "part_of": [
+    "location:the_depths"
+  ],
+  "wiki": "Second_Layer.md"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "The Meat Lord",
+  "desc": "The Meat Lord is an NPC merchant who is also a Random Encounter. He sells various meat dishes and weapons labelled as \"The Meat Lord's Selection.\" He is wearing the Authority Captain Uniform, which he killed members of [The Central Authority](faction:the_central_authority) for, with Grand Pauldrons, Grand Boots, and a dyed version of the Blackleaf Helm. He is the most powerful character in Deepwoken.",
+  "additional_info": "-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines before acting as normal:\n    -   \"Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain.\"\n    -   \"Dress up as a salad and maybe then you'll get a reaction from me.\"\n-   Acting in ways he deems disrespectful will result in him refusing to sell items to you until you find another random event of him or server-hop.\n-   This character exists because of a running joke within the Rogue Lineage community about Dorgan, a meat vendor in Sentinel.\n-   Stated by par that The Meat Lord can \"low diff any Drowned God.\"\n-   Agamatsu asked ragoozer on who would win between Big Hoss or The Meat Lord. ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. (https://www.youtube.com/watch?v=HUvFVu8nt7w)\n-   ragoozer said that Big Hoss gets his McChickens from The Meat Lord.\n    -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.\n-   In one of [Traan Zakshuns](entity:traan_zakshun) shop lines, he mentions purchasing a Seafood Boil from The Meatlord for over an hour and it still not arriving.",
+  "found_at": [
+    "location:the_garden_reservoir",
+    "location:the_hidden_village",
+    "location:meteor_isle",
+    "location:pathfinders_respite",
+    "location:saramaed_summit",
+    "location:songseeker_wilds",
+    "location:the_starswept_valley",
+    "location:summer_isle",
+    "location:the_temple_of_the_forgotten_flame",
+    "location:towerstruck_lands",
+    "location:upper_erisia",
+    "location:the_vipers_jaw"
+  ],
+  "wiki": "The_Meat_Lord.md"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Apprentice Kj",
+  "aliases": [
+    "Kj"
+  ],
+  "desc": "Apprentice Kj is an Etrean NPC. He is a student under [Evengarde Rest](entity:evengarde_rest) at the [Isle of Vigils](location:isle_of_vigils) and the brother of [Vigil Isaac](entity:vigil_isaac).\n\nCompleting his dialogue starts the \"Vigil's Savior\" Quest.\n\nApprentice Kj wears the Cloak of Winds outfit along with a White Deepwoken Cloak.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade"
+  ],
+  "wiki": "Apprentice_Kj.md"
+}

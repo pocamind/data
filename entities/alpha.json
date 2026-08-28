@@ -1,0 +1,15 @@
+{
+  "name": "Alpha",
+  "desc": "Alpha is an old, Lion variant Canor, wearing the Union Initiate outfit. He works for [The Ignition Union](faction:the_ignition_union) in the [Second Layer](location:the_ethironal_shrine), seeming as the leader of the foward operating base for the Ignition Union. Looking at his wrinkles, he is assumed to be 50–59 years old, according to how Aging works.\n\nHe will also task you to rescue [Epsi](entity:epsi), a young Gremor boy lost in the area. Doing this is needed for the Arcwarder Oath, and it also gives you some positive Ignition Union rep. If the Generators are on when talking to him, he will give the Union Hook Talent and the Delver Boots recipe. Note that if you talk to Alpha after getting Epsi killed, he will _not_ offer the necessary dialouge for completing the Arcwarder quest.",
+  "additional_info": "-   If you enter the base without opening the generator, he will say \"You get that generator working?\"\n    -   This is despite the fact that he has never met the player before.\n    -   [Sunway](entity:sunway) also says the same line under this condition.\n    -   This can only be achieved through gliching through the wall, or exploiting.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_frontier_furnace"
+  ],
+  "goals": [
+    "Harness [the Second Layer](location:second_layer)'s storms as an energy source to help mankind outrun [the Tides](event:the_tides)"
+  ],
+  "wiki": "Alpha.md"
+}

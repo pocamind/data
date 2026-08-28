@@ -1,0 +1,14 @@
+{
+  "name": "Alastir",
+  "speaker": "entity:alastir",
+  "lines": [
+    "Ah, another pathfinder, I take it? You'd do well to keep your wits about you. The Duke's minions lurk here in great number.",
+    "[Duke Erisia](entity:duke_ishamon_erisia), the man who rules over this doomed rock of an island. From what I gather, he used to be quite reasonable. And then, of course, we drifted. And so too did his mind drift to fell endeavors.",
+    "As misfortune would have it, yes. Erisia was but one stop on my journey. I was only meant to be here for a day... It just happened to be the day the South fell. I suppose I should count my blessings this isle drifted instead of meeting the fate the others did.",
+    "You'll have to forgive me for the dramatics. He was once famed for his ability to bring life to stone, though there were limits. Best I can tell, he sought a way to remove those limits. Way up above us, in [the temple](location:the_temple_of_the_forgotten_flame) there, they say he found something. They say he tore it out and hauled it back into [his manor](location:duke_erisias_manor). And they say that's when the kidnappings happened.",
+    "Yeah. One by one, the townsfolk went missing. Every time, great big tracks were left in the mud. The kind his stone men leave. There wasn't much we could do about it. Not like we could leave the island, after all.",
+    "I was trying to get here before [Duke Erisia](entity:duke_ishamon_erisia) sent us into the [Voidsea](location:voidsea)... I couldn't let him get away with what he was doing.",
+    "He started killing the inhabitants, using his golems to drag them back to that thing. I tried to stop him, I wanted to...",
+    "[Duke Erisia](entity:duke_ishamon_erisia)... An incredibly powerful man. He could give life to stone with that thing on his hip, though he never explained how. He started acting strange after he found a way past 'God on the Peak'. It's this large creature that watches over the temple on the top of the island, gross thing really.. Somehow he found a way to extract the insides of the temple and brought them back to [his manor](location:duke_erisias_manor). Soon after well.. All of this started happening. You'll have to find the Lord in [his manor](location:duke_erisias_manor) if you want more answers, it's at the other end of the island.. I don't have the strength to face him anymore... Keep bringing me survivors, I'll take care of them."
+  ]
+}

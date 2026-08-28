@@ -1,0 +1,9 @@
+{
+  "name": "Konga The Third",
+  "desc": "Konga The Third is a Vesperian NPC. He is a Justicar who follows the Vanguard Path.\n\nAs the great grandson of [Emiya Konga](entity:emiya_konga), Konga inherited the Slider Style, as well as the Karita Plating.",
+  "additional_info": "-   Konga's line about being mistaken for a \"Matsu\" is a reference to developer and YouTuber Agamatsu. Him being called \"Gusto\" is in reference to a community meme where a user mistakenly calls him \"Amagusto\". This is a nod to the fact Konga's mask makes him resemble Agamatsu's profile picture.\n-   This character, as well as his great grandfather [Emiya Konga](entity:emiya_konga), Konga's Clutch Ring and Konga's Parka, is primarily a reference to bcongeboy5, a tester during _Deepwoken'_s development who was notorious for spamming sliding movements and attacks.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Konga_The_Third.md"
+}

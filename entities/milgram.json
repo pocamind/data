@@ -1,0 +1,12 @@
+{
+  "name": "Milgram",
+  "desc": "Milgram is an Adret NPC. He is a part of the Eastern garrison's Inquisitor division, having the rank of Handler.\n\nHe wears a Navy Inquisitor's Duster, Black Headband, and Leather Boots. His Outfit is Inquisition Light.",
+  "additional_info": "-   His Aspect variant is Hallowtide.\n-   While [High Inquisitor Merey](entity:high_inquisitor_merey) lacks a floral codename due to her rank, it's unclear why Milgram doesn't have one either. It's possible the specific cutoff rank for the alias is Handler, as [Inquisitor Lotus](entity:inquisitor_lotus) indicates they were ranked beneath Handler.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Milgram.md"
+}

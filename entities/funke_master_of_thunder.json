@@ -1,0 +1,10 @@
+{
+  "name": "Funke, Master of Thunder",
+  "desc": "Funke is a Canor NPC who acts as both progression for the Silentheart Oath and the Thundercall trainer.\n\nIn order to obtain Thundercall, you must bring 5 Spark Glands to Funke (2 if you have already obtained Thundercall on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.",
+  "additional_info": "-   Both they and [Nell](entity:nell_master_of_frost) wear the Black Diver outfit. According to Arch\\_Mage, they are most likely Black Divers.\n    -   If they are indeed Divers, this would make them and Nell the oldest, physically, known Divers, as they are the only Divers with wrinkles, excluding Coldheart Fortinbras.\n-   Funke is the German word for \"spark\".\n-   They did not wield the Stormseye, after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.\n    -   Arch\\_Mage stated the reason was rifles not being coded for NPCs, but this was incorrect.",
+  "member_of": [
+    "faction:the_divers",
+    "faction:the_summer_company"
+  ],
+  "wiki": "Funke,_Master_of_Thunder.md"
+}

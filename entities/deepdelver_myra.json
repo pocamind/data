@@ -1,0 +1,15 @@
+{
+  "name": "Deepdelver Myra",
+  "aliases": [
+    "Myra"
+  ],
+  "desc": "Deepdelver Myra is a Tiran NPC. She is a Deepdelver of [The Ignition Union](faction:the_ignition_union).\n\nMyra has an upcoming scheduled expedition into the [Second Layer](location:second_layer), but is rather hesitant about the affair, as the previous expedition had not gone as planned.",
+  "additional_info": "-   Deepdelver Myra has a unique face and pose.\n-   Myra's hair can be found here: https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_chariots_spire"
+  ],
+  "wiki": "Deepdelver_Myra.md"
+}

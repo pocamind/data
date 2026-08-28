@@ -1,0 +1,12 @@
+{
+  "name": "Vtreshi",
+  "desc": "Vtreshi is an Etrean NPC. She is an apprentice Diver who was a member of an expedition to the [Second Layer](location:second_layer).\n\nFollowing her desertion from Chaser's expedition team to [the Ignition Union](faction:the_ignition_union) in hopes of escaping the Second Layer, she was ultimately turned away and left to rot in the [Ethironal Shrine Sanctuary](location:ethironal_shrine_sanctuary), unable to receive a union hook for herself.",
+  "additional_info": "-   Racial variant of Vtreshi is File.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:ethironal_shrine_sanctuary"
+  ],
+  "wiki": "Vtreshi.md"
+}

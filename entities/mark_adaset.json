@@ -1,0 +1,15 @@
+{
+  "name": "Mark Adaset",
+  "aliases": [
+    "Alina Sokolof"
+  ],
+  "desc": "Mark Adaset is an Adret NPC. He is the Quartermaster of [Castle Light](location:castle_light).\n\nSimilarly to [Nerin](entity:nerin), he is able to replace the Deepbound flaw for a flaw/flaws of your liking.\n\nHe wears the Diver Journeyman Robes.",
+  "additional_info": "-   Prior to Verse 2, he was located where [Klaris Llfiend, Mother of Lights](entity:klaris_llfiend_mother_of_lights) is located now, hence the dialogue referencing him being forced out by her.\n-   When asking him \"Isn't this place dangerous?\" he will respond differently depending on the player's Power.\n-   It isn't recommended to reroll the Deepbound Flaw due to its unobtainability and providing zero downsides to your character.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light"
+  ],
+  "wiki": "Mark_Adaset.md"
+}

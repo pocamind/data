@@ -1,0 +1,10 @@
+{
+  "name": "Barber",
+  "desc": "The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for 100, change the model of your Resonance with 1, or remove the dye from one of your dyed items for free. Players with the Oath: Fadetrimmer Oath can use abilities similar to them.",
+  "additional_info": "-   The Barber's own hair ID is 4735346886.\n    -   This hair id is shared with [Kennith](entity:kennith) and [Ministry Necromancer](entity:ministry_necromancer).\n-   Strangely, all of the overworld barbers, excluding the one in the guild base, are completely identical in appearance. It is unknown what this implies about the barbers and the Fadetrimmer Oath as a whole.\n-   The Barber is the only NPC that can customize your character in any meaningful way.\n-   Around the beginning of their addition, there were bugs that allowed certain aspects (Celtor, Adret and Khan) to have otherwise inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the Mudwoken update.\n    -   Even though it was completely cosmetic and lasted only for the time you were in the server (and being generally funny to see an Adret walking around with the Mudskipper face), it was quickly patched in a shadow-update a day later.\n-   Near the beginning, he also couldn't change the face/mask of a Vesperian, saying \"Uh, you kinda got a mask on, bud.\"",
+  "found_at": [
+    "location:port_merit",
+    "location:fort_merit"
+  ],
+  "wiki": "Barber.md"
+}

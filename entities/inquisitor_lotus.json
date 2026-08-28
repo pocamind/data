@@ -1,0 +1,15 @@
+{
+  "name": "Inquisitor Lotus",
+  "aliases": [
+    "Lotus"
+  ],
+  "desc": "The individual known as Lotus was an Authority Inquisitor and Thundercaller assigned to [Warden Jericho](entity:warden_jericho)'s forces in the Eastern Luminant. Lotus partook in Operation 'Puppet Master', which saught to obtain intel on [The Lord Regent](entity:the_lord_regent). Lotus initially attempted to obtain information from the civilian population, which proved ineffective. They later organized the kidnapping of [an Etrean guard](entity:aster_leshi), replacing him with an Authority colleague, and interrogated them using Thundercall shocks to the guard's Hippocampus. As the guards responses differed if the memory of their initial responses were erased, Lotus suspected foul play and thus increased their voltage output, successfully breaking the mind veil that had been applied to the guard but also killing him and giving Lotus a vision of the Lord Regent, who had been alerted to their presence. Lotus later noted being plagued by whispers, seemingly from their, now MIA, colleague, and a feeling as if his mind was being probed by hands. Lotus was able to ensure the report reached [Warden Jericho](entity:warden_jericho) but either was killed, committed suicide or disappeared before they could return to base.",
+  "additional_info": "-   Lotus' codename refers to the _Nelumbo nucifera_, better known as the lotus flower.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "goals": [
+    "Obtain intel on [The Lord Regent](entity:the_lord_regent) for [The Central Authority](faction:the_central_authority)"
+  ],
+  "wiki": "Inquisitor_Lotus.md"
+}

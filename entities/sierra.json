@@ -1,0 +1,11 @@
+{
+  "name": "Sierra",
+  "desc": "Sierra is a Celtor NPC that's part of [The Summer Company](faction:the_summer_company). They're on a team mission with [The Guy](entity:the_guy), [Mercille](entity:mercille) and [Prentis](entity:prentis).\n\nThey share a common dislike for The Guy with Prentis and Mercille.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:bluster_rift"
+  ],
+  "wiki": "Sierra.md"
+}

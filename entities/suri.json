@@ -1,0 +1,15 @@
+{
+  "name": "Suri",
+  "aliases": [
+    "Iris"
+  ],
+  "desc": "Suri is a Vesperian NPC.\n\nTalking to him will start the Grave Tending quest where he asks you to bring a flower to his [brother's grave](entity:well_kept_gravestone).",
+  "additional_info": "-   When damaging a flower and receiving a new one, or when changing luminants with the flower, the new flower will NOT be destroyed by any sources of damage. These interactions can be abused to get a durable flower when doing the quest.\n-   His quest is likely a reference to Hollow Knight, which has a similar quest in which you are tasked to deliver a flower to a grave and lose it if you take damage.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Suri.md"
+}

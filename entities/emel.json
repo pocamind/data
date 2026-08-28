@@ -1,0 +1,16 @@
+{
+  "name": "Emel",
+  "aliases": [
+    "Imel",
+    "Rimil"
+  ],
+  "desc": "Emel is an Adret NPC who is a member of [the Ministry](faction:the_ministry). They can be found leaning on a small islet located on the outskirts of the port of [Summer Isle](location:summer_isle).\n\nThey will give you a mission to kill an enemy in the [Songseeker Wilds](location:songseeker_wilds); you must grip a player in the Songseeker Wilds and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.",
+  "additional_info": "-   Emel's racial variant appears to be Boulder.\n-   Due to the similarity in name and Aspect variant, Emel may be a sibling of [Imel](entity:emel).",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Emel.md"
+}

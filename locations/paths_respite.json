@@ -1,0 +1,6 @@
+{
+  "name": "Path's Respite",
+  "desc": "Located in Lower Erisia consisting of 5 buildings, a job board, next to a cave, with another room, an item locker and a way behind the mountain. The place used to be overrun by bandits, but now is only occupied by an [Antiques Smuggler](entity:antiques_smuggler) who will buy items for half the price of a standard antiquarian. Climbing above, you will find the [Temple of the Forgotten Flame](location:the_temple_of_the_forgotten_flame)",
+  "additional_info": "-   This location used to be called the \"Bandit Camp\" by the community, as it had multiple set spawns for bandit captains",
+  "wiki": "Path's_Respite.md"
+}

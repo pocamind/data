@@ -1,0 +1,14 @@
+{
+  "name": "Gudrin",
+  "aliases": [
+    "Trafalgar"
+  ],
+  "desc": "Gudrin is a Celtor NPC. They accept a bribe for [The Divers](faction:the_divers).\n\nThe Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:first_layer"
+  ],
+  "wiki": "Gudrin.md"
+}

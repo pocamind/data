@@ -1,0 +1,13 @@
+{
+  "name": "Etrean Guardmaster",
+  "speaker": "entity:etrean_guardmaster",
+  "lines": [
+    "Go save our people... They're most likely in the cells at the bottom of the fort...",
+    "Great work! Here, take one of these chests.",
+    "I'm afraid we can only fit so many on this boat... You'll have to come back later, please keep them safe until then. [x] minutes remain.",
+    "That would help us a lot... hold it out for me, let me take a look at this.",
+    "...I see. We have a lot of work ahead of us. Thank you, friend. Please, take this as a reward.",
+    "Huh? Hold out the note for me, let me see it. You said a Shipping Schedule.",
+    "You did a good job making it out of there in one piece. Let me fix those cuffs for you."
+  ]
+}

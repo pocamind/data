@@ -1,0 +1,11 @@
+{
+  "name": "Elder Sasha",
+  "aliases": [
+    "Sasha"
+  ],
+  "desc": "Elder Sasha is an Adret NPC. She is a Justicar.\n\nAfter escaping a Voidwalker by utilizing a [Hobo](entity:hobo)'s stash, she shared the story with her fellows at [Alsin's Landing](location:alsins_landing).",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Elder_Sasha.md"
+}

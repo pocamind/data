@@ -1,0 +1,9 @@
+{
+  "name": "Sentinel",
+  "desc": "Sentinel is an Etrean NPC. They appear to be guarding the house where [Khan](entity:khan_npc) is in.",
+  "additional_info": "-   Talking to Sentinel while they have already moved to the side and repeating their dialogue will cause them to repeat their animation, teleporting back into the door frame and moving to the side.",
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Sentinel.md"
+}

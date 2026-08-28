@@ -1,0 +1,16 @@
+{
+  "name": "Etrean Guardmaster",
+  "desc": "Etrean Guardsmaster is an Etrean NPC. The player is able to break off their handcuffs if they have been sent to execution by an Authority NPC or an Authority Ensign.",
+  "additional_info": "-   If you talk to them when one minute remains, it reads \"1 minutes remain.\"\n    -   If you talk to them when less than a minute remains, no remaining time is displayed.\n-   The Shipping Schedule dialogue takes priority over the Handcuffs dialogue, and because you cannot hold any items while handcuffed, this softlocks you.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:port_merit",
+    "location:fort_merit"
+  ],
+  "goals": [
+    "Rescue the [Etrean Guardsman Hostages](entity:etrean_guardsman_hostage) held in [Fort Merit](location:fort_merit)'s cells"
+  ],
+  "wiki": "Etrean_Guardmaster.md"
+}

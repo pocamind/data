@@ -1,0 +1,6 @@
+{
+  "name": "The Starkindred Church",
+  "desc": "The Starkindred Church is a powerful and malevolent cult, presumably originating from the [Western Luminant](location:luminants). They are practitioners of the Starkindred Faith and their power stems from drinking the holy ichor of the Celestials and feasting on their flesh. Those with high enough ranking in the cult to do so are called Starkindreds.\n\nAs powerful as the Oath may seem, if the Oathtaker's faith falters - the ichor rejects their body and they turn into a Maljuror, a wretched beast, wandering the world, seeking salvation.\n\n[The Hundred Legions](faction:the_hundred_legions) and [Maestro Evengarde Rest](entity:evengarde_rest) once went on an excursion against the Starkindred Church, defeating a Cardinal, and coming back victorious with the Pale Briar as a trophy, which afterwards fell into the hands of [Maestro](entity:evengarde_rest) and can be obtained by the player by defeating him.\n\nIn the [Eastern Luminant](location:luminants), their only base is the [Derelict Highchurch](location:derelict_highchurch) above the [Ancient Rotlands](location:ancient_rotlands).",
+  "additional_info": "-   The design of the Celestial in the basement of the [Derelict Highchurch](location:derelict_highchurch) was highly inspired by Lilith from Evangelion.",
+  "wiki": "The_Starkindred_Church.md"
+}

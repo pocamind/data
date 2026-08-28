@@ -1,0 +1,9 @@
+{
+  "name": "Naerotiv",
+  "desc": "Naerotiv is a Kyrsan NPC.\n\nHe is located to the right of the entrance to the [second floor](location:new_kyrsa) of the [Second Layer](location:second_layer). He has a brother named [Frosviernr Joraelnaero](entity:frosviernr_joraelnaero) further into the city, who made and gives the player the Kyrswynter. Interacting with Naerotiv is needed as a step to obtain the aforementioned Kyrswynter.\n\nNaerotiv tells you how the [City of New Kyrsa](location:new_kyrsa) came to be today, about how the Kyrsans once lived, and where they built a shrine over [Ethiron's Scion](entity:scion_of_ethiron) to ensure it remains asleep, which eventually led to the City being developed. He mentions of how they used a ritual, namely the The Ninefold Blessings of Marrow, to ensure the Scion remains asleep. When the Ninth blessing was left incomplete as a result of the Kyrsans attempting to harness the puppet's power.\n\nOnce the Scion was awoken, it released a sound, a Tone of Song, which deafened everyone around the City. A sound that turned all of the Kyrsans nearby into puppets, just like itself.\n\nNaerotiv urges the Pathfinder to set his kind free by completing the ritual and sealing the [Scion of Ethiron](entity:scion_of_ethiron) away for good. If not, the Gale present in the [Second Layer](location:second_layer) would seep through and eventually engulf the Surface as well.",
+  "additional_info": "-   He is located right next to where a possible Medallion chest would spawn.\n-   [Alpha](entity:alpha) mentions of how [The Ignition Union](faction:the_ignition_union) is trying to use the Gale to harness infinite power as well, same as The Scholars.\n    -   But that idea was the very thing that led to the Kyrsan's downfall.\n-   His name, \"Naerotiv\" is a play on the word \"narrative\".\n\n1.  ↑ [Frosviernr Joraelnaero](entity:frosviernr_joraelnaero)",
+  "found_at": [
+    "location:kyrsan_wilds"
+  ],
+  "wiki": "Naerotiv.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Severin Smolkin",
+  "aliases": [
+    "Gunsmith"
+  ],
+  "desc": "Severin Smolkin was a gunsmith of [the Summer Company](faction:the_summer_company). In 1062, Smolkin produced Our Fortress (Of Smoke And Steel).",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "wiki": "Severin_Smolkin.md"
+}

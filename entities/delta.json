@@ -1,0 +1,11 @@
+{
+  "name": "Delta",
+  "desc": "Delta is Canor NPC. He works for [The Ignition Union](faction:the_ignition_union).\n\nDelta is responsible for handing out Arc Suits, though he doesn't entirely understand the mechanics behind their function. Still, he's aware of the basics of Oaths and doesn't appreciate damaging the suits.\n\nThe Pathfinder is required to speak with him to obtain and progress the Arcwarder Oath after they rescue [Epsi](entity:epsi) and speak with [Alpha](entity:alpha).\n\nHe wears the Union Initiate Outfit.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Delta.md"
+}

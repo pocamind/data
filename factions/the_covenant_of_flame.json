@@ -1,0 +1,7 @@
+{
+  "name": "The Covenant of Flame",
+  "official": false,
+  "desc": "The Covenant of Flame are worshippers, Flamekeepers and Priests that don the Flame Worshipper Armor. They follow the teachings of [Amorus Pleeksty](entity:amorus_pleeksty), the pioneer of Flamecharm. They do not have much power around the world, as they are mostly found in the Tiran homelands in the [Western Luminant](location:luminants) and potentially Layer 3 of the Depths.\n\nThe worship of Flamecharm is centered on a dichotomy between the Flame and [The Depths](location:the_depths), with the _Flame Within_ representing the soul and the Depths viewed as the ultimate threat to mankind.\n\nThe leader is [Amorus Pleeksty](entity:amorus_pleeksty), a Tiran man, who is a figure known as a Deepwoken. He would travel to the 3rd Layer of the Depths, and come across [Korilfiend's](entity:korilfiend_the_infernos_provenance) garden, where he consumed a flower imbued with a fragment of the Drowned God. He was gifted the Pleeksty's Inferno before being passed on to [Aska](entity:aska) for safekeeping.",
+  "additional_info": "-   [Aska](entity:aska) is currently the only disciple of [Amorus Pleeksty](entity:amorus_pleeksty), that doesn't wear Flame Worshipper Armor; wearing orange-dyed Unsung Armor instead.\n-   Many talents from Flamecharm are based off of the Covenant's teachings; some of which even directly referring to Pleeksty",
+  "wiki": "The_Covenant_of_Flame.md"
+}

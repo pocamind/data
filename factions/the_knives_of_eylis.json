@@ -1,0 +1,9 @@
+{
+  "name": "The Knives of Eylis",
+  "aliases": [
+    "Silver Whalers"
+  ],
+  "desc": "**The Knives of Eylis**, also known as the **Silver Whalers**, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](faction:the_central_authority) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](location:voidheart), a mysterious location said to exist within the [Voidsea](location:voidsea). They are also said to live in the sewers in the Central Luminant.\n\nThe Voidwalker Origin is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.\n\nThe Voidheart itself doesn't actually exist, it's actually a collective dream that the Knives of Eylis have while sleeping at night. The Voidheart heavily resembles the Trial of One but there's no information in-game that talks about this. It's speculated that the \"deal\" that the Voidmother and Eylis made granted the players the ability to travel to their bounties using the Grasp of Eylis and the Voideye.",
+  "additional_info": "-   They are one of few factions with an Oath tied to them, the others being [The Ministry](faction:the_ministry) (Contractor), [The Central Authority](faction:the_central_authority) (Chainwarden), [The Ignition Union](faction:the_ignition_union) (Arcwarder) and [The Hundred Legions](faction:the_hundred_legions) (Blightsurger).\n-   The faction's name could be a reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as Whalers.\n-   You need to help them in 5-6 events to be neutral with them (4-5 if you're an Adret).",
+  "wiki": "The_Knives_of_Eylis.md"
+}

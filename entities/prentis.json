@@ -1,0 +1,11 @@
+{
+  "name": "Prentis",
+  "desc": "Prentis is a Khan NPC that's part of [The Summer Company](faction:the_summer_company). They're on a team mission with [The Guy](entity:the_guy), [Mercille](entity:mercille) and [Sierra](entity:sierra).\n\nThey share a common dislike for The Guy with Sierra and Mercille.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:bluster_rift"
+  ],
+  "wiki": "Prentis.md"
+}

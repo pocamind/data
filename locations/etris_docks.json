@@ -1,0 +1,10 @@
+{
+  "name": "Etris Docks",
+  "desc": "Etris Docks are docks in Etris that players can dock their boats in among other things.",
+  "additional_info": "-   Although some food can be seen nearby the Fishing shop, they can't be taken nor bought and merely serve as decoration.",
+  "part_of": [
+    "location:etris",
+    "faction:etrea"
+  ],
+  "wiki": "Etris_Docks.md"
+}

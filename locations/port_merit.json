@@ -1,0 +1,8 @@
+{
+  "name": "Port Merit",
+  "desc": "Port Merit is the port leading to [Fort Merit](location:fort_merit). The Port is filled with a multitude of buildings such as a bank, Inn, and Antiquarian.",
+  "part_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Port_Merit.md"
+}

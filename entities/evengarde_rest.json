@@ -1,0 +1,22 @@
+{
+  "name": "Evengarde Rest",
+  "aliases": [
+    "Maestro",
+    "Maestro Evengarde Rest"
+  ],
+  "desc": "Evengarde Rest is the current Maestro of [the Vigils](faction:the_vigils), having succeeded [Maestro Alkhurst Legato](entity:evengarde_rest) and is highly respected by all of them. He resides within the [Isle of Vigils](location:isle_of_vigils) and is found in their dojo, watching people train. An intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. The Pathfinder can speak to rest if they save a Vigil swordsman named [Isaac](entity:vigil_isaac). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.\n\nAs a youth during the Etrean Civil War, Evengarde was a known prodigy and departed for the Western Luminant to train with [The Hundred Legions](faction:the_hundred_legions). [Dravik](entity:dravik_the_rat_king) believed that Evengarde was fully capable of defeating [Etrea](faction:etrea)'s [Lord Regent](entity:the_lord_regent) at the time.\n\nRest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who \"display some level of competence.\" If you lack 75 points in your weapon type's attribute, he will not uncap it\n\nAfter you commit various deeds for the good of Etrea, Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](faction:the_ministry). However, he expresses dissatisfaction at his inability to deter [The Central Authority](faction:the_central_authority) should Zi'eer be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's soulless war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.",
+  "additional_info": "-   Kelsius is highly grateful towards Rest for taking him in, in spite of his complicated past as a war criminal.\n-   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.\n    -   Galadriel is likely named after Galadriel from _Lord of the Rings_.\n-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: \"Give me a break.\" \"Foolish.\" \"Take that stupid thing off.\"\n-   Rest is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.\n-   His hair ID is : (https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).\n    -   Evengarde Rest and [Aska](entity:aska) share the same hair id\n-   The coat Rest is wearing is a black Deepwoken Cloak with bright white dye to obtain the grey.\n    -   A white Deepwoken Cloak may be dyed grey to obtain the same effect.\n-   After starting the teleport to the fight there is another dialogue box with Evengarde Rest saying \"Let's see how your skills have improved, eh?\"\n-   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.\n    -   The Tempest Eye is only actually capable of sensing movement rather than providing strength-based utility, so his usage of it is solely theatrical.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "leads": [
+    "faction:the_vigils"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade"
+  ],
+  "goals": [
+    "Fell [the evil](faction:the_ministry) that controls [Etrea](faction:etrea)"
+  ],
+  "wiki": "Evengarde_Rest.md"
+}

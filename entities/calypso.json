@@ -1,0 +1,12 @@
+{
+  "name": "Calypso",
+  "desc": "Calypso is an Adret NPC. They are a member of [The Ignition Union](faction:the_ignition_union).",
+  "additional_info": "-   Calypso's story, with them choosing a new name for themself to better fit their identity while not being accepted by their family, is likely an allegory for being transgender.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Calypso.md"
+}

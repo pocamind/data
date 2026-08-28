@@ -1,0 +1,9 @@
+{
+  "name": "Eiris",
+  "desc": "Eiris is an Etrean NPC. Eiris became a member of [The Knives of Eylis](faction:the_knives_of_eylis) in order to acquire money to keep an unknown individual safe. However, he soon found himself unable to cope with the murderous lifestyle and appears to have developed perpetrator trauma as a result.\n\nThe Pathfinder must speak to him in order to unlock the Voidwalker Origin. After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find him resting against the mast under the dock of the non-burning boat (which flies red flags) during the Knives of Eylis vs Kingdom of Etrea random event.",
+  "additional_info": "-   His aspect variant is File.",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "wiki": "Eiris.md"
+}

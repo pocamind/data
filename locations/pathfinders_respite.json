@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder's Respite",
+  "desc": "Pathfinder's Respite is a small den with a spot of flowers in the middle. Resting on one of the sides is an NPC named [Alastir](entity:alastir). Completing his dialogue will give you access to bringing him hostages and a Glider schematic. [Ivory](entity:ivory), the Aerial Assault questgiver used to reside here, as the ability is now innate.",
+  "additional_info": "-   There will be wooden planks blocking the entrance. Only some mantras can break it (Strong Left, Fire Blade, Lightning Beam, Shoulder Bash, etc)\n-   [Ivory](entity:ivory), the Aerial Assault questgiver used to reside here, and was removed upon the talent being innate.\n-   Despite being in Lower Erisia, [Upper Erisia](location:upper_erisia) events can still spawn here.\n-   Artifacts spawn can also spawn here.\n-   [The Meat Lord](entity:the_meat_lord) can spawn here.",
+  "wiki": "Pathfinder's_Respite.md"
+}

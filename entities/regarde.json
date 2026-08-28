@@ -1,0 +1,8 @@
+{
+  "name": "Regarde",
+  "desc": "Regarde is a Vesperian NPC. Interacting with them sends you to the [Temple Sparring Hall](location:temple_sparring_hall_dungeon) and initiates Training Mode. They are the Eastern counterpart of the [Instructor](entity:das) at the Isle of Vigils. They wear the unobtainable Hive Adjudicator outfit.",
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Regarde.md"
+}

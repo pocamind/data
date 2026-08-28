@@ -1,0 +1,11 @@
+{
+  "name": "Gild",
+  "desc": "Gild is a Celtor NPC. They are an older fellow who has been stuck in [The City of the Drowned](location:the_city_of_the_drowned) since it sank.\n\nThey wear Merchant Robes.",
+  "member_of": [
+    "faction:lost_celtor"
+  ],
+  "found_at": [
+    "location:varicosa_district"
+  ],
+  "wiki": "Gild.md"
+}

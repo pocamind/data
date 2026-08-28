@@ -1,0 +1,15 @@
+{
+  "name": "Graha",
+  "aliases": [
+    "Stewart"
+  ],
+  "desc": "Graha is a Vesperian NPC. They are a [Diver](faction:the_divers).",
+  "additional_info": "-   Graha's racial variant appears to be Besague.\n-   Graha mentions how the stove next to them is the only way to cook anything in the [First Layer](location:first_layer). However, this is not true as there is also a stove in [The Chariot's Spire](location:the_chariots_spire), which they may not know about.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light"
+  ],
+  "wiki": "Graha.md"
+}

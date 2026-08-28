@@ -1,0 +1,11 @@
+{
+  "name": "Orion",
+  "desc": "Orion is a Celtor NPC. They task The Pathfinder with killing \"[Summer Isle](location:summer_isle) Goons\", specifically being the Summer Goons in the Boiler Room.\n\nThey will not tell you that you got the Origin if you are hive-kin or Khan, you will still obtain the Origin though.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Orion.md"
+}

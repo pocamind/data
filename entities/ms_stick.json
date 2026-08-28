@@ -1,0 +1,12 @@
+{
+  "name": "Ms Stick",
+  "aliases": [
+    "Stick"
+  ],
+  "desc": "Ms Stick is a Chrysid NPC. They are a worker at Lance's Food.\n\nStick flips Mushroom Omelettes that are sold for 15.",
+  "additional_info": "-   Ms Stick was added in the February 16th, 2026 update, which removed [Mystics](entity:mystic) due to their functions being obsolete with the new foretelling mechanic. This NPC is meant to poke fun at how Mystics are now \"forced to seek legitimate employment\".\n-   Stick's position as a cook may also be a nod to the term \"flipping burgers\" or \"putting the fries in the bag,\" which means resorting to entry level, minimum wage jobs due to suddenly being rendered unemployed.\n-   Stick's name is also a reference to her former job as \"Ms Stick\" is pronounced like \"Mystic.\"\n-   Aside from their Aspect, Ms Stick is not based on any of the previous Mystics.",
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Ms_Stick.md"
+}

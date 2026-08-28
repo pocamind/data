@@ -1,0 +1,12 @@
+{
+  "name": "Aeroaseluniris Oricalum Forentus",
+  "aliases": [
+    "Aero"
+  ],
+  "desc": "Aeroaseluniris Oricalum Forentus is a Kyrsan NPC. Aero greets the player when they first enter the town of [Firfire](location:firfire), giving insight on how to get to [Chaser](entity:chaser_scholar_of_the_crimson_contract).",
+  "additional_info": "-   The \"wrong name\" the player can call Aero is randomly generated and is per account. It will change his name accordingly when speaking to him.\n-   Oricalum may derive from Orichalcum, a legendary precious metal described by Plato that is heavily associated with the lost city of Atlantis.",
+  "found_at": [
+    "location:firfire"
+  ],
+  "wiki": "Aeroaseluniris_Oricalum_Forentus.md"
+}

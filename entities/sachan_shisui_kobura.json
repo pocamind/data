@@ -1,0 +1,21 @@
+{
+  "name": "Sachan Shisui Kobura",
+  "aliases": [
+    "Shisui Kobura"
+  ],
+  "desc": "Sachan Shisui Kobura is an Etrean NPC. She is the head of the Kobura Clan.\n\nIn an argument with the three other Sachans in [The Golden Rat](location:the_golden_rat), she held that the [Etrean Royalists](faction:etrean_royalists) needed to seek powerful allies to make the next move, namely [The Central Authority](faction:the_central_authority), and proposed to be the head of such an alliance. Shisui is often described as ambitious and selfish.",
+  "additional_info": "-   Roblox clothing: Shirt • Pants",
+  "member_of": [
+    "faction:etrean_royalists"
+  ],
+  "leads": [
+    "faction:etrean_royalists"
+  ],
+  "found_at": [
+    "location:the_indigo_citadel"
+  ],
+  "goals": [
+    "Broker an alliance between Clan Kobura and [The Central Authority](faction:the_central_authority), with herself at its head"
+  ],
+  "wiki": "Sachan_Shisui_Kobura.md"
+}

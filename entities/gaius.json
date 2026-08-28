@@ -1,0 +1,11 @@
+{
+  "name": "Gaius",
+  "desc": "Gaius is a NPC that is a part of [The Hundred Legions](faction:the_hundred_legions), belonging to the 11th Scouting Legion. He's staying with his group composed of [Atra](entity:atra), Lars, [Caitus](entity:caitus) and [Amara](entity:amara) and rants about how he has the most potential in all of the [Legion](faction:the_hundred_legions) and shouldn't be stationed in the Etrean Luminant.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:the_vipers_jaw"
+  ],
+  "wiki": "Gaius.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "The Beard",
+  "desc": "The Beard is a Canor NPC. He is the barkeep for the Golden Warriors.\n\nHe is known as The Beard, despite having a goatee, and not a beard.",
+  "found_at": [
+    "location:the_golden_rat"
+  ],
+  "wiki": "The_Beard.md"
+}

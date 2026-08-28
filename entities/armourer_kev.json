@@ -1,0 +1,14 @@
+{
+  "name": "Armourer Kev",
+  "aliases": [
+    "Kev"
+  ],
+  "desc": "Armourer Kev is an Adret NPC. He is the armorer for [The Central Authority](faction:the_central_authority)'s garrison in the [Eastern Luminant](location:luminants).\n\nKev sells a variety of Weapons related to the faction that are locked behind the Authority Ensign Origin.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Armourer_Kev.md"
+}

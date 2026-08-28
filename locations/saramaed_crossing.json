@@ -1,0 +1,5 @@
+{
+  "name": "Saramaed Crossing",
+  "desc": "The Saramaed Crossing is a giant, broken passage, located between the [Miner's Landing](location:miners_landing) and the [Starfield Veldt](location:starfield_veldt). The passage has a number of static Brainsucker spawns, and a random encounter with 2 Summer Company Guards fighting a Mechalodaunt.\n\nInside a tower on the left side at the end of the bridge can be found [Adar, Master of Metal](entity:adar_master_of_metal), who serves as both an Ironsing trainer and a part of Silentheart progression.\n\nThe player will have to use the glider in order to get from the end of the passage to the [Starfield Veldt](location:starfield_veldt).",
+  "wiki": "Saramaed_Crossing.md"
+}

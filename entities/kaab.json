@@ -1,0 +1,12 @@
+{
+  "name": "Kaab",
+  "desc": "Kaab is a Vesperian NPC. They are a Lifeweaver and [Shipwright](entity:shipwright) for [the Hive](faction:the_hive).\n\nThey will only allow you to speak to them until you have reached Ally reputation with [The Hive](faction:the_hive).",
+  "additional_info": "-   Kaab mentions being able to modify your ship with Lifeweave, though this is not actually possible in game.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Kaab.md"
+}

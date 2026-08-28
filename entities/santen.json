@@ -1,0 +1,11 @@
+{
+  "name": "Santen",
+  "desc": "Santen is a Ganymede NPC. Santen is the cartographer for [The Central Authority](faction:the_central_authority)'s Eastern garrison.\n\nSanten was trained by her parents in the Citadel of Markor to make maps since she \"could hold a pen.\"\n\nShe appears to be aged shown by the wrinkles around her eyes.\n\nShe wears a Black Deepwoken Cloak, the Seamstress's Attire outfit, a Brigand's Bicorn, and a Pathfinder's Backpack.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Santen.md"
+}

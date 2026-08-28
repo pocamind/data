@@ -1,0 +1,16 @@
+{
+  "name": "Astra",
+  "aliases": [
+    "The Armorer",
+    "Estrella"
+  ],
+  "desc": "Astra is an Etrean NPC. They are the clerk at the weapons shop in [Etris](location:etris). While weapons can be found and purchased around the shop, they sell them directly. They do not sell _all_ of the weapons found around the shop, however.",
+  "additional_info": "-   For a brief period, Astra's name was changed to Armorer before being renamed back to Astra.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Astra.md"
+}

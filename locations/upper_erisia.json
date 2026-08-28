@@ -1,0 +1,9 @@
+{
+  "name": "Upper Erisia",
+  "desc": "Upper Erisia is home to many sub-locations and is home to a variety of NPCs and Monsters. Like its name suggests, it is the upper region of Erisia. Unlike its [lower](location:lower_erisia) counterpart, Upper Erisia is more suitable for moderate level and moderately experienced players. (Level recommendation: 7–20) However, it has a wide variety of locations for people of all levels to farm in.",
+  "additional_info": "-   Connected to [Lower Erisia](location:lower_erisia) by the [Burning Stone Gardens](location:burning_stone_gardens).\n-   Not recommended to grind here after level 12, as the XP is minimal and the loot is mediocre.",
+  "part_of": [
+    "location:erisia"
+  ],
+  "wiki": "Upper_Erisia.md"
+}

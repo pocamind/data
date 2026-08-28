@@ -1,0 +1,5 @@
+{
+  "name": "Open Sea",
+  "desc": "Not much is known about this location yet other than containing the Island for Battle Royale. This place also doesn't spawn mobs. Its used in dungeons to make sure that mobs don't spawn outside of said dungeons such as [Trial of One](location:trial_of_one), [Duke's Manor](location:duke_erisias_manor), [Layer 2](location:second_layer), [Temple Sparring Hall](location:temple_sparring_hall_dungeon), [Carnival of Hearts](location:carnival_of_hearts), and [the Diluvian Mechanism](location:the_diluvian_mechanism). It seems to be present in most instanced locations. It can be inferred that this is the area between luminants, and the sea that the Petra’s Dawn sailed. According to some sources its possible to reach if you sail past far into the [Voidsea](location:voidsea). (probably in the same location as the old [Voidheart](location:voidheart).) Every different server you go to will probably have a defaulted Open Sea to stop mobs from spawning in odd / outer areas of designated areas.",
+  "wiki": "Open_Sea.md"
+}

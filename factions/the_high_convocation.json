@@ -1,0 +1,5 @@
+{
+  "name": "The High Convocation",
+  "desc": "**The High Convocation** is the council of [the Citadel of Markor](faction:the_citadel_of_markor) which consists of retired senior staff drawn from [the Citadel](faction:the_citadel_of_markor)'s various divisions. Members of the council are known as Convocants.\n\nThe High Convocation was the host of the first expeditions into [the Depths](location:the_depths). They theorized on the concept of the dead returning back to life for a long time, before it was confirmed that the souls of the dead were sent to [the Depths](location:the_depths), from which only the strong could return. [Deukalion Akarad](entity:deukalion_akarad) was the one to lead the first expedition.\n\nThey are also responsible for giving out punishments on serious occasions, like insubordination, which could put lives at risk.",
+  "wiki": "The_High_Convocation.md"
+}

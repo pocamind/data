@@ -1,0 +1,9 @@
+{
+  "name": "Shrine of Courage",
+  "desc": "The Shrine of Courage is a statue found within the [Cathedral of the Interstice](location:cathedral_of_the_interstice) after going up the trial elevator. Interacting with it and choosing the \\[Prove yourself\\] dialogue will significantly increases the difficulty of [The Depths](location:the_depths) trial, but grants 15 full training points when completed in exchange. If done with multiple players the reward is split between the people.\n\nThe Shrine of Courage can only be used once if you have completed it.\n\n**Trial Information**\n\nWithin the trial there is a slight chance that the monsters can be corrupted, which will bring extreme risk to the player if they aren't prepared to fight them.",
+  "additional_info": "-   Deepbounds who are Power 9 and under still get an Enforcer when using this shrine, effectively giving them the 15 free points without the need to do a harder trial.",
+  "found_at": [
+    "location:cathedral_of_the_interstice"
+  ],
+  "wiki": "Shrine_of_Courage.md"
+}

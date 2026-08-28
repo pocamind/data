@@ -1,0 +1,12 @@
+{
+  "name": "Etrean Guardsman Hostage",
+  "desc": "Etrean Guardsman Hostages are from [The Kingdom of Etrea](faction:etrea) [Etreaiconfaction](faction:etrea). They appear exclusively as randomized Etreans, although they all wear the Etrean Guard Expert Outfit.\n\nThey are found in a prisoner pose, kneeled down on both knees and having their arms behind them, though they are forced into a standard pose when being knocked back. They spawn exclusively in prison cells within [Fort Merit](location:fort_merit).\n\nEtrean Guardsman Hostages can be picked up by pressing V. Dropping them will cause them to be knocked for a bit before returning to their original stance. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, and will not despawn unless you travel to a new [Luminant](location:luminants).\n\nBringing an Etrean hostage to the [Etrean Guardmaster](entity:etrean_guardmaster) will reward you with a handful of XP, a [Fort Merit](location:fort_merit) chest, reputation with [The Kingdom of Etrea](faction:etrea) [Etreaiconfaction](faction:etrea), and negative reptuation with [The Central Authority](faction:the_central_authority) [Authorityiconfaction](faction:the_central_authority).",
+  "additional_info": "-   These NPCs do not respawn due to a bug, making these NPCs extremely rare.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Etrean_Guardsman_Hostage.md"
+}

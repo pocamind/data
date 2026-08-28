@@ -1,0 +1,5 @@
+{
+  "name": "The Temple of the Forgotten Flame",
+  "desc": "Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](location:upper_erisia) that perches over the beach of [Lower Erisia](location:lower_erisia). The Temple can be found above the Bandit Village in [Lower Erisia](location:lower_erisia), or across from the upper exit of the Megalodaunt Nest. ([The Viper's Jaw](location:the_vipers_jaw))\n\nTo enter the Temple, you must either:\n\n-   Enter [the courtyard](location:temple_courtyard), where a Watcher and bandit spawns can be found.\n-   Climb around the walls and enter through the rear garden.\n-   Use a fountain found in [Greathive Aratel](location:greathive_aratel), that will teleport you to the rear garden.\n\nInside the temple, [Neero](entity:neero), a Pathfinder, can be found in the entrance. Mysterious glyphs can be found on the wall in the room to the left as well. These glyphs play an important part in obtaining Oath: Blindseer.",
+  "wiki": "The_Temple_of_the_Forgotten_Flame.md"
+}

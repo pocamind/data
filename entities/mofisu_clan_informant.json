@@ -1,0 +1,8 @@
+{
+  "name": "Mofisu Clan Informant",
+  "desc": "Mofisu Clan Informant is an Etrean NPC.\n\n[The Inheritor](entity:the_inheritor) is able to speak to them once they defeat the [Shogun of the Prophet's Guard](entity:shogun_of_the_prophets_guard_temple_of_mur) in the [Temple of Mur](location:temple_of_mur). They send messages for Clan Mofisu and speaks of the [Rat King](entity:dravik_the_rat_king), who can penetrate [The Lord Regents](entity:the_lord_regent) barriers.",
+  "found_at": [
+    "location:temple_sparring_hall"
+  ],
+  "wiki": "Mofisu_Clan_Informant.md"
+}

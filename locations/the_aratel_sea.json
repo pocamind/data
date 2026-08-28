@@ -1,0 +1,9 @@
+{
+  "name": "The Aratel Sea",
+  "desc": "The Aratel Sea is a region in the East Luminant. It is through the gates in the wall in the Etrean Luminant. You can typically find more experienced players here.\n\nThe Aratel Sea is much more violent than [The Etrean Sea](location:the_etrean_sea), with frequent pirate attacks and being inhabited by various monsters.",
+  "additional_info": "-   The music for this area is To Shores, Distant by Naktigonis.\n-   The combat music for this area is To Fight, Sanguine by Naktigonis.\n-   During early testing this area was called \"The Eastern Ocean.\"",
+  "part_of": [
+    "location:luminants"
+  ],
+  "wiki": "The_Aratel_Sea.md"
+}

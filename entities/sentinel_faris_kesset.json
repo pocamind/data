@@ -1,0 +1,15 @@
+{
+  "name": "Sentinel Faris Kesset",
+  "aliases": [
+    "Faris Kesset",
+    "Sentinel Faris"
+  ],
+  "desc": "Sentinel Faris Kesset is a Tiran NPC. She was part of the Shock Trooper division for [The Central Authority](faction:the_central_authority).\n\nShe wielded the Duskguard Axe. As signified by her resonance, she was moderately strong.\n\nShe was eventually slain by [Titus Fulminus Destellus](entity:titus_fulminus_destellus) and was succeeded by [Sentinel Augustus](entity:sentinel_augustus). Augustus had served as an Operator under Kesset and had been particularly close to her.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Sentinel_Faris_Kesset.md"
+}

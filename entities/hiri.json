@@ -1,0 +1,11 @@
+{
+  "name": "Hiri",
+  "desc": "Hiri is a Chrysid NPC.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Hiri.md"
+}

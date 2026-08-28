@@ -1,0 +1,10 @@
+{
+  "name": "Isle of Vigils",
+  "desc": "The Isle of Vigils is a collection of small islands that hold the [Temple Approach](location:temple_approach) and the [Temple of the Blade](location:temple_of_the_blade), as well as a few necessities to get you started on your progression.",
+  "additional_info": "-   The music for this area is To Shores, Distant by Naktigonis\n-   Though it may be closer to [Erisia](location:erisia), Vigils is often much less travelled than Etris and can be considered a worse spawn location.\n-   Vigils has one of the best fishing spots which is near the docks. There is a high chance of a fishing up a chest.\n-   The Isle of Vigils used to be attached to [Etris](location:etris), but now they are separate.",
+  "part_of": [
+    "location:the_etrean_sea",
+    "faction:etrea"
+  ],
+  "wiki": "Isle_of_Vigils.md"
+}

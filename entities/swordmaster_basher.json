@@ -1,0 +1,14 @@
+{
+  "name": "Swordmaster Basher",
+  "aliases": [
+    "Basher"
+  ],
+  "desc": "Swordmaster Basher is an Etrean NPC.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Swordmaster_Basher.md"
+}

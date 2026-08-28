@@ -1,0 +1,8 @@
+{
+  "name": "Andrea",
+  "desc": "Andrea is an Adret NPC.\n\nSome time prior to 1233 CE, Andrea died on the Surface and found herself in the [Cathedral of the Interstice](location:cathedral_of_the_interstice).\n\nNow the Adretian woman is scared for her life, as she tries to decide between facing the Trial or remaining in [The City of the Drowned](location:the_city_of_the_drowned).",
+  "found_at": [
+    "location:first_layer"
+  ],
+  "wiki": "Andrea.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Chipped Sword",
+  "aliases": [
+    "Scattered Possessions"
+  ],
+  "desc": "The Chipped Sword is a Quest item found at the [Isle of Vigils](location:isle_of_vigils). It presumably belonged to [Nanji](entity:nanji)'s brother Ilji, but he seems to have departed with the sword as it is in a very bad and rusty condition, as well as Ilji himself being nowhere to be found.",
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Chipped_Sword.md"
+}

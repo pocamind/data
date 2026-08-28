@@ -1,0 +1,9 @@
+{
+  "name": "Rabanastre",
+  "desc": "Rabanastre is a Ganymede found in the [Second Layer](location:the_ethironal_shrine) by the [Nest Corridor](location:nest_corridor).",
+  "additional_info": "-   He is a reference to Patches, a recurring character in games developed by _Fromsoftware_. The character often attempts to gain the trust of the player or trick them into pursuing treasure, before kicking them off a cliff. Attempting to return to him will often result in him grovelling or attempting to act as though nothing happened.\n    -   Developer Arch\\_Mage even attempted to get a voice for him that was similar to the iconic character, but had trouble due to it being \"too nasally.\"\n-   Rabanastre may be a member of [The Ministry](faction:the_ministry), given he oversees and feeds people to Bounders, seems overall comfortable with his situation, is carrying out acts of homicide rather than worrying over dying to the elements and Chaser will not spawn unless the Bounders he's overseeing spawn.\n    -   Furthermore, a scrapped quest meant to elaborate on Chaser's connection with the Second Prophet was meant to have players search for Ministry members in the Second Layer, so it's possible Rabanastre may have been among them.\n-   Rabanastre knocking you off a cliff into the Bounder Nest below is in possible reference to Big Hoss from _Rogue Lineage_, who knocks you off a cliff in the Tundra into a pack of Howlers if you don't meet the requirements to obtain the class Oni.",
+  "found_at": [
+    "location:second_layer"
+  ],
+  "wiki": "Rabanastre.md"
+}

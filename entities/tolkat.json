@@ -1,0 +1,9 @@
+{
+  "name": "Tolkat",
+  "desc": "Tolkat is a Canor NPC who can unbound the player's Strength. Being a muscular Canor, he was given a job by '[Boss man](entity:boss_man)' to push a Boulder up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.",
+  "additional_info": "-   He, along with [Yamaketzal](entity:yamaketzal), is voiced by Arch\\_Mage.\n-   Tolkat's hair ID is 93791698141854\n-   Most likely a reference to Sisyphus, a king punished by the gods to eternally push massive boulder up a mountain. Much like Tolkat, Sisyphus' task is entirely pointless. While Sisyphus refuses to relent due to eternally believing in his own superiority over the divine and thus believing he can possibly outsmart the gods and succeed in his task, Tolkat simply seems too dense to realise he has better things to be doing.\n-   Attempting to punch the boulder up the hill below seventy-five strength will cause the player to take 10% of their max HP as damage.\n-   The word \"tolkat'\" (\"толкать\") in most slavic languages means \"to push\", which might be where his name stems from.",
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Tolkat.md"
+}

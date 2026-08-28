@@ -1,0 +1,6 @@
+{
+  "name": "Firfire",
+  "desc": "One of the least hostile parts of [Floor 1](location:the_ethironal_shrine), Firfire is located above the [Firfire Caverns](location:firfire_caverns) and is home to various friendly Kyrsgarde and a quest. It is necessary to visit this location in a run to open the way to [Chaser, Scholar of the Crimson Contract](entity:chaser_scholar_of_the_crimson_contract).\n\nFirfire does not have active wind or snowfall. Previously existing parasites will remain, but they do not progress or build up while in Firfire.",
+  "additional_info": "-   The music for this area is Whisperwind by Naktigonis.\n-   After using the resting emote near Makolis Pariah Katatonicus, if you talk to him in future runs he will label you as \"Friendwalker\" instead of \"Fringe/Frinwalker.\"",
+  "wiki": "Firfire.md"
+}

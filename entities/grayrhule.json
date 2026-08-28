@@ -1,0 +1,8 @@
+{
+  "name": "Grayrhule",
+  "desc": "Grayhule was an agent of [the Ministry](faction:the_ministry) and the previous owner of the Deepscorn Casque, which induced a state akin to death that calmed the wearer. During a forbidden Ministry Ritual, he succumbed to his shadows and presumably died.",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "Grayrhule.md"
+}

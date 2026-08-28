@@ -1,0 +1,9 @@
+{
+  "name": "Nimea",
+  "desc": "Nimea is an Etrean NPC. She is on [Erisia](location:erisia) to investigate [The Hidden Village](location:the_hidden_village).\n\nShe provides insight into the Lightkeepers, offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](location:eastern_interstitial_lighthouse).\n\nNimea is a File Etrean wearing the Pathfinder Arch-Sorcerer Outfit and Leather Boots. Based on her visible wrinkles, she appears to be in Stage 2 of Aging, likely placing her between 50 and 59 years old.",
+  "additional_info": "-   You can get locked out of additional dialogue from Nimea if you press certain options. The option being \"I'm not sure, sorry.\"",
+  "found_at": [
+    "location:the_hidden_village"
+  ],
+  "wiki": "Nimea.md"
+}

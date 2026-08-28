@@ -1,0 +1,8 @@
+{
+  "name": "Corvyn",
+  "desc": "Corvyn is a Canor NPC. A user of the Slider Style as he dons Karita Plating.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Corvyn.md"
+}

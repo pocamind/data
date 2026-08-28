@@ -1,0 +1,9 @@
+{
+  "name": "Esric",
+  "desc": "Esric is an Adret NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Esric's name is not visible during normal gameplay.\n-   Originally named Mars.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Esric.md"
+}

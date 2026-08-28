@@ -1,0 +1,12 @@
+{
+  "name": "Marro",
+  "desc": "Marro is a Chrysid NPC who resides on the islands of [Songseeker Wilds](location:songseeker_wilds). He is found sitting near the mine entrance trying to find something for his village's Elder. When talking to him, he tells us a little about the culture of his people and especially about the Chrysid Elders and their characteristics.",
+  "additional_info": "-   Marro's racial variant appears to be Seer.",
+  "member_of": [
+    "faction:the_moonlit_faith"
+  ],
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Marro.md"
+}

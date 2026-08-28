@@ -1,0 +1,12 @@
+{
+  "name": "The Inheritor",
+  "aliases": [
+    "Inheritor",
+    "Ironsworn"
+  ],
+  "desc": "The Inheritor is the protagonist of _Deepwoken'_s Vow of Iron gamemode. They are a member of the [Circle of Honour](faction:circle_of_honour).\n\nDue to the threat posed by [The Lord Regent](entity:the_lord_regent) of [Etrea](faction:etrea) to the Eastern Luminant, the Inheritor was tasked by the [Reclaimer of the Recollection](entity:reclaimer_of_the_recollection) to use Mementos to relive the memories of those who had attempted to foil the Regent in the past in order to see if a weakness could be found.",
+  "member_of": [
+    "faction:circle_of_honour"
+  ],
+  "wiki": "The_Inheritor.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sarbu",
+  "desc": "Sarbu is a Gremor NPC. He is a Pathfinder who has been observing The Justicars to get a better grasp of their techniques.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Sarbu.md"
+}

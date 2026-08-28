@@ -1,0 +1,15 @@
+{
+  "name": "The Lady Confessor",
+  "aliases": [
+    "Our Confessor"
+  ],
+  "desc": "**The Lady Confessor** is the leader of the [Lullaby Isles](location:lullaby_isles), almost nothing is known of her from the outside. Her word is law in the lands of [The Moonlit Faith](faction:the_moonlit_faith) and those, who dare oppose her politics are burned alive. She forbid leaving the [Lullaby Isles](location:lullaby_isles), unless the leave is sanctioned by [the Faith](faction:the_moonlit_faith), which includes exchange of information with [The Hive](faction:the_hive).\n\nDespite her seemingly ruthless and violent politics, scholars of [the Faith](faction:the_moonlit_faith) visiting the [East](location:luminants) treat her actions with great sincerety and reverence. Although, speculatively, this is most likely a result of brainwashing.",
+  "member_of": [
+    "faction:the_moonlit_faith"
+  ],
+  "leads": [
+    "faction:council_of_the_moonlit_faith",
+    "faction:the_moonlit_faith"
+  ],
+  "wiki": "The_Lady_Confessor.md"
+}

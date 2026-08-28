@@ -1,0 +1,6 @@
+{
+  "name": "The Vat",
+  "desc": "The Vat is a dungeon located in a hidden cave in the depths. The room itself is a dome with ornate floor patterns with [The Gaunt Man](entity:the_gaunt_man) standing in the middle. Upon completion, you'll be able to trade spires and world boss parts for three exclusive enchants and a new deep gem.",
+  "additional_info": "-   It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south, so you'll have a higher chance of success.\n-   The trials start almost instantly after you leave the force field.\n-   Providence Thorns' effect does not deal any damage in The Gaunt Man's trial.",
+  "wiki": "The_Vat.md"
+}

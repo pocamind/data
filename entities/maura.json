@@ -1,0 +1,11 @@
+{
+  "name": "Maura",
+  "desc": "Maura is a Tiran NPC. They accept a bribe for [The Ignition Union](faction:the_ignition_union).\n\nThe Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Maura.md"
+}

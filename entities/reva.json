@@ -1,0 +1,8 @@
+{
+  "name": "Reva",
+  "desc": "Reva is a Kiron NPC.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Reva.md"
+}

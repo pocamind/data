@@ -1,0 +1,6 @@
+{
+  "name": "Vault of the Aureate",
+  "desc": "The **Vault of The Aureate** is a location in Vow of Iron which you can access through a Boundary found in the back of [The Golden Rat](location:the_golden_rat). The Vault is a large hollowed out arena which serves as the fighting grounds for [Dravik, The Rat King](entity:dravik_the_rat_king), the mighty leader of the Golden Rats.",
+  "additional_info": "-   \"Aureate\" means to be made of or have the color of gold.\n-   This area can not be accessed again after defeating Dravik on a character.",
+  "wiki": "Vault_of_the_Aureate.md"
+}

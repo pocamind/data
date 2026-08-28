@@ -1,0 +1,8 @@
+{
+  "name": "Dusklit Garden",
+  "desc": "The **Dusklit Gardens** was a sub-location within the [Voidheart](location:voidheart). It was a floating island, accessed by jumping across small levitating platforms. As with [Boatman's Watch](location:boatmans_watch) and the [Voidsea](location:voidsea), everything here is frozen in time. This location used to have the only accessible Blacksmith in the entire [Voidheart](location:voidheart).",
+  "part_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "wiki": "Dusklit_Garden.md"
+}

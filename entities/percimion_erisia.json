@@ -1,0 +1,12 @@
+{
+  "name": "Percimion Erisia",
+  "aliases": [
+    "Duke Percimion Erisia",
+    "The Dramatic"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Percimion served as the Duke of [Erisia](location:erisia). According to surviving records, in the form of statues, they were the sixth of their family name to bear this title. For unknown reasons, they bore the title of \"The Dramatic\".",
+  "leads": [
+    "location:erisia"
+  ],
+  "wiki": "Percimion_Erisia.md"
+}

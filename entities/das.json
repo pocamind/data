@@ -1,0 +1,12 @@
+{
+  "name": "Das",
+  "desc": "Das is a Vesperian NPC. Interacting with them sends you to the [Temple Sparring Hall](location:temple_sparring_hall_dungeon) and initiates Training Mode. They are the Etrean Luminant counterpart of [Regarde](entity:regarde), the instructor at [Greathive Aratel](location:greathive_aratel).",
+  "additional_info": "-   Das wears the Vigil Initiate outfit.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_sparring_hall"
+  ],
+  "wiki": "Das.md"
+}

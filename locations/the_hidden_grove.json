@@ -1,0 +1,9 @@
+{
+  "name": "The Hidden Grove",
+  "desc": "The Hidden Grove featured a waterfall and flower fountain. To activate the fountain, players had to interact with the shrine using a canteen filled with any liquid. This caused 6 Lotuses to spawn around the fountain. These Lotuses lasted for 45 seconds before vanishing and were randomized according to the current season in the game. Additionally, the fountain had a 60-minute cooldown per player across the server.\n\n-   Spring: Miasmic Lotus, Zephyr Lotus.\n-   Summer: Empyrean Lotus, Hellfire Lotus.\n-   Autumn: Skyvalor Lotus, Zephyr Lotus.\n-   Winter: Brilliant Lotus, Skyvalor Lotus.",
+  "additional_info": "-   When interacting with the fountain while having no water or while holding a canteen, the player is prompted with \"I don't have anything to water this...\"\n-   Upon attempting to interact with the shrine repeatedly, the shrine said \"It seems its harvest has blossomed all it can, for now.\"\n-   Despite being removed as a physical location, the area trigger still exists roughly under the bridge from the Summer Isle castle to the small area with the cannon.",
+  "part_of": [
+    "faction:the_summer_company"
+  ],
+  "wiki": "The_Hidden_Grove.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Cerulean",
+  "desc": "Cerulean is a Celtor NPC. They are the trainer for Oathless.",
+  "additional_info": "-   Cerulean wears the Verdant Sniper Outfit.\n-   Their aspect variant is Marten.\n-   Cerulean is named after a city in the Kanto region from the _Pokémon_ franchise. Namely, _Cerulean City_.\n    -   This follows the same pattern with their Oathless disciples: [Saffron](entity:saffron), [Celadon](entity:celadon), and [Viridian](entity:viridian).\n-   Cerulean usually means the shade of the color blue.",
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Cerulean.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Neophyte Jefferson",
+  "aliases": [
+    "Jefferson"
+  ],
+  "desc": "Neophyte Jefferson is a Canor NPC. He is a new and inexperienced recruit of the Justicar.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Neophyte_Jefferson.md"
+}

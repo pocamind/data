@@ -1,0 +1,12 @@
+{
+  "name": "Mime",
+  "aliases": [
+    "Incognito"
+  ],
+  "desc": "**Mime** is a Ganymede NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](location:songseeker_wilds).\n\nHe appears around a lot of Mineskippers disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in Charisma, he will give you the mantra Disguise, which allows you to disguise yourself as a barrel, and as other objects when certain Sparks are applied.",
+  "additional_info": "-   The statue you transform into is the white king piece from the chess board at [Voidheart](location:voidheart).\n    -   It is also the statue of the King of Etrea seen in Etris Palace.\n-   Using the Campfire disguise while having the Talent _Azure Flames_ will make your campfire have blue flames instead of orange or yellow. This doesn't work with _Wraith Path: Twisted Puppets_.",
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Mime.md"
+}

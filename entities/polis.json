@@ -1,0 +1,12 @@
+{
+  "name": "Polis",
+  "desc": "Polis is a Vesperian NPC. They are a Justicar and follow the Celestial, [Alsin](entity:alsin).\n\nThey give a Gold Ring to those who interact with them. When [The Central Authority](faction:the_central_authority) invades [Etris](location:etris), they fight to defend Etris along with the guards.",
+  "additional_info": "-   Killing them will give the player negative Reputation with Etrea.\n-   During the event there's a bug where their face mask changes to a different pattern than the one they have while they are static.\n-   Though Polis can be killed, doing so will not affect them, as they will respawn back in their usual spot and act like nothing happened.\n-   The price of the Gold Ring they gave used to be 25 Notes. Now it sells for 14 Notes, however the price may vary due to quality stars.\n-   Polis has special dialogue when attempting to scare them with a Hallowtide Mask: \"I may be old, but I'm still brave, young one.\"\n-   When having Jus Karita as a starting weapon Polis will say \"How strange that our Paths should cross again so soon...\", as if you have already met, and does not give you a Gold Ring or any other dialogue.\n-   Despite teaching Jus Karita and donning a Justicar Armour, they favour a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in _Deepwoken_.\n    -   Polis does use Jus Karita Mantras though, despite wielding a Greatsword.\n    -   The Justicar origin does elaborate on this, as Justicars can complement their weaponary with Justicar techniques. Specifically, players can replace their running attack and critical with Jus Karita's.\n-   Their name historically means \"Greek city state.\"\n-   Their hair ID is (https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)\n-   Polis has an actual obtainable build if you utilize Shrine of Order, with all of their Talents (_except Audacity_) and all Mantras being obtainable.\n-   Polis can be seen in the Main Menu screen along with [Karliah](entity:karliah) and [Kennith](entity:kennith).",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Polis.md"
+}

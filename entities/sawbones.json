@@ -1,0 +1,14 @@
+{
+  "name": "Sawbones",
+  "aliases": [
+    "Doc"
+  ],
+  "desc": "The unnamed sawbones is a Canor NPC. He serves as the chief medical office for [The Central Authority](faction:the_central_authority)'s garrison positioned in the Eastern Luminant.\n\nIn the modern day, the sawbones works alongside [Taiga](entity:taiga), handling medical emergencies while she handles more minor injuries. He has a reputation for amputation.\n\nDespite this reputation, [Yakob](entity:yakob) considers paying a visit to him to be less unpleasant than the thought of marching through [The Starswept Valley](location:the_starswept_valley) in full gear.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Sawbones.md"
+}

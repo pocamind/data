@@ -1,0 +1,9 @@
+{
+  "name": "Miner's Landing",
+  "desc": "Miner's Landing is the [Ignition Union](faction:the_ignition_union)'s base of operations in the East, situated on a large island that houses a volcano.\n\nIt contains a Voidzone, the [Saramaed Summit](location:saramaed_summit). It also contains a dungeon, the [Saramaed Hollow](location:saramaed_hollow), which is the main way of progression for people with the Ignition Delver origin (who subsequently spawn here as well.)",
+  "additional_info": "-   The music for this area is Peregrine by Naktigonis so far. Its own theme song has been confirmed to be released.\n-   Miner's Landing has a more industrial focus than the other bases such as [Etris](location:etris) and [Greathive Aratel](location:greathive_aratel).\n-   Various Union Hooks can be found throughout Miner's Landing.\n-   Players with the Ignition Delver Origin spawn here by default.",
+  "part_of": [
+    "faction:the_ignition_union"
+  ],
+  "wiki": "Miner's_Landing.md"
+}

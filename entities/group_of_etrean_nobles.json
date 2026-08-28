@@ -1,0 +1,11 @@
+{
+  "name": "Group of Etrean Nobles",
+  "desc": "The Group of Etrean Nobles are an Etrean NPC. They are the collective Sachans of the [Etrean Royalists](faction:etrean_royalists), consisting of [Sachan Shisui Kobura](entity:sachan_shisui_kobura), [Sachan Yi Anako](entity:sachan_yi_anako), [Sachan Zaru Ganba](entity:sachan_zaru_ganba), and Sachan Choji Mofisu.\n\nThe four are in a heated argument after unable to decide a strategy on fighting [Dravik, The Rat King](entity:dravik_the_rat_king) and the Etrean Civil War as a whole, ultimately causing each Sachan and their clans to separate and go in their own ways.\n\nEach Sachan in the scene are donned in their respective clan's armor.",
+  "member_of": [
+    "faction:etrean_royalists"
+  ],
+  "found_at": [
+    "location:the_golden_rat"
+  ],
+  "wiki": "Group_of_Etrean_Nobles.md"
+}

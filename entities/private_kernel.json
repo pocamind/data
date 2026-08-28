@@ -1,0 +1,16 @@
+{
+  "name": "Private Kernel",
+  "aliases": [
+    "Cornelius Kernel Jr.",
+    "Struggling Guard"
+  ],
+  "desc": "Private Kernel is a Celtor NPC. He possesses information on who [The Central Authority](faction:the_central_authority) contains in the [Merit Detainment Core](location:merit_detainment_core).\n\nHe is equipped with an Authority Helm, a green-dyed Plain Cape, Leather Boots, and the Authority Peacekeeper Outfit. On his back, he wields an Adretian Axe.",
+  "additional_info": "-   Before the player chooses the dialogue option \"Why does he scare you, private?\", Private Kernel is named as \"Struggling Guard.\"\n-   His full name is a play on the words corn kernel.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Private_Kernel.md"
+}

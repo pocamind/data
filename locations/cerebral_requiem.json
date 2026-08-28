@@ -1,0 +1,6 @@
+{
+  "name": "Cerebral Requiem",
+  "desc": "Cerebral Requiem acts as the step-up to the [Fragments of Else](location:fragments_of_self). Players are sent to it when they meet their ultimate fate against [Zi'eer, the Fourth Prophet](entity:the_lord_regent).",
+  "additional_info": "-   Depending on if you defeated Zi'eer or not, the placing of the 'woven memories' will change: If you fell before landing a hit on him, it will continue upwards for a bit before ending, but if you did manage to defeat him, it will instead be below you, as you had surpassed your Memento's memories.\n    -   This can also be seen in [The Cerebral Spire](location:the_cerebral_spire) and the [Fragments of Else](location:fragments_of_self), with the 'woven memories' expanding upwards infinitely, representing the many memories of your Memento that you have yet to live through.",
+  "wiki": "Cerebral_Requiem.md"
+}

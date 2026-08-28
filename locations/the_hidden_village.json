@@ -1,0 +1,6 @@
+{
+  "name": "The Hidden Village",
+  "desc": "The Hidden Village is a small, abandoned town located in the [Towerstruck Lands](location:towerstruck_lands) in [Upper Erisia](location:upper_erisia). The main way of entering is through a wooden door that must be broken down with a Mantra or a Heavy Weapon Critical. An alternative path is to climb up the mountains that leads you a tunnel to the village.\n\nInside the Village are a few NPCs, Rotskippers, a bountiful amount of Erisore, and a fountain that can allow you to teleport to [Greathive Aratel](location:greathive_aratel) if you meet the requirements. It is also home to the Shrine of Blasphemy, where one can make a deal with. At the front of the village, you can find the Deep Crucible, which requires an Artifact to activate.",
+  "additional_info": "-   You can find one of [The Hive](faction:the_hive)'s fountains here. Invoking with it will transport you to [Greathive Aratel](location:greathive_aratel).\n-   You can find plenty of Erisore here.\n-   You can find [The Meat Lord](entity:the_meat_lord) here.\n-   The Stonelife Lord from the description of the place might refer to Duke Erisia",
+  "wiki": "The_Hidden_Village.md"
+}

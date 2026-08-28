@@ -1,0 +1,9 @@
+{
+  "name": "Galvika",
+  "aliases": [
+    "The Acolyte"
+  ],
+  "desc": "One of the previous Acolytes of the [Lullaby Isles](location:lullaby_isles).\n\nIn the Strange Missives he wrote to [The Hive](faction:the_hive) about a festivity of [the Faith](faction:the_moonlit_faith), known as the \"Nostri Eclipse\". He urged [the Hive](faction:the_hive) to stay away from their territories, or else \"<the all-too-familiar matercrypt will receive those who do not heed this warning into its sunk'n shores\".",
+  "additional_info": "-   Currently, the first known Acolyte, with the second being Thal'assis Linnaes.",
+  "wiki": "Galvika.md"
+}

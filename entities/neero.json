@@ -1,0 +1,9 @@
+{
+  "name": "Neero",
+  "desc": "Neero is a Celtor NPC. They are a Pathfinder wearing an Iron Mask along with the Pathfinder Cloak.\n\nThey are investigating the disappearance of the Forge of Sin and provides speculation about [Duke Erisia](entity:duke_ishamon_erisia)'s actions prior to the events of the [Lord Regent's](entity:the_lord_regent) questline, as well as lore about [Erisia](location:erisia) and the Forge itself.",
+  "additional_info": "-   Neero wears the old model of the Iron Mask, along with the Pathfinder Cloak.\n-   Using shiftlock to see inside of his mask shows that Neero is a Celtor, based upon his facial markings.",
+  "found_at": [
+    "location:the_temple_of_the_forgotten_flame"
+  ],
+  "wiki": "Neero.md"
+}

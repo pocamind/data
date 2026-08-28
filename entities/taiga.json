@@ -1,0 +1,11 @@
+{
+  "name": "Taiga",
+  "desc": "Taiga is a Capra NPC. She works with the Eastern garrison's [sawbones](entity:sawbones).",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:the_three_cheers"
+  ],
+  "wiki": "Taiga.md"
+}

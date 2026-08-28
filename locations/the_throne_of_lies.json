@@ -1,0 +1,8 @@
+{
+  "name": "The Throne of Lies",
+  "desc": "The Throne of Lies is the location where [Zi'eer, the Fourth Prophet](entity:the_lord_regent) is fought.\n\nIt appears to be some sort of large imaginary or illusionary room made by Zi'eer, featuring [Etrea](faction:etrea)'s traditional eastern-inspired structures, with Zi'eer himself in the middle.\n\nFor more information on Zi'eer's fight, see his page.",
+  "part_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "The_Throne_of_Lies.md"
+}

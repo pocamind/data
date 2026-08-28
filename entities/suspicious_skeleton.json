@@ -1,0 +1,11 @@
+{
+  "name": "Suspicious Skeleton",
+  "aliases": [
+    "The Bone Rattler"
+  ],
+  "desc": "The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The Floating Keep](location:the_floating_keep). It appears to serve no purpose as it was fired from its previous bone rattling job.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Suspicious_Skeleton.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bureau of Research",
+  "desc": "The Bureau of Research is a subdivision of [The Central Authority](faction:the_central_authority). [Gunsmith Hierka](entity:gunsmith_hierka) was a member of the Bureau of Research, and infiltrated [The Summer Company](faction:the_summer_company) to steal their secrets. Hierka modified [Gunsmith Rosen](entity:gunsmith_rosen)'s designs to produce the Rifle Spear, which became a staple among the rank and file of the Authority.",
+  "part_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Bureau_of_Research.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Braun",
+  "desc": "Braun is a Chrysid NPC. They are a Justicar.\n\nDuring an expedition where they were guarding a Pathfinder, Braun fought and defeated a Voidwalker, but their face was damaged during the fight.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Braun.md"
+}

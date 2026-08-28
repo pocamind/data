@@ -1,0 +1,6 @@
+{
+  "name": "Vigil's Mark",
+  "desc": "Vigil's Mark is a small arena located near Vigil's Antiquarian and an entrance that leads into the [Temple of the Blade](location:temple_of_the_blade). This place acts as an arena for players to fight each other freely without having to worry about reputation.",
+  "additional_info": "-   This territory is marked as \"Lawless\". All laws (attacking other players, gripping town npcs, etc) will not be put in place in areas marked under \"lawless.\" Committing crimes in lawless territory will not result in bad reputation with the faction.\n-   If you plan on gripping [Friid](entity:friid_master_of_gale) for Silentheart, do it here as not to get any bad rep with Etrea.",
+  "wiki": "Vigil's_Mark.md"
+}

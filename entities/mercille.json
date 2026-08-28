@@ -1,0 +1,11 @@
+{
+  "name": "Mercille",
+  "desc": "Mercille is a Vesperian NPC that's part of [The Summer Company](faction:the_summer_company). They're on a team mission with [The Guy](entity:the_guy), [Sierra](entity:sierra) and [Prentis](entity:prentis). They shares a common dislike for The Guy with Prentis and Sierra.\n\nYou can turn sacks found in [Starswept Valley](location:the_starswept_valley) and [Bluster Rift](location:bluster_rift) to them for a chest, much like the Summer Company's explosive crates found on [Summer Isle](location:summer_isle) that can be delivered back to [Scope](entity:scope). Doing so will grant a normal Starswept Valley chest as well as some Summer Company reputation.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:bluster_rift"
+  ],
+  "wiki": "Mercille.md"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Samael",
+  "speaker": "entity:samael",
+  "lines": [
+    "Ah, a pilgrim wanders into the sanctum. Is it guidance you seek?",
+    "Ah, so you truly are uninformed. You stand within a sanctuary constructed by the members of the [Starkindred](faction:the_starkindred_church) Church that shelters the wounded form of a Celestial. This is a very sacred place indeed.",
+    "Whether they be living, wounded, or deceased... Their ichor - their blood - is holy. To stand in its presence is a blessing that we cannot take lightly. Many of us are sworn to protect it.",
+    "It was found near-death in the [Rotlands](location:ancient_rotlands), embedded in this cocoon. We have done our best to preserve it.",
+    "Alas. Such a miracle is beyond mortal hands. We believe that there will come a time when their wounds heal. And when they rise, we will stand at their side to face the Deep once more.",
+    "Yes, there are those of the faith - like myself who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands.",
+    "As a matter of fact... Yes. There is one who has yet evaded our justice. A vile and wicked wretch by the name of Iblis who turned his back on the faith.",
+    "*They nod.* You do us a great service. He senses our approach and makes himself scarce. Being not of our order, you will not raise alarm. He often sculks beside the Star Tree within [Starswept Valley](location:the_starswept_valley). If you should bring him a just end, let me know.",
+    "So, it was providence after all that brought you before us. Perhaps you are worthy to join our order. Would that interest you?",
+    "Ah, you have encountered a Maljuror? They are those that the Ichor has rejected. Either in their initiation or at some point in their service, they lost their faith and fell into sin. As such, they are rightly punished by the divinity within them, and twisted into wretched beasts. You need not pity them."
+  ]
+}

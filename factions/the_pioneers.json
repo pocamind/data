@@ -1,0 +1,10 @@
+{
+  "name": "The Pioneers",
+  "desc": "**The Pioneers**, also known as the Pioneer Divers, were the first ever [Divers](faction:the_divers) to descend into [the Depths](location:the_depths). They used a cave system, which went deep into the Depths. All of them tragically perished, most got caught off-guard by the beasts of [the Depths](location:the_depths), but those who successfully came back to the Surface perished shortly after stepping out of the caves, due to a concept, known as \"boundary death\".\n\nThe concept of [the Depths boundary](location:the_depths) was able to be further expanded upon thanks to the expedition.\n\nAll of the Pioneer Divers' names were carved in the tremendously-sized monoliths in a vast memorial hall within [the Citadel of Markor](faction:the_citadel_of_markor) by the Memorial Masons.",
+  "additional_info": "-   The Song of Fathoms / Oscillation was commissioned in the name of their expedition by [The High Convocation](faction:the_high_convocation) and performed at the ceremony by the Scholars' Orchestra of the Scholars of Markor.",
+  "part_of": [
+    "faction:the_citadel_of_markor",
+    "faction:the_divers"
+  ],
+  "wiki": "The_Pioneers.md"
+}

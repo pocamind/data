@@ -1,0 +1,5 @@
+{
+  "name": "A Conscious Intersection",
+  "desc": "A Conscious Intersection is a small sub-area only accessed after completing [Surge's](entity:surge) quest of bringing him 1 Dark Feather.\n\nAfter completing the Quest, Surge starts acting weird, and when trying to return to the Widow's Den, you instead find yourself in a hellish glowing nightmare with [The Nestmind](entity:the_nestmind) at the end. This area is vital to obtaining the Visionshaper Oath.\n\nIt is theorized that this area is not actually inside of [The Depths](location:the_depths), and may be somewhere inbetween, hence the \"Intersection\" part. As for [The Nestmind](entity:the_nestmind), this is probably not it's true form, much like how the [Shrine of Yun'Shul](entity:shrine_of_yunshul_keeper_of_hearts) isn't actually [Yun'Shul](entity:yunshul_keeper_of_hearts), just a device to communicate safely with them.\n\nFalling into the void takes you to [Layer 2](location:second_layer).",
+  "wiki": "A_Conscious_Intersection.md"
+}

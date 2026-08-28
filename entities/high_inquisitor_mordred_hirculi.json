@@ -1,0 +1,17 @@
+{
+  "name": "High Inquisitor Mordred Hirculi",
+  "aliases": [
+    "Mordred Hirculi",
+    "High Inquisitor"
+  ],
+  "desc": "High Inquisitor Mordred Hirculi is a Vesperian NPC. He was the lead of the Inquisitor division for [The Central Authority](faction:the_central_authority) garrison positioned in the Eastern Luminant, the first to possess this rank.\n\nMordred also possessed unknown ties to the [Circle of Honour](faction:circle_of_honour), and was aware of [Warden Jericho](entity:warden_jericho)'s allegiance to the information.\n\nMordred was an elderly man and eventually died in his sleep. He was succeeded by [High Inquisitor Merey](entity:high_inquisitor_merey), who had been assigned as his successor prior to his passing, as the two had a good relationship during his career.\n\nHe appears aged with grey hair. He wears an Inquisitor's Visor, a Fleet Warden Cape, an Inquisitor's Duster, and a pair of Grand Authority Sabatons.",
+  "additional_info": "-   Mordred is a figure in Arthurian legend. Details vary greatly, but Mordred is generally characterized in popular culture as a villainous relative of King Arthur's who serves as a member of his Knights of the Round Table, before he eventually betrays and kills Arthur for the throne.",
+  "member_of": [
+    "faction:the_central_authority",
+    "faction:circle_of_honour"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "High_Inquisitor_Mordred_Hirculi.md"
+}

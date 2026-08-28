@@ -1,0 +1,12 @@
+{
+  "name": "Flabbernaster Filingree, the First Mate",
+  "aliases": [
+    "Flabbernaster Filingree"
+  ],
+  "desc": "Flabbernaster Filingree, the First Mate is a Gremor NPC who was part of [Cap'n Orlandeau's](entity:capn_orlandeau) crew in [The Scoundrel's Bounty](location:the_scoundrels_bounty), being his first mate. Appears to be well-versed in combat, considering how she had supposedly devastated the player in a sparring match the day before the events of the game.",
+  "additional_info": "-   Filingree's racial variant appears to be Cedar.",
+  "found_at": [
+    "location:the_scoundrels_bounty"
+  ],
+  "wiki": "Flabbernaster_Filingree,_the_First_Mate.md"
+}

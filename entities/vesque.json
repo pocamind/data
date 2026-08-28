@@ -1,0 +1,12 @@
+{
+  "name": "Vesque",
+  "desc": "Vesque is an Etrean NPC. They teach the Fang and Coil fighting style. They appear to be a [Vigil](faction:the_vigils) belonging to a special division that practices hand-to-hand combat.",
+  "additional_info": "-   Vesque appears to suffer from a superiority complex: his idiolect has a recurring theme of needing prestige and self-aggrandization, such to the point that the player character treats him like a nuisance.\n    -   Despite this, he is perfectly capable of teaching the player how to wield Fang and Coil. In addition, he wears the Jade Vigil's Weave Outfit, the description of which implies he is a master of the art.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Vesque.md"
+}

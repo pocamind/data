@@ -1,0 +1,11 @@
+{
+  "name": "Trig",
+  "desc": "Trig is a Gremor NPC. He gives the player Armor Piercing as a rollable talent upon completing his quest.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Trig.md"
+}

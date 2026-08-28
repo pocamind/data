@@ -1,0 +1,8 @@
+{
+  "name": "Tundra Spellhardt",
+  "desc": "Tundra is female Lightborn located in [The Floating Keep](location:the_floating_keep). She is wearing the Stormchanter's Raiments outfit.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Tundra_Spellhardt.md"
+}

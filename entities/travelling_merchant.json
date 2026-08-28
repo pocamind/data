@@ -1,0 +1,9 @@
+{
+  "name": "Travelling Merchant",
+  "aliases": [
+    "Chili"
+  ],
+  "desc": "The Travelling Merchant is an NPC merchant and [Antiquarian](entity:antiquarian). They will buy your sellables as well as selling various equipment, weapons, and other miscellaneous items. They wear a Red Traveller's Jacket.",
+  "additional_info": "The Travelling Merchant's Ship\n\n-   You can place a Guild Base within The Travelling Merchant's boat.\n-   The Travelling Merchant was originally refered to as Chili.\n-   The Travelling Merchant is similar to the [Mantra Collectors](entity:mantra_collector) in appearance and mannerisms, except they sell instead of buy.\n-   It is possible for there to not be any Armor.\n-   Despite being a shield, The Path's Defender is registered as a main weapon when being bought from The Travelling Merchant.\n-   The Travelling Merchant always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.\n-   Decoy Ships which bare striking resemblance to The Travelling Merchant's ship may spawn around the map. Approaching these ships results in a large explosion, spawning 6 Cloaked Assassins.\n    -   Because this interaction can be frustrating, a solution is to simply look inside the ship through the port side. A decoy ship will not have The Travelling Merchant present.\n    -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.\n\nA merchant ship being raided by Assassins.",
+  "wiki": "Travelling_Merchant.md"
+}

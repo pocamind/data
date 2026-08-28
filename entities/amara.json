@@ -1,0 +1,15 @@
+{
+  "name": "Amara",
+  "aliases": [
+    "Centurion"
+  ],
+  "desc": "Amara is a Khan NPC. She is a Centurion of the [11th Legion](faction:the_hundred_legions) and stays with her group of scouts composed of [Atra](entity:atra), [Caitus](entity:caitus), [Gaius](entity:gaius) and [Lars](entity:lars).\n\nShe also teaches you the Legion Kata fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](location:aratel_island) or in [Upper Erisia](location:upper_erisia).\n\nHer and the 11th Scouting Legion arrived in the East from the Western Luminant to observe the conflict between [the Central Authority](faction:the_central_authority) and [Etrea](faction:etrea).",
+  "additional_info": "-   If you have either Legion Kata or good reputation, she will say something along the lines of \"_Good to see you again \\[Name\\], What brings you back to the camp?_\", yet your dialogue options are still the same and she answers the same way.\n-   Her hair id is 4996584513",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:the_vipers_jaw"
+  ],
+  "wiki": "Amara.md"
+}

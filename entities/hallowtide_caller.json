@@ -1,0 +1,9 @@
+{
+  "name": "Hallowtide Caller",
+  "desc": "The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment or the waterfall area at Greathive Aratel. When the player interacts with it when [The Floating Keep](location:the_floating_keep) hasn't been spawned yet, it will trigger a set of dialogue.",
+  "found_at": [
+    "location:isle_of_vigils",
+    "location:greathive_aratel"
+  ],
+  "wiki": "Hallowtide_Caller.md"
+}

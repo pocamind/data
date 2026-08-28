@@ -1,0 +1,15 @@
+{
+  "name": "Commander Rayner",
+  "aliases": [
+    "Rayner"
+  ],
+  "desc": "Commander Rayner was an NPC at [Fort Merit](location:fort_merit) that requested your help, should they be shown an Officer's Note, with a situation at the Isle of Crows, and gave you the key to the basement. The Isle of Crows was an island that appeared in the Deepwoken direct.",
+  "additional_info": "-   Bizarrely, despite being a member of [The Central Authority](faction:the_central_authority), they wore the Hive Adjudicator outfit.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Commander_Rayner.md"
+}

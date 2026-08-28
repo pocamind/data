@@ -1,0 +1,12 @@
+{
+  "name": "Thorm Erebet",
+  "aliases": [
+    "Fleet Admiral"
+  ],
+  "desc": "Thorm Erebet is an Adretian Fleet Admiral serving in [The Central Authority](faction:the_central_authority) navy.",
+  "additional_info": "-   The name Thorm originates from the Thorm family from _Baldur's Gate 3_.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Thorm_Erebet.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Clint",
+  "desc": "Clint is an Etrean NPC.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Clint.md"
+}

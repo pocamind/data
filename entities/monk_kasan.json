@@ -1,0 +1,15 @@
+{
+  "name": "Monk Kasan",
+  "aliases": [
+    "Kasan",
+    "Monk"
+  ],
+  "desc": "Monk Kasan is an Etrean NPC. He is a monk of the Monastery of Mur and a member of the [Circle of Honour](faction:circle_of_honour).",
+  "member_of": [
+    "faction:circle_of_honour"
+  ],
+  "found_at": [
+    "location:the_golden_rat"
+  ],
+  "wiki": "Monk_Kasan.md"
+}

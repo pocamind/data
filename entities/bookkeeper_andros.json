@@ -1,0 +1,15 @@
+{
+  "name": "Bookkeeper Andros",
+  "aliases": [
+    "Andros"
+  ],
+  "desc": "Bookkeeper Andros is an NPC. He offers information related to The Old World. He is crucial towards the obtainment for Soulbreaker telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](entity:the_lord_regent) in the quest to defeat [Duke Erisia](entity:duke_ishamon_erisia).",
+  "additional_info": "-   Bookkeeper Andros is the only NPC with the 'Generic' aspect, which is used ingame when your aspect does not load properly, as of the 8th of June 2025 you can see 'Generic' in the actual game via having a Kiron in the title screen.\n-   Bookkeeper Andros was one of the first NPCs added to Deepwoken closed community testing.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Bookkeeper_Andros.md"
+}

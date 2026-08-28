@@ -1,0 +1,12 @@
+{
+  "name": "Alastir",
+  "desc": "Alastir is a Celtor NPC. He is a Pathfinder who was on [Erisia](location:erisia) before it drifted into the [Voidsea](location:voidsea).",
+  "additional_info": "-   You can turn in [Navaen Hostages](entity:navaen_hostage) you find for the same effect.\n-   His aspect was also originally Adret rather than Celtor.",
+  "found_at": [
+    "location:pathfinders_respite"
+  ],
+  "goals": [
+    "Take in survivors rescued from [Duke Erisia](entity:duke_ishamon_erisia)'s golems"
+  ],
+  "wiki": "Alastir.md"
+}

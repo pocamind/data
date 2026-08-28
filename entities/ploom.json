@@ -1,0 +1,9 @@
+{
+  "name": "Ploom",
+  "desc": "Ploom is a Ganymede NPC.\n\nThey are able to grant the Talent Pleeksty's Will if the player has either fifty (50) Charisma, forty (40) Flamecharm, or three (3) Dying Embers.\n\nThey wear the Flame Worshipper Armor.",
+  "additional_info": "-   Ploom's hair id is 12330952760.",
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Ploom.md"
+}

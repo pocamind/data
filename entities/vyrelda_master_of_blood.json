@@ -1,0 +1,9 @@
+{
+  "name": "Vyrelda, Master of Blood",
+  "desc": "Vyrelda is an Etrean NPC who acts as both progression for the Silentheart Oath and the Bloodrend trainer.\n\nShe was a former student who studied under the Second Prophet alongside Chaser. She joined the Ministry solely to gain access to Bloodrend, though she does not wish to affiliate with them for unknown reasons.\n\nVyrelda appears to be friendly, albeit stern toward the player. She is first seen treating a wounded Diver, clotting their wounds and restoring their blood through blood magic despite not being affiliated with the Divers.\n\nThe outfit she wears is Sanguine Finery, obtained exclusively from the [Carnival of Hearts](location:carnival_of_hearts).",
+  "additional_info": "-   Vyrelda's racial variant appears to be the 'Mamba' variant of an Etrean, with deep red scleras instead of the faint yellow. She is also wearing Sanguine Finery.\n-   Her hair IDs are the following:\n    -   Hairbun - `13558390420`\n    -   Straight Hair - `13154889638`\n    -   Loose Straight Hair - `13083247867`\n    -   Accessories - `86873452756994`",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "Vyrelda,_Master_of_Blood.md"
+}

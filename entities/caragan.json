@@ -1,0 +1,12 @@
+{
+  "name": "Caragan",
+  "desc": "Caragan is an Etrean NPC. He is the [Blacksmith](entity:blacksmith) for [Etris](location:etris).\n\nHis assistant, [Pori](entity:pori), can be found outside the shop. His brother, [Baragan](entity:baragan), works at the [Isle of Vigils](location:isle_of_vigils).",
+  "additional_info": "-   Baragan mentions materials on a table, but due to the centralization of purchasable materials with NPC interfaces, there are no tables to be over there.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Caragan.md"
+}

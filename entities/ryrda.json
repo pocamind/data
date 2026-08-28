@@ -1,0 +1,8 @@
+{
+  "name": "Ryrda",
+  "desc": "Ryrda is a major character in the book God in the Machine and a mention on Lament of Cirryn. After parting ways with [the Hive](faction:the_hive), he went to chase his dreams of becoming a Shadowcaster.\n\nAfter some while he found a way to obtain Nightblood: the potion, neccessary to become a Shadowcaster. The way involved sacrificing one's Ether. [Eran](entity:eran) agreed to help him and use her own Ether to obtain Nightblood.\n\nRyrda was desperate, if not insane in chasing his dreams, even accidentally killing his friend in the process. He never noticed other's feelings and was too focused on himself, to the point where he didn't realize [Eran](entity:eran) died and celebrated his dream coming to life. Despite [Eran](entity:eran) being ill and having a chance of dying after her Ether was drained, Ryrda seemingly did nothing to warn her of that possibility, as he saw it as an opportunity to finally reach his goal of becoming a Shadowcaster.\n\nHe died shortly after reaching his goal, as he was burnt to death by Fran, who was infuriated by the demise of her friend, [Eran](entity:eran). After his death, Ehkusa, his friend, kept a shard of his mask in hopes of meeting him again.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "wiki": "Ryrda.md"
+}

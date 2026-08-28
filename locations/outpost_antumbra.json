@@ -1,0 +1,9 @@
+{
+  "name": "Outpost Antumbra",
+  "desc": "Outpost Antumbra is the small outpost for The Ministry, it has a good amount of Scouts around here, and five chests, four near the Trial of One and the other around the left top. This base was referred to as a \"Nest\" by [Elykris](entity:elykris).",
+  "additional_info": "-   This area didn't have a name before the Verse 2 update, rather it just remained as an unnamed sanctuary for Ministry Scouts.\n-   Eight chests can be found near the entrance to [Trial of One](location:trial_of_one).\n-   The word 'Antumbra' means \"before the shadow\", which is quite interesting, considering the fact this used to be a base inside Minityrsa before the Ministry seized the island, implies the said term.",
+  "part_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "Outpost_Antumbra.md"
+}

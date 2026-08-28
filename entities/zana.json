@@ -1,0 +1,9 @@
+{
+  "name": "Zana",
+  "aliases": [
+    "Karas"
+  ],
+  "desc": "Zana is a Vesperian NPC. They are a purportedly famed warrior.\n\nZana gives the player a quest to obtain a Poser's Ring, a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a Katana or Shattered Katana equipped, you can partake in Zana's quest.\n\nThey wear a Royal Pathfinder and the Prophet's Cloak Outfit.",
+  "additional_info": "-   They can drop Frigid Prisms, even though they aren't meant to be killed.\n-   They are a reference to the “metamancer” playertype, specifically those from Verse 1. They use a Shattered Katana and Royal Pathfinder and hint at being a Flamecharmer, along with all of their fights being at popular ganking spots. Even the aspect they are pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.\n-   They have 500 HP and deal 20 damage per hit, in all locations.\n-   When encountered in one of the ganking spots, their mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](entity:polis), it's unclear why the latter occurs, or if it's even a bug.\n-   The Royal Pathfinder coat they wear appears to have no sleeves.",
+  "wiki": "Zana.md"
+}

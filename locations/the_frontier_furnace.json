@@ -1,0 +1,6 @@
+{
+  "name": "The Frontier Furnace",
+  "desc": "The Frontier Furnace is the [Ignition Union's](faction:the_ignition_union) main base of operations in the [Second Layer](location:second_layer), and is opened after turning on the Generator, guarded by a Bone Keeper.",
+  "additional_info": "-   In Diver's Journal: Apprentice Hero, some of the divers in [Chaser's](entity:chaser_scholar_of_the_crimson_contract) expedition got fed up and assembled an attempt to take shelter inside the furnace, but were most likely killed by him.\n-   You can enter here by breaking through the door with destructive Mantras, however you won't be able to pick up the Arcwarder quest, obtain the Union Hook, or call the Deepdrill without the generator.\n-   Attempting to speak with Alpha or Sunway before turning on the generator will prompt the dialogue: \"You get that generator working?\"\n    -   Llevyn has unique dialogue if you entered this way, saying \"I know what you are.\" in shaky text.",
+  "wiki": "The_Frontier_Furnace.md"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dravik, The Rat King",
+  "aliases": [
+    "Dravik",
+    "The Rat King",
+    "King Dravik"
+  ],
+  "desc": "Dravik, the Rat King is an instanced boss fought in the [Vault of the Aureate](location:vault_of_the_aureate) which is a boundary located in the [The Golden Rat](location:the_golden_rat), near eastern most Waterlock in the [Etrean Luminant](location:luminants). He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to fight the [True Heart of Enmity](entity:heart_of_enmity). The fight unlocks the Flashing Thunder Memento upon defeat while using the Sightless Memento. When Dravik is killed, he appears as a memory inside the [The Cerebral Spire](location:the_cerebral_spire). Upon talking to him, he will tell you to destroy the statue inside [Etris Palace](location:etris_palace) to break the barrier protecting [Zi'eer, the Fourth Prophet](entity:the_lord_regent). To destroy the statue, you need to defeat the True Heart of Enmity in the [Depths Trial](location:cathedral_of_the_interstice).\n\nHe is an elderly Etrean man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs, resembling what could be a darker version of the Imperial Pauldrons and Imperial Boots. A worn, dark cloak or scarf hangs from his shoulders, similar in appearance to a Brilliant Cape dyed black. He uses a custom Greataxe as his weapon, which has a glowing golden crescent blade.\n\n**Starting the Fight with Dravik**\n\n1.  Recommended but not necessary: Defeat the [Shogun of the Prophet's Guard (Temple of Mur)](entity:shogun_of_the_prophets_guard_temple_of_mur) to uncap your Power past 5 and obtain your Memento-specific talents and mantras.\n2.  Make your way to the Waterlocks in-between the [Etrean Sea](location:the_etrean_sea) and [Aratel Sea](location:the_aratel_sea) and enter a small passage, leading to [The Golden Rat](location:the_golden_rat).\n3.  Descend down into [The Golden Rat](location:the_golden_rat) and hug the right wall until you find a large boundary in the floor that teleports you to the boss arena.\n4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat Den boundary, letting you teleport back whenever you need to retry the fight.\n5.  Upon loading in and going through his intro, the fight begins.",
+  "additional_info": "-   When defeated, Dravik will say \"At long last, a death, honorable for a Golden Rat.\"\n-   Dravik is voiced by \"a random guy off of Fiverr \\[for $50\\]\".\n-   The Triangular slash attack is likely a reference to \"Pasmarkinti Charged Blow\" from Monad Studio's previous game, _Rogue Lineage_.\n-   The current soundtrack that plays during the fight is \"Shallow Breath\" by Naktigonis, which was originally an OST meant for the Conquest gamemode.\n-   Dravik, The Rat King was formerly one of the Blade Temple's most exceptional instructors, before his fallout with Maestro Alkhurst Legato regarding the temple's standards.\n-   The hair ID for Dravik's beard is 97197321204898.",
+  "member_of": [
+    "faction:the_golden_rats"
+  ],
+  "leads": [
+    "faction:the_golden_rats"
+  ],
+  "found_at": [
+    "location:the_cerebral_spire"
+  ],
+  "wiki": "Dravik,_The_Rat_King.md"
+}

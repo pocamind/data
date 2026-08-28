@@ -1,0 +1,9 @@
+{
+  "name": "Exter",
+  "desc": "Exter is a Gremor NPC. They are a resident of [Meteor Isle](location:meteor_isle).",
+  "additional_info": "-   The empty space where Exter recalls something important happening is where the first Deepwoken Direct was held. This showed off Deepwoken's combat for the first time, and is arguably the most iconic piece of pre-release Deepwoken footage.\n-   Exter's aspect variant appears to be Redwood.",
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Exter.md"
+}

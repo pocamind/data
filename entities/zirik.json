@@ -1,0 +1,14 @@
+{
+  "name": "Zirik",
+  "aliases": [
+    "Isul"
+  ],
+  "desc": "Zirik is a Ganymede NPC. They accept a bribe for [The Hive](faction:the_hive).\n\nThe Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:the_lordsgrove"
+  ],
+  "wiki": "Zirik.md"
+}

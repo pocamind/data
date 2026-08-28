@@ -1,0 +1,8 @@
+{
+  "name": "Lower Erisia",
+  "desc": "Lower Erisia is the lower portion of [Erisia](location:erisia) that drifted in through the Voidsea from changing currents. Typically, this island is for beginners from power 1-7 and referred by many as \"bandit island.\" It is recommended to learn the basics of combat here, before going anywhere else to progress as a new player.\n\nThis island is recommended for those Power Level 1 through 10 for grinding.",
+  "part_of": [
+    "location:erisia"
+  ],
+  "wiki": "Lower_Erisia.md"
+}

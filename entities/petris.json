@@ -1,0 +1,9 @@
+{
+  "name": "Petris",
+  "desc": "Petris is a middle-aged Etrean NPC. He is a former adventurer who met a bad end at the hands of [the Ferryman](entity:the_ferryman).\n\nHe appears to have summoned the Ferryman in hopes of getting gifts during the era of the Etrean Civil War, but instead the Ferryman killed him and sent him to the Depths.",
+  "additional_info": "-   His position was originally slightly different, but was moved when the elevator was added.",
+  "found_at": [
+    "location:the_city_of_the_drowned"
+  ],
+  "wiki": "Petris.md"
+}

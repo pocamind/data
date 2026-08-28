@@ -1,0 +1,9 @@
+{
+  "name": "Sherman",
+  "desc": "Sherman is a Canor NPC. Seemingly focused on training, they can be heard counting aloud while practicing alone.",
+  "additional_info": "-   Due to having only one line of dialogue, Sherman's name is not visible during normal gameplay.\n-   Originally named Kars.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Sherman.md"
+}

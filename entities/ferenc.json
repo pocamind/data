@@ -1,0 +1,16 @@
+{
+  "name": "Ferenc",
+  "aliases": [
+    "Kazue",
+    "Seon",
+    "Yen"
+  ],
+  "desc": "Ferenc is an Etrean NPC. They accept a bribe for the [Etrean Royalists](faction:etrean_royalists).\n\nThe Inheritor can pay them up to 1,200 to restore their reputation back to neutral.",
+  "member_of": [
+    "faction:etrean_royalists"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Ferenc.md"
+}

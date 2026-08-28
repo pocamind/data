@@ -1,0 +1,15 @@
+{
+  "name": "Pori",
+  "aliases": [
+    "Leland"
+  ],
+  "desc": "Pori is a young Etrean NPC. He is the apprentice to [Blacksmith](entity:blacksmith) [Caragan](entity:caragan).\n\nHe sits outside the shop, near Cloth and Fiber being sold for 6 and 3 Notes respectively. Upon speaking to him, he asks you not to rat on him for \"slacking off\", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 Notes apiece.",
+  "additional_info": "-   If the player chooses the dialogue option to rat Pori out, they can speak to him again to gain the discounts, with no changed dialogue.\n-   If the player already has the discounted items but loses enough reputation to become enemies with Etrea, the discount remains on materials.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Pori.md"
+}

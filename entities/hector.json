@@ -1,0 +1,12 @@
+{
+  "name": "Hector",
+  "desc": "Hector is an Adret NPC. He joined the Authority Navy only to be posted as a prison guard in the [Merit Detainment Core](location:merit_detainment_core).\n\nUnhappy with his position, Hector has no real stake in the Authority's goals, and is perfectly willing to help facilitate the escape of [Titus Fulminus Destellus](entity:titus_fulminus_destellus). Should such a breakout succeed, Hector hopes to use the opportunity to desert the military and return home.\n\nHe wears the Authority Peacekeeper Armor outfit, a Golden Plain Cape, and Tracker's Boots.",
+  "additional_info": "-   Despite claiming to be part of the navy, his status as a prison guard suggests he was either transferred to the terrestrial army, or the Central Authority's military is incredibly homogenized.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:merit_detainment_core"
+  ],
+  "wiki": "Hector.md"
+}

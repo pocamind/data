@@ -1,0 +1,8 @@
+{
+  "name": "Augustus Baaset's sister",
+  "desc": "The sister of [Sentinel Augustus](entity:sentinel_augustus) grew up alongside her eldest brother and three other siblings in a small fishing village in the Central Luminant, born to a family of fishermen. The village was on the edge of [Authority](faction:the_central_authority) influence and thus fell prey to a raid by marauders. The raid killed her parents and two of her siblings, leaving just herself, Augustus, and [one of their brothers](entity:augustus_baasets_brother) left alive. The three vowed to avenge their late family by joining the Central Authority's military, where she eventually attained the rank of Navy Captain. Unlike Augustus, who serves in the Eastern Luminant, the other two serve in the Central Luminant.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Augustus_Baaset's_sister.md"
+}

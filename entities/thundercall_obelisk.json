@@ -1,0 +1,11 @@
+{
+  "name": "Thundercall Obelisk",
+  "aliases": [
+    "Tessa"
+  ],
+  "desc": "The Thundercall Obelisk is an NPC located in a small cave on the northern side of [Boatman's Watch](location:boatmans_watch). It must be located and interacted with, along with [4 other element-based obelisks](entity:saintsworn_obelisks), to obtain the Saintsworn Oath.\n\nIt can only be interacted with if you have at least 15 Thundercall. When interacted with, Tessa, the Hero of Lightning, will speak to the player.",
+  "found_at": [
+    "location:boatmans_watch"
+  ],
+  "wiki": "Thundercall_Obelisk.md"
+}

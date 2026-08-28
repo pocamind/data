@@ -1,0 +1,15 @@
+{
+  "name": "Nepo",
+  "aliases": [
+    "Valois"
+  ],
+  "desc": "Nepo is a Celtor NPC. They accept a bribe for [The Summer Company](faction:the_summer_company).\n\nThe Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.",
+  "additional_info": "-   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Nepo.md"
+}

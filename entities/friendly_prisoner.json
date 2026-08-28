@@ -1,0 +1,8 @@
+{
+  "name": "Friendly Prisoner",
+  "desc": "Friendly Prisoner is a Tiran NPC. He was imprisoned in the [Merit Detainment Core](location:merit_detainment_core) for unknown reasons.\n\nThe Prisoner can give instructions on how to start a jailbreak to the Pathfinder.",
+  "found_at": [
+    "location:merit_detainment_core"
+  ],
+  "wiki": "Friendly_Prisoner.md"
+}

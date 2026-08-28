@@ -1,0 +1,20 @@
+{
+  "name": "Sentinel Augustus",
+  "aliases": [
+    "Augustus Baaset"
+  ],
+  "desc": "Sentinel Augustus is an Adret NPC. He is part of the Shock Trooper division for [The Central Authority](faction:the_central_authority).\n\nHe received his current position after [Sentinel Faris Kesset](entity:sentinel_faris_kesset) was killed by [Titus Fulminus Destellus](entity:titus_fulminus_destellus). The at the time Operator Augustus was close to the late Sentinel, and was eventually assigned her position by [Warden Jericho](entity:warden_jericho). He swore to avenge her, and eventually did so when he captured General Destellus.\n\nHe wields the Duskguard Axe. As signified by his Resonance he is moderately strong.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wields": [
+    "weapon:duskguard_axe"
+  ],
+  "goals": [
+    "Avenge [Sentinel Faris Kesset](entity:sentinel_faris_kesset), who fell to [Titus Fulminus Destellus](entity:titus_fulminus_destellus)"
+  ],
+  "wiki": "Sentinel_Augustus.md"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Ministry Agent",
+  "desc": "The Ministry Cache Agent is an NPC located inside of [The Understrand](location:the_understrand). They can be found by using Shadow Travel/Shadow's Flight near [Silhuett](entity:silhuett), who spawns randomly around the [First Layer](location:first_layer) or at chance by using Shadow Travel/Shadow's Flight on an area that is glowing with an ominous purple light.\n\nIf you have Ally reputation or higher with [The Ministry](faction:the_ministry), they will hand over the Deepspindle, a Deepscorn Casque and the Darkened Bastion without a fight. This only applies via [Silhuett](entity:silhuett) encounters, however. Repeat encounters with the ally method via Silhuett will only grant one of the items from the set instead of all three.",
+  "additional_info": "-   You must beat them within 5 minutes, otherwise you will be teleported out of the Understrand.\n-   Burning the Agent to death will cause nothing to drop, instead after four sorry seconds you will be sent back.\n    -   Strangely enough, burning the Agent with Twisted Puppets causes them to get up, supposedly with half their health back, like how Phoenix Flames works.\n-   The Agent is also a Celtor, as markings can be observed on their face.",
+  "wiki": "Ministry_Agent.md"
+}

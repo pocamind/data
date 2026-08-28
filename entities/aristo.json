@@ -1,0 +1,12 @@
+{
+  "name": "Aristo",
+  "desc": "Aristo is an Etrean NPC. He is a citizen of the [Isle of Vigils](location:isle_of_vigils).\n\nHe is usually the first NPC The Pathfinder will talk to. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](location:erisia). He can also give 25, which is useful starting out.\n\nHe has a counterpart in the [Etris](location:etris) named [Trenti](entity:trenti)",
+  "additional_info": "-   [Trenti](entity:trenti) and Aristo likely share a hivemind, as you cannot receive 20 notes from both despite them being two distinct NPC's.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Aristo.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "The Moonseye",
+  "aliases": [
+    "Moonseye"
+  ],
+  "desc": "The Moonseye is one of the two celestial objects between the Surface and the Heavens - standing as Deepwoken's equivalent of the Moon and the counterpart to the [Suncross](object:the_suncross). Unlike the Suncross, it is suspended between the surface and the Heavens at an equal distance. The light produced by the Moonseye is its own, and not a reflection of the Suncross.\n\nA wide amount of evidence supports the idea that the Moonseye contains a mass of souls, and if proven true, may hold the souls of the Old Dead. Following [the Tides](event:the_tides), the Moonseye no longer pulls souls of the departed into it, but rather [the Depths](location:the_depths). The Depths has a stronger pull on souls than the Moonseye.\n\n[The Moonlit Faith](faction:the_moonlit_faith) is a religion dedicated to the worship of the Moonseye, believing that it is the gateway to the afterlife. The [Starkindred Faith](faction:the_starkindred_church) see the Moonseye as a gate to a promised land that they will journey into following the banishment of the Deep and the revival of Celestials. They also believe that the souls of deceased Celestials make their way into the Moonseye for a promised day.\n\nThe Celestials, namely [Zhatarn](entity:zhatarn) had siphoned souls out of the Moonseye for power, causing said souls pain as they are ripped away from their eternal rest.",
+  "wiki": "Moonseye.md"
+}

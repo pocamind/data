@@ -1,0 +1,8 @@
+{
+  "name": "Pete",
+  "desc": "Pete is a Vesperian NPC who was part of [Cap'n Orlandeau](entity:capn_orlandeau)'s crew in [The Scoundrel's Bounty](location:the_scoundrels_bounty). His position on the ship was not known.",
+  "found_at": [
+    "location:the_scoundrels_bounty"
+  ],
+  "wiki": "Pete.md"
+}

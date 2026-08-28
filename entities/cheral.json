@@ -1,0 +1,12 @@
+{
+  "name": "Cheral",
+  "desc": "Cheral is a Gremor NPC. They are the camp master of [the Children of Navae](faction:the_children_of_navae) camp in the [Etrean Wilds](location:etrean_wilds).\n\nSpeaking to Cheral with a [Navaen Hostage](entity:navaen_hostage) will grant the player the Way of Navae fighting style.",
+  "additional_info": "-   They wear the Navaen Nomad Robes.",
+  "member_of": [
+    "faction:the_children_of_navae"
+  ],
+  "found_at": [
+    "location:etrean_wilds"
+  ],
+  "wiki": "Cheral.md"
+}

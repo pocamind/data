@@ -1,0 +1,13 @@
+{
+  "name": "Chef Odiolavoro",
+  "aliases": [
+    "Odiolavoro",
+    "Chef Buongustino"
+  ],
+  "desc": "Chef Odiolavoro is a Felinor NPC. He is an aspiring, but struggling, \"chef\".\n\nOdiolavoro opened up shop in [Etris](location:etris) recently and is hoping to one day be able to compete with the [Leshi](entity:lance) [brothers](entity:lances_brother).\n\nHe requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the chef weapons, and the Chef's Toque. Artisan food rewards are currently unknown. After a few orders there is a very short cooldown.",
+  "additional_info": "-   Despite desiring to outperform [Lance Leshi](entity:lance) and [Lance's Brother](entity:lances_brother), he requests cheese dishes, despite the only method of obtaining cheese, excluding himself and Guild Bases, being to purchase it from Lance's Brother, thus giving his direct competition business and money. As this is never addressed, it's likely there is no lore reason and he is simply stupid.\n-   He actually acknowledges Lance's Brother, and unlike [Stratos](entity:stratos) he is not in contact with him daily, making him possibly the only one to do so.\n-   It's implied he's actually not that skilled as a cook, as his criticisms of the player's food include him thinking the food should be burnt to ash.\n    -   However, giving him artisan food can make him say the food is too good for his customers and he will eat it it himself.\n-   In Italian, \"Odio\" translates to \"I hate,\" and \"Lavoro\" translates to work, corresponding with his actions of asking the player to cook for him instead of actually learning how to cook for himself.\n-   Chef Odiolavoro will not ask the player to make the following food due to their obtainment methods: Kyrsdog, Pumpkin Pie, Dread Filet, Primal Cutlet, Grilled Parasol Brain, and Heavy Steak.",
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Chef_Odiolavoro.md"
+}

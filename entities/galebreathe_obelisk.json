@@ -1,0 +1,12 @@
+{
+  "name": "Galebreathe Obelisk",
+  "aliases": [
+    "Trinity Galenwarde"
+  ],
+  "desc": "The Galebreathe Obelisk is an NPC located in a fractured, eroded area above the [Burning Stone Gardens](location:burning_stone_gardens) on the path to [Duke Erisia's Manor](location:duke_erisias_manor). It must be located and interacted with, along with [4 other element-based obelisks](entity:saintsworn_obelisks), to obtain the Saintsworn Oath.\n\nIt can only be interacted with if you have at least 15 Galebreathe. When interacted with, Trinity Galenwarde, the Hero of Wind, will speak to the player.",
+  "additional_info": "-   Previously, the Obelisk was located in a crack in the wall within the Burning Stone Gardens' cave system, near the end of the path taken to Duke Erisia's Manor. It was moved to be above ground, but remains in roughly the same spot on the map.",
+  "found_at": [
+    "location:burning_stone_gardens"
+  ],
+  "wiki": "Galebreathe_Obelisk.md"
+}

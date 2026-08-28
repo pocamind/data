@@ -1,0 +1,9 @@
+{
+  "name": "Marcus",
+  "desc": "Marcus is inarguably the _coolest_ Stonespark, if not the **coolest** NPC (apart from [The Meat Lord](entity:the_meat_lord)), in this vast game of _Deepwoken_. He is of a _modest_ and _small_ size, unlike his **braggart Rock Golem** cousins, and _calm_ and _collected_ compared to his **belligerent Stonespark** siblings, who prefer to attack you on sight. He prefers relaxing over a nice warm beverage.\n\nThe only entity that could surpass Marcus' incomprehensible power would be [The Meat Lord](entity:the_meat_lord), as both have risen to levels **above** the powers of Drowned Gods.\n\nAlthough Marcus does not give any rewards, XP, loot or even gameplay advice to the player, it's always great to talk to him as he is **undoubtedly**, **hands down**, the **most chill** NPC in **all** of Deepwoken.",
+  "additional_info": "-   Prior to the July 14th, 2025 update, Marcus was the only Stonespark in the entire game, created before [Duke Ishamon Erisia](entity:duke_ishamon_erisia) decided to step up his security.",
+  "found_at": [
+    "location:the_hidden_village"
+  ],
+  "wiki": "Marcus.md"
+}

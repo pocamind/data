@@ -1,0 +1,8 @@
+{
+  "name": "Markor",
+  "desc": "**Markor** is a savannah region in [the Central Luminant](location:luminants), the homeland of Felinor, and currently a territory conquered by [the Central Authority](faction:the_central_authority).\n\nAlong with the Felinor originating from here, Markor is also the origin of scimitars and similar blades. The Sea Highways also come from here, made by a company of Thundercallers, known as the Golden Link.",
+  "part_of": [
+    "location:luminants"
+  ],
+  "wiki": "Markor.md"
+}

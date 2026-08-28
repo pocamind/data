@@ -1,0 +1,24 @@
+{
+  "name": "Blacksmith",
+  "aliases": [
+    "Etris: Caragan",
+    "Isle of Vigils: Baragan",
+    "Miner's Landing: Rudral",
+    "The Floating Keep: Louie Spellhardt"
+  ],
+  "desc": "Blacksmith are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage Outfits. They are also the leading source of Cloth and Fiber, essential to craft Outfits, as well as selling utility tools.\n\nBlacksmiths have 3 functions: opening the Outfits menu, crafting Seasonal Medals, and exchanging Pure Ores for moderate-tier loot. Additionally, they sell:\n\n-   Cloth for 6\n-   Fiber for 3\n-   Coal for 15\n-   Pickaxe for 3\n-   Lumber Axe for 3\n-   Flint for 3\n-   Iron for 20\n-   Gold for 50\n\nBlacksmiths will refuse to service the player if their reputation is too low with the faction of the location they're at.\n\n**To craft an outfit**\n\n-   The blue highlighted text is the schematics you have on hand, if you press **Learn**, the outfit will move to the recipe that it belongs to.\n-   An outfit recipe retains the requirements, stats, Talent description (if it has a Talent) as well as the outfit description.\n-   If you have multiple crafted outfits, the current one will be an orange color while the rest will be a bolded white.\n-   Repairing durability is free.\n\n**Transmogging outfits**\n\n_More info: Transmogrification_\n\n-   If you have more than one outfit crafted, pressing **Transmog** will allow you to transmogrify currently equipped outfit with any other outfit you've crafted, wearing the **appearance** of the selected outfit but keeping the **stats** of your currently equipped one.\n\n**To turn in pure ores**\n\n-   Press the second option with a pure ore in hand.\n    -   Pure Iron is not able to be turned in.\n    -   Erisore chests are the plain wooden chests, and they usually give blindfolds among other Erisia loot.\n    -   If you turn in a pure ore 5 times, you get the excavator Talent.\n\n**Craft event items with Knowledge**\n\n-   You are able to craft limited-time items using Knowledge if you bought Seasonal Medals during a Deepwoken event, such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](entity:lysander_spellhardt) during Hallowtide. You can also craft the Party Hat obtained by joining during the Festival of a Billion Souls mini event in 2024.\n    -   You can craft outfits, weapons, and even enchants and mantras that were from these events.",
+  "additional_info": "-   All of them are wearing Smith's Bandana, Smith's Goggles and Smith's Gloves.\n-   Curiously, it appears the blacksmiths at [Etris](location:etris) and [Isle of Vigils](location:isle_of_vigils) are brothers.\n-   The blacksmith in [Etris](location:etris) has an [apprentice outside the store](entity:pori). He will ask for you to not rat on him, if you do not rat on him, you will get a 50% discount, rounded-down, on all materials purchasable at the [Etris](location:etris) Blacksmith, however ratting on him does nothing and the prices will stay the same.\n-   All blacksmiths excluding those present in [The Floating Keep](location:the_floating_keep) and [Castle Light](location:castle_light) wear the same outfit.\n    -   Roblox clothing: Shirt / Pants",
+  "found_at": [
+    "location:etris",
+    "location:isle_of_vigils",
+    "location:summer_isle",
+    "location:greathive_aratel",
+    "location:fort_merit",
+    "location:miners_landing",
+    "location:meteor_isle",
+    "location:castle_light",
+    "location:the_floating_keep",
+    "location:voidheart"
+  ],
+  "wiki": "Blacksmith.md"
+}

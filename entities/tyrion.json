@@ -1,0 +1,9 @@
+{
+  "name": "Tyrion",
+  "desc": "Tyrion is a Canor NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Tyrion's name is not visible during normal gameplay.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Tyrion.md"
+}

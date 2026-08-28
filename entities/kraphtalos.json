@@ -1,0 +1,9 @@
+{
+  "name": "Kraphtalos",
+  "desc": "Kraphtalos is a Canor NPC.\n\nHe is a retired Justicar at [Alsin's Landing](location:alsins_landing) that was formerly known for using his Resonance to transport others across the Luminant. As Justicars began working more independently and his own pressure to constantly teleport people he decided to leave that path behind to pursue pottery instead.\n\nKraphtalos wears the sightly darkened down version of the Justicar's Armor outfit, a rocky version of the Silver Pauldrons with a rocky pair of Silver Sabatons, and Smith's Goggles.",
+  "additional_info": "-   Kraphtalos Resonance is described as working similarly to the Teleportation Resonance. Whether or not this is because he is the canonical wielder of this Resonance is unclear.\n-   His reaction to Voidwalkers is an internet meme.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Kraphtalos.md"
+}

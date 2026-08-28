@@ -1,0 +1,14 @@
+{
+  "name": "Gunsmith Hierka",
+  "aliases": [
+    "Hierka",
+    "Gunsmith"
+  ],
+  "desc": "The former protégé of [Gunsmith Rosen](entity:gunsmith_rosen), Hierka was really loyal to the [The Central Authority](faction:the_central_authority)'s [Bureau of Research](faction:bureau_of_research) and had aligned himself with [The Summer Company](faction:the_summer_company) to steal their secrets. Under Rosen's watch, Hierka achieved the rank of gunsmith. Hierka modified Rosen's designs to produce the Rifle Spear, but his deception was eventually discovered.",
+  "member_of": [
+    "faction:the_central_authority",
+    "faction:bureau_of_research",
+    "faction:the_summer_company"
+  ],
+  "wiki": "Gunsmith_Hierka.md"
+}

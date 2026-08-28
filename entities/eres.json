@@ -1,0 +1,12 @@
+{
+  "name": "Eres",
+  "desc": "Eres is an Etrean NPC. Eres was part of an Etrean Navy unit that was captured by [The Central Authority](faction:the_central_authority) in [Aratel](location:the_aratel_sea) and imprisoned at [Fort Merit](location:fort_merit). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war.\n\nHe also talks about his relationship with [Sekh](entity:sekh), a Vesperian Hive Scout who also resides on Meteor Isle.",
+  "additional_info": "-   His racial variant appears to be Mamba.\n-   Based on Eres' story, some of the [Etrean prisoners](entity:etrean_guardsman_hostage) in Fort Merit that the player can rescue may be his friends.\n    -   However, it is equally likely that - as Eres fears - his friends have already been executed and the Etreans in Fort Merit are from a different unit.\n-   Eres' prayer references a \"king\", who could be the Fifth King of Etrea - Eres asks for help resisting the \"ocean's call\", and it is said that the Fifth King could cut through the waves themselves. Finally, the prayer references \"clouded sight\", which could be [The Lord Regent](entity:the_lord_regent)'s mental veil.\n    -   However, it would be bizarre for the latter to be the case, as it would imply a prayer about resisting their current leader somehow became common among the people, despite the Lord Regent controlling the flow of information.\n    -   It is likely that despite his distance from Etrea, Eres is still under the influence of the Lord Regent's veil, as the only recorded case of this veil being broken resulted in the veiled one's brutal death.\n        -   Given Inquisitor Lotus' description of Authority Mind Veils, and Zi'eer's being a more powerful variant, this is most likely the case, unless the Lord Regent traded the range of the Veil in exchange for it's ability to affect multiple people.\n    -   The \"ocean's call\" may also simply refer to the power of the Drowned Gods and the Tides.\n-   Eres' opening dialogue in subsequent conversations says that he sitting \"against a wall\", although there are no walls near him; only benches.\n-   Developer Naktigonis wrote the dialogue for Eres.\n-   Eres and Sekh are stated to both be gay, but appear to be stuck in the talking phase.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Eres.md"
+}

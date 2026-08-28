@@ -1,0 +1,12 @@
+{
+  "name": "Samael",
+  "desc": "Samael is an NPC. They are a Starkindred.\n\nSamael serves as the trainer for the Starkindred Oath. They praise the Celestial that has been captured.\n\nThey wear a Pathfinder Arch-Sorcerer over a dark cloak and hood and dons a bright yellow Starkindred halo. On their back are a pair of black wings.",
+  "additional_info": "-   Of the currently playable aspects in-game, Samael cannot be any of the following based on the absence of their defining traits: Adret, Capra, Chrysid, Ganymede, Gremor, Tiran, or Vesperian. This narrows the possibilities to Canor, Celtor, Etrean, and Khan.\n-   Their old appearance simply left them with the old Lesser Angel mask that completely hid their identity while keeping the Pathfinder Arch-Sorcerer Outfit.",
+  "member_of": [
+    "faction:the_starkindred_church"
+  ],
+  "found_at": [
+    "location:derelict_highchurch"
+  ],
+  "wiki": "Samael.md"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Grandmaster Vanguard Legidae",
+  "aliases": [
+    "Vanguard Legidae",
+    "Grandmaster"
+  ],
+  "desc": "Grandmaster Vanguard Legidae is a Tiran NPC. He is a Justicar residing in [Alsin's Landing](location:alsins_landing). As the Grandmaster of the Vanguard path, he teaches Justicars to protect the weak and stand against villainy.\n\nGrandmaster Vanguard Legidae wears the sightly darkened down version of the Justicar's Armor outfit, with Grand Pauldrons, Grand Boots, and a Golden version of the Tiran Pendant.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Grandmaster_Vanguard_Legidae.md"
+}

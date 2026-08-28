@@ -1,0 +1,12 @@
+{
+  "name": "Soothsayer",
+  "desc": "The Soothsayer is a Celtor NPC. They let you exchange Knowledge for Notes and reputation with [The Ministry](faction:the_ministry) at a rate of 300 per 1.",
+  "additional_info": "-   It would take ~10 knowledge to reach neutral from base reputation.\n-   It takes 45 Knowledge from enemy rank to become hero rank.\n-   It would take 334 Knowledge to get 0-100,000 notes.\n-   This NPC is an easy way to get Ministry Reputation for the Contractor Oath.\n-   The Dialog \"AH! ALL SO CLEAR! THE VOW! OH, THE VOW THEY MADE! WHAT FOLLY! WHAT FOLLY!\" is a reference to how the Celtor Guards/Soldiers made the Vows with a entity (Possibly the voices of the depths) to \"Keep Celtor safe\", However that vow really just made them and the Monsters not attack each other and made Angels Servants till death for the watchers. Making Celtor even more dangerous",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "found_at": [
+    "location:starfield_tundra"
+  ],
+  "wiki": "Soothsayer.md"
+}

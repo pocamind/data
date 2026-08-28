@@ -1,0 +1,12 @@
+{
+  "name": "Peipre",
+  "desc": "Peipre is a Capra NPC. They are a member of [The Central Authority](faction:the_central_authority) investigating the arrival of [Simforea](location:simforea).\n\nPeipre wears the Inquisition Light Outfit and wields the Big Brother on their back, signifying their allegiance to The Inquisition.",
+  "additional_info": "-   Peipre seems to be a different Capra variant to the available options.\n-   Peipre has a unique telescope.\n    -   Peipre actually has green eyes, but the eye magnified through the telescope is blue.\n    -   Peipre, like all NPCs, will turn to whoever is talking to them. This causes his eye to no longer be aligned with the telescope, though doesn't cause the magnified image of his eye to disappear.\n-   Peipre's name is a play on the word \"peeping,\" specifically describing someone as a \"peeper\" referring to someone who secretly watches.\n    -   Given their allegiance to The Central Authority's Inquisition, Peipre's name may also derive from Joachim Peiper, an infamous member of the _Waffen-SS_.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:port_merit"
+  ],
+  "wiki": "Peipre.md"
+}

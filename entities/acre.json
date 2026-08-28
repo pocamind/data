@@ -1,0 +1,8 @@
+{
+  "name": "Acre",
+  "desc": "Acre is an Adret sitting on a ledge overlooking the water wearing the Skeptic Pioneer Outfit, they throw you off into the water if you continue their dialogue.",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Acre.md"
+}

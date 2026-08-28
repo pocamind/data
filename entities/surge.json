@@ -1,0 +1,9 @@
+{
+  "name": "Surge",
+  "desc": "Surge is a Canor NPC found in the [First Layer](location:first_layer). Surge has an \"interest\" in the Deep Owls and can teach the Pathfinder the tricks of the mind in return for Void Feathers.\n\nSpeaking to Surge while having a Dark Feather in the inventory and meeting the requirements to obtain Oath: Visionshaper, the Pathfinder will be teleported to [A Conscious Intersection](location:a_conscious_intersection) to speak to [The Nestmind](entity:the_nestmind). Visionshaper abilities are unlocked by giving Surge Void Feathers, up to a total of 5 times to obtain all abilities.",
+  "additional_info": "-   Surge used to have the Visionshaper eye customization that he teaches upon unlocking the Oath. After the **official** release of the Oath, this was removed.\n-   Surge was described in the update version logs as 'not what he appears to be' and may be a husk of a former Visionshaper, destroyed by the Nestmind to lure more prey or hunters to devour.\n-   Surge's hair id is: 6718330531; and the link is: https://www.roblox.com/catalog/6718330531/Blonde-Anime-Boy-Hair",
+  "found_at": [
+    "location:first_layer"
+  ],
+  "wiki": "Surge.md"
+}

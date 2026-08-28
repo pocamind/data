@@ -1,0 +1,8 @@
+{
+  "name": "Amenre Skiggle Bop",
+  "desc": "Amenre Skiggle Bop is a Kyrsan NPC. They are one of the few lucid Kyrsans left who spends their days listening to the Kyrsan Break.\n\nThey wear a pair of headphones, listening to the Kyrsan Break. They have a distinct green head that separates them from other Kyrsans.",
+  "found_at": [
+    "location:kyrsan_wilds"
+  ],
+  "wiki": "Amenre_Skiggle_Bop.md"
+}

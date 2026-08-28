@@ -1,0 +1,15 @@
+{
+  "name": "Mendacia",
+  "aliases": [
+    "Ethiron"
+  ],
+  "desc": "Mendacia is a Tiran with the Black Diver outfit who tasks you with the quest of saving her in the [Second Layer](location:second_layer). She claims to be an Arch-Diver in charge of the Interstice Skies, and upon completing her quest you are awarded with 2 Knowledge and some questionable information. You can find her in the [Ethironal Shrine Outskirts](location:ethironal_shrine_outskirts) once you spawn in [the Second Layer](location:the_ethironal_shrine).\n\nShe remains invisible near some rocks until the player comes close enough to interact with her. When the player interacts with Mendacia, she manifests in a ghostly form, saying that you need to free her from the second floor of [New Kyrsa](location:new_kyrsa) and that she is being imprisoned by the Kyrsgarde. Once you complete her quest and \"free her,\" she will unmask herself as the Voice of [Ethiron](entity:ethiron_the_maelstroms_eye) and mock you. Here, it's revealed that she, or rather he, tricked you into awakening the Scion of Ethiron, saying that he was holding a form of \"A scum meat bag of your foolishness.\"",
+  "additional_info": "-   Once you encounter her in Floor 1, you can go back to Klaris and ask her about the Arch-Divers and the Interstice Skies. She shows no knowledge of either concept and states they are likely made up.\n-   Her name means \"Lies\" in Latin.\n-   Obtaining Knowledge by denying Mendacia as well as when doing her quest may be foreshadowing for her true identity. As a higher being, mere contact with Ethiron was likely enough for Knowledge to be transfered. As for why this does not happen when accepting her quest, it may be because the transfer only occurs when Ethiron loses interest.",
+  "found_at": [
+    "location:ethironal_shrine_outskirts",
+    "location:firfire_caverns",
+    "location:kyrsan_wilds",
+    "location:new_kyrsa"
+  ],
+  "wiki": "Mendacia.md"
+}

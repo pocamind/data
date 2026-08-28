@@ -1,0 +1,8 @@
+{
+  "name": "Unidentified Legion Praetorian",
+  "desc": "A Legion Praetorian is said to have used the Imperial Staff while in service to [The Hundred Legions](faction:the_hundred_legions). The Praetorian is believed to have used it to destroy entire towns during the Legions' expansion.\n\nThe Praetorian and his weapon have since attained a legendary reputation, though the truth regarding their feats are a matter of some debate.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "wiki": "Unidentified_Legion_Praetorian.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ysley",
+  "desc": "Ysley was a powerful figure in [The Hive](faction:the_hive). He cleared Operator Polaris Enigvidion of wrongdoing after discovering the truth and recognizing his abilities. Ysley recruited Polaris into a higher order within the Hive.\n\nYsley was a later wielder of the Ysley's Pyre Keeper once belonging to a High Curator of the Hive. Originally crafted by the 2nd Greatlord as a gift to the pacifist 3rd, the weapons went unused for years until Ysley acquired them. Unlike the 3rd Hivelord, Ysley restored them as instruments of combat.",
+  "additional_info": "-   Creator of Curse of Ysley's Ember.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "wiki": "Ysley.md"
+}

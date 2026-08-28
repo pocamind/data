@@ -1,0 +1,12 @@
+{
+  "name": "Elder Primadon, The Titan Warlord",
+  "aliases": [
+    "Primadon, Titan of the East"
+  ],
+  "desc": "Elder Primadon, the Titan Warlord is a stronger version of [Primadon](entity:elder_primadon_the_titan_warlord), with a larger body, darker skin tone, and glowing eyes.\n\nSimilar to [Primadon](entity:elder_primadon_the_titan_warlord), the Elder can be summoned by making an offering, however this variant of the beast only takes Sinner's Ash as an adequate offering. Elder Primadon will despawn after 23 minutes.",
+  "additional_info": "-   Elder Primadon is the only feature to not appear in private servers. This is because it prevents outside parties ganking for the loot.",
+  "found_at": [
+    "location:the_monkeys_paw"
+  ],
+  "wiki": "Elder_Primadon,_The_Titan_Warlord.md"
+}
