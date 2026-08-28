@@ -1,0 +1,16 @@
+{
+  "name": "Mystic",
+  "desc": "Mystics were Chrysid NPCs that appeared in multiple locations around the map. For 20, they used to prompt you with Talent or Mantra categories. Upon picking a prompt, the next time you obtain a Talent or Whisper Draw, you would be guaranteed to get at least 1 Talent or Mantra of that type. This interaction could have been repeated infinite number of times with sufficient number of Notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.\n\nNote: Mantras are generated as the cards are flipped, meaning Mystics can be used during a Power up and inbetween card choices to manipulate the cards you obtain on your next hand.",
+  "additional_info": "-   Mystics used to have unique dialogue for most Talent trees in the game, but due to this system overall being quite confusing and requiring a third party website most of the time, these were removed and were replaced with simply the Talent category's name. These can be found on the Cut Content page.\n-   If you lack the 20 Note fee, the Mystic would state: \"No money, friend? How ever will I feed myself?\"\n-   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.\n-   Mystics were almost exclusively Chrysid. Seemingly due to their connection with spirituality and religion, however there is one non-Chrysid mystic, being the one in [Saramaed Hollow](location:saramaed_hollow) who is a Vesperian. Strangely, this Mystic had the Chrysid antennae.\n-   The Mystic uses the following outfits made by SirAndrove2:\n    -   Roblox clothing: Shirt / Pants",
+  "found_at": [
+    "location:etris",
+    "location:summer_isle",
+    "location:castle_light",
+    "location:voidheart",
+    "location:greathive_aratel",
+    "location:miners_landing",
+    "location:isle_of_vigils",
+    "location:meteor_isle"
+  ],
+  "wiki": "Mystic.md"
+}

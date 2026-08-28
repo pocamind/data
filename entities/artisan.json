@@ -1,0 +1,6 @@
+{
+  "name": "Artisan",
+  "desc": "The Artisan is an NPC. They are found in the Guild Base and are capable of smelting items for 800.",
+  "additional_info": "-   They function identically as [Jarvis](entity:jarvis).",
+  "wiki": "Artisan.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ivory",
+  "desc": "Ivory was a Celtor NPC questgiver that could have been found in the [Pathfinder's Respite](location:pathfinders_respite). She wore a Pathfinder Sorcerer outfit\n\nIvory gave the player a quest to go up to the highest peak in [Erisia](location:erisia), and to gaze into the purple flame, rewarding them the Air Dash Echo Talent.\n\nIvory was removed on the March 8th, 2025 update, as the reward for finishing her quest, the Aerial Assault Talent, was made innate, alongside the addition of Chained Ring.",
+  "found_at": [
+    "location:pathfinders_respite"
+  ],
+  "wiki": "Ivory.md"
+}

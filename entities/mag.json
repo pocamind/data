@@ -1,0 +1,15 @@
+{
+  "name": "Mag",
+  "aliases": [
+    "Nitron"
+  ],
+  "desc": "Mag is a Birch Gremor NPC. They can craft Bullet Casings by converting 200 Bullets into specialized variants using Ores, for a fee of up to 40. These modified bullets offer unique properties and playstyles.\n\nThey wear a Black Plain Hood and the Summer Company Uniform.",
+  "additional_info": "-   Their name is a reference to magazines, a part found on guns.\n-   The [Gunsmith](entity:gunsmith) NPC found in the Guild Base is near identical to Mag, with the only exception being their appearance.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Mag.md"
+}

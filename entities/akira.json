@@ -1,0 +1,15 @@
+{
+  "name": "Akira",
+  "desc": "Akira is an Etrean NPC.\n\nAkira is one of the strongest Black Divers in modern history, on the same tier as [Klaris](entity:klaris_llfiend_mother_of_lights) and [Chaser](entity:chaser_scholar_of_the_crimson_contract).\n\nHis Bell (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.\n\nPlayers who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.\n\nAkira is a young Etrean with widely scuffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of Dew Drop Earrings.\n\nHe has a Katana behind his back and a Corrupted Bell resting at his hip. He additionally wears a pitch black Kyrsan Necklace.",
+  "additional_info": "-   He uses an unobtainable Frostdraw spell. Upon usage he summons a laser across the ground in front of him, creating a line of frost.\n-   His sword is the only instance of a Katana being strapped to the back rather than sheathed. (It is confirmed to be actually floating behind him, rather than being strapped to his back.)\n-   Akira's hair can be found here: https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair\n-   Players have the option to call Akira \"snake-eyed bookworm trash\" as an insult. This is the only instance in _Deepwoken_ of an individual calling someone else an ethnic slur.\n-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, \"I've seen worse.\"\n-   Akira's bell is officially called \"Top-pop.\"\n-   Akira's bell flashes purple when he kills the Ignition Union officers.\n-   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace\n-   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.\n    -   Like [Kennith](entity:kennith) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being dead.\n    -   Even more strangely, they all seem to be linked in some way or another, as they will only ever spawn with all four of them having Enchanted weapons or none at all.\n    -   They can also be spat on, which will make them equip their weapon, then unequip it.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light"
+  ],
+  "wields": [
+    "weapon:katana"
+  ],
+  "wiki": "Akira.md"
+}

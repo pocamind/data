@@ -1,0 +1,9 @@
+{
+  "name": "Lucy",
+  "desc": "Lucy is a Gremor NPC.\n\nThey appear sprawled out on the floor in [The City of the Drowned](location:the_city_of_the_drowned). They appear to have a grudge against [The Divers](faction:the_divers) and might be slightly insane as they hear voices talking to them.",
+  "additional_info": "-   Lucy was originally a Canor but was changed to a Gremor for unknown reasons.",
+  "found_at": [
+    "location:the_city_of_the_drowned"
+  ],
+  "wiki": "Lucy.md"
+}

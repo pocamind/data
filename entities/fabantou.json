@@ -1,0 +1,15 @@
+{
+  "name": "Fabantou",
+  "aliases": [
+    "Hugo"
+  ],
+  "desc": "Fabantou is a Felinor NPC. He is the landlord of [The Three Cheers](location:the_three_cheers).\n\nFormerly in charge of [the Central Authority](faction:the_central_authority)'s mess hall, he left to start a civilian career with The Three Cheers, though he only serves military personnel. He sells the Tankard of Ongo Juice and Fool's Tankard if the player is an Authority Ensign.",
+  "additional_info": "-   His name originates from an alias used by Monsieur Thénardier in _Les Misérables_. The phrases he says when purchasing drinks are lyrics taken from Master of the House, a song sung by Thénardier.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:the_three_cheers"
+  ],
+  "wiki": "Fabantou.md"
+}

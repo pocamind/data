@@ -1,0 +1,6 @@
+{
+  "name": "Nest Corridor",
+  "desc": "The Nest Corridor is a location located between [Firfire Caverns](location:firfire_caverns) and [The Maw of Ethiron](location:the_maw_of_ethiron). Stepping foot into the corridor prompts waves of multiple Bounders to spawn, and is one of the requirements to spawn the [Chaser](entity:chaser_scholar_of_the_crimson_contract) boss fight. At the end of the corridor, opposite of a fenced ledge is the Ignition Deepdrill, which will only spawn if you got [Llevyn](entity:llevyn) to call it beforehand. If you are feeling very confident, killing four of the six bounders rewards you with a chest that has the same amount of items and drop rates as the one that drops from Chaser (if not better), as the bounders are not meant to be killed, just evaded and ignored.\n\nKeep in mind that leaving Layer 2 through the Deepdrill will _not_ let you keep the loot that you gathered while there, unless it's equipment that you already have equipped.",
+  "additional_info": "-   There is a small space outside of the corridor itself where you can climb up from a ledge and spawn the Bounders without risking your life.\n    -   This is typically used for speedrunning.",
+  "wiki": "Nest_Corridor.md"
+}

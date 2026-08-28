@@ -1,0 +1,8 @@
+{
+  "name": "The Etrean Sea",
+  "desc": "The Etrean Sea is the first sea that beginners will encounter. It is a very large region, encompassing most of the Etrean Luminant except where the Voidsea is. The Etrean Sea is not as violent as the Aratel Sea, but still has some natural encounters.",
+  "part_of": [
+    "location:luminants"
+  ],
+  "wiki": "The_Etrean_Sea.md"
+}

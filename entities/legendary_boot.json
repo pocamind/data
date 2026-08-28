@@ -1,0 +1,9 @@
+{
+  "name": "Legendary Boot",
+  "desc": "The legendary Boot is an NPC that searches for someone worthy to wear it. It is possible to be worthy by having the Worthy Regalia.",
+  "additional_info": "-   The Legendary Boot is mentioned as \"trash\" in one of [Traan Zakshun's](entity:traan_zakshun) Black Market lines.",
+  "found_at": [
+    "location:erisia"
+  ],
+  "wiki": "Legendary_Boot.md"
+}

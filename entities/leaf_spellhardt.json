@@ -1,0 +1,8 @@
+{
+  "name": "Leaf Spellhardt",
+  "desc": "Leaf Spellhardt is Lightborn NPC. He is the [Mantra Collector](entity:mantra_collector) of the Spellhardt family.\n\nHe wears the Cala-Mariner outfit.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Leaf_Spellhardt.md"
+}

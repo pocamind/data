@@ -1,0 +1,15 @@
+{
+  "name": "Dust",
+  "aliases": [
+    "Mote"
+  ],
+  "desc": "Dust is a Celtor NPC. They are a [Diver](faction:the_divers).\n\nThey can be found praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning their fallen fellow Divers.",
+  "additional_info": "-   Dust's racial variant appears to be Badger.\n-   They share the same hair combo as [Karliah](entity:karliah).",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light"
+  ],
+  "wiki": "Dust.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Alirian",
+  "desc": "**Alirian** is a Celtor that wears a Vigil Hood and the Windrunner Robes, strongly resembling the [Windrunner](entity:windrunner). She is a crucial step into unlocking Jetstriker.\n\nUpon reaching 50 Agility, Alirian will challenge the player to a race, the finish point being next to an abandoned building, sometimes inhabited by Ministry Scouts. After reaching the finish point, the player can agree to form a rivalry, and receive the Jetstriker Oath, where she will inform you about the Orbs you can collect to progress Jetstriker. Info on these orbs can be found on its Oaths page.",
+  "additional_info": "-   If you beat her in a race while already possessing an Oath, she will only say \"Huff\".\n-   Alirian uses the Windrunner Robes outfit.\n-   She seems to value her and the player's frenemy relationship a lot.",
+  "found_at": [
+    "location:minityrsa"
+  ],
+  "wiki": "Alirian.md"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Moon's Eyrie",
+  "desc": "Moon's Eyrie is a mysterious island found within the Voidsea, potentially made as a sort of vault for the Celestials' weapons. It has strange architecture, many evident ties to the Moonseye, and is guarded by several Moon Knights.\n\nMoon's Eyrie's location on the minimap",
+  "additional_info": "-   Previously, despite being located inside the [Voidsea](location:voidsea), the area was not considered as a Voidzone. However, the Voidsea was changed in the December 14th, 2024 patch, causing the area to be considered a Voidzone.\n-   A good place to farm for the Astral Enchant Stone as Moon Knights have a chance to drop it.\n-   For Pathfinders, it is located at x: -4713, z: -13751.\n-   For Vow of Iron, it is located at x: -9575, z: -13610\n-   [Kaide, the Drowned Light](entity:kaide_the_drowned_light) gives some insight on where to find this island, as well as some lore about it.\n-   After killing the Moon Knight, the door closes in 4 minutes and the stone pillars glows again.",
+  "wiki": "Moon's_Eyrie.md"
+}

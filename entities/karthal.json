@@ -1,0 +1,11 @@
+{
+  "name": "Karthal",
+  "desc": "Karthal is a Celtor NPC. They are a [Diver](faction:the_divers) watching over the Hell Mode bell.\n\nThey are wearing the Diver Apprentice Robes.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:first_layer"
+  ],
+  "wiki": "Karthal.md"
+}

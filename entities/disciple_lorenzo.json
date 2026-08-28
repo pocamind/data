@@ -1,0 +1,11 @@
+{
+  "name": "Disciple Lorenzo",
+  "aliases": [
+    "Lorenzo"
+  ],
+  "desc": "Disciple Lorenzo is a Khan NPC.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Disciple_Lorenzo.md"
+}

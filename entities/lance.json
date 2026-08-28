@@ -1,0 +1,15 @@
+{
+  "name": "Lance",
+  "aliases": [
+    "Lance Leshi"
+  ],
+  "desc": "Lance Leshi is an Etrean NPC. He is a renowned chef who runs Lance's Food.\n\nLance sells Mushroom Bisques for 20, Megurgers for 15, and Mushroom Omelettes for 15.",
+  "additional_info": "-   Lance has a [brother](entity:lances_brother) located in the [Isle of Vigils](location:isle_of_vigils), but you forgot what his name was...\n-   In the credits, SnakeWorl is seemingly credited as Lance.\n-   Lance's beard ID is 4995497755 and hair ID is 5891039736.\n-   Lance has purple eyes and black hair, which isn't actually possible as an Etrean.\n-   Lance wears the Merchant Robes and a yellow Headband.\n-   Lance has banned Destroyman III from his restaurant.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Lance.md"
+}

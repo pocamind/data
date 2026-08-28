@@ -1,0 +1,11 @@
+{
+  "name": "Theadre",
+  "desc": "Theadre is an Etrean NPC. He is a believer in the return of the old King of Etrea.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Theadre.md"
+}

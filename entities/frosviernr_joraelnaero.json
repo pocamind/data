@@ -1,0 +1,8 @@
+{
+  "name": "Frosviernr Joraelnaero",
+  "desc": "Frosviernr is a Kyrsan NPC found in [second floor](location:new_kyrsa) of the [Second Layer](location:second_layer), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the Kyrswynter.\n\nHe is the brother of fellow Kyrsan [Naerotiv](entity:naerotiv).",
+  "found_at": [
+    "location:new_kyrsa"
+  ],
+  "wiki": "Frosviernr_Joraelnaero.md"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Shipwright",
+  "aliases": [
+    "Greathive Aratel: Kaab"
+  ],
+  "desc": "Shipwrights are NPCS, mainly based in populated faction bases or locations, that allow you to purchase and repair boats with Notes when interacting with one of them.",
+  "found_at": [
+    "location:etris",
+    "location:isle_of_vigils",
+    "location:minityrsa",
+    "location:greathive_aratel",
+    "location:miners_landing",
+    "location:meteor_isle",
+    "location:port_merit",
+    "location:summer_isle"
+  ],
+  "wiki": "Shipwright.md"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Llevyn",
+  "desc": "Llevyn is an Adret NPC in the [Second Layer](location:second_layer). Talking to them after powering on the Generator, they can call down an Ignition Deepdrill which will arrive at the end of the [Nest Corridor](location:nest_corridor).\n\nThe Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](entity:chaser_scholar_of_the_crimson_contract).",
+  "additional_info": "-   There is an Easter Egg if the player talks to them too early. They use unique dialogue if the generator has not been activated, seemingly calling out the player for being an exploiter.\n    -   Despite this, there are other ways to get in to The Frontier Furnace, such as glitching through using Mantras, so this interaction does not ban you outright.\n-   They are a Boulder variant Adret.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_frontier_furnace"
+  ],
+  "wiki": "Llevyn.md"
+}

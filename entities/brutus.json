@@ -1,0 +1,12 @@
+{
+  "name": "Brutus",
+  "desc": "Brutus is a Khan NPC. He is He is a member of [The Hundred Legions](faction:the_hundred_legions) and a prisoner within [Fort Merit](location:fort_merit).\n\nBrutus has a history with [Titus Fulminus Destellus](entity:titus_fulminus_destellus). At some point after the Etrean Civil War, he was captured and imprisoned within Fort Merit.\n\nHe allows you to unbound your Fortitude. Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses Chitin/Exoskeleton, and does not drain it.\n\nHe wears the old Legion Centurion Outfit with Legion Pauldrons.\n\nHe is noticeably larger than most other people, including you.",
+  "additional_info": "-   Initially, there were no bars on Brutus' cage. While it was initially speculated he was afforded certain freedoms, an interview with Arch\\_Mage revealed that there were meant to be bars there, hence why there was a secret tunnel into his cell that seemingly provided no function due to the cell being wide open anyway. This lead to builder Zartania constantly being asked \"Can you put bars on Brutus' cage?\" by a discord user which finally culminated in their addition during the 3/8/2024 update.\n    -   At some point, the secret tunnel was also removed, but the bars were made destructible in exchange.\n-   You can use a training vest and let him beatdown you to increase Fortitude.\n-   His hair ID is 5143078089.\n-   His variant is Silverback.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Brutus.md"
+}

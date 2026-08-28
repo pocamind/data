@@ -1,0 +1,9 @@
+{
+  "name": "Plath",
+  "desc": "Plath is a Celtor NPC.\n\nPlath can be found kneeling on a rock in the [Kyrsan Wilds](location:kyrsan_wilds). They guide the player on how to enter the city through the [Great Library of New Kyrsa](location:new_kyrsa).",
+  "additional_info": "-   They are old, at least 70+ as seen from being in Stage 4 of aging.",
+  "found_at": [
+    "location:kyrsan_wilds"
+  ],
+  "wiki": "Plath.md"
+}

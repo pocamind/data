@@ -1,0 +1,9 @@
+{
+  "name": "Erisia",
+  "desc": "**Erisia** is a large island found in the Etrean [Luminant](location:luminants), it was designed to be accessible by sailing straight from both the [Isle of Vigils](location:isle_of_vigils) and [Etris Docks](location:etris_docks).\n\nErisia is a Driftland, an island that moves in and out of [Voidsea](location:voidsea), but has currently settled in the east.\n\nIt was originally located in the Southern Luminant and was ruled by the [Erisia family](faction:erisia_family) as a duchy of [Celtor](faction:lost_celtor).\n\nIt is divided into two sections, being [Upper Erisia](location:upper_erisia) and [Lower Erisia](location:lower_erisia).",
+  "additional_info": "-   The music for this area is The Trappings Of A Lord by Naktigonis\n-   The combat music for this area is Cry 'Havoc!' by Naktigonis\n-   Erisia is frequently referred to as \"Bandit Island\" by players.\n-   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](location:aratel_island).\n-   Erisia is a common ganking spot due to contractor bounties/boosting.\n-   It's better to do the [Trial of One](location:trial_of_one) and then move onto [Starswept Valley](location:the_starswept_valley) due to Erisia NPC's giving little to no EXP for later levels.\n    -   However, Upper Erisia is perfect for Strength/Weapon EXP due to the Megalodaunt nest in Upper Erisia and the Rock Golems in the [Burning Stone Gardens](location:burning_stone_gardens).",
+  "part_of": [
+    "location:the_etrean_sea"
+  ],
+  "wiki": "Erisia.md"
+}

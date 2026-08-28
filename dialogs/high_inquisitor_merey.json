@@ -1,0 +1,11 @@
+{
+  "name": "High Inquisitor Merey",
+  "speaker": "entity:high_inquisitor_merey",
+  "lines": [
+    "*The High Inquisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.* Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.",
+    "We are the eyes and ears of [the Authority](faction:the_central_authority) - and often, its faithful shadows. Your responsibility is to find out everything there is to know about our many rivals through subterfuge and interrogation, even if extracting that information requires some... enthusiastic encouragement. All I ask for is that you keep your tavern 'gossip' to non-Inquisitic matters, and do not spend your time laughing over reactions to interrogation methods. It is certainly not an appropriate topic.",
+    "Very well, I hope that was informative enough. I expect to see you more around more often. I will be observing your career with interest - even if you won't be aware of it. *Uncharacteristically to herself, she chuckles.* If you have any other questions in the future - do not hesitate to stop by. Dismissed.",
+    "*The High Inquisitor sighs.* Sounds like you ran into [Milgram](entity:milgram). Indeed, they're a Handler of our division. Milgram's one of our finest, although they can be quite the individualist. In this division, our work is a competition - even if some of the more competitive Inquisitors might enjoy putting down lower ranks, and schmoozing up to peers with good prospects.",
+    "He's rather physically and mentally resilient. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
+  ]
+}

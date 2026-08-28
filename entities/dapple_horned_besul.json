@@ -1,0 +1,9 @@
+{
+  "name": "Dapple-Horned Besul",
+  "desc": "Dapple-Horned Besul is a Gremor NPC. She is the leader of the Navaen settlement at Meteor Isle.",
+  "additional_info": "-   Besul's racial variant appears to be the 'Cedar' variant of a Gremor, with deep purple sclerae instead of the faint Purple.\n-   Besul wears the Navaen War Chief Outfit.",
+  "member_of": [
+    "faction:the_children_of_navae"
+  ],
+  "wiki": "Dapple-Horned_Besul.md"
+}

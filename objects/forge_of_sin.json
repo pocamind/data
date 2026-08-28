@@ -1,0 +1,8 @@
+{
+  "name": "Forge of Sin",
+  "aliases": [
+    "The Forge of Sin"
+  ],
+  "desc": "An undying purple flame of mysterious origin. A Relic created by the Drowned God [Korilfiend](entity:korilfiend_the_infernos_provenance), originally kept within The [Temple of the Forgotten Flame](location:the_temple_of_the_forgotten_flame), and sought after by Etris' temporary king, The [Lord Regent](entity:the_lord_regent). It is currently in the possession of [Duke Ishamon Erisia](entity:duke_ishamon_erisia) and is theorized to have been used by [the Ministry](faction:the_ministry) for the [Great Drowning](event:the_great_drowning).\n\nThe Duke extracted an Artifact from the [Temple of the Forgotten Flame](location:the_temple_of_the_forgotten_flame) after [Erisia](location:erisia) Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to [his Manor](location:duke_erisias_manor). His Golems, unlike other creatures, possess human souls, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.\n\nFragments of it, simply called Artifacts, are scattered over Erisia. Turning these into banks gives a hefty reward and is lorewise sent to the Palace.",
+  "additional_info": "This is the relic itself, not the Piece of the Forge of Sin found around the map, which is an ordinary artifact pickup."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Green Spellhardt",
+  "desc": "Green is one of many Lightborn located in [The Floating Keep](location:the_floating_keep). Despite his name, he appears mostly blue.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Green_Spellhardt.md"
+}

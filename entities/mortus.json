@@ -1,0 +1,12 @@
+{
+  "name": "Mortus",
+  "aliases": [
+    "Ishmael"
+  ],
+  "desc": "Mortus is a Capra NPC.\n\nMortus is capable of crafting Monster Bait, and giving out the recipes for it to the player. The bait requires two of the respective drops from the monsters. These monsters are:\n\n-   Megalodaunt: Megalodaunt Hides\n-   Thresher: Thresher Spines\n-   Terrapod: Strange Claws",
+  "additional_info": "-   The \"octopus\" that Mortus mentions is most likely a Nautilodaunt, already known for their absurd intelligence and power in combat compared to other monsters.\n-   Behind his hut you will find a tiny doorway where you can find a Fishing Spot.",
+  "found_at": [
+    "location:the_etrean_sea"
+  ],
+  "wiki": "Mortus.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Ciea",
+  "desc": "Ciea is a female Vesperian that tells the player to make potions with specific effects. So far she is known to ask you to make:\n\n-   A potion that brings forth a surge of speed _**(Pomars or Alestrian Coral)**_\n-   A potion that causes a person to lose sanity _**(Urchins, Chum, Scallops, Seaweed, or Thresher Eggs)**_\n-   A potion that restores some life force _**(Redds or Glumfigs)**_\n-   A potion that harms its victims _**(Browncaps, Bluecaps or Pomars)**_\n-   A potion to regenerate ether _**(Dentifilo, Bluecaps)**_\n\nEvery fulfilled request gives EXP. Fulfilling 3 requests gives you the Harvester Talent.\n\nThere may be different options when you talk to Ciea, but for the ones listed, you'll have to use those specific ingredients or else she won't take it. You can use diluted potions (potions with only 1 copy of an ingredient) without any detriments to rewards given.\n\nHer quest is needed to get the Saltchemist Oath.\n\n**NOTE**: _Certain ingredients such as Redd **do not spawn** during Winter._ Keep this in mind before doing her quest.",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Ciea.md"
+}

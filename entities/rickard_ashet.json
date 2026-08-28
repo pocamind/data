@@ -1,0 +1,12 @@
+{
+  "name": "Rickard Ashet",
+  "aliases": [
+    "Retired Venerable Fleet Admiral"
+  ],
+  "desc": "Rickard Ashet is an Adretian Fleet Admiral who served in [The Central Authority](faction:the_central_authority) navy, before later retiring.",
+  "additional_info": "-   Rickard Ashet is a reference to a leak where an Adret named Rick Ashet fights a Crustaceous Rex, as well as being a pun on the word _ricochet_.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Rickard_Ashet.md"
+}

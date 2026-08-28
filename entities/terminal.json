@@ -1,0 +1,8 @@
+{
+  "name": "Terminal",
+  "desc": "The Terminal is a mysterious shrine-like mechanism.",
+  "found_at": [
+    "location:simforea"
+  ],
+  "wiki": "Terminal.md"
+}

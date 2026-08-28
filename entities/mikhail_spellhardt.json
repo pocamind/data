@@ -1,0 +1,8 @@
+{
+  "name": "Mikhail Spellhardt",
+  "desc": "Mikhail is a Lightborn located in [The Floating Keep](location:the_floating_keep). He sells the following food items:\n\n-   Glazed Fish for 15\n-   Sushi for 20\n-   Mushroom Omelette for 15\n-   Mushroom Bisque for 20\n-   Fish Stew for 15",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Mikhail_Spellhardt.md"
+}

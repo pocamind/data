@@ -1,0 +1,9 @@
+{
+  "name": "Topol",
+  "desc": "Topol is an Etrean NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Topol's name is not visible during normal gameplay.\n-   Originally named Darbert.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Topol.md"
+}

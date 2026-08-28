@@ -1,0 +1,8 @@
+{
+  "name": "The Dreadstar",
+  "desc": "The Dreadstar is a Shrine NPC. It grants the player the Oath: Silentheart Oath.\n\nThe Dreadstar displays deeply rooted hatred towards the Song and those who wield it, driving Pathfinders toward the Vow of Silent in pursuit of revenge. Its origins in the Beloved Zofia are unknown. It may be a collective of spirits, as suggested by its use of “we,” or an entity akin to Yun’Shul.",
+  "found_at": [
+    "location:beloved_zofia"
+  ],
+  "wiki": "The_Dreadstar.md"
+}

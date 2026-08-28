@@ -1,0 +1,12 @@
+{
+  "name": "Nanji",
+  "aliases": [
+    "Samnang"
+  ],
+  "desc": "Nanji is an Etrean NPC. Upon speaking to them, they task the player with finding the whereabouts of Ilji, their brother through the \"Wandering Blade\" Quest.",
+  "additional_info": "-   The quest is able to be completed before even speaking to Nanji by interacting with the Chipped Sword beforehand.\n-   For a guide on how to find the Chipped Sword, refer to this video.",
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Nanji.md"
+}

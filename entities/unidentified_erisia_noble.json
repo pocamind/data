@@ -1,0 +1,8 @@
+{
+  "name": "Unidentified Erisia noble",
+  "desc": "A member of the [Erisia family](faction:erisia_family) served as a ruler of the duchy of [Erisia](location:erisia). Surviving records, in the form of statues, that catalogue the previous dukes and duchesses of Erisia do not catalogue this noble, though what does survive suggests they were the first of their family name to oversee Erisia.",
+  "leads": [
+    "location:erisia"
+  ],
+  "wiki": "Unidentified_Erisia_noble.md"
+}

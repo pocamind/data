@@ -1,0 +1,9 @@
+{
+  "name": "The Indigo Citadel",
+  "desc": "Home of Clan Kobura, and found in the northern parts of [Minityrsa](location:minityrsa).",
+  "additional_info": "-   A ruined version of the Indigo Citadel can be found in Pathfinders, the bridge destroyed and the citadel itself mostly buried in snow.",
+  "part_of": [
+    "faction:etrean_royalists"
+  ],
+  "wiki": "The_Indigo_Citadel.md"
+}

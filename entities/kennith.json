@@ -1,0 +1,13 @@
+{
+  "name": "Kennith",
+  "desc": "Kennith is an Etrean working for law enforcement in [Etris](location:etris), suspicious of his leader, [The Lord Regent](entity:the_lord_regent) of Etrea. He keeps an eye on suspicious individuals. He wears an Investigator's Hat and Brigand's Cloak, as well as the Etrean Guard Expert Outfit, which is shared by Etrean Guardsmen.\n\nShould one have enough Reputation with [Etrea](faction:etrea), Kennith will implore them to find information on the Lord Regent. Upon interviewing Bookkeeper Andros, Kennith is dragged to the Lord Regent, killed and pinned out in the [Etrean Wilds](location:etrean_wilds) to be found. This results in him being sent to the [Kyrsan Wilds](location:kyrsan_wilds), where he can be found and informed of the situation in Etris.",
+  "additional_info": "-   Having read the Operation 'Puppet Master' Report will unlock unique dialogue with Kennith in the [Kyrsan Wilds](location:kyrsan_wilds).\n    -   Being a Contractor does not unlock any unique dialogue with him.\n-   The reason he's in the [Second Layer](location:second_layer) is because a satirical video was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.\n    -   Ironically, the video shows Kennith in [Firfire](location:firfire), while he was ultimately placed in the Kyrsan Wilds.\n-   Kennith's corpse still has a talk hitbox, but nothing happens if you try to talk to him,\n-   Kennith shares the same hair as [Ministry Necromancers](entity:ministry_necromancer) (4735347390).\n-   Kennith can be seen in the Main Menu screen along with [Karliah](entity:karliah) and [Polis](entity:polis).\n-   Kennith's blood was originally red before being changed to purple for censorship reasons.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris",
+    "location:kyrsan_wilds"
+  ],
+  "wiki": "Kennith.md"
+}

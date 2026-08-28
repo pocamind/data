@@ -1,0 +1,12 @@
+{
+  "name": "Tz'araan",
+  "aliases": [
+    "Songseeker Mistress",
+    "Songmaster Tz'araan"
+  ],
+  "desc": "Songmaster Tz'araan is the [Songseeker](faction:songseeker) Mistress. It is speculated, she believes in reincarnation by returning to the song, just like all other [Songseekers](faction:songseeker). She is said to encourage freedom of mind for her students, but only if it aligns with her ideals.",
+  "member_of": [
+    "faction:songseeker"
+  ],
+  "wiki": "Tz'araan.md"
+}

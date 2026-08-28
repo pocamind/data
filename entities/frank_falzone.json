@@ -1,0 +1,12 @@
+{
+  "name": "Frank F'alzone",
+  "aliases": [
+    "The Swabber"
+  ],
+  "desc": "Frank F'alzone, is a Celtor NPC who was part of [Captain Orlandeau's](entity:capn_orlandeau) crew in [The Scoundrel's Bounty](location:the_scoundrels_bounty). They were the crew's cartographer and janitor.",
+  "additional_info": "-   F'alzone's racial variant appears to be Marten.",
+  "found_at": [
+    "location:the_scoundrels_bounty"
+  ],
+  "wiki": "Frank_F'alzone.md"
+}

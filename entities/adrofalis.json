@@ -1,0 +1,8 @@
+{
+  "name": "Adrofalis",
+  "desc": "Adrofalis is a member of the Old Stewards, and a teacher of [Ciea](entity:ciea) with their main goal of reproducing the Root Panacea; a dream for every researcher and alchemist alike. They are also the quest-giver for the Saltchemist Oath.",
+  "found_at": [
+    "location:boatmans_watch"
+  ],
+  "wiki": "Adrofalis.md"
+}

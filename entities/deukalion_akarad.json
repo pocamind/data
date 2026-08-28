@@ -1,0 +1,16 @@
+{
+  "name": "Deukalion Akarad",
+  "aliases": [
+    "Father Diver"
+  ],
+  "desc": "Deukalion Akarad was a member of [The Divers](faction:the_divers), active shortly after its founding. Akarad was the first leader (and likely founder) of the Black Divers division and was known to Diver recruits as \"Father Diver\", indicating he was seen as a paternal figure in the organization. In 59 CE, Akarad was selected to lead [the Pioneers](faction:the_pioneers), a group of Divers operating out of Fortress Vinda. The group had been picked to journey into a cave known for its monster activity in the hopes of reaching [The Depths](location:the_depths) from the surface. On the day of the start of the expedition, Akarad gave a speech before the group descended, with him as its leader. During the expedition, Akarad recorded how the group sustained casualties due to unfamiliarity with the terrain and fauna. Akarad was among those who perished during the operation, though his notes were able to reach the surface.\n\nAfter [Castle Light](location:castle_light)'s construction, a tune named \"In Akarad's Steps\" was composed in honor of the first leader of the Black Divers.\n\nFollowing his death, Akarad's name was invoked by Black Diver [Ulysses Disii](entity:ulysses_disii) in an expression of frustration. While Simeon Rasimof was working as a Memorial Mason, they came across a Black Diver named Crow Akarad, reminding the Mason of Father Diver.",
+  "additional_info": "-   It's unknown whether Akarad was among the Divers killed within the Depths, or the survivors who all died after they resurfaced improperly.\n-   Akarad's name is said in 11:59, an OST that plays after defeating the Scion of Ethiron. The lyrical section of the song is known as In Akarad's Steps.\n-   He was likely a Capra, as one of the Capra surnames is Akarad.",
+  "member_of": [
+    "faction:the_divers",
+    "faction:the_pioneers"
+  ],
+  "leads": [
+    "faction:the_pioneers"
+  ],
+  "wiki": "Deukalion_Akarad.md"
+}

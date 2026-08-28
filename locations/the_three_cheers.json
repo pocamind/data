@@ -1,0 +1,9 @@
+{
+  "name": "The Three Cheers",
+  "desc": "Run by [Fabantou](entity:fabantou), The Three Cheers is a bustling tavern for the [Central Authority](faction:the_central_authority)'s military personnel to rest and unwind after successful missions.",
+  "additional_info": "-   The \"Cool S\" can be found drawn on tables, alongside other drawings.",
+  "part_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "The_Three_Cheers.md"
+}

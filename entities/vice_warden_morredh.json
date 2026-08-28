@@ -1,0 +1,18 @@
+{
+  "name": "Vice Warden Morredh",
+  "aliases": [
+    "Morredh"
+  ],
+  "desc": "Vice Warden Morredh is a Canor NPC. He is the crux of the Chainwarden obtainment process.\n\nBeing a Canor has afforded him more benefits than other non-Adret in [The Central Authority](faction:the_central_authority), earning him the position of Vice Warden, though he aspires to someday become more than just a _Vice_ Warden and replace [Warden Jericho](entity:warden_jericho) as the one in charge of the eastern world.",
+  "additional_info": "-   Morredh's age is much more advanced than [Warden Jericho](entity:warden_jericho), suggesting he's far more likely to pass or retire than end up replacing him.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "goals": [
+    "Replace [Warden Jericho](entity:warden_jericho) as the one in charge of the eastern world"
+  ],
+  "wiki": "Vice_Warden_Morredh.md"
+}

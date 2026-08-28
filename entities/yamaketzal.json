@@ -1,0 +1,9 @@
+{
+  "name": "Yamaketzal",
+  "desc": "Yamaketzal is a Capra NPC. He appears to be drunk, as he is swaying around and talking in an odd manner.\n\nTalking to Yamaketzal above Power 5 will unlock the Echo Talent, Chime of Conflict. The Chime of Conflict allows the player to fight in instanced PVP arenas against other players. Additionally, he can help player claim Echo Talents that they've unlocked in another slot, but don't own on their current slot.\n\nSpeaking to Yamaketzal after claiming the Chime of Conflict will tell the player their W:L ratio in the arena. His second set of dialogue can range from ominous messages to mentioning notable people, including [The Ferryman](entity:the_ferryman), [Duke Erisia](entity:duke_ishamon_erisia), [The Lord Regent](entity:the_lord_regent), Wardens, and [Gunsmith Rosen](entity:gunsmith_rosen). He also speaks of a Driver, riding horses.\n\nFurthermore, if the player character has the Tarnished Flaw, Yamaketzal can remove it from the player for the price of 1000, making it possible to reroll their Resonance again.\n\nDespite his disheveled appearance, the combination of these two behaviors and his broad, if drunkenly muddled, knowledge of the world indicates that Yamaketzal is both powerful and knowledgeable.",
+  "additional_info": "-   Yamaketzal, along with [Tolkat](entity:tolkat), is voiced by Arch\\_Mage.\n-   According to [Destroyman III](entity:destroyman_iii_bon_vivant_adventurer), Yamaketzal's favorite drink is grape juice.\n    -   This is likely in reference to Roblox not allowing references to alcohol, while Yamaketzal is presented as a drunkard.\n-   Yamaketzal's hair can be found here: https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black.",
+  "found_at": [
+    "location:songseeker_temple"
+  ],
+  "wiki": "Yamaketzal.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Louie Spellhardt",
+  "desc": "Louie Spellhardt is a Lightborn NPC. He is the [Blacksmith](entity:blacksmith) of the Spellhardt family.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Louie_Spellhardt.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Frostdraw Obelisk",
+  "aliases": [
+    "Faust"
+  ],
+  "desc": "The Frostdraw Obelisk is an NPC located within a secret area behind a destructible bookshelf on the second floor of the [Crypt of the Unbroken](location:crypt_of_the_unbroken), known as the [Glacial Remnant](location:glacial_remnant). It must be located and interacted with, along with [4 other element-based obelisks](entity:saintsworn_obelisks), to obtain the Saintsworn Oath.\n\nIt can only be interacted with if you have at least 15 Frostdraw. When interacted with, Faust, the Hero of Frost, will speak to the player.",
+  "found_at": [
+    "location:glacial_remnant"
+  ],
+  "wiki": "Frostdraw_Obelisk.md"
+}

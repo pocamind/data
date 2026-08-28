@@ -1,0 +1,14 @@
+{
+  "name": "Rashet",
+  "aliases": [
+    "Rohan"
+  ],
+  "desc": "Rashet is an Adret NPC. They accept a bribe for [The Central Authority](faction:the_central_authority).\n\nThe Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:merits_reach"
+  ],
+  "wiki": "Rashet.md"
+}

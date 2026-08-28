@@ -1,0 +1,9 @@
+{
+  "name": "Beiruul",
+  "desc": "Beiruul is a Redwood Gremor NPC, a resident of [Meteor Isle](location:meteor_isle), she wants to take revenge on the Central Authority for the constant harassment they enact and the looming threat they pose to her people; choosing the correct dialogue responses will begin the Navae's Retribution sidequest.\n\nDuring the Navae's Retribution quest, she will fight alongside the player to defeat several Authority Peacekeepers and Authority Officers.",
+  "additional_info": "-   Gripping Beiruul will reduce your reputation with the Children of Navae.\n-   Similar to Polis and Zana, when spawning as an NPC her Gremor variant, face and horns will change into a random variant.",
+  "member_of": [
+    "faction:the_children_of_navae"
+  ],
+  "wiki": "Beiruul.md"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Polis",
+  "speaker": "entity:polis",
+  "lines": [
+    "Ah, another transient?",
+    "Name's Polis. I'm a Justicar from the Frozen Coast.",
+    "You're obviously not very well travelled... It is located in the Northern Luminant. That place can sink beneath the waves for all I care. As for myself, I am walking the Path as I see fit. Each Justicar interprets the Path in their own way, and they live their life by it.",
+    "It is the code that all of us Justicars live by. We are all taught to interpret the path in our own ways. Some may interpret the path to help others, some may use it to exact righteous violence upon people. I can only hope that the path I have chosen to follow is right.",
+    "Then may Alsin have mercy on me. Most of the locals see me as a bad omen so they don't speak with me.. I appreciate you listening to my story.",
+    "Oh, I see it within you. That fire like Amorus... If you sail straight out from the dock it'll take you towards [Erisia](location:erisia). You can find many riches on that island, but be careful. A horrible secret lies deep within that place and even more horrible creatures surrounding it. Gain strength, maybe you'll be the one to find out the meaning behind this conflict.",
+    "Ah, a fellow Justicar? May Alsin guide your way, stranger. I do not believe we've met before.",
+    "Follow in Alsin's wisdom - that freedom is the most valuable thing of all - and pursue the Path. Many of our creed in the East believe that aiding others in the pursuit of their path is a Justicar's true purpose, although this need not be the only path for you to follow. When the weak and weary cry for help, you may answer the Justicar's call. Aid and protect them - guide them as Alsin guides us.",
+    "A Path that one may walk in combat. Refined by the Justicar before me, we use it to stand our ground without need of a blade. You seem to have the aptitude required it. Interested?",
+    "Ah, if it isn't the hero of [Etrea](faction:etrea). How goes your wary travels?",
+    "How strange that our Paths should cross again so soon..."
+  ]
+}

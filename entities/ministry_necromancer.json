@@ -1,0 +1,9 @@
+{
+  "name": "Ministry Necromancer",
+  "desc": "Ministry Necromancers are NPCs frequently found sitting on the ground in [Minityrsa](location:minityrsa).\n\nTheir appearance consists of a Prophet's Cloak and always the same hair style, the hair being purely white.",
+  "additional_info": "-   Necromancer Hair ID - 4735347390",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "Ministry_Necromancer.md"
+}

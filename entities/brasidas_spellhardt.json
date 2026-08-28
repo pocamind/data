@@ -1,0 +1,9 @@
+{
+  "name": "Brasidas Spellhardt",
+  "desc": "Brasidas Spellhardt is Lightborn found within [The Floating Keep](location:the_floating_keep). He is the Treasurer and [Antiquarian](entity:antiquarian) for the Keep and [Spellhardt family](faction:spellhardt_family).\n\nHe appears fond of metaphors to do with storms.\n\nHe wears a Red Megalodaunt Coat with the Pathfinder Thaumaturge Outfit underneath.",
+  "additional_info": "-   Brasidas is a reference to Vergil from the _Devil May Cry_ franchise.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Brasidas_Spellhardt.md"
+}

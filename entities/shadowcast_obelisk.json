@@ -1,0 +1,11 @@
+{
+  "name": "Shadowcast Obelisk",
+  "aliases": [
+    "Urek Felhand"
+  ],
+  "desc": "The Shadowcast Obelisk is an NPC located on the [Moon's Eyrie](location:moons_eyrie) atop a path leading to a high-up, dangerous and [windy](location:the_ethironal_shrine) area above its pillars and found in a crack in the wall at the end of the path. It must be located and interacted with, along with [4 other element-based obelisks](entity:saintsworn_obelisks), to obtain the Saintsworn Oath.\n\nIt can only be interacted with if you have at least 15 Shadowcast. When interacted with, Urek Felhand, the Hero of Shadow, will speak to the player.",
+  "found_at": [
+    "location:moons_eyrie"
+  ],
+  "wiki": "Shadowcast_Obelisk.md"
+}

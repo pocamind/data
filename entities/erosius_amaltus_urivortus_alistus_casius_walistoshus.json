@@ -1,0 +1,9 @@
+{
+  "name": "Erosius Amaltus Urivortus Alistus Casius Walistoshus",
+  "desc": "Erosius Amaltus Urivortus Alistus Casius Walistoshus is a Kyrsan NPC. They are the leader of the Kyrsan village of [Firfire](location:firfire). Erosius will refuse to speak to the player unless they have spoken to [Aeroaseluniris Oricalum Forentus](entity:aeroaseluniris_oricalum_forentus) or have retrieved the Spear of Nakti.\n\nUpon retrieving the Spear of Nakti and completing Erosius' Quest, the player unlocked the Ethiron's Gaze Talent, allowing them to see through the fog present throughout the Ethironal Shrine. The player will still need speak to Erosius on subsequent entries into the Second Layer to obtain entry to the [Nest Corridor](location:nest_corridor).",
+  "additional_info": "-   Considering the length of their name, they are the oldest Kyrsan that can be encountered who is also willing and/or able to divulge information about themselves.\n-   When speaking to Erosius or any other Kyrsan NPCs in the Ethironal Shrine after retrieving the Spear of Nakti, they will call the player by a unique name. Each player will have a unique name attached to their account that transfers from slot to slot.",
+  "found_at": [
+    "location:firfire"
+  ],
+  "wiki": "Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md"
+}

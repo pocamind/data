@@ -1,0 +1,8 @@
+{
+  "name": "Temple Approach",
+  "desc": "Temple Approach is an area in the [Isle of Vigils](location:isle_of_vigils) that leads into the [Temple of the Blade](location:temple_of_the_blade).",
+  "part_of": [
+    "faction:etrea"
+  ],
+  "wiki": "Temple_Approach.md"
+}

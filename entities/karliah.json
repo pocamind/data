@@ -1,0 +1,12 @@
+{
+  "name": "Karliah",
+  "desc": "Karliah is an Adret NPC. She is an apprentice Diver in [Etris](location:etris) who allows you to unbound your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max, that being seventy-five (75).\n\nMore details about the quest can be found [here](location:etris).\n\nAfter the quest, Karliah quits [The Divers](faction:the_divers) and can be found resting in her house wearing different clothing. Now grateful for your insight on the realities of life, she reflects on how friendly the people of Etris are with her.",
+  "additional_info": "-   Karliah's hair combo is 4584787037.\n-   Karliah Hex Code Colors: #96acba Skin | #5D6072 Hair | #daa400 Pupils | #be0000 Facial Marking\n-   Karliah seems to show a romantic interest in your character, likely as a result of the player's high charisma required to begin her questline.\n-   Karliah is quite inexperienced in combat, and was easily beaten down by Mudskippers during her quest.\n-   Karliah wears the Diver Apprentice outfit as a Diver and the Hired Mercenary armor after the quest.\n-   With enough Charisma, you can get 20 out of Karliah by choosing \"Sure, for 20 Notes. \\[Charisma\\]\"\n-   Karliah is visibly short. Her in-game model is shorter than every other NPC, including the Pathfinder. This is a trait shared with [Epsi](entity:epsi), although Epsi is short because he is a child.\n-   Karliah's hair can be found here.\n-   Karliah can be seen in the Main Menu screen along with [Kennith](entity:kennith) and [Polis](entity:polis).",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Karliah.md"
+}

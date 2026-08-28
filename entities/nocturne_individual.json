@@ -1,0 +1,13 @@
+{
+  "name": "Nocturne (individual)",
+  "aliases": [
+    "Nocturne",
+    "Maestro"
+  ],
+  "desc": "Nocturne was the predecessor of [Alkhurst Legato](entity:evengarde_rest) as Maestro of [the Vigils](faction:the_vigils). They trained both the future Maestro and [High Monk Junsui](entity:high_monk_junsui).",
+  "additional_info": "-   A nocturne, meaning \"nocturnal\", is a piece of classical music meant to evoke feelings of the night.",
+  "member_of": [
+    "faction:the_vigils"
+  ],
+  "wiki": "Nocturne_(individual).md"
+}

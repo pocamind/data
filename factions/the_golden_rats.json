@@ -1,0 +1,6 @@
+{
+  "name": "The Golden Rats",
+  "desc": "The Golden Rats are honorable warriors, residing in the Golden Rat taverns. They find joy in challenging each other to fights and drinking together afterwards.\n\nSeemingly, they do not harbor any feelings towards each other, as the [Golden Rat Bouncer](entity:golden_rat_bouncer) calls the [Rat Fighters](entity:rat_fighter) in the [Rat's Den](location:rats_den) losers and tells the player to kill them and bring him their Gold Plates for a reward.\n\nThey have only 3 rules, as the Golden Rats usually forego the \"No brawling in the tavern\" rule: Paying for your beverage up front, _no_ ruining the floorboards and the golden rule: Toasting only to [King Dravik](entity:dravik_the_rat_king)'s name.",
+  "additional_info": "-   The Golden Ratss and all typical Golden Rat NPCs wear a Steel Plate dyed with the color code `#ffd674`.",
+  "wiki": "The_Golden_Rats.md"
+}

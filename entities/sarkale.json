@@ -1,0 +1,9 @@
+{
+  "name": "Sarkale",
+  "desc": "A Khan found leaning against a mesh gate at the mouth of [Firfire Caverns](location:firfire_caverns). Wearing the Darksteel Plate outfit, a scavenger as he so claims to be. Speaking of the caverns and advising the player to follow the various blue cubes scattered in the caves.",
+  "additional_info": "-   The Aspect variant of Sarkale is Silverback",
+  "found_at": [
+    "location:firfire_caverns"
+  ],
+  "wiki": "Sarkale.md"
+}

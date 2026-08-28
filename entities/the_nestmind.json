@@ -1,0 +1,8 @@
+{
+  "name": "The Nestmind",
+  "desc": "**The Nestmind** is an NPC that appears in the [A Conscious Intersection](location:a_conscious_intersection). It has an appearance similar to the heads of many Deep Owls within a black void. It is the final step obtaining the **Visionshaper Oath,** being the entity that gives you the oath.\n\nThe origin of The Nestmind is unknown, but it is most likely the source of the Deep Owls in the [First Layer](location:first_layer).",
+  "found_at": [
+    "location:a_conscious_intersection"
+  ],
+  "wiki": "The_Nestmind.md"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sachan Zaru Ganba",
+  "aliases": [
+    "Zaru Ganba"
+  ],
+  "desc": "Sachan Zaru Ganba is an Etrean NPC. He is the head of the Ganba Clan.\n\nIn an argument with the three other Sachans in [The Golden Rat](location:the_golden_rat), he asked to find a way to contact the [Isle of Vigils](location:isle_of_vigils) for a potential new operating base. He seems to know that [The Inheritor](entity:the_inheritor) is apart of the [Circle of Honour](faction:circle_of_honour), and he considers joining the organization himself.",
+  "additional_info": "-   When the camera is clipped inside his katana, the blade is a yellow color reflecting his clan's color scheme.",
+  "member_of": [
+    "faction:etrean_royalists"
+  ],
+  "leads": [
+    "faction:etrean_royalists"
+  ],
+  "found_at": [
+    "location:the_sable_estate"
+  ],
+  "goals": [
+    "Contact the [Isle of Vigils](location:isle_of_vigils) to establish a new base against [the Lord Regent](entity:the_lord_regent)",
+    "Join [The Hundred Legions](faction:the_hundred_legions) in the west, should that fail"
+  ],
+  "wiki": "Sachan_Zaru_Ganba.md"
+}

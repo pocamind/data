@@ -1,0 +1,8 @@
+{
+  "name": "The Suncross",
+  "aliases": [
+    "Suncross"
+  ],
+  "desc": "The bringer of life and warmth to Lumen. At night, the Suncross retreats into the Voidfog and its light dims, darkness falling over Lumen. At midday, the Suncross is at its least obscured by Voidfog.\n\nThe Suncross follows a elliptical path over Lumen, with the centre of its orbit seemingly beyond the Voidfog. It's orbit is roughly equidistant between the Surface and the Heavens, though it oscillates on its lateral axis yearly, pitching towards the Surface in summer, and the Heavens in winter. As a matter of course, the climate is typically colder and more changeable in Northern Lumen, and a more consistently warm temperature in Southern Lumen. The [Moonseye](object:the_moonseye) can be seen as the Suncross's counterpart.\n\nSome [Starkindred](faction:the_starkindred_church) believe the Suncross to be a Celestial, though others disagree. To all of the faith, however, it is sacred.",
+  "wiki": "Glossary.md"
+}

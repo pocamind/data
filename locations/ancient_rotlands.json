@@ -1,0 +1,9 @@
+{
+  "name": "Ancient Rotlands",
+  "desc": "The Ancient Rotlands is a location in the [Songseeker Wilds](location:songseeker_wilds). The area is a murky, large swamp littered with strange flora, with Nightmare Threshers and Maljurors lurking.\n\nThe Ancient Rotlands is a **Voidzone**, meaning you will be sent to [The Depths](location:the_depths) if you die in the area.",
+  "additional_info": "-   Previously, there were two large, pulsating, fleshy masses dubbed \"brains\" by the community in the Rotlands that caused the player to rapidly gain Insanity when within their radius. Running out of sanity while near one would cause the player's head to explode. They were removed due to its nonsensical placement and function lorewise.",
+  "part_of": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Ancient_Rotlands.md"
+}

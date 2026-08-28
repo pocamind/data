@@ -1,0 +1,16 @@
+{
+  "name": "Gunsmith Rosen",
+  "aliases": [
+    "Rosen",
+    "Gunsmith"
+  ],
+  "desc": "Gunsmith Rosen is the current leader of the arms company known as [The Summer Company](faction:the_summer_company). He is responsible for reintroducing guns across the Luminants. His aspect is also Vesperian. Its unknown if Rosen resides within [Summer Isle](location:summer_isle) but it is assumed so due to him signing off the creation of the Stormseye.\n\n[Gunsmith Hierka](entity:gunsmith_hierka) was Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](faction:the_central_authority)'s [Bureau of Research](faction:bureau_of_research) in order to steal the Summer Company's Secrets. This would go on to spark the invention of the Rifle Spear, a standard issue weapon for the Authority.\n\nWhile Rosen is known for his mechanical expertise, he has shown himself to still be skilled in designs that revolve around the manipulation of ether.",
+  "additional_info": "-   Concept art has depicted him as a Canor as well as a Vesperian.\n-   While the Flintlock was designed by Rosen he only made the first Prototype, it now is mass produced by various gunsmiths.\n-   He also wore Rosen's Ring, which gives 1.2 INT scaling, but he lost it for an unknown reason, and so now the player can obtain it.\n-   The name \"Gunsmith Rosen\" could be a reference to the famous 90s rock band Guns N' Roses.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "leads": [
+    "faction:the_summer_company"
+  ],
+  "wiki": "Gunsmith_Rosen.md"
+}

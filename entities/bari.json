@@ -1,0 +1,14 @@
+{
+  "name": "Bari",
+  "aliases": [
+    "Tone"
+  ],
+  "desc": "Bari is an Etrean NPC. They sell starter equipment aimed towards new and early game players.\n\nThey function identically to [Seraphina](entity:seraphina).",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Bari.md"
+}

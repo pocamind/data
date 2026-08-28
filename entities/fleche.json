@@ -1,0 +1,9 @@
+{
+  "name": "F'leche",
+  "desc": "F'leche was a Tiran NPC. She is one of several individuals who have become trapped in [New Kyrsa, The Sleeping City](location:new_kyrsa), and is having trouble remembering her past.\n\nF'leche is unable to remember the name of the Kyrsgarde, but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning the [Scion of Ethiron](entity:scion_of_ethiron), and has knowledge about the obelisks needing to be de-activated.\n\nAt one point, she encountered [C'lantaa](entity:clantaa), but ended up driving him off.\n\nShe wore a Pathfinder Arch-Sorcerer with Eyeglasses.",
+  "additional_info": "-   F'leche's racial variant is a Cardinal.\n-   The name \"F'leche\" is a reference to the word \"Flèche\". Which means \"Arrow\" in French.",
+  "found_at": [
+    "location:new_kyrsa"
+  ],
+  "wiki": "F'leche.md"
+}

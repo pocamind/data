@@ -1,0 +1,11 @@
+{
+  "name": "Rudral",
+  "desc": "Rudral is a Capra NPC. They are the [Blacksmith](entity:blacksmith) for [Miner's Landing](location:miners_landing).\n\nRudral is familiar with [Adar](entity:adar_master_of_metal) and will act as a guide in helping The Pathfinder obtain Ironsing.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Rudral.md"
+}

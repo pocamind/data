@@ -1,0 +1,8 @@
+{
+  "name": "Parliament",
+  "desc": "The Parliament is a Boss that appears in [The Vat](location:the_vat), which is a Dungeon accessible through [The Gaunt Man](entity:the_gaunt_man). It is almost visually identical to a regular Deep Owl, with the only difference being that it resembles the head of [The Nestmind](entity:the_nestmind), as it is a Deep Owl with multiple heads.\n\nThis Boss is also encountered as a potential Power 6+ trial in [The Depths](location:the_depths), where it is significantly weakened.",
+  "found_at": [
+    "location:the_vat"
+  ],
+  "wiki": "Parliament.md"
+}

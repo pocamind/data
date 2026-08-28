@@ -1,0 +1,12 @@
+{
+  "name": "Epsi",
+  "desc": "Epsi is a Gremor NPC. He is a young boy working for [The Ignition Union](faction:the_ignition_union).\n\nEpsi is encountered in the [Second Layer](location:the_ethironal_shrine). Saving him is required to unlock the Arcwarder Oath.\n\nHis aspect variant doesn't appear in game, as no Gremor has white horns, nor pale skin.",
+  "additional_info": "-   Epsi is likely named after Epsilon, the equivalent of the letter 'E' in the Greek alphabet, as many of the other members of the Ignition Union in the area are named after Greek letters.\n-   Epsi, due to being a child, possesses a shorter model than other NPCs, being the only one to do so other than [Karliah](entity:karliah).\n    -   An NPC in the tutorial, [Serendi](entity:serendi), is mentioned to be shorter than the player and thus needs to stand on crates to be at eye level with the player, despite being standard height. It may simply be that small character models are reserved for children.\n-   As a child working for the Ignition Union, Epsi is both a minor, an individual not yet of the age of legal responsibility, and a miner, someone who works in a mine.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_frontier_furnace"
+  ],
+  "wiki": "Epsi.md"
+}

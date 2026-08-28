@@ -1,0 +1,15 @@
+{
+  "name": "Deepdelver Tau",
+  "aliases": [
+    "Tau"
+  ],
+  "desc": "Deepdelver Tau is a Ganymede NPC. They're a Deepdelver of [the Ignition Union](faction:the_ignition_union).\n\nTau is in charge of dispatching people on expeditions into the [Saramaed Hollow](location:saramaed_hollow) and bringing the Deep Drill back to the surface when a signal is called via the radio communication system inside the drill.",
+  "additional_info": "-   Tau only allows a maximum of five (5) people to enter at once.\n-   Tau's hair id is 4997293129.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Deepdelver_Tau.md"
+}

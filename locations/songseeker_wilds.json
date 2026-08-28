@@ -1,0 +1,9 @@
+{
+  "name": "Songseeker Wilds",
+  "desc": "Songseeker Wilds is a set of islands located in [the Aratel Sea](location:the_aratel_sea). It is home to [Ancient Rotlands](location:ancient_rotlands), provides a passage to [Minityrsa](location:minityrsa), and is south-east of [Summer Isle](location:summer_isle).\n\nIt consists of 2 land masses, a smaller and larger one, separated by the ocean.",
+  "additional_info": "-   The music for this area is The Sun, Gleaming by Naktigonis\n-   The combat music for this area is Thrill Of The Hunt by Naktigonis",
+  "part_of": [
+    "location:the_aratel_sea"
+  ],
+  "wiki": "Songseeker_Wilds.md"
+}

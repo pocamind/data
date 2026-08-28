@@ -1,0 +1,11 @@
+{
+  "name": "Thula",
+  "desc": "Thula is a Celtor NPC. She is a dragoon of [The Summer Company](faction:the_summer_company).",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Thula.md"
+}

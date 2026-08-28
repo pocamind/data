@@ -1,0 +1,5 @@
+{
+  "name": "The Coral Throne",
+  "desc": "A Relic found in [the First Layer](location:first_layer) by [The Ministry](faction:the_ministry). Has the ability to increase the power of any creature that sits on it tremendously. It is currently in the possession of [The Lord Regent](entity:the_lord_regent) and is the reason he is able to cast a mental veil around the entirety of [Etris](location:etris). The throne upon which he sits is an artifact from [The Depths](location:the_depths), amplifying the power of whoever sits on it.\n\nSeated on it he goes from barely beating [Akira](entity:akira) to beating him easily, and at full strength he surpasses [The Ferryman](entity:the_ferryman).",
+  "wiki": "Relics.md"
+}

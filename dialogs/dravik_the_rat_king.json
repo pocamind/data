@@ -1,0 +1,12 @@
+{
+  "name": "Dravik, The Rat King",
+  "speaker": "entity:dravik_the_rat_king",
+  "lines": [
+    "*He smiles softly.* That was the greatest fight I have been gifted, aside from Maestro Alkhurst himself. Should you ever see him... Pass him my regards. I imagine you came to me with questions, though.",
+    "All of this for [Zi'eer](entity:the_lord_regent), eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from [the Blade Temple](location:temple_of_the_blade). He's off training in the West with [the Hundred Legions](faction:the_hundred_legions) now... I don't really blame him - the Blade Temple is a shadow of it's former self.",
+    "*The Rat King sighs.* The barrier is impenetrable from the outside. But it has no special protections once you're inside. If you destroy its source - the statue standing before the Royal Palace - you should be able to bring it down. There is only one method I know of that allows one to appear in any location in the world... But you're not gonna like it.",
+    "Well, the first part is easy. You have to die.",
+    "This is no jest. When you die, you will enter the under-realm, where all souls are dragged to after death. Once there, make your way to the city, and find the temple whose tower reaches the light above. There will be voices speaking to you when you arrive. Hold the idea of a bargain in your own mind - these voices will be able to hear your thoughts. Should they agree to the terms, you'll be sent topside on the other end of the barrier. But be warned, kid - the voices don't take lightly to people like us asking anything of them.",
+    "No need to thank me. You have a long road ahead of you. I look forward to seeing your dance with the Regent. Should I be able to, I will offer help wherever I can."
+  ]
+}

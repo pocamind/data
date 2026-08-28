@@ -1,0 +1,12 @@
+{
+  "name": "Regek",
+  "desc": "Regek is a Vesperian NPC. They act as Attunement-less trainer.\n\nTo upgrade Attunement-less Mantras, players must first complete Regek's quest by collecting sap from three Soulblooms. This quest cannot be started until the player has washed their face. The quest will finish account-wide, allowing the player to upgrade mantras even on slots that have never spoken to Regek.",
+  "additional_info": "-   Regek, along with [Nostor](entity:nostor_master_of_shadow), is non-binary.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Regek.md"
+}

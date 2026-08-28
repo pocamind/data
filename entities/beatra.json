@@ -1,0 +1,9 @@
+{
+  "name": "Beatra",
+  "desc": "Beatra is a Tiran NPC who acts as a Shadowcast trainer for those who don't want to train their attunement in [The Depths](location:the_depths). They can be found to the left of the [Derelict Highchurch](location:derelict_highchurch).\n\nIn order to obtain Shadowcast, [Nostor, Master of Shadow](entity:nostor_master_of_shadow) must be interracted with, as Beatra will not teach the attunement.",
+  "additional_info": "-   If you have obtained the Silentheart Oath, they will refuse to fight, meaning you have to go to the Depths to kill [Nostor](entity:nostor_master_of_shadow) in order to continue your Silentheart progression.\n-   Their eyes are black to represent their attunement, Shadowcast. This is a visual quirk present in most of the other attunement trainers, but not in the other Shadowcast Trainer, [Nostor](entity:nostor_master_of_shadow), due to them being a Ganymede.",
+  "found_at": [
+    "location:derelict_highchurch"
+  ],
+  "wiki": "Beatra.md"
+}

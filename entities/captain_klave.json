@@ -1,0 +1,10 @@
+{
+  "name": "Captain Klave",
+  "aliases": [
+    "Klave"
+  ],
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Captain_Klave.md"
+}

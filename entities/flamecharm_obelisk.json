@@ -1,0 +1,11 @@
+{
+  "name": "Flamecharm Obelisk",
+  "aliases": [
+    "Jace"
+  ],
+  "desc": "The Flamecharm Obelisk is an NPC located in a small hidden cave with lava flowing out at [Saramaed Summit](location:saramaed_summit)'s highest area. It must be located and interacted with, along with [4 other element-based obelisks](entity:saintsworn_obelisks), to obtain the Saintsworn Oath.\n\nIt can only be interacted with if you have at least 15 Flamecharm. When interacted with, Jace, the Hero of Flame, will speak to the player.",
+  "found_at": [
+    "location:saramaed_summit"
+  ],
+  "wiki": "Flamecharm_Obelisk.md"
+}

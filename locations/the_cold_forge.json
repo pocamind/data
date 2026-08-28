@@ -1,0 +1,6 @@
+{
+  "name": "The Cold Forge",
+  "desc": "The Cold Forge is a laboratory hidden within [Scyphozia](location:the_depths), inside of a frozen cavern known as the [Brinepool Passage](location:brinepool_passage). It is linked to the Dormant Splinter.\n\nA Laboratory used by Coldheart Fortinbras. This location seems to be a somewhat small laboratory partially covered in ice due to the freezing temperature, housing an assortment of bookshelves, pipes and glass tubes. In the center of the room is a pit full of a black, foggy unknown substance. This room also has lights similar to what can be found in [Castle Light](location:castle_light), but instead of glowing yellow, these glow blue. Two sets of lockers can be found at the entrance.\n\nA lore book called \"Coldheart's Journal\" when equipped, can be found in one of the corners on a table that may contain possible lore about the near future attunement; Lifeweave.",
+  "additional_info": "-   Added in secret in the 14th of December 2024 update.\n-   Placeholder name for the journal is \"ColdForgeJournal\".",
+  "wiki": "The_Cold_Forge.md"
+}

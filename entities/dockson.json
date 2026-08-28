@@ -1,0 +1,15 @@
+{
+  "name": "Dockson",
+  "aliases": [
+    "Porter"
+  ],
+  "desc": "Dockson is an Etrean NPC. They sell a Flintlock for 100, a Revolver for 200, and a Dragoon for 500 on their bar. Dockson is also able to initiate a fight in [The Furnace](location:the_furnace) if spoken to by two players at once.",
+  "additional_info": "-   Dockson's dialogue changes depending on the aspect of the player, addressing them by it.\n-   They wear the Summer Company Uniform.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Dockson.md"
+}

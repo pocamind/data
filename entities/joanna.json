@@ -1,0 +1,9 @@
+{
+  "name": "Joanna",
+  "desc": "Joanna is a Celtor NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Joanna's name is not visible during normal gameplay.\n-   Originally named Jonas.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Joanna.md"
+}

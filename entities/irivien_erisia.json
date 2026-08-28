@@ -1,0 +1,11 @@
+{
+  "name": "Irivien Erisia",
+  "aliases": [
+    "The Sea's Savant"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Irivien served as the Duke of [Erisia](location:erisia). According to surviving records, in the form of statues, they were the second of their family name to bear this title. For unknown reasons, they bore the title of \"The Sea's Savant\".",
+  "leads": [
+    "location:erisia"
+  ],
+  "wiki": "Irivien_Erisia.md"
+}

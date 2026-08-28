@@ -1,0 +1,21 @@
+{
+  "name": "Drallis Ehr",
+  "aliases": [
+    "Grand Sovereign",
+    "Sovereign",
+    "Sovereign of Ages",
+    "Sovereign of Eras",
+    "Overseer of Epochs",
+    "Lumen's Savior"
+  ],
+  "desc": "Drallis Ehr is the head of state of [The Central Authority](faction:the_central_authority). He is an ageless and immortal Adretian and has been the supreme ruler of [The Central Authority](faction:the_central_authority) since its inception. He is a man of mystery, even surpassing [The Lord Regent](entity:the_lord_regent) of [Etrea](faction:etrea) in that department, as none have even seen his face, to the point some question if he truly exists. The Authority Helm was specifically crafted to evoke the image of faceless warriors, thereby mirroring his unseen status.\n\nDrallis Ehr became a hero in the [Adretian Empire](faction:adretian_empire) after stopping the catastrophe known as the Godstorm that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](faction:the_central_authority).\n\n[Traan Zakshun](entity:traan_zakshun) is known to claim Drallis Ehr as an endorser of his products, something his grandmother, [Naan Zakshun](entity:traan_zakshun), would also do.",
+  "member_of": [
+    "faction:adretian_empire",
+    "faction:the_central_authority"
+  ],
+  "leads": [
+    "faction:adretian_empire",
+    "faction:the_central_authority"
+  ],
+  "wiki": "Drallis_Ehr.md"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Saramaed Summit",
+  "desc": "Saramaed Summit is an area within the upper area of [Miner's Landing](location:miners_landing), accessible through hallways past the boiler room's circular vault door. The air is constantly permeated with a thick, orange mist, and many Mechalodaunts are often present throughout the area.\n\nThere are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a Resonance to open. The other entrance which is easily accessible by going to the left after entering the vault door, which will take you to the board room, making another left at the doorhole to enter. The last entrance is located in a room with an Ignition Union NPC and does not have a Resonance door.\n\nThe Flamecharm obelisk for Saintsworn can be found in this area.\n\nSaramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Depths](location:the_depths) if you die in it regardless of other influences.",
+  "additional_info": "-   This area has multiple Union Hooks to be used as shortcuts.\n-   You cannot heal in this area with Campfires.",
+  "wiki": "Saramaed_Summit.md"
+}

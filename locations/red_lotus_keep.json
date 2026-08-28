@@ -1,0 +1,8 @@
+{
+  "name": "Red Lotus Keep",
+  "desc": "The ancestral seat of the noble Clan Anako, a proud lineage of Etrean warriors, towers over the gloom that surrounds it.",
+  "part_of": [
+    "faction:etrean_royalists"
+  ],
+  "wiki": "Red_Lotus_Keep.md"
+}

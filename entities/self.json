@@ -1,0 +1,11 @@
+{
+  "name": "Self",
+  "aliases": [
+    "Player's character name"
+  ],
+  "desc": "Self is located in the [Fragments of Self](location:fragments_of_self) past the stone arches, a reflection of the player's character awaits it's final confrontation. Talking to it will end the existence of said character.\n\nSelf takes on appearance of player's character, with the outfit, all the equipment and aspect features.",
+  "found_at": [
+    "location:fragments_of_self"
+  ],
+  "wiki": "Self.md"
+}

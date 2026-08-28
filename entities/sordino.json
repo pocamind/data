@@ -1,0 +1,9 @@
+{
+  "name": "Sordino",
+  "desc": "Sordino is an NPC that sells the players a rideable thresher mount that let players get around faster, at the cost of Crowns. However, before you can get access to his services, he will give you an introductory quest in which you have to complete. He is wearing the Sanguine Finery outfit paired with a beige bell at his hip",
+  "additional_info": "-   A sordino, also known as a mute, is the general term for devices attached to a musical instrument to alter their volume and tone.\n-   Sordino claims that he took a Vow as a Beastmaster, which could hint that he has a special bond with various creatures in Lumen.\n-   He can swap memories with the use of his Resonance, which he used to saddle a poor man with all his debt.",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Sordino.md"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Disciple Gobletto",
+  "aliases": [
+    "Gobletto",
+    "Disciple"
+  ],
+  "desc": "Disciple Gobletto is a Chrysid NPC. He is a new member of The Justicar.\n\nHe was given the name Gobletto, after the common mushroom, which has been a cause of embarrassment and misfortune for him. While he was in the [Songseeker Wilds](location:songseeker_wilds), he was accosted by Pathfinders who mocked his name and assaulted him. He was eventually rescued by the Justicars and joined the organization, devoting himself to [Alsin](entity:alsin).",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Disciple_Gobletto.md"
+}

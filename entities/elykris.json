@@ -1,0 +1,9 @@
+{
+  "name": "Elykris",
+  "desc": "Elykris is a Celtor NPC. They are investigating [the Ministry](faction:the_ministry)'s presence in [Minityrsa](location:minityrsa).\n\nThey give the quest \"Ministry Secrets\" that tasks The Pathfinder to find a field report located inside of [Outpost Antumbra](location:outpost_antumbra), by the ladder to [Trial of One](location:trial_of_one). The quest rewards them with 3 Aces and a Curiosity Talent hand.\n\nElykris wears the old version of the Darksteel Plate outfit, a Black Fur Parka, a Black Blindfold, and a Brigand's Bicorn.",
+  "additional_info": "-   The Ministry Field Report can be given to the Guild Base Librarian, preventing the quest from being completed.",
+  "found_at": [
+    "location:minityrsa"
+  ],
+  "wiki": "Elykris.md"
+}

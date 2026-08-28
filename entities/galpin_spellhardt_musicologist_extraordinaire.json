@@ -1,0 +1,18 @@
+{
+  "name": "Galpin Spellhardt, Musicologist Extraordinaire",
+  "aliases": [
+    "Galpin Spellhardt",
+    "Professor Galpin Spellhardt",
+    "Musicologist Extraordinaire",
+    "G."
+  ],
+  "desc": "Galpin is a male Lightborn located in [The Floating Keep](location:the_floating_keep), on a walkway on the right side of the castle. He is visibly aged, with wrinkles akin to humans who are 70 years old, due to mourning the loss of his homeland. He is also wearing the Icebringer's Vestments outfit.\n\nOnce you have enough Joy, you can exchange it with him for exclusive 2024 Hallowtide rewards related to instruments and music. You can obtain the Spectral Instrument Set from him for 200 Joy, alongside some books and music sheets.\n\nGalpin is a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](entity:lysander_spellhardt) made, kids can be allowed candy for Hallowtide as usual, but adults were not allowed any unless they bring Lysander some Joy, which is the main reason why Galpin asks the player to get him some Joy in order to satisfy his sweet tooth.",
+  "additional_info": "-   The name 'Galpin' is a reference to the real-life musicologist Francis William Galpin, who was an avid collector of musical instruments.\n-   Shirt - https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt\n-   Pants - https://www.roblox.com/catalog/16826351147/Frostdraw-Pants",
+  "member_of": [
+    "faction:empyreal_college_of_cadence"
+  ],
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Galpin_Spellhardt,_Musicologist_Extraordinaire.md"
+}

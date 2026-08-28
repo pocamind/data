@@ -1,0 +1,16 @@
+{
+  "name": "Akira",
+  "speaker": "entity:akira",
+  "lines": [
+    "Another one..? You've got to be kidding me.",
+    "Well, either way it seems you know your place.",
+    "A nosy one eh? I'm on duty right now making sure no [depths](location:the_depths) creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.",
+    "Is there something surprising about that or are you just uneducated..? We're currently in the [Depths](location:the_depths), we [Divers](faction:the_divers) blow boatloads of [Authority](faction:the_central_authority) funding on expeditions down here.",
+    "Oh you mean those mudskippers from [the Ignition Union](faction:the_ignition_union) just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.",
+    "If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank Black Diver, in charge of research site pre-clearing and new recruit field training.",
+    "As I said, I'm quite busy right now, and would love to continue reading this book. Make it to [Castle Light](location:castle_light) in one piece and we'll see about your recruitment there.",
+    "Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.",
+    "That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.",
+    "Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though."
+  ]
+}

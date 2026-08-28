@@ -1,0 +1,15 @@
+{
+  "name": "Deepdelver Gamma",
+  "aliases": [
+    "Gamma"
+  ],
+  "desc": "Deepdelver Gamma is a Khan NPC. They're a Deepdelver of [the Ignition Union](faction:the_ignition_union).\n\nYou can find them in front of the main desk of their office.",
+  "additional_info": "-   Gamma's racial variant is Capuchin.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_chariots_spire"
+  ],
+  "wiki": "Deepdelver_Gamma.md"
+}

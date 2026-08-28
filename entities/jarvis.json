@@ -1,0 +1,12 @@
+{
+  "name": "Jarvis",
+  "desc": "Jarvis is an Etrean NPC who is able to smelt two pieces of equipment into one.\n\nHis main use is to Smelt two pieces of equipment for 1000 Notes; the first keeping its attributes, the second being its overall appearance.\n\n-   The first item you hold out to them will always be the one you keep the stats of, and the second will be the one you keep the appearance of.\n-   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.\n    -   For a further, more in-depth explanation, see _Transmogrification._",
+  "additional_info": "-   Another NPC known as the Artisan can be hired in a Guild Base. They will function the same way as Jarvis does, albeit they only cost 800 to smelt equipment, therefore being cheaper.\n-   To retrieve an item back after changing your mind, end his dialogue and select the option asking to return it.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Jarvis.md"
+}

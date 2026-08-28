@@ -1,0 +1,17 @@
+{
+  "name": "High Monk Junsui",
+  "aliases": [
+    "Junsui",
+    "High Monk",
+    "Ironsworn Monk"
+  ],
+  "desc": "High Monk Junsui was a figure of note among the [Circle of Honour](faction:circle_of_honour).",
+  "additional_info": "-   Junsui is a Japanese name meaning \"pure\".\n    -   It was partially chosen due to resembling the name \"Jinshi\", a character in _The Apothecary Diaries_, a historical drama novel, manga and anime series set in a fictionalized version of Tang Dynasty China.\n-   Junsui has a unique Iron Memento on his braided sash.\n    -   This same unique Iron Memento can also be found in Nagatony's Picture Booth.",
+  "member_of": [
+    "faction:circle_of_honour"
+  ],
+  "found_at": [
+    "location:the_golden_rat"
+  ],
+  "wiki": "High_Monk_Junsui.md"
+}

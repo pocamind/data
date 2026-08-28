@@ -1,0 +1,6 @@
+{
+  "name": "Starfield Tundra",
+  "desc": "Starfield Tundra is an area in Upper [Minityrsa](location:minityrsa). It can be found by turning right after climbing up to the upper area of Minityrsa. The [Soothsayer](entity:soothsayer) can be found here.\n\nStarfield Tundra is a **Voidzone**, meaning you will be sent to [The Depths](location:the_depths) if you die on the island regardless of other influences.",
+  "additional_info": "-   This area is one of three areas that contain a Star Tree, alongside the [Starfield Veldt](location:starfield_veldt) and [Starfield Grove](location:starfield_grove).\n-   The entrance to the Starfield Tundra is located to the right of the guild banner when facing towards the golem construct's area.",
+  "wiki": "Starfield_Tundra.md"
+}

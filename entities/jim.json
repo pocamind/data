@@ -1,0 +1,14 @@
+{
+  "name": "Jim",
+  "aliases": [
+    "Joe"
+  ],
+  "desc": "Jim is a Canor NPC located at the [Etris Docks](location:etris_docks). Completing their dialogue starts the \"Jim's Embers\" Quest.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris_docks"
+  ],
+  "wiki": "Jim.md"
+}

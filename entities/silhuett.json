@@ -1,0 +1,12 @@
+{
+  "name": "Silhuett",
+  "desc": "Silhuett is a Capra NPC who spawns randomly in the [First Layer](location:first_layer), and is the first step towards obtaining the Deepspindle. In order to teleport to [The Understrand](location:the_understrand), one must either use Shadow Travel or use the Shadow's Flight item (craftable with 2 Void Feathers and 1 Umbral Obsidian), near him. Upon doing so, you get sent to the Understrand where you can kill the [Ministry Agent](entity:ministry_agent) and get the Deepspindle.\n\nIf the player has high Ally Reputation with [The Ministry](faction:the_ministry), then they can convince the Ministry Agent to hand over the Deepspindle, Darkscorn Casque and Darkened Bastion without a fight, but only if they teleported to him through Silhuett.",
+  "additional_info": "-   Silhuett is much easier to find if you use the Hell Bell, though that also increases monster spawn rates and will make your journey very dangerous.\n-   His name is pronounced very similarly to silhouette, which is the image of a person or a thing usually represented with a single shade of color. In other words, a silhouette is very similar to a shadow.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:first_layer"
+  ],
+  "wiki": "Silhuett.md"
+}

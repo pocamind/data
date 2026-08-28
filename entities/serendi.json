@@ -1,0 +1,9 @@
+{
+  "name": "Serendi",
+  "desc": "Serendi is a 'short' Etrean NPC who was part of [Captain Orlandeau's](entity:capn_orlandeau) crew in [The Scoundrel's Bounty](location:the_scoundrels_bounty). Her position on the ship is not known but she appeared to be a scout. [Flabbernaster Filingree](entity:flabbernaster_filingree_the_first_mate) also told her to load up the cannons.\n\nSerendi is able to see a ship, possibly an [Authority](faction:the_central_authority) vessel. Probably won't cause problems...",
+  "additional_info": "-   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over the Pathfinder, being on those boxes.\n-   Serendi's racial variant appears to be File.",
+  "found_at": [
+    "location:the_scoundrels_bounty"
+  ],
+  "wiki": "Serendi.md"
+}

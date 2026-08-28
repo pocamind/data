@@ -1,0 +1,9 @@
+{
+  "name": "Fort Merit",
+  "desc": "Fort Merit is [The Central Authority](faction:the_central_authority)'s forward operating base in the [Eastern Luminant](location:luminants).\n\nIt was previously known as Fortress Cascabel, Etrea's best fortified prison prior to its capture to the [Authority](faction:the_central_authority), now claimed as their operating base. Ironically, [Etrean Guardsman Hostages](entity:etrean_guardsman_hostage) can be found in the cells of Fort Merit.\n\nIt is found to the right of [Bluster Rift](location:bluster_rift) and has a port that can be docked from the shore.",
+  "additional_info": "-   The music for this area is Wardens Of The Valiant Dead by Naktigonis.\n-   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.\n-   Fort Merit is good place to pick up bounties, as most of the players have low/bad reputation with the Central Authority.\n-   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: \"When are you gonna learn your lesson?\" \"Come on.\"\n-   Shrine of Chance used to be located here, but the tunnels located on the left when entering the underground portion were removed, removing the shrine as well. It is now located at [Meteor Isle](location:meteor_isle), neighboring Fort Merit to the east.\n-   Due to a bug, the [Etrean Guardsman Hostage](entity:etrean_guardsman_hostage) that are meant to spawn in the cells of Fort Merit no longer reliably spawn. If you want to get a Fort Merit chest from the [Etrean Guardmaster](entity:etrean_guardmaster) you will have to get a Shipping Schedule.\n-   According to [Joshua (in Vow of Iron)](entity:joshua), it used to be called Fortress Cascabel.",
+  "part_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Fort_Merit.md"
+}

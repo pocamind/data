@@ -1,0 +1,16 @@
+{
+  "name": "Vigil Isaac",
+  "aliases": [
+    "Isaac",
+    "Vigil"
+  ],
+  "desc": "Vigil Isaac is an Etrean NPC. He is a newly appointed Vigil.\n\nIsaac is brother to [Apprentice Kj](entity:apprentice_kj), having recently become a Vigil under [Evengarde Rest](entity:evengarde_rest). Giving him a Gale Stone allows the player to complete the quest \"Vigi's Savior\" and speak to Apprentice Kj to receive a Curiosity Talent hand and an audience with Evengarde Rest.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade",
+    "location:upper_erisia"
+  ],
+  "wiki": "Vigil_Isaac.md"
+}

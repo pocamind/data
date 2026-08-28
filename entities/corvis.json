@@ -1,0 +1,9 @@
+{
+  "name": "Corvis",
+  "desc": "Corvis was a Ganymede NPC.",
+  "additional_info": "-   Corvis was scrapped lore that was removed after the public release of Deepwoken.",
+  "found_at": [
+    "location:upper_erisia"
+  ],
+  "wiki": "Corvis.md"
+}

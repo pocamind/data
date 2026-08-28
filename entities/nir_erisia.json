@@ -1,0 +1,15 @@
+{
+  "name": "Nir Erisia",
+  "aliases": [
+    "Duke Nir Erisia",
+    "The Noble"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Nir served as the duke of [Erisia](location:erisia). According to surviving records, in the form of statues, they were the fourth of their family name to bear this title. Nir succeeded [Thera Erisia](entity:thera_erisia), their mother, as the duke, and earned the title of \"The Noble\".\n\nThe exact circumstances of Nir's ascension are unclear. However, it's widely believed that Nir inherited the duchy after their mother found herself in a dispute that turned violent, during which she was attacked by numerous other individuals. Allegedly, she survived the assault, only to succumb to her wounds in the arms of her son.\n\nNir was succeeded by [Ferasci Erisia](entity:ferasci_erisia) under unknown circumstances.",
+  "leads": [
+    "location:erisia"
+  ],
+  "kin_of": [
+    "entity:thera_erisia"
+  ],
+  "wiki": "Nir_Erisia.md"
+}

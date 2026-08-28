@@ -1,0 +1,12 @@
+{
+  "name": "Ata",
+  "aliases": [
+    "Tayna"
+  ],
+  "desc": "Ata is a Marten Celtor NPC. She sells Sparks for 350 each.\n\nShe wears what appears to be a darkened version of the Corsair Outlaw outfit.\n\nAlthough she says she knows you, this is likely an attempt to _scam_ you. Further evidenced by the fact that she weaponizes your empathy against you, eventually making you accept her high prices. Despite that, you'd still buy from her anyways, right? She's your friend after all.",
+  "additional_info": "-   Currently the best and most guaranteed way to obtain specific Sparks without grinding areas such as [Duke Erisia's Manor](location:duke_erisias_manor).",
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Ata.md"
+}

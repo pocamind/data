@@ -1,0 +1,11 @@
+{
+  "name": "August Gideshu",
+  "aliases": [
+    "First Lieutenant"
+  ],
+  "desc": "August Gideshu was an [Authority](faction:the_central_authority) officer who obtained the rank of First Lieutenant. Gideshu served in the navy aboard the 'Zephyr', under Captain Hector Corbet. As with the rest of the crew, August was deployed to the Eastern Luminant, during which they clashed several times with the Etrean Navy and came out on top. August received commendation for bolstering the morale when the ship was boarded by the enemy, which [Vincent Zeneke](entity:vincent_zeneke) theorized was by singing the tune.\n\nDuring this period, August is said to have penned the Gideshu March, as well as other songs and tunes which have since been lost to time.\n\nThe ship was later attacked by [The Hundred Legions](faction:the_hundred_legions) when it beached near [the Starswept Valley](location:the_starswept_valley), and Gideshu was presumed among the sailors who were defeated by the Legion.\n\nThe Gideshu March would go on to flourish in the following years among the rank and file and was popularized as a marching tune, though it has yet to receive any official recognition among Authority leadership. It would also feature in Vincent Zeneke's monograph cycle, 'Songs of the Sea', with the relevant information provided by Alloras Munet.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "August_Gideshu.md"
+}

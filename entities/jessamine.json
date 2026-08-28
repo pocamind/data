@@ -1,0 +1,9 @@
+{
+  "name": "Jessamine",
+  "desc": "Jessamine is a Ganymede NPC. Talking to them will start a quest that allows the Pathfinder to obtain the Talent \"Thresher Scales\" to regain armor at campfires.\n\n**Location**\n\nJessamine is located underneath some ruins. They are near the Legion Camp that is just outside of the entrance to the [Widow's Hollow](location:widows_hollow).",
+  "additional_info": "-   There is a King Thresher in the [Lightkeeper Temple](location:lightkeeper_temple), located to the right on entry. As this one does not spawn touching other threshers, it is probably the easiest way to complete the quest.",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Jessamine.md"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Cerebral Spire",
+  "desc": "The Cerebral Spire serves as the central sanctuary where [the Inheritor](entity:the_inheritor) strengthens their power and unlocks new abilities. Within its walls, combat is suspended, leaving players unable to deal or receive damage to each other.",
+  "additional_info": "-   While within this area, the Inheritor's hunger will not deplete, but their thirst still will.\n-   Players can still perform assassinations on each other in this location, but the attack will not deal any damage.\n-   Meanwhile players cannot fight in this location, campfires can be broken still and spawned NPC's can still fight with eachother.\n-   Everything has reversed colors in The Cerebral Spire. (Excluding the game's UI.)\n-   Four different contours of the song will play depending on the mementos boss progression:\n    -   Contour 1 - Base Song\n    -   Contour 2 - After defeating [Shogun of the Prophet's Guard](entity:shogun_of_the_prophets_guard_temple_of_mur)\n    -   Contour 3 - After defeating [Dravik, The Rat King](entity:dravik_the_rat_king)\n    -   Contour 4 - After defeating [True Heart of Enmity](entity:heart_of_enmity)",
+  "wiki": "The_Cerebral_Spire.md"
+}

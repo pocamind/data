@@ -1,0 +1,6 @@
+{
+  "name": "Erisor's Church",
+  "desc": "Erisor's Church is a small, abandoned church. On the right watchtower, there is a small chest with typical [Erisia loot](location:erisia) inside and Erisae, a Loot Bag Gacha npc that allows you to spend 350 on an equipment gacha. In front of the church is a capturable flag. Inside the church, there is a small, ruined platform with rows of seats on both sides like a standard church. Below the platform, there is a permanent campfire in the middle, with the three [forgotten villagers](entity:forgotten_villager) sitting around it. Talking with the one on the left and waiting for ~3 seconds will activate the event.\n\nIt can be found by following the path on the right of the entrance to the [Towerstruck Lands](location:towerstruck_lands).",
+  "additional_info": "-   The description references de-emphasised lore, with it being up in the air whether or not it's still canon.",
+  "wiki": "Erisor's_Church.md"
+}

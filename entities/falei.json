@@ -1,0 +1,12 @@
+{
+  "name": "Falei",
+  "desc": "Falei is a Ganymede NPC. He is one of the Apprentice Divers who joined [Chaser](entity:chaser_scholar_of_the_crimson_contract) in his expedition into the Second Layer before his betrayal.\n\nHe is located in the [Sanctuary Gatehouse](location:sanctuary_gatehouse) in [The Eternal Gale](location:second_layer). He gives tips about the strong gale winds in the layer.",
+  "additional_info": "-   Falei's racial variant is Hyperion.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:sanctuary_gatehouse"
+  ],
+  "wiki": "Falei.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diver Quartermaster",
+  "desc": "The Diver Quartermaster is the leader of an expedition to retrieve a crate found in [Fort Merit](location:fort_merit). Returning the crate to the Diver Quartermaster rewards you with an Armorer's Needle or aSmith's Alloy, and a Knowledge point.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:the_aratel_sea"
+  ],
+  "wiki": "Diver_Quartermaster.md"
+}

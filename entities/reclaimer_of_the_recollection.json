@@ -1,0 +1,17 @@
+{
+  "name": "Reclaimer of the Recollection",
+  "aliases": [
+    "Rakaan"
+  ],
+  "desc": "The Reclaimer of the Recollection is a Gremor NPC. They serve as the guide to [the Inheritor](entity:the_inheritor) in the Cerebral Spire and a counterpart to [Self](entity:self) in the Fragments of Else and the Cerebral Requiem.\n\nThe Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their Mementos. They also provide information on how to unlock new Mementos.\n\nThey're an Aspen Gremor in stage 2 of aging (50-59 years old). They wear the Light's Final Toll beads on their arm, a Canticlysm Pendant, and an Adventurer Coat. Additionally, they wear a pair of geta. They also have pink irises.",
+  "additional_info": "-   The Reclaimer is voiced by Naktigonis.\n\n1.  ↑ [Zi'eer, the Fourth Prophet](entity:the_lord_regent)",
+  "member_of": [
+    "faction:circle_of_honour"
+  ],
+  "found_at": [
+    "location:the_cerebral_spire",
+    "location:fragments_of_self",
+    "location:cerebral_requiem"
+  ],
+  "wiki": "Reclaimer_of_the_Recollection.md"
+}

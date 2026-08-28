@@ -1,0 +1,9 @@
+{
+  "name": "Etris",
+  "desc": "Etris is the capital of the Kingdom of [Etrea](faction:etrea), being on top of a tall mountain with amazing views and dangerous, possibly life-threatening falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.",
+  "additional_info": "-   During Christmas, the tree that [Polis](entity:polis) sits under is changed into a large Christmas tree.\n-   During early testing its caption read as \"The scattered embers of a former capital are only kept aglow by the hope give by prophecy.\"\n    -   This most likely refers to the [King of Etrea](entity:rolen_vashtir), the last king before disappearing into the [Voidsea](location:voidsea).",
+  "part_of": [
+    "faction:etrea"
+  ],
+  "wiki": "Etris.md"
+}

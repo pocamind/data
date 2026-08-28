@@ -1,0 +1,15 @@
+{
+  "name": "Antiquarian",
+  "desc": "Antiquarians are NPCs that purchase certain items. They are typically your main source of Notes.\n\nThey can be found in:\n\n-   [Isle of Vigils](location:isle_of_vigils) (right next to the banker)\n-   [Isle of Vigils](location:isle_of_vigils) (in the Library, there are two at Vigils total)\n-   [Etris](location:etris) (right behind the lumberjack quest)\n-   [Greathive Aratel](location:greathive_aratel) (in the Root Plaza)\n-   [Summer Isle](location:summer_isle) (just to the right of the gun seller)\n-   [Miner's Landing](location:miners_landing) (in the town)\n-   [Castle Light](location:castle_light) (but only people with the Deepbound Origin can interact with them)\n-   [Chariot's Spire](location:the_chariots_spire) (but only people with the Ignition Delver Origin can interact with them)\n-   [Fort Merit](location:fort_merit)\n-   [Voidheart](location:voidheart) (next to the spawn, opposite side of the bounty board).\n-   [The Floating Keep](location:the_floating_keep)\n-   Player Guild Base (right next to the stairs at the entrance, however only if your guild base has a total of 9 rooms - this can be checked by counting them or, more easily, clicking your guild’s icon on the leaderboard.)\n-   [Saramaed Hollow](location:saramaed_hollow)",
+  "found_at": [
+    "location:etris",
+    "location:greathive_aratel",
+    "location:summer_isle",
+    "location:miners_landing",
+    "location:fort_merit",
+    "location:castle_light",
+    "location:voidheart",
+    "location:the_floating_keep"
+  ],
+  "wiki": "Antiquarian.md"
+}

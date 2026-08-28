@@ -1,0 +1,11 @@
+{
+  "name": "Arthur",
+  "desc": "Arthur is an Etrean NPC. Regretting their inability to save their comrades, among them Maria, Arthur offers a Bravery quest to kill a Megalodaunt in order to avenge their fellow soldiers.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:burning_stone_gardens"
+  ],
+  "wiki": "Arthur.md"
+}

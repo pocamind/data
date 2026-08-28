@@ -1,0 +1,9 @@
+{
+  "name": "Kana",
+  "desc": "Kana was a Felinor NPC. They used the Thundercall attunement to make an iron ball float.",
+  "additional_info": "-   Kana wore the Keeper Outfit but with the gold coloring being dark blue instead.\n-   The iron ball that Kana conjures used to be blue, although it was changed to become yellow to match the current version Thundercall.\n-   It was confirmed by developer Arch\\_Mage on April 9th, 2022, that Kana is Cut Content.\n    -   Despite this, they were removed 3 years later, unlike their colleagues: Kiternon, Gartoth and [Commander Rayner](entity:commander_rayner), who were removed far earlier.\n-   Kana's hair can be found here: https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns.",
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Kana.md"
+}

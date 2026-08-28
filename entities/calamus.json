@@ -1,0 +1,12 @@
+{
+  "name": "Calamus",
+  "desc": "Calamus is a member of [The Hive](faction:the_hive). They are a guardian of [Greathive Aratel](location:greathive_aratel), sworn to protect the [Lordsgrove](location:the_lordsgrove) and [The Valley](location:the_starswept_valley).",
+  "additional_info": "-   The player used to be able to assists Calamus in defending Greathive from threats, for which they would reward them with a chest. This included: Alpha Megalodaunt, Authority Captain, Brainsucker, Deep Widow, King Thresher, Stone Knight, Thresher.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Calamus.md"
+}

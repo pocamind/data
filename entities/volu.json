@@ -1,0 +1,12 @@
+{
+  "name": "Volu",
+  "desc": "Volu is a Capra NPC. He is affiliated with [The Ministry](faction:the_ministry).\n\nUpon initiating dialogue, he will desperately try to hand you the first volume of the Strange Tomes. Upon gathering all 3 of them, you can place them in the pedestal next to him to obtain the Bloodfouler.",
+  "additional_info": "-   Volu has a Resonance with an unknown ability.\n    -   The Resonance is gray and Stony in texture.",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "found_at": [
+    "location:outpost_antumbra"
+  ],
+  "wiki": "Volu.md"
+}

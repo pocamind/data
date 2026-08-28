@@ -1,0 +1,14 @@
+{
+  "name": "Scope",
+  "aliases": [
+    "Stock"
+  ],
+  "desc": "Scope is a Vesperian NPC. They are collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, they will reward them with a chest and positive reputation with [The Summer Company](faction:the_summer_company).\n\nThis is a good way to earn some easy reputation, much like the [Etris Wood Quest](entity:drefa). This is great, because occasionally Summer Company events will attack neutral players, but not any with more than that.",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Scope.md"
+}

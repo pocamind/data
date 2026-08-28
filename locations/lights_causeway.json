@@ -1,0 +1,6 @@
+{
+  "name": "Light's Causeway",
+  "desc": "Light's Causeway is a small strip of land that is meant to be a safer area for lower level Deepbounds to level up without being too far from the comforts of Castle Light. This area contains the wall separating Castle Light from the rest of The Depths, preventing those who have drowned or have the Vacant Flaw from entering. There is also a decently sized gap in this area, which can very easily trip players up and cause them to go to [The Second Layer](location:second_layer), or even wipe depending on their Power.\n\nIf the player entering has bad reputation with [The Divers](faction:the_divers), the light-armed defense turrets will automatically lock on to them in this area.",
+  "additional_info": "-   This area was silently added in the July 5th, 2024 update.\n-   There are 3 Gigamed that spawn within this area.",
+  "wiki": "Light's_Causeway.md"
+}

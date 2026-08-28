@@ -1,0 +1,11 @@
+{
+  "name": "Trenti",
+  "desc": "Trenti is an Etrean NPC. He is a citizen of [Etris](location:etris).\n\nHe is usually the first NPC The Pathfinder will talk to. He can help new players figure out where to go when starting out, directly mentioning the island of [Erisia](location:erisia). He can also give 25, which is useful starting out.\n\nHe has a counterpart in the [Isle of Vigils](location:isle_of_vigils) named [Aristo](entity:aristo).",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Trenti.md"
+}

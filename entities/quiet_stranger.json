@@ -1,0 +1,5 @@
+{
+  "name": "Quiet Stranger",
+  "desc": "The Quiet Stranger is an NPC that rarely spawns as one of the many Random Encounters at [Erisia](location:erisia). He's a scout from [The Ministry](faction:the_ministry) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using Murmur: Tacet. Beware that if you talk to him without the 50 Charisma requirements, he will attack you, locking you out of obtaining Murmur: Tacet.\n\nVia having 50 Charisma, you will obtain Murmur: Tacet without having to fulfill any kill requirements.",
+  "wiki": "Quiet_Stranger.md"
+}

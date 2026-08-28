@@ -1,0 +1,9 @@
+{
+  "name": "Glimmers of Return",
+  "desc": "The **Glimmers of Return** are an NPC, present in the [Fragments of Else](location:fragments_of_self), the last destination of a Vow of Iron character. In the Glimmers of Return the player can see Fragments of their Memento drifting aimlessly after their death.\n\nThe cost to purchase a slot back increases with the more Power the character has.",
+  "additional_info": "-   It functions identically to the [Shrine of the Drowned](entity:shrine_of_the_drowned).",
+  "found_at": [
+    "location:fragments_of_self"
+  ],
+  "wiki": "Glimmers_of_Return.md"
+}

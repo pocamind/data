@@ -1,0 +1,8 @@
+{
+  "name": "The Cat's Bed",
+  "desc": "The Cat's Bed is an NPC. They are one of many entities that reside in [The Hall of Shattered Wills](location:the_hall_of_shattered_wills).\n\nTheir appearance is unclear, it is assumed that they are a large feline. They are also an [Antiquarian](entity:antiquarian) that has unique dialogue.",
+  "found_at": [
+    "location:the_hall_of_shattered_wills"
+  ],
+  "wiki": "The_Cat's_Bed.md"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sekh",
+  "desc": "Sekh is Vesperian NPC. He is a Hive Scout.\n\nHis dialogue gives insight to the region of [The Aratel Sea](location:the_aratel_sea) and its conflicts, mainly involving [The Hive](faction:the_hive), [The Central Authority](faction:the_central_authority), [Etrea](faction:etrea) and [The Children of Navae](faction:the_children_of_navae), as well as the inhabitants of Meteor Isle, especially [Eres](entity:eres), whom he speaks fondly of.",
+  "additional_info": "-   Sekh's racial variant appears to be Plackart\n-   Naktigonis wrote the dialogue for Eres.\n-   Some players speculate that there may be a romance between Eres and Sekh based on their unique dialogue, but this has not been confirmed.\n-   Eres and Sekh are stated to both be gay.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Sekh.md"
+}

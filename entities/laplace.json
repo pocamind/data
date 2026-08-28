@@ -1,0 +1,16 @@
+{
+  "name": "Laplace",
+  "aliases": [
+    "Laplace Diri",
+    "Lunaris"
+  ],
+  "desc": "Laplace is a Ganymede who wears the Hive Drone outfit with a Big Alchemist's Hat.\n\nHanding in three Enchanted items will apply a random Enchant on your currently equipped weapon. Additionally, for each Enchant you give to Laplace, the total amount is tallied.\n\nRequirements and Restrictions:\n\n-   You must be power 7 to give enchants to Laplace.\n-   Laplace can accept both Enchanted and Soulbounded weapons or equipment.\n-   Laplace cannot enchant legendary weapons or weapons that cannot hold an enchant.\n    -   Examples: Crypt Blade, Curved Blade of Winds, Boltcrusher, etc.\n-   Laplace cannot enchant duped weapons.\n    -   It's impossible to know if your weapon is duped if you trade for it.\n-   Laplace cannot imbue weapons with Enchantments that are either unique or came out after the Verse 2 update.\n    -   This includes: Tears of the Edenkite, Nemesis, Stormbreaker, Solar, Astral and Harrowing.\n\nLaplace will also give a random Enchant Grease for 5 Knowledge when accessing his Shop UI.",
+  "additional_info": "-   Diri is a unique surname shared only by the 7th Hive Greatlord, Zithori Vhemm Rybak Diri, Hivelord Ximac Diri, and their relative Laplace.\n-   To create a Weapon enchant, Laplace combines three Enchants in Linen and then employing a technique based on Zithori's methods.\n-   Laplace was moved from R&D to an area in [The Lordsgrove](location:the_lordsgrove) when he was given the ability to enchant weapons but was then moved back to R&D in the Verse 2 update.\n-   Could be named after Pierre-Simon Laplace who is famous for the Laplace Transform. This is an important formula from calculus that converts the function of a real variable to a function of a complex variable. This transformation resembles the process that Laplace does in-game.\n-   Upon subsequent encounters when receiving your reward, if you hand in an ineligible weapon, you can actually get back to the dialogue of handing in enchants again\n    -   Though this does not tally",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Laplace.md"
+}

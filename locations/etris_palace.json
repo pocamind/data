@@ -1,0 +1,9 @@
+{
+  "name": "Etris Palace",
+  "desc": "The palace has two floors, the first has some unremarkable rooms, and the second [Lord Regent](entity:the_lord_regent), needed to obtain the key for [Duke Erisia](entity:duke_ishamon_erisia) or the Contractor Oath. If you do not have an active quest gain on the aforementioned Duke, the Lord Regent will simply kill you when you approach him. Above the palace, there's an orb necessary for progressing the Jetstriker oath",
+  "part_of": [
+    "location:etris",
+    "faction:etrea"
+  ],
+  "wiki": "Etris_Palace.md"
+}

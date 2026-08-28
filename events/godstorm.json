@@ -1,0 +1,8 @@
+{
+  "name": "Godstorm",
+  "aliases": [
+    "The Godstorm"
+  ],
+  "desc": "The Godstorm was a catastrophic disaster of wind and shadow that struck Lumen. In response to its destruction before Drallis or the Tides drew in, mankind began developing the techniques that would later become Galebreathe and Shadowcast.\n\nThe Godstorm is most commonly associated with the rise of [Drallis Ehr](entity:drallis_ehr), who dispelled the Godstorm and restoring peace to the empire. Following the fall of the [Adretian Empire](faction:adretian_empire) during [the Resurgence](event:the_resurgence) and the death of the Adretian emperor, Drallis assumed leadership and later organized the nation that eventually formed [The Central Authority](faction:the_central_authority) in 65 BCE.",
+  "wiki": "Godstorm.md"
+}

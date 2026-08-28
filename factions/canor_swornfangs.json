@@ -1,0 +1,8 @@
+{
+  "name": "Canor Swornfangs",
+  "desc": "**Canor Swornfangs** were the loyal protectors of the [Adretian Empire](faction:adretian_empire) during its early days. They were the wielders of the axes which would later go on to inspire the designs of the Canorian Axes.",
+  "part_of": [
+    "faction:adretian_empire"
+  ],
+  "wiki": "Canor_Swornfangs.md"
+}

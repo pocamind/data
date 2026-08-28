@@ -1,0 +1,6 @@
+{
+  "name": "Guild Librarian",
+  "desc": "The Guild Librarian is an NPC located inside of Guild Bases. They can be hired for 1000 to catalogue Books for the player to access at anytime.",
+  "additional_info": "-   The cooldown between donating books lasts for around a minute and a half and is shared between guild members.",
+  "wiki": "Guild_Librarian.md"
+}

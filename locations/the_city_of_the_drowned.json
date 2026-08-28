@@ -1,0 +1,12 @@
+{
+  "name": "The City of the Drowned",
+  "aliases": [
+    "The Drowned City of Celtor"
+  ],
+  "desc": "The main city at the center of [The Depths](location:the_depths) housing two main districts, the District of Commerce and Varicosa District. The city also houses a way to leave the depths, with the only other being [Yun'Shul](entity:yunshul_keeper_of_hearts), through the elevator in the Cathedral of Interstice at the center.\n\nThe City of the Drowned is composed of large circular walls over a city, guarded by Celtor soldiers. There are a couple gates in the walls, guarded by two Celtor guards each.\n\nThe city is patrolled by watchers that summon pairs of Hollow Angel when they catch sight of players, as well as having the occasional Depths creature found inside.",
+  "part_of": [
+    "location:first_layer",
+    "faction:lost_celtor"
+  ],
+  "wiki": "The_City_of_the_Drowned.md"
+}

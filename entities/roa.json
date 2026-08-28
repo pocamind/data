@@ -1,0 +1,9 @@
+{
+  "name": "Roa",
+  "desc": "Roa is a Celtor NPC. They have a grudge against [Duke Erisia](entity:duke_ishamon_erisia).\n\nRoa was an inhabitant of [Erisia](location:erisia) before it drifted into the [Voidsea](location:voidsea).",
+  "additional_info": "-   Compared to other Marten Celtors, their eyes are a light gray.",
+  "found_at": [
+    "location:lower_erisia"
+  ],
+  "wiki": "Roa.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Baragan",
+  "desc": "Baragan is an Etrean NPC, he is the [Blacksmith](entity:blacksmith) for the [Isle of Vigils](location:isle_of_vigils). His brother, [Caragan](entity:caragan), works at [Etris](location:etris).",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade"
+  ],
+  "wiki": "Baragan.md"
+}

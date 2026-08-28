@@ -1,0 +1,12 @@
+{
+  "name": "Parsnip",
+  "desc": "Parsnip was a Celtor NPC. They worked for the [Ignition Union](faction:the_ignition_union).\n\nThey wore the Ignition Welder outfit.",
+  "additional_info": "-   When referring to something \"familiar,\" Parsnip was most likely referencing the Mechalodaunt to the Megalodaunt. This is further proven by finding Summer Goons fighting Mechalodaunts in [Saramaed Summit](location:saramaed_summit).\n-   Parsnip's words imply Hell as a concept exists in the world of _Deepwoken_.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Parsnip.md"
+}

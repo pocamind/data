@@ -1,0 +1,9 @@
+{
+  "name": "Asius",
+  "desc": "Asius is an Adret NPC. The player is able to take back owed money for [The Summer Company](faction:the_summer_company) in [Trig's](entity:trig) Quest.",
+  "additional_info": "-   They wear the Experienced Adventurer Outfit.\n-   If accidentally choosing, \"I'll see what I can do.,\" the player is able to speak with Asius again to receive the owed money.",
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Asius.md"
+}

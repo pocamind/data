@@ -1,0 +1,9 @@
+{
+  "name": "Erland",
+  "desc": "Erland is a Capra NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Erland's name is not visible during normal gameplay.\n-   Originally named Harbert.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Erland.md"
+}

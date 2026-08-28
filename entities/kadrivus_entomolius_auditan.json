@@ -1,0 +1,8 @@
+{
+  "name": "Kadrivus Entomolius Auditan",
+  "desc": "Kadrivus Entomolius Auditan is a Kyrsan located at the edges of the map. Upon speaking to them, the player can complete their task to obtain Murmur: Rhythm.",
+  "found_at": [
+    "location:second_layer"
+  ],
+  "wiki": "Kadrivus_Entomolius_Auditan.md"
+}

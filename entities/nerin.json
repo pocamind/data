@@ -1,0 +1,12 @@
+{
+  "name": "Nerin",
+  "desc": "Nerin is an Etrean NPC. He accepts a bribe for [Etrea](faction:etrea).\n\nThe Pathfinder can pay him up to 1,200 to restore their reputation back to neutral.",
+  "additional_info": "-   The dialogue when you attempt to bribe with not enough money \"Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer?\" is a quote reference to Morshu from _Link: The Faces of Evil_.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Nerin.md"
+}

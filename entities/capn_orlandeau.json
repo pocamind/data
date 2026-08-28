@@ -1,0 +1,14 @@
+{
+  "name": "Cap'n Orlandeau",
+  "aliases": [
+    "Orlandeau",
+    "Cap'n"
+  ],
+  "desc": "Captain Orlandeau (more stylized as Cap'n Orlandeau) is a Felinor NPC. He is the captain of [The Scoundrel's Bounty](location:the_scoundrels_bounty).\n\nHe initially first appears in the tutorial for the game, which can be accessed via the Main Menu.\n\nAfter the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](location:castle_light), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](entity:klaris_llfiend_mother_of_lights), she damned him to the [City of New Kyrsa](location:new_kyrsa) in the [Second Layer](location:second_layer). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.\n\nThe player can run into him in New Kyrsa atop of one of the balconies near the middle of the city with his dialogue changing depending on if you did the tutorial or not.",
+  "additional_info": "-   Wears Flame Worshipper Armor, a Brigand's Bicorn, and a Celtor Commander Plate.\n-   During the parrying section, there was a brief period where he used a regular sword rather than his Razor Cutlass.\n-   Before the April 5th, 2026 update, a memory of Orlandeau stood by some ruins in the [Fragments of Self](location:fragments_of_self), allowing players to re-enter the tutorial.",
+  "found_at": [
+    "location:the_scoundrels_bounty",
+    "location:new_kyrsa"
+  ],
+  "wiki": "Cap'n_Orlandeau.md"
+}

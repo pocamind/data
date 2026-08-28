@@ -1,0 +1,12 @@
+{
+  "name": "Aezeroth Kaladin",
+  "aliases": [
+    "Aesalath Kaladin"
+  ],
+  "desc": "Aesalath Kaladin is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.",
+  "additional_info": "-   If you have not used a Lantern prior to speaking to them in a run, they will instead ask, \"Seec forru ahe laenten?\"",
+  "found_at": [
+    "location:firfire"
+  ],
+  "wiki": "Aezeroth_Kaladin.md"
+}

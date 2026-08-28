@@ -1,0 +1,12 @@
+{
+  "name": "The Voidmother",
+  "desc": "The Voidmother is an NPC. It is an entity that helps run [The Knives of Eylis](faction:the_knives_of_eylis) and perpetuate the [Voidheart](location:voidheart).\n\nShe is a formless, shapeless being. She is located in the Voidheart, and can help you leave it by teleporting you to where you last used your Voideye, or to [Lower Erisia](location:lower_erisia). She is also located in the Trial of one, right above the player when they first get teleported to the Trial of one, as well as the roof of [The Diluvian Mechanism](location:the_diluvian_mechanism).\n\nThe Voidmother views the player as naive, often referring to them as \"dull knife\" or \"Knife.\" She condemns shallow or superficial desires like fame or strength, commenting that they should \"seek a future worth living instead,\" or they can \"find more tangible purposes here.\" She appreciates motivations that have a worthful purpose, like taking care of someone.",
+  "additional_info": "-   Eylis says she and the Voidmother have had a 'long time friendship' and 'go way back'.",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "found_at": [
+    "location:voidheart"
+  ],
+  "wiki": "The_Voidmother.md"
+}

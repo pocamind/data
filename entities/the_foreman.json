@@ -1,0 +1,11 @@
+{
+  "name": "The Foreman",
+  "aliases": [
+    "Foreman"
+  ],
+  "desc": "The Foreman is a Canor NPC. He runs Nagatony's Picture Booth.\n\nHe is a short, balding man.",
+  "found_at": [
+    "location:the_aratel_sea"
+  ],
+  "wiki": "The_Foreman.md"
+}

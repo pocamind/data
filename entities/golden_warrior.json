@@ -1,0 +1,6 @@
+{
+  "name": "Golden Warrior",
+  "desc": "The Golden Warrior is a rare random encountered enemy NPC that spawns leaning on random walls in [Erisia](location:erisia).\n\nThey will start fighting back after being hit 3 times. The fight isn't too difficult as long you can parry well or pin them to a wall and spam mantras. A chest will appear will upon killing them.\n\nThey wear a Goldleaf Helm, Warden Pauldrons, a dyed Steel Plate outfit, and a pair of Flameguard Boots.",
+  "additional_info": "-   Their Steel Plate outfit is dyed #ffd674.\n-   This is a random encounter, not to be mistaken with the [Rat Fighters](entity:rat_fighter) in the [Rat's Den](location:rats_den) at [Burning Stone Gardens](location:burning_stone_gardens).\n-   The [Golden Rat Bouncer](entity:golden_rat_bouncer) outside of the [Rat's Den](location:rats_den) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.\n-   Golden Warriors and all typical Golden Rat NPCs wear a Steel Plate dyed with the color code `#ffd674`.",
+  "wiki": "Golden_Warrior.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Minityrsa",
+  "desc": "Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can be found to the right of the Luminant Gates. Despite being mostly uninhabited, there are remains of buildings and structures scattered around.",
+  "additional_info": "-   The music for this area is A Waltz Of Snow And Knights by Naktigonis.\n-   Minityrsa is also called \"Mini\" by other players.\n-   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.\n-   Enemy NPCs here cannot be assassinated, much like the Songseekers in the [Songseeker Wilds](location:songseeker_wilds).\n-   Since it is constantly snowing in Minityrsa, it is best to place Campfires beneath shelter or use one of the set spawn campfires.\n-   Wiping for the first time unlocks the ability to spawn here as an origin ([Trial of One](location:trial_of_one))\n-   If you are ineligible to start the Trial of One, (either you've already attempted it, aren't power one, or are Deepbound), you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.\n-   Many players struggle with the pronunciation, calling it names such as \"Ministrya\" or \"Minitrysia,\" but the actual pronunciation is \"Mini-tear-sa.\"\n-   Strangely, despite the fact that there are many Ministry Scouts and Ministry Necromancers here, Minityrsa is not considered to be territory of the Ministry in-game, as it doesn't say \"TERRITORY OF THE MINISTRY\" under its name. However, this DOES apply to [Outpost Antumbra](location:outpost_antumbra), which is located in Minityrsa.",
+  "part_of": [
+    "location:the_etrean_sea"
+  ],
+  "wiki": "Minityrsa.md"
+}

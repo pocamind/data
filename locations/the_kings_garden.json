@@ -1,0 +1,8 @@
+{
+  "name": "The King's Garden",
+  "desc": "The King's Garden is a landmark in [Etris](location:etris).\n\nIt is guarded by 2 Etrean Royal Guards who will attack players that attempt to get near the [Palace](location:etris_palace) if they don't have the [Duke Erisia](entity:duke_ishamon_erisia) Quest active or if they do not have ally reputation with [etrea](faction:etrea).\n\nAt the left side of the garden, there is a small maze with a Hive Fountain at its center, interacting with it after washing your face will teleport you to the [Greathive Aratel](location:greathive_aratel), assuming the slot that interacts with the Fountain has been to [the Eastern Luminant](location:luminants) during that life.",
+  "part_of": [
+    "faction:etrea"
+  ],
+  "wiki": "The_King's_Garden.md"
+}

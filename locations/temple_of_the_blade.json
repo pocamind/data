@@ -1,0 +1,9 @@
+{
+  "name": "Temple of the Blade",
+  "desc": "The Temple of the Blade is a large temple found in the [Isle of Vigils](location:isle_of_vigils). It is the core of the Isle and contains most of the Isle's necessities.",
+  "additional_info": "-   The music for this area is Dancing Steps Of War by Naktigonis\n-   Before doing the \"Lost Books\" Quest for the first time, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.",
+  "part_of": [
+    "faction:etrea"
+  ],
+  "wiki": "Temple_of_the_Blade.md"
+}

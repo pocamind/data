@@ -1,0 +1,10 @@
+{
+  "name": "Greathive Aratel",
+  "desc": "Greathive Aratel is a city built in a giant tree on the sea. Inside this tree is a large settlement: the Greathive itself.\n\nTo enter Greathive Aratel, you must have:\n\n-   washed your face (requires you to be at least Power 10 to wash your face) on any character or slot, and\n-   have visited the [Eastern Luminant](location:luminants) at least once on your current character.\n\nAlternatively, you can sail to Greathive Aratel, but getting to the top requires mobility mantras, clever usage of gliders, lots of parkour and jumping on the heads of players. If you washed your face and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.",
+  "additional_info": "-   The music for this area is Of Chitin, Kith And Kin by Naktigonis.\n-   The combat music for this area is A Symphony Of Strife by Naktigonis.\n-   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows Flamecharm to be used within the Greathive without the whole thing going up in flames.\n-   Everyone inside Greathive Aratel is a Hivekin: either a Vesperian, Ganymede, or Chrysid.\n-   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.\n-   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](location:fort_merit) or [Miner's Landing](location:miners_landing), for over two years.\n-   According to [Destroyman III](entity:destroyman_iii_bon_vivant_adventurer), Greathive Aratel makes the best soft shell tacos in the entire Luminant.\n-   Back in Verse 1, there was only three Teleporters instead of five.",
+  "part_of": [
+    "location:the_aratel_sea",
+    "faction:the_hive"
+  ],
+  "wiki": "Greathive_Aratel.md"
+}

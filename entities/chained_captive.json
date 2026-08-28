@@ -1,0 +1,11 @@
+{
+  "name": "Chained Captive",
+  "desc": "The Chained Captive is an Adret NPC. They are an Authority Soldier captured by Emar Vend.\n\nThey are required to rescue in order to obtain Chainwarden.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Chained_Captive.md"
+}

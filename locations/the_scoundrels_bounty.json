@@ -1,0 +1,6 @@
+{
+  "name": "The Scoundrel's Bounty",
+  "desc": "Home to the Rotten Lot, a vessel carrying crew members of countless origins hoping for a brighter future.\n\n**The Scoundrel's Bounty** is a dungeon that serves as the tutorial for the game. She is a large ship operated by the Rotten Lot, and captained by [Orlandeau](entity:capn_orlandeau). It does not function as a boat and is an immovable location, similar to an island.",
+  "additional_info": "-   You can drop barrels into the water.\n-   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.\n-   The ship bears a great resemblance to the [Beloved Zofia](location:beloved_zofia), found in the [Voidsea](location:voidsea), where [The Dreadstar](entity:the_dreadstar) resides. The resemblance is likely coincidental and they are simply a similar make of boat.",
+  "wiki": "The_Scoundrel's_Bounty.md"
+}

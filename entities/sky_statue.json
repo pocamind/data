@@ -1,0 +1,10 @@
+{
+  "name": "Sky Statue",
+  "desc": "The Sky Statues are a small collection of statues that are used to obtain the Bladeharper Oath.",
+  "found_at": [
+    "location:derelict_highchurch",
+    "location:etris_palace",
+    "location:lower_erisia"
+  ],
+  "wiki": "Sky_Statue.md"
+}

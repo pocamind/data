@@ -1,0 +1,9 @@
+{
+  "name": "Kasen",
+  "desc": "Kasen is a Capra NPC in [Sanctuary Gatehouse](location:sanctuary_gatehouse), [Eternal Gale](location:the_ethironal_shrine). The fastest way to get to them is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.\n\nBy talking to them with at least 80 Willpower and having had tier 1 insanity, they will teach you Heretic's Sutra, a Talent that reduces the sanity of the user by a flat amount on use.",
+  "additional_info": "-   You will always encounter three Carbuncles on the way to Kasen. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue. Alternatively, run to lead them away, and then return to Kasen.\n-   Their racial variant appears to be Jurik.",
+  "found_at": [
+    "location:ethironal_shrine_outskirts"
+  ],
+  "wiki": "Kasen.md"
+}

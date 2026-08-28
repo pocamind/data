@@ -1,0 +1,12 @@
+{
+  "name": "Drefa",
+  "aliases": [
+    "Korin"
+  ],
+  "desc": "Drefa is an Etrean NPC.\n\nWhen interacted with, they request 6 wood in order to keep the fires lit. In exchange, the Pathfinder gains 5 Notes and increased Reputation with [Etrea](faction:etrea). They also give the Pathfinder a free Lumber Axe if they do not have one.\n\nTheir counterpart in [Etris](location:etris) is [Korin](entity:drefa).",
+  "additional_info": "-   Drefa's racial variant appears to be Coral.",
+  "found_at": [
+    "location:temple_approach"
+  ],
+  "wiki": "Drefa.md"
+}

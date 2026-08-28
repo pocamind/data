@@ -1,0 +1,11 @@
+{
+  "name": "Sachan Shisui Kobura",
+  "speaker": "entity:sachan_shisui_kobura",
+  "lines": [
+    "*The Sachan gracefully sits on a mat, glancing at you nonchalantly. You offer a respectful bow.* Ah... An ally of the Old Guard. Whatever brings you to the Indigo Citadel? I do not have any remaining dealings with the alliance, if that's what you're here for.",
+    "*The Sachan scoffs.* Have you not heard? [The Old Guard](faction:etrean_royalists) is no more. Clan Kobura has withdrawn their support to the Royalist cause, for the time being. We shall bleed no longer, while the other clans lay their claims to glory and power at our expense.",
+    "*Sachan Shisui bursts out laughing, with an air of dismissiveness.* It is not 'falling apart'. It has been in that state for years now. Now, it finally has fallen apart. When discussing our next step, the others bickered like children over which point to attack. I recognised that we need allies - powerful allies, - and offered to parley with [the Central Authority](faction:the_central_authority) on our behalf. The other sachans foolishly took offence to my proposal. The argument that followed finally undid our bond.",
+    "*She frowns, baring her teeth, meaningfully placing her hand upon the hilt of her blade.* Mind your tongue, outsider, or I may have it cut out for you. Clan Kobura merely claims its fair share - and when we do not receive what we have rightfully earned, we rise from the negotiation table, and walk away, as is our right. For fourteen years we have fought by the side of the other clans, and we have nothing to show for it - nothing but the corpses of our fallen kin.",
+    "I will do what's right for our clan, regardless if I am alone or not. We will fortify our lands, and possibly seek a way to resist [the Lord Regent](entity:the_lord_regent). My scouts tell me an ancient power sleeps within [Minityrsa](location:minityrsa) - and perhaps we will investigate that. Or, perhaps, we will even make peace with the Lord Regent, and rejoin the fold of the Kingdom. It has been a long war - much was lost, and we must be pragmatic to survive."
+  ]
+}

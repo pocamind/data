@@ -1,0 +1,11 @@
+{
+  "name": "Kressa",
+  "desc": "Kressa was a Khan NPC. She was a member of [The Ignition Union](faction:the_ignition_union).",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Kressa.md"
+}

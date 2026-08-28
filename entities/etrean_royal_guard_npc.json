@@ -1,0 +1,11 @@
+{
+  "name": "Etrean Royal Guard (NPC)",
+  "desc": "The Etrean Royal Guard is an Etrean NPC. They watch over [Kennith](entity:kennith)'s mangled body.\n\nAfter Kennith's death, the guard will inform you the Pathfinder that they have an audience with the Lord Regent, and further probing will simply cause them to repeat the phrase.\n\nThe guard only spawns after getting to a certain point in the quest, after that they remain forever.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etrean_wilds"
+  ],
+  "wiki": "Etrean_Royal_Guard_(NPC).md"
+}

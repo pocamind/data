@@ -1,0 +1,12 @@
+{
+  "name": "Amorus Pleeksty",
+  "desc": "**Amorus Pleeksty** is a legendary former [Diver](faction:the_divers), known for inventing Flamecharm and being a Deepwoken, and thus immortal.\n\nAmorus ate a part of the Drowned God of the Third Layer, [Korilfiend](entity:korilfiend_the_infernos_provenance), in the form of a meteor flower he encountered in the gardens of the layer. This is what gave him his pyrokinetic powers, allowing him to talk to, command, and \"charm\" fire itself. This resulted in him inventing the modern art of Flamecharm, turning what was originally a crude magic largely conjured by accident into an actual technique.\n\nHe is one of two known people to go to the Third Layer. He is worshipped by [The Covenant of Flame](faction:the_covenant_of_flame) and the Flame Worshippers, although he sees them as more of a fan club. He is also revered by Tirans as a whole, with many carving floral patterns into their weapons to honor him.",
+  "additional_info": "-   Pleeksty has been referred to as Pleeksty, Pleektsy and Pleetsky. For the sake of consistency, this page uses Pleeksty\n-   He has some disciples, the most notable ones being [Aska](entity:aska) the wielder of Pleeksty's Inferno and [Venn Kaelhand](entity:venn_kaelhand), who is the original wielder of the First Light.\n-   Amorus was originally a Ganymede, and set to appear in the main game. The NPC that was originally Pleeksty was reworked into [Ploom](entity:ploom). He was later said to be a Vesperian, but was then said to be a Tiran, which led to some doubt on what aspect Pleeksty was supposed to be.\n-   Pleeksty did not invent the attunement itself, instead he revolutionized it by learning how to control the flames themselves.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "leads": [
+    "faction:the_covenant_of_flame"
+  ],
+  "wiki": "Amorus_Pleeksty.md"
+}

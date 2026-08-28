@@ -1,0 +1,12 @@
+{
+  "name": "Lake",
+  "desc": "Lake is a Chrysid NPC. She is a native of the [Lullaby Isles](location:lullaby_isles), specifically Daphnes, who got lost and somehow found herself in the [Songseeker Wilds](location:songseeker_wilds).\n\nLake somehow ended up in the [Eastern Luminant](location:luminants), wherein she encountered a band of sailors. Thinking the Songseeker Wilds were her home, she had them take her there. As she explored, she ran afoul of some [Songseekers](faction:songseeker).\n\nShe wears the Scholar Outfit.",
+  "additional_info": "-   Lake used to be sat on the broken bridge opposite the [Temple of the Forgotten Flame](location:the_temple_of_the_forgotten_flame).\n-   Lake's hair IDs are:\n    -   8994112527 for the ponytail\n    -   9678815144 for the short hair/bangs\n    -   6036724375 for the other short hair",
+  "member_of": [
+    "faction:the_moonlit_faith"
+  ],
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Lake.md"
+}

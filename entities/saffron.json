@@ -1,0 +1,9 @@
+{
+  "name": "Saffron",
+  "desc": "Saffron is a Khan NPC. They are one of the three disciples required for obtaining Oathless for the first time.",
+  "additional_info": "-   Saffron wears the Verdant Sniper outfit.\n-   If you already have an Oath, or not on the Oathless quest line, he will only say \"...\"\n-   His Khan aspect variant is Albino.\n-   He is named after a city in the Kanto region from the _Pokémon_ franchise. Namely, _Saffron City_.\n    -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](entity:cerulean), [Celadon](entity:celadon), and [Viridian](entity:viridian).\n-   Saffron can mean the shade of the color yellow, or a spice. The spice being the color deep red.\n-   Weirdly enough, Saffron has a unique dialogue compared to the other disciples, being \"Those eyes... You wish to\" and continue. While the others, [Viridian](entity:viridian) and [Celadon](entity:celadon), saying \"Those eyes.. you wish to\" and continue.\n    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in \"You\", while the others have 2 dots and a lower case Y in \"you.\"",
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Saffron.md"
+}

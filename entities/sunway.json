@@ -1,0 +1,12 @@
+{
+  "name": "Sunway",
+  "desc": "Sunway is a Plackart Vesperian working for [The Ignition Union](faction:the_ignition_union) in [The Ethironal Shrine](location:the_ethironal_shrine). Speaking with Sunway reveals that the 'snow' that the player has building up on them are actually parasites, which if left unchecked to build up will kill the host (the player, too). From there, victims turn into husks, and finally, Carbuncles.\n\nFrom speaking with Sunway, it is implied that the Ignition Union created the black and yellow variants of the lanterns as a way to prevent parasite buildup. These are not to be confused with the white and blue variant seen in the Galewax area of the [Ethironal Shrine Sanctuary](location:ethironal_shrine_sanctuary).",
+  "additional_info": "-   His hair ID is (https://www.roblox.com/catalog/212967757/Chestnut-Style), \"Chestnut Style\"\n-   He is the only Vesperian in the [Second Layer](location:second_layer).\n-   If you enter the base without opening the generator, he will say \"You get that generator working?\"\n    -   This is despite the fact that he has never met the player before.\n    -   [Alpha](entity:alpha) also says the same line under this condition.\n    -   This can only be achieved through gliching through the wall, or exploiting.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_frontier_furnace"
+  ],
+  "wiki": "Sunway.md"
+}

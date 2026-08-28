@@ -1,0 +1,15 @@
+{
+  "name": "Infamous Baz",
+  "aliases": [
+    "Baz"
+  ],
+  "desc": "Infamous Baz was a Felinor NPC.\n\nThey were found in the back corner of [The King's Garden](location:the_kings_garden) in [Etris](location:etris). They were located in a back corner of the garden to the right of the palace.",
+  "additional_info": "-   According to Arch\\_Mage, if you kept interacting with him, there is a chance you will get a legendary hidden Felinor-like aspect. Whether or not he was actually being serious was unclear but the chances of the statement being true are highly unlikely. With Baz's removal, it's all but confirmed it was false.\n-   He is named after infamousbaz, a friend of Arch\\_Mage.\n-   The canonical winner of the \"Grand Griddy.\"",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:the_kings_garden"
+  ],
+  "wiki": "Infamous_Baz.md"
+}

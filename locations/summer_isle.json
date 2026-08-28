@@ -1,0 +1,10 @@
+{
+  "name": "Summer Isle",
+  "desc": "The smell of gunpowder blankets this tropical paradise.\n\n**Summer Isle** is a populated island in [The Aratel Sea](location:the_aratel_sea), it is [The Summer Company](faction:the_summer_company)'s headquarters and is the only location with access to firearms and Hunter's Braces for sale.\n\nOne of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment, and enjoy the tropical scenery.",
+  "additional_info": "-   The Summer Isle Cannon can be clipped into, which once allowed for it to be picked up, prior to it being patched.\n-   The music for this area is Of Smoke And Steel by Naktigonis\n-   The combat music for this area is One For All, All For Gun by Naktigonis\n-   The only place to directly purchase guns in the Eastern Luminant.\n-   [The Meat Lord](entity:the_meat_lord) has a chance to spawn here.\n-   When a player with bad reputation comes near Summer Isle, the Summer Isle Cannon will activate, giving a warning sound. Then, firing a large cannonball at the player after 3–5 seconds.\n-   The location may be a reference to the historic Somers Isles Company and Somers Isles which is now more commonly known as Bermuda.\n-   Inside the summer isle inn, you can find the head of some monster placed on the wall. Presumably, it was added as a reference to The Hogfish, what was a joke monster talked about in the testing stages of Deepwoken.",
+  "part_of": [
+    "location:the_aratel_sea",
+    "faction:the_summer_company"
+  ],
+  "wiki": "Summer_Isle.md"
+}

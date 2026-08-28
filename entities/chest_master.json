@@ -1,0 +1,17 @@
+{
+  "name": "Chest Master",
+  "aliases": [
+    "Furnando",
+    "Catthew",
+    "Tabbytha",
+    "Purrsephone",
+    "Purrseus",
+    "Clawdia",
+    "Pawbrey",
+    "Meowritius",
+    "Pawline",
+    "Purrnard"
+  ],
+  "desc": "Chest Masters are Felinor NPCs. They are highly skilled in lockpicking and are also appraisers, being the only way to access treasure inside of chests inside of the Vow of Iron game mode.\n\nIn pathfinder mode, if you manage to get to the bugged [Floating Keep](location:the_floating_keep) outside of a seasonal event, then a Chest Master will take the place of [Lysander Spellhardt](entity:lysander_spellhardt) inside the castle.",
+  "wiki": "Chest_Master.md"
+}

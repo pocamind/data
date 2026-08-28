@@ -1,0 +1,15 @@
+{
+  "name": "Thera Erisia",
+  "aliases": [
+    "Duchess Thera Erisia",
+    "The Needle's Eye"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Thera served as the duchess of [Erisia](location:erisia). According to surviving records, in the form of statues, she was the third of her family name to bear this title. Thera was well renowned for wielding a rapier, earning her her title of \"The Needle's Eye\". She had a son, [Nir Erisia](entity:nir_erisia), who would go on to inherit the duchy from his mother.\n\nThe exact circumstances of Thera's death are unclear. However, it's widely believed that she found herself in a dispute that turned violent, during which she was attacked by numerous other individuals. Allegedly, she survived the assault, only to succumb to her wounds in the arms of her son.\n\nNeedle's Eyes were produced as replicas of her famed rapier.",
+  "leads": [
+    "location:erisia"
+  ],
+  "kin_of": [
+    "entity:nir_erisia"
+  ],
+  "wiki": "Thera_Erisia.md"
+}

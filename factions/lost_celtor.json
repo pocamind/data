@@ -1,0 +1,6 @@
+{
+  "name": "Lost Celtor",
+  "desc": "A once great kingdom ruling over the [Southern Luminant](location:luminants), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](location:the_city_of_the_drowned), their former capital. Their once great capital city, now [The City of the Drowned](location:the_city_of_the_drowned), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](faction:the_ministry) was responsible for, as an offering to [Yun'Shul, Keeper of Hearts](entity:yunshul_keeper_of_hearts).",
+  "additional_info": "-   If you have Hunted reputation, Hollow Angels will spawn around certain places for you even if you were not seen by a Watcher.\\[citation needed\\]\n-   Celtorian Guards used to attack Hollow Angels on sight, but this was changed in the October 6th, 2023 update.\n-   Celtorian Guards will attack monsters if hit by them in the crossfire in pursuit of another target, but neither will target each other directly.",
+  "wiki": "Lost_Celtor.md"
+}

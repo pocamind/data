@@ -1,0 +1,12 @@
+{
+  "name": "Raphael",
+  "desc": "Raphael is a mysterious Celtor NPC. He offers the player the unfinished quest to find 'Morning'.\n\nBased on his dialogue after accepting the quest but not completing it, it can be assumed that he works for some sort of shadow organization. It is hinted that he is a member of [The Ministry](faction:the_ministry) as he has different dialogue with neutral or higher Ministry Reputation.",
+  "additional_info": "-   The reasoning for this quest not being able to be completed is simply that it is not in the game, as stated by lead developer Arch\\_Mage. It is likely that this quest will stay that way for a long time.\n-   Previously, he wore the Hive Tactician Armor and had hair similar to the [The Ferryman](entity:the_ferryman).\n-   Despite being a Celtor, he still remains in the Ministry. This is interesting due to the fact that they are the reason his home has sunk into the Depths.",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "found_at": [
+    "location:varicosa_district"
+  ],
+  "wiki": "Raphael.md"
+}

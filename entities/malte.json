@@ -1,0 +1,8 @@
+{
+  "name": "Malte",
+  "desc": "Malte is an Etrean NPC. They can be found muttering about their research.\n\nMalte is researching the [Sky Statues](entity:sky_statue), which later turn out to be a path to the Bladeharper Oath.",
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Malte.md"
+}

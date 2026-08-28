@@ -1,0 +1,9 @@
+{
+  "name": "Darbert",
+  "desc": "Darbert is a Ganymede NPC.",
+  "additional_info": "-   Due to having only one line of dialogue, Darbert's name is not visible during normal gameplay.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Darbert.md"
+}

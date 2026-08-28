@@ -1,0 +1,9 @@
+{
+  "name": "Celadon",
+  "desc": "Celadon is an Adret NPC. They are one of the disciples required for the Oathless Quest.",
+  "additional_info": "-   Celadon's aspect variant is Boulder.\n-   He is named after a city in the Kanto region from the _Pokémon_ franchise. Namely, _Celadon City_.\n    -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](entity:cerulean), [Saffron](entity:saffron), and [Viridian](entity:viridian).\n-   Celadon usually means the shade of the color green.\n-   Weirdly enough, [Saffron](entity:saffron) has a unique dialogue compared to the other disciples, being \"Those eyes... You wish to\" and continue. While the others, [Viridian](entity:viridian) and Celadon, saying \"Those eyes.. you wish to\" and continue.\n    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in \"You\", while the others have 2 dots and a lower case Y in \"you\"",
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "Celadon.md"
+}

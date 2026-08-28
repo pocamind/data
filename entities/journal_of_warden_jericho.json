@@ -1,0 +1,8 @@
+{
+  "name": "Journal of Warden Jericho",
+  "desc": "Journal of Warden Jericho was an interactable book that would Unbound the player's strength after \"reading.\"",
+  "found_at": [
+    "location:tomb_of_the_nameless_warrior"
+  ],
+  "wiki": "Journal_of_Warden_Jericho.md"
+}

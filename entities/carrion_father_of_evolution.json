@@ -1,0 +1,21 @@
+{
+  "name": "Carrion, Father of Evolution",
+  "aliases": [
+    "Carrion",
+    "Father of Evolution",
+    "Dr. Diver"
+  ],
+  "desc": "Carrion, Father of Evolution, is a Ganymede NPC. He is a crackpot Black Diver.\n\nHe teaches monster mantras (given the right materials) and can untarnish the player's Resonance for 1.",
+  "additional_info": "-   Carrion is based on Doc, a player who was one of the first members of the Divers guild. As a result, they have taken up that mantle.\n-   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.\n-   In the dialogue with Klaris after interacting with Carrion in New Kyrsa: the player will note Carrion describing himself as \"Dr. Diver\".\n-   It has been confirmed by Arch\\_Mage that Dr. Carrion escaped from Layer 2 by stepping on Klaris' Light Hook, but it has not been confirmed if it is the same light hook the player used to escape Layer 2. This, of course, doesn't make any sense if you think about it for more than 10 seconds since he can return to Castle Light without you having taken the Light Hook. This also contradicts Doc's own words that it was a clone, but since he has a tendency to just _say_ stuff, his word should be probably taken with two mountains of salt.\n-   Hair id: 8213821125",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light",
+    "location:new_kyrsa"
+  ],
+  "goals": [
+    "Create the Moonseye Vigor and use it to transcend everyone"
+  ],
+  "wiki": "Carrion,_Father_of_Evolution.md"
+}

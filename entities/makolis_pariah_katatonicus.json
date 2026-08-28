@@ -1,0 +1,9 @@
+{
+  "name": "Makolis Pariah Katatonicus",
+  "desc": "Makolis Pariah Katatonicus is a Kyrsan NPC. They can be found sitting alone at the edges of [Firfire](location:firfire). Makolis asks the player to rest with them, and to be friends during the fleeting moments.",
+  "additional_info": "-   A \"pariah\" is one who is considered an outcast.",
+  "found_at": [
+    "location:firfire"
+  ],
+  "wiki": "Makolis_Pariah_Katatonicus.md"
+}

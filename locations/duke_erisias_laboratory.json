@@ -1,0 +1,9 @@
+{
+  "name": "Duke Erisia's Laboratory",
+  "desc": "Duke Erisia's Laboratory consists of a small interlude hall where you fight Golem Primes and Mindless Servants, and the arena where the player fights [Duke Ishamon Erisia](entity:duke_ishamon_erisia). You can enter this area by going through [Duke Erisia's Manor](location:duke_erisias_manor) and descending down through the elevator.\n\nWhen entering the arena section, you will see the Duke himself and several tubes with Mindless Servants in them.",
+  "additional_info": "-   The first room is obligated to do, you must kill many Mindless Servants and two Prime Golems to advance to the other rooms\n-   You can skip all rooms except the first to go directly to the Duke Erisia",
+  "part_of": [
+    "location:duke_erisias_manor"
+  ],
+  "wiki": "Duke_Erisia's_Laboratory.md"
+}

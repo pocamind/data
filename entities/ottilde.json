@@ -1,0 +1,12 @@
+{
+  "name": "Ottilde",
+  "desc": "Ottilde is a Chrysid NPC. She is a worker of [The Ignition Union](faction:the_ignition_union).\n\nOttilde has known nothing but the Union since she was born.\n\nShe wears the Ignition Welder Outfit and Smith's Goggles.",
+  "additional_info": "-   Her aspect was once bugged, being both a Gremor and Chrysid at the same time.\n-   Ottilde's hair ID is https://www.roblox.com/catalog/11844088437/Curly-Hippie-Mullet-White",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Ottilde.md"
+}

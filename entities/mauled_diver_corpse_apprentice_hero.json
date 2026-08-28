@@ -1,0 +1,16 @@
+{
+  "name": "Mauled Diver Corpse (Apprentice Hero)",
+  "aliases": [
+    "Hero",
+    "Apprentice"
+  ],
+  "desc": "The Mauled Diver Corpse is an NPC. It is the lifeless body of Apprentice Hero.\n\nThe player is able to pocket the Diver's Journal: Apprentice Hero left behind by the corpse.\n\nApprentice Hero was a [Diver](faction:the_divers) participating in the third expedition to the [Second Layer](location:second_layer), sent by [Klaris](entity:klaris_llfiend_mother_of_lights) to retrieve the Black Diver, [Chaser](entity:chaser_scholar_of_the_crimson_contract), and the original team.\n\nIn his Journal he wrote about his last experiences with [Chaser](entity:chaser_scholar_of_the_crimson_contract) cutting off any food supply for his expedition team and forbidding them from entering [territory](location:the_frontier_furnace) of [the Ignition Union](faction:the_ignition_union).\n\nThis resulted in Hero resorting to eating eggs of the [Second Layer](location:second_layer)'s parasites. They knew what happens to those, who get infested with parasites, but couldn't help themselves. They wrote their last thoughts before they turned into a husk of themselves.\n\nThey were later mauled by a Bounder.",
+  "additional_info": "-   The description of the corpse says it was slashed across the back, but the wounds are very clearly across the front.\n-   Despite all signs pointing to Hero being killed by parasites, the corpse doesn't show any symptoms of such. They instead appear to have been killed while running from a Bounder. This oddity was preserved even after the Diver Journals were rewritten into the Diver's Journals.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:ethironal_shrine_sanctuary"
+  ],
+  "wiki": "Mauled_Diver_Corpse_(Apprentice_Hero).md"
+}

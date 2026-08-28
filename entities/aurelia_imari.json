@@ -1,0 +1,8 @@
+{
+  "name": "Aurelia Imari",
+  "desc": "Aurelia Imari was a member of [the High Convocation](faction:the_high_convocation). She gave [Vincent Zeneke](entity:vincent_zeneke) access to the archives of [the Citadel of Markor](faction:the_citadel_of_markor), which he was very grateful of.",
+  "member_of": [
+    "faction:the_high_convocation"
+  ],
+  "wiki": "Aurelia_Imari.md"
+}

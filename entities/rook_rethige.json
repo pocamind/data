@@ -1,0 +1,12 @@
+{
+  "name": "Rook Rethige",
+  "desc": "Rook Rethige is a Felinor NPC in the [Voidheart](location:voidheart). He is able to sell a Whaling Knife for 300 if the player has spoken to [Raen](entity:raen) and asked \"I see. Can you help me with affording equipment?\n\nIf the player has the Two Faced Regalia, Rook will sell the Call of the Deep, Union Pager, or Horn of Authority for 20 each only once.",
+  "additional_info": "-   He seemingly gives lore about his character, which is based on a tester.\n-   He posseses a Ganymede suname despite his aspect being a Felinor.",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "found_at": [
+    "location:voidheart"
+  ],
+  "wiki": "Rook_Rethige.md"
+}

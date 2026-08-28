@@ -1,0 +1,15 @@
+{
+  "name": "Khan (NPC)",
+  "aliases": [
+    "Khan"
+  ],
+  "desc": "Khan is an Etrean NPC. They are a mysterious individual who borrowed books from [Kelsius](entity:kelsius).",
+  "additional_info": "-   After selecting \"For the books...\", the in-game music gradually dims and the sound of a door creaking plays. Then, after selecting \"Doing what?\", sounds akin to bubbling play.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etrean_wilds"
+  ],
+  "wiki": "Khan_(NPC).md"
+}

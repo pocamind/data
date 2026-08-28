@@ -1,0 +1,11 @@
+{
+  "name": "Merryweather",
+  "desc": "Merryweather is a Canor NPC. She is a member of [The Ignition Union](faction:the_ignition_union).\n\nMerryweather has been assigned to a research project involving figuring out how to utilize worms for timekeeping in [The Depths](location:the_depths), though has hit a snag in her research.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_chariots_spire"
+  ],
+  "wiki": "Merryweather.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kayla",
+  "desc": "Kayla is an Adret NPC.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Kayla.md"
+}

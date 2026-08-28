@@ -1,0 +1,13 @@
+{
+  "name": "Kelsius",
+  "desc": "Kelsius is an Adret NPC. He works as the librarian at the [Isle of Vigils](location:isle_of_vigils).\n\nUpon accepting his quest, he tasks the player into retrieving his lost books for a mantra hand and access to books to instantly gain a random attribute point. If the player has already obtained an extra mantra hand, completing his quest will instead reward 1 Knowledge.\n\nHe is a Thundercaller and former member of [the Central Authority](faction:the_central_authority)'s Shock Corps.",
+  "additional_info": "-   Despite his record, Kelsius was accepted by the Maestro to work as the vigils librarian.\n-   You are able to completely skip the quest and unlock special dialogue if you have completed the Castaway tutorial on the same character.\n-   Oddly enough, having the Authority Ensign Origin doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.\n-   Kelsius' dialogue used to be slightly different, with there being two possible avenues to inquire about their past. One was more direct, while the other was more subtle, and Kelsius would react appropriately.\n-   Kelsius will still suggest the books are on the Isle of Vigils even if the books have not been retrieved previously, and thus are on [Etris](location:etris) instead.",
+  "member_of": [
+    "faction:the_central_authority",
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade"
+  ],
+  "wiki": "Kelsius.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Harnessed Thresher",
+  "desc": "The Harnessed Thresher is [Sordinos](entity:sordino) companion he raised using a Vow of Companionship.",
+  "found_at": [
+    "location:the_starswept_valley"
+  ],
+  "wiki": "Harnessed_Thresher.md"
+}

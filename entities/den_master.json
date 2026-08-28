@@ -1,0 +1,8 @@
+{
+  "name": "Den Master",
+  "desc": "The Den Master is a Felinor that sells Tier 1 and 2 Mantra Modifiers\n\n-   The Den Master sells Crystal Lens and Perfect Lenses (Further mantra projectile range), Drift Shards and Rush Shards (Faster mantra projectile speed), Cloudstones and Stratus Stones (Larger mantra size), Aeon Logstones and Eternal Logstones (Longer mantra duration).\n-   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)\n-   Each tier one item (Cloudstones, Aeon Logstones, Drift Shards, Crystal Lenses) costs 10 notes per item. Each tier two item (Stratus Stones, Eternal Logstones, Rush Shards, and Perfect Lenses) costs 25 notes per item.\n\nTheres another Den Master named [Cave Master](entity:cave_master) in [Isle of Vigils](location:isle_of_vigils) behind the house where the barber is located.",
+  "found_at": [
+    "location:etrean_wilds"
+  ],
+  "wiki": "Den_Master.md"
+}

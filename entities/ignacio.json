@@ -1,0 +1,11 @@
+{
+  "name": "Ignacio",
+  "desc": "Ignacio is a Canor NPC. He is a dragoon of [The Summer Company](faction:the_summer_company).",
+  "member_of": [
+    "faction:the_summer_company"
+  ],
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Ignacio.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aster Leshi",
+  "desc": "Aster was an Etrean guard. As part of Operation 'Puppet Master', he was kidnapped by [Inquisitor Lotus](entity:inquisitor_lotus) for interrogation.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "wiki": "Aster_Leshi.md"
+}

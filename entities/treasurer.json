@@ -1,0 +1,6 @@
+{
+  "name": "Treasurer",
+  "desc": "An NPC that is the first purchasable inside of your Guild Base that cost 500 Notes.\n\nOnce hired the Treasurer gives you access to the Guild Treasury, where you can deposit Notes, it is also where all the Notes from Guild Banners go. You can only deposit Notes into the guild base but not take them out, Notes in the Guild Treasury can be used to expand and get more rooms.\n\nYou can donate Notes to other Guilds through talking to their Treasurers.",
+  "additional_info": "-   You cannot lose Notes from your Guild Treasury unless you spend it or disband the Guild.",
+  "wiki": "Treasurer.md"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Nyanna",
+  "desc": "Nyanna is an NPC merchant, she sells various outfit schematics and weapons. She wears a Blue Traveller's Jacket outfit and a White Fur Parka.\n\nNyanna's shop runs on an hourly rotation. Every hour, she sells four items chosen at random from a list. She can sell the same item multiple times, on the same rotation and across multiple rotations. Most of her shop consist of uncommon weapons and schematics that are geared towards mid-game.",
+  "additional_info": "-   Nyanna's name likely comes from the Japanese word for meow: \"Nyan.\"\n-   Nyanna's hair can be found here: https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns",
+  "found_at": [
+    "location:castle_light"
+  ],
+  "wiki": "Nyanna.md"
+}

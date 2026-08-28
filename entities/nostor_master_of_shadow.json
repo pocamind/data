@@ -1,0 +1,9 @@
+{
+  "name": "Nostor, Master of Shadow",
+  "desc": "Nostor, Master of Shadow, is a Ganymede NPC who acts as both progression for the Silentheart Oath and the Shadowcast trainer.\n\nIn order to obtain Shadowcast, you must bring 5 Umbral Obsidian to Nostor (2 if you have already obtained Shadowcast on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.",
+  "additional_info": "-   Nostor, along with [Regek](entity:regek), is non-binary.",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "wiki": "Nostor,_Master_of_Shadow.md"
+}

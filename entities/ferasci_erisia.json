@@ -1,0 +1,12 @@
+{
+  "name": "Ferasci Erisia",
+  "aliases": [
+    "Duke Ferasci Erisia",
+    "The Songspeller"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Ferasci served as the Duke of [Erisia](location:erisia). According to surviving records, in the form of statues, they were the fifth of their family name to bear this title. For unknown reasons, they bore the title of \"The Songspeller\".",
+  "leads": [
+    "location:erisia"
+  ],
+  "wiki": "Ferasci_Erisia.md"
+}

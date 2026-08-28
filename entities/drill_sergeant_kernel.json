@@ -1,0 +1,17 @@
+{
+  "name": "Drill Sergeant Kernel",
+  "aliases": [
+    "Cornelius Kernel Sr.",
+    "Drill Sergeant",
+    "Interceptor"
+  ],
+  "desc": "Drill Sergeant Kernel is a Celtor NPC. He is the mentor for the freshly arrived Authority Ensigns in the east. His official rank is technically Interceptor, but with the structure of the Authority's military, he trains recruits until they're placed in a division, after which the division leaders take over training and command.\n\nHis son, [Private Kernel](entity:private_kernel), is also a member of [the Central Authority](faction:the_central_authority)'s eastern garrison.",
+  "additional_info": "-   His full name is a play on the words corn kernel.\n-   His Bad Authority Reputation dialogue is a reference to the similar line spoken by the Soldier from _Team Fortress 2_.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Drill_Sergeant_Kernel.md"
+}

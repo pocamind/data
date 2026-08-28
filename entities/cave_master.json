@@ -1,0 +1,8 @@
+{
+  "name": "Cave Master",
+  "desc": "The Cave Master is a Felinor that sells Tier 1 and 2 Mantra Modifiers\n\n-   The Cave Master sells Crystal Lens and Perfect Lenses (Further mantra projectile range), Drift Shards and Rush Shards (Faster mantra projectile speed), Cloudstones and Stratus Stones (Larger mantra size), Aeon Logstones and Eternal Logstones (Extended mantra duration), and Amnesic Driftwood (Removes mantra modifiers).\n-   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)\n-   Each tier one item (Cloudstones, Aeon Logstones, Drift Shards, Crystal Lenses and Amnesic Driftwood) costs 10 notes per item. Each tier two item (Stratus Stones, Eternal Logstones, Rush Shards, and Perfect Lenses) costs 25 notes per item.\n\nTheres another Cave Master named [Den Master](entity:den_master) in [Etris](location:etris) in a slightly hidden sandy cove.",
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Cave_Master.md"
+}

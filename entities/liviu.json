@@ -1,0 +1,11 @@
+{
+  "name": "Liviu",
+  "desc": "Liviu is a Chrysid NPC. Seeming to be involved with world around them as they talk a lot about the \"Acolyte\" and how they're watched to at least \"seem busy.\"",
+  "member_of": [
+    "faction:the_moonlit_faith"
+  ],
+  "found_at": [
+    "location:greathive_aratel"
+  ],
+  "wiki": "Liviu.md"
+}

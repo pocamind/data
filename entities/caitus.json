@@ -1,0 +1,12 @@
+{
+  "name": "Caitus",
+  "desc": "Caitus is a Khan NPC. They are a member of [The Hundred Legions](faction:the_hundred_legions) and currently belonging to the 11th Scouting Legion. They stay with their group composed of [Atra](entity:atra), [Lars](entity:lars), [Gaius](entity:gaius) and [Amara](entity:amara).\n\nCaitus tasks the player with delivering a message about a [certain someone](entity:titus_fulminus_destellus) in an [Authority Prison](location:merit_detainment_core). They will teach the Imperium Kata style to the player upon reporting back after delivering said message.\n\nTaking upon Caitus' quest requires above Ally reputation with The Hundred Legions.",
+  "additional_info": "-   Some words said by Caitus are derived from Latin terms:\n    -   Nemo is a Latin word for \"nobody\", which they refer to the player as under Ally reputation.\n        -   Nemo was a name used in place of the Outis alias in Latinized versions of _The Odyssey_ for the hero Odysseus, who is referred to as Ulysses in the Latin version.\n    -   Salve, in a Latin context, is used for greetings and farewells.\n        -   Salvete is the plural form of this word, which is mostly (and incorrectly) used by Caitus.\n    -   Teneō has various meanings, but in this context, may be used for \"understand\".\n    -   Spondeō literally means \"I promise\".\n-   You don't need to speak to Caitus before defeating Titus in order to get Imperium Kata.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:the_vipers_jaw"
+  ],
+  "wiki": "Caitus.md"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Everis Spellhardt",
+  "desc": "Everis is one of many Lightborn scattered across [The Floating Keep](location:the_floating_keep). They send you back to the Hallowtide caller, being one of two ways to leave The Floating Keep. The only other option is to server hop.",
+  "found_at": [
+    "location:the_floating_keep"
+  ],
+  "wiki": "Everis_Spellhardt.md"
+}

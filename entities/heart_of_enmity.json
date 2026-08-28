@@ -1,0 +1,12 @@
+{
+  "name": "Heart of Enmity",
+  "aliases": [
+    "True Heart of Enmity"
+  ],
+  "desc": "The Heart of Enmity is a Boss found in the [First Layer](location:first_layer) of the Depths, located in the [Cathedral of the Interstice](location:cathedral_of_the_interstice). A gargantuan creature wrought of iron and animosity and far superior to any mere Enforcer, it is a creation of the [Voice of Enmity](entity:voices_of_the_depths), a response to those making a mockery of the Trial with sheer numbers.\n\nTo summon it, at least 5 players need to enter the Depths trial at the same time, and one player must have at least 60 difficulty score (+3 score per Power and +1 score per Drown).\n\nThe Heart of Enmity possesses 65% oath damage resistance, 90% elemental resistance, ?% PEN reduction and is **immune to all enchantments**. It is also immune to potion effects. Has an unknown (but noticeable) amount of resistance to Damage versus Monsters and partially ignores Monster Armor (He has PEN).",
+  "additional_info": "-   The Heart of Enmity is the first ever [Scyphozia](location:first_layer) Boss added.\n-   The Heart of Enmity has the highest base health out of any entity in the game.\n-   It was briefly able to spawn corrupted, which was restorable.\n-   It is unclear if the Heart of Enmity is the physical form of the [Voice of Enmity](entity:voices_of_the_depths), or just a stronger monster variant used in the trial. However due to the dialogue given after defeating the boss, it implies that the creature is a physical form of the Voice of Enmity (as opposed to the other conjurations).\n-   Their summons are internally referred to as \".enmity\\_enforcer\\_WEAPON\"\n-   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Wind, as it would teleport far outside the confines of the arena, upon which it would die.\n-   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would force the participants to fight until one remained.",
+  "found_at": [
+    "location:cathedral_of_the_interstice"
+  ],
+  "wiki": "Heart_of_Enmity.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mauled Diver Corpse (Apprentice Azel)",
+  "aliases": [
+    "Azel",
+    "Apprentice Azel"
+  ],
+  "desc": "The Mauled Diver Corpse is an NPC. It is the lifeless body of Apprentice Azel.\n\nThe player is able to pocket the Diver's Journal: Apprentice Azel left behind by the corpse.\n\nAzel was an [apprentice diver](faction:the_divers) participating in the expedition to the [Second Layer](location:second_layer) led by [Chaser](entity:chaser_scholar_of_the_crimson_contract), where he would eventually meet his demise. After being betrayed by [Chaser](entity:chaser_scholar_of_the_crimson_contract) he hid in the [Nest Corridor](location:nest_corridor) and wrote his last thoughts in his journal before being mauled to death by bounders.",
+  "additional_info": "-   In the removed Diver Journal, I, Azel's surname is stated to be Corbet. This tidbit is not present in Diver's Journal: Apprentice Azel.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "wiki": "Mauled_Diver_Corpse_(Apprentice_Azel).md"
+}

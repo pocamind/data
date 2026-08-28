@@ -1,0 +1,11 @@
+{
+  "name": "Santiago Talo",
+  "aliases": [
+    "Ranger"
+  ],
+  "desc": "Santiago Talo was a Ranger of [the Divers](faction:the_divers). They were assigned with leading a patrol party, consisting of them, Ranger Bykof, Ranger Emirad and new Diver recruits. Eventually, he diverted his scouting party away from his assigned path, heading towards the direction of the Landfall.\n\nWith two other Rangers: Bykof and Emirad, they dispatched of a stray Thresher and found deceased bodies of Celtorian citizens of the upper class. After which, they looked at [the City of the Drowned](location:the_city_of_the_drowned) and saw individuals leading a procession into the city. Eventually, they decided to stick to the assigned route and finish it.\n\nOn Sunsdawn, 9th Bloomfall, 904 CE he was interrogated by a Black Diver [Ulysses Disii](entity:ulysses_disii) on the case of insubordination. [The High Convocation](faction:the_high_convocation) were responsible for his punishment, although, Disii recommended for his assignment to sanitation duties at [the Citadel](faction:the_citadel_of_markor) for two weeks.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "wiki": "Santiago_Talo.md"
+}

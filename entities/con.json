@@ -1,0 +1,8 @@
+{
+  "name": "Con",
+  "desc": "Con is a Khan NPC that owns a Pawn shop where he sells all kinds of crafting materials. His Vow of Iron counterpart is [Hale](entity:con).",
+  "found_at": [
+    "location:summer_isle"
+  ],
+  "wiki": "%43on.md"
+}

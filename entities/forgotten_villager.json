@@ -1,0 +1,6 @@
+{
+  "name": "Forgotten Villager",
+  "desc": "Forgotten Villagers are NPCs that were. Unlike the other villagers, they distrust Alastir and thus cannot be handed in to him. Talking to one of villagers will initiate an event that spawns three waves of Bandit Leaders and eventually a wave leading up to a Rock Golem.\n\n-   Wave 1/2/3 - Four Bandit Leaders\n-   Wave 4 - One Rock Golem",
+  "additional_info": "-   In their dialogue the \"Royal Pathfinder\" that they mention is [Alastir](entity:alastir).\n    -   Though, bringing them to Alastir gives no reaction.\n-   They are hostile to every NPC, including the [Teacher](entity:teacher) NPC.\n-   They wear the Stranded outfit.",
+  "wiki": "Forgotten_Villager.md"
+}

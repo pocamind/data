@@ -1,0 +1,9 @@
+{
+  "name": "Windrunner",
+  "desc": "The Windrunner is a Celtor NPC. They uncap the Agility stat. They are very hard to reach without major mobility.",
+  "additional_info": "-   In their dialogue, they talk about \"The Contractor that resides within the Palace\" and \"the Warmaster in his Fortress\" referring to [The Lord Regent](entity:the_lord_regent) and [Warden Jericho](entity:warden_jericho).\n-   They have green eyes.\n-   The Windrunner in name is likely a reference to the _Order of Windrunners_ from the _Stormlight Archives_ given other inspirations from the novels prevalent in Deepwoken. (https://coppermind.net/wiki/Order_of_Windrunners)",
+  "found_at": [
+    "location:etrean_wilds"
+  ],
+  "wiki": "Windrunner.md"
+}

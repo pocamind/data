@@ -1,0 +1,8 @@
+{
+  "name": "Ka'al",
+  "desc": "**Ka'al** was one of the side-characters in the book Lament of Cirryn.\n\nHe is a Lifeweave scholar of [The Hive](faction:the_hive), who was sent out on a mission along with 2 other scholars to revive [Cirryn](entity:cirryn) by a hivelord [Ximac Diri](entity:ximac_diri).\n\nKa'al wasn't very talkative, rather always seeming troubled and keeping to himself. Though, his interactions with [Remaz](entity:remaz) hint that they're good friends.\n\nKa'al participates in the ritual of reviving [Cirryn](entity:cirryn), but his interest gets the better of him and he meets his demise at the hand of rogue [Cirryn](entity:cirryn). He is too weak to survive [the Depths](location:the_depths), as mentioned by Ehkusa, although, his ultimate fate is unknown.",
+  "member_of": [
+    "faction:the_hive"
+  ],
+  "wiki": "Ka'al.md"
+}

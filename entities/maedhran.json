@@ -1,0 +1,9 @@
+{
+  "name": "Maedhran",
+  "desc": "Maedhran is a Canor NPC. He explains a story about defeating a leader named Ironjaw, and sells lesser Mantra Modifiers for 100 each after listening intently.\n\nThe Mantra Modifiers he sells are:\n\n-   Aeon Logstones\n-   Drift Shards\n-   Crystal Lens\n-   Cloudstones",
+  "additional_info": "-   Upon picking any option that interrupts his story, you will be given the same dialogue of \"Hey. Don't interrupt me. _\\*His expression momentarily flashes with tremendous coldness, like hell freezing over, but then switches back to his normal expression as if nothing had ever happened.\\*\"_\n-   Whenever picking an option to interrupt his story, you will randomly be given the following options:\n    -   What are you on about?\n    -   What?\n    -   Pardon?\n    -   Huh?\n    -   I'm sorry, what?\n-   He's a more expensive vendor compared to the Den Master, selling Cloudstones, Drift Shards, and Crystal Lenses, for 100 instead of 10.",
+  "found_at": [
+    "location:miners_landing"
+  ],
+  "wiki": "Maedhran.md"
+}

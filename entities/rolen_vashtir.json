@@ -1,0 +1,15 @@
+{
+  "name": "Rolen Vashtir",
+  "aliases": [
+    "King Rolen Vashtir I",
+    "King of Etrea"
+  ],
+  "desc": "Rolen Vashtir, first of his name, was the final King of [Etrea](faction:etrea), who reigned through the early 6th century CE.\n\nRolen later disappeared during an expedition into the [Voidsea](location:voidsea).\n\n**Legacy**\n\nDespite having vanished, many in Etrea believed he would still return as far as 600 years after his disappearance. He is also the subject of a prayer meant to ward off evil.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "leads": [
+    "faction:etrea"
+  ],
+  "wiki": "Rolen_Vashtir.md"
+}

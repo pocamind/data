@@ -1,0 +1,6 @@
+{
+  "name": "Lightkeeper Temple",
+  "desc": "**Lightkeeper Temple** is a now abandoned temple that was once home to Lightkeepers. Once known as the [Temple of Mur](location:temple_of_mur).\n\nThe temple's entrance is along the route taken to the [Widow's Hollow](location:widows_hollow). One of the jail cells inside of the temple leads to the [Deep Thresher Nest](location:deep_thresher_nest).",
+  "additional_info": "-   Before completely changing into the [Temple of Mur](location:temple_of_mur), the Lightkeeper Temple was a much larger set of rooms and hallways littered with Threshers and King Threshers.\n\n-   The player was able to wash their face from the fountain inside of the room with the obelisk, allowing access to [The Lordsgrove](location:the_lordsgrove) and the ability to use the Fountain Gates anywhere within Lumen.\n    -   An abundance of extra rooms and Thresher Eggs was present throughout the temple, with even a large prison located in the bottom.\n\n-   During early testing, this area was called \"Stormcaller Temple,\" with its caption being \"???\"\n-   The area originally came with the caption \"Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders\". It was removed in a shadow update.",
+  "wiki": "Lightkeeper_Temple.md"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Warden Jericho",
+  "aliases": [
+    "Jericho"
+  ],
+  "desc": "Warden Jericho is an Adret NPC. He is a high-ranking official within [The Central Authority](faction:the_central_authority) as the head of its Eastern garrison.\n\nHe appears as an aged Adretian man with red eyes and markings, with a faded scar on his right eye. His hair is a dark blue color, and is combed back precisely to reach the back of his neck, with his bangs asymmetrically leaning towards the right. To the right of his head is a glowing white \"crown\" in the shape of three four-pronged stars connected with each other, likely as a result of being a Warmaster.\n\nMuch like the rest of him, his personality is still a mystery. Unlike most members of the Authority, he appears to actually pity the [Etreans](faction:etrea), knowing that [The Lord Regent](entity:the_lord_regent) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.\n\nHe dons a red Royal Duelist and is clad over a Authority Captain Uniform. A gold-colored Warmaster's Medallion sits on his neck and a pair of Vanguard Boots on his feet. He holsters a bell on his hip, signifying his strength to obtain a Resonance. On his other hip, he wields the Rite of Authority.",
+  "additional_info": "-   The Oath wielded by Warden Jericho, Warmaster, is unreleased.\n-   When he executes the Pathfinder by lowering their cage into the sea, Warden Jericho's textbox doesn't use his title, and instead refers to him as just \"Jericho\".",
+  "member_of": [
+    "faction:the_central_authority",
+    "faction:circle_of_honour"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Warden_Jericho.md"
+}

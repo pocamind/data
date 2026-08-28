@@ -1,0 +1,9 @@
+{
+  "name": "Arnon",
+  "desc": "Arnon is a Felinor NPC.\n\nThey wear the Pathfinder Sorcerer outfit and an Adventurer Coat styled white.",
+  "additional_info": "-   Even though having only one line of dialogue, Arnon's name is visible during normal gameplay.\n-   Originally named Lars.",
+  "found_at": [
+    "location:alsins_landing"
+  ],
+  "wiki": "Arnon.md"
+}

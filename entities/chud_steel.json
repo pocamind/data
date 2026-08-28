@@ -1,0 +1,15 @@
+{
+  "name": "Chud Steel",
+  "aliases": [
+    "Interceptor Steel"
+  ],
+  "desc": "The gaudily-dressed soldier, more commonly known as Chud Steel, is a Greymarch Adret NPC. He is part of the Shock Corps division for [The Central Authority](faction:the_central_authority), serving as [Sentinel Augustus](entity:sentinel_augustus)' assistant.\n\nChud is the face of the Authority's propaganda. Despite this, he is not just a figurehead and is no slouch. He claims to be capable of carrying 15 soldiers at a time and having once moved an orphanage with his bare hands.\n\nHe wears the Authority Captain Uniform Outfit with a blue Authority Helm, Brilliant Cape, and Brilliant Boots, forming quite the garish outfit. Chud Steel holsters a bell at his hip, signifying his strength to obtain a Resonance.",
+  "additional_info": "-   Chud Steel has 33 unique catchphrases.\n-   A chud is a derogatory term for those, usually male, who hold beliefs that are seen as reactionary or to be sociopolitically regressive, particularly racism and extreme ethnonationalism.\n-   Dialogue referencing him being placed in the Central Luminant and he himself stating that \"Chud Steel\" is a \"long-running family name\" may imply that \"Chud Steel\" is not an individual, so much as an identity held by multiple individuals in order to boost morale. The fact he has 15 brothers could be a further hint, as there wouldn't be a shortage of people who share a similar appearance\n-   Chud Steel's hair id is 5131996138.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wiki": "Chud_Steel.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Seroth",
+  "desc": "Seroth is an Etrean amongst the ranks of the [Etrean Royal Guard](entity:etrean_royal_guard_npc). Located near the [Isle of Vigils](location:isle_of_vigils) docks, Seroth resides in a cave that acts as a makeshift workshop for experiments, with markings sprawled across the walls and books lying on the floor.\n\nLeaning against the far wall before Seroth, there lies the lifeless corpse of a Capra [Ministry](faction:the_ministry) agent, with their blood staining the cave floor. This person was likely killed by Seroth to advance his experiments in some fashion, as he appears to be studying the corpse.\n\nSeroth is trying to craft... something with the Ancient Dagger Remains, though what he is trying to create is a mystery in and of itself. Seroth has unique dialogue if you speak to him while you have the Sanguine Transfuser equipped which heavily implies that this may be the item he was attempting to make, though this cannot be said for sure. In any case, his true motives remain unclear.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Seroth.md"
+}

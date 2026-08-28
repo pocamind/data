@@ -1,0 +1,9 @@
+{
+  "name": "Aratel Island",
+  "desc": "Aratel Island is the name given to a large land mass found in the Eastern Luminant, due to it existing in [The Aratel Sea](location:the_aratel_sea).\n\nMost of its surface is either part of the [Starswept Valley](location:the_starswept_valley) or the [Bluster Rift](location:bluster_rift). There are two towns in Aratel Islands, those being [Meteor Isle](location:meteor_isle) and [Fort Merit](location:fort_merit). It is also home to the only Fountain Gate in the [Eastern Luminant](location:luminants), that being in [The Lordsgrove](location:the_lordsgrove). The easiest way to reach the top, where [Starswept Valley](location:the_starswept_valley), [Bluster Rift](location:bluster_rift), and [The Lordsgrove](location:the_lordsgrove) reside, is to climb one of the islands in front of the island, and glide onto the top. It has three voidzones, those being: [Starfield Grove](location:starfield_grove), [Deep Thresher Nest](location:deep_thresher_nest) and the [Lightkeeper Temple](location:lightkeeper_temple). It is dominated by [The Central Authority](faction:the_central_authority) and [The Hundred Legions](faction:the_hundred_legions).",
+  "additional_info": "-   Frequently referred to as \"Hive\" by players.\n-   Small, blue meteorites uncommonly fall from Constellia. These meteorites will spawn in Stone Knights.\n-   Funny enough, the stationary blue meteors in Meteor Isle won't spawn in Sand Knights. Go figure.\n-   A great place to grind for medium-level players, due to the abundance of Threshers and King Threshers.",
+  "part_of": [
+    "location:the_aratel_sea"
+  ],
+  "wiki": "Aratel_Island.md"
+}

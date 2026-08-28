@@ -1,0 +1,8 @@
+{
+  "name": "Ezra",
+  "desc": "Ezra is a Capra NPC.\n\nEzra gives a quest to kill Songseekers at the [Derelict Highchurch](location:derelict_highchurch). He also provides some information about Songseekers. Upon completing his quest, you gain a Bravery Talent hand.\n\nBefore [Samael](entity:samael) and the Starkindred took over the [Derelict Highchurch](location:derelict_highchurch), it was a place for Ezra and the Capra to worship Mother Ku, a Celestial. When [Samael](entity:samael) took over, he turned it into a place to \"worship\" an unknown Celestial.\n\nThe quest and Talent hand is unavailable if you are a Starkindred.",
+  "found_at": [
+    "location:songseeker_wilds"
+  ],
+  "wiki": "Ezra.md"
+}

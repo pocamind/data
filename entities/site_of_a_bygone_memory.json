@@ -1,0 +1,9 @@
+{
+  "name": "Site of a Bygone Memory",
+  "desc": "The Site of a Bygone Memory is an NPC.\n\nInteracting with it will begin the fight against [General Titus Juventius](entity:titus_fulminus_destellus).",
+  "additional_info": "-   Though refered to as a carving, the Site appears to actually be an embelishment.",
+  "found_at": [
+    "location:the_polymarch"
+  ],
+  "wiki": "Site_of_a_Bygone_Memory.md"
+}

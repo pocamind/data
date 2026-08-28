@@ -1,0 +1,12 @@
+{
+  "name": "Renau",
+  "desc": "Renau is a Canor NPC. They are a member of [the Ignition Union](faction:the_ignition_union).\n\nRenau has low opinions of the expedition to the Second Layer.",
+  "additional_info": "-   Renau's racial variant appears to be Lion.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "found_at": [
+    "location:the_chariots_spire"
+  ],
+  "wiki": "Renau.md"
+}

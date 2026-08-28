@@ -1,0 +1,11 @@
+{
+  "name": "Well-kept Gravestone",
+  "aliases": [
+    "Well-tended Gravestone"
+  ],
+  "desc": "Well-kept Gravestone is an \"NPC\" that is part of [Suri's](entity:suri) quest, it's the gravestone of Suri's brother.",
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Well-kept_Gravestone.md"
+}

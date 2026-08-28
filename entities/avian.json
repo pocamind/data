@@ -1,0 +1,15 @@
+{
+  "name": "Avian",
+  "aliases": [
+    "Emil"
+  ],
+  "desc": "Avian is an Etrean NPC. They believe [Evengarde Rest](entity:evengarde_rest) is a fraud.\n\nThey will ask the player bring them a Weapon Manual so that they can become stronger.",
+  "additional_info": "-   This NPC has a whopping three spelling/grammar mistakes.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:isle_of_vigils"
+  ],
+  "wiki": "Avian.md"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Lars",
+  "desc": "Lars is a Khan NPC. He is a member of [The Hundred Legions](faction:the_hundred_legions) and currently belong to the 11th Scouting Legion. He stays with his group composed of of [Atra](entity:atra), [Caitus](entity:caitus), [Gaius](entity:gaius) and [Amara](entity:amara).\n\nHe is part of the 'Legion Scout' quest and is the person [Atra](entity:atra) asks you to find.",
+  "additional_info": "-   Lars' hair id is 15913837.",
+  "member_of": [
+    "faction:the_hundred_legions"
+  ],
+  "found_at": [
+    "location:erisia"
+  ],
+  "wiki": "Lars.md"
+}

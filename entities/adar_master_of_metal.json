@@ -1,0 +1,9 @@
+{
+  "name": "Adar, Master of Metal",
+  "desc": "Adar is an Etrean NPC who acts as both progression for the Silentheart Oath and the Ironsing trainer.\n\nIn order to obtain Ironsing, you must bring the 6 main Ores to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [the Miner's Landing blacksmith](entity:rudral) and shown him a Pluripotent Alloy or if you have obtained Ironsing before on a previous Slot.",
+  "additional_info": "-   Adar's appearance, specifically his hair, derives from an outfit by developer K1LLUAA.\n    -   His hair combo can be found here: (https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), (https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), (https://www.roblox.com/catalog/11104022976/Cursed-Hair)\n-   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.\n-   Formerly, Adar could not be killed for Silentheart progression and when talking to him while being one would only prompt a message of him saying, \"Huh? What're you giving me that look for?\" This was changed in the November 10th, 2025 update, which finally allowed him to be fought and killed. (He still says that.)\n-   Unlike the other Attunement Trainers, Adar does not use a legendary weapon that uses Ironsing due to him having a Darksteel Greatsword already on his back.\n-   Adar is homosexual.",
+  "member_of": [
+    "faction:the_ignition_union"
+  ],
+  "wiki": "Adar,_Master_of_Metal.md"
+}

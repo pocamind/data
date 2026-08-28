@@ -1,0 +1,12 @@
+{
+  "name": "Iskeban Erisia",
+  "aliases": [
+    "Duke Iskeban Erisia",
+    "The Wind's Guide"
+  ],
+  "desc": "As a member of the [Erisia family](faction:erisia_family), Iskeban served as the Duke of [Erisia](location:erisia). According to surviving records, in the form of statues, they were the seventh of their family name to bear this title. For unknown reasons, they bore the title of \"The Wind's Guide\".",
+  "leads": [
+    "location:erisia"
+  ],
+  "wiki": "Iskeban_Erisia.md"
+}

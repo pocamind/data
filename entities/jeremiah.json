@@ -1,0 +1,9 @@
+{
+  "name": "Jeremiah",
+  "desc": "Jeremiah is an Etrean NPC. He can exchange Deep Gems for a random item.\n\nHe wears a Vanguard Brace, Vanguard Boots, and Polarised Eyeglasses with the Cutthroat Light Armor outfit.",
+  "additional_info": "-   Jeremiah is able to give the player all of the Attribute rings besides the Rosen's Ring.",
+  "found_at": [
+    "location:the_city_of_the_drowned"
+  ],
+  "wiki": "Jeremiah.md"
+}

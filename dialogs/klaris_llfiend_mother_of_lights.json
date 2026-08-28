@@ -1,0 +1,15 @@
+{
+  "name": "Klaris Llfiend, Mother of Lights",
+  "speaker": "entity:klaris_llfiend_mother_of_lights",
+  "lines": [
+    "Someone competent? That's rare.",
+    "We lost an expedition team heading into the [Second Layer](location:second_layer). We sent one of our Black Divers, [Chaser](entity:chaser_scholar_of_the_crimson_contract), down with about 20 experienced [Divers](faction:the_divers). Something seems to have gone wrong down there - it's not normal for him to not report back. We had reports from our scouts that powerful reverberations of the Song were coming from a passage within one of the Ethironal Sanctuaries. We think this might have clues to the resting place of [Ethiron](entity:ethiron_the_maelstroms_eye).",
+    "Skip the honorifics and call me Klaris. I run things around here, and I guess you could say I'm credited with the discovery of the Radiant Tones, among other things.",
+    "The Drowned God of the Eternal Gale. The one responsible for not only the harsh conditions of the [Second Layer](location:second_layer), but also possibly the key we need to further understand [the Depths](location:the_depths) itself.",
+    "The Radiant Tones are a Verse of the Song that can reproduce Light. According to our research, we believe Lightkeepers have used it latently for centuries to Illuminate pathways through the Voidsea, but I found a way to reproduce the Verse and wield it against the Depths itself.",
+    "The Light Hook is a special technique of the Radiant Tones. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no Light Hook will save you then.",
+    "By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the First Layer are simply not experienced enough, as made evident by our recent losses... I have hope for you.",
+    "The landscape here... It reacts. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.",
+    "Ugh, I don't have time to train you Apprentices. SCRAM!"
+  ]
+}

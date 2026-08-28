@@ -1,0 +1,11 @@
+{
+  "name": "Yakob",
+  "desc": "Yakob is an Adret NPC. He is a soldier of [The Central Authority](faction:the_central_authority).\n\nUpon meeting the player as an ensign themself, he'll greet them and talk about how happy the folks of [Fort Merit](location:fort_merit) were about the wave of recruits.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:the_three_cheers"
+  ],
+  "wiki": "Yakob.md"
+}

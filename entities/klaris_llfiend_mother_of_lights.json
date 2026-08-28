@@ -1,0 +1,19 @@
+{
+  "name": "Klaris Llfiend, Mother of Lights",
+  "aliases": [
+    "Klaris Llfiend",
+    "Mother of Lights"
+  ],
+  "desc": "Klaris Llfiend, Mother of Lights, is a Canor NPC. She is a Black Diver in charge of the expeditions to and from [The Eternal Gale](location:second_layer).\n\nShe is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a \"web\" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the Moonseye, a sideffect of being a Dawnwalker. As a result of being the inventor/discoverer of the Radiant Tones she wears the standard Black Diver outfit.\n\nOf the Divers, she is considered one of the strongest, along with [Chaser](entity:chaser_scholar_of_the_crimson_contract) and [Akira](entity:akira).\n\nShe is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers. She also appears rather arrogant, as she banished [Cap'n Orlandeau](entity:capn_orlandeau) to [New Kyrsa](location:new_kyrsa) for disagreeing with her and how she reacts to players under Power 10 talking to her.",
+  "additional_info": "-   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend.\n-   Despite her appearance, she's actually a Canor without eyeliner.\n-   Klaris Colors: #F0E2B6 Skin | #F0E2B6 Hair\n    -   The colour of her skin is identical to that of her hair.\n    -   Klaris' Hair id's are\n        `8465862459   7337593886`\n-   Klaris' Eyes and Facial Marking have a slight glow within them.\n-   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.\n-   Attempting to enhance your skills as a Dawnwalker while fully progressed will prompt the message, \"Your mastery can go no further.\"\n-   Multiple past reworks have made Klaris's dialogue go through multiple changes, removing certain lines and etc. A non-exhaustive list is shown below. You must be signed in to view these links to due Fandom limitations.\n    -   On the August 23, 2024 update, dialogues pertaining to enchanting your equipment with random enchants was removed.(viewable here, See Shop UI)\n        -   This update added the Enchant Grease, and replaced the option to imbuing your equipment with a random enchantment that Klaris used to sell. Before this, she would imply that she was enchanting your equipments with Enchant Stones.\n    -   On the May 31, 2026 update, dialogues pertaining to the Deepshore Fossil was removed (viewable here, See Unlockable Dialogues -> Floor 1 Optional)\n        -   This update added the option to craft Enchant Stones that were previously uncraftable. (Barring [Traan Zakshun](entity:traan_zakshun)'s black market) Klaris used to be the sole provider of the (one-time use) Deepshore Fossil through a questline, which allowed you to enchant your weapons with most enchants. All of the enchants that the Deepshore Fossil gave was made craftable, and thus the item became obsolete, and was therefore removed from the game along with its questline.\n        -   Alongside Deepshore Fossil's removal are also the removal of certain questline-specific items: Diver Journal, I, Diver Journal, II, and Diver Journal, III, with them being replaced by new books.",
+  "member_of": [
+    "faction:the_divers"
+  ],
+  "found_at": [
+    "location:castle_light"
+  ],
+  "goals": [
+    "Turn the Radiant Tones into a Lightkeeping offshoot the common man can use against [The Depths](location:the_depths)"
+  ],
+  "wiki": "Klaris_Llfiend,_Mother_of_Lights.md"
+}

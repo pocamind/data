@@ -1,0 +1,18 @@
+{
+  "name": "High Inquisitor Merey",
+  "aliases": [
+    "Merey Scarsen"
+  ],
+  "desc": "High Inquisitor Merey is a Canor NPC. She is the lead of the Inquisitor division for [The Central Authority](faction:the_central_authority) garrison positioned in the Eastern Luminant, the second to possess this rank, and a Thundercaller.\n\nShe appears aged with small wrinkles around her eyes. She wears an Inquisitor's Visor, a Brilliant Cape, an Inquisitor's Duster, and a pair of Grand Authority Sabatons. On her right side, she holsters a bell at her hip, signifying her strength to obtain a Resonance. On her left side she wields the Big Brother dagger.",
+  "additional_info": "-   Due to her rank, Merey does not have floral-themed codenames other Inquisitors have.\n-   As a Handler, reading the Operation 'Puppet Master' Report will unlock new dialogue.",
+  "member_of": [
+    "faction:the_central_authority"
+  ],
+  "found_at": [
+    "location:fort_merit"
+  ],
+  "wields": [
+    "weapon:big_brother"
+  ],
+  "wiki": "High_Inquisitor_Merey.md"
+}

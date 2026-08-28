@@ -1,0 +1,8 @@
+{
+  "name": "Lullaby Isles",
+  "desc": "**The Lullaby Isles** are a tropical archipelago in the [Central Luminant](location:luminants) and the homeland of Chrysids with multiple settlements dotted across the region. The archipelago is circulated by a dense mountain range, known as the Stoneseye.\n\nThe Chrysids within speak in a dialect native to the Isles themselves, known as the Moonlit Dialect, which is rarely seen outside its walls.\n\nThe Lullaby Isles are the territory of [The Moonlit Faith](faction:the_moonlit_faith), which means that they are controlled by the [Council of the Moonlit Faith](faction:council_of_the_moonlit_faith), which is given orders and overseen by [The Lady Confessor](entity:the_lady_confessor). If someone's leave isn't sanctioned by [The Moonlit Faith](faction:the_moonlit_faith), they aren't allowed back in — they are seen as traitors and are most likely sacrificed by burning alive.\n\n[The Central Authority](faction:the_central_authority) would have conquered the Isles, but finds it a difficult target due to its geographical location. As the Stoneseye Range is incredibly insurmountable to scale, the archipelago has the high-ground advantage, with the caverns being the only way to bypass the mountain range, which are most likely reinforced as well.",
+  "part_of": [
+    "location:luminants"
+  ],
+  "wiki": "Lullaby_Isles.md"
+}

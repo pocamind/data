@@ -1,0 +1,11 @@
+{
+  "name": "Krile",
+  "desc": "Krile is an Etrean NPC in the [Voidheart](location:voidheart). They are able to reset the Chessboard by warping pieces back to their original position.",
+  "member_of": [
+    "faction:the_knives_of_eylis"
+  ],
+  "found_at": [
+    "location:voidheart"
+  ],
+  "wiki": "Krile.md"
+}

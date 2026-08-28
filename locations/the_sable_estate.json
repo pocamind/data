@@ -1,0 +1,8 @@
+{
+  "name": "The Sable Estate",
+  "desc": "Nestled in the safety of mountains, the serene sanctuary of the mighty clan Ganba stands resiliant.",
+  "part_of": [
+    "faction:etrean_royalists"
+  ],
+  "wiki": "The_Sable_Estate.md"
+}

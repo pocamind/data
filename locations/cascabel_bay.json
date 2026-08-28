@@ -1,0 +1,9 @@
+{
+  "name": "Cascabel Bay",
+  "desc": "Cascabel Bay is a Location in _Deepwoken_. It is a small sea making up the body of water surrounding [Fort Merit](location:fort_merit) and part of [Meteor Isle](location:meteor_isle).",
+  "additional_info": "-   The name \"Cascabel Bay\" refers to Fort Merit's original name: Fortress Cascabel.\n-   Although released along with many other seas, Cascabel Bay is the only one to be controlled by a faction.",
+  "part_of": [
+    "faction:the_central_authority"
+  ],
+  "wiki": "Cascabel_Bay.md"
+}

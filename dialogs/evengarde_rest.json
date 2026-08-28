@@ -1,0 +1,11 @@
+{
+  "name": "Evengarde Rest",
+  "speaker": "entity:evengarde_rest",
+  "lines": [
+    "Ah, well if it isn't [First Name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.",
+    "*He grimaces.* Be that as it may, his presence is the only thing standing in the way of a full invasion by the [Central Authority](faction:the_central_authority). My strength alone cannot hold them back.",
+    "Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence.",
+    "They would strip our blades from our hands and destroy our way of life. Living under the thumb of Authority Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.",
+    "Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has [Etrea](faction:etrea) been subject to the whims of others. Be that [the Ministry](faction:the_ministry) or the [Authority](faction:the_central_authority)..."
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Garden Reservoir",
+  "desc": "The Garden Reservoir is a location directly underneath the [Burning Stone Gardens](location:burning_stone_gardens). It seems to hold a resemblance and possibly be connected through unreachable tunnels to [The Viper's Jaw](location:the_vipers_jaw), possibly from underneath the acid. It is a gloomy area covered with pillars of stone, Irithine deposits and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](location:burning_stone_gardens). Going into the acid will end up with you taking damage and being put into combat.\n\nThere is a small cave within the Reservoir that contains multiple Soul Hearthgems, which are a necessary part of the Intelligence Unbound process.",
+  "additional_info": "-   The music for this area is In Shade, Hollow by Naktigonis.\n-   The garden reservoir was once a large cave a part of [The Viper's Jaw](location:the_vipers_jaw) before collapsing into the [Burning Stone Gardens](location:burning_stone_gardens).\n-   Players can find Irithine here, which is a metal used in crafting some Outfits.\n-   Survivalist does not reduce or negate the damage taken by the Acid pools.",
+  "wiki": "The_Garden_Reservoir.md"
+}

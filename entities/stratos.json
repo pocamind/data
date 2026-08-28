@@ -1,0 +1,16 @@
+{
+  "name": "Stratos",
+  "aliases": [
+    "Cirrus"
+  ],
+  "desc": "Stratos is an Etrean NPC. They are the second-in-command of the Blade Temple, behind [Evengarde Rest](entity:evengarde_rest).\n\nTo speak with him normally, players must have good Reputation with [Etrea](faction:etrea), around 75 reputation, between neutral and ally status. If the player does not meet this requirement, Stratos will refuse to speak to them unless they are carrying his [delivery](entity:lances_brother). If the player has the delivery, he will reward them with 25 Notes. After speaking with him, Stratos says he will teach the player once they feel the \"essence of the wind\", starting his quest.\n\n**Quest**\n\nTo complete Stratos' quest, the player must meet the following requirements:\n\n-   Have 15 points in Galebreathe.\n-   Have \"Ally\" Reputation with Etrea.\n\nOnce these requirements are met, speaking to Stratos again will grant the Windwaker Talent. This Talent appears as an ability in the player's inventory and can be activated while on any boat.",
+  "additional_info": "-   The name of the Talent is taken from _The Legend of Zelda: The Wind Waker_.\n-   Attempting to spook Stratos with a Hallowtide Mask will fail, causing him to say, \"What was that? I felt a calm breeze...\"\n-   Stratos' quest previously required the player to sail through Sea Highways for a certain amount of time. After Sea Highways were removed, Stratos now grants the Talent after the player returns to him after a span of time.",
+  "member_of": [
+    "faction:the_vigils",
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:temple_of_the_blade"
+  ],
+  "wiki": "Stratos.md"
+}

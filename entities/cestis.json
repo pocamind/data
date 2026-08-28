@@ -1,0 +1,12 @@
+{
+  "name": "Cestis",
+  "desc": "Cestis is a Ganymede NPC presumably working for [the Ministry](faction:the_ministry). His main purpose is to contract assassinations of random players, chiefly used to obtain the Tacet Murmur.",
+  "additional_info": "-   Cestis was originally located in [The Hidden Village](location:the_hidden_village).\n-   For those trying to get Murmur: Tacet, doing bounties from territories like [Etris](location:etris), [Summer Isle](location:summer_isle), or even [Fort Merit](location:fort_merit) will count towards your required number of assassinations in order to obtain Tacet from Cestis.\n    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue. - Note, You require Hunted reputation with Etrea, Not Enemy.\n-   It is unknown why you require Hunted reputation with [Etrea](faction:etrea) to get a bounty from him, given that Etrea is under the control of the Ministry.",
+  "member_of": [
+    "faction:the_ministry"
+  ],
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Cestis.md"
+}

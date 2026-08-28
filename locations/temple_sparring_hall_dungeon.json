@@ -1,0 +1,6 @@
+{
+  "name": "Temple Sparring Hall (Dungeon)",
+  "desc": "Temple Sparring Hall is an enormous hall with many hanging lanterns made in a Japanese-like style, surrounded by stone statues and with the lanterns on the roof.\n\nTo enter the Temple Sparring Hall, players will have to speak with [Das](entity:das) in the non-dungeon variant of the [Temple Sparring Hall](location:temple_sparring_hall) in the Etrean Luminant, or speak to [Regarde](entity:regarde) at the Heart Plaza in [Greathive Aratel](location:greathive_aratel).",
+  "additional_info": "-   Upon the Trainer getting the player to zero health, their health will be automatically reset to max.\n-   Using a Boulder to drain max health will cause the player to lose a life.\n-   Getting knocked from blood loss will cause the player to lose a life.\n-   Health, Hunger, Thirst, Blood and Sanity will transfer between the Dungeon and the players last location",
+  "wiki": "Temple_Sparring_Hall_(Dungeon).md"
+}

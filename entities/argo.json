@@ -1,0 +1,14 @@
+{
+  "name": "Argo",
+  "aliases": [
+    "Okram"
+  ],
+  "desc": "Argo is an Etrean NPC who wears a red Traveler Cloak. They teach the player the basics of Fishing and has a shop where you are able to buy everything you will need for Fishing. The store also contains many fishes on display.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris_docks"
+  ],
+  "wiki": "Argo.md"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Vice Warden Morredh",
+  "speaker": "entity:vice_warden_morredh",
+  "lines": [
+    "Hm? I'm busy. Go bother one of the guards.",
+    "Hm? I don't have time for you, lowlife. There are bigger fish to fry.",
+    "What is it? You had better not be wasting my time. There's filth that requires scraping off the map.",
+    "Ha! Assist? I can't deny you've got guts. We've been tracking down a deserter by the name of Emar Vend. Intel suggests he's camping out somewhere on [Summer Isle](location:summer_isle).",
+    "That so? He's been capturing our soldiers and selling them off to [Etreans](aspect:etrean) as prisoners of war. If you can capture this coward, you'd be doing us a big favour.",
+    "You've impressed me, Chainwarden. What do you need?",
+    "Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.",
+    "Justice will come to this world soon enough. When I'm Warden of the East, I'll make sure of that.",
+    "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world."
+  ]
+}

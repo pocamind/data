@@ -1,0 +1,16 @@
+{
+  "name": "The Lord Regent",
+  "speaker": "entity:the_lord_regent",
+  "lines": [
+    "Ah, if it isn't [Full Name]! I've been expecting you. How have your travels been?",
+    "Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?",
+    "Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.",
+    "What else? [The forge of Sin](object:forge_of_sin). It should be located in the manor of the one known as '[Duke Erisia](entity:duke_ishamon_erisia)'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.",
+    "An artifact from below... One with properties much to my liking.",
+    "A remnant of some long-dead backwater of a nation. His use of [the Forge](object:forge_of_sin) is amateur at best. If it were in our hands...",
+    "Have you brought [the Forge](object:forge_of_sin)?",
+    "Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.",
+    "So you have it all figured out? Did you intend to come to [this palace](location:etris_palace) to stop me? Oh, what a hero. Such a noble act.",
+    "Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their Oaths to others. These heathens are to be dealt with promptly."
+  ]
+}

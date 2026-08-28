@@ -1,0 +1,19 @@
+{
+  "name": "Bookkeeper Andros",
+  "speaker": "entity:bookkeeper_andros",
+  "lines": [
+    "Well, I was reading through a book my grandfather left me... one of the old world, yes?... It spoke of the trade routes frequented in those days, but peculiarly these journeys were taken by horse and carriage, rather than by sea.",
+    "Isn't that remarkable? That they travelled such distances by animal? Just what world did our ancestors live in?",
+    "These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the old world. Don't you wonder what things were like back then?",
+    "There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the Old World. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.",
+    "If you head past the inn, you'll find [the Lord Regent](entity:the_lord_regent)'s estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.",
+    "[The Lord Regent](entity:the_lord_regent) is the 'acting regent' of [Etrea](faction:etrea). That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.",
+    "Ah, hard to avoid hearing about him here. He's somewhat of a mythical figure, though there was a real man behind all the myth. King Rolen Vashtir I reigned through the early 6th century CE and made quite a name for himself and [Etrea](faction:etrea) on the world stage. As fate would sadly have it, he set off on a voyage with a small fleet of ships and never returned",
+    "Indeed. Since the King's departure, the Kingdom has been governed by a line of Lord Guardians - stewards of the throne who are er... warming the seat, so to speak. Of course, [the Lord Regent](entity:the_lord_regent) does not style himself as such... Ahem. Was there anything else you wanted to know?",
+    "The myths differ in their accounts, but they speak of him travelling to the Southern Luminant to strike a deal with an entity of some kind. Some attribute it to Mur, others to something more ancient. Perhaps even something from below...",
+    "Mm. Much like the Splinterblade that the King is famed for, the legends say that the deal he struck split his soul into three parts in order to accomplish the feat.",
+    "Well, you'll get a lot of conflicting answers depending on who you ask. Here in [Etrea](faction:etrea), she's fabled as the Goddess who blessed the [Etreans](aspect:etrean) of the Resurgence with the understanding of Murmurs, The more contemporary views here is that she was a Celestial who aided Etrea. Though, uh. Be careful who you bring that up around. There are many in these parts who adhere to the old faith rather zealously...",
+    "What's perhaps more interesting is that we don't know all too much about his rise to power. Before his rise to power, there was an officially recognised historian in the Etrean court. I had once hoped that I myself could fill such a position, but it no longer exists. It's said that when [the Lord Regent](entity:the_lord_regent) came to power, half of the books in the libraries disappeared overnight.",
+    "It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I'd recommend you don't dig further..."
+  ]
+}

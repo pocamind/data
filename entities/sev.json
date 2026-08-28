@@ -1,0 +1,12 @@
+{
+  "name": "Sev",
+  "aliases": [
+    "Vesna"
+  ],
+  "desc": "Sev is a Ganymede NPC. They can exchange Crowns for Dye Packets.\n\nSev can be given 25 Crowns to permanently unlock \"Manycolored Equipment\" letting you edit your equipment's color freely on any character without needing to spend Dye Packets. To use Manycolored Equipment, right click the equipped item you want to dye in your journal UI, then click dye.\n\nTheir appearance is unique as they have multicolored crown shaped eyes and blue skin. They wear a green Party Hat and the Cala-Mariner outfit. Their crown also emits multicolored particles.\n\nManycolored Equipment is an account-wide unlock and **cannot** dye Oath cosmetics, hair, eyes, Aspect features, Resonance bells, or Outfits. You will still need to visit a [Barber](entity:barber) to remove dyes.",
+  "additional_info": "-   The phrase \"It insists upon itself.\" is a reference to a scene from the adult animation sitcom _Family Guy_, wherein the protagonist, Peter Griffin, dismisses _The Godfather_, a film largely considered one of the greatest movies in history, using this reasoning, much to the outrage of his family. The phrase is intended to come off as pseudo-intellectual and shallow.\n-   Their prices are a complete and utter scam compared to [Vesna](entity:sev), who sells their products for Notes rather than Crowns.",
+  "found_at": [
+    "location:meteor_isle"
+  ],
+  "wiki": "Sev.md"
+}

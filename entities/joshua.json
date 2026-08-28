@@ -1,0 +1,12 @@
+{
+  "name": "Joshua",
+  "desc": "Joshua is an Etrean NPC.\n\nJoshua has the appearance of an old man with wrinkly skin.",
+  "additional_info": "-   Depending on the players progress in the \"Diver Apprentice\" quest, Joshua will change:\n    -   If the quest is in progress, he will make mention of [Karliah](entity:karliah), a Diver Apprentice who cooks for him.\n    -   In one of the bad endings of the quest, he is nowhere to be seen and his decapitated head is being held by Karliah in her house.\n    -   In the good ending of the quest, he will thank the player for making Karliah seem happier.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "found_at": [
+    "location:etris"
+  ],
+  "wiki": "Joshua.md"
+}

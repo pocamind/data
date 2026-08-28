@@ -1,0 +1,8 @@
+{
+  "name": "Suyuan",
+  "desc": "Suyuan is an Etrean NPC.\n\nThey give the quest \"Ghost Hunting,\" asking the Pathfinder to seek out a [Ghost Ship](location:beloved_zofia). Upon completion, the Pathfinder earns XP, a Compassion Talent hand, and the Supernatural Sense Talent, providing +10 Sanity.",
+  "member_of": [
+    "faction:etrea"
+  ],
+  "wiki": "Suyuan.md"
+}

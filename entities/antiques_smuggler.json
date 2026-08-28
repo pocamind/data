@@ -1,0 +1,9 @@
+{
+  "name": "Antiques Smuggler",
+  "desc": "The Antiques Smuggler is an Etrean NPC. They function similarly to an [Antiquarian](entity:antiquarian), but at the cost of purchasing most items at only 50% of their normal value. However, trinkets can still be traded at the standard rate.\n\nThe Antiques Smuggler wears a Grand Pathfinder Cloak.",
+  "additional_info": "-   Antiques Smuggler's hair id is 13794250687",
+  "found_at": [
+    "location:paths_respite"
+  ],
+  "wiki": "Antiques_Smuggler.md"
+}
