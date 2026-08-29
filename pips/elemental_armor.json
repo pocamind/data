@@ -1,0 +1,17 @@
+{
+  "name": "Elemental Armor",
+  "amounts": {
+    "Head": {
+      "Elemental Armor": {
+        "Rare": 3,
+        "Legendary": 4
+      }
+    },
+    "Arms": {
+      "Elemental Armor": {
+        "Rare": 3,
+        "Legendary": 4
+      }
+    }
+  }
+}

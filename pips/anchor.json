@@ -1,0 +1,16 @@
+{
+  "name": "Anchor",
+  "amounts": {
+    "Legs": {
+      "Health": {
+        "Legendary": 3
+      },
+      "Posture": {
+        "Legendary": 0.5
+      },
+      "Knockback Resistance": {
+        "Legendary": 10
+      }
+    }
+  }
+}
