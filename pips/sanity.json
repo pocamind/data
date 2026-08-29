@@ -1,0 +1,35 @@
+{
+  "name": "Sanity",
+  "amounts": {
+    "Face": {
+      "Sanity": {
+        "Rare": 4,
+        "Legendary": 6
+      },
+      "Ether": {
+        "Rare": 6,
+        "Legendary": 8
+      }
+    },
+    "Earrings": {
+      "Sanity": {
+        "Rare": 6
+      },
+      "Ether": {
+        "Rare": 6
+      }
+    },
+    "Rings": {
+      "Sanity": {
+        "Uncommon": 4,
+        "Rare": 6,
+        "Legendary": 8
+      },
+      "Ether": {
+        "Uncommon": 4,
+        "Rare": 6,
+        "Legendary": 8
+      }
+    }
+  }
+}

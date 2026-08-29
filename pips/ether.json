@@ -1,0 +1,54 @@
+{
+  "name": "Ether",
+  "amounts": {
+    "Head": {
+      "Ether": {
+        "Uncommon": 8,
+        "Rare": 10,
+        "Legendary": 12
+      }
+    },
+    "Arms": {
+      "Ether": {
+        "Uncommon": 8,
+        "Rare": 10,
+        "Legendary": 12
+      }
+    },
+    "Legs": {
+      "Ether": {
+        "Uncommon": 8,
+        "Rare": 10,
+        "Legendary": 12
+      }
+    },
+    "Torso": {
+      "Ether": {
+        "Uncommon": 8,
+        "Rare": 10,
+        "Legendary": 12
+      }
+    },
+    "Face": {
+      "Ether": {
+        "Uncommon": 4,
+        "Rare": 6,
+        "Legendary": 8
+      }
+    },
+    "Earrings": {
+      "Ether": {
+        "Uncommon": 4,
+        "Legendary": 8
+      }
+    },
+    "Rings": {
+      "Ether": {
+        "Common": 4,
+        "Uncommon": 6,
+        "Rare": 8,
+        "Legendary": 10
+      }
+    }
+  }
+}

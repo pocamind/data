@@ -1,0 +1,17 @@
+{
+  "name": "Physical Armor",
+  "amounts": {
+    "Head": {
+      "Physical Armor": {
+        "Rare": 2,
+        "Legendary": 4
+      }
+    },
+    "Arms": {
+      "Physical Armor": {
+        "Rare": 2,
+        "Legendary": 4
+      }
+    }
+  }
+}
