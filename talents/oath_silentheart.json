@@ -1,19 +1,19 @@
 {
-  "name": "Oath: Silentheart",
-  "category": "Silentheart",
-  "rarity": "Oath",
-  "reqs": "25s STR, LHT + MED + HVY = 75r, 25r AGL OR 25r CHA",
-  "additional_info": "If you have any Mantras, they will be unusable and will be entirely invisible. The weapon requirement reduction effect only reduces weapon stat requirements, and not attribute requirements. Additionally, it stacks with Khan's Versatile. Silentheart abilities can proc the Enchantment of your equipped weapon with a 30 second cooldown.",
-  "count_towards_talent_total": false,
-  "icon": "silentheart",
-  "roll2able": false,
-  "stats": {
-    "Health": 10,
-    "Posture": 2,
-    "Pen": 5
-  },
-  "vaulted": false,
   "voi": false,
   "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements.",
-  "voi_only": false
+  "icon": "silentheart",
+  "name": "Oath: Silentheart",
+  "reqs": "25r STR, LHT + MED + HVY = 75r, 25r AGL OR 25r CHA",
+  "stats": {
+    "Pen": 5,
+    "Health": 10,
+    "Posture": 2
+  },
+  "rarity": "Oath",
+  "vaulted": false,
+  "category": "Silentheart",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "If you have any Mantras, they will be unusable and will be entirely invisible. The weapon requirement reduction effect only reduces weapon stat requirements, and not attribute requirements. Additionally, it stacks with Khan's Versatile. Silentheart abilities can proc the Enchantment of your equipped weapon with a 30 second cooldown.",
+  "count_towards_talent_total": false
 }
