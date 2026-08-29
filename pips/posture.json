@@ -1,0 +1,11 @@
+{
+  "name": "Posture",
+  "amounts": {
+    "Rings": {
+      "Posture": {
+        "Rare": 1,
+        "Legendary": 2
+      }
+    }
+  }
+}

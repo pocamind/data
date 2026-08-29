@@ -1,0 +1,41 @@
+{
+  "name": "Health",
+  "amounts": {
+    "Head": {
+      "Health": {
+        "Uncommon": 4,
+        "Rare": 4,
+        "Legendary": 5
+      }
+    },
+    "Arms": {
+      "Health": {
+        "Common": 3,
+        "Uncommon": 4,
+        "Rare": 4,
+        "Legendary": 5
+      }
+    },
+    "Legs": {
+      "Health": {
+        "Uncommon": 4,
+        "Rare": 4,
+        "Legendary": 5
+      }
+    },
+    "Torso": {
+      "Health": {
+        "Common": 3,
+        "Rare": 4,
+        "Legendary": 5
+      }
+    },
+    "Rings": {
+      "Health": {
+        "Uncommon": 2,
+        "Rare": 3,
+        "Legendary": 4
+      }
+    }
+  }
+}
