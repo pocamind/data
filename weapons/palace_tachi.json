@@ -1,28 +1,35 @@
 {
+  "voi": false,
+  "desc": "The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power.",
   "name": "Palace Tachi",
+  "reqs": "80r MED, 165r TTL",
   "type": "Sword",
-  "rarity": "Mythical",
-  "damage": 22.5,
-  "posture_damage": 5,
   "range": 8,
-  "reqs": "80r MED",
-  "damage_types": [
-    "Slash"
-  ],
-  "range_type": "Sweep",
-  "attack_duration": 0.7,
-  "swing_speed": 0.93,
+  "damage": 22.5,
+  "endlag": 0,
+  "rarity": "Mythical",
+  "prereqs": [],
   "scaling": {
     "Medium Weapon": 6.5
   },
-  "chip_damage": 0.05,
-  "penetration": 0.05,
-  "enchantable": true,
-  "equip_motifs": false,
-  "voi": false,
-  "desc": "The dark tachi of a Threadcutter. Weighted by its alloys, the center of mass runs further along the length of the blade, making for slow but devastating cutting power.",
   "talents": [
     "Threadripper"
   ],
-  "voi_only": false
+  "voi_only": false,
+  "range_type": "Sweep",
+  "can_offhand": false,
+  "chip_damage": 0,
+  "enchantable": false,
+  "penetration": 5,
+  "posture_max": 0,
+  "swing_speed": 0.93,
+  "bleed_damage": 0,
+  "damage_types": [
+    "Slash"
+  ],
+  "equip_motifs": false,
+  "only_offhand": false,
+  "posture_damage": 5,
+  "attack_duration": 0.7,
+  "posture_restoration": 0
 }

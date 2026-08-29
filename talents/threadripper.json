@@ -1,17 +1,29 @@
 {
+  "voi": false,
+  "desc": "When used by a Contractor, your Critical is empowered to eviscerate opponents.",
+  "icon": "grip",
   "name": "Threadripper",
-  "category": "Weapon",
-  "rarity": "Weapon",
   "reqs": "()",
+  "stats": {
+    "Passive Agility": 0
+  },
+  "rarity": "Weapon",
   "prereqs": [
     "weapon:palace_tachi"
   ],
-  "additional_info": "If the player is a Contractor, the Palace Tachi critical attack will automatically execute Unconscious targets, or targets who are knocked Unconscious by the critical attack.",
-  "count_towards_talent_total": false,
-  "icon": "sword",
-  "roll2able": false,
   "vaulted": false,
-  "voi": false,
-  "desc": "When used by a Contractor, your Critical is empowered to eviscerate opponents.",
-  "voi_only": false
+  "category": "Weapon",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "additional_info": "Critical autogrips knocked opponents when used by a contractor",
+  "immediate_grants": [],
+  "conditional_stats": {
+    "Damage": 0
+  },
+  "count_towards_talent_total": false,
+  "conditional_multiplicative_percents": {
+    "Melee Pen": ""
+  }
 }
