@@ -1,20 +1,20 @@
 {
-  "name": "Oath: Jetstriker",
-  "category": "Jetstriker",
-  "rarity": "Oath",
-  "reqs": "50s AGL",
-  "additional_info": "Gain Momentum by sprinting. At maximum Momentum, your Jetstriker Mantras deal 20% more damage.",
-  "count_towards_talent_total": false,
-  "icon": "jetstriker",
-  "roll2able": false,
-  "stats": {
-    "Wildcard Mantra Slot": 1,
-    "Mobility Mantra Slot": 1,
-    "Passive Agility": 8,
-    "Pen": 5
-  },
-  "vaulted": false,
   "voi": false,
   "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master.",
-  "voi_only": false
+  "icon": "jetstriker",
+  "name": "Oath: Jetstriker",
+  "reqs": "50r AGL",
+  "stats": {
+    "Pen": 5,
+    "Passive Agility": 8,
+    "Mobility Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1
+  },
+  "rarity": "Oath",
+  "vaulted": false,
+  "category": "Jetstriker",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Gain Momentum by sprinting. At maximum Momentum, your Jetstriker Mantras deal 20% more damage.",
+  "count_towards_talent_total": false
 }

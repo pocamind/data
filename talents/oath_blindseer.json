@@ -1,26 +1,26 @@
 {
+  "voi": false,
+  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
+  "icon": "blindseer",
   "name": "Oath: Blindseer",
-  "category": "Blindseer",
+  "reqs": "40r WLL",
+  "stats": {
+    "Pen": 5,
+    "Sanity": 10,
+    "Combat Mantra Slot": 1,
+    "Support Mantra Slot": 1,
+    "Wildcard Mantra Slot": 1
+  },
   "rarity": "Oath",
-  "reqs": "40s WLL",
   "prereqs": [
     "talent:breathing_exercise",
     "talent:conquer_your_fears",
     "talent:disbelief"
   ],
-  "additional_info": "You can now see while blinded, but the world gains a blue hue.",
-  "count_towards_talent_total": false,
-  "icon": "blindseer",
-  "roll2able": false,
-  "stats": {
-    "Sanity": 10,
-    "Support Mantra Slot": 1,
-    "Wildcard Mantra Slot": 1,
-    "Combat Mantra Slot": 1,
-    "Pen": 5
-  },
   "vaulted": false,
-  "voi": false,
-  "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
-  "voi_only": false
+  "category": "Blindseer",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "You can now see while blinded, but the world gains a blue hue.",
+  "count_towards_talent_total": false
 }

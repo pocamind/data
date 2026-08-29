@@ -1,18 +1,18 @@
 {
-  "name": "Oath: Visionshaper",
-  "category": "Visionshaper",
-  "rarity": "Oath",
-  "reqs": "50s CHA",
-  "count_towards_talent_total": false,
-  "icon": "visionshaper",
-  "roll2able": false,
-  "stats": {
-    "Wildcard Mantra Slot": 2,
-    "Support Mantra Slot": 1,
-    "Pen": 5
-  },
-  "vaulted": false,
   "voi": false,
   "desc": "You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. ",
-  "voi_only": false
+  "icon": "visionshaper",
+  "name": "Oath: Visionshaper",
+  "reqs": "50r CHA",
+  "stats": {
+    "Pen": 5,
+    "Support Mantra Slot": 1,
+    "Wildcard Mantra Slot": 2
+  },
+  "rarity": "Oath",
+  "vaulted": false,
+  "category": "Visionshaper",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
 }
