@@ -1,18 +1,18 @@
 {
-  "name": "Oath: Blightsurger",
-  "category": "Blightsurger",
-  "rarity": "Oath",
-  "reqs": "STR + FTD + AGL = 80r, WND + LTN = 40r",
-  "count_towards_talent_total": false,
-  "icon": "fist",
-  "roll2able": false,
-  "stats": {
-    "Combat Mantra Slot": 2,
-    "Wildcard Mantra Slot": 1,
-    "Pen": 5
-  },
-  "vaulted": false,
   "voi": false,
   "desc": "Fists and storm. Wield sacred lightning, tear through foes and leave them withered.",
-  "voi_only": false
+  "icon": "fist",
+  "name": "Oath: Blightsurger",
+  "reqs": "STR + FTD + AGL = 80r, WND + LTN = 40r",
+  "stats": {
+    "Pen": 5,
+    "Combat Mantra Slot": 2,
+    "Wildcard Mantra Slot": 1
+  },
+  "rarity": "Oath",
+  "vaulted": false,
+  "category": "Blightsurger",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
 }
