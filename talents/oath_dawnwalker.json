@@ -3,7 +3,7 @@
   "desc": "You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge.",
   "icon": "dawnwalker",
   "name": "Oath: Dawnwalker",
-  "reqs": "240s TTL",
+  "reqs": "240r TTL",
   "stats": {
     "Pen": 5,
     "Combat Mantra Slot": 3
