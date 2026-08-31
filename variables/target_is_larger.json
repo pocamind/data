@@ -1,0 +1,6 @@
+{
+  "id": "TARGET_IS_LARGER",
+  "label": "Target Is Larger",
+  "kind": "toggle",
+  "default": true
+}

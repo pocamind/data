@@ -1,0 +1,6 @@
+{
+  "id": "CHARGED_RETURN",
+  "label": "Charged Return",
+  "kind": "toggle",
+  "default": true
+}

@@ -1,0 +1,6 @@
+{
+  "id": "WYVERNS_CLAW",
+  "label": "Wyvern’s Claw",
+  "kind": "toggle",
+  "default": true
+}

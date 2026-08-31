@@ -6,6 +6,9 @@
   "count_towards_talent_total": true,
   "icon": "eye",
   "roll2able": true,
+  "stats": {
+    "Damage": "2 * min(TAGS, 7)"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "For each combat tag you have on your character, increase your damage by 2% (max of 14%).",

@@ -14,8 +14,8 @@
   "count_towards_talent_total": true,
   "icon": "ironsing",
   "roll2able": true,
-  "conditional_stats": {
-    "Damage": 5
+  "stats": {
+    "Damage": "if(RESHAPE_AND_REMOLD, 5, 0)"
   },
   "vaulted": false,
   "voi": false,

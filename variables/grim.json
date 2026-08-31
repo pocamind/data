@@ -1,0 +1,6 @@
+{
+  "id": "GRIM",
+  "label": "Grim",
+  "kind": "toggle",
+  "default": true
+}

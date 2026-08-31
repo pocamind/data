@@ -10,10 +10,8 @@
   "icon": "galebreathe",
   "roll2able": true,
   "stats": {
-    "Passive Agility": 2
-  },
-  "conditional_stats": {
-    "Damage": 25
+    "Passive Agility": 2,
+    "Damage": "if(PRESSURE_BREAK, 25, 0)"
   },
   "vaulted": false,
   "voi": false,

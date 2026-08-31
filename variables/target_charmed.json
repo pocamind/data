@@ -1,0 +1,6 @@
+{
+  "id": "TARGET_CHARMED",
+  "label": "Target Charmed",
+  "kind": "toggle",
+  "default": true
+}

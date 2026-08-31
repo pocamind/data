@@ -10,8 +10,8 @@
   "count_towards_talent_total": true,
   "icon": "handshake",
   "roll2able": true,
-  "conditional_stats": {
-    "Damage": 10
+  "stats": {
+    "Damage": "if(TARGET_CHARMED, 10, 0)"
   },
   "vaulted": false,
   "voi": false,
