@@ -1,0 +1,9 @@
+{
+  "id": "NOTES",
+  "label": "Notes",
+  "kind": "slider",
+  "min": 0,
+  "max": 15000,
+  "step": 1,
+  "default": 15000
+}

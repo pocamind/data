@@ -119,8 +119,8 @@
   "scaling": {
     "Shadowcast": 2.75
   },
-  "conditional_stats": {
-    "Damage": 20
+  "stats": {
+    "Damage": "if(SHADE_DEVOUR, SHADE_DEVOUR_BUFF, 0)"
   },
   "modifiers": [
     "Drift Shard",

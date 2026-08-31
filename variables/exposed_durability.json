@@ -1,0 +1,6 @@
+{
+  "id": "EXPOSED_DURABILITY",
+  "label": "Exposed Durability",
+  "kind": "toggle",
+  "default": true
+}

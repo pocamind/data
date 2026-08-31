@@ -1,0 +1,6 @@
+{
+  "id": "SPEED_BOOST",
+  "label": "Speed Boost",
+  "kind": "toggle",
+  "default": true
+}

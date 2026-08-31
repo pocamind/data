@@ -6,8 +6,8 @@
   "count_towards_talent_total": true,
   "icon": "claw",
   "roll2able": true,
-  "conditional_stats": {
-    "Damage": 20
+  "stats": {
+    "Damage": "if(MATADOR, 20, 0)"
   },
   "vaulted": false,
   "voi": false,
