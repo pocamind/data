@@ -7,8 +7,8 @@
   "count_towards_talent_total": true,
   "icon": "thundercall",
   "roll2able": true,
-  "conditional_stats": {
-    "Damage": 10
+  "stats": {
+    "Damage": "if(AMPED, 10, 0)"
   },
   "vaulted": false,
   "voi": false,

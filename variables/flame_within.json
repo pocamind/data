@@ -1,0 +1,6 @@
+{
+  "id": "FLAME_WITHIN",
+  "label": "Flame Within",
+  "kind": "toggle",
+  "default": true
+}

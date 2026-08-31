@@ -1,0 +1,6 @@
+{
+  "id": "AMPED",
+  "label": "Amped",
+  "kind": "toggle",
+  "default": true
+}

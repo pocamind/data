@@ -7,10 +7,8 @@
   "icon": "sword",
   "roll2able": true,
   "stats": {
-    "Passive Agility": 1
-  },
-  "conditional_stats": {
-    "Damage": 15
+    "Passive Agility": 1,
+    "Damage": "if(SPEED_BOOST, 15, 0)"
   },
   "vaulted": false,
   "voi": false,

@@ -1,0 +1,9 @@
+{
+  "id": "SHADE_DEVOUR_BUFF",
+  "label": "Shade Devour Buff",
+  "kind": "slider",
+  "min": 20,
+  "max": 25,
+  "step": 0.1,
+  "default": 25
+}

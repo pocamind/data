@@ -19,11 +19,5 @@
   "roll2able": false,
   "additional_info": "Critical autogrips knocked opponents when used by a contractor",
   "immediate_grants": [],
-  "conditional_stats": {
-    "Damage": 0
-  },
-  "count_towards_talent_total": false,
-  "conditional_multiplicative_percents": {
-    "Melee Pen": ""
-  }
+  "count_towards_talent_total": false
 }
