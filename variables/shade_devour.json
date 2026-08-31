@@ -1,0 +1,6 @@
+{
+  "id": "SHADE_DEVOUR",
+  "label": "Shade Devour",
+  "kind": "toggle",
+  "default": true
+}

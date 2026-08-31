@@ -1,0 +1,6 @@
+{
+  "id": "AFTER_CUT",
+  "label": "After Cut",
+  "kind": "toggle",
+  "default": true
+}

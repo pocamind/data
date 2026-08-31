@@ -1,0 +1,6 @@
+{
+  "id": "REINFORCE_BUFFED_OTHER",
+  "label": "Reinforce Buffed Other",
+  "kind": "toggle",
+  "default": true
+}

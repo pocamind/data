@@ -1,0 +1,9 @@
+{
+  "id": "HEALTH_PERCENT",
+  "label": "Health Percent",
+  "kind": "slider",
+  "min": 0,
+  "max": 100,
+  "step": 1,
+  "default": 100
+}

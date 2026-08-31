@@ -7,8 +7,8 @@
   "count_towards_talent_total": true,
   "icon": "brain",
   "roll2able": false,
-  "conditional_stats": {
-    "Damage": "10 - 0.125 * max(40 - INT, 0)"
+  "stats": {
+    "Damage": "if(OVERFLOWING_DAM, 10 - 0.125 * max(40 - INT, 0), 0)"
   },
   "vaulted": false,
   "voi": false,

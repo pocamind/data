@@ -7,10 +7,8 @@
   "icon": "fist",
   "roll2able": true,
   "stats": {
-    "Sanity": 10
-  },
-  "conditional_stats": {
-    "Damage": 5
+    "Sanity": 10,
+    "Damage": "if(HEALTH_PERCENT < 25, 5, 0)"
   },
   "vaulted": false,
   "voi": false,

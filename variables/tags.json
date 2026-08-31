@@ -1,0 +1,9 @@
+{
+  "id": "TAGS",
+  "label": "Combat Tags",
+  "kind": "slider",
+  "min": 0,
+  "max": 7,
+  "step": 1,
+  "default": 7
+}

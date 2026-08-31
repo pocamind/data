@@ -1,0 +1,6 @@
+{
+  "id": "ARDOUR_SCREAM",
+  "label": "Ardour Scream",
+  "kind": "toggle",
+  "default": true
+}

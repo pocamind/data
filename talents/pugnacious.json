@@ -10,8 +10,8 @@
   "count_towards_talent_total": false,
   "icon": "sword",
   "roll2able": false,
-  "conditional_stats": {
-    "Damage": 30
+  "stats": {
+    "Uncapped Damage": "10 * min(TAGS, 3)"
   },
   "vaulted": false,
   "voi": false,

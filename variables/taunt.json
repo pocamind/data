@@ -1,0 +1,6 @@
+{
+  "id": "TAUNT",
+  "label": "Taunt",
+  "kind": "toggle",
+  "default": true
+}

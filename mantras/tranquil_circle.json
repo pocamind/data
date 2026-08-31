@@ -12,9 +12,9 @@
   "prereqs": [
     "talent:oath_blindseer"
   ],
-  "conditional_stats": {
-    "Monster Armor": 10,
-    "Damage vs. Monsters": 10
+  "stats": {
+    "Monster Armor": "if(TRANQUIL_CIRCLE, 10, 0)",
+    "Damage vs. Monsters": "if(TRANQUIL_CIRCLE, 10, 0)"
   },
   "modifiers": [
     "Glass Stone",

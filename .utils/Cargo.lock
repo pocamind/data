@@ -114,21 +114,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "deepwoken"
-version = "0.4.13"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "821d15c2cac3131c454634a5e7d8917ba3ea9e244df14ddca898fabd22efede1"
-dependencies = [
- "env_logger",
- "evalexpr",
- "log",
- "serde",
- "serde_json",
- "thiserror",
- "winnow",
-]
-
-[[package]]
 name = "either"
 version = "1.15.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -401,7 +386,7 @@ name = "transform"
 version = "0.1.0"
 dependencies = [
  "anyhow",
- "deepwoken 0.3.0",
+ "deepwoken",
  "rayon",
  "serde",
  "serde_json",
@@ -418,16 +403,6 @@ name = "utf8parse"
 version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "06abde3611657adf66d383f00b093d7faecc7fa57071cce2578660c9f1010821"
-
-[[package]]
-name = "validate"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "deepwoken 0.4.13",
- "serde",
- "serde_json",
-]
 
 [[package]]
 name = "windows-link"

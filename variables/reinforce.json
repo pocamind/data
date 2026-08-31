@@ -1,0 +1,6 @@
+{
+  "id": "REINFORCE",
+  "label": "Reinforce",
+  "kind": "toggle",
+  "default": true
+}

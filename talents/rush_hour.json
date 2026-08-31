@@ -7,8 +7,8 @@
   "count_towards_talent_total": true,
   "icon": "bloodrend",
   "roll2able": false,
-  "conditional_stats": {
-    "Damage": 15
+  "stats": {
+    "Damage": "if(RUSH_HOUR, 15, 0)"
   },
   "vaulted": false,
   "voi": true,

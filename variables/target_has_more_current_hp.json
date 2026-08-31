@@ -1,0 +1,6 @@
+{
+  "id": "TARGET_HAS_MORE_CURRENT_HP",
+  "label": "Target Has More Current HP",
+  "kind": "toggle",
+  "default": true
+}
