@@ -7,8 +7,8 @@
   "count_towards_talent_total": true,
   "icon": "handshake",
   "roll2able": true,
-  "conditional_stats": {
-    "Pen": 15
+  "stats": {
+    "Pen": "3 * min(CHARMED_TARGETS, 5)"
   },
   "vaulted": false,
   "voi": false,

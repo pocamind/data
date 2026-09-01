@@ -1,0 +1,9 @@
+{
+  "id": "CHARMED_TARGETS",
+  "label": "Charmed Targets",
+  "kind": "slider",
+  "min": 0,
+  "max": 5,
+  "step": 1,
+  "default": 5
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SANITY_PERCENT",
+  "label": "Sanity Percent",
+  "kind": "slider",
+  "min": 0,
+  "max": 100,
+  "step": 1,
+  "default": 0
+}

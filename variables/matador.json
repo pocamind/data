@@ -1,0 +1,6 @@
+{
+  "id": "MATADOR",
+  "label": "Matador",
+  "kind": "toggle",
+  "default": true
+}

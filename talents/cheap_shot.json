@@ -10,8 +10,8 @@
   "stats": {
     "Passive Agility": 6
   },
-  "conditional_multiplicative_percents": {
-    "Melee Pen": "10 - 0.11 * max(65 - AGL, 0)"
+  "multiplicative_percents": {
+    "Melee Pen": "if(SPEED_BOOST, 10 - 0.11 * max(65 - AGL, 0), 0)"
   },
   "vaulted": false,
   "voi": false,

@@ -1,0 +1,6 @@
+{
+  "id": "RUSH_HOUR",
+  "label": "Rush Hour",
+  "kind": "toggle",
+  "default": true
+}

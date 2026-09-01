@@ -8,10 +8,8 @@
   "icon": "claw",
   "roll2able": false,
   "stats": {
-    "Passive Agility": 1
-  },
-  "conditional_stats": {
-    "Bleed": 7.5
+    "Passive Agility": 1,
+    "Bleed": "if(SPEED_BOOST, 7.5, 0)"
   },
   "vaulted": false,
   "voi": false,

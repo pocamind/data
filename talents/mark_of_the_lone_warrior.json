@@ -10,8 +10,8 @@
   "count_towards_talent_total": false,
   "icon": "claw",
   "roll2able": false,
-  "conditional_stats": {
-    "Damage": 5
+  "stats": {
+    "Damage": "if(MARK_OF_THE_LONE_WARRIOR, 5, 0)"
   },
   "vaulted": false,
   "voi": false,

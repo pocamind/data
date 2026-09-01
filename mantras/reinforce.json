@@ -46,8 +46,8 @@
       ]
     }
   ],
-  "conditional_stats": {
-    "Damage": 5
+  "stats": {
+    "Damage": "if(REINFORCE, if(REINFORCE_BUFFED_OTHER, 5, 2.5), 0)"
   },
   "shared_cooldowns": [
     "Iceberg"
