@@ -1,0 +1,6 @@
+{
+  "id": "PRESSURE_BREAK",
+  "label": "Pressure Break",
+  "kind": "toggle",
+  "default": true
+}

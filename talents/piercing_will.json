@@ -3,12 +3,12 @@
   "category": "Mindbreaker",
   "rarity": "Rare",
   "reqs": "80s WLL",
-  "additional_info": "Grants a 10% PEN bonus at full insanity despite what the description states. The bonus PEN is applied starting from 35% Sanity.",
+  "additional_info": "Grants 5% PEN at 35% Sanity, scaling up to 15% PEN at 0% Sanity.",
   "count_towards_talent_total": true,
   "icon": "handshake",
   "roll2able": false,
-  "conditional_stats": {
-    "Pen": 10
+  "stats": {
+    "Pen": "if(SANITY_PERCENT <= 35, 15 - 10 * (SANITY_PERCENT / 35) ^ 1.2, 0)"
   },
   "vaulted": false,
   "voi": false,

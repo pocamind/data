@@ -8,10 +8,8 @@
   "icon": "eye",
   "roll2able": false,
   "stats": {
-    "Sanity": 5
-  },
-  "conditional_stats": {
-    "Damage": 15
+    "Sanity": 5,
+    "Damage": "if(SANITY_PERCENT <= 70, 15 - 15 * (SANITY_PERCENT / 70) ^ 1.2, 0)"
   },
   "vaulted": false,
   "voi": false,
