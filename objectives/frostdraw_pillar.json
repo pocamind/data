@@ -1,5 +1,5 @@
 {
-  "name": "Frostdraw Pillar",
   "desc": "Interact with the Frostdraw Pillar by talking to Faust in the Glacial Remnant, behind the destructible bookshelf in the Crypt of the Unbroken.",
-  "reqs": "15s ICE"
+  "name": "Frostdraw Pillar",
+  "reqs": "15r ICE"
 }
