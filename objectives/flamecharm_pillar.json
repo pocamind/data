@@ -1,5 +1,5 @@
 {
-  "name": "Flamecharm Pillar",
   "desc": "Interact with the Flamecharm Pillar by talking to Jace at Saramaed Summit in Miner's Landing.",
-  "reqs": "15s FLM"
+  "name": "Flamecharm Pillar",
+  "reqs": "15r FLM"
 }

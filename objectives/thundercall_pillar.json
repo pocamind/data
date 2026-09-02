@@ -1,5 +1,5 @@
 {
-  "name": "Thundercall Pillar",
   "desc": "Interact with the Thundercall Pillar by talking to Tessa in the cave behind Boatman's Watch.",
-  "reqs": "15s LTN"
+  "name": "Thundercall Pillar",
+  "reqs": "15r LTN"
 }
