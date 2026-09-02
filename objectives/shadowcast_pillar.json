@@ -1,5 +1,5 @@
 {
-  "name": "Shadowcast Pillar",
   "desc": "Interact with the Shadowcast Pillar by talking to Urek Felhand at Moon's Eyrie.",
-  "reqs": "15s SDW"
+  "name": "Shadowcast Pillar",
+  "reqs": "15r SDW"
 }
