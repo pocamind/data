@@ -5,7 +5,6 @@
   "name": "Exoskeleton",
   "reqs": "40s FTD",
   "stats": {
-    "Health": 5,
     "Physical Armor": "max(min(10, 5 + 0.125 * FTD), 6.875)"
   },
   "rarity": "Rare",
