@@ -1,13 +1,13 @@
 {
-  "name": "Heavy Hitter",
-  "category": "Colossus",
-  "rarity": "Common",
-  "reqs": "25s HVY, 15s STR",
-  "count_towards_talent_total": true,
-  "icon": "greatsword",
-  "roll2able": true,
-  "vaulted": false,
   "voi": false,
-  "desc": "[Heavy Weapons] Your posture damage is increased by 10%.",
-  "voi_only": false
+  "desc": "[Heavy Weapons] Your posture damage is increased by 5%.",
+  "icon": "greatsword",
+  "name": "Heavy Hitter",
+  "reqs": "25s HVY, 15s STR",
+  "rarity": "Common",
+  "vaulted": false,
+  "category": "Colossus",
+  "voi_only": false,
+  "roll2able": true,
+  "count_towards_talent_total": true
 }
