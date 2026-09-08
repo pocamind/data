@@ -25,7 +25,7 @@
     },
     "Torso": {
       "Health": {
-        "Common": 3,
+        "Uncommon": 3,
         "Rare": 4,
         "Legendary": 5
       }
