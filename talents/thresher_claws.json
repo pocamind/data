@@ -1,17 +1,16 @@
 {
-  "name": "Thresher Claws",
-  "category": "Marauder",
-  "rarity": "Rare",
-  "reqs": "210s TTL",
-  "count_towards_talent_total": true,
+  "voi": false,
+  "desc": "Grants +5% Weapon PEN. (+5% Weapon PEN)",
   "icon": "boots",
-  "roll2able": false,
+  "name": "Thresher Claws",
+  "reqs": "210s TTL",
   "stats": {
-    "Pen": 5,
     "Melee Pen": 5
   },
+  "rarity": "Rare",
   "vaulted": false,
-  "voi": false,
-  "desc": "All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.",
-  "voi_only": false
+  "category": "Marauder",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": true
 }
