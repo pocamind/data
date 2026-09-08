@@ -31,15 +31,15 @@
     },
     "Face": {
       "Ether": {
-        "Uncommon": 4,
-        "Rare": 6,
-        "Legendary": 8
+        "Common": 4,
+        "Uncommon": 6,
+        "Rare": 8
       }
     },
     "Earrings": {
       "Ether": {
-        "Uncommon": 4,
-        "Legendary": 8
+        "Common": 4,
+        "Rare": 8
       }
     },
     "Rings": {
