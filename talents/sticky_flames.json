@@ -1,0 +1,14 @@
+{
+  "voi": false,
+  "desc": "[Greatcannon] Your base greatcannon critical attack's cannon ball leave 3 seconds of sticky flames on successful hits.",
+  "icon": "bullet",
+  "name": "Sticky Flames",
+  "reqs": "80s HVY",
+  "rarity": "Common",
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Big Bertha",
+  "voi_only": false,
+  "roll2able": true,
+  "count_towards_talent_total": true
+}

@@ -1,0 +1,17 @@
+{
+  "voi": false,
+  "desc": "Guardbreaking your opponent with a critical attack gives you a random non-boss food buff for 30 seconds.",
+  "icon": "bullet",
+  "name": "Pastry Platter",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:the_pastry_paster"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "This cannot give the Brain, Scale, Strength, or Throat food buffs.",
+  "count_towards_talent_total": false
+}

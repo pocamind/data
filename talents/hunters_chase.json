@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Double the range you are able to chase down enemies with a running attack. Your Running attacks now also proc Bear Trap and deals 15% more base damage.",
+  "icon": "sword",
+  "name": "Hunter's Chase",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:serrated_warspear"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Using the Table Flip mantra now turns the projectile into a larger boulder. Landing your Critical Attack enhances this further, giving you an even bigger and stronger boulder.",
+  "icon": "bullet",
+  "name": "Return to the Stone Ages",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:rockmaller"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

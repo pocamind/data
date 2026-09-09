@@ -1,0 +1,15 @@
+{
+  "voi": false,
+  "desc": "[Greatcannon] Landing a greatcannon critical attack summons mysterious cannonballs from above that target your opponent.",
+  "icon": "bullet",
+  "name": "Mortar Mystery",
+  "reqs": "100s HVY",
+  "rarity": "Rare",
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Big Bertha",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Each hit landed from your Greatcannon critical aummons a mortar above each target's head. These deal 30 damage each if they land.",
+  "count_towards_talent_total": true
+}
