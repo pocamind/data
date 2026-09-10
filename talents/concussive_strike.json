@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Anytime you ragdoll your opponent, disable your opponents ability to cancel that ragdol for half a second. Deal 5 extra blunt damage when this occurs.",
+  "icon": "fist",
+  "name": "Concussive Strike",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:worldpiercer_gauntlets"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

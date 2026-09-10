@@ -1,0 +1,17 @@
+{
+  "voi": false,
+  "desc": "Landing Both End's staff strike will cause all damage your opponent does to be reduced by 20% for the next 20 seconds to any target that is not you.",
+  "icon": "eye",
+  "name": "Eyes On Me",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:sancticar"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Reclarification: Affected targets will deal 20% less damage to your allies, and any other entity that is not you. You do not gain damage reduction from this effect.",
+  "count_towards_talent_total": false
+}

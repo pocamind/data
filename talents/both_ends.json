@@ -1,19 +1,14 @@
 {
-  "name": "Both Ends",
-  "category": "Vanguard Arts",
-  "rarity": "Weapon",
-  "reqs": "()",
-  "prereqs": [
-    "weapon:duskpole",
-    "weapon:imperial_staff",
-    "weapon:sancticar",
-    "weapon:wooden_staff"
-  ],
-  "additional_info": "The followup attack has fast swing speed, but it only deals 45% of your weapon damage.",
-  "count_towards_talent_total": false,
-  "roll2able": false,
-  "vaulted": false,
   "voi": false,
   "desc": "Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.",
-  "voi_only": false
+  "name": "Both Ends",
+  "reqs": "30s MED",
+  "rarity": "Common",
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Vanguard Arts",
+  "voi_only": false,
+  "roll2able": true,
+  "additional_info": "The followup attack has fast swing speed, and deals 135% of your weapon damage. Shares a 1 second cooldown with Counter Spin.",
+  "count_towards_talent_total": true
 }

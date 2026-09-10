@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Your critical attack's projectile size and explosion size is doubled.",
+  "icon": "bullet",
+  "name": "The Big One",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:the_barrel"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

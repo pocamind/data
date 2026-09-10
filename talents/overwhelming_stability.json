@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Landing a Both Ends staff strike will now instantly proc insanity debuffs onto your opponent. The damage from insanity procs is further increased the greater the difference there is between you and your opponents [5 sec CD]",
+  "icon": "eye",
+  "name": "Overwhelming Stability",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:duskpole"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

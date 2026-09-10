@@ -1,0 +1,17 @@
+{
+  "voi": false,
+  "desc": "Any damage you take during your Critical Attack's windup gets added to the damage of the Critical Attack.",
+  "icon": "skull",
+  "name": "Frenzied Slash",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:darksteel_greatsword",
+    "weapon:darkalloy_greatsword"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

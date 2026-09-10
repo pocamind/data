@@ -1,0 +1,15 @@
+{
+  "voi": false,
+  "desc": "[Greatcannon] Double the cooldown of your critical attack but increase the cannonball damage by 50%.",
+  "icon": "bullet",
+  "name": "Heavy Cannonball",
+  "reqs": "60s HVY",
+  "rarity": "Common",
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Big Bertha",
+  "voi_only": false,
+  "roll2able": true,
+  "additional_info": "This equates to an ~29% net damage increase on the base Greatcannon critical, and an ~33% net damage increase on Smouldering Hallow's critical. Critical Engine (with Blessed Gem) or Summer Hullwrecker (due to its Talent) can be used to negate the added critical cooldown. This does not work on Edenbrand Hellcoil.",
+  "count_towards_talent_total": true
+}

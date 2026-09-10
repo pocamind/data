@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "When your Critical Attack gets dodged, embed nails onto their shoes for 8 seconds. This makes your opponent clumsy, ragdolling them if they use their second dodge.",
+  "icon": "sword",
+  "name": "Embedded Nails",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:toothed_club"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

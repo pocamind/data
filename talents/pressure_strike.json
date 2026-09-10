@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "[Staffs] Reduce Both Ends' staff strike base damage by 50%, but double its posture damage. Guardbreaking an opponent with a Both Ends staff strike adds an extra 20 damage to the attack.",
+  "icon": "fist",
+  "name": "Pressure Strike",
+  "reqs": "90s MED",
+  "rarity": "Common",
+  "prereqs": [
+    "talent:both_ends"
+  ],
+  "vaulted": false,
+  "category": "Vanguard Arts",
+  "voi_only": false,
+  "roll2able": true,
+  "count_towards_talent_total": true
+}
