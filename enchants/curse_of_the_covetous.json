@@ -1,0 +1,10 @@
+{
+  "info": "Your weapon's base damage is tied to your current Notes. Your weapon's base damage is reduced by 7.5%. For every Note you have, your weapon's base damage will be increased by 0.001%, capping at +7.5% base damage with 15k Notes. Upon taking damage from a player, lose 100 Notes. Because this increases your base damage, it is not affected by the damage multiplier caps and instead increases the effectiveness of them. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect. This enchantment will do nothing if you have not completed The Gaunt Man's trial on your character.",
+  "name": "Curse of the Covetous",
+  "stats": {
+    "Weapon Base Damage": "(NOTES - 7500) * 0.001"
+  },
+  "category": "Weapon",
+  "in_game_desc": "Embodying the avarice of the wealthy, a Vow innate to this enchantment grants strength according to the amount of material wealth its user is able to put on the line, but will cause said wealth to spill from your pockets should you be injured. Should you run low on money, the Vow will even begin to draw from the material value of your own body, reducing your strength.",
+  "obtainable_in": "Pathfinder"
+}
