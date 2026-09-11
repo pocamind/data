@@ -2,10 +2,10 @@ name: Validate Data
 
 on:
   pull_request:
-    branches: [main]
+    branches: [main, dev]
 
   push:
-    branches: [main]
+    branches: [main, dev]
     paths-ignore:
       - "**/*.md"
       - "LICENSE"
@@ -24,14 +24,14 @@ jobs:
       - name: Bundle data
         run: python .utils/bundle.py
 
-      # The rules live in dwt's `data_check` module, which the site also runs in the browser on a
-      # single row. This posts the whole bundle so a release is held to the same rules.
       - name: Run validation
         id: validate
+        env:
+          API: ${{ (github.base_ref || github.ref_name) == 'dev' && 'https://dev.api.dwt.sh' || 'https://api.dwt.sh' }}
         run: |
           set -o pipefail
           mkdir -p .tmp
-          curl -sS --fail-with-body -X POST https://api.dwt.sh/data/validate \
+          curl -sS --fail-with-body -X POST "$API/data/validate" \
             -H 'Content-Type: application/json' \
             --data-binary @.dist/all.json > .tmp/response.json
           jq -r '.[] | if .row then "\(.row): \(.message)" else .message end' \
