@@ -20,7 +20,7 @@
   "can_offhand": false,
   "chip_damage": 0,
   "enchantable": false,
-  "penetration": 5,
+  "penetration": 0.05,
   "posture_max": 0,
   "swing_speed": 0.93,
   "bleed_damage": 0,
