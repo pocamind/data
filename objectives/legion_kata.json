@@ -1,5 +1,5 @@
 {
   "name": "Legion Kata",
   "desc": "Speak with Amara while holding the Captain's Rec.",
-  "accountWideUnlock": false
+  "accountWideUnlock": true
 }

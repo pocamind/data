@@ -13,6 +13,9 @@
   "count_towards_talent_total": true,
   "icon": "handshake",
   "roll2able": true,
+  "effects": {
+    "Duration": "max(3.35 - 0.02 * max(55 - CHA, 0), 2.85)"
+  },
   "vaulted": false,
   "voi": false,
   "desc": "Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.",
