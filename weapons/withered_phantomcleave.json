@@ -13,7 +13,7 @@
   "attack_duration": 0.6,
   "swing_speed": 1,
   "scaling": {
-    "Medium Weapon": 6
+    "Medium Weapon": 7
   },
   "chip_damage": 0.1,
   "penetration": 0.1,

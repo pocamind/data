@@ -7,7 +7,7 @@
     "talent:endurance_runner",
     "talent:scaredy_cat"
   ],
-  "additional_info": "After 3 seconds of sprinting without taking damage, gain increased health regeneration.",
+  "additional_info": "This effect only applies while sprinting.",
   "count_towards_talent_total": true,
   "icon": "boots",
   "roll2able": true,
@@ -16,6 +16,6 @@
   },
   "vaulted": false,
   "voi": false,
-  "desc": "You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat.",
+  "desc": "You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for.",
   "voi_only": false
 }

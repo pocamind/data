@@ -22,5 +22,8 @@
   "equip_motifs": true,
   "voi": false,
   "desc": "...",
+  "talents": [
+    "Blunt Force Trauma"
+  ],
   "voi_only": false
 }

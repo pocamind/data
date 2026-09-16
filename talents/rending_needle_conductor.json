@@ -14,7 +14,6 @@
   "voi": false,
   "desc": "5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.",
   "exclusive": [
-    "Rending Needle: Augmenter",
     "Rending Needle: Jailer",
     "Rending Needle: Impaler"
   ],
