@@ -1,0 +1,28 @@
+{
+  "name": "Bejeweled Clip",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Uncommon",
+  "set": null,
+  "variants": [
+    "Amethyst",
+    "Default",
+    "Emerald",
+    "Onyx",
+    "Ruby",
+    "Sapphire",
+    "Topaz"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "desc": "A small clip set with a faceted gemstone, its cut a style fashionable in Celtor around 700 CE.",
+  "voi_only": false
+}
