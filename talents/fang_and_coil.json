@@ -2,11 +2,11 @@
   "name": "Fang and Coil",
   "category": "Fang and Coil",
   "rarity": "Quest",
-  "reqs": "20r LHT",
+  "reqs": "()",
   "prereqs": [
     "objective:fang_and_coil"
   ],
-  "additional_info": "Allows you to use the Fang and Coil fist style.",
+  "additional_info": "Allows you to use the Fang and Coil fist style. Unlocked by speaking to Vesque with 20 LHT.",
   "count_towards_talent_total": false,
   "icon": "fist",
   "roll2able": false,
