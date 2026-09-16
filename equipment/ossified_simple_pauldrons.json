@@ -10,7 +10,7 @@
   ],
   "innates": {
     "Health": {
-      "value": 2,
+      "value": 3,
       "percentage": false
     },
     "Posture": {
@@ -19,7 +19,7 @@
     }
   },
   "pips": {
-    "Uncommon": 1
+    "Rare": 1
   },
   "reqs": "()",
   "voi": false,

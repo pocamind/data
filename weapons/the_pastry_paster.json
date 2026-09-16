@@ -20,5 +20,8 @@
   "equip_motifs": false,
   "voi": false,
   "desc": "Anyone can cook, but only the fearless can be great.",
+  "talents": [
+    "Pastry Platter"
+  ],
   "voi_only": false
 }

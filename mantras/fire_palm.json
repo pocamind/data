@@ -18,7 +18,7 @@
     "Vibrant Gem"
   ],
   "voi": true,
-  "desc": "Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame.",
+  "desc": "Conjure a cone of flames in front of you.",
   "voi_only": false,
   "icon": "fire_palm"
 }

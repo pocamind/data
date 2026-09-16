@@ -17,6 +17,7 @@
     "Intelligence": 3.5
   },
   "chip_damage": 0.3,
+  "penetration": 0.1,
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,

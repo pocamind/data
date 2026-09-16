@@ -1,6 +1,6 @@
 {
   "voi": false,
-  "desc": "Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.",
+  "desc": "[Staffs] Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.",
   "name": "Both Ends",
   "reqs": "30s MED",
   "rarity": "Common",

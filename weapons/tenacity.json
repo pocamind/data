@@ -1,0 +1,20 @@
+{
+  "name": "Tenacity",
+  "type": "Shield",
+  "rarity": "Named",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "30r FTD",
+  "posture_max": 5,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "can_offhand": true,
+  "only_offhand": true,
+  "desc": "Hewn from the Doom's own scale, this shield was produced under commission by the Summer Company, its schematics devised by the intrepid Cpt. Greene. By utilising the creature's own hide, it was theorised that it might bear some resistance to its scorching breath. When put to the test, it succeeded with flying colours, shielding the Pathfinder who bore it from the beast's relentless onslaught. Alas, had they followed Greene's suggestion and payed double the price to strap another on the wielder's back, it may have protected its wielder from both rows of teeth.",
+  "talents": [
+    "Aegis of Tenacity"
+  ],
+  "voi_only": false
+}

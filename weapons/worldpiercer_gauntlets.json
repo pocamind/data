@@ -19,5 +19,8 @@
   "equip_motifs": false,
   "voi": false,
   "desc": "Brutal gauntlets wielded by those who break through defenses with unforgiving force.",
+  "talents": [
+    "Concussive Strike"
+  ],
   "voi_only": false
 }
