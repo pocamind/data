@@ -1,17 +1,17 @@
 {
+  "voi": false,
+  "desc": "Enemies charmed by your mantras are charmed longer.",
+  "icon": "handshake",
   "name": "Lasting Charisma",
-  "category": "Charm Caster",
-  "rarity": "Common",
   "reqs": "55s CHA",
+  "rarity": "Common",
   "prereqs": [
     "talent:charismatic_cast"
   ],
-  "additional_info": "This adds 10 seconds to Charismatic Charm's Charm duration, but this will be reduced by 0.16s for every point of Charisma below 55, capping at 15.8 seconds at 30 Charisma.",
-  "count_towards_talent_total": true,
-  "icon": "handshake",
-  "roll2able": true,
   "vaulted": false,
-  "voi": false,
-  "desc": "Enemies charmed by your mantras are charmed longer.",
-  "voi_only": false
+  "category": "Charm Caster",
+  "voi_only": false,
+  "roll2able": true,
+  "additional_info": "This adds 10 seconds to Charismatic Cast's Charm duration, but this will be reduced by 0.16s for every point of Charisma below 55, capping at 15.8 seconds at 30 Charisma.",
+  "count_towards_talent_total": true
 }

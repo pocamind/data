@@ -19,7 +19,7 @@
   "range_type": "Sweep",
   "can_offhand": false,
   "chip_damage": 0,
-  "enchantable": false,
+  "enchantable": true,
   "penetration": 0.05,
   "posture_max": 0,
   "swing_speed": 0.93,
