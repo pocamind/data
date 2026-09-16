@@ -7,15 +7,15 @@
   "range": 12.5,
   "reqs": "()",
   "prereqs": [
-    "talent:rending_needle_augmenter"
+    "talent:needleblade"
   ],
   "damage_types": [
     "Slash",
     "Ironsing"
   ],
   "range_type": "Sweep",
-  "attack_duration": 1,
-  "endlag": 0.2,
+  "attack_duration": 0.9,
+  "endlag": 0.1,
   "swing_speed": 0.8,
   "chip_damage": 0.2,
   "penetration": 0.25,

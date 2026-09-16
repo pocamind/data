@@ -14,7 +14,6 @@
   "voi": false,
   "desc": "If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.",
   "exclusive": [
-    "Rending Needle: Augmenter",
     "Rending Needle: Impaler",
     "Rending Needle: Conductor"
   ],

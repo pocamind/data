@@ -25,13 +25,18 @@ jobs:
         run: python .utils/bundle.py
 
       # The rules live in dwt's `data_check` module, which the site also runs in the browser on a
-      # single row. This posts the whole bundle so a release is held to the same rules.
+      # single row. This posts the whole bundle so a release is held to the same rules. The
+      # pocamind/data-dev fork feeds dev.dwt.sh, so its bundles are checked by the dev API,
+      # whose rules may be ahead of prod. Keyed on the repository name so this file is identical
+      # in both repos and never conflicts when the fork syncs.
       - name: Run validation
         id: validate
+        env:
+          API: ${{ github.repository == 'pocamind/data-dev' && 'https://dev.api.dwt.sh' || 'https://api.dwt.sh' }}
         run: |
           set -o pipefail
           mkdir -p .tmp
-          curl -sS --fail-with-body -X POST https://api.dwt.sh/data/validate \
+          curl -sS --fail-with-body -X POST "$API/data/validate" \
             -H 'Content-Type: application/json' \
             --data-binary @.dist/all.json > .tmp/response.json
           jq -r '.[] | if .row then "\(.row): \(.message)" else .message end' \

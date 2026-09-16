@@ -21,5 +21,8 @@
   "equip_motifs": false,
   "voi": false,
   "desc": "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep.",
+  "talents": [
+    "Frenzied Slash"
+  ],
   "voi_only": false
 }

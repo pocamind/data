@@ -10,8 +10,8 @@
     "Blunt"
   ],
   "range_type": "Sweep",
-  "attack_duration": 0.8,
-  "swing_speed": 0.86,
+  "attack_duration": 0.6,
+  "swing_speed": 1.01,
   "scaling": {
     "Medium Weapon": 5
   },
@@ -20,8 +20,5 @@
   "equip_motifs": true,
   "voi": false,
   "desc": "A balanced wooden staff.",
-  "talents": [
-    "Both Ends"
-  ],
   "voi_only": false
 }
