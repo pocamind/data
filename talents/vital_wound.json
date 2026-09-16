@@ -6,12 +6,12 @@
   "prereqs": [
     "weapon:acherons_warspear"
   ],
-  "additional_info": "Uppercutting your opponent applies the Vital Wound status effect, reducing their passive posture recovery by 40% for 30 seconds. This has no cooldown, but it cannot be refreshed or reapplied while it's active.",
+  "additional_info": "Uppercutting your opponent applies the Vital Wound status effect for 20 seconds, which only affects their passive posture recovery. The reduction starts at 100% and scales down as the remaining duration runs out. This has no cooldown, but it cannot be refreshed or reapplied while it's active.",
   "count_towards_talent_total": false,
   "icon": "claw",
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds.",
+  "desc": "Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 20 seconds. This starts at 100% with it scaling down based on the duration of the effect left.",
   "voi_only": false
 }

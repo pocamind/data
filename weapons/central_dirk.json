@@ -20,5 +20,8 @@
   "equip_motifs": true,
   "voi": false,
   "desc": "...",
+  "talents": [
+    "Assassin's Instincts"
+  ],
   "voi_only": false
 }

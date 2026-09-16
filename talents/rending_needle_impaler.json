@@ -14,7 +14,6 @@
   "voi": false,
   "desc": "If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.",
   "exclusive": [
-    "Rending Needle: Augmenter",
     "Rending Needle: Jailer",
     "Rending Needle: Conductor"
   ],

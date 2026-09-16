@@ -13,12 +13,16 @@
   "attack_duration": 0.6,
   "swing_speed": 1,
   "scaling": {
-    "Medium Weapon": 5
+    "Medium Weapon": 7,
+    "Willpower": 1
   },
   "penetration": 0.05,
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,
   "desc": "...",
+  "talents": [
+    "Overwhelming Stability"
+  ],
   "voi_only": false
 }

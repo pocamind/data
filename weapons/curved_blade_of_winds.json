@@ -4,7 +4,7 @@
   "rarity": "Mythical",
   "damage": 17.5,
   "posture_damage": 5,
-  "range": 8,
+  "range": 7.5,
   "reqs": "40r MED, 75r WND",
   "damage_types": [
     "Slash"

@@ -23,5 +23,8 @@
   "equip_motifs": true,
   "voi": false,
   "desc": "...",
+  "talents": [
+    "Embedded Nails"
+  ],
   "voi_only": false
 }

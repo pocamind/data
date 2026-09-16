@@ -20,11 +20,11 @@
   "attack_duration": 0.7,
   "swing_speed": 0.92,
   "scaling": {
-    "Medium Weapon": 6.5
+    "Medium Weapon": 8
   },
   "penetration": 0.15,
   "talents": [
-    "Both Ends"
+    "Eyes On Me"
   ],
   "voi_only": false
 }

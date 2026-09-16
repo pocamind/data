@@ -23,5 +23,8 @@
   "equip_motifs": true,
   "voi": false,
   "desc": "...",
+  "talents": [
+    "Hunter's Chase"
+  ],
   "voi_only": false
 }
