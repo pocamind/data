@@ -8,7 +8,7 @@
   "name": "11th Legion Plate",
   "reqs": "90r TTL, 10r FTD",
   "notes": 100,
-  "talent": null,
+  "talents": [],
   "category": "Adept",
   "durability": 1500,
   "resistances": {

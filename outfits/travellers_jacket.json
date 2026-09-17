@@ -11,7 +11,7 @@
   "name": "Traveller's Jacket",
   "reqs": "()",
   "notes": 10,
-  "talent": null,
+  "talents": [],
   "category": "Starter",
   "durability": 1000,
   "resistances": {

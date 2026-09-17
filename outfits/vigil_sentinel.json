@@ -10,7 +10,10 @@
   "name": "Vigil Sentinel",
   "reqs": "165r TTL, 5r WLL",
   "notes": 1000,
-  "talent": "Vigil's Grace, Action Surge",
+  "talents": [
+    "Vigil's Grace",
+    "Action Surge"
+  ],
   "category": "Unique",
   "durability": 2500,
   "resistances": {

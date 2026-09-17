@@ -1,0 +1,16 @@
+{
+  "name": "fistful of dollar",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:the_machine"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "question",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "",
+  "voi_only": false
+}

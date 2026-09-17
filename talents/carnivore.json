@@ -10,8 +10,6 @@
   "vaulted": false,
   "voi": false,
   "desc": "In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.",
-  "exclusive": [
-    "Flaw: Vegetarian"
-  ],
+  "exclusive": [],
   "voi_only": false
 }

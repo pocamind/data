@@ -8,7 +8,9 @@
   "name": "Etrean Guard",
   "reqs": "165r TTL",
   "notes": 30,
-  "talent": "Unbreakable",
+  "talents": [
+    "Unbreakable"
+  ],
   "category": "Expert",
   "durability": 2000,
   "resistances": {

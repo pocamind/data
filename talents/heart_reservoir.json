@@ -1,16 +1,16 @@
 {
-  "name": "Navae's Conviction",
+  "name": "Heart Reservoir",
   "category": "Equipment",
   "rarity": "Equipment",
   "reqs": "()",
   "prereqs": [
-    "equipment:blessed_nomad_pendant"
+    "equipment:solfeather_earrings"
   ],
   "count_towards_talent_total": false,
-  "icon": "eye",
+  "icon": "silentheart",
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "All Navaen related combat weapons are empowered.",
+  "desc": "Increases your max Heartfire Gauge.",
   "voi_only": true
 }

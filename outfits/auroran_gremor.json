@@ -3,7 +3,7 @@
   "name": "Auroran Gremor",
   "reqs": "240r TTL",
   "notes": 0,
-  "talent": "Frozone",
+  "talents": [],
   "category": "Spec",
   "durability": 2600,
   "resistances": {

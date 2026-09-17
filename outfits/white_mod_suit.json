@@ -3,7 +3,7 @@
   "name": "White Mod Suit",
   "reqs": "()",
   "notes": 0,
-  "talent": null,
+  "talents": [],
   "category": "Spec",
   "durability": 100,
   "resistances": {},

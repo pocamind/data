@@ -14,7 +14,9 @@
     "origin:authority_ensign"
   ],
   "notes": 1000,
-  "talent": "Riot Breaker",
+  "talents": [
+    "Riot Breaker"
+  ],
   "category": "Master",
   "durability": 2800,
   "resistances": {

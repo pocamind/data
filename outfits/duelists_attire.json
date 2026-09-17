@@ -5,7 +5,7 @@
   "name": "Duelist's Attire",
   "reqs": "90r TTL",
   "notes": 0,
-  "talent": null,
+  "talents": [],
   "category": "Adept",
   "durability": 1200,
   "resistances": {

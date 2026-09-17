@@ -1,0 +1,16 @@
+{
+  "name": "Gut Rot",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:broodplate_sabatons"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "skull",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Landing a flourish enhances your next instance of anti-heal, doubling its duration for how long it lasts.",
+  "voi_only": false
+}

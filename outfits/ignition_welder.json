@@ -8,7 +8,9 @@
   "name": "Ignition Welder",
   "reqs": "165r TTL, 10r FTD",
   "notes": 300,
-  "talent": "Master Craftsman",
+  "talents": [
+    "Master Craftsman"
+  ],
   "category": "Expert",
   "durability": 3000,
   "resistances": {

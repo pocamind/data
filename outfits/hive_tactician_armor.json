@@ -8,7 +8,9 @@
   "name": "Hive Tactician Armor",
   "reqs": "165r TTL, 25r AGL",
   "notes": 0,
-  "talent": "Brunt",
+  "talents": [
+    "Brunt"
+  ],
   "category": "Expert",
   "durability": 1200,
   "resistances": {

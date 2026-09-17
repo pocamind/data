@@ -11,7 +11,9 @@
   "name": "Ignition Deepdelver",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Force Your Way",
+  "talents": [
+    "Force Your Way"
+  ],
   "category": "Master",
   "durability": 3000,
   "resistances": {

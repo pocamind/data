@@ -7,7 +7,7 @@
   "name": "Cerulean Gown",
   "reqs": "135r TTL",
   "notes": 200,
-  "talent": null,
+  "talents": [],
   "category": "Expert",
   "durability": 1500,
   "resistances": {

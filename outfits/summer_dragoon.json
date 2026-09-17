@@ -11,7 +11,9 @@
   "name": "Summer Dragoon",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Sunset Ricochet",
+  "talents": [
+    "Sunset Ricochet"
+  ],
   "category": "Master",
   "durability": 2800,
   "resistances": {

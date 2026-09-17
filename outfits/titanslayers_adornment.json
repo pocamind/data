@@ -13,7 +13,9 @@
   "name": "Titanslayer's Adornment",
   "reqs": "240r TTL, 50r STR",
   "notes": 5000,
-  "talent": "Primal Rage",
+  "talents": [
+    "Primal Rage"
+  ],
   "category": "Master",
   "durability": 3300,
   "resistances": {

@@ -11,7 +11,7 @@
   "name": "Black Diver",
   "reqs": "240r TTL, 10r WLL",
   "notes": 1000,
-  "talent": null,
+  "talents": [],
   "category": "Master",
   "durability": 2600,
   "resistances": {

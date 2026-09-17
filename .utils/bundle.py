@@ -42,14 +42,17 @@ def main():
         megabundle[target_dir.name] = bundle
 
     total = sum(len(v) for v in megabundle.values())
+    categories = len(megabundle)
 
-    megabundle["format"] = 2
+    # everything that is not a table is bundled under 'meta' which dwt.sh (and other consumers)  should skip.
+    with open(ROOT / "spec.json", encoding="utf-8") as f:
+        megabundle["meta"] = {"format": 2, "spec": json.load(f)}
 
     all_path = OUT_DIR / "all.json"
     with open(all_path, "w", encoding="utf-8") as f:
         json.dump(megabundle, f, indent=2, ensure_ascii=False)
 
-    print(f"\n  all.json (has {total} total items across {len(megabundle) - 1} categories)")
+    print(f"\n  all.json (has {total} total items across {categories} categories)")
 
 
 if __name__ == "__main__":

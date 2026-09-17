@@ -11,7 +11,9 @@
   ],
   "reqs": "105r TTL",
   "notes": 0,
-  "talent": "Fleetfoot",
+  "talents": [
+    "Fleetfoot"
+  ],
   "category": "Adept",
   "durability": 2000,
   "resistances": {

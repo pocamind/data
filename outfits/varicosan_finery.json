@@ -9,7 +9,9 @@
   "name": "Varicosan Finery",
   "reqs": "165r TTL",
   "notes": 100,
-  "talent": "Benefactor",
+  "talents": [
+    "Benefactor"
+  ],
   "category": "Expert",
   "variants": [
     "Dress"

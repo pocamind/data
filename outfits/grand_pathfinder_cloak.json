@@ -11,7 +11,9 @@
   "name": "Grand Pathfinder Cloak",
   "reqs": "165r TTL",
   "notes": 150,
-  "talent": "Legendary",
+  "talents": [
+    "Legendary"
+  ],
   "category": "Expert",
   "durability": 2000,
   "resistances": {

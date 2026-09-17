@@ -9,7 +9,9 @@
   "name": "Ferryman's Coat",
   "reqs": "195r TTL",
   "notes": 400,
-  "talent": "Ferryman's Curse",
+  "talents": [
+    "Ferryman's Curse"
+  ],
   "category": "Unique",
   "durability": 2500,
   "resistances": {

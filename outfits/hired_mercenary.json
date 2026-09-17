@@ -7,7 +7,7 @@
   "name": "Hired Mercenary",
   "reqs": "()",
   "notes": 25,
-  "talent": null,
+  "talents": [],
   "category": "Starter",
   "durability": 1000,
   "resistances": {

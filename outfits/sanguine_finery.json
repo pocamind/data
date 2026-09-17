@@ -10,7 +10,9 @@
   "name": "Sanguine Finery",
   "reqs": "240r TTL, 45r BLD",
   "notes": 1000,
-  "talent": "Focused Hematoma",
+  "talents": [
+    "Focused Hematoma"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 2600,

@@ -10,7 +10,9 @@
   "name": "Arachnid's Weave",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Corrosive Touch",
+  "talents": [
+    "Corrosive Touch"
+  ],
   "category": "Master",
   "durability": 2100,
   "resistances": {

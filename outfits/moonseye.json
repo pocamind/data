@@ -6,7 +6,9 @@
     "objective:prince_of_the_moon"
   ],
   "notes": 0,
-  "talent": "Crippling Darkness",
+  "talents": [
+    "Crippling Darkness"
+  ],
   "category": "Unique",
   "durability": 40000,
   "resistances": {

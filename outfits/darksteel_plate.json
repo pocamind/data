@@ -9,7 +9,9 @@
   "name": "Darksteel Plate",
   "reqs": "165r TTL, 20r FTD",
   "notes": 300,
-  "talent": "Unbreakable",
+  "talents": [
+    "Unbreakable"
+  ],
   "category": "Expert",
   "durability": 2500,
   "resistances": {

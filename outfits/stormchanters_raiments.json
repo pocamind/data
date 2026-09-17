@@ -11,7 +11,9 @@
   "name": "Stormchanter's Raiments",
   "reqs": "240r TTL, 45r LTN",
   "notes": 1000,
-  "talent": "Circuit Breaker",
+  "talents": [
+    "Circuit Breaker"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 2600,

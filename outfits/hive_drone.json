@@ -8,7 +8,9 @@
   "name": "Hive Drone",
   "reqs": "165r TTL",
   "notes": 30,
-  "talent": "Lowstride",
+  "talents": [
+    "Lowstride"
+  ],
   "category": "Expert",
   "durability": 1000,
   "resistances": {
