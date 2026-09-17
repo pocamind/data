@@ -1,20 +1,20 @@
 {
-  "doc": "Schema and field descriptions for each table.",
+  "doc": "Descriptions of Deepwoken game data and settings.",
   "tables": {
     "aspects": {
-      "doc": "All the known playable races in deepwoken.",
+      "doc": "All the known playable races in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
           "type": "string",          "doc": "The display name."
         },
         "desc": {
-          "type": "text",          "doc": "The aspect's description."
+          "type": "text",          "doc": "The race's description."
         },
         "innate": {
           "type": "map",          "of": {
             "type": "int"
-          },          "doc": "Innate stat points the aspect grants your character."
+          },          "doc": "Innate stat points the race grants your character."
         },
         "is_pathfinder": {
           "type": "bool",          "doc": "If the race is obtainable in Pathfinder."
@@ -33,21 +33,21 @@
                 "of": {
                   "type": "color"
                 },
-                "doc": "The variant's eye, hair, skin, tone and sclera colors. Also includes feature, marking, design and under colors where present."
+                "doc": "Colors used for the variant's eyes, hair, skin and other features."
               },
               "unlock": {
                 "type": "string",
                 "doc": "How to unlock the variant, if there's a condition."
               }
             }
-          },          "doc": "Cosmetic variants of the aspect."
+          },          "doc": "Cosmetic variants of the race."
         },
         "exclude_cosmetics": {
           "type": "list",
           "of": {
             "type": "string"
           },
-          "doc": "Face cosmetics the aspect can't wear."
+          "doc": "Face cosmetics the race can't wear."
         },
         "talent": {
           "type": "list",
@@ -55,7 +55,7 @@
             "type": "name_ref",
             "table": "talents"
           },
-          "doc": "Talents the aspect grants."
+          "doc": "Talents the race grants."
         },
         "internal_note": {
           "type": "note",
@@ -64,7 +64,7 @@
       }
     },
     "books": {
-      "doc": "All the known readable books in deepwoken.",
+      "doc": "All the known readable books in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -87,7 +87,7 @@
       }
     },
     "enchants": {
-      "doc": "All the known weapon and equipment enchants in deepwoken.",
+      "doc": "All the known weapon and equipment enchants in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -103,7 +103,7 @@
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "Values the enchant sets other than stats, such as effect duration. Each value is a number or formula."
+          "doc": "The enchant's effect values, such as duration, separate from stat bonuses."
         },
         "in_game_desc": {
           "type": "text",
@@ -111,13 +111,13 @@
         },
         "obtainable_in": {
           "type": "enum",
-          "doc": "Which gamemode the enchant drops in (Pathfinder or VOI)."
+          "doc": "The game mode where the enchant drops: Pathfinder or Vow of Iron."
         },
         "stats": {
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "The stats the enchant grants (a number or a formula)."
+          "doc": "The stats the enchant grants."
         },
         "internal_note": {
           "type": "note",
@@ -126,7 +126,7 @@
       }
     },
     "equipment": {
-      "doc": "All the known equipment in deepwoken.",
+      "doc": "All the known equipment in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -163,14 +163,14 @@
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "rarity": {
           "type": "enum",
           "doc": "The rarity."
         },
         "reqs": {
-          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+          "type": "reqs",          "doc": "Stat requirements to equip it."
         },
         "set": {
           "type": "string",          "doc": "The equipment set it belongs to, if any."
@@ -190,7 +190,7 @@
           "type": "list",
           "of": {
             "type": "string"
-          },          "doc": "Cosmetic variant names. Each name must match a modifier folder in the assets repo, or the variant renders with the base appearance."
+          },          "doc": "The available cosmetic variants."
         },
         "voi": {
           "type": "bool",          "doc": "If it's obtainable in Vow of Iron."
@@ -210,7 +210,7 @@
       }
     },
     "items": {
-      "doc": "Misc items in deepwoken (brewing ingredients, mantra gems, modifiers, sparks and salts).",
+      "doc": "Misc items in Deepwoken (brewing ingredients, mantra gems, modifiers, sparks and salts).",
       "key": "name",
       "fields": {
         "name": {
@@ -221,7 +221,7 @@
         },
         "asset": {
           "type": "string",
-          "doc": "The item's model key in the assets repo (used for its thumbnail)."
+          "doc": "The item's thumbnail."
         },
         "brewing": {
           "type": "map",
@@ -240,7 +240,7 @@
         },
         "icon": {
           "type": "icon",
-          "doc": "The icon's filename, without the extension."
+          "doc": "The item's icon."
         },
         "voi": {
           "type": "bool",
@@ -257,7 +257,7 @@
       }
     },
     "mantras": {
-      "doc": "All the known mantras in deepwoken.",
+      "doc": "All the known mantras in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -267,7 +267,7 @@
           "type": "list",
           "of": {
             "type": "enum"
-          },          "doc": "The mantra's stat or attunement tags. For oath, origin, monster and event mantras, put the source tag first (e.g. Oath: Saintsworn). Use an existing tag or add a new one."
+          },          "doc": "Stats, attunements and sources associated with the mantra, such as Oath: Saintsworn."
         },
         "category": {
           "type": "enum",          "doc": "The slot category the mantra takes up."
@@ -279,7 +279,7 @@
           "type": "int",          "doc": "The ether cost per cast, if known."
         },
         "reqs": {
-          "type": "reqs",          "doc": "Stat requirements to obtain it. Use () if there are none."
+          "type": "reqs",          "doc": "Stat requirements to obtain it."
         },
         "stars": {
           "type": "int",          "doc": "The mantra's star rating."
@@ -298,7 +298,7 @@
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "Values the mantra sets other than stats, such as effect duration. Each value is a number or formula."
+          "doc": "The mantra's effect values, such as duration, separate from stat bonuses."
         },
         "flat_level_5_cost": {
           "type": "int",
@@ -306,7 +306,7 @@
         },
         "icon": {
           "type": "icon",
-          "doc": "The icon's filename, without the extension."
+          "doc": "The mantra's icon."
         },
         "miscellaneous": {
           "type": "text",
@@ -325,7 +325,7 @@
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "related_talents": {
           "type": "list",
@@ -361,7 +361,7 @@
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "The stats the mantra grants while equipped (a number or a formula)."
+          "doc": "The stats the mantra grants while equipped."
         },
         "voi_only": {
           "type": "bool",
@@ -396,7 +396,7 @@
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "reqs": {
           "type": "reqs",
@@ -409,7 +409,7 @@
       }
     },
     "origins": {
-      "doc": "All the known origins in deepwoken.",
+      "doc": "All the known origins in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -446,7 +446,7 @@
       }
     },
     "outfits": {
-      "doc": "All the known outfits in deepwoken.",
+      "doc": "All the known outfits in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -476,7 +476,7 @@
           "type": "int",          "doc": "The crafting cost in notes."
         },
         "reqs": {
-          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+          "type": "reqs",          "doc": "Stat requirements to equip it."
         },
         "resistances": {
           "type": "map",          "of": {
@@ -499,14 +499,14 @@
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "variants": {
           "type": "list",
           "of": {
             "type": "string"
           },
-          "doc": "Cosmetic variant names. Each name must match a modifier folder in the assets repo, or the variant renders with the base appearance."
+          "doc": "The available cosmetic variants."
         },
         "internal_note": {
           "type": "note",
@@ -537,7 +537,7 @@
       }
     },
     "potion_effects": {
-      "doc": "All the potion effects in deepwoken. Each ingredient contributes to these when brewing.",
+      "doc": "All the potion effects in Deepwoken. Each ingredient contributes to these when brewing.",
       "key": "name",
       "fields": {
         "name": {
@@ -565,7 +565,7 @@
           "type": "bool",          "doc": "If the effect lasts for a duration instead of being instant."
         },
         "unit": {
-          "type": "enum",          "doc": "What the computed value means (a multiplier, a percent, per second, a flat amount or seconds)."
+          "type": "enum",          "doc": "How to interpret the effect's strength: a multiplier, percentage, rate per second, flat amount or duration in seconds."
         },
         "negative": {
           "type": "string",
@@ -595,10 +595,10 @@
           "type": "list",
           "of": {
             "type": "prereq_group"
-          },          "doc": "Entries the solver obtains if the build can already reach them, written as table:key references."
+          },          "doc": "Options the solver includes when the build already meets their requirements."
         },
         "opts": {
-          "type": "text",          "doc": "The reqfile script the preset applies."
+          "type": "text",          "doc": "Rules and priorities the preset uses when generating a build."
         },
         "internal_note": {
           "type": "note",
@@ -607,7 +607,7 @@
       }
     },
     "resonances": {
-      "doc": "All the known resonances (bells) in deepwoken.",
+      "doc": "All the known resonances (bells) in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -626,14 +626,14 @@
       }
     },
     "talents": {
-      "doc": "All the known talents in deepwoken.",
+      "doc": "All the known talents in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
           "type": "string",          "doc": "The display name."
         },
         "category": {
-          "type": "string",          "doc": "The talent's category (free text)."
+          "type": "string",          "doc": "The talent's category."
         },
         "count_towards_talent_total": {
           "type": "bool",          "doc": "If the talent counts towards your talent total."
@@ -646,7 +646,7 @@
           "doc": "The talent's rarity. Values such as Oath and Equipment mean the talent is granted by that source instead of rolled."
         },
         "reqs": {
-          "type": "reqs",          "doc": "Stat requirements to obtain it. Use () if there are none."
+          "type": "reqs",          "doc": "Stat requirements to obtain it."
         },
         "roll2able": {
           "type": "bool",          "doc": "If the talent can show up in rolls."
@@ -665,7 +665,7 @@
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "Values the talent sets other than stats, such as effect duration. Each value is a number or formula."
+          "doc": "The talent's effect values, such as duration, separate from stat bonuses."
         },
         "exclusive": {
           "type": "list",
@@ -677,7 +677,7 @@
         },
         "icon": {
           "type": "icon",
-          "doc": "The icon's filename, without the extension."
+          "doc": "The talent's icon."
         },
         "immediate_grants": {
           "type": "list",
@@ -695,20 +695,20 @@
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "Multiplicative percentage stat bonuses (a number or a formula)."
+          "doc": "Multiplicative percentage stat bonuses."
         },
         "prereqs": {
           "type": "list",
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "stats": {
           "type": "map",          "of": {
             "type": "formula"
           },
-          "doc": "The stats the talent grants (a number or a formula)."
+          "doc": "The stats the talent grants."
         },
         "voi_only": {
           "type": "bool",
@@ -721,32 +721,32 @@
       }
     },
     "variables": {
-      "doc": "Toggles and sliders that formulas in stats fields can reference.",
+      "doc": "Toggles and sliders used to calculate stats.",
       "key": "id",
       "fields": {
         "id": {
-          "type": "string",          "doc": "The ID used in formulas, in SCREAMING_SNAKE case. The filename is the same ID in lowercase."
+          "type": "string",          "doc": "The name used for this setting in formulas."
         },
         "default": {
-          "type": "any",          "doc": "The default value (a bool for toggles, a number for sliders)."
+          "type": "any",          "doc": "The starting value: on or off for a toggle, or a number for a slider."
         },
         "kind": {
-          "type": "enum",          "doc": "If it's a toggle or a slider."
+          "type": "enum",          "doc": "Whether the setting is an on/off toggle or a numeric slider."
         },
         "label": {
           "type": "string",          "doc": "The display label."
         },
         "max": {
           "type": "int",
-          "doc": "The slider's max."
+          "doc": "The highest value the slider allows."
         },
         "min": {
           "type": "int",
-          "doc": "The slider's min."
+          "doc": "The lowest value the slider allows."
         },
         "step": {
           "type": "float",
-          "doc": "The slider's step."
+          "doc": "How much the value changes with each step of the slider."
         },
         "internal_note": {
           "type": "note",
@@ -755,7 +755,7 @@
       }
     },
     "weapons": {
-      "doc": "All the known weapons in deepwoken.",
+      "doc": "All the known weapons in Deepwoken.",
       "key": "name",
       "fields": {
         "name": {
@@ -784,7 +784,7 @@
           "doc": "The rarity."
         },
         "reqs": {
-          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+          "type": "reqs",          "doc": "Stat requirements to equip it."
         },
         "type": {
           "type": "enum",
@@ -840,7 +840,7 @@
           "of": {
             "type": "prereq_group"
           },
-          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+          "doc": "You must meet all listed prerequisites. If a prerequisite offers alternatives, you only need one of them."
         },
         "range_type": {
           "type": "enum",          "doc": "If the attack lunges forward or sweeps."
