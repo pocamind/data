@@ -9,7 +9,9 @@
   "name": "Pathfinder Arch-Sorcerer",
   "reqs": "165r TTL, 25r INT",
   "notes": 100,
-  "talent": "Devastating Power",
+  "talents": [
+    "Devastating Power"
+  ],
   "category": "Expert",
   "durability": 1500,
   "resistances": {

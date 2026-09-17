@@ -1,0 +1,16 @@
+{
+  "name": "Ashes on the Fire",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:hive_greatlords_royal_adornment"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "question",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "",
+  "voi_only": false
+}

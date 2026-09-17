@@ -7,7 +7,9 @@
   "name": "Pathfinder Cloak",
   "reqs": "90r TTL",
   "notes": 30,
-  "talent": "Survivalist",
+  "talents": [
+    "Survivalist"
+  ],
   "category": "Adept",
   "durability": 1200,
   "resistances": {

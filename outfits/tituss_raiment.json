@@ -9,7 +9,9 @@
   "name": "Titus's Raiment",
   "reqs": "240r TTL, 30r STR",
   "notes": 2500,
-  "talent": "Overwhelming Might",
+  "talents": [
+    "Overwhelming Might"
+  ],
   "category": "Master",
   "durability": 3000,
   "resistances": {

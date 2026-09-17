@@ -8,7 +8,9 @@
   "name": "Cutthroat Light Armor",
   "reqs": "90r TTL",
   "notes": 30,
-  "talent": "Hunter's Reflexes",
+  "talents": [
+    "Hunter's Reflexes"
+  ],
   "category": "Adept",
   "durability": 1000,
   "resistances": {

@@ -6,7 +6,9 @@
   "name": "Scholar",
   "reqs": "()",
   "notes": 50,
-  "talent": "Scholar's Intuition",
+  "talents": [
+    "Scholar's Intuition"
+  ],
   "category": "Starter",
   "durability": 1000,
   "resistances": {

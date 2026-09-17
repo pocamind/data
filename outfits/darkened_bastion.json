@@ -9,7 +9,9 @@
   "name": "Darkened Bastion",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Withering Soul",
+  "talents": [
+    "Withering Soul"
+  ],
   "category": "Master",
   "durability": 2600,
   "resistances": {

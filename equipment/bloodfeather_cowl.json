@@ -5,9 +5,7 @@
   "rarity": "Rare",
   "set": "Bloodfeather",
   "variants": [],
-  "talents": [
-    "Bloodletter"
-  ],
+  "talents": [],
   "innates": {
     "Shadow Resistance": {
       "value": 5,

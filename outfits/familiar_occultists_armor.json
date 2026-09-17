@@ -8,7 +8,9 @@
   "name": "Familiar Occultist's Armor",
   "reqs": "240r TTL",
   "notes": 10000,
-  "talent": "Life Leech",
+  "talents": [
+    "Life Leech"
+  ],
   "category": "Unique",
   "durability": 2000,
   "resistances": {

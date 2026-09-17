@@ -8,7 +8,7 @@
   "name": "Troublemaker's Overcoat",
   "reqs": "135r TTL",
   "notes": 100,
-  "talent": null,
+  "talents": [],
   "category": "Expert",
   "durability": 2500,
   "resistances": {

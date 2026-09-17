@@ -11,7 +11,9 @@
   "name": "Navaen War Chief",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Chief's Will",
+  "talents": [
+    "Chief's Will"
+  ],
   "category": "Master",
   "durability": 3000,
   "resistances": {

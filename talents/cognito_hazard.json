@@ -1,0 +1,16 @@
+{
+  "name": "Cognito Hazard",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:eternal_restraints"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "question",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "",
+  "voi_only": false
+}

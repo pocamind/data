@@ -1,0 +1,16 @@
+{
+  "name": "Navae's Connection",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:blessed_nomad_pendant"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "eye",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": true,
+  "desc": "All Navaen related combat weapons are empowered.",
+  "voi_only": true
+}

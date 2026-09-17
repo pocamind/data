@@ -3,7 +3,7 @@
   "name": "Hive Leader's Garment",
   "reqs": "240r TTL",
   "notes": 0,
-  "talent": null,
+  "talents": [],
   "category": "Spec",
   "durability": 3000,
   "resistances": {

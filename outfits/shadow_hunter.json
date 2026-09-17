@@ -8,7 +8,9 @@
   "name": "Shadow Hunter",
   "reqs": "10r AGL",
   "notes": 0,
-  "talent": "Lowstride",
+  "talents": [
+    "Lowstride"
+  ],
   "category": "Adept",
   "durability": 1500,
   "resistances": {

@@ -21,7 +21,8 @@
   "voi": false,
   "desc": "Is sacrifice not the most potent of all rituals?",
   "talents": [
-    "Blessing"
+    "Sacrificial Boon",
+    "Pierce Through"
   ],
   "voi_only": false
 }

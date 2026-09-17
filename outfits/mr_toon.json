@@ -3,7 +3,9 @@
   "name": "Mr Toon",
   "reqs": "()",
   "notes": 0,
-  "talent": "Vow of Mastery",
+  "talents": [
+    "Vow of Mastery"
+  ],
   "category": "Spec",
   "durability": 2600,
   "resistances": {

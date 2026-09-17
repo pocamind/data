@@ -1,0 +1,17 @@
+{
+  "name": "Rotten Regeneration",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:broodplate_cuirass"
+  ],
+  "additional_info": "Grants a 20% buff to all sources of offensive healing, such as Bloodless Gems, when targeting enemies who are afflicted with Anti-Heal.",
+  "count_towards_talent_total": false,
+  "icon": "ribcage",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Heal 20% more off enemies who have anti-heal on them.",
+  "voi_only": false
+}

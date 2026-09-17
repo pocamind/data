@@ -7,7 +7,9 @@
   "name": "Corsair Outlaw",
   "reqs": "()",
   "notes": 0,
-  "talent": "Lightweight",
+  "talents": [
+    "Lightweight"
+  ],
   "category": "Starter",
   "durability": 1200,
   "resistances": {

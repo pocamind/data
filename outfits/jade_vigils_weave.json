@@ -10,7 +10,9 @@
   "name": "Jade Vigil's Weave",
   "reqs": "240r TTL, 10r AGL",
   "notes": 1000,
-  "talent": "Serpent's Dance",
+  "talents": [
+    "Serpent's Dance"
+  ],
   "category": "Unique",
   "durability": 3000,
   "resistances": {

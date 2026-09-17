@@ -8,7 +8,10 @@
   "name": "Ignition Trailblazer",
   "reqs": "165r TTL",
   "notes": 30,
-  "talent": "Perseverance, Strong Stern",
+  "talents": [
+    "Perseverance",
+    "Strong Stern"
+  ],
   "category": "Expert",
   "durability": 1000,
   "resistances": {

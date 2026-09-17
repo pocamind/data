@@ -8,7 +8,9 @@
   "name": "Jester's Garb",
   "reqs": "195r TTL",
   "notes": 400,
-  "talent": "Mocking Favor",
+  "talents": [
+    "Mocking Favor"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 2500,

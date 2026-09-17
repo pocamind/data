@@ -9,7 +9,9 @@
   "name": "Veteran Adventurer",
   "reqs": "165r TTL",
   "notes": 100,
-  "talent": "Foolish Outburst",
+  "talents": [
+    "Foolish Outburst"
+  ],
   "category": "Expert",
   "durability": 1500,
   "resistances": {

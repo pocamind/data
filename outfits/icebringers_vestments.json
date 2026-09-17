@@ -11,7 +11,9 @@
   "name": "Icebringer's Vestments",
   "reqs": "240r TTL, 45r ICE",
   "notes": 1000,
-  "talent": "Refreeze",
+  "talents": [
+    "Refreeze"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 2600,

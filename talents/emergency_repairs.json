@@ -1,0 +1,16 @@
+{
+  "name": "Emergency Repairs",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:brigands_bicorn"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "core",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Your repairs scale somewhat with the Max Health of the ship.",
+  "voi_only": false
+}

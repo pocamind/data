@@ -1,0 +1,16 @@
+{
+  "name": "Spare Nails",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:brigands_bicorn"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "grip",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Prevents you from dropping any wood on death.",
+  "voi_only": false
+}

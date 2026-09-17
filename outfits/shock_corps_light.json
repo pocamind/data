@@ -11,7 +11,9 @@
     "origin:authority_ensign"
   ],
   "notes": 0,
-  "talent": "Battle-Hardened",
+  "talents": [
+    "Battle-Hardened"
+  ],
   "category": "Unique",
   "variants": [
     "Red"

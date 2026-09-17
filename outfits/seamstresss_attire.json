@@ -8,7 +8,7 @@
   "name": "Seamstress's Attire",
   "reqs": "135r TTL",
   "notes": 100,
-  "talent": null,
+  "talents": [],
   "category": "Expert",
   "durability": 2000,
   "resistances": {

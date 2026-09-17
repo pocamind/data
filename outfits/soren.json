@@ -3,7 +3,9 @@
   "name": "Soren",
   "reqs": "()",
   "notes": 0,
-  "talent": "Crippling Darkness",
+  "talents": [
+    "Crippling Darkness"
+  ],
   "category": "Spec",
   "durability": 4000,
   "resistances": {

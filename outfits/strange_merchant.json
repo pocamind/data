@@ -4,7 +4,7 @@
   "name": "Strange Merchant",
   "reqs": "()",
   "notes": 0,
-  "talent": null,
+  "talents": [],
   "category": "Unique",
   "voi_only": true,
   "durability": 9999,

@@ -6,7 +6,9 @@
     "origin:justicar"
   ],
   "notes": 0,
-  "talent": "Justicar's Gift",
+  "talents": [
+    "Justicar's Gift"
+  ],
   "category": "Unique",
   "durability": 2750,
   "resistances": {

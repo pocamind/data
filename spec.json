@@ -143,7 +143,7 @@
             "type": "object",
             "fields": {
               "value": {
-                "type": "int",
+                "type": "formula",
                 "doc": "The amount."
               },
               "percentage": {
@@ -483,9 +483,12 @@
             "type": "int"
           },          "doc": "The outfit's resistances (percentages)."
         },
-        "talent": {
-          "type": "name_ref",
-          "table": "talents",          "doc": "The talent the outfit grants while worn, if any."
+        "talents": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },          "doc": "The talents the outfit grants while worn."
         },
         "voi": {
           "type": "bool",

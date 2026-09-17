@@ -9,7 +9,9 @@
   "name": "Royal Etrean Guard",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Paired Soul",
+  "talents": [
+    "Paired Soul"
+  ],
   "category": "Master",
   "durability": 3000,
   "resistances": {
