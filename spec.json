@@ -387,7 +387,7 @@
         "desc": {
           "type": "text",          "doc": "What you have to do."
         },
-        "accountWideUnlock": {
+        "account_wide_unlock": {
           "type": "bool",
           "doc": "If completing it once unlocks it for all your characters."
         },
@@ -633,7 +633,7 @@
           "type": "string",          "doc": "The display name."
         },
         "category": {
-          "type": "string",          "doc": "The talent's category."
+          "type": "enum",          "doc": "The talent's category."
         },
         "count_towards_talent_total": {
           "type": "bool",          "doc": "If the talent counts towards your talent total."
