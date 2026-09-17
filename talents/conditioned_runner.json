@@ -1,21 +1,21 @@
 {
+  "voi": false,
+  "desc": "You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for.",
+  "icon": "boots",
   "name": "Conditioned Runner",
-  "category": "Alley Cat",
-  "rarity": "Advanced",
   "reqs": "25s AGL",
+  "stats": {
+    "Passive Agility": 1
+  },
+  "rarity": "Advanced",
   "prereqs": [
     "talent:endurance_runner",
     "talent:scaredy_cat"
   ],
-  "additional_info": "This effect only applies while sprinting.",
-  "count_towards_talent_total": true,
-  "icon": "boots",
-  "roll2able": true,
-  "stats": {
-    "Passive Agility": 1
-  },
   "vaulted": false,
-  "voi": false,
-  "desc": "You take 5-15% less damage. The damage reduction amount scales with your agility stat and how long you have been running for.",
-  "voi_only": false
+  "category": "Alley Cat",
+  "voi_only": false,
+  "roll2able": true,
+  "additional_info": "This effect only applies while sprinting.",
+  "count_towards_talent_total": true
 }
