@@ -1,0 +1,877 @@
+{
+  "doc": "Schema and field descriptions for each table.",
+  "tables": {
+    "aspects": {
+      "doc": "All the known playable races in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "The aspect's description."
+        },
+        "innate": {
+          "type": "map",          "of": {
+            "type": "int"
+          },          "doc": "Innate stat points the aspect grants your character."
+        },
+        "is_pathfinder": {
+          "type": "bool",          "doc": "If the race is obtainable in Pathfinder."
+        },
+        "variants": {
+          "type": "map",
+          "of": {
+            "type": "object",
+            "fields": {
+              "name": {
+                "type": "string",
+                "doc": "The display name."
+              },
+              "colors": {
+                "type": "map",
+                "of": {
+                  "type": "color"
+                },
+                "doc": "The variant's eye, hair, skin, tone and sclera colors. Also includes feature, marking, design and under colors where present."
+              },
+              "unlock": {
+                "type": "string",
+                "doc": "How to unlock the variant, if there's a condition."
+              }
+            }
+          },          "doc": "Cosmetic variants of the aspect."
+        },
+        "exclude_cosmetics": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },
+          "doc": "Face cosmetics the aspect can't wear."
+        },
+        "talent": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },
+          "doc": "Talents the aspect grants."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "books": {
+      "doc": "All the known readable books in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The book's title."
+        },
+        "pages": {
+          "type": "list",
+          "of": {
+            "type": "text"
+          },          "doc": "The book's pages, in order."
+        },
+        "desc": {
+          "type": "text",
+          "doc": "The book's description."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "enchants": {
+      "doc": "All the known weapon and equipment enchants in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "category": {
+          "type": "enum",          "doc": "If the enchant goes on weapons or on equipment."
+        },
+        "info": {
+          "type": "text",          "doc": "What the enchant does."
+        },
+        "effects": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "Values the enchant sets other than stats, such as effect duration. Each value is a number or formula."
+        },
+        "in_game_desc": {
+          "type": "text",
+          "doc": "The enchant's in-game description."
+        },
+        "obtainable_in": {
+          "type": "enum",
+          "doc": "Which gamemode the enchant drops in (Pathfinder or VOI)."
+        },
+        "stats": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "The stats the enchant grants (a number or a formula)."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "equipment": {
+      "doc": "All the known equipment in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "The item's description."
+        },
+        "equippable": {
+          "type": "bool",          "doc": "Whether the item can be equipped."
+        },
+        "innates": {
+          "type": "map",          "of": {
+            "type": "object",
+            "fields": {
+              "value": {
+                "type": "int",
+                "doc": "The amount."
+              },
+              "percentage": {
+                "type": "bool",
+                "doc": "If the value is a percentage instead of a flat amount."
+              }
+            }
+          },          "doc": "Stats the equipment always grants."
+        },
+        "pips": {
+          "type": "map",          "of": {
+            "type": "int"
+          },          "doc": "How many pip slots the piece has, per pip rarity."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "rarity": {
+          "type": "enum",
+          "doc": "The rarity."
+        },
+        "reqs": {
+          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+        },
+        "set": {
+          "type": "string",          "doc": "The equipment set it belongs to, if any."
+        },
+        "talents": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },          "doc": "Talents the piece grants while worn."
+        },
+        "type": {
+          "type": "enum",
+          "doc": "The equipment slot."
+        },
+        "variants": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },          "doc": "Cosmetic variant names. Each name must match a modifier folder in the assets repo, or the variant renders with the base appearance."
+        },
+        "voi": {
+          "type": "bool",          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "voi_only": {
+          "type": "bool",
+          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "wiki": {
+          "type": "text",
+          "doc": "Extra notes on how to obtain it."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "items": {
+      "doc": "Misc items in deepwoken (brewing ingredients, mantra gems, modifiers, sparks and salts).",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "kind": {
+          "type": "enum",          "doc": "What kind of item it is."
+        },
+        "asset": {
+          "type": "string",
+          "doc": "The item's model key in the assets repo (used for its thumbnail)."
+        },
+        "brewing": {
+          "type": "map",
+          "keys": "potion_effects",
+          "of": {
+            "type": "float"
+          },          "doc": "The item's brewing values per potion effect, if known."
+        },
+        "desc": {
+          "type": "text",
+          "doc": "The item's description."
+        },
+        "effect": {
+          "type": "text",
+          "doc": "What the item does when used."
+        },
+        "icon": {
+          "type": "icon",
+          "doc": "The icon's filename, without the extension."
+        },
+        "voi": {
+          "type": "bool",
+          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "voi_only": {
+          "type": "bool",
+          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "mantras": {
+      "doc": "All the known mantras in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "attributes": {
+          "type": "list",
+          "of": {
+            "type": "enum"
+          },          "doc": "The mantra's stat or attunement tags. For oath, origin, monster and event mantras, put the source tag first (e.g. Oath: Saintsworn). Use an existing tag or add a new one."
+        },
+        "category": {
+          "type": "enum",          "doc": "The slot category the mantra takes up."
+        },
+        "desc": {
+          "type": "text",          "doc": "The mantra's description."
+        },
+        "ether_cost": {
+          "type": "int",          "doc": "The ether cost per cast, if known."
+        },
+        "reqs": {
+          "type": "reqs",          "doc": "Stat requirements to obtain it. Use () if there are none."
+        },
+        "stars": {
+          "type": "int",          "doc": "The mantra's star rating."
+        },
+        "type": {
+          "type": "enum",
+          "doc": "The mantra's source. Normal mantras roll from attunements. Other mantras come from oaths, origins, monsters or events."
+        },
+        "vaulted": {
+          "type": "bool",          "doc": "If the mantra is currently vaulted (removed from the game)."
+        },
+        "voi": {
+          "type": "bool",          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "effects": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "Values the mantra sets other than stats, such as effect duration. Each value is a number or formula."
+        },
+        "flat_level_5_cost": {
+          "type": "int",
+          "doc": "The flat ether cost at level 5."
+        },
+        "icon": {
+          "type": "icon",
+          "doc": "The icon's filename, without the extension."
+        },
+        "miscellaneous": {
+          "type": "text",
+          "doc": "Any extra notes on the mantra."
+        },
+        "modifiers": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "items"
+          },
+          "doc": "Modifier items that can be applied to the mantra."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "related_talents": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },
+          "doc": "Talents that interact with the mantra."
+        },
+        "scaling": {
+          "type": "map",          "of": {
+            "type": "float"
+          },
+          "doc": "The mantra's damage scaling per stat."
+        },
+        "shared_cooldowns": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "mantras"
+          },
+          "doc": "Mantras that share a cooldown with this one."
+        },
+        "sparks": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "items"
+          },
+          "doc": "Sparks that can be applied to the mantra."
+        },
+        "stats": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "The stats the mantra grants while equipped (a number or a formula)."
+        },
+        "voi_only": {
+          "type": "bool",
+          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "wiki": {
+          "type": "text",
+          "doc": "Extra notes on how to obtain it."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "objectives": {
+      "doc": "Known quests, rites and mementos in Deepwoken that can be used as prerequisites.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "What you have to do."
+        },
+        "accountWideUnlock": {
+          "type": "bool",
+          "doc": "If completing it once unlocks it for all your characters."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "reqs": {
+          "type": "reqs",
+          "doc": "The stat requirements to do it, if any."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "origins": {
+      "doc": "All the known origins in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "The origin's description."
+        },
+        "outfit": {
+          "type": "name_ref",
+          "table": "outfits",          "doc": "The outfit you start with."
+        },
+        "spawns": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },          "doc": "Where you can spawn."
+        },
+        "talents": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },          "doc": "Talents the origin grants."
+        },
+        "faction": {
+          "type": "string",
+          "doc": "The faction you start in, if any."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "outfits": {
+      "doc": "All the known outfits in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "category": {
+          "type": "enum",          "doc": "The outfit's tier."
+        },
+        "desc": {
+          "type": "text",          "doc": "The outfit's description."
+        },
+        "durability": {
+          "type": "int",          "doc": "The outfit's durability."
+        },
+        "extra_percents": {
+          "type": "map",          "of": {
+            "type": "int"
+          },          "doc": "Extra percentage bonuses the outfit gives (e.g. Ether Regen, Extra Stealth)."
+        },
+        "mats": {
+          "type": "map",
+          "of": {
+            "type": "int"
+          },          "doc": "The materials needed to craft it."
+        },
+        "notes": {
+          "type": "int",          "doc": "The crafting cost in notes."
+        },
+        "reqs": {
+          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+        },
+        "resistances": {
+          "type": "map",          "of": {
+            "type": "int"
+          },          "doc": "The outfit's resistances (percentages)."
+        },
+        "talent": {
+          "type": "name_ref",
+          "table": "talents",          "doc": "The talent the outfit grants while worn, if any."
+        },
+        "voi": {
+          "type": "bool",
+          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "voi_only": {
+          "type": "bool",          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "variants": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },
+          "doc": "Cosmetic variant names. Each name must match a modifier folder in the assets repo, or the variant renders with the base appearance."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "pips": {
+      "doc": "The stats equipment pips can roll.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "amounts": {
+          "type": "map",          "of": {
+            "type": "map",            "of": {
+              "type": "map",              "of": {
+                "type": "float"
+              }
+            }
+          },          "doc": "The roll amount per equipment slot, stat and pip rarity."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "potion_effects": {
+      "doc": "All the potion effects in deepwoken. Each ingredient contributes to these when brewing.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "formula": {
+          "type": "formula",          "doc": "The formula that turns the effect's total into its strength."
+        },
+        "negative_suffixes": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },          "doc": "Potion name suffixes for the negative effect, by strength."
+        },
+        "order": {
+          "type": "int",          "doc": "The display order."
+        },
+        "positive_suffixes": {
+          "type": "list",
+          "of": {
+            "type": "string"
+          },          "doc": "Potion name suffixes for the positive effect, by strength."
+        },
+        "timed": {
+          "type": "bool",          "doc": "If the effect lasts for a duration instead of being instant."
+        },
+        "unit": {
+          "type": "enum",          "doc": "What the computed value means (a multiplier, a percent, per second, a flat amount or seconds)."
+        },
+        "negative": {
+          "type": "string",
+          "doc": "The name of the negative effect."
+        },
+        "positive": {
+          "type": "string",
+          "doc": "The name of the positive effect."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "presets": {
+      "doc": "Presets for the build solver.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "What the preset is for."
+        },
+        "obtain_if_available": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },          "doc": "Entries the solver obtains if the build can already reach them, written as table:key references."
+        },
+        "opts": {
+          "type": "text",          "doc": "The reqfile script the preset applies."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "resonances": {
+      "doc": "All the known resonances (bells) in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "desc": {
+          "type": "text",          "doc": "What the resonance does."
+        },
+        "rarity": {
+          "type": "enum",          "doc": "The rarity."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "talents": {
+      "doc": "All the known talents in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "category": {
+          "type": "string",          "doc": "The talent's category (free text)."
+        },
+        "count_towards_talent_total": {
+          "type": "bool",          "doc": "If the talent counts towards your talent total."
+        },
+        "desc": {
+          "type": "text",          "doc": "The talent's description."
+        },
+        "rarity": {
+          "type": "enum",
+          "doc": "The talent's rarity. Values such as Oath and Equipment mean the talent is granted by that source instead of rolled."
+        },
+        "reqs": {
+          "type": "reqs",          "doc": "Stat requirements to obtain it. Use () if there are none."
+        },
+        "roll2able": {
+          "type": "bool",          "doc": "If the talent can show up in rolls."
+        },
+        "vaulted": {
+          "type": "bool",          "doc": "If the talent is currently vaulted (removed from the game)."
+        },
+        "voi": {
+          "type": "bool",          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "additional_info": {
+          "type": "text",
+          "doc": "Extra info shown under the description."
+        },
+        "effects": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "Values the talent sets other than stats, such as effect duration. Each value is a number or formula."
+        },
+        "exclusive": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },
+          "doc": "Talents you can't have at the same time as this one."
+        },
+        "icon": {
+          "type": "icon",
+          "doc": "The icon's filename, without the extension."
+        },
+        "immediate_grants": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },
+          "doc": "Talents granted automatically when you take this one. Their own requirements and exclusivity are ignored, and they unlock whenever this talent does."
+        },
+        "implicit": {
+          "type": "bool",
+          "doc": "If it's an attunement milestone you get automatically from stats instead of picking it."
+        },
+        "multiplicative_percents": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "Multiplicative percentage stat bonuses (a number or a formula)."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "stats": {
+          "type": "map",          "of": {
+            "type": "formula"
+          },
+          "doc": "The stats the talent grants (a number or a formula)."
+        },
+        "voi_only": {
+          "type": "bool",
+          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "variables": {
+      "doc": "Toggles and sliders that formulas in stats fields can reference.",
+      "key": "id",
+      "fields": {
+        "id": {
+          "type": "string",          "doc": "The ID used in formulas, in SCREAMING_SNAKE case. The filename is the same ID in lowercase."
+        },
+        "default": {
+          "type": "any",          "doc": "The default value (a bool for toggles, a number for sliders)."
+        },
+        "kind": {
+          "type": "enum",          "doc": "If it's a toggle or a slider."
+        },
+        "label": {
+          "type": "string",          "doc": "The display label."
+        },
+        "max": {
+          "type": "int",
+          "doc": "The slider's max."
+        },
+        "min": {
+          "type": "int",
+          "doc": "The slider's min."
+        },
+        "step": {
+          "type": "float",
+          "doc": "The slider's step."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    },
+    "weapons": {
+      "doc": "All the known weapons in deepwoken.",
+      "key": "name",
+      "fields": {
+        "name": {
+          "type": "string",          "doc": "The display name."
+        },
+        "damage": {
+          "type": "float",          "doc": "The base damage, if known."
+        },
+        "desc": {
+          "type": "text",          "doc": "The weapon's description."
+        },
+        "enchantable": {
+          "type": "bool",          "doc": "If the weapon can be enchanted."
+        },
+        "equip_motifs": {
+          "type": "bool",          "doc": "If the weapon can equip motifs."
+        },
+        "posture_damage": {
+          "type": "float",          "doc": "The posture damage, if known."
+        },
+        "range": {
+          "type": "float",          "doc": "The weapon's range, if known."
+        },
+        "rarity": {
+          "type": "enum",
+          "doc": "The rarity."
+        },
+        "reqs": {
+          "type": "reqs",          "doc": "Stat requirements to equip it. Use () if there are none."
+        },
+        "type": {
+          "type": "enum",
+          "doc": "The weapon type. Combined types such as Spear / Rifle count as both."
+        },
+        "voi": {
+          "type": "bool",          "doc": "If it's obtainable in Vow of Iron."
+        },
+        "attack_duration": {
+          "type": "float",
+          "doc": "How long a swing takes, in seconds."
+        },
+        "bleed_damage": {
+          "type": "float",
+          "doc": "The bleed damage on hit."
+        },
+        "can_offhand": {
+          "type": "bool",
+          "doc": "If the weapon can go in your offhand."
+        },
+        "chip_damage": {
+          "type": "float",
+          "doc": "The fraction of damage that goes through a block."
+        },
+        "damage_types": {
+          "type": "list",
+          "of": {
+            "type": "enum"
+          },
+          "doc": "The weapon's damage types."
+        },
+        "endlag": {
+          "type": "float",          "doc": "The endlag after a swing in seconds, if known."
+        },
+        "only_offhand": {
+          "type": "bool",
+          "doc": "If the weapon can only go in your offhand."
+        },
+        "penetration": {
+          "type": "float",
+          "doc": "The fraction of armor the weapon ignores."
+        },
+        "posture_max": {
+          "type": "float",
+          "doc": "The posture bonus while holding it."
+        },
+        "posture_restoration": {
+          "type": "float",
+          "doc": "The weapon's posture restoration rate."
+        },
+        "prereqs": {
+          "type": "list",
+          "of": {
+            "type": "prereq_group"
+          },
+          "doc": "Prerequisites as table:key references. Every entry is required. Use | within an entry for alternatives."
+        },
+        "range_type": {
+          "type": "enum",          "doc": "If the attack lunges forward or sweeps."
+        },
+        "scaling": {
+          "type": "map",          "of": {
+            "type": "float"
+          },
+          "doc": "The weapon's damage scaling per stat."
+        },
+        "swing_speed": {
+          "type": "float",
+          "doc": "The swing speed (higher is faster)."
+        },
+        "talents": {
+          "type": "list",
+          "of": {
+            "type": "name_ref",
+            "table": "talents"
+          },
+          "doc": "Talents the weapon grants while held."
+        },
+        "voi_only": {
+          "type": "bool",
+          "doc": "If it's only obtainable in Vow of Iron."
+        },
+        "internal_note": {
+          "type": "note",
+          "doc": "Notes for other contributors."
+        }
+      }
+    }
+  }
+}
