@@ -1,35 +1,23 @@
 {
-  "name": "Canor",
   "desc": "With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people.",
+  "name": "Canor",
   "innate": {
-    "Charisma": 3,
-    "Strength": 2
+    "Charisma": "2",
+    "Strength": 3
   },
   "talent": [
     "Loyalty"
   ],
-  "is_pathfinder": true,
   "variants": {
-    "interior": {
-      "name": "Interior",
+    "red": {
+      "name": "Red",
       "colors": {
-        "eye": "#DAD300",
-        "hair": "#2B2B24",
-        "skin": "#9C9784",
-        "tone": "#3D3C39",
-        "marking": "#EC0000",
-        "sclera": "#F9F2E6"
-      }
-    },
-    "river": {
-      "name": "River",
-      "colors": {
-        "eye": "#71DCDD",
-        "hair": "#323232",
-        "skin": "#FFC592",
-        "tone": "#443533",
-        "marking": "#397070",
-        "sclera": "#F9F2E6"
+        "eye": "#E65C0C",
+        "hair": "#9C2E2E",
+        "skin": "#D5B186",
+        "tone": "#4B3D38",
+        "sclera": "#F9F2E6",
+        "marking": "#BA0000"
       }
     },
     "lion": {
@@ -39,19 +27,19 @@
         "hair": "#AD8648",
         "skin": "#DFAC78",
         "tone": "#4B3E3A",
-        "marking": "#704831",
-        "sclera": "#F9F2E6"
+        "sclera": "#F9F2E6",
+        "marking": "#704831"
       }
     },
-    "red": {
-      "name": "Red",
+    "river": {
+      "name": "River",
       "colors": {
-        "eye": "#E65C0C",
-        "hair": "#9C2E2E",
-        "skin": "#D5B186",
-        "tone": "#4B3D38",
-        "marking": "#BA0000",
-        "sclera": "#F9F2E6"
+        "eye": "#71DCDD",
+        "hair": "#323232",
+        "skin": "#FFC592",
+        "tone": "#443533",
+        "sclera": "#F9F2E6",
+        "marking": "#397070"
       }
     },
     "steppe": {
@@ -61,21 +49,33 @@
         "hair": "#B9570B",
         "skin": "#C19B6C",
         "tone": "#4F3D31",
-        "marking": "#E72E00",
-        "sclera": "#F9F2E6"
+        "sclera": "#F9F2E6",
+        "marking": "#E72E00"
+      }
+    },
+    "interior": {
+      "name": "Interior",
+      "colors": {
+        "eye": "#DAD300",
+        "hair": "#2B2B24",
+        "skin": "#9C9784",
+        "tone": "#3D3C39",
+        "sclera": "#F9F2E6",
+        "marking": "#EC0000"
       }
     },
     "hallowtide": {
       "name": "Hallowtide",
-      "unlock": "hallowtide",
       "colors": {
         "eye": "#FF0000",
         "hair": "#212126",
         "skin": "#54506F",
         "tone": "#282832",
-        "marking": "#CB0000",
-        "sclera": "#FFFFFF"
-      }
+        "sclera": "#FFFFFF",
+        "marking": "#CB0000"
+      },
+      "unlock": "hallowtide"
     }
-  }
+  },
+  "is_pathfinder": true
 }

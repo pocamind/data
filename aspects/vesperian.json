@@ -2,8 +2,8 @@
   "desc": "Never seen without their masks. Poorly understood, but begrudgingly appreciated due to their natural talents.",
   "name": "Vesperian",
   "innate": {
-    "Fortitude": 2,
-    "Willpower": 3
+    "Fortitude": 3,
+    "Willpower": 2
   },
   "talent": [
     "Chitin"
