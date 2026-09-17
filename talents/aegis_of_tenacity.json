@@ -1,5 +1,4 @@
 {
-  "voi": false,
   "desc": "You gain resistance to Guardbreaks, but your posture isn't reset when broken. Reduce all posture damage you take by 75%.",
   "icon": "shield",
   "name": "Aegis of Tenacity",
@@ -8,9 +7,7 @@
   "prereqs": [
     "weapon:tenacity"
   ],
-  "vaulted": false,
   "category": "Weapon",
-  "voi_only": false,
-  "roll2able": false,
+  "additional_info": "",
   "count_towards_talent_total": false
 }
