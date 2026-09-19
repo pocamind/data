@@ -1,13 +1,13 @@
 {
-  "name": "Warrior's Swing",
-  "category": "Weapon Master",
-  "rarity": "Common",
-  "reqs": "30s HVY",
-  "count_towards_talent_total": true,
-  "icon": "greatsword",
-  "roll2able": false,
-  "vaulted": false,
   "voi": true,
-  "desc": "[Heavy Weapons] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.",
-  "voi_only": false
+  "desc": "[Heavy Weapons] Reduces incoming damage by 5% if hit during Heavy swing hyperarmor.",
+  "icon": "greatsword",
+  "name": "Warrior's Swing",
+  "reqs": "30s HVY",
+  "rarity": "Common",
+  "vaulted": false,
+  "category": "Weapon Master",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": true
 }
