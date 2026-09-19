@@ -10,7 +10,8 @@
   "reqs": "240r TTL, 45r FLM",
   "notes": 1000,
   "talents": [
-    "Repeated Propulsion"
+    "Repeated Propulsion",
+    "Warding Radiance"
   ],
   "category": "Unique",
   "voi_only": false,

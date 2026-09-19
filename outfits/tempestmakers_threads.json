@@ -12,7 +12,8 @@
   "reqs": "240r TTL, 45r WND",
   "notes": 1000,
   "talents": [
-    "Tempest Evolution"
+    "Tempest Evolution",
+    "Aerogliding"
   ],
   "category": "Unique",
   "voi_only": false,
