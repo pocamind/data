@@ -4,7 +4,7 @@
   "rarity": "Weapon",
   "reqs": "()",
   "prereqs": [
-    "weapon:summer_hullwreaker"
+    "weapon:summer_hullwrecker"
   ],
   "count_towards_talent_total": false,
   "vaulted": false,
