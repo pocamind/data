@@ -12,7 +12,8 @@
   "reqs": "240r TTL, 45r LTN",
   "notes": 1000,
   "talents": [
-    "Circuit Breaker"
+    "Circuit Breaker",
+    "Kickstart"
   ],
   "category": "Unique",
   "voi_only": false,

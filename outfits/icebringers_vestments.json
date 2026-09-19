@@ -12,7 +12,8 @@
   "reqs": "240r TTL, 45r ICE",
   "notes": 1000,
   "talents": [
-    "Refreeze"
+    "Refreeze",
+    "Orbital Ice"
   ],
   "category": "Unique",
   "voi_only": false,
