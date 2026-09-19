@@ -11,7 +11,9 @@
   "name": "Cala-Mariner",
   "reqs": "240r TTL, 5r WLL",
   "notes": 1000,
-  "talent": "Tidal Shock",
+  "talents": [
+    "Tidal Shock"
+  ],
   "category": "Master",
   "voi_only": false,
   "durability": 2200,

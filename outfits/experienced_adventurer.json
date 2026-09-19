@@ -7,7 +7,9 @@
   "name": "Experienced Adventurer",
   "reqs": "90r TTL",
   "notes": 25,
-  "talent": "Looter",
+  "talents": [
+    "Looter"
+  ],
   "category": "Adept",
   "durability": 1000,
   "resistances": {

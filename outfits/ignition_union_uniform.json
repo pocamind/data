@@ -8,7 +8,7 @@
   "name": "Ignition Union Uniform",
   "reqs": "105r TTL",
   "notes": 0,
-  "talent": null,
+  "talents": [],
   "category": "Adept",
   "durability": 2000,
   "resistances": {

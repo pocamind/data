@@ -12,7 +12,9 @@
     "origin:authority_ensign"
   ],
   "notes": 0,
-  "talent": "Lethal Dose",
+  "talents": [
+    "Lethal Dose"
+  ],
   "category": "Unique",
   "variants": [
     "Capeless"

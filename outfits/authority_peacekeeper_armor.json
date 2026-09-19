@@ -10,7 +10,9 @@
     "origin:authority_ensign"
   ],
   "notes": 30,
-  "talent": "Lowstride",
+  "talents": [
+    "Lowstride"
+  ],
   "category": "Adept",
   "durability": 1600,
   "resistances": {

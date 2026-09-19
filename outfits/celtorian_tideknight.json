@@ -24,7 +24,9 @@
     "Physical Resistance": 30,
     "Shadow Resistance": 10
   },
-  "talent": "Tidekeeper",
+  "talents": [
+    "Tidekeeper"
+  ],
   "desc": "...",
   "voi_only": false
 }

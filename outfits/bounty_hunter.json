@@ -7,7 +7,9 @@
   "name": "Bounty Hunter",
   "reqs": "90r TTL",
   "notes": 0,
-  "talent": "Lightweight",
+  "talents": [
+    "Lightweight"
+  ],
   "category": "Adept",
   "durability": 1500,
   "resistances": {

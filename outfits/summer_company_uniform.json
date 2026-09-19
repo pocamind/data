@@ -8,7 +8,9 @@
   "name": "Summer Company Uniform",
   "reqs": "90r TTL",
   "notes": 100,
-  "talent": "Armor Piercing",
+  "talents": [
+    "Armor Piercing"
+  ],
   "category": "Adept",
   "durability": 1500,
   "resistances": {

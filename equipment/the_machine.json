@@ -1,24 +1,25 @@
 {
+  "set": null,
+  "voi": false,
+  "desc": "Go play metal gear rising",
   "name": "THE MACHINE",
-  "equippable": false,
+  "pips": {
+    "Uncommon": 1
+  },
+  "reqs": "()",
   "type": "Head",
   "rarity": "Spec",
-  "set": null,
-  "variants": [],
-  "talents": [
-    "fistful of dollar"
-  ],
   "innates": {
     "Health": {
       "value": 5,
       "percentage": false
     }
   },
-  "pips": {
-    "Uncommon": 1
-  },
-  "reqs": "()",
-  "voi": false,
-  "desc": "Go play metal gear rising",
-  "voi_only": false
+  "talents": [
+    "fistful of dollar"
+  ],
+  "variants": [],
+  "voi_only": false,
+  "equippable": false,
+  "internal_note": "genuienly what is this supposed to be"
 }

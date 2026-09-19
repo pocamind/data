@@ -11,7 +11,9 @@
   "name": "Ringing Scholar's Garb",
   "reqs": "240r TTL, 5r INT",
   "notes": 1000,
-  "talent": "Lose Your Mind",
+  "talents": [
+    "Lose Your Mind"
+  ],
   "category": "Starter",
   "durability": 2400,
   "resistances": {

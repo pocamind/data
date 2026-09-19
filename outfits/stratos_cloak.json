@@ -9,7 +9,9 @@
   "name": "Stratos' Cloak",
   "reqs": "()",
   "notes": 0,
-  "talent": "Breeze",
+  "talents": [
+    "Breeze"
+  ],
   "category": "Unique",
   "durability": 2200,
   "resistances": {

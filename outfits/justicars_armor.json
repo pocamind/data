@@ -10,7 +10,9 @@
   "name": "Justicar's Armor",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "The Path, Unveiled",
+  "talents": [
+    "The Path, Unveiled"
+  ],
   "category": "Master",
   "durability": 2800,
   "resistances": {

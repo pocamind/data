@@ -10,7 +10,9 @@
   "name": "Steel Plate",
   "reqs": "90r TTL, 10r FTD",
   "notes": 30,
-  "talent": "Lowstride",
+  "talents": [
+    "Lowstride"
+  ],
   "category": "Adept",
   "durability": 1000,
   "resistances": {

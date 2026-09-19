@@ -9,7 +9,9 @@
   "name": "Cindergarb",
   "reqs": "240r TTL, 45r FLM",
   "notes": 1000,
-  "talent": "Repeated Propulsion",
+  "talents": [
+    "Repeated Propulsion"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 3000,

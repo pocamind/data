@@ -10,7 +10,9 @@
   "name": "Windrunner Robes",
   "reqs": "240r TTL, 10r AGL",
   "notes": 1000,
-  "talent": "Wind Dancer",
+  "talents": [
+    "Wind Dancer"
+  ],
   "category": "Master",
   "durability": 2600,
   "resistances": {

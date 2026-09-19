@@ -7,7 +7,9 @@
   "name": "Familiar Heretic's Armor",
   "reqs": "240r TTL",
   "notes": 5000,
-  "talent": "Soul Rip",
+  "talents": [
+    "Soul Rip"
+  ],
   "category": "Unique",
   "durability": 4000,
   "resistances": {

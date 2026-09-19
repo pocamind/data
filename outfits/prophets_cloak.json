@@ -11,7 +11,9 @@
   "name": "Prophet's Cloak",
   "reqs": "240r TTL",
   "notes": 1000,
-  "talent": "Crippling Darkness",
+  "talents": [
+    "Crippling Darkness"
+  ],
   "category": "Master",
   "durability": 2600,
   "resistances": {

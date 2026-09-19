@@ -7,7 +7,9 @@
   "name": "Skeptic Pioneer",
   "reqs": "()",
   "notes": 25,
-  "talent": "Apothecary",
+  "talents": [
+    "Apothecary"
+  ],
   "category": "Starter",
   "durability": 1200,
   "resistances": {

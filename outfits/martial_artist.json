@@ -6,7 +6,9 @@
   "name": "Martial Artist",
   "reqs": "165r TTL, 15r STR",
   "notes": 100,
-  "talent": "Bruiser's Mixup",
+  "talents": [
+    "Bruiser's Mixup"
+  ],
   "category": "Expert",
   "variants": [
     "Shirtless"

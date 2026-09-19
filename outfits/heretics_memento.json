@@ -9,7 +9,9 @@
   "name": "Heretic's Memento",
   "reqs": "240r TTL",
   "notes": 500,
-  "talent": "Underdog",
+  "talents": [
+    "Underdog"
+  ],
   "category": "Unique",
   "durability": 2000,
   "resistances": {

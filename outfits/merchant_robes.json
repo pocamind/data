@@ -6,7 +6,9 @@
   "name": "Merchant Robes",
   "reqs": "()",
   "notes": 25,
-  "talent": "Merchant's Accord",
+  "talents": [
+    "Merchant's Accord"
+  ],
   "category": "Starter",
   "durability": 1200,
   "resistances": {

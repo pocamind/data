@@ -8,7 +8,9 @@
   "name": "Navaen Nomad Robes",
   "reqs": "90r TTL",
   "notes": 100,
-  "talent": "Fists of Navae",
+  "talents": [
+    "Fists of Navae"
+  ],
   "category": "Adept",
   "durability": 1800,
   "resistances": {

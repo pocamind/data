@@ -6,7 +6,9 @@
   "name": "Eager Tradesman",
   "reqs": "()",
   "notes": 50,
-  "talent": "Knack",
+  "talents": [
+    "Knack"
+  ],
   "category": "Starter",
   "durability": 1000,
   "resistances": {

@@ -11,7 +11,9 @@
   "name": "Tempestmaker's Threads",
   "reqs": "240r TTL, 45r WND",
   "notes": 1000,
-  "talent": "Tempest Evolution",
+  "talents": [
+    "Tempest Evolution"
+  ],
   "category": "Unique",
   "voi_only": false,
   "durability": 2600,

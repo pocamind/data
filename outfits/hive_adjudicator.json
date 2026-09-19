@@ -7,7 +7,9 @@
   "name": "Hive Adjudicator",
   "reqs": "240r TTL",
   "notes": 30,
-  "talent": "Lowstride",
+  "talents": [
+    "Lowstride"
+  ],
   "category": "Unobtainable",
   "durability": 1000,
   "resistances": {

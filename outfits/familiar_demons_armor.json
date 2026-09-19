@@ -7,7 +7,9 @@
   "name": "Familiar Demon's Armor",
   "reqs": "240r TTL",
   "notes": 15000,
-  "talent": "Demon Step",
+  "talents": [
+    "Demon Step"
+  ],
   "category": "Unique",
   "durability": 2500,
   "resistances": {

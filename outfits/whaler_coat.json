@@ -9,7 +9,7 @@
   "name": "Whaler Coat",
   "reqs": "165r TTL",
   "notes": 100,
-  "talent": null,
+  "talents": [],
   "category": "Expert",
   "durability": 1500,
   "resistances": {
