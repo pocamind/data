@@ -1,0 +1,6 @@
+{
+  "id": "PRIMAL_RAGE",
+  "kind": "toggle",
+  "label": "Primal Rage",
+  "default": true
+}
