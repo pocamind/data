@@ -18,7 +18,9 @@
   "immediate_grants": [
     "Murmur: Ardour",
     "Murmur: Rhythm",
-    "Murmur: Tacet"
+    "Murmur: Tacet",
+    "Ardour Scream",
+    "Spotter"
   ],
   "count_towards_talent_total": false
 }
