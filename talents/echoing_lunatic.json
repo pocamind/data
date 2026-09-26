@@ -1,16 +1,16 @@
 {
+  "voi": false,
+  "desc": "Your Ardour Scream now inflicts insanity.",
+  "icon": "eye",
   "name": "Echoing Lunatic",
-  "category": "Mindbreaker",
-  "rarity": "Common",
   "reqs": "55s WLL",
+  "rarity": "Common",
   "prereqs": [
     "talent:ardour_scream"
   ],
-  "count_towards_talent_total": true,
-  "icon": "eye",
-  "roll2able": true,
   "vaulted": false,
-  "voi": false,
-  "desc": "Your Ardour Scream now inflicts insanity.",
-  "voi_only": false
+  "category": "Mindbreaker",
+  "voi_only": false,
+  "roll2able": true,
+  "count_towards_talent_total": true
 }
