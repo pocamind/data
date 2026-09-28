@@ -1,0 +1,28 @@
+{
+  "voi": false,
+  "desc": "Activating Rage Bait while your opponent has the enhanced charm from the Guilt Trip talent buffs your Rage Bait effect. Decrease your opponents damage multiplier hard cap from 50% to 5% while Rage Bait is active on them.",
+  "icon": "grip",
+  "name": "Depressive State",
+  "reqs": "90s WLL, 90s CHA",
+  "stats": {},
+  "rarity": "Rare",
+  "effects": {
+    "Duration": ""
+  },
+  "prereqs": [
+    "talent:guilt_trip",
+    "talent:rage_bait"
+  ],
+  "vaulted": false,
+  "category": "Psychopath",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "additional_info": "Also procs on allies.",
+  "immediate_grants": [],
+  "multiplicative_percents": {
+    "Melee Pen": ""
+  },
+  "count_towards_talent_total": true
+}

@@ -1,0 +1,26 @@
+{
+  "voi": false,
+  "desc": "Proccing manipulator now enrages opponents, causing their mantras to deal 10% more damage. Anytime you block their enraged mantras however, laugh in their face causing extreme mental damage, dealing 1% of their max health. [5 sec CD]",
+  "icon": "handshake",
+  "name": "Rage Bait",
+  "reqs": "40s WLL, 90s CHA",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {
+    "Duration": ""
+  },
+  "prereqs": [
+    "talent:manipulator"
+  ],
+  "vaulted": false,
+  "category": "Psychopath",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "The duration/effect formula has yet to be implemented.",
+  "additional_info": "On proc, steam will visually come out of your opponent's head, and a high-pitched angry growl sound effect will play. Goes on cooldown when the Mantra is blocked, not when the Talent initially procs. Also procs on allies. Rage Bait's duration is equal to: (Charisma + Willpower) × 0.12. At requirements, this has a 15.6s duration.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}
