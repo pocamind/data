@@ -1,0 +1,21 @@
+{
+  "voi": false,
+  "desc": "Enhance your charm with the ability to affect one's emotions negatively, doubling the cooldown of their mantra feints.",
+  "icon": "handshake",
+  "name": "Guilt Trip",
+  "reqs": "100s CHA",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Psychopath",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "additional_info": "Turns your Charm blue. Also procs on allies.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}
