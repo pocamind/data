@@ -6,9 +6,7 @@
   "reqs": "40s WLL, 90s CHA",
   "stats": {},
   "rarity": "Common",
-  "effects": {
-    "Duration": ""
-  },
+  "effects": {},
   "prereqs": [
     "talent:manipulator"
   ],

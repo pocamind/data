@@ -6,9 +6,7 @@
   "reqs": "90s WLL, 90s CHA",
   "stats": {},
   "rarity": "Rare",
-  "effects": {
-    "Duration": ""
-  },
+  "effects": {},
   "prereqs": [
     "talent:guilt_trip",
     "talent:rage_bait"
@@ -21,8 +19,6 @@
   "roll2able": false,
   "additional_info": "Also procs on allies.",
   "immediate_grants": [],
-  "multiplicative_percents": {
-    "Melee Pen": ""
-  },
+  "multiplicative_percents": {},
   "count_towards_talent_total": true
 }

@@ -1,13 +1,14 @@
 {
-  "name": "Speed Emission",
-  "category": "Nimble Blade",
-  "rarity": "Common",
-  "reqs": "25s AGL",
-  "count_towards_talent_total": true,
-  "icon": "boots",
-  "roll2able": false,
-  "vaulted": false,
   "voi": false,
-  "desc": "Gain a slight speed boost after landing a vent",
-  "voi_only": false
+  "desc": "Gain a 5s speed boost and apply a 3s slow to your opponent.",
+  "icon": "boots",
+  "name": "Speed Emission",
+  "reqs": "25s AGL",
+  "rarity": "Common",
+  "vaulted": false,
+  "category": "Nimble Blade",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Grants a 30% speed boost and applies a 15% slow. 5 second cooldown.",
+  "count_towards_talent_total": true
 }

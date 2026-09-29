@@ -1,16 +1,17 @@
 {
-  "name": "Lightspeed Reflexes",
-  "category": "Nimble Blade",
-  "rarity": "Rare",
-  "reqs": "20s AGL, 20s INT",
-  "count_towards_talent_total": true,
+  "voi": false,
+  "desc": "When you parry an attack after feinting an attack, gain a 5s speed boost.",
   "icon": "boots",
-  "roll2able": true,
+  "name": "Lightspeed Reflexes",
+  "reqs": "20s AGL, 20s INT",
   "stats": {
     "Passive Agility": 1
   },
+  "rarity": "Rare",
   "vaulted": false,
-  "voi": false,
-  "desc": "Feinting gives a very brief auto-parry window.",
-  "voi_only": false
+  "category": "Nimble Blade",
+  "voi_only": false,
+  "roll2able": true,
+  "additional_info": "Grants a 60% speed boost for 5 seconds on proc. This does not stack with the innate speed boost from parrying, nor the speed boost from Fast Blade.",
+  "count_towards_talent_total": true
 }
