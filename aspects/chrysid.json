@@ -9,6 +9,7 @@
     "Mothwing Dust"
   ],
   "is_pathfinder": true,
+  "exclusive_cosmetics": ["brows", "eyes"],
   "variants": {
     "seer": {
       "name": "Seer",
