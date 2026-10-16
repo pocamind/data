@@ -16,7 +16,7 @@
   "chip_damage": 0.05,
   "enchantable": false,
   "penetration": 0.15,
-  "swing_speed": 999999,
+  "swing_speed": 1.04,
   "damage_types": [
     "Slash"
   ],
