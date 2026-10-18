@@ -1,4 +1,5 @@
 {
+  "desc": "All the rage among those with a desire to flaunt the trophies of their achievements. More notoriously donned as a testament to one's strength, though the obnoxiously gold adornments seem to indicate an equally flashy ego to a more keen-eyed observer.",
   "mats": {
     "Gold": 5,
     "Cloth": 10,
@@ -10,21 +11,20 @@
   "reqs": "240r TTL",
   "notes": 500,
   "talents": [
-    "Underdog"
+    "Overflow"
   ],
   "category": "Unique",
+  "voi_only": false,
   "durability": 2000,
   "resistances": {
-    "Physical Resistance": 25,
     "Blunt Resistance": 10,
-    "Elemental Resistance": 25,
+    "Metal Resistance": 25,
     "Shadow Resistance": 5,
-    "Metal Resistance": 25
+    "Physical Resistance": 25,
+    "Elemental Resistance": 25
   },
   "extra_percents": {
     "Ether Regen": 100,
     "Extra Stealth": 0
-  },
-  "desc": "Heretic's Memento",
-  "voi_only": false
+  }
 }
