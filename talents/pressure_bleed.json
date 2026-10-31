@@ -1,0 +1,30 @@
+{
+  "voi": false,
+  "desc": "",
+  "icon": "",
+  "name": "Pressure Bleed",
+  "reqs": "",
+  "stats": {
+    "Passive Agility": 0
+  },
+  "rarity": "Common",
+  "effects": {
+    "Duration": ""
+  },
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "vaulted": false,
+  "category": "",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {
+    "Melee Pen": ""
+  },
+  "count_towards_talent_total": true
+}
