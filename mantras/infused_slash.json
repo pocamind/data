@@ -1,0 +1,29 @@
+{
+  "voi": false,
+  "desc": "",
+  "icon": "",
+  "name": "Infused Slash",
+  "reqs": "",
+  "type": "",
+  "wiki": "",
+  "stars": 0,
+  "stats": {
+    "Damage": ""
+  },
+  "sparks": [],
+  "prereqs": [],
+  "scaling": {
+    "Ironsing": 1,
+    "Bloodrend": 1
+  },
+  "vaulted": false,
+  "category": "Combat",
+  "voi_only": false,
+  "modifiers": [],
+  "attributes": [],
+  "ether_cost": 0,
+  "miscellaneous": "",
+  "related_talents": [],
+  "shared_cooldowns": [],
+  "flat_level_5_cost": 0
+}
