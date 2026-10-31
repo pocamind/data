@@ -1,0 +1,27 @@
+{
+  "set": "",
+  "voi": false,
+  "desc": "",
+  "name": "Hunter's Chapeau",
+  "pips": {
+    "Uncommon": 0
+  },
+  "reqs": "",
+  "type": "Head",
+  "wiki": "",
+  "rarity": "Unique",
+  "innates": {
+    "Health": {
+      "value": 0,
+      "percentage": false
+    }
+  },
+  "talents": [],
+  "variants": [],
+  "voi_only": false,
+  "equippable": true,
+  "internal_note": "",
+  "scaling_multipliers": {
+    "Willpower": 0
+  }
+}
