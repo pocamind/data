@@ -1,0 +1,28 @@
+{
+  "voi": false,
+  "desc": "",
+  "icon": "",
+  "name": "Flashpoint",
+  "reqs": "",
+  "type": "",
+  "wiki": "",
+  "stars": 0,
+  "stats": {
+    "Damage": ""
+  },
+  "sparks": [],
+  "prereqs": [],
+  "scaling": {
+    "Galebreathe": 0
+  },
+  "vaulted": false,
+  "category": "",
+  "voi_only": false,
+  "modifiers": [],
+  "attributes": [],
+  "ether_cost": 0,
+  "miscellaneous": "",
+  "related_talents": [],
+  "shared_cooldowns": [],
+  "flat_level_5_cost": 0
+}

@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "",
+  "icon": "",
+  "name": "Exothermic Finish",
+  "reqs": "",
+  "stats": {},
+  "rarity": "",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": false
+}
