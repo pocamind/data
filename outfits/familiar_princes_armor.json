@@ -1,0 +1,26 @@
+{
+  "desc": "",
+  "mats": {
+    "Gold": 0,
+    "Iron": 0,
+    "Cloth": 0,
+    "Fiber": 0
+  },
+  "name": "Familiar Prince's Armor",
+  "reqs": "",
+  "notes": 0,
+  "prereqs": [],
+  "talents": [],
+  "category": "Unique",
+  "variants": [],
+  "voi_only": false,
+  "durability": 0,
+  "resistances": {
+    "Blunt Resistance": 0,
+    "Physical Resistance": 0
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  }
+}
