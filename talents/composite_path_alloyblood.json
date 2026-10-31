@@ -1,0 +1,28 @@
+{
+  "voi": false,
+  "desc": "",
+  "icon": "",
+  "name": "Composite Path: Alloyblood",
+  "reqs": "40s BLD, 40s MTL",
+  "stats": {
+    "Passive Agility": 0
+  },
+  "rarity": "Advanced",
+  "effects": {
+    "Duration": ""
+  },
+  "prereqs": [],
+  "vaulted": false,
+  "category": "",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {
+    "Melee Pen": ""
+  },
+  "count_towards_talent_total": true
+}
