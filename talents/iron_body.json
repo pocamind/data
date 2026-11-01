@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "Reduce the amount of chip damage you receive by a flat 10%. Enables you to use actions that require a prosthetic arm.",
+  "icon": "ribcage",
+  "name": "Iron Body",
+  "reqs": "",
+  "stats": {},
+  "rarity": "Equipment",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Equipment",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "This talent is required to use the \"Grapple\" talent, which can be obtained by wearing the \"Familiar Vagrant\" outfit.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": false
+}

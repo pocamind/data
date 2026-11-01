@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "Doubles the damage of pumpkins from your Pumpkin Pitch mantra.",
+  "icon": "",
+  "name": "Cursed Pumpkin",
+  "reqs": "",
+  "stats": {},
+  "rarity": "Equipment",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Equipment",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": false
+}

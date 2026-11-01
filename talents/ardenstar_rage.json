@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on Cursed Fire.",
+  "icon": "flamecharm",
+  "name": "Ardenstar Rage",
+  "reqs": "",
+  "stats": {},
+  "rarity": "Equipment",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Equipment",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "The talent works on any mantra, replaces burn by cursed if flame, the effects stay as long as you are under their threshold, the cooldown reduction is based on time rather than starting from half like blessed gem, meaning you can stack it with blessed for 75% effective reduction.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": false
+}
