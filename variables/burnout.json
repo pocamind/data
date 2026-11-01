@@ -1,0 +1,9 @@
+{
+  "id": "BURNOUT",
+  "max": 3,
+  "min": 1,
+  "kind": "slider",
+  "step": 4,
+  "label": "Burnout",
+  "default": false
+}

@@ -1,0 +1,26 @@
+{
+  "voi": false,
+  "desc": "Your blood runs thick and oily, clinging to all it touches. Blood mantras leave foes coated in Black Blood, slowing them and stifling their healing, up to 3 stacks. Touch it with flame and it erupts.",
+  "icon": "flamecharm",
+  "name": "Exotherm Path: Sanguine Blaze",
+  "reqs": "40s FLM, 40s BLD",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Exotherm",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [
+    "Wraith Path: Twisted Puppets",
+    "Eruption Path: Lava Serpent",
+    "Azure Flames"
+  ],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "Your fire burns a searing pink.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

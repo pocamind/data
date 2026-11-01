@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "Igniting an enemy with Black Blood now flourishes them instead of knocking back, activating all flourish talents.",
+  "icon": "flamecharm",
+  "name": "Exothermic Finish",
+  "reqs": "60s BLD, 80s FLM",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Exotherm",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}
