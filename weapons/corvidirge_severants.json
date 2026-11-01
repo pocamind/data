@@ -1,0 +1,34 @@
+{
+  "voi": false,
+  "desc": "",
+  "name": "Corvidirge Severants",
+  "reqs": "55r LHT, 55r MED",
+  "type": "Dagger / Twinblade",
+  "range": 7,
+  "damage": 13.5,
+  "endlag": 0,
+  "rarity": "Uncommon",
+  "prereqs": [],
+  "scaling": {
+    "Light Weapon": 5,
+    "Medium Weapon": 5
+  },
+  "talents": [],
+  "voi_only": false,
+  "range_type": "Sweep",
+  "can_offhand": false,
+  "chip_damage": 0,
+  "enchantable": true,
+  "penetration": 20,
+  "posture_max": 0,
+  "swing_speed": 1.1,
+  "bleed_damage": 2,
+  "damage_types": [
+    "Slash"
+  ],
+  "equip_motifs": false,
+  "only_offhand": false,
+  "posture_damage": 5,
+  "attack_duration": 0.5,
+  "posture_restoration": 0
+}
