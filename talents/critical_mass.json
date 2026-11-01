@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Landing a Critical Attack on an enemy with Black Blood ignites them with pink fire.",
+  "icon": "flamecharm",
+  "name": "Critical Mass",
+  "reqs": "45s BLD, 45s FLM",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "vaulted": false,
+  "category": "Exotherm",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}
