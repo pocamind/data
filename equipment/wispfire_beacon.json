@@ -4,7 +4,11 @@
   "type": "Torso",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Headlights",
+    "Left",
+    "Right"
+  ],
   "talents": [],
   "innates": {},
   "pips": {},

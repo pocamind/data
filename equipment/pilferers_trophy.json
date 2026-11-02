@@ -4,7 +4,11 @@
   "type": "Torso",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Bounty",
+    "Drowned",
+    "Mausoleum"
+  ],
   "talents": [],
   "innates": {},
   "pips": {},

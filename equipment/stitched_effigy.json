@@ -4,7 +4,12 @@
   "type": "Face",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Cold",
+    "Hollow",
+    "Stitched Effigy",
+    "Warm"
+  ],
   "talents": [],
   "innates": {
     "Health": {

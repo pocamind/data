@@ -4,7 +4,12 @@
   "type": "Head",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Buckle (Dark)",
+    "Buckle (Light)",
+    "No Buckle (Dark)",
+    "No Buckle (Light)"
+  ],
   "talents": [],
   "innates": {
     "Health": {

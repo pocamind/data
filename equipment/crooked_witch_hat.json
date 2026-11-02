@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Hallowtide",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Dark",
+    "Light"
+  ],
   "talents": [],
   "innates": {},
   "pips": {},
