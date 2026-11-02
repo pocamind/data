@@ -1,0 +1,17 @@
+{
+  "name": "Light Piercer",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:familiar_princes_armor"
+  ],
+  "additional_info": "Grants a Talent tool that can only be used if you have a Spear equipped. On use, fire three spear projectiles forwards, dealing 10 damage each. These cannot be blocked.",
+  "count_towards_talent_total": false,
+  "icon": "spear",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While using a spear, shoot out 3 light spears that pierce through your opponent and their block. While using Familiar Prince's Armor, all passive regeneration is increased by 10%.",
+  "voi_only": false
+}

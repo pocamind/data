@@ -2,7 +2,7 @@
   "name": "Nocturne",
   "type": "Sword",
   "rarity": "Mythical",
-  "damage": 19.8,
+  "damage": 19,
   "posture_damage": 5,
   "range": 7.5,
   "reqs": "90r MED",

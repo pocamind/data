@@ -1,0 +1,17 @@
+{
+  "name": "Deconstruction of Shrine",
+  "type": "Shield",
+  "rarity": "Mythical",
+  "damage": null,
+  "posture_damage": null,
+  "range": null,
+  "reqs": "15r FTD",
+  "posture_max": 2,
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "can_offhand": true,
+  "only_offhand": true,
+  "desc": "An artistic deconstruction of the enigmatic shrines of the deep scattered among the surface. By L. O. Dise",
+  "voi_only": false
+}

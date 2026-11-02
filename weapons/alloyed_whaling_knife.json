@@ -2,8 +2,8 @@
   "name": "Alloyed Whaling Knife",
   "type": "Dagger",
   "rarity": "Legendary",
-  "damage": 15,
-  "posture_damage": 4,
+  "damage": 16,
+  "posture_damage": 3,
   "range": 6,
   "reqs": "75r LHT",
   "damage_types": [
@@ -15,7 +15,7 @@
   "scaling": {
     "Light Weapon": 8
   },
-  "penetration": 0.15,
+  "penetration": 0.1,
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,

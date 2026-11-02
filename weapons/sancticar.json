@@ -3,7 +3,7 @@
   "type": "Staff",
   "rarity": "Common",
   "damage": 19.5,
-  "posture_damage": 6,
+  "posture_damage": 5,
   "range": 8,
   "reqs": "50r MED",
   "prereqs": [
@@ -18,7 +18,7 @@
   ],
   "range_type": "Sweep",
   "attack_duration": 0.7,
-  "swing_speed": 0.92,
+  "swing_speed": 0.95,
   "scaling": {
     "Medium Weapon": 8
   },

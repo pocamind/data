@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Fuse the Ironsing rods from Ironsing mantras and Blood Poison from Bloodrend mantras into a composite plasma that flows in your opponents blood. Your Bloodrend mantras are now silver.",
+  "icon": "ironsing",
+  "name": "Composite Path: Alloyblood",
+  "reqs": "50s BLD, 50s MTL",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [
+    "Gilded Path: Scrapsinger"
+  ],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "Your Metal Rod and Blood Poison buildup is replaced with Composite Alloy buildup. A certain threshold of Composite Alloy must be built up to cast Alloyblood Mantras.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

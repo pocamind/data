@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "...",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: innates pips reqs desc"
+}

@@ -10,6 +10,7 @@
     "Slash"
   ],
   "range_type": "Sweep",
+  "attack_duration": 0.7,
   "swing_speed": 0.91,
   "scaling": {
     "Heavy Weapon": 7

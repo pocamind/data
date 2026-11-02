@@ -1,0 +1,24 @@
+{
+  "name": "Mask of Phantoms",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [
+    "Left",
+    "Left (Metal)",
+    "Classic",
+    "Classic (Metal)",
+    "Right",
+    "Right (Metal)"
+  ],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "Masquerade! Paper faces on parade!",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: innates pips reqs"
+}

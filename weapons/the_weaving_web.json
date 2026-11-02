@@ -16,6 +16,7 @@
     "Medium Weapon": 5.5,
     "Charisma": 1
   },
+  "penetration": 0.15,
   "enchantable": true,
   "equip_motifs": false,
   "voi": false,

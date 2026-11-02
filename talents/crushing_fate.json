@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "The force of your blade forces your opponents back with each swing.",
+  "icon": "greatsword",
+  "name": "Crushing Fate",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:silass_cenotaph"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

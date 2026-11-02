@@ -3,7 +3,7 @@
   "category": "Needle",
   "rarity": "Common",
   "reqs": "40s LHT",
-  "additional_info": "Increases blood bar damage by 50% and grants +25% Chip damage while active. These bonuses apply to M1s and criticals with the M1 tag.",
+  "additional_info": "While active, the following buffs are applied to Rapier light attacks and criticals with the M1 tag: increases blood loss by 50%, grants +25% chip damage, and +3 true damage.",
   "count_towards_talent_total": true,
   "icon": "daggers",
   "roll2able": true,

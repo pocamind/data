@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Switch between two effects when alternating between different daggers with light attacks. One dagger steals a bit of armor durability while the other gives your opponent a bit of blood poison.",
+  "icon": "daggers",
+  "name": "Quick Incisions",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:alloyblood_daggers"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

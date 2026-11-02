@@ -1,0 +1,30 @@
+{
+  "name": "Silas's Cenotaph",
+  "type": "Greatsword",
+  "rarity": "Legendary",
+  "damage": 25,
+  "posture_damage": 12,
+  "range": 9.5,
+  "reqs": "100r HVY, 50r INT OR 50r WLL OR 50r CHA",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 1.2,
+  "endlag": 0.2,
+  "swing_speed": 0.66,
+  "scaling": {
+    "Heavy Weapon": 10,
+    "Mind": 3
+  },
+  "chip_damage": 0.1,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "The very tombstone of Silas Ardenstar, fashioned into a gnarly greatsword by the Spellhardt family, as a sick joke after his initial demise. His mummified, shrunken head, armed with a petrifying gaze, is now also at your disposal. The visage of the Ardenstar patriach strikes fear into the hearts of many, even in death.",
+  "talents": [
+    "Crushing Fate",
+    "Eye of Silas"
+  ],
+  "voi_only": false
+}

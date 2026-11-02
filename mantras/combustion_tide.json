@@ -1,0 +1,20 @@
+{
+  "name": "Combustion Tide",
+  "attributes": [
+    "Bloodrend",
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": null,
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "voi": false,
+  "desc": "",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: category stars reqs desc ether_cost prereqs"
+}

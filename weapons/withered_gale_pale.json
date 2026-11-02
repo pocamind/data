@@ -4,7 +4,7 @@
   "rarity": "Legendary",
   "damage": 22,
   "posture_damage": 10,
-  "range": 9,
+  "range": 8.5,
   "reqs": "75r HVY, 90r WND",
   "damage_types": [
     "Blunt"
@@ -14,7 +14,7 @@
   "endlag": 0.1,
   "swing_speed": 0.9,
   "scaling": {
-    "Heavy Weapon": 4,
+    "Heavy Weapon": 5,
     "Galebreathe": 8
   },
   "penetration": 0.15,

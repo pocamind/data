@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "When casting an alloyblood hybrid mantra, refresh your critical attack cooldown. Your critical hits with alloyblood weaponry now add composite plasma to your opponent.",
+  "icon": "ironsing",
+  "name": "Plasma Refresh",
+  "reqs": "40s BLD, 40s MTL, 60r LHT OR 60r MED OR 60r HVY",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "All of the Alloyblood weapons (Alloyblood Axe, Alloyblood Daggers and Alloyblood Spear) have the default critical attacks of their weapon types.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

@@ -6,12 +6,12 @@
   "prereqs": [
     "talent:jus_karita"
   ],
-  "additional_info": "Landing Jus Karita's critical attack will reset its cooldown. This has a 10 second cooldown. Also procs if Jus Karita's critical is blocked or parried.",
+  "additional_info": "Landing Jus Karita's critical attack will reset its cooldown. This is hard coded to only work on the default Jus Karita critical and the Vanguard critical from the Justicar Origin. 10 second cooldown. Despite the description stating \"hitting\", this effect also procs on block, parry, and dodge.",
   "count_towards_talent_total": true,
   "icon": "fist",
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).",
+  "desc": "Hitting an opponent with your Jus Karita critical resets the cooldown.",
   "voi_only": false
 }

@@ -1,0 +1,34 @@
+{
+  "name": "Alloyblood Axe",
+  "type": "Greataxe",
+  "rarity": "Unknown",
+  "damage": 24,
+  "posture_damage": 7,
+  "range": 8,
+  "reqs": "()",
+  "prereqs": [
+    "mantra:rising_plasma"
+  ],
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.9,
+  "endlag": 0.1,
+  "swing_speed": 0.87,
+  "scaling": {
+    "Heavy Weapon": 3,
+    "Bloodrend": 5,
+    "Ironsing": 5
+  },
+  "chip_damage": 0.2,
+  "penetration": 0.2,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A greataxe formed of alloyblood you have collected from your opponent.",
+  "talents": [
+    "Composite Crusher"
+  ],
+  "voi_only": false
+}

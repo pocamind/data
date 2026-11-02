@@ -1,0 +1,27 @@
+{
+  "name": "Familiar Prosthetic Arm",
+  "equippable": true,
+  "type": "Arms",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [
+    "Iron Body"
+  ],
+  "innates": {
+    "Health": {
+      "value": 3,
+      "percentage": false
+    },
+    "Posture": {
+      "value": 3,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags or from The Harvestman.",
+  "desc": "...",
+  "voi_only": false
+}

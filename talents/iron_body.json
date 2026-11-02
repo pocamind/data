@@ -1,0 +1,17 @@
+{
+  "name": "Iron Body",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:familiar_prosthetic_arm"
+  ],
+  "additional_info": "This is required to use the Grapple Talent. Grants 10% damage resistance to chip damage, does not reduce chip % on incoming attacks by 10.",
+  "count_towards_talent_total": false,
+  "icon": "shield",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Reduce the amount of chip damage you receive by flat 10%. Enables you to use actions that require a prosthetic arm.",
+  "voi_only": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cursed Flames",
+  "type": "Sword",
+  "rarity": "Unique",
+  "damage": 19.2,
+  "posture_damage": 5,
+  "range": 8,
+  "reqs": "100r FLM, 40r WLL, 165r TTL",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.6,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Flamecharm": 5.5
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "A blade enruined with the words of a Hero, it evokes the overwhelming heat of the geothermal vents.",
+  "talents": [
+    "Accursed Flame"
+  ],
+  "voi_only": false
+}

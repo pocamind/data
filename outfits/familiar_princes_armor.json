@@ -1,0 +1,27 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Curse of the No Life King Enchant Stone": 1,
+    "Bloodless Gem": 1,
+    "Darkblood Vial": 2
+  },
+  "name": "Familiar Prince's Armor",
+  "reqs": "240r TTL",
+  "notes": 5000,
+  "talents": [
+    "Light Piercer"
+  ],
+  "category": "Unique",
+  "durability": 3250,
+  "resistances": {
+    "Physical Resistance": 35,
+    "Elemental Resistance": 35
+  },
+  "extra_percents": {
+    "Ether Regen": 0,
+    "Extra Stealth": 0
+  },
+  "desc": "For the prince...",
+  "voi_only": false
+}

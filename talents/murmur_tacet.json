@@ -2,7 +2,7 @@
   "name": "Murmur: Tacet",
   "category": "Murmur",
   "rarity": "Murmur",
-  "reqs": "10r CHA",
+  "reqs": "()",
   "exclusive": [
     "Murmur: Ardour",
     "Murmur: Rhythm"

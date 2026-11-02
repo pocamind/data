@@ -1,0 +1,17 @@
+{
+  "name": "Crooked Witch Hat",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "...",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: innates pips reqs desc"
+}

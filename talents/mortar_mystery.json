@@ -10,6 +10,6 @@
   "category": "Big Bertha",
   "voi_only": false,
   "roll2able": false,
-  "additional_info": "Each hit landed from your Greatcannon critical aummons a mortar above each target's head. These deal 30 damage each if they land.",
+  "additional_info": "Each hit landed from your Greatcannon critical summons a mortar above each target's head. These deal 30 damage each if they land. Has a cooldown of 10 seconds, per target.",
   "count_towards_talent_total": true
 }

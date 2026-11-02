@@ -1,0 +1,32 @@
+{
+  "name": "Alloyblood Daggers",
+  "type": "Dagger",
+  "rarity": "Unknown",
+  "damage": 14.5,
+  "posture_damage": 4,
+  "range": 6,
+  "reqs": "()",
+  "prereqs": [
+    "mantra:infused_slash"
+  ],
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.2,
+  "scaling": {
+    "Light Weapon": 3,
+    "Bloodrend": 5,
+    "Ironsing": 5
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Dual daggers formed of alloyblood you have collected from your opponent.",
+  "talents": [
+    "Quick Incisions"
+  ],
+  "voi_only": false
+}

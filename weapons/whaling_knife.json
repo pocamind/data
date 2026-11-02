@@ -2,8 +2,8 @@
   "name": "Whaling Knife",
   "type": "Dagger",
   "rarity": "Rare",
-  "damage": 15,
-  "posture_damage": 4,
+  "damage": 15.5,
+  "posture_damage": 3,
   "range": 6,
   "reqs": "40r LHT",
   "damage_types": [
@@ -15,6 +15,7 @@
   "scaling": {
     "Light Weapon": 5
   },
+  "penetration": 0.05,
   "enchantable": true,
   "equip_motifs": true,
   "voi": false,

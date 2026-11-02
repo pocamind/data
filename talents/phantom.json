@@ -6,7 +6,7 @@
   "prereqs": [
     "weapon:withered_phantomcleave"
   ],
-  "additional_info": "Your weapon attacks that bypass block apply shaky block.",
+  "additional_info": "Your weapon attacks that bypass block apply shaky block. Grants a small swing speed boost while active.",
   "count_towards_talent_total": false,
   "icon": "assassin",
   "roll2able": false,

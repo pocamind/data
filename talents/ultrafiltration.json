@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Filter out your bloodalloy hybrid mantras' composite plasma, allowing them to apply ironsing/bloodrend elemental effects once again.",
+  "icon": "ironsing",
+  "name": "Ultrafiltration",
+  "reqs": "65s BLD, 65s MTL",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "Your Alloyblood Mantras (Infused Slash, Rising Plasma and Spinning Serum) now apply Blood Poisoning and Metal Rods on hit.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

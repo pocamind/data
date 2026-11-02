@@ -1,0 +1,17 @@
+{
+  "name": "Pilferer's Trophy",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {},
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "...",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: innates pips reqs desc"
+}

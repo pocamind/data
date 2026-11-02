@@ -1,0 +1,25 @@
+{
+  "name": "Rising Plasma",
+  "attributes": [
+    "Bloodrend",
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": null,
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "voi": false,
+  "desc": "",
+  "related_talents": [
+    "Hypoferritinemia",
+    "Plasma Signal",
+    "Ultrafiltration"
+  ],
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: category stars reqs desc ether_cost"
+}

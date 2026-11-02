@@ -3,13 +3,13 @@
   "category": "Navaen Nomad",
   "rarity": "Rare",
   "reqs": "20s LHT, 20s FTD",
-  "additional_info": "Lasts 10 seconds then goes on cooldown once the buff ends. You can only gain stacks from M1s or criticals with the M1 tag.",
+  "additional_info": "On proc, gain a yellow bubble around your character for 10s, with a 70s CD once the buff ends. Only procs from landing M1s and criticals with the M1 tag on Fist weapons.",
   "count_towards_talent_total": true,
   "icon": "fist",
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD",
+  "desc": "Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.",
   "exclusive": [
     "Orbital Ice"
   ],

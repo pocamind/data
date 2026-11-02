@@ -6,6 +6,7 @@
   "prereqs": [
     "mantra:bloodcurdle"
   ],
+  "additional_info": "The Temporary Health given is equal to half of the healing received.",
   "count_towards_talent_total": false,
   "icon": "bloodrend",
   "roll2able": false,

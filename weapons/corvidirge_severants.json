@@ -1,0 +1,25 @@
+{
+  "name": "Corvidirge Severants",
+  "type": "Twinblade",
+  "rarity": "Legendary",
+  "damage": 13.5,
+  "posture_damage": 5,
+  "range": 7,
+  "reqs": "55r LHT, 55r MED",
+  "damage_types": [
+    "Slash"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.1,
+  "scaling": {
+    "Light Weapon": 5,
+    "Medium Weapon": 5
+  },
+  "penetration": 0.15,
+  "enchantable": true,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Twin scythes wrought from a combination of the metallic claws and voidborne feathers of a Harrow, a dread creature of the Boundary. Melding dark metals and plumage into a pair of elegant, otherworldly blades, their edge seems to never dull.",
+  "voi_only": false
+}

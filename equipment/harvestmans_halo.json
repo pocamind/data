@@ -1,0 +1,27 @@
+{
+  "name": "Harvestman's Halo",
+  "equippable": true,
+  "type": "Head",
+  "rarity": "Hallowtide",
+  "set": "Harvestman",
+  "variants": [
+    "Glowing",
+    "Harvestman's Own",
+    "Inert"
+  ],
+  "talents": [
+    "Ardenstar Rage"
+  ],
+  "innates": {
+    "Health": {
+      "value": -20,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "240r TTL",
+  "voi": false,
+  "wiki": "Only obtainable from The Harvestman.",
+  "desc": "...",
+  "voi_only": false
+}

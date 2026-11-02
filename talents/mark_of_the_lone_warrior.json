@@ -6,12 +6,12 @@
   "prereqs": [
     "origin:lone_warrior"
   ],
-  "additional_info": "Gain an experience gain multiplier if nobody else has combat tagged the enemy. Gain a 5% damage buff against enemies who have combat tagged you, or enemies you've combat tagged if the opponent has less than or an equal amount of combat tags as you.",
+  "additional_info": "Gain an experience gain multiplier if nobody else has combat tagged the enemy. Gain a 5% damage buff against enemies who have combat tagged you, or enemies you've combat tagged if the opponent has less than or an equal amount of combat tags as you. Gain an additional 5% more damage buff per combat tag above 1.",
   "count_towards_talent_total": false,
   "icon": "claw",
   "roll2able": false,
   "stats": {
-    "Damage": "if(MARK_OF_THE_LONE_WARRIOR, 5, 0)"
+    "Damage": "if(MARK_OF_THE_LONE_WARRIOR, 5 * TAGS, 0)"
   },
   "vaulted": false,
   "voi": false,

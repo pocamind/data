@@ -4,7 +4,10 @@
   "type": "Head",
   "rarity": "Unique",
   "set": null,
-  "variants": [],
+  "variants": [
+    "Hell's Kitchen",
+    "Sous Chef"
+  ],
   "talents": [
     "Umami",
     "Gourmand"

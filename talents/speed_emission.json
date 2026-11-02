@@ -1,6 +1,6 @@
 {
   "voi": false,
-  "desc": "Gain a 5s speed boost and apply a 3s slow to your opponent.",
+  "desc": "[Land a Vent] Gain a 5s speed boost and apply a 3s slow to your opponent.",
   "icon": "boots",
   "name": "Speed Emission",
   "reqs": "25s AGL",

@@ -16,7 +16,7 @@
   "scaling": {
     "Strength": 1.65
   },
-  "miscellaneous": "If you have any Attunement, this Mantra will have its Strength requirement increased to 20.",
+  "miscellaneous": "If you have any Attunement, this Mantra will have its Strength requirement increased to 10.",
   "voi": false,
   "desc": "Disguise yourself in tacet and drop kick your enemies.",
   "voi_only": false

@@ -1,0 +1,17 @@
+{
+  "name": "Ardenstar Rage",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:harvestmans_halo"
+  ],
+  "additional_info": "Cooldown reduction stacks with Blessed Gems for 75% cooldown reduction. Cursed Burn is a unique Burn modifier that triples the burn damage and turns the flames purple.",
+  "count_towards_talent_total": false,
+  "icon": "flamecharm",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "When below 50% health, reduce all mantra cooldowns by 50%. When below 20% health, all mantras set your opponent on cursed fire.",
+  "voi_only": false
+}
