@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Your vents turn pink, spraying explosive Black Blood puddles that ignite enemies.",
+  "icon": "flamecharm",
+  "name": "Pressure Bleed",
+  "reqs": "50s BLD, 50s FLM",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "vaulted": false,
+  "category": "Exotherm",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

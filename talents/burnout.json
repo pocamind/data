@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Igniting enemies reduces their damage by 4% per Black Blood stack, up to a maximum of 12%.",
+  "icon": "flamecharm",
+  "name": "Burnout",
+  "reqs": "60s BLD, 65s FLM",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "vaulted": false,
+  "category": "Exotherm",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}
