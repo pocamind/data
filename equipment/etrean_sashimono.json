@@ -5,6 +5,7 @@
   "rarity": "Legendary",
   "set": null,
   "variants": [
+    "Royal",
     "Anaconda",
     "Cobra",
     "Forbidden",
@@ -12,8 +13,7 @@
     "Mamba",
     "Peace",
     "Pride",
-    "Psammophis",
-    "Royal"
+    "Psammophis"
   ],
   "talents": [
     "Traditional Execution"

@@ -5,16 +5,16 @@
   "rarity": "Uncommon",
   "set": "Brilliant",
   "variants": [
+    "Brilliant",
     "Adretian Hero",
     "Antihero",
     "Beastslayer",
-    "Default",
     "Kingmaker",
-    "Lightbringer",
+    "Lightbearer",
     "Northerner",
     "Paladin",
-    "Snowbringer",
-    "Ranger"
+    "Ranger",
+    "Snowbringer"
   ],
   "talents": [],
   "innates": {

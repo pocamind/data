@@ -5,9 +5,9 @@
   "rarity": "Hallowtide",
   "set": null,
   "variants": [
+    "Right",
     "Headlights",
-    "Left",
-    "Right"
+    "Left"
   ],
   "talents": [],
   "innates": {},

@@ -5,17 +5,17 @@
   "rarity": "Rare",
   "set": "Celtor Commander",
   "variants": [
+    "Sable",
     "Bastion",
     "Beacon",
-    "Grand Marshal (Default)",
+    "Grand Marshal",
     "Grand Marshal (Unmasked)",
-    "Highborn (Default)",
+    "Highborn",
     "Highborn (Unmasked)",
-    "Sable (Default)",
     "Sable (Unmasked)",
-    "Stygian (Default)",
+    "Stygian",
     "Stygian (Unmasked)",
-    "Tideknight (Default)",
+    "Tideknight",
     "Tideknight (Unmasked)"
   ],
   "talents": [

@@ -5,13 +5,13 @@
   "rarity": "Rare",
   "set": "Aristocrat",
   "variants": [
+    "White",
     "Black",
     "Cerulean",
     "Emerald",
     "Indigo",
     "Red",
-    "Silver",
-    "White"
+    "Silver"
   ],
   "talents": [],
   "innates": {},

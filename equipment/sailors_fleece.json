@@ -5,10 +5,10 @@
   "rarity": "Uncommon",
   "set": null,
   "variants": [
-    "Dark (Corduroy)",
-    "Dark (Knit)",
-    "Light (Corduroy)",
-    "Light (Knit)"
+    "Light Knit",
+    "Dark Corduroy",
+    "Dark Knit",
+    "Light Corduroy"
   ],
   "talents": [],
   "innates": {

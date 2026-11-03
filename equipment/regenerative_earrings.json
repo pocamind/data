@@ -5,10 +5,10 @@
   "rarity": "Rare",
   "set": "Regenerative",
   "variants": [
-    "Tarnished (Gold)",
-    "Tarnished (Silver)",
-    "Unblemished (Gold)",
-    "Unblemished (Silver)"
+    "Unblemished Gold",
+    "Tarnished Gold",
+    "Tarnished Silver",
+    "Unblemished Silver"
   ],
   "talents": [
     "Blood Convergence"

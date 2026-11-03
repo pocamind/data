@@ -5,9 +5,12 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "Black",
-    "Brown",
-    "White"
+    "Black (Classic)",
+    "Black (Herringbone)",
+    "Brown (Classic)",
+    "Brown (Herringbone)",
+    "White (Classic)",
+    "White (Herringbone)"
   ],
   "talents": [
     "Steady Footing"

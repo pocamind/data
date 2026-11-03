@@ -5,10 +5,10 @@
   "rarity": "Relic",
   "set": null,
   "variants": [
+    "Valiant",
     "Glorious",
     "Martial",
-    "Radiant",
-    "Valiant"
+    "Radiant"
   ],
   "talents": [
     "Actions Speak Louder"

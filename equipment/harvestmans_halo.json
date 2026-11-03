@@ -5,9 +5,9 @@
   "rarity": "Hallowtide",
   "set": "Harvestman",
   "variants": [
+    "Inert",
     "Glowing",
-    "Harvestman's Own",
-    "Inert"
+    "Harvestman's Own"
   ],
   "talents": [
     "Ardenstar Rage"
