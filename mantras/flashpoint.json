@@ -1,0 +1,20 @@
+{
+  "name": "Flashpoint",
+  "attributes": [
+    "Bloodrend",
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": 60,
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "voi": false,
+  "desc": "Apply blood then quickly ignite it.",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: name"
+}

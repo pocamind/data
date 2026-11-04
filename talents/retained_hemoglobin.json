@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Using an alloyblood mantra reduces the composite plasma cost of your next alloyblood mantra by 20%. This effect lasts for 10 seconds and can be stacked.",
+  "icon": "ironsing",
+  "name": "Retained Hemoglobin",
+  "reqs": "60s BLD, 60s MTL",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

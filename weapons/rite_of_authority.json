@@ -3,7 +3,7 @@
   "type": "Sword",
   "rarity": "Mythical",
   "damage": 19.5,
-  "posture_damage": 8,
+  "posture_damage": 6,
   "range": 8,
   "reqs": "75r MED, 40r LTN",
   "damage_types": [
@@ -11,9 +11,10 @@
   ],
   "range_type": "Sweep",
   "attack_duration": 0.6,
-  "swing_speed": 1.05,
+  "swing_speed": 1.02,
   "scaling": {
-    "Medium Weapon": 7
+    "Medium Weapon": 4,
+    "Thundercall": 3
   },
   "penetration": 0.15,
   "enchantable": true,

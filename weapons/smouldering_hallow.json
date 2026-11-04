@@ -2,7 +2,7 @@
   "name": "Smouldering Hallow",
   "type": "Greatcannon",
   "rarity": "Legendary",
-  "damage": 27,
+  "damage": 25.5,
   "posture_damage": 9,
   "range": 7.5,
   "reqs": "75r HVY, 30r STR",

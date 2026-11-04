@@ -1,0 +1,16 @@
+{
+  "name": "Cursed Pumpkin",
+  "category": "Equipment",
+  "rarity": "Equipment",
+  "reqs": "()",
+  "prereqs": [
+    "equipment:harvestmans_cloak"
+  ],
+  "count_towards_talent_total": false,
+  "icon": "explosion",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Double the damage of your pumpkins from your Pumpkin Pitch mantra.",
+  "voi_only": false
+}

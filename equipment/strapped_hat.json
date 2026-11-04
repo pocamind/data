@@ -5,10 +5,10 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
-    "Default",
-    "Grey Fabric",
+    "Grey Leather",
     "Double Fabric",
-    "Double Leather"
+    "Double Leather",
+    "Grey Fabric"
   ],
   "talents": [
     "Eureka"

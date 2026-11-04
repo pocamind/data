@@ -6,12 +6,12 @@
   "prereqs": [
     "talent:oath_linkstrider"
   ],
-  "additional_info": "Blue Cords (Allies) gain a speed boost, 20% damage resistance, and a 5% damage increase. Red Cords (Enemies) gain a minor speed debuff. Allows you to passively see the health bars of your allies.",
+  "additional_info": "Blue Cords (Allies) gain a speed boost, 20% damage resistance, and a 5% damage increase. Red Cords (Enemies) gain a minor speed debuff. Allows you to passively see the health bars of your allies. You can only have one active link of each type. Links also break if you go too far from the linked target. When breaking due to the range limitation, there is a 3 second grace period in which they will not break. Allies hitting you won't break your links.",
   "count_towards_talent_total": false,
   "icon": "linkstrider",
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.",
+  "desc": "Press X while hovering over an ally to buff them, or while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from an enemy.",
   "voi_only": false
 }

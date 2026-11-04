@@ -1,0 +1,23 @@
+{
+  "name": "Infected",
+  "type": "Fist",
+  "rarity": "Unknown",
+  "damage": 10,
+  "posture_damage": 9,
+  "range": 6,
+  "reqs": "()",
+  "damage_types": [
+    "Blunt"
+  ],
+  "range_type": "Sweep",
+  "attack_duration": 0.5,
+  "swing_speed": 1.3,
+  "scaling": {
+    "Light Weapon": 0
+  },
+  "enchantable": false,
+  "equip_motifs": false,
+  "voi": false,
+  "desc": "Infected...",
+  "voi_only": false
+}

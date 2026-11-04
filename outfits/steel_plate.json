@@ -1,6 +1,10 @@
 {
   "variants": [
-    "Ashen"
+    "Default",
+    "Ashen",
+    "Crimson",
+    "Cerulean",
+    "Etrean"
   ],
   "mats": {
     "Cloth": 5,

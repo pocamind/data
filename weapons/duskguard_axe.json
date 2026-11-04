@@ -2,7 +2,7 @@
   "name": "Duskguard Axe",
   "type": "Greataxe",
   "rarity": "Mythical",
-  "damage": 26,
+  "damage": 24,
   "posture_damage": 9,
   "range": 9,
   "reqs": "75r HVY, 10r STR",

@@ -13,7 +13,7 @@
     "Damage": "if(TAUNT, 20, 0)"
   },
   "voi": true,
-  "desc": "Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal 10% more damage.",
+  "desc": "Applies Taunted to those around you. Draws aggression towards you.",
   "voi_only": false,
   "icon": "taunt"
 }

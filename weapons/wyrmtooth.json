@@ -14,8 +14,8 @@
   "endlag": 0.1,
   "swing_speed": 0.93,
   "scaling": {
-    "Medium Weapon": 6.2,
-    "Heavy Weapon": 4.2
+    "Medium Weapon": 6.5,
+    "Heavy Weapon": 4.5
   },
   "penetration": 0.25,
   "enchantable": true,

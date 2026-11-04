@@ -4,7 +4,7 @@
   "rarity": "Mythical",
   "damage": 26,
   "posture_damage": 9,
-  "range": 9,
+  "range": 8.5,
   "reqs": "75r HVY, 10r STR",
   "damage_types": [
     "Blunt"
@@ -14,7 +14,7 @@
   "endlag": 0.1,
   "swing_speed": 0.83,
   "scaling": {
-    "Heavy Weapon": 8
+    "Heavy Weapon": 9
   },
   "penetration": 0.15,
   "enchantable": true,

@@ -1,0 +1,17 @@
+{
+  "name": "Lightning Drop",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:familiar_sages_armor"
+  ],
+  "additional_info": "Grants a Talent Tool that can only be used while you are high off the ground. On use, turn into a lightning bolt and speed downwards, ragdolling and damaging targets hit. The damage scales on the height difference.",
+  "count_towards_talent_total": false,
+  "icon": "thundercall",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "While in the air, quickly drop down and strike your opponent where you land with fierce lightning.",
+  "voi_only": false
+}

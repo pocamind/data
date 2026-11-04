@@ -1,0 +1,22 @@
+{
+  "name": "Infused Slash",
+  "attributes": [
+    "Bloodrend",
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": 20,
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "voi": false,
+  "desc": "Harvest the composite plasma in your opponent's blood and summon 2 daggers to slash them with.",
+  "related_talents": [
+    "Ultrafiltration"
+  ],
+  "voi_only": false
+}

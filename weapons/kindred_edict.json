@@ -3,7 +3,7 @@
   "type": "Sword",
   "rarity": "Rare",
   "damage": 17,
-  "posture_damage": 4.5,
+  "posture_damage": 3,
   "range": 7.5,
   "reqs": "50r MED, 30r STR OR 30r FTD OR 30r AGL",
   "damage_types": [

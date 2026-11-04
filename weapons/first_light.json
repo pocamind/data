@@ -14,7 +14,8 @@
   "endlag": 0.1,
   "swing_speed": 0.82,
   "scaling": {
-    "Heavy Weapon": 8
+    "Heavy Weapon": 8,
+    "Flamecharm": 2
   },
   "penetration": 0.15,
   "enchantable": true,

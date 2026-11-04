@@ -1,0 +1,26 @@
+{
+  "voi": false,
+  "desc": "Using Rising Plasma now summons your Metal Greatsword instead. Your Metal Greatsword now has an innate 75% chip, gaining even more chip based on how much composite plasma is inside your opponent.",
+  "icon": "ironsing",
+  "name": "Hypoferritinemia",
+  "reqs": "30s BLD, 30s MTL",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:composite_path_alloyblood",
+    "talent:needleblade",
+    "talent:torture_mastery"
+  ],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "The Rising Plasma Mantra now summons the Metal Greatsword instead of the Alloyblood Axe.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

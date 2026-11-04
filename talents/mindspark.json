@@ -6,7 +6,7 @@
   "prereqs": [
     "equipment:flame_demon_horns"
   ],
-  "additional_info": "Your burn damage is increased based on how low your Sanity is.",
+  "additional_info": "Increases Burn damage by 0.55% for every 1% Sanity lost, capping at +55% burn damage at 0% Sanity.",
   "count_towards_talent_total": false,
   "icon": "flamecharm",
   "roll2able": false,

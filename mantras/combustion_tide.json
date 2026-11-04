@@ -1,0 +1,19 @@
+{
+  "name": "Combustion Tide",
+  "attributes": [
+    "Bloodrend",
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": 60,
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "voi": false,
+  "desc": "Send out a tide of blood that drags foes along with it, then bursts into fire and ignites their Black Blood.",
+  "voi_only": false
+}

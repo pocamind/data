@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Landing light attacks gives temporary buffs depending on how much armor and blood poison your opponent has. The more blood poison the faster you swing. The less armor the more range you get.",
+  "icon": "ironsing",
+  "name": "Iron Leech",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:alloyblood_spear"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

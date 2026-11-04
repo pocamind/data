@@ -1,0 +1,17 @@
+{
+  "voi": false,
+  "desc": "Summon a blade of Cursed Flames. Your aerial attack and flourish are now enhanced by these flames. While using Cursed Flames, your mantra cooldowns are 3 times longer.",
+  "icon": "flamecharm",
+  "name": "Accursed Flame",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:cursed_flames"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "additional_info": "Triples all Mantra cooldowns while using Cursed Flames. Upon using an uppercut, fire a purple flame projectile in front of you at high speeds. This applies Cursed Burn if it lands. Upon using an aerial attack, throw a fire projectile diagonally downwards and in front of you, applying Cursed Burn if it lands. Cursed Burn is a unique burn modifier that turns your burn light purple, overriding any other recolor, and triples its damage output.",
+  "count_towards_talent_total": false
+}

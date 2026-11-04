@@ -1,12 +1,12 @@
 {
   "voi": false,
-  "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s.",
+  "desc": "Amplify your shout into a scream using Ardour, dominating weaker foes. Victims take 12.5% more damage and 50% more posture damage for 10s.",
   "icon": "sword",
   "name": "Ardour Scream",
   "reqs": "15s STR, 40s WLL",
   "stats": {
     "Sanity": 9,
-    "Damage": "if(ARDOUR_SCREAM, 25, 0)"
+    "Damage": "if(ARDOUR_SCREAM, 12.5, 0)"
   },
   "rarity": "Common",
   "prereqs": [
@@ -16,6 +16,6 @@
   "category": "Murmur",
   "voi_only": false,
   "roll2able": true,
-  "additional_info": "Consumes 100% of your Ether on use. Ardour Scream requires you to have a minimum of 100% Ether to be casted. Having the Soul Infusion Talent will reduce this to a minimum of 40% Ether.  Combat tags opponents hit. Notably, its damage and posture damage buffs are applied on-hit to incoming attacks rather than being a debuff that increases damage/posture damage taken, meaning Ardour Scream is affected by the damage and posture damage modifier caps. Also has a 95-Stud range (245 if Soulbreaker),",
+  "additional_info": "15 second cooldown. Consumes 100% of your Ether on use. Ardour Scream requires you to have a minimum of 100% Ether to be casted. Having the Soul Infusion Talent will reduce this to a minimum of 40% Ether. Combat tags opponents hit. Notably, its damage and posture damage buffs are applied on-hit to incoming attacks rather than being a debuff that increases damage/posture damage taken, meaning Ardour Scream is affected by the damage and posture damage modifier caps. Has a base range of 95 studs. This range can be increased by 105 studs with Soulbreaker's Soul Infusion Talent and a further 100 studs with Ascended Outlaw Mask's Destructive Yell Talent, for a combined maximum of 300 studs.",
   "count_towards_talent_total": true
 }

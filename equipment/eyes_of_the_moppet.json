@@ -1,0 +1,24 @@
+{
+  "name": "Eyes of the Moppet",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [
+    "Dark",
+    "Light"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "...",
+  "voi_only": false
+}

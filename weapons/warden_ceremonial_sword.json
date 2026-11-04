@@ -5,7 +5,7 @@
   "damage": 17,
   "posture_damage": 4,
   "range": 7.5,
-  "reqs": "50r MED",
+  "reqs": "45r MED",
   "damage_types": [
     "Slash"
   ],

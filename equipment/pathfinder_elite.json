@@ -5,11 +5,11 @@
   "rarity": "Rare",
   "set": null,
   "variants": [
+    "Sage",
     "Ash",
     "Black",
     "Crimson",
-    "Magenta",
-    "Sage"
+    "Magenta"
   ],
   "talents": [],
   "innates": {

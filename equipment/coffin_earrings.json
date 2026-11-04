@@ -1,0 +1,21 @@
+{
+  "name": "Coffin Earrings",
+  "equippable": true,
+  "type": "Earrings",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "Haha... I'm dead.",
+  "voi_only": false
+}

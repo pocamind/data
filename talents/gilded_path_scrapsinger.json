@@ -11,7 +11,8 @@
   "voi": false,
   "desc": "Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.",
   "exclusive": [
-    "Needleblade"
+    "Needleblade",
+    "Composite Path: Alloyblood"
   ],
   "voi_only": false
 }

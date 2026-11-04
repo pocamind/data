@@ -1,0 +1,28 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Ferryman's Coat Cloth": 1,
+    "Storm Enchant Stone": 1,
+    "Stormbreaker Enchant Stone": 1
+  },
+  "name": "Familiar Sage's Armor",
+  "reqs": "240r TTL",
+  "notes": 5000,
+  "talents": [
+    "Lightning Drop"
+  ],
+  "category": "Unique",
+  "durability": 2750,
+  "resistances": {
+    "Physical Resistance": 25,
+    "Elemental Resistance": 25,
+    "Thunder Resistance": 10
+  },
+  "extra_percents": {
+    "Ether Regen": 50,
+    "Extra Stealth": 0
+  },
+  "desc": "You hear them from a mile away...",
+  "voi_only": false
+}

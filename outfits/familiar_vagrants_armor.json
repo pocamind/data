@@ -1,0 +1,29 @@
+{
+  "mats": {
+    "Cloth": 5,
+    "Fiber": 5,
+    "Wind Gem": 1,
+    "Odd Tentacle": 5,
+    "Blazing Enchant Stone": 1,
+    "Worn Cog": 1
+  },
+  "name": "Familiar Vagrant's Armor",
+  "reqs": "240r TTL",
+  "notes": 5000,
+  "talents": [
+    "Grapple"
+  ],
+  "category": "Unique",
+  "durability": 2500,
+  "resistances": {
+    "Physical Resistance": 20,
+    "Elemental Resistance": 30,
+    "Flame Resistance": 10
+  },
+  "extra_percents": {
+    "Ether Regen": 25,
+    "Extra Stealth": 0
+  },
+  "desc": "Once belonged to a chair.",
+  "voi_only": false
+}

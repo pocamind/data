@@ -1,0 +1,24 @@
+{
+  "name": "Rising Plasma",
+  "attributes": [
+    "Bloodrend",
+    "Ironsing"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": 20,
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "voi": false,
+  "desc": "Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with.",
+  "related_talents": [
+    "Hypoferritinemia",
+    "Plasma Signal",
+    "Ultrafiltration"
+  ],
+  "voi_only": false
+}

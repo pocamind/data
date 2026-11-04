@@ -3,8 +3,8 @@
     "Cloth": 5,
     "Fiber": 5
   },
-  "name": "Hired Knife Armor",
-  "reqs": "()",
+  "name": "Hidden Knife Armor",
+  "reqs": "240r TTL",
   "prereqs": [
     "talent:rogue_assassin"
   ],

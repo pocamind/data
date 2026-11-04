@@ -3,12 +3,12 @@
   "category": "Tactician",
   "rarity": "Common",
   "reqs": "20s INT",
-  "additional_info": "Applies Daze for 1 second.",
+  "additional_info": "Applies Daze for 3 seconds.",
   "count_towards_talent_total": true,
   "icon": "brain",
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Hitting your opponent during a feint will cause them to be Dazed.",
+  "desc": "Hitting your opponent during a feint will cause them to be Dazed for 3 seconds.",
   "voi_only": false
 }

@@ -3,12 +3,12 @@
   "category": "Tactician",
   "rarity": "Rare",
   "reqs": "20s HVY",
-  "additional_info": "If you M1 your opponent during their M1 animation, they will be dazed for 1 second. Also procs if you land a critical with the M1 tag during their M1 animation.",
+  "additional_info": "If you M1 your opponent during their M1 animation, they will be dazed for 3 seconds. Also procs if you land a critical with the M1 tag during their M1 animation.",
   "count_towards_talent_total": true,
   "icon": "greatsword",
   "roll2able": false,
   "vaulted": false,
   "voi": true,
-  "desc": "[Heavy Weapons] Daze opponents for 1s and Stagger PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.",
+  "desc": "[Heavy Weapons] Daze opponents for 3s and Stagger PvE enemies for 2s when you interrupt their Basic Attack / actions with your own.",
   "voi_only": false
 }

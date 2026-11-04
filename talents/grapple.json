@@ -1,0 +1,17 @@
+{
+  "name": "Grapple",
+  "category": "Outfit",
+  "rarity": "Outfit",
+  "reqs": "()",
+  "prereqs": [
+    "outfit:familiar_vagrants_armor"
+  ],
+  "additional_info": "Requires Familiar Prosthetic Arm to use. Upon using the provided tool, grapple to your cursor location and pull yourself towards it at high speeds. If your cursor is hovering over a player or NPC on use, pull them towards you as well, similarly to the Lord's Slice Mantra.",
+  "count_towards_talent_total": false,
+  "icon": "grip",
+  "roll2able": false,
+  "vaulted": false,
+  "voi": false,
+  "desc": "Aim your mouse and shoot a grapple from your metal arm to your target and pull yourself towards it.",
+  "voi_only": false
+}

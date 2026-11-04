@@ -5,17 +5,17 @@
   "rarity": "Mythical",
   "set": null,
   "variants": [
+    "White",
     "Amber",
     "Black",
-    "Lavendar",
-    "White"
+    "Lavender"
   ],
   "talents": [],
   "innates": {},
   "pips": {
     "Legendary": 2
   },
-  "reqs": "120r TTL",
+  "reqs": "90r TTL",
   "voi": false,
   "desc": "Merriment, gaiety and fun!",
   "voi_only": false

@@ -1,0 +1,16 @@
+{
+  "voi": false,
+  "desc": "Your axe deals more damage based on how much composite plasma your opponent has.",
+  "icon": "ironsing",
+  "name": "Composite Crusher",
+  "reqs": "()",
+  "rarity": "Weapon",
+  "prereqs": [
+    "weapon:alloyblood_axe"
+  ],
+  "vaulted": false,
+  "category": "Weapon",
+  "voi_only": false,
+  "roll2able": false,
+  "count_towards_talent_total": false
+}

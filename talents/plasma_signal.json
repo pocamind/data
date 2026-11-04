@@ -1,0 +1,24 @@
+{
+  "voi": false,
+  "desc": "Your opponent now signals a noise and are highlighted when they have enough plasma for you to cast your Rising Plasma mantra. Raise your opponent's plasma by 10% when this happens.",
+  "icon": "ironsing",
+  "name": "Plasma Signal",
+  "reqs": "55s BLD, 55s MTL",
+  "stats": {},
+  "rarity": "Common",
+  "effects": {},
+  "prereqs": [
+    "talent:composite_path_alloyblood"
+  ],
+  "vaulted": false,
+  "category": "Alloyblood",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": true,
+  "internal_note": "",
+  "additional_info": "",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": true
+}

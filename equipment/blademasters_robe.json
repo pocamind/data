@@ -5,14 +5,14 @@
   "rarity": "Legendary",
   "set": "Blademaster",
   "variants": [
-    "Dark (Ronin)",
-    "Dark (Saint)",
-    "Light (Ronin)",
-    "Light (Saint)",
-    "Red (Ronin)",
-    "Red (Saint)",
-    "Seafoam (Ronin)",
-    "Seafoam (Saint)"
+    "Light Ronin",
+    "Dark Ronin",
+    "Dark Saint",
+    "Light Saint",
+    "Red Ronin",
+    "Red Saint",
+    "Seafoam Ronin",
+    "Seafoam Saint"
   ],
   "talents": [
     "Swift Blade"

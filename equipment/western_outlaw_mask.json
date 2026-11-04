@@ -5,9 +5,9 @@
   "rarity": "Common",
   "set": "Western Outlaw",
   "variants": [
+    "Valley",
     "Mountain",
-    "Tundra",
-    "Valley"
+    "Tundra"
   ],
   "talents": [],
   "innates": {},

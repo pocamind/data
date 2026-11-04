@@ -5,11 +5,11 @@
   "rarity": "Rare",
   "set": "Etrean Siege",
   "variants": [
+    "Steel",
     "Anaconda",
     "Cobra",
     "Mamba",
-    "Psammophis",
-    "Steel"
+    "Psammophis"
   ],
   "talents": [],
   "innates": {

@@ -1,0 +1,19 @@
+{
+  "mats": {},
+  "name": "Hero's Regalia",
+  "reqs": "240r TTL, 45r FLM",
+  "notes": 0,
+  "talents": [],
+  "category": "Unique",
+  "durability": 3000,
+  "resistances": {
+    "Physical Resistance": 15,
+    "Elemental Resistance": 35
+  },
+  "extra_percents": {
+    "Ether Regen": 75,
+    "Extra Stealth": 0
+  },
+  "desc": "...",
+  "voi_only": true
+}

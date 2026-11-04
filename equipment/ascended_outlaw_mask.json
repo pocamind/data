@@ -5,9 +5,9 @@
   "rarity": "Common",
   "set": "Ascended Outlaw",
   "variants": [
+    "Valley",
     "Mountain",
-    "Tundra",
-    "Valley"
+    "Tundra"
   ],
   "talents": [
     "Destructive Yell"

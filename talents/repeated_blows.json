@@ -6,7 +6,7 @@
   "prereqs": [
     "equipment:reinforced_war_boots"
   ],
-  "additional_info": "This has no cooldown, theoretically allowing you to infinitely reset the cooldown of your Strength Mantras.",
+  "additional_info": "Wrath Gems are active for 9 seconds with no visual indication. This Talent has a 1 second cooldown to prevent chain combos.",
   "count_towards_talent_total": false,
   "icon": "fist",
   "roll2able": false,

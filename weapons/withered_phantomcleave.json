@@ -2,8 +2,8 @@
   "name": "Withered Phantomcleave",
   "type": "Sword",
   "rarity": "Legendary",
-  "damage": 17.5,
-  "posture_damage": 5,
+  "damage": 18,
+  "posture_damage": 3,
   "range": 8,
   "reqs": "100r MED",
   "damage_types": [
@@ -11,12 +11,13 @@
   ],
   "range_type": "Sweep",
   "attack_duration": 0.6,
-  "swing_speed": 1,
+  "swing_speed": 1.03,
   "scaling": {
+    "Agility": 2,
     "Medium Weapon": 7
   },
-  "chip_damage": 0.1,
-  "penetration": 0.1,
+  "chip_damage": 0.25,
+  "penetration": 0.05,
   "enchantable": false,
   "equip_motifs": false,
   "voi": false,

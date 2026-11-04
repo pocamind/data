@@ -1,0 +1,19 @@
+{
+  "name": "Cauterize",
+  "attributes": [
+    "Bloodrend",
+    "Flamecharm"
+  ],
+  "category": "Combat",
+  "type": "Normal",
+  "stars": 0,
+  "vaulted": false,
+  "reqs": "()",
+  "ether_cost": 60,
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "voi": false,
+  "desc": "Lunge and grab your foe. Their Black Blood is ignited if they have it, and inflicted if they don't.",
+  "voi_only": false
+}

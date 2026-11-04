@@ -1,0 +1,26 @@
+{
+  "name": "Stitched Effigy",
+  "equippable": true,
+  "type": "Face",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [
+    "Stitched Effigy",
+    "Cold",
+    "Hollow",
+    "Warm"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "It's just a flesh wound!...",
+  "voi_only": false
+}

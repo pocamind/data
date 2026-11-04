@@ -7,7 +7,7 @@
     "Murmur: Ardour",
     "Murmur: Tacet"
   ],
-  "additional_info": "Pings all nearby Monsters, NPCÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s, and Players, through walls while gray-scaling your screen. Red = Low Health, Yellow = Moderate Health, Grey = Healthy.",
+  "additional_info": "Pings the location of all nearby Monsters, NPC's, and Players, even through walls, with a colored circle. Also gray-scales your screen while active. The color indicates the health range of the target: Red = ≤33%, Yellow = 34% to 66%, Grey = ≥67%. The color display is disabled on players with Not a Scratch, always displaying grey regardless of their health amount. Rhythm will end early if you stand up (without Soulbreaker's Heart Reverb Talent) or take damage.",
   "count_towards_talent_total": false,
   "icon": "eye",
   "roll2able": false,

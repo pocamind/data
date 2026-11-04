@@ -1,0 +1,26 @@
+{
+  "name": "Pilferer's Trophy",
+  "equippable": true,
+  "type": "Torso",
+  "rarity": "Hallowtide",
+  "set": null,
+  "variants": [
+    "Bounty",
+    "Drowned",
+    "Mausoleum"
+  ],
+  "talents": [],
+  "innates": {
+    "Health": {
+      "value": 1,
+      "percentage": false
+    }
+  },
+  "pips": {},
+  "reqs": "()",
+  "voi": false,
+  "wiki": "Only obtainable through Goodie Bags.",
+  "desc": "...",
+  "voi_only": false,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: desc"
+}

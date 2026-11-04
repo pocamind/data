@@ -7,6 +7,7 @@
     "origin:justicar",
     "talent:justicars_mark"
   ],
+  "additional_info": "Heals 2% with a critical attack, 5% if it's the Jus Karita critical attack.",
   "count_towards_talent_total": false,
   "icon": "bloodrend",
   "roll2able": false,

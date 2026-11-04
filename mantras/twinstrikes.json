@@ -8,12 +8,12 @@
   "type": "Normal",
   "stars": 0,
   "vaulted": false,
-  "reqs": "40r AGL, 60r STR",
+  "reqs": "60r AGL, 40r STR",
   "ether_cost": 50,
   "related_talents": [
     "Expeditionary Evasiveness"
   ],
-  "miscellaneous": "Only levels off Agility. Does not have investment scaling.",
+  "miscellaneous": "Only levels off Agility. The damage scales with Agility.",
   "voi": false,
   "desc": "Launch quick and devastating kicks.",
   "voi_only": false

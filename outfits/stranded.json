@@ -8,8 +8,10 @@
   "notes": 0,
   "talents": [],
   "category": "Starter",
-  "durability": 0,
-  "resistances": {},
+  "durability": 250,
+  "resistances": {
+    "Physical Resistance": 2
+  },
   "extra_percents": {
     "Ether Regen": 0,
     "Extra Stealth": 0
