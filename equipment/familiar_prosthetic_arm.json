@@ -18,8 +18,11 @@
       "percentage": false
     }
   },
-  "pips": {},
-  "reqs": "()",
+  "pips": {
+    "Rare": 1,
+    "Legendary": 1
+  },
+  "reqs": "135r TTL",
   "voi": false,
   "wiki": "Only obtainable through Goodie Bags or from The Harvestman.",
   "desc": "...",

@@ -9,17 +9,16 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "()",
-  "ether_cost": null,
+  "ether_cost": 20,
   "prereqs": [
     "talent:composite_path_alloyblood"
   ],
   "voi": false,
-  "desc": "",
+  "desc": "Harvest the composite plasma in your opponent's blood and summon a greataxe to slash upwards with.",
   "related_talents": [
     "Hypoferritinemia",
     "Plasma Signal",
     "Ultrafiltration"
   ],
-  "voi_only": false,
-  "internal_note": "PLACEHOLDERS/UNKNOWN: category stars reqs desc ether_cost"
+  "voi_only": false
 }

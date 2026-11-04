@@ -3,12 +3,12 @@
   "category": "Shock Therapy",
   "rarity": "Common",
   "reqs": "90s LTN, 90r LHT OR 90r MED OR 90r HVY",
-  "additional_info": "10 second cooldown. Procs on lightning strikes caused from Scorched Peak, Fulgurite Formation, the Specialist Set equipment Talents, and Storm/Stormbreaker enchantments during the rain.",
+  "additional_info": "10 second cooldown. Procs on lightning strikes caused from Scorched Peak, Fulgurite Formation, the Specialist Set equipment Talents, Storm/Stormbreaker enchantments during the rain, and the random lightning strikes from the Stormbreaker Enchantment.",
   "count_towards_talent_total": true,
   "icon": "thundercall",
   "roll2able": true,
   "vaulted": false,
   "voi": false,
-  "desc": "Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.",
+  "desc": "Your lightning strikes now apply Grounded, uppercutting an opponent with this effect will strike them with a bolt of non-grounding lightning.",
   "voi_only": false
 }

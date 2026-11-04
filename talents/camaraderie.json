@@ -12,6 +12,6 @@
   "roll2able": false,
   "vaulted": false,
   "voi": false,
-  "desc": "Landing a critical attack reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. [1 sec CD]",
+  "desc": "Landing a critical attack, uppercut or flourish reduce your allies' mantra cooldowns by 5 seconds and heals them 1%. [5 sec CD]",
   "voi_only": false
 }

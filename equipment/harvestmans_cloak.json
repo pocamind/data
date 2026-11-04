@@ -15,10 +15,9 @@
     }
   },
   "pips": {},
-  "reqs": "()",
+  "reqs": "165r TTL",
   "voi": false,
   "wiki": "Only obtainable from The Harvestman.",
-  "desc": "...",
-  "voi_only": false,
-  "internal_note": "PLACEHOLDERS/UNKNOWN: reqs"
+  "desc": "According to the various folk beliefs of Lumen, to ensure a successful harvest, a farmer must offer their prayer to an effigy of the Harvestman. Made from dried straws of Ichorgrass, it is said that on rare occasion, these effigies can come to life - a true blessing from the Harvestman himself.",
+  "voi_only": false
 }

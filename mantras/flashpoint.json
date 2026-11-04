@@ -9,12 +9,12 @@
   "stars": 0,
   "vaulted": false,
   "reqs": "()",
-  "ether_cost": null,
+  "ether_cost": 60,
   "prereqs": [
     "talent:exotherm_path_sanguine_blaze"
   ],
   "voi": false,
-  "desc": "",
+  "desc": "Apply blood then quickly ignite it.",
   "voi_only": false,
-  "internal_note": "PLACEHOLDERS/UNKNOWN: category stars reqs desc ether_cost prereqs"
+  "internal_note": "PLACEHOLDERS/UNKNOWN: name"
 }
