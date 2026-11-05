@@ -1,0 +1,20 @@
+{
+  "voi": false,
+  "desc": "Apply blood then quickly ignite it.",
+  "name": "Flashfusion",
+  "reqs": "()",
+  "type": "Normal",
+  "stars": 0,
+  "prereqs": [
+    "talent:exotherm_path_sanguine_blaze"
+  ],
+  "vaulted": false,
+  "category": "Combat",
+  "voi_only": false,
+  "attributes": [
+    "Bloodrend",
+    "Flamecharm"
+  ],
+  "ether_cost": 60,
+  "internal_note": "PLACEHOLDERS/UNKNOWN: name"
+}
