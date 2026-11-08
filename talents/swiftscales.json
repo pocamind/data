@@ -1,0 +1,22 @@
+{
+  "voi": false,
+  "desc": "Fang and Coil's base critical gains a small buff to its speed, range and endlag.",
+  "icon": "fist",
+  "name": "Swiftscales",
+  "reqs": "",
+  "stats": {},
+  "rarity": "Weapon",
+  "effects": {},
+  "prereqs": [],
+  "vaulted": false,
+  "category": "Weapon",
+  "implicit": false,
+  "voi_only": false,
+  "exclusive": [],
+  "roll2able": false,
+  "internal_note": "",
+  "additional_info": "The Switftscales Talent improves the base Fang and Coil critical attack, with a reduced windup and endlag, and increased range. The increased range is telegraphed by a green version of the Fang and Coil critical attack VFX.",
+  "immediate_grants": [],
+  "multiplicative_percents": {},
+  "count_towards_talent_total": false
+}
