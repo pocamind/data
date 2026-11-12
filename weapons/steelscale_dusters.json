@@ -1,0 +1,35 @@
+{
+  "voi": false,
+  "desc": "Lightweight knuckle dusters forged by the smiths of the Blade Temple. Those who earn their place as a Jade Vigil are granted the right to don their beads and clad their fists in steel.",
+  "name": "Steelscale Dusters",
+  "reqs": "55r LHT",
+  "type": "Fist",
+  "range": 6,
+  "damage": 14,
+  "endlag": 0,
+  "rarity": "Rare",
+  "prereqs": [],
+  "scaling": {
+    "Light Weapon": 10
+  },
+  "talents": [
+    "Swiftscales"
+  ],
+  "voi_only": false,
+  "range_type": "Sweep",
+  "can_offhand": false,
+  "chip_damage": 0,
+  "enchantable": true,
+  "penetration": 20,
+  "posture_max": 0,
+  "swing_speed": 1.12,
+  "bleed_damage": 0,
+  "damage_types": [
+    "Blunt"
+  ],
+  "equip_motifs": false,
+  "only_offhand": false,
+  "posture_damage": 4.5,
+  "attack_duration": 0.5,
+  "posture_restoration": 0
+}
